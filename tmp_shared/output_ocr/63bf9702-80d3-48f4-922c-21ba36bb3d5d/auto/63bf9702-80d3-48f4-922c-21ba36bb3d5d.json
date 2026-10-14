@@ -1,0 +1,657 @@
+[
+    {
+        "type": "text",
+        "text": "Counterselection of GATC Sequences in Enterobacteriophages by the Components of the Methyl-Directed Mismatch Repair System ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            210,
+            812,
+            253
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Patrick Deschavanne and Miroslav Radman ",
+        "bbox": [
+            55,
+            285,
+            429,
+            301
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Mutagénèse, Institut J. Monod, 2 place Jussieu, 75251 Paris Cedex 05, France ",
+        "bbox": [
+            57,
+            320,
+            685,
+            333
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. Weak to severe deficit of GATC sequences in the DNA of enterobacteriophages appears to be correlated with their undermethylation during growth in dam+ (GATC ade-methylase) bacteria. This observation is corroborated by the sequence analysis showing no evidence for site-specific mutagenicity of 6meAde. The MutH protein of the methyl-directed mismatch repair system recognizes and cleaves the undermethylated GATC sequences in the course of mismatch repair. To enquire whether the MutH function of the methyldirected mismatch repair system participates in counterselection of GATC sequences in enterobacteriophages, we have studied the yield of bacteriophage ΦX174 containing either 0, 1, or 2 GATC sequences, in wild type, dam, and mut $( H , L , S , U )$ Escherichia coli. Following transfection with unmethylated DNA containing two GATC sequences, a net decrease in the yield of infective particles was observed in all bacterial mutH\\* dam\" strains, whereas no detectable decrease was observed in bacteria infected by DNA without GATC sequence. This effect of the MutH function is maximum in wild type and mutL and mutS bacteria whereas the effect is not significant in mut $\\boldsymbol { U }$ bacteria, suggesting an interaction of the helicase II with the MutH protein. ",
+        "bbox": [
+            55,
+            372,
+            481,
+            803
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, in dam+ bacteria, the presence of GATC sequences leads to an increased yield of infective particles. The effect of GATC sequence and its Dam methylation system on phage yield in mutHbacteria reveals that methylated GATC sequences are advantageous to the phage. These results suggest that the methyl-directed mismatch repair system, and in particular its MutH protein, may have participated in severe counterselection of GATC sequences from enterobacteriophages, presumably by DNA cleavage or by interfering with DNA replication or packaging when GATC sequences are undermethylated. Coevolution of the Dam and MutH proteins could then account for the loss of GATC sequences from DNA of bacteriophages growing in dam+ hosts. ",
+        "bbox": [
+            55,
+            806,
+            481,
+            949
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            372,
+            940,
+            483
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: GATC sequence - Counterselection — Mismatch repair system — Enterobacteriophages - Escherichia coli ",
+        "bbox": [
+            514,
+            500,
+            938,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            595,
+            618,
+            610
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of the incidence of diverse short DNA sequences in all available genomes or genomic fragments has so far revealed two striking sequence deficits: a nearly 10-fold deficit of CpG sequences in mammalian genomes (compared to any other dinucleotide sequence, e.g., GpC) (Cooper 1983; Cooper and Gerber-Huber 1985; Cooper and Krawczak 1989) and a mild to very severe deficit of GATC sequences in some bacteriophages having specific enterobacterial species as hosts (McClelland 1985). In the former case, the cytosine methylation appears to be responsible (Cooper 1983; Razin and Cedar 1984; Razin and Szyf 1984), as there exist regions of mammalian genomes rich in CpG sequences in which they are not methylated (Bird 1986). In addition, eukaryotic genomes devoid of cytosine methylation do not show the CpG deficit (Doerfler 1983). Where the CpG deficit is compensated by the excess of TpG and $\\mathrm { C p A }$ sequences, it is likely that either deamination of 5-methylcytosine (5-meC) to thymine or the miscopying of 5-meC by adenine causes this pronounced $\\mathbf { C p G } \\to \\mathbf { T p G }$ sequence evolution (Cooper and Gerber-Huber 1985; Cooper and Krawczak 1989; Yomo and Ohno 1989). ",
+        "bbox": [
+            514,
+            627,
+            940,
+            979
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            57,
+            48,
+            485,
+            78
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ut geloics u vauieluphages gluwig il cheiubacteria endowed with the Dam-methylase activity that methylates the adenine in the GATC sequence to 6-methyladenine (6-meA) (Barbeyron et al. 1984; McClelland 1985) and is not related to a host restriction-modification system (McClelland 1985; Sharp 1986). If, in analogy to 5-meC, 6-meA were an unstable base, i.e., chemically unstable or frequently miscopied by a nonthymine base, one would expect a deficit of GATC sequences in bacterial DNA as well and an increase in GXTC tetranucleotide sequences (where X is T, G, or C) in bacteriophages with a severe GATC deficit. For example, $\\Phi { \\bf X } 1 7 4$ single-stranded phage DNA has no GATC sequence (15 expected, see Materials and Methods section for the methods of calculation of the expected number of GATC sequences) and T7 phage has six GATC sequences (141 expected); yet we found, in agreement with McClelland (1985), no increase in GXTC sequences over other tetranucleotide sequences, suggesting that GATC sequences did not mutate away by a preferential and specific change of their modified A. Furthermore, single-stranded phages like M13 (3 GATC sequences, 17 expected) show a lower level of GATC methylation than the doublestranded phage λ (116 GATC sequences, $2 1 2 \\ \\mathrm { e x } -$ pected). The case of double-stranded phages T1, T3, and T7, which code for an inhibitor of the restriction-modification system of Escherichia coli (adenine methyltransferase in T1, S-adenosylmethionine hydrolase for T3, or the gene 0.3 product for T7) (Spoerel and Herrlich 1979; Spoerel et al. 1979; Wagner et al. 1979; Auer and Schweiger 1984; Bandyopadhyay et al. 1985; Krüger et al. 1985; Hughes et al. 1987), suggests that it is the absence rather than the presence of 6-meA in GATC sequences within dam+ bacteria that causes the loss of these sequences. To examine how unmethylated GATC sequences could be counterselected, we have considered the fact that the dam+ bacteria are also endowed with the methyl-directed mismatch repair system, components of which can recognize and cut unmethylated GATC sequences. We have examined whether these mismatch repair components are involved in counterselection of GATC sequences. The key components of the methyl-directed mismatch repair system are mismatch recognition (MutS protein), complex formation (MutL protein), helicase activity (MutU or UvrD protein), and the recognition and nicking of unmethylated GATC sequences (MutH protein) (Radman and Wagner 1986; Modrich 1989). To test for counterselection of GATC sequences in different mismatch repair and/ or adenine methylation mutants, we have used \\$X174 phage devoid of GATC sequences (Sanger et al. 1977) and derivatives carrying either one or two GATC sequences (Längle-Rouault et al. 1986, 1987). Our results indicate that the mismatch repair components, in particular mutH function, may have caused counterselection of GATC sequences in bacteriophage DNA. ",
+        "bbox": [
+            55,
+            104,
+            483,
+            978
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            48,
+            942,
+            142
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            176,
+            714,
+            192
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli Cell Strains. Table 1 gives the description of the bacterial strains used. ",
+        "bbox": [
+            516,
+            210,
+            942,
+            236
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\Phi X I 7 4$ Mutant Phage. \\$X174 Eam3 J-F ins3 carrying no GATC sequence, \\$X174 Eam3 J-F ins6 carrying 1 GATC sequence, and \\$X174 Eam3 J-F ins5 carrying 2 GATC sequences were described previously (Muller and Wells 1980; Längle-Rouault et al. 1986, 1987). We obtained am+ derivatives of these three phages by selection on $\\mathbf { \\nabla } _ { s u ^ { - } }$ bacteria HF 4704. They will be referred to throughout the text as 0 GATC, 1 GATC, and 2 GATC inserts, respectively. $\\Phi { \\bf X } 1 7 4 ~ T s$ (temperature sensitive) 116 was used as an internal O GATC control for all the experiments. ",
+        "bbox": [
+            516,
+            249,
+            942,
+            369
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA Preparation. Single-strand $\\Phi { \\bf X } 1 7 4$ DNA of diverse mutants was prepared following the method of Cunningham et al. (1980) and extracted with phenol at ${ \\bar { \\bf s } } 5 \\mathbf { \\circ } \\mathbf { C }$ (Schekman et al. 1971) from CsCl-purified phages (Radman 1976). ",
+        "bbox": [
+            514,
+            384,
+            942,
+            437
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transfection and Scoring of Infective Centers. Spheroplasts for the transfection were prepared by the lysozyme-EDTA procedure (Benzinger 1978). To increase the precision of transfection efficiency measurement and of phage titering, we used an internal standard phage DNA carrying a $\\pmb { T s }$ mutation in otherwise wild type (wt) phage. Thus the transfection was performed with a mixture of a roughly equal amount of DNA from a GATC-free $\\Phi { \\bf X } 1 7 4 ~ T s$ 116 mutant and a derivative carrying either 0, 1, or 2 GATC, at $3 2 \\%$ either for $\\pmb { 8 } \\ \\mathbf { m i n }$ (killing experiments) or $^ { 4 \\mathrm { ~ h ~ } }$ (yield experiments), the peak time for the yield was determined from the kinetics of the production of infective particles for each transfecting DNA, and the spheroplasts or the phage were plated on HF $4 7 3 3 \\ s u ^ { + }$ indicator and incubated at $3 2 \\%$ until plaques appeared. To discriminate between the $\\pmb { T s }$ mutant plaques and the plaques originating from one of the three $T s ^ { + }$ derivatives, plaques were selected and phage progeny spotted on replica plates incubated either at 32 or $\\pmb { 4 2 ^ { \\circ } } \\mathbf { C }$ . ",
+        "bbox": [
+            514,
+            453,
+            942,
+            679
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Data Analysis. The primary results for a given transfection were expressed as the $T s ^ { + } / T s$ ratio, i.e., the ratio of the number of infective centers growing at $\\pmb { 4 2 } \\pmb { \\circ } \\mathbf { C }$ (i.e., from phages containing the insert with 0, 1, or 2 GATC sequences) to the number of infective centers appearing only at $3 2 \\textdegree$ (originating from the $\\pmb { T s }$ 116 phages). In a second step this ratio was compared to that of the mutH experiment to give either the fraction of surviving phages or that of the proportion of infective phages produced by the bacteria transfected using mutH as the standard. When statistical tests were applied $( t$ -test, ANOVA, KruskalWallis, chisquare), the significance level was taken as the probability $P$ corresponding to the risk associated with the rejection of the null hypothesis. A $P$ value $< 5 \\%$ permits the conclusion, at risk $P ,$ that the compared groups are not sampled from the same population. ",
+        "bbox": [
+            512,
+            695,
+            942,
+            894
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sequence Analysis. The sequences from genes of E. coli, Bacillus subtilis, and their related bacteriophages were obtained from GenBank using Bysance analysis system from CITI 2 (Paris, France). The same software package was also used for the homology study between $\\pmb { \\cal E }$ , coli and Streptococcus sequences. To estimate the expected number of a particular tetranucleotide in a gene of a genome, we used a second-order Markov chain predictor that takes into account the observed frequency of tri- and dinucleotides (McClelland 1985; Sharp 1986; Phillips et al. $^ { 1 9 8 7 a , b ) }$ . We tested that this predictor gave a good estimation of the tetranucleotide frequency on our data set. We tested also the zero and first orders of the Markov chain analysis and confirmed that they do not apply to our set of data. This estimator of the expected number of tetranucleotides, for the GATC sequence for example, is equal to ",
+        "bbox": [
+            514,
+            910,
+            942,
+            977
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/502a45c4299d991a045ba5b090233df10bec02f560e7edfe87e84f94a5ab6235.jpg",
+        "table_caption": [
+            "Table 1. Bacterial strains used in this study "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            50,
+            69,
+            942,
+            432
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            57,
+            469,
+            485,
+            604
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c500273ea455c94ed8d69869b2a52f77615ae0a1cae1e8ad651bae85905d9278.jpg",
+        "text": "$$\n\\mathtt { p } ( \\mathbf { G A T } ) \\times \\mathtt { p } ( \\mathbf { A T C } ) / \\mathtt { p } ( \\mathbf { A T } )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            183,
+            610,
+            362,
+            626
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The use of the trinucleotide frequencies such as ${ \\mathfrak { p } } ( { \\bar { \\mathbf { G } } } \\mathbf { A T } )$ and p(ATC) removes some of the bias due to variation in di- and trinucleotide frequency and takes into account preferences in codon usage. ",
+        "bbox": [
+            57,
+            631,
+            485,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            59,
+            718,
+            120,
+            732
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GATC Sequences and the Formation of Infective Centers in Mismatch Repair Mutants ",
+        "text_level": 1,
+        "bbox": [
+            57,
+            748,
+            392,
+            797
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The data in Table 2 show that there is no significant detectable mut-dependent inactivation of unmethylated DNA in either dam+ or dam bacteria, with the possible exception of dam\\* mutL bacteria strains. In this strain we observed a slight but significant killing of the 1 GATC DNA $( P = 0 . 0 2 3 )$ and a slight protection in the same bacteria for the O GATC DNA $( P = 0 . 0 4 8 )$ . Although formally significant, the effect of MutL mutation cannot be interpreted in view of current knowledge (Modrich 1 989), therefore, at this stage, we cannot draw any conclusion based on this observation. Nevertheless, with the possible exception of 1 GATC in mutL background $( \\mathbb { S } = 0 . 9 )$ no killing could be observed in dam\" or dam+ background for unmethylated DNA whatever the number of GATC in the molecule. These results indicate that the phage DNA, with or without GATC sequences, is not inactivated as it enters bacteria and that some replication cycles are allowed (Kornberg 1980). ",
+        "bbox": [
+            59,
+            806,
+            485,
+            982
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/0b8645c90f273dd56b077bc3828ddca3b6b76b30a4e76c2301cb77e001cadb97.jpg",
+        "table_caption": [
+            "Table 2. Survival ratio, relative to mutH bacteria, of the number of infective centers obtained after transfection of different bacterial strains by unmethylated DNA of phages containing different numbers of GATC sequences "
+        ],
+        "table_footnote": [
+            "The number of infective centers analyzed is given in parentheses. The results are the mean of two to four experiments \\* Significantly different at the $5 \\%$ level from the mutH control "
+        ],
+        "bbox": [
+            511,
+            528,
+            940,
+            654
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            724,
+            940,
+            869
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GATC Sequences and the Yield of Infective Phage Particles in Different mut Strains ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            893,
+            818,
+            941
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The described killing experiments with infective center assay do not take into account the number of phage particles produced in the different test bacteria (burst size). It was previously observed that phages containing 2 GATC sequences in dam bacteria always produced a smaller yield of infective particles than the ones containing 0 or I GATC sequence (F. Längle-Rouault and G. MaenhautMichel, personal communication). The phage yield, after transfection by methylated or unmethylated DNA from the three derivative phages in the different bacteria, relative to the phage yield in mutH bacteria is given in Table 3. This phage yield takes into account only the progeny ofthe surviving phage and so is independent of the killing experiments. In a dam background, unmethylated 0 or 1 GATC DNA yield a similar number of infective phage particles (as compared to the mutH control strain) for all the strains (Table 3), although there is a nonsignificant smaller phage yield of 1 GATC phages in dam wt and dam mutL bacteria. However, the fate of 2 GATC unmethylated DNA is somewhat different: compared with the mutH strain, the yield of infective particles by this unmethylated DNA is decreased in the four bacterial strains. This decrease is significant in all bacterial strains except the dam mutU. This decrease represents about $4 0 \\%$ in the wt and mutS strains and $6 0 \\%$ in mutL. In the case of the mut $U$ bacteria the decrease in the phage yield is small, about $2 0 \\%$ , and is not significant. The situation is different for the yield of infective phages by methylated DNA in dam+ bacteria (Table 3): a decrease in the yield of infective phages was observed for 0 GATC DNA relative to a similar phage yield for the 1 and 2 GATC DNA. This result is not related to the state of methylation of DNA as similar results were obtained with unmethylated DNA (results not shown). To understand this result we tested the effect of the dam gene product by transfecting the three DNAs into mutH strains, either dam or dam+ (Table 4). A high phage yield was observed in dam+ bacteria for 1 and 2 GATC DNA as seen by the increased yield of the respective phages (however, the only significant difference is observed for 2 GATC DNA), whereas the yield was similar in dam and dam+ bacteria for the 0 GATC DNA. ",
+        "bbox": [
+            512,
+            950,
+            940,
+            981
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/78307c5f6a0bdb02d9ed42a6a99720bbf042f2b662e72b0225965d90d4c26ec7.jpg",
+        "table_caption": [
+            "Table 3. Yield of infective centers relative to mutH bacteria, after transfection of different bacterial strains with DNA (unmethylated in dam and methylated in dam+ experiments) containing different numbers of GATC sequences "
+        ],
+        "table_footnote": [
+            "The number of infective centers analyzed is given in parentheses; dam wt, dam mutU, dam mutL, dam mutS, dam\\* wt, and dam\\* mutL are all mutH+ strains \\* Significantly different at the $5 \\%$ level from the mutH control "
+        ],
+        "bbox": [
+            51,
+            112,
+            481,
+            264
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            336,
+            481,
+            970
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/7fbce4b93423044774f355d664b30bd368171114552bf3c62b4ab416b1e9b942.jpg",
+        "table_caption": [
+            "Table 4. Yield of infective centers in dam\\* mutH bacteria relative to dam mutH bacteria after transfection with unmethylated DNA containing different numbers of GATC sequences "
+        ],
+        "table_footnote": [
+            "The number of infective centers analyzed is given in parentheses \\* Significantly different at the $5 \\%$ level from the dam control "
+        ],
+        "bbox": [
+            511,
+            98,
+            938,
+            168
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            216,
+            940,
+            295
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            328,
+            603,
+            343
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Initially, we have studied the fate of the GATC sequence in enterobacteriophages. Several authors (McClelland 1985; Sharp 1986; Phillips et al. 1987a,b) have previously addressed this question but none have verified whether the methylation of the adenine leads to an increased mutability of this base, converting the GATC sequence into GXTC where X is T, G, or C. To address this specific question, we used a small set of data as the basic findings were already published (McClelland 1985; Phillips et al. 1987a,b). We used a second-order Markov chain predictor, which takes into account the observed frequency of tri- and dinucleotides (McClelland 1985; Sharp 1986; Phillips et al. 1987a,b), in order to calculate the predicted number ofa given sequence. This comparison was done on a gene-bygene basis for E. coli, B. subtilis, T3, and T4 or for complete genome for the other bacteriophages. For 16 genes of $E .$ coli we found no statistical difference (by a chi-square test) between the observed number and the expected number of GXTC sequences (Table 5). This was also found for three genes of $\\pmb { B }$ subtilis and for $B .$ subtilis phages (Table 5). These two results are in agreement with previously published results (McClelland 1985; Phillips et al. $^ { 1 9 8 7 } \\mathbf { a } , \\mathbf { b } )$ . However, in $E$ coli bacteriophages, besides the great deficit in GATC sequences already reported (McClelland 1985) (Table 5 and Fig. 1), we found a slight but significant deficit in all the derived sequences except the GTTC (which exhibits a slight increase in the observed number, which is not observed for the complementary GAAC sequence) (Table 5 and Fig. 1). Thus, the GXTC sequences seem to be counterselected in general in all bacteriophages (Table 6), supporting the hypothesis that the deficit in GATC sequence does not derive from a hypermutability of the methylated adenine in such a sequence. ",
+        "bbox": [
+            512,
+            351,
+            938,
+            970
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d78529ac8aa571977ea95f24af9c4bc233b724e4e8f8f6ef8f9e333b4e90d312.jpg",
+        "table_caption": [
+            "for 42,959 bases), bacteriophages having $E ,$ coli as host (complete genome for F1, FD, M13, ΦX174, G4, λ, T7, 11 genes from T4 having $\\pmb { B }$ subtilis as host (7 genes from sp and $\\$ 29$ accounting for 10,477 bases "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            55,
+            112,
+            942,
+            206
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The comparison was made by a chi-square test. The equal sign $( = )$ indicates no significant difference between the observed and the expected number of sequences, a single $( + )$ or $( - )$ sign indicates a significant difference at the $5 \\%$ level with an indication of whether the observed number was greater $( + )$ or lower $( - )$ than the expected number. A double sign has the same meaning as a single sign but the difference is significant at the $1 \\%$ level. GACC, GAAC, and GAGC are the complementary sequence of GGTC, GTTC, and GCTC sequences, respectively ",
+        "bbox": [
+            53,
+            210,
+            942,
+            279
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d91312afaef433fc71f5e4766096001880a4541b717a8bb598da9c76458fca33.jpg",
+        "image_caption": [
+            "Fig. 1. Comparison between the observed number and the expected number of different sequences GXTC (where $\\mathbf { x } =$ A, T, G, or C) for nine coliphages $[ \\Phi \\mathbf { X } 1 7 4 $ (1), G4 (2), M13 (3), Fd (4), F1 (5), T3 (6), T7 (7), T4 (8), λ (9). The line drawn represents identity between observed and expected values. The points above the line indicate a deficit in the sequence under consideration whereas those under the line represent an excess of observed number as compared to the expected number (see Table 6). Due to the logarithmic scale used, we cannot represent the zero number of GATC sequence observed in $\\Phi { \\bf X } 1 7 4$ and therefore we add a zero point outside the frame of the figure to represent this particular situation. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            55,
+            303,
+            633,
+            556
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have shown that transfection of mutH+ bacteria by unmethylated 2 GATC phage DNA leads to a decreased yield of infective bacteriophage particles. This could result from a decreased efficiency of DNA replication and/or packaging, or from DNA inactivation processes due to MutH function. In either case, targets for these effects would be the unmethylated GATC sequences in either single- or double-stranded DNA. The latter hypothesis could be supported by considering the known activities of the MutH protein: MutH, in conjunction with MutS and MutL, is known to cut DNA heteroduplexes containing mismatched bases at unmethylated GATC sequences (Modrich 1989), but a weak endonuclease activity of the free MutH protein [cleaving d(GATC) sequences ${ \\pmb 5 } ^ { \\prime }$ to the dG] on the unmethylated DNA strands was detected irrespective of the presence of mismatches (Welsh et al. 1987). This endonuclease activity could act, in mismatch repair, at the strand discrimination stage of mismatch correction, which involves scission of the unmethylated strand (Längle-Rouault et al. 1987; Modrich 1989). Thus, the decreased yield of infective particles containing 2 GATC sequences observed in dam mutH+ (whether mut+, mutU, mutL, or mutS) bacteria for unmethylated DNA could be due to the cleavage of this DNA by the MutH protein. In the same strains, transfection with DNA containing only one GATC sequence led to a decrease (though not significant) in the yield of infective particles (the yield of phage containing an insert with no GATC sequence is the same in dam mutH and dam mutH+ bacteria). There is a significant inverse correlation between the number of GATC sequences of the transfecting DNA and the yield of phage resulting from transfection by this DNA. In dam background, all bacteria that are defective in another protein of the mut system show a significant decrease in the yield of 2 GATC phages, except the mutU (Table 3). For dam mut U we observed a small decrease in phage yield of 2 GATC phage and no decrease at all for O and 1 GATC DNA. It is possible that there is an interaction between the MutU and MutH proteins as suggested by Radman and Wagner (1986). It was proposed that helicase II opens the double-stranded DNA Jlue to the presence of mismatch, creating single-stranded DNA, and then \"walks along\" the DNA in conjunction with MutH until a nonmethylated GATC sequence, which is then cut by MutH. This interaction would explain the small decrease in the yield observed in mutU bacteria. We do not rule out a decrease in the yield of 1 GATC phages in dam bacteria, as the yield of these phages in wt and mutL bacteria was intermediate between the 0 GATC control and the 2 GATC DNA. This observation mirrors that of mismatch repair measurement with the same three DNAs and agrees with the notion that at least one unmethylated GATC sequence is required for mismatch repair (Längle-Rouault et al. 1986, 1987; Lahue et al. 1987; Lu 1987; Welsh et al. 1987) but that 2 GATC sequences lead to a higher efficiency. ",
+        "bbox": [
+            57,
+            584,
+            485,
+            967
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            586,
+            940,
+            969
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f63c7bd910d827793a6875632243498aa6b6594bce1f77386384b406ea3430a9.jpg",
+        "table_caption": [
+            "Tabl .Observed ()and expected () number of GXTC sequences (where $\\mathbf { X } = \\mathbf { A }$ T, G, or )iiffent baiaes "
+        ],
+        "table_footnote": [
+            "a In the case of T3 and T4, the sequences of a number of their genes were pooled for this analysis "
+        ],
+        "bbox": [
+            51,
+            72,
+            940,
+            242
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            55,
+            283,
+            483,
+            506
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In dam+ bacteria, we observed no decrease in the yield for GATC-containing DNA, which is in agreement with observations that MutH protein does not interact with methylated GATC sequences (Welsh et al. 1987). However, we have observed a MutHdependent decrease in the phage yield for the DNA that does not contain any GATC sequence (Table 3). This observation could reflect an involvement of MutH, which is irrespective of GATC sequences, e.g., a binding or nuclease activity, although such an activity has not been demonstrated (Welsh et al. 1987). It cannot be excluded that 6-meAde residues provide some selective advantage to the phage DNA. It is possible also that Dam protein itself protects the DNA containing GATC sequences (Szyf et al. 1986). To test these hypotheses, we compared the phage yield from unmethylated DNA in dam mutH and dam+ mutH bacteria (Table 4): no decrease in phage yield was detected for 0 GATC DNA in dam+ as compared to dam bacteria. However, the phage yield for DNA containing 1 or 2 GATC sequences in dam+ bacteria is about $50 \\%$ higher than that observed for 0 GATC DNA (although only the result for 2 GATC DNA is significantly different from the control). This selective advantage appears to be due to the Dam protein alone as it is independent of the MutH function (Table 4). Thus, it may be that the Dam protein or its methylase activity protects DNA containing GATC from the effects of the MutH and some other unknown functions that decrease the phage yield. ",
+        "bbox": [
+            55,
+            508,
+            483,
+            973
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            283,
+            940,
+            313
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The above results could account for the counterselection of GATC sequences observed in bacteriophages specific to enterobacteria (McClelland 1985), as even small effects on phage yield can have large long-term fitness effects. It is known that the Dam methylation is delayed relative to DNA synthesis (Marinus 1976; Geier and Modrich 1979; Lyons and Schendel 1984; Szyf et al. 1984; Ogden et al. 1988) and that it never methylates all GATC sequences in either double-stranded (Dreiseikelmann et al. 1979) or single-stranded (Lu et al. 1983) phages. Thus, DNA containing unmethylated GATC sequences could be inactivated by the MutH protein, leading to a significant decrease in the yield of phages containing numerous GATC sequences, therefore providing a selective advantage for phages that lose GATC sequences (an extreme case being $\\Phi { \\bf X } 1 7 4$ , which is completely devoid of GATC). Besides this specific activity toward unmethylated GATC sequences, MutH (and perhaps some other proteins) is probably able to decrease the phage yield irrespective of GATC sequence (Table 3). However, the Dam protein itself seems to provide some selective advantage to DNA containing GATC sequences. This protection could not be complete as on the one hand there is a lag between synthesis of DNA and methylation by Dam protein, leaving GATC sequences unmethylated for a short time (Lyons and Schendel 1984; Szyf et al. 1984; Ogden et al. 1988) and on the other hand because the Dam protein is not able to complete the methylation of all GATC sequences in phage DNA (Lu et al. 1983). ",
+        "bbox": [
+            514,
+            312,
+            942,
+            829
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our results indicate that the components of the methyl-directed mismatch repair system could be responsible for the counterselection of GATC sequence in enterobacteriophages. A speculation is that the counterselection effect is formally analogous to a weak restriction system, as propositions were made by Claverys and Lacks (Claverys and Lacks 1986; Lacks 1988) that the Hex mismatch repair system and the Dpn II methylase and endonuclease of ",
+        "bbox": [
+            512,
+            830,
+            940,
+            973
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/90e69b2fb3f5cb73e674d24222c30153d386a3812dfc28c459b18321458832b9.jpg",
+        "table_caption": [
+            "Table 6. Extended "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            53,
+            73,
+            942,
+            242
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Streptococcus, on one hand, and the Mut system from $\\pmb { { \\cal E } }$ coli, on the other hand, would have a common ancestor some $1 0 ^ { 9 }$ years ago. The Dam and MutH proteins would be the counterparts of the Dpn II system of Streptococcus, whereas Hex A would be the equivalent of MutS. Indeed, there is a $3 6 \\%$ identity between Hex A and MutS and $30 \\%$ identity between Dam and Dpn II methylases (Manarelli et al. 1985) (our analysis showed two large domains conserved up to $4 0 { - } 4 5 \\%$ , results not shown), however, we found only about $2 0 \\%$ identity between MutH and Dpn II endonucleases, although they have the same substrate. The molecular weight of the monomer of Dpn II endonuclease and that ofMutH are very close, but the latter acts as a monomer (Manarelli et al. 1985). This could account for the difference in substrate for these two enzymes, Dpn II recognizing unmethylated GATC in doublestranded DNA, whereas the best substrate for MutH seems to be hemimethylated GATC in doublestranded DNA (Welsh et al. 1987) or, as we postulate here, unmethylated GATC in single-stranded DNA. The involvement of Dam methylation in the methyl-directed mismatch repair of $E$ coli suggests a coevolution of the Dam and MutH functions. In dam bacteria the methyl-directed mismatch repair system would act by cutting DNA at GATC sequence, thus inactivating phages and leading to a lower yield of phages containing numerous GATC sequences (other means of interfering with phage yield is not excluded as discussed). In dam+ bacteria the counterselection mechanism could be the same except that the number of unmethylated GATC sequences is smaller and therefore the selective process would take a longer time to lead to a significant decrease in the number of GATC sequences in a given genome. The coevolution of the MutH and Dam functions could account for the puzzling observations that the counterselection of GATC sequences correlates with their undermethylation in dam+ mutH+ bacteria. ",
+        "bbox": [
+            55,
+            272,
+            483,
+            946
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments. We thank C. Dohet for her help in initial stages of this work, G. Maenhaut-Michel and P. Caillet-Fauquet for strains, and J. Filipski and R. D'Ari for comments on the manuscript. This work was supported by C.N.R.S. and by contract No. BI6-E-154F from European Communities. ",
+        "bbox": [
+            57,
+            947,
+            483,
+            974
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            284,
+            938,
+            324
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            355,
+            607,
+            369
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Auer B, Schweiger M (1984) Evidence that Escherichia coli virus T1 induces a DNA methyltransferase. J Virol 49:588- 590   \nBandyopadhyay PK, Studier FW, Hamilton DL, Yuan R (1985) Inhibition of the type I restriction-modification enzymes ECOB and EcoiK by the gene 0.3 protein of bacteriophage T7. J Mol Biol 182:567-578   \nBarbeyron T, Kean K, Forterre P (1984) DNA adenine methylation of GATC sequences appeared recently in the Escherichia coli lineage. J Bacteriol 160:586590   \nBenzinger R(1978)Transfection of Enterobacteriaceae and its applications. Microbiol Rev 42:194236   \nBird A (1986)CpG-rich islands and the function ofDNA methylation. Nature 321:209213   \nCaillet-Fauquet P, Maenhaut-Michel G, Radman M (1984) SOS mutator effect in E. coli mutants deficient in mismatch correction. EMBO J 3:707712   \nClaverys JP, Lacks SA (1986) Heteroduplex deoxyribonucleic acid base mismatch repair in bacteria. Microbiol Rev 50:133 165   \nCooper DN (1983Eukaryotic DNA methylation. Hum Genet 64:315333   \nCooper DN, Gerber-Huber S (1985) DNA methylation and CpG suppression. Cell Diff 17:199-205   \nCooper DN, Krawczak M (1989) Cytosine methylation and the fate of CpG dinucleotides in vertebrate genomes. Hum Genet 83:181-188   \nCunningham RP, Dasgupta C, Shibata T, Radding CM (1980) Homologous pairing in genetic recombination: recA protein makes joint molecules of gapped circular DNA and closed circular DNA. Cell 20:223235   \nDoerfler W (1983) DNA methylation and gene activity. Annu Rev Biochem 52:93124   \nDreiseikelmann B, Eichenlaub R, Wackernagel W (1979) The effect of differential methylation by Escherichia coli of plasmid DNA and phage T7 and λ DNA on the cleavage by restriction endonuclease MboI from Moraxella bovis. Biochim Biophys Acta 562:418428   \nGeier GE, Modrich P (1979) Recognition sequence of the dam methylase of Escherichia coli K12 and mode of cleavage of DpnI endonuclease. J Biql Chem 254:14081413   \nGlickman BW, Radman M (1980) Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc Natl Acad Sci USA 77:10631067   \nrugnes JA, browI LK, reITo A (1yo 1) Expression ol te cloned coliphage T3 S-adenosylmethionine hydrolase gene inhibits DNA methylation and polyamine biosynthesis in Escherichia coli. J Bacteriol 169:36253632   \nKornberg A (1980) DNA replication. WH Freeman, San Francisco   \nKrüger DH, Shroeder C, Reuter M, Bogdarina IG, Buryanov YI, Bickle TA (1985) DNA methylation of bacterial viruses T3 and T7 by different DNA methylases in Escherichia coli K12 cells. Eur J Biochem 150:323330   \nLacks SA (1988) Discussion summary: mismatch repair of DNA. In: Friedberg EC, Hanawalt PC (eds) Mechanisms and consequences of DNA damage processing. Liss, New York, pp 391-395   \nLahue RS, Su SS, Modrich P (1987) Requirement for d(GATC) sequences in Escherichia coli mutHLS mismatch correction. Proc Natl Acad Sci USA 84:1482-1486   \nLängle-Rouault F, Maenhaut-Michel G, Radman M (1987) GATC sequences, DNA nicks and the mutH function in Escherichia coli mismatch repair. EMBO J 6:11211127   \nLängle-Rouault F, Maenhaut-Michel G, Radman M (1986) GATC sequence and mismatch repair in Escherichia coli. EMBO J 5:2009-2013   \nLindqvist BH, Sinsheimer RL (1967) Process of infection with bacteriophage ΦX174. XIV. Studies on macromolecular synthesis during infection with a lysis-deficient mutant. J Mol Biol 28:87-94   \nLu AL (1987) Influence of GATC sequences on Escherichia coli DNA mismatch repair in vitro. J Bacteriol 169:1254 1259   \nLu AL, Clark S, Modrich P (1983) Methyl-directed repair of DNA base-pair mismatches in vitro. Proc Natl Acad Sci USA 80:46394643   \nLyons SM, Schendel PF (1984) Kinetics ofmethylation in Escherichia coli K-12. J Bacteriol 159:421-423   \nManarelli BM, Balganesh TS, Greenberg B, Springhorn SS, Lacks SA (1985) Nucleotide sequence of the Dpn II DNA methylase gene of Streptococcus pneumoniae and its relationship to the dam gene of Escherichia coli. Proc Natl Acad Sci USA 82:44684472   \nMarinus MG (1973) Location of DNA methylation genes on the Escherichia coli K-12 genetic map. Mol Gen Genet 127: 47-55   \nMarinus MG (1976) Adenine methylation of ogazaki fragments in Escherichia coli. J Bacteriol 128:853854   \nMarinus MG, Carraway M, Frey AZ, Brown $\\mathbf { L } ,$ Artaj JA (1983) Insertion mutations in the dam gene of Escherichia coli K-12. Mol Gen Genet 192:288289   \nMcClelland M (1985) Selection against dam methylation sites in the genomes of DNA of enterobacteriophages. J Mol Evol 21:317322   \nModrich P (1989) Methyl-directed DNA mismatch correction. J Biol Chem 264:65976600   \nMuller UR, Wells RD (1980) Intercistronic regions in X174 DNA. II Biochemical and biological analysis of mutants with altered intercistronic regions between genes J and F. J Mol Biol 141:2541   \nOgden GB, Pratt MJ, Schaechter M (1988) The replicative orwhen hemimethylated. Cell 54:127135   \nPhillips GJ, Arnold J, Ivarie R (1987a) Mono- through hexanucleotide composition of the Escherichia coli genome: a Markov chain analysis. Nucleic Acids Res 15:26112626   \nPhillips GJ, Arold J, Ivare R(1987bThe efect of codon usage on the oligonucleotide composition of the E. coli genome and identification of over- and underrepresented sequences by Markov chain analysis. Nucleic Acids Res 15: 26272638   \nRadman M (1976) An endonuclease from Escherichia coli that induces single polynucleotidechain scissions inultravileirradiated DNA. J Biol Chem 251:14381445   \nRadman M, Wagner R (1986) Mismatch repair in Escherichia coli. Annu Rev Genet 20:523538   \nRazin A, Cedar H (1984) DNA methylation in eukaryotic cells. Int Rev Cytol 92:159-185   \nRazin A, Szyf M (1984) DNA methylation patterns: formation and function. Biochim Biophys Acta 782:331342   \nSanger F, Air GM, Barrell BG, Brown NL, Coulson AR, Fiddes JC, Hutchison CA III, Slocombe PM, Smith M (1977) Nucleotide sequence of bacteriophage ΦX174 DNA. Nature 265: 687695   \nSharp PM (1986) Molecular evolution of bacteriophages: evidence o selection against the recognition sites of host restriction enzymes. Mol Biol Evol 3:7583   \nSchekman RW, Iwaya M, Bromstrup K, Denhardt DT (1971) The mechanism of replication of ΦX174 single-strand DNA. III. An enzymic study of the structure of the replicative form II DNA. J Mol Biol 57:177199   \nSpoerel N, Herrlich P (1979)Colivirus-T3-coded S-adenosylmethionine hydrolase. Eur J Biochem 95:227-233   \nSperel N, Herrlich P, Bickle TA(1979A novel bacteriophage defense mechanism: the anti-restriction protein. Nature 278: 30-34   \nSzyf M, Avraham-Haetzni K, Reifman A, Shlomai J, Kaplan F, Oppenheim A, Razin A (1984) DNA methylation pattern is determined by the intracelular level of the methylase. Proc Natl Acad Sci USA 81:32783282   \nSzyf M, Meisels E, Razin A (1986) Biological role of DNA methylation: sequence-specific single-strand breaks associated with hypomethylation of GATC sites in Escherichia coli DNA. J Bacteriol 168: 14871490   \nVaccaro KK, Siegel EC (1977) The frameshift mutability of PolA 1 and recA I derivatives of mutator strains of Escherichia coli. Mutat Res 42:443446   \nWagner EF, Auer B, Schweiger M (1979) Development of Escherichia coli virus T1: escape from host restriction. J Virol 29: 12291231   \nWelsh KM, Lu AL, Clark S, Modrich P (1987) Isolation and characterization of the Escherichia coli mutH gene product. J Biol Chem 262:1562415629   \nYomo T, Ohno S (1989) Concordant evolution of coding and noncoding regions of DNA made possible by the universal rule TA/CG deficiency-TG/CT excess. Proc Natl Acad Sci USA 86:84528456 ",
+        "bbox": [
+            512,
+            373,
+            942,
+            974
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            51,
+            61,
+            483,
+            833
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            69,
+            942,
+            807
+        ],
+        "page_idx": 7
+    }
+]

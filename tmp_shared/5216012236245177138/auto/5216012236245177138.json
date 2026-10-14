@@ -1,0 +1,941 @@
+[
+    {
+        "type": "text",
+        "text": "La hectárea o hectómetro cuadrado (del prefijo francés hecto-, y este de la alteración del griego ἑκατόν [hekatón], que significa ‘cien’)1 es una medida de superficie equivalente a 100 áreas2 o 10 000 m² (metros cuadrados). Es la superficie que ocupa un cuadrado de 100 metros de lado. ",
+        "bbox": [
+            70,
+            140,
+            591,
+            236
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El símbolo de hectárea es ha,3 y el de hectómetro cuadrado es $\\mathbf { h m } ^ { 2 }$ . Estos, al ser símbolos de unidades, nunca deben llevar punto (a menos que la puntuación corresponda al final de una frase). Al contrario de lo que pueda parecer por el número de veces que aparecen escritos con mayúscula inicial, estos símbolos tampoco deben escribirse de esta forma, tal y como sucede con la totalidad de los símbolos con el prefijo hecto-. ",
+        "bbox": [
+            70,
+            251,
+            591,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d41bf935bc1312fcbb594d7ddac9aca9f180f3c3c6c9e0b0a314eea273ae87d0.jpg",
+        "image_caption": [
+            "Representación de una hectárea. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            618,
+            146,
+            926,
+            389
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Descripción ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            420,
+            225,
+            445
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La hectárea,5 aunque no es una unidad del Sistema Internacional de Unidades, es la única unidad con nombre de área que está aceptada para su uso con unidades SI.6 El nombre fue acuñado en francés, del latín ārea.7 En la práctica, la hectárea se deriva completamente del SI, y que equivale a un hectómetro cuadrado. Se utiliza ampliamente en todo el mundo para medir grandes áreas de tierra,8 y es la unidad de medida legal en los dominios relacionados con la propiedad, la planificación y la gestión de la tierra, incluida la ley (títulos de propiedad), agricultura, silvicultura y urbanismo en toda la Unión Europea9 y Australia (desde 1970).10 11 Sin embargo, el Reino Unido,12 Estados Unidos, Birmania,13 14 y, hasta cierto punto, Canadá utilizan el acre en su lugar. ",
+        "bbox": [
+            70,
+            459,
+            578,
+            733
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d19452828ec1fae6625011446ff26664879943a41b1e34decf8e6b239bb8b14.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            469,
+            924,
+            617
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Trafalgar Square en Londres, tiene una superficie de aproximadamente una hectárea.4 ",
+        "bbox": [
+            608,
+            622,
+            905,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Algunos países que experimentaron una conversión general de medidas tradicionales a medidas métricas (por ejemplo, Canadá) requirieron una nueva encuesta cuando las unidades de medida en las descripciones legales relacionadas con la tierra se convirtieron a unidades métricas. Otros, como Sudáfrica, publicaron factores de conversión que debían utilizarse especialmente \"al preparar diagramas de consolidación por compilación\".15 ",
+        "bbox": [
+            70,
+            749,
+            931,
+            844
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En muchos países, la metrificación redefinió o clarificó las medidas existentes en términos de unidades métricas. Las siguientes unidades de superficie heredadas se han redefinido como equivalentes a una hectárea:16 ",
+        "bbox": [
+            70,
+            859,
+            931,
+            916
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jerib en Irán   \nDjerib en Turquía17   \nGong Qing ( 公 頃 en caracteres chinos tradicionales, 公 顷 en caracteres chinos simplificados, gōngqǐng en pinyin) en China   \nManzana en Argentina, Uruguay   \nBunder en los Países Bajos (hasta 1937)18 19 ",
+        "bbox": [
+            80,
+            42,
+            932,
+            171
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Historia ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            192,
+            179,
+            214
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El sistema métrico de medición recibió por primera vez una base legal en 1795 por el gobierno revolucionario francés. La ley del 18 Germinal, Año III (7 de abril de 1795) definió cinco unidades de medida:20 ",
+        "bbox": [
+            70,
+            231,
+            931,
+            288
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El metro para la longitud. El área $( 1 0 0 ~ \\mathsf { m } ^ { 2 } )$ ) para la superficie [de tierra].   \n$-$ El estéreo $( 1 { \\mathsf { m } } ^ { 3 } )$ para el volumen de leña apilada.21   \n$-$ El litro $( 1 ~ \\mathsf { d } \\mathsf { m } ^ { 3 } )$ para volúmenes de líquido.   \nEl gramo para la masa ",
+        "bbox": [
+            80,
+            305,
+            573,
+            403
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1960, cuando se actualizó el sistema métrico como Sistema Internacional de Unidades (SI), el sistema no recibió reconocimiento internacional. El Comité Internacional de Pesos y Medidas (CIPM) no menciona el área en la definición actual (2006) del SI, pero clasifica la hectárea como una \"unidad que no forma parte del SI pero aceptada para su uso con el Sistema Internacional de Unidades\".22 ",
+        "bbox": [
+            70,
+            409,
+            931,
+            485
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1972, la Comunidad Económica Europea (CEE) aprobó la directiva 71/354/CEE,23 que catalogó las unidades de medida que podrían utilizarse dentro de la Comunidad Europea. Las unidades que fueron catalogadas replicaron las recomendaciones de la CGPM, complementadas con algunas otras unidades incluyendo el área (e implícitamente por tanto la hectárea) cuyo uso se limitaba a la medición de la superficie de tierra. ",
+        "bbox": [
+            70,
+            502,
+            931,
+            596
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Familia de unidades ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            631,
+            334,
+            655
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Las denominaciones centiárea, deciárea, decárea y hectárea se obtienen añadiendo los prefijos métricos estándar a la unidad básica de superficie original, el área. ",
+        "bbox": [
+            65,
+            673,
+            931,
+            709
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Decimiliárea ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            737,
+            213,
+            757
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La decimiliárea (a veces vista en la evaluación de la superficie de catastro de las parcelas inmobiliarias) es $^ { 1 } \\text{‰}$ área o un decímetro cuadrado.24 ",
+        "bbox": [
+            70,
+            766,
+            931,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Centiárea ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            833,
+            181,
+            852
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La centiárea es 1 m 2 .25 26 ",
+        "bbox": [
+            70,
+            859,
+            290,
+            878
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Deciárea ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            173,
+            62
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Una deciárea son $1 0 \\mathrm { m } ^ { 2 }$ . Raramente se utiliza.27 ",
+        "bbox": [
+            70,
+            71,
+            470,
+            89
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Área ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            117,
+            126,
+            137
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El área es una unidad de superficie, igual a 100 metros cuadrados ( $1 0 \\mathrm { m } \\times 1 0 \\mathrm { m }$ ), utilizado para medir la superficie terrestre. Fue definido por formas más antiguas del sistema métrico, pero ahora está fuera del moderno Sistema Internacional de Unidades (SI).28 Todavía se utiliza comúnmente en publicaciones para medir los bienes inmuebles, en particular en Indonesia, India y en varios países de Europa. ",
+        "bbox": [
+            70,
+            146,
+            931,
+            222
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En ruso y algunas otras lenguas de la antigua Unión Soviética, el área se llama sotka (en ruso: сотка: 'un ciento', i.e. $1 0 0 ~ \\mathrm { { m } } ^ { 2 } \\mathrm { ~ o ~ } ^ { 1 } / _ { 1 0 0 }$ hectárea). Se utiliza para describir el tamaño de las parcelas de las dacha suburbanas o de los huertos o de los pequeños parques de las ciudades donde la hectárea sería demasiado grande. ",
+        "bbox": [
+            72,
+            237,
+            932,
+            313
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Decárea ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            343,
+            166,
+            362
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La decárea deriva de deca y área, y equivale a 10 áreas o 1000 metros cuadrados. Se utiliza en Noruega29 y en las zonas del antiguo Imperio otomano de Oriente Medio y los Balcanes (Bulgaria)30 como medida de la superficie terrestre. En lugar de la denominación \"decárea\", se suelen utilizar los nombres de las medidas de tierra tradicionales, redefinidas como una decárea: ",
+        "bbox": [
+            70,
+            370,
+            932,
+            445
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stremma en Grecia.31   \nDunam, dunum, donum o dönüm en Israel, Palestina, Jordania, Líbano, Siria y Turquía.32   \nMål se utiliza para la decárea en Noruega, a partir de la antigua medida de aproximadamente la misma superficie. ",
+        "bbox": [
+            80,
+            463,
+            929,
+            541
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Equivalencias en el Sistema Internacional de Unidades (SI) ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            562,
+            836,
+            585
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Una hectárea equivale a: ",
+        "bbox": [
+            72,
+            604,
+            273,
+            621
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "10 000 000 000 mm² 100 000 000 cm² 1 000 000 dm² 10 000 m² 100 dam² o áreas 1 hm² 0,01 km² ",
+        "bbox": [
+            80,
+            636,
+            294,
+            771
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El kilómetro cuadrado equivale a 100 ha. ",
+        "bbox": [
+            70,
+            780,
+            405,
+            796
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f35ea486eeb800dea612ae9049846d54de1441000d65ae2e535568fbb33c8f1c.jpg",
+        "table_caption": [
+            "Comparación de unidades métricas "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            130,
+            712,
+            317
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Equivalencias en otras unidades ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            349,
+            489,
+            372
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sistema anglosajón ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            410,
+            295,
+            431
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0,003 861 020 millas cuadradas   \n2,471 053 814 6717 acres internacionales   \n2,471 043 9 acres estadounidenses   \n107 640 pies cuadrados ",
+        "bbox": [
+            80,
+            444,
+            482,
+            520
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Otros ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            551,
+            136,
+            568
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "0,590 cuadras rurales (en Argentina)   \n10 dunams métricos   \n13,982 493 917 615 1 fanegas (Antigua corona de Aragón)   \n1,43 manzanas ",
+        "bbox": [
+            80,
+            580,
+            633,
+            657
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Algunos ejemplos ilustrativos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            680,
+            455,
+            704
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Campo de fútbol, dimensiones FIFA: 0,7 ha   \nPlaza de la Constitución (Ciudad de México), El Zócalo, Ciudad de México México: 4.6 ha $( 1 9 5 \\times 2 4 0 ~ \\mathrm { m } )$ Plaza Mayor, Madrid, España: 1.2 ha $( 1 2 9 \\div 9 4 \\mathrm { m } )$ )   \nBase de la Torre Eiffel (París, Francia): 1,5 ha   \nPlaza Trafalgar Square (Londres, Reino Unido): 1 ha ",
+        "bbox": [
+            80,
+            723,
+            932,
+            837
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            857,
+            262,
+            880
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Sistema Internacional de Unidades ",
+        "bbox": [
+            82,
+            901,
+            420,
+            919
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unidades de superficie   \nAcre (unidad de superficie)   \nBarn   \nConversión de unidades   \nHectómetro   \nLegua cuadrada   \nMinifundio   \nLatifundio   \nOrden de magnitud   \nTahúlla   \nMilla cuadrada   \nPie cuadrado   \nUnidad mínima de cultivo   \nVara   \nYarda cuadrada ",
+        "bbox": [
+            80,
+            42,
+            346,
+            336
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            357,
+            225,
+            380
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Real Academia Española. «hecto-» (https://dle.rae.es/hecto-). Diccionario de la lengua española (23.ª edición). Consultado el 21 de octubre de 2018. ",
+        "bbox": [
+            73,
+            401,
+            931,
+            434
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Real Academia Española. «hectárea» (https://dle.rae.es/hect%C3%A1rea). Diccionario de la lengua española (23.ª edición). Consultado el 21 de octubre de 2018. ",
+        "bbox": [
+            73,
+            437,
+            931,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Real Academia Española y Asociación de Academias de la Lengua Española (2023). «Lista de símbolos alfabetizables» (https://www.rae.es/dpd/). Diccionario panhispánico de dudas (2.ª edición, versión provisional). Consultado el 21 de octubre de 2018. ",
+        "bbox": [
+            75,
+            472,
+            932,
+            521
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. «Department for Environment, Food and Rural Affairs, and Rural Payments Agency; The Delays in Administering the 2005 Single Payment Scheme in England» (http://www.nao.org. uk/wp-content/uploads/2006/10/05061631.pdf). National Audit Office. 18 de octubre de 2006. p. 27. ",
+        "bbox": [
+            75,
+            524,
+            932,
+            589
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. «hectare» (https://web.archive.org/web/20110101110815/http://oxforddictionaries.com/view/ entry/m_en_gb0370830#m_en_gb0370830). Oxford Dictionaries. Archivado desde el original (http://oxforddictionaries.com/view/entry/m_en_gb0370830#m_en_gb0370830) el 1 de enero de 2011. Consultado el 24 de diciembre de 2010. ",
+        "bbox": [
+            75,
+            591,
+            932,
+            656
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. Bureau international des poids et mesures (2006). The International System of Units (SI) (htt p://www.bipm.org/utils/common/pdf/si_brochure_8_en.pdf). 8th ed. Consultado el 13 de febrero de 2008. Chapter 5. ",
+        "bbox": [
+            75,
+            659,
+            932,
+            709
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Oxford English Dictionary, 1st edition s.v. (http://www.oed.com/view/Entry/10502) ",
+        "bbox": [
+            84,
+            711,
+            833,
+            728
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. BIPM (2014). «SI Brochure, Table 6» (http://www.bipm.org/en/publications/si-brochure/table 6.html). Consultado el 17 de noviembre de 2014. ",
+        "bbox": [
+            73,
+            730,
+            924,
+            763
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. The Council of the European Communities (27 de mayo de 2009). «Council Directive 80/181/EEC of 20 December 1979 on the approximation of the laws of the Member States relating to Unit of measurement and on the repeal of Directive 71/354/EEC» (http://eur-lex.e uropa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:1980L0181:20090527:EN:PDF). Consultado el 29 de enero de 2010. ",
+        "bbox": [
+            73,
+            767,
+            932,
+            846
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Commonwealth of Australia (1970). «Metric Conversion Act» (https://parlinfo.aph.gov.au/parl Info/search/display/display.w3p;query=Id:%22publications/tabledpapers/HPP032016003235 _2%22;src1=sm1). Consultado el 14 Aug 2020. ",
+        "bbox": [
+            65,
+            850,
+            932,
+            899
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. Metric Pioneer (2020). «Metric Pioneer» (https://metricpioneer.com/australia/). Consultado el 14 Aug 2020. ",
+        "bbox": [
+            70,
+            901,
+            931,
+            935
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. «Weights and Measures Act 1985» (http://www.legislation.gov.uk/ukpga/1985/72/pdfs/ukpga _19850072_en.pdf). British Government. 1985. Consultado el 17 de diciembre de 2016. ",
+        "bbox": [
+            62,
+            42,
+            931,
+            76
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "13. «Appendix G – Weights and Measures» (https://web.archive.org/web/20110406124728/http s://www.cia.gov/library/publications/the-world-factbook/appendix/appendix-g.html). The World Factbook. CIA. 2006. Archivado desde el original (https://www.cia.gov/library/publicati ons/the-world-factbook/appendix/appendix-g.html) el 6 de abril de 2011. Consultado el 8 de agosto de 2006. ",
+        "bbox": [
+            63,
+            78,
+            931,
+            160
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. MYA/01/008 Agriculture Sectore Review, Working Paper No. 6 – Agroindustry in Myanmar (h ttp://www.agrifoodconsulting.com/ACI/uploaded_files/project_report/project_46_364535920. pdf#page=13) Archivado (https://web.archive.org/web/20130515190933/http://www.agrifood consulting.com/ACI/uploaded_files/project_report/project_46_364535920.pdf#page=13) el 15 de mayo de 2013 en Wayback Machine. ",
+        "bbox": [
+            65,
+            162,
+            932,
+            243
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. «Instructions for the Conversions of Areas to Metric» (https://web.archive.org/web/20180320 105433/https://www.lawsoc.co.za/webs/surveyorgeneral/2007_11_area_conversion.doc). Law Society of South Africa. November 2007. Archivado desde el original (http://www.lawso c.co.za/webs/surveyorgeneral/2007_11_area_conversion.doc) el 20 de marzo de 2018. Consultado el 21 de enero de 2011. ",
+        "bbox": [
+            65,
+            247,
+            932,
+            327
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. Britannica.com, unit of measurement (http://www.britannica.com/EBchecked/topic/259196/h ectare), accessed 30 October 2009 ",
+        "bbox": [
+            63,
+            330,
+            929,
+            363
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. $\\circledcirc$ Chisholm, Hugh, ed. (1910-1911). «Encyclopædia Britannica». Encyclopædia Britannica. A Dictionary of Arts, Sciences, Literature, and General information (en inglés) 27 (11.ª edición). Encyclopædia Britannica, Inc.; actualmente en dominio público. pp. 426-467; see page 442 second para. ",
+        "bbox": [
+            65,
+            365,
+            931,
+            429
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. Oscar van Vlijmen (11 de septiembre de 2006). «Oppervlakte» [Area] (https://web.archive.or g/web/20210619223013/https://home.kpn.nl/vanadovv/Opp.html). Eenheden, constanten en conversies [Units, constants and conversion] (en neerlandés). Archivado desde el original (h ttp://home.kpn.nl/vanadovv/Opp.html) el 19 de junio de 2021. Consultado el 15 de enero de 2011. ",
+        "bbox": [
+            65,
+            433,
+            932,
+            514
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. Jacob de Gelder (1824). Allereerste Gronden der Cijferkunst [Introduction to Numeracy] (htt ps://archive.org/details/allereerstegron00ramagoog) (en neerlandés). 's-Gravenhage and Amsterdam: de Gebroeders van Cleef. p. 156 (https://archive.org/details/allereerstegron00ra magoog/page/n179). Consultado el 19 de septiembre de 2012. ",
+        "bbox": [
+            65,
+            516,
+            931,
+            581
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. «La loi du 18 Germinal an 3 \" la mesure [républicaine] de superficie pour les terrains, égale à un carré de dix mètres de côté »» [The law of 18 Germanial year 3 \"The [Republican] measure of land area equivalent to a ten-metre square\"] (http://aviatechno.free.fr/unites/nouv eausys.php) (en francés). Le CIV (Centre d'Instruction de Vilgénis) – Forum des Anciens. Consultado el 2 de marzo de 2010. ",
+        "bbox": [
+            65,
+            584,
+            932,
+            665
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. Thierry Thomasset. «Le stère» (https://web.archive.org/web/20110721011132/http://www.ut c.fr/\\~tthomass/Themes/Unites/unites/infos/stere/Le%20stere.pdf). Tout sur les unités de mesure [All the units of measure] (en francés). Université de Technologie de Compiègne. Archivado desde el original (http://www.utc.fr/\\~tthomass/Themes/Unites/unites/infos/stere/L e%20stere.pdf) el 21 de julio de 2011. Consultado el 21 de marzo de 2011. ",
+        "bbox": [
+            65,
+            668,
+            932,
+            749
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. «SI brochure (Chapter 4; Table 6)» (https://web.archive.org/web/20091001100650/http://ww w.bipm.org/en/si/si_brochure/chapter4/table6.html). International Bureau of Weights and Measures. 2006. Archivado desde el original (http://www.bipm.org/en/si/si_brochure/chapter 4/table6.html) el 1 de octubre de 2009. Consultado el 5 de marzo de 2010. ",
+        "bbox": [
+            65,
+            751,
+            932,
+            817
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. «Council Directive of 18 October 1971 on the approximation of laws of the member states relating to units of measurement, (71/354/EEC)» (http://eur-lex.europa.eu/Notice.do?mode= dbl&lang=en&lng1=en,nl&lng2=da,de,el,en,es,fr,it,nl,pt,&val=22924:cs&page=1&hwords=) (en inglés). Consultado el 7 de febrero de 2009. ",
+        "bbox": [
+            65,
+            820,
+            931,
+            884
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "24. Robinson, Horatio Nelson; Fish, Daniel W. (1858). Aritmética práctica progresiva de Robinson: Contiene la teoría de los números en conexión con métodos analíticos y sintéticos concisos de solución, y está diseñado como un libro de texto completo sobre esta ciencia para las escuelas y academias comunes (https://books.google.com/books?id=QaDo oblqBikC&pg=PA363). Ivison, Blakeman, Taylor. p. 363. ",
+        "bbox": [
+            65,
+            887,
+            932,
+            937
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            41,
+            929,
+            74
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. «centiárea» (https://www.dictionary.com/browse/centiare). Dictionary.com (Dictionary.com, LLC). Consultado el 16 de octubre de 2019. ",
+        "bbox": [
+            72,
+            77,
+            931,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. «centiare» (https://www.collinsdictionary.com/dictionary/english/centiare). Collins Dictionary (Collins Publishers). Consultado el 16 de octubre de 2019. ",
+        "bbox": [
+            72,
+            112,
+            932,
+            144
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. «deciare» (https://www.merriam-webster.com/dictionary/deciare). Merriam Webster Dictionary (Merriam-Webster, Incorporated). Consultado el 16 de octubre de 2019. ",
+        "bbox": [
+            70,
+            148,
+            926,
+            181
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "28. «SI brochure (8th edition)» (http://www.bipm.org/en/si/si_brochure/). BIPM. March 2006. ",
+        "bbox": [
+            72,
+            184,
+            902,
+            200
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "29. «Disminución del rendimiento total del grano» (http://www.ssb.no/korn_en/arkiv/art-2003-03- 19-01-en.html). Cereales y semillas oleaginosas, superficie y producción, 2002. Estadísticas de Noruega. Consultado el 16 de noviembre de 2010. ",
+        "bbox": [
+            65,
+            203,
+            932,
+            251
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "30. «Mercado de la tierra agrícola en Bulgaria» (https://web.archive.org/web/20101022061357/h ttp://www.bnr.bg/sites/en/Economy/Pages/0510Marketofagriculturalland.aspx). BNR Radio Bulgaria. 5 de octubre de 2010. Archivado desde el original (http://www.bnr.bg/sites/en/Econ omy/Pages/0510Marketofagriculturalland.aspx) el 22 de octubre de 2010. Consultado el 16 de noviembre de 2010. ",
+        "bbox": [
+            65,
+            255,
+            932,
+            336
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "31. Λεξικό της κοινής Νεοελληνικής (Diccionario de griego moderno), Ινστιτούτο Νεοελληνικών Σπουδών, Θεσαλονίκη, 1998. ISBN 960-231-085-5 ",
+        "bbox": [
+            63,
+            338,
+            931,
+            371
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "32. El-Eini, Roza I.M. (2006). «Currency and Measures» (https://books.google.com/books?id=ek QOAAAAQAAJ&q=El-Eini+%22Mandated+Landscape%22). Mandated landscape: British imperial rule in Palestine, 1929-1948 (https://books.google.com/books?id=ekQOAAAAQAA J). Routledge. p. xxiii. ISBN 978-0-7146-5426-3. Consultado el 5 de mayo de 2009. ",
+        "bbox": [
+            65,
+            375,
+            932,
+            439
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "33. BS350:Part 1:1974 Conversion factors and tables Part 1. Basis of tables. Conversion factors. British Standards Institution. 1974. p. 7. ",
+        "bbox": [
+            63,
+            441,
+            929,
+            476
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            505,
+            289,
+            526
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wikimedia Commons alberga una galería multimedia sobre Hectárea. ",
+        "bbox": [
+            124,
+            547,
+            756,
+            566
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wikcionario tiene definiciones y otra información sobre hectárea. ",
+        "bbox": [
+            121,
+            570,
+            724,
+            586
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conversor de unidades de medida (https://www.convertworld.com/es/) ",
+        "bbox": [
+            110,
+            590,
+            727,
+            606
+        ],
+        "page_idx": 6
+    }
+]

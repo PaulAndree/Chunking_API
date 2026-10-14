@@ -1,0 +1,444 @@
+[
+    {
+        "type": "text",
+        "text": "St. Elmo's Fire (llamada St. Elmo, punto de encuentro en España y El primer año del resto de nuestras vidas en Argentina) es una película de transición adolescente estadounidense de 1985 dirigida por Joel Schumacher. Protagonizada por Emilio Estévez, Rob Lowe, Andrew McCarthy, Demi Moore, Judd Nelson, Ally Sheedy y Mare Winningham, es una de las prominentes cintas del llamado Brat Pack, centrándose en un grupo de amigos que acaba de licenciarse en la Universidad de Georgetown, los ajustes a la vida posuniversitaria y las responsabilidades de la vida adulta. En agosto de 2009, la ABC ganó una contienda entre varias cadenas televisivas para adaptar este film a una serie de TV.1 ",
+        "bbox": [
+            70,
+            138,
+            497,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Personajes principales ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            460,
+            363,
+            484
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kirby Keager (Emilio Estévez) - \"Kirbo\", para sus amigos, es el camarero en el bar de St. Elmo con aspiraciones de ser abogado; vive con su excompañero de universidad Kevin Dolenz. Desarrolla una obsesión con una mujer a quien conoce estudiando (Andie MacDowell) y está dispuesto a hacer todo para impresionarla, incluyendo un cambio de carrera. ",
+        "bbox": [
+            80,
+            504,
+            497,
+            649
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "William \"Billy\" Hicks (Rob Lowe) - El típico \"chico de fraternidad\". No consigue mantener un trabajo pero tiene un gran talento para tocar el saxofón. Al principio de la historia es un padre y esposo reacio que raramente vuelve a su casa a dormir. Pierde días de estudio y se siente perdido en la vida laboral después de la universidad. Junto con los problemas maritales es un chico alocado y mujeriego. ",
+        "bbox": [
+            82,
+            653,
+            497,
+            813
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kevin Dolenz (Andrew McCarthy) - Un escritor un tanto hosco a quien, según Leslie, solamente le \"hace falta enamorarse\". Su trabajo únicamente le permite escribir obituarios pero está buscando el significado de la vida y trabaja duro para escribir un artículo sobre ese trayecto. Hay dudas entre sus amigos acerca de su sexualidad; sin embargo luego se revela que está enamorado de Leslie en secreto, a quien conoce desde hace años. Comparte habitación con su amigo Kirby Keager. Andrew McCarthy comenzó a fumar para este papel y no pudo dejar el hábito hasta 1995. ",
+        "bbox": [
+            84,
+            817,
+            497,
+            929
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/7558d8ea37dbd909a68171aead42c9663b1920f52b7cad66f8554f7017c16674.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            154,
+            919,
+            763
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/355d63ed222500d168dec1631d02ee7a30b5f3e9080d2691ad4248032d87b88a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            758,
+            924,
+            937
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            102,
+            41,
+            495,
+            169
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Julianna \"Jules\" Van Patten (Demi Moore) - la chica alocada y \"fiestera\" con una vida extravagante y una adicción a la cocaína. Jules supo ser la compañera de cuarto de Leslie y es, todavía, su mejor amiga. Tiene un lujoso y muy decorado apartamento y trabaja en un banco. Le encanta pasarlo bien pero también está buscando el amor que tanto luchó por ",
+        "bbox": [
+            84,
+            173,
+            497,
+            318
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f0922bf583444a38c04de82485e29367131bddb91e34190a782b912d9137b96b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            519,
+            40,
+            926,
+            300
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "conseguir cuando fue creciendo; su padre es emocionalmente distante y ha tenido varias esposas. También siente muchas presiones para ocuparse de un inconveniente financiero de la familia (su madrastra, quien fuera cruel con ella cuando niña, tiene una enfermedad terminal) y para sus propios problemas de dinero después de una crisis en su vida. ",
+        "bbox": [
+            97,
+            318,
+            931,
+            382
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alec Newbury (Judd Nelson) - un yuppie ambicioso e implacable y un joven demócrata, que persigue una carrera en política. Está desesperado por casarse con Leslie a pesar de que ella siempre le dice que no, lo que lo lleva a tener un amorío con una chica que trabaja en una tienda de lencería diciendo que \"Él dirá no cuando Leslie diga sí\". Todos se sorprenden cuando comienza a trabajar para un senador republicano. Al principio de la película comienza a convivir con Leslie en una casa que continúa arreglando. ",
+        "bbox": [
+            82,
+            385,
+            931,
+            482
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Leslie Hunter (Ally Sheedy) - la novia yuppie de Alec que quiere tener su carrera de arquitecta antes que casarse y tener hijos. Es una romántica y también parece tratar de ver quién es ella misma antes de compartir su vida con un hombre; posiblemente para no perder su esencia. Vive con Alec pero comienza a tener dudas acerca de su relación. ",
+        "bbox": [
+            82,
+            484,
+            932,
+            549
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wendy Beamish (Mare Winningham) - una chica de familia adinerada, la inocente del grupo, y una virgen extremadamente tímida que dedica su vida a ayudar a los demás (trabaja en Servicios Sociales). Wendy trata de romper con la sobreprotección de su familia, se va a vivir sola y hace valer su independencia, principalmente de su padre (interpretado por Martin Balsam), quien la presiona para que se case con el hombre que él eligió. Ella, sin embargo, está enamorada de Billy Hicks aunque sabe que su padre jamás lo consideraría apropiado para ella. Al final, Wendy consigue su propio apartamento y pierde su virginidad con Billy. Mare Winningham estaba embarazada de su tercer hijo mientras interpretaba a una virgen. ",
+        "bbox": [
+            82,
+            552,
+            931,
+            698
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "También se destaca Andie MacDowell como Dale Biberman, una interna de un hospital y el objeto del afecto de Kirby. ",
+        "bbox": [
+            70,
+            705,
+            931,
+            741
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            779,
+            146,
+            799
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Breakfast Club es otra película de 1985 protagonizada por Estévez, Nelson y Sheedy. Allí estos actores (en ese momento 22, 25 y 22, respectivamente) interpretan a estudiantes de la escuela secundaria junto a Anthony Michael Hall y Molly Ringwald (los únicos dos miembros del Brat Pack que no aparecen en St. Elmo), mientras que en el mismo año interpretan a graduados universitarios en la película de este artículo. ",
+        "bbox": [
+            70,
+            818,
+            931,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El título y la canción de la película vienen por una cita en el clímax de la historia, cuando Billy reconforta a Jules: \"Es el Fuego de San Telmo (St. Elmo's Fire). Relámpagos eléctricos de luz que aparecen de la nada en los cielos oscuros. Los marinos guiaban viajes enteros por él, pero la broma era para ellos... no había ningún fuego. No había siquiera un San Telmo. Lo inventaron. Lo inventaron porque creían que lo necesitaban para seguir adelante en malos tiempos, así como tú estás inventando todo esto. Todos estamos atravesando esto. Es nuestro momento de estar al borde.\" ",
+        "bbox": [
+            70,
+            42,
+            931,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La afirmación de Billy es técnicamente incorrecta, ya que: ",
+        "bbox": [
+            70,
+            171,
+            544,
+            188
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El Fuego de San Telmo es real, aunque no es fuego sino un fenómeno eléctrico. El Fuego de San Telmo no aparecía en el cielo; más bien se manifestaba alrededor de los mástiles de un barco, haciendo que sea imposible utilizarlo como guía. \"San Telmo\" es el apodo de dos santos católicos: Erasmo de Formia y Pedro González Telmo, conocidos como \"San Telmo\" o \"San Elmo\" en español y portugués. Juntos son considerados como los patronos de los marinos. ",
+        "bbox": [
+            80,
+            204,
+            934,
+            309
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La canción \"St. Elmo's Fire (Man in Motion)\" fue escrita por el compositor/productor canadiense David Foster e interpretada por John Parr. Este éxito fue escrito para el atleta canadiense Rick Hansen, quien en ese entonces estaba viajando por el mundo con su silla de ruedas para la toma de consciencia sobre las lesiones de la médula espinal. Su viaje fue llamado \"La gira del hombre en movimiento\" (Man in Motion Tour). La canción no aparece en ningún álbum de John Parr. ",
+        "bbox": [
+            70,
+            409,
+            931,
+            503
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La canción \"Give Her a Little Drop More\" que suena cuando los personajes ingresan al bar y restaurante de St. Elmo, fue escrita por el trompetista de jazz británico John Chilton. ",
+        "bbox": [
+            68,
+            519,
+            931,
+            555
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\"St. Elmo's Fire (Man in Motion)\" alcanzó el puesto #1 en el ranking Billboard Hot 100 por dos semanas en septiembre de 1985 y \"Love Theme from St. Elmo's Fire\" (el tema instrumental de la película compuesto también por David Foster) alcanzó el #15. Otra versión del mismo tema pero con letra, titulada \"For Just a Moment\" fue interpretada por Amy Holland y Donny Gerrard y fue incluido como la canción final en el álbum de la banda sonora. ",
+        "bbox": [
+            70,
+            571,
+            931,
+            663
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El tema Man in Motion, también sirvió como Banda Sonora del Programa Mujer, emitido en los años 1993 y 1999 por el SNT Continental con Pelusa Rubín2 ",
+        "bbox": [
+            67,
+            679,
+            931,
+            718
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ubicaciones del rodaje ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            752,
+            366,
+            776
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El bar ficticio de St. Elmo fue construido en un estudio de Hollywood. Se basó en el bar \"The Tombs\", de Georgetown, Washington D. C.. Sin embargo, para las tomas exteriores se utilizó otro bar de Georgetown llamado Third Edition. Las escenas de universidad fueron filmadas en la Universidad de Maryland en College Park. ",
+        "bbox": [
+            70,
+            793,
+            932,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "St. Elmo's Fire tiene una recepción de $45 \\%$ en Rotten Tomatoes con 13 críticas positivas dentro de 29 en total.3 ",
+        "bbox": [
+            68,
+            104,
+            931,
+            138
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Gene Siskel y Roger Ebert la incluyeron en su lista de \"lo peor de 1985\". ",
+        "bbox": [
+            70,
+            156,
+            660,
+            174
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Premios y nominaciones ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            210,
+            384,
+            233
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rob Lowe ganó un Premio Razzie como Peor Actor Secundario. ",
+        "bbox": [
+            72,
+            250,
+            593,
+            268
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La canción \"St. Elmo's Fire (Man in Motion)\" fue nominada para el premio \"Mejor Canción Original\" en los Premios Óscar de 1986 pero luego declarada inelegible y fue descalificada porque no había sido escrita para el film. La canción fue escrita antes de la película y el título de esta fue inspirado por la música, por lo que Joel Schumacher hizo que \"St. Elmo's Fire (Man in Motion)\" sea el tema principal. ",
+        "bbox": [
+            70,
+            282,
+            931,
+            358
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La pieza instrumental de David Foster (\"Love Theme from St. Elmo's Fire\") fue también nominada pero para un Grammy en 1986 en la categoría de \"Mejor Interpretación Pop Instrumental\", pero perdió con Jan Hammer y su tema de Miami Vice. ",
+        "bbox": [
+            70,
+            374,
+            931,
+            429
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Adaptación de TV ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            465,
+            309,
+            490
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El 14 de agosto de 2009, ABC ganó una puja entre las cadenas de TV para adaptar el film a una comedia dramática, según The Hollywood Reporter. Schumacher se encuentra en el proyecto como productor, junto a Topher Grace (de That '70s Show), Dan Bucatinsky y Jamie Tarses. Dan Chyutin está escribiendo el guion. Como en la película, el programa seguirá a un grupo de amigos que recién se gradúan en la misma universidad y se ajustan a la vida adulta. Habrá algunos giros: la serie mostrará a 6 amigos (3 chicas y 3 chicos) y no 7, como la cinta. St. Elmo's Bar & Restaurant será St. Elmo's Bar & Grill.1 ",
+        "bbox": [
+            70,
+            505,
+            931,
+            619
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            655,
+            225,
+            678
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Joyce Eng (14 de agosto de 2009). «St. Elmo's Fire TV Series Heats Up at ABC» (https://ww w.tvguide.com/News/St-Elmos-TV-1008982.aspx). TVGuide.com. Consultado el 14 de agosto de 2009.   \n2. Foster, David (1986). «Love Theme» (https://www.youtube.com/watch?v=xIlQ0xLRnJA). David Foster (en inglés). Warner Music. Consultado el 5 de julio de 2019.   \n3. http://www.rottentomatoes.com/m/st_elmos_fire/ ",
+        "bbox": [
+            68,
+            698,
+            931,
+            805
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            833,
+            289,
+            855
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "St. Elmo's Fire (https://www.imdb.com/title/tt0090060/) en Internet Movie Database (en inglés) St. Elmo's Fire (http://www.allmovie.com/movie/v46354) en AllMovie (en inglés). ",
+        "bbox": [
+            80,
+            876,
+            932,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "St. Elmo's Fire (https://www.rottentomatoes.com/m/st_elmos_fire) en Rotten Tomatoes (en inglés). ",
+        "bbox": [
+            75,
+            42,
+            934,
+            77
+        ],
+        "page_idx": 4
+    }
+]

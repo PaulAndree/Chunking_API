@@ -1,0 +1,285 @@
+[
+    {
+        "type": "text",
+        "text": "No Genetic Barriers between Salmonella enterica Serovar Typhimurium and Escherichia coli in SOS-Induced Mismatch Repair-Deficient Cells ",
+        "text_level": 1,
+        "bbox": [
+            174,
+            117,
+            856,
+            185
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IVAN MATIC,\\* FRANC¸OIS TADDEI, AND MIROSLAV RADMAN E9916 INSERM, Faculte´ de Me´decine—“Necker—Enfants malades,” Universite´ Rene´ Descartes, 75015 Paris, France ",
+        "bbox": [
+            136,
+            192,
+            890,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 15 May 2000/Accepted 6 July 2000 ",
+        "bbox": [
+            383,
+            232,
+            646,
+            246
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conjugational crosses trigger SOS induction in Escherichia coli $\\mathbf { F } ^ { - }$ cells mated with Salmonella enterica serovar Typhimurium Hfr donors. Using an epigenetic indicator of SOS induction, we showed that a strong SOS response occurring in a subpopulation of mated mismatch repair-deficient cells totally abolishes genetic barriers between these two genera. ",
+        "bbox": [
+            150,
+            260,
+            880,
+            311
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The SOS response is a set of cellular responses induced by the exposure of bacterial cells to a variety of genotoxic and metabolic stresses which generally interfere with DNA replication (3, 10, 16). Regulation of the SOS system is mediated by the LexA and RecA proteins. LexA acts as a repressor of about 30 genes, including recA and lexA. The SOS-inducing signal is single-strand DNA, to which RecA binds and becomes activated as a coprotease $( \\mathrm { R e c A } ^ { * } )$ . RecA\\* promotes proteolytic self-cleavage of the LexA repressor and of some phage repressors, such as l CI, thus derepressing the SOS regulon (3, 4, 13). ",
+        "bbox": [
+            88,
+            334,
+            500,
+            463
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strong SOS induction occurs in recipient cells during interspecies conjugation, whereas only a weak induction takes place during intraspecies matings (7). This SOS induction was measured using a recA::lacZ operon fusion, which gives a mean value of the global recA expression in a population of recipient cells (7). In the present study, we wanted to detect SOS induction in individual recipient cells. To that end, we used an epigenetic switch as a reporter system that responds to inactivation of the l CI repressor (18) to assess the following: (i) any potential heterogeneity of SOS induction among individual recipient cells, (ii) the viability of the recipient cells that have undergone strong SOS induction, and (iii) possible correlations between the levels of SOS induction and interspecies recombination in individual cells. ",
+        "bbox": [
+            88,
+            463,
+            500,
+            639
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Hfr strains used in this study were Salmonella enterica serovar Typhimurium SA977 and Escherichia coli $\\mathrm { P K } _ { 3 }$ (7). SOS induction in $E$ . coli $\\mathrm { F ^ { - } }$ cells was monitored in MT1-derived strains bearing a cI-cro-gal fusion whereby the expression of the gal operon was under negative control by the CI repressor of phage lambda (18). Whereas the MT1 cells displayed a $\\mathrm { G a l ^ { - } }$ phenotype (white colonies on MacConkey agar-galactose plates) when the l cI gene was expressed, temporary ${ \\mathrm { R e c A } } ^ { * }$ - assisted inactivation of the CI repressor during SOS induction resulted in a heritable epigenetic $\\mathrm { G a l ^ { + } }$ phenotype (red colonies on MacConkey agar-galactose plates) (16, 18). An isogenic strain called MT5 has a noninducible cI $( \\mathrm { I n d ^ { - } } )$ mutation that detects, by color change, only the rare mutations in the cI gene. MT1 strain derivatives were constructed by P1-mediated transduction of the following alleles: mutS201::Tn5, lexA1 $( \\mathrm { I n d ^ { - } } )$ (coding for a noncleavable LexA repressor) malB::Tn9, and recAo98 (an operator constitutive and RecA-overproducing mutant) srl::Tn10 (7). Conjugations were performed as described previously (7). $\\mathrm { I l } \\mathbf { v } ^ { + }$ recombinants were selected on M63 minimal medium plates and scored after $4 8 \\mathrm { h }$ at $3 7 ^ { \\circ } \\mathrm { C }$ . All recipient strains were resistant to nalidixic acid, which was used to counterselect donor cells. ",
+        "bbox": [
+            88,
+            641,
+            500,
+            843
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            334,
+            940,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Whereas the interspecies (Salmonella serovar Typhimurium $\\times E$ . coli) conjugation triggers a potent SOS response $\\mathrm { [ G a l ^ { + } }$ phenotype) in 1 to $2 \\%$ of the recipient cells, no SOS induction was detected during intraspecies $( E . \\ c o l i \\times E$ . coli) conjugation (Table 1). Interspecies conjugation had no detectable effect on recipient cell viability compared with intraspecies crosses (data not shown). Therefore, the strong SOS response to interspecies mating observed previously using a recA::lacZ fusion (7) is not due to the massive dying of exconjugant cells. No measurable induction of SOS was observed when there was no transfer of DNA (e.g., when Salmonella serovar Typhimurium was also $\\mathrm { F ^ { - } }$ or when DNA transfer was prevented by nalidixic acid [data not shown]). ",
+        "bbox": [
+            529,
+            413,
+            938,
+            580
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A previous study of the SOS response to interspecies matings suggested that the activation of RecA occurs during one of the early RecA-mediated recombination steps, i.e., during homology search, homologous pairing, or heteroduplex formation (7). The RecA filament–single-strand DNA complex is expected to have a longer half-life during interspecies recombination than during intraspecies recombination, as suggested by in vitro experiments (2, 21). Consequently, the persistence of the RecA\\* filament is expected to be longer, and therefore the level of SOS induction is expected to be higher, in the interspecies matings. Since the RecA\\* protein in the $\\mathrm { R e c A ^ { * } - }$ single-strand DNA complex seems to lose its coprotease activity once engaged in the strand exchange process (1, 14), efficient intraspecies recombination might not leave enough time for the free single-strand DNA–RecA complex to induce a strong SOS response. However, for the present study we cannot completely rule out the possibility that SOS is induced by the cleavage of the Salmonella serovar Typhimurium DNA by the $E$ . coli recipient cell restriction endonucleases. ",
+        "bbox": [
+            529,
+            581,
+            940,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The induction of the LexA regulon is gradual, and the extent to which a given gene is induced depends on the decrease of the LexA repressor pool in response to a given inducing treatment and on the relative affinity of the LexA repressor for the specific operator (LexA box) (20). Although the cleavage of LexA and l CI repressors is promoted by $ { \\mathrm { R e c A } } ^ { * }$ , LexA is cleaved at least 10 times faster than l CI (for a review, see reference 20). These differences lead to the full induction of some SOS genes (e.g., recA) at low UV doses that are insufficient to induce prophage $\\lambda$ (13). This may also explain why the weak SOS induction during intraspecies conjugation observed with recA::lacZ gene fusions (7) was not detected with the cI-cro-gal epigenetic system (Table 1). ",
+        "bbox": [
+            529,
+            825,
+            940,
+            928
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/a3968c2978364153c3a9c133c676cfefdf7c6b3dd638ea00be1f3433cc531638.jpg",
+        "table_caption": [
+            "TABLE 1. Interspecies and intraspecies conjugational recombination in bacterial crosses and analysis of SOS induction in $E$ . coli recipient exconjugant cells "
+        ],
+        "table_footnote": [
+            "a Each number represents the results of three to six independent experiments. b Number of $\\mathrm { I l v ^ { + } }$ recombinants per number of Hfr cells (equal to number of $\\mathrm { I l v } ^ { + }$ recombinants per number of $\\mathrm { F ^ { - } }$ cells; the ratio of Hfr cells to $\\mathrm { F ^ { - } }$ cells was 1:1), after $3 0 \\ \\mathrm { m i n }$ of conjugation. The recombinants were selected on M63 minimal medium selective plates and scored after $4 8 \\ \\mathrm { h }$ at $3 7 ^ { \\circ } \\mathrm { C }$ . c Number of $\\mathrm { G a l ^ { + } \\bar { F } ^ { - } }$ cells per total number of $\\mathrm { F ^ { - } }$ cells, after $3 0 \\ \\mathrm { m i n }$ of conjugation. $\\mathrm { G a l ^ { + } }$ colonies on MacConkey agar-galactose plates were scored after $2 4 ~ \\mathrm { h }$ a t $3 7 ^ { \\circ } \\mathrm { C }$ . d These SOS-induced $\\mathrm { ( G a l ^ { + } ) }$ ) and noninduced $\\left( \\mathrm { G a l } ^ { - } \\right)$ colonies were analyzed for their $\\mathrm { I l v } ^ { + }$ recombination frequencies. "
+        ],
+        "bbox": [
+            85,
+            114,
+            941,
+            276
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            88,
+            367,
+            498,
+            432
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As expected, no SOS induction was detected in cells carrying lexA1 (encoding a noncleavable LexA repressor), whereas introduction of the RecA-overproducing $r e c A _ { o } c$ allele $( r e c A o 9 8 )$ in this strain restores wild-type levels of induction (Table 1). Therefore, RecA concentration is rate limiting for both recombination and l CI cleavage during interspecies conjugation. Because RecA binding to the single-strand DNA is required for both SOS induction and recombination, higher concentrations of RecA are likely to result in simultaneous increases in the total length of DNA available for recombination and the amount of $ { \\mathrm { R e c A } } ^ { * }$ (19). ",
+        "bbox": [
+            88,
+            432,
+            500,
+            572
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The methyl-directed mismatch repair system (MRS) prevents interspecies recombination (12), presumably by the recognition of noncomplementary nucleotides in the heteroduplex DNA intermediates by the MutS and $^ { - \\mathrm { L } }$ proteins (15, 21). We found that inhibition of recombination by the MRS is even more pronounced when the SOS system is induced. The inactivation of the mutS gene in the $l e x A ^ { + }$ cells increased interspecies recombination $( 2 . 2 \\times 1 0 ^ { 3 }$ -fold) more than in the lexA1 background $( 5 . 0 \\times 1 0 ^ { 2 }$ -fold) (Table 1). This increase was statistically significant (Mann-Whitney test; $P = 0 . 0 3 3$ ). One possibility is that the high RecA concentrations may act to increase the number of contacts between diverged DNAs and/or the lengths of heteroduplex DNA regions, thereby increasing the number of mismatches and the likelihood that the MRS will dissociate the recombination intermediates. ",
+        "bbox": [
+            88,
+            572,
+            500,
+            762
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although inactivation of the MRS alone increases the frequency of interspecies recombination 2,000-fold, it does not completely restore it to the frequency observed during intraspecies recombination (by a factor of 20 [Table 1]). However, the interspecies recombination frequencies among the SOS-induced $( \\dot { \\mathrm { G a l } } ^ { + } )$ mutS transconjugants are 20-fold higher than among noninduced $\\left( \\mathrm { G a l } ^ { - } \\right)$ transconjugants from the same culture. The SOS-induced $\\left( \\mathrm { G a l } ^ { + } \\right)$ and noninduced $\\left( \\mathrm { G a l } ^ { - } \\right)$ $E$ . coli $\\mathrm { F ^ { - } }$ mutS recipient interspecies exconjugants from MacConkey agar-galactose plates (Table 1) were analyzed for $\\mathrm { I l } \\mathrm { v } ^ { + }$ recombination using M63 minimal medium selective plates. Of the $7 7 8 ~ \\mathrm { G a l ^ { + } }$ (SOS-induced) exconjugants tested, 96 $( 1 . 2 \\times 1 0 ^ { - 1 } )$ ) were $\\mathrm { I L } \\mathbf { v } ^ { + }$ recombinants, whereas out of $7 7 8 ~ \\mathrm { G a l ^ { - } }$ (noninduced) exconjugants, only 5 $( 6 . 0 \\times 1 0 ^ { - 3 } )$ ) were $\\mathrm { I L } \\mathrm { v } ^ { + }$ recombinants. About one-quarter of all interspecies recombination events occurred in the $1 . 5 \\%$ of mutS female cells which had undergone strong SOS induction. Therefore, the interspecies recombination frequency among SOS-induced mutS bacteria $( 1 2 \\% )$ is approximately the same as the intraspecies recombination frequency observed in the overall population $( 1 0 \\% )$ (Table 1). ",
+        "bbox": [
+            88,
+            763,
+            500,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            367,
+            940,
+            470
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, there are circumstances under which a strong SOS induction cannot stimulate interspecies recombination, e.g., a very high level of DNA divergence or reduced hybrid viability. Even under these conditions, strong SOS induction may still increase genetic variability in the population of the recipient bacteria because SOS induction increases mutagenesis, chromosomal rearrangements, transposon excision, and transposition (11, 17). Such stimulation of genetic polymorphism can facilitate and accelerate the adaptation of bacterial populations to new and/or changing environments. ",
+        "bbox": [
+            529,
+            470,
+            940,
+            596
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We have demonstrated that, together, a strong SOS induction and a nonfunctional MRS can result in a complete abolition of genetic barriers between two bacterial genera that have diverged about $1 6 \\%$ within their genes. This apparent ignoring (in terms of gene exchange) of 100 to 150 million years of divergent evolution is quite impressive, in particular when considering that it could be occurring in a small percentage of all natural $E$ . coli and Salmonella isolates because they are MRS deficient (6, 8). Such genetic promiscuity, i.e., an efficient horizontal transfer of chromosomal genes, may account for the structure of bacterial genomes (5, 9). ",
+        "bbox": [
+            529,
+            597,
+            940,
+            737
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The connection between interspecies sex and SOS was suggested to us by David S. Thaler during his postdoctoral visit in 1988. We thank Justin Courcelle for critical reading of the manuscript. We also thank both of the anonymous referees for their helpful criticism. ",
+        "bbox": [
+            529,
+            750,
+            940,
+            796
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from Association pour la Recherche contre le Cancer, Ligue Nationale Franc¸aise contre le Cancer, Ministe\\`re de la Recherche—“Programme de Recherche Fondamentale en Microbiologie et Maladies Infectieuses et Parasitaires,” and Ministe\\`re de l’ame´nagement du territoire et de l’environnement— “Programme Environnement et Sante´.” ",
+        "bbox": [
+            529,
+            796,
+            940,
+            865
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            694,
+            880,
+            774,
+            890
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Craig, N. L., and J. W. Roberts. 1980. E. coli RecA protein-directed cleavage of phage l repressor requires polynucleotide. Nature 283:26–30. 2. DasGupta, C., and C. M. Radding. 1982. Polar branch migration promoted ",
+        "bbox": [
+            534,
+            896,
+            940,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "by RecA protein: effect of mismatched base pairs. Proc. Natl. Acad. Sci. USA   \n79:762–766.   \n3. Friedberg, E. C., G. C. Walker, and W. Siede. 1995. DNA repair and mutagenesis. ASM Press, Washington, D.C.   \n4. Kim, B., and J. W. Little. 1993. LexA and l CI repressors as enzymes: specific cleavage in an intermolecular reaction. Cell 73:1165–1173.   \n5. Lawrence, J. G., and H. Ochman. 1997. Amelioration of bacterial genomes: rates of change and exchange. J. Mol. Evol. 44:383–397.   \n6. LeClerc, J. E., B. Li, W. L. Payne, and T. A. Cebula. 1996. High mutation frequencies among Escherichia coli and Salmonella pathogens. Science 274:   \n1208–1211.   \n7. Matic, I., C. Rayssiguier, and M. Radman. 1995. Interspecies gene exchange in bacteria: the role of SOS and mismatch repair systems in evolution of species. Cell 80:507–515.   \n8. Matic, M., M. Radman, F. Taddei, B. Picard, C. Doit, E. Binguen, E. Denamur, J. Elion, J. E. LeClerc, and T. A. Cebula. 1997. Highly variable mutation rates in commensal and pathogenic E. coli. Science 277:1833–1834.   \n9. Milkman, R., and M. McCane. 1995. DNA sequence variation and recombination in E. coli, p. 127–142. Population genetics of bacteria. Cambridge University Press, Leicester, United Kingdom.   \n10. Radman, M. 1974. Phenomenology of an inducible mutagenic DNA repair pathway in Escherichia coli: SOS repair hypothesis, p. 128–142. In L. Prakash, F. Sherman, M. Miller, C. Lawrence, and H. W. Tabor (ed.), Molecular and environmental aspects of mutagenesis. Charles C Thomas, Springfield, Ill.   \n11. Radman, M., I. Matic, J. Halliday, and F. Taddei. 1995. Editing DNA replication and recombination by mismatch repair: from bacterial genetics to mechanisms of predisposition to cancer in humans. Philos. Trans. R. Soc. Lond. B 347:97–103.   \n12. Rayssiguier, C., D. S. Thaler, and M. Radman. 1989. The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342:396–401.   \n13. Roberts, J. W., and R. Devoret. 1983. Lysogenic induction, p. 123–144. In R. W. Hendrix, J. W. Roberts, F. W. Stahl, and R. A. Weisberg (ed.), Lambda II. Cold Spring Harbor Laboratory, Cold Spring Harbor, N.Y.   \n14. Roberts, J. W., E. M. Phizicky, D. G. Burbee, C. W. Roberts, and P. L. Moreau. 1982. A brief consideration of the SOS inducing signal. Biochimie 64:805–807.   \n15. Stambuk, S., and M. Radman. 1998. Mechanism and control of interspecies recombination in Escherichia coli. I. Mismatch repair, methylation, recombination and replication functions. Genetics 150:533–542.   \n16. Taddei, F., I. Matic, and M. Radman. 1995. Cyclic AMP-dependent SOS induction and mutagenesis in resting bacterial populations. Proc. Natl. Acad. Sci. USA 92:11736–11740.   \n17. Taddei, F., M. Vulic, M. Radman, and I. Matic. 1997. Genetic variability and adaptation to stress, p. 271–290. In R. Bijlsma and V. Loeschcke (ed.), Environmental stress, adaptation, and evolution. Birkha¨user Verlag, Basel, Switzerland.   \n18. Toman, Z., C. Dambly-Chaudie\\`re, L. Tenenbaum, and M. Radman. 1985. A system for detection of genetic and epigenetic alternations in Escherichia coli induced by DNA-damaging agents. J. Mol. Biol. 186:97–105.   \n19. Vulic, M., F. Dionisio, F. Taddei, and M. Radman. 1997. Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria. Proc. Natl. Acad. Sci. USA 94:9763–9767.   \n20. Walker, G. C. 1984. Mutagenesis and inducible responses to deoxyribonucleic acid damage in Escherichia coli. Microbiol. Rev. 48:60–93.   \n21. Worth, L., Jr., S. Clark, M. Radman, and P. Modrich. 1994. Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs. Proc. Natl. Acad. Sci. USA 91:3238–3241. ",
+        "bbox": [
+            92,
+            89,
+            500,
+            395
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            89,
+            940,
+            395
+        ],
+        "page_idx": 2
+    }
+]

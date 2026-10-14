@@ -1,0 +1,643 @@
+[
+    {
+        "type": "text",
+        "text": "Conservation and diversification of genes by mismatch correction and SOS induction. ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            148,
+            594,
+            194
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "F. BOURGUIGNON-VAN HOREN,   \nA. BROTCORN, P. CAILLET-FAUQUET, W. P. DIVER, C. DOHET,   \nQ. P. DOUBLEDAY, $( ^ { \\ast } )$ P. LECOMTE, G. MAENHAUT-MICHEL   \nand M. RADMAN $( ^ { \\ast \\ast } ) ^ { \\diamond }$ . ",
+        "bbox": [
+            94,
+            211,
+            453,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Département de Biologie Moléculaire, Université Libre de Bruxelles, B 1460 Rhode-St-Genèse (Belgium). ",
+        "bbox": [
+            514,
+            211,
+            809,
+            254
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Résumé. ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            334,
+            169,
+            349
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nous discutons de la régulation de la stabilité génétique en termes d'interactions entre les processus constitutifs et inductibles de réparation du DNA en insistant tout spécialement sur les résultats de nos études expérimentales sur la correction des pairs de bases illégitimes et sur l'induction de SOS chez Escherichia coli. ",
+        "bbox": [
+            96,
+            357,
+            485,
+            458
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            332,
+            606,
+            347
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Regulation of genetic stability is discussed in terms of interactions between constitutive and inducible DNA repair processes with specific emphasis on the results of our experimental studies of mismatch correction and SOS induction in Escherichia coli. ",
+        "bbox": [
+            516,
+            355,
+            905,
+            443
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mots-clés : réparation du DNA / méthylation du DNA / fidélité de réplication / mutagenèse. ",
+        "bbox": [
+            96,
+            467,
+            485,
+            510
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key-words : DNA repair / DNA methylation / replicative fidelity / mutagenesis. ",
+        "bbox": [
+            517,
+            464,
+            907,
+            493
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction. ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            548,
+            236,
+            564
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The aim of this minireview is to describe several processes which appear to be involved in conservation and diversification of genetic information. The mechanisms proposed are based on recent literature as well as on unpublished experiments of the authors. ",
+        "bbox": [
+            99,
+            580,
+            487,
+            668
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "of numerous error-free DNA repair systems for damaged or inappropriate bases. 'Processes (1) to (5) refer to the following DNA repair systems : lesion reversion (e.g. photoreactivation of pyrimidine dimers and dealkylation of $O ^ { \\pmb { \\theta } }$ -alkylguanine), lesion excision (base excision and nucleotide excision), strand break repair, prereplicative recombinational repair, and postreplicative recombinational repair. These repair processes are described by several authors in this volume (see manuscripts by Schendel, Lindahl, Montesano, Rupp, Seeberg, Grossman, Friedberg, Laval, Verly, Linn, Bridges, Moustacchi, Fabre, Hélène and others). ",
+        "bbox": [
+            521,
+            578,
+            909,
+            765
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Conservation of genetic information. ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            702,
+            444,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Four groups of complex molecular processes involved in the maintenance and accurate transmission of genetic information are listed in figure 1 : ",
+        "bbox": [
+            101,
+            734,
+            489,
+            778
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(A) Maintenance of genetic information to serve as a stable template for copying is a function ",
+        "bbox": [
+            101,
+            780,
+            491,
+            809
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(B) High fidelity copying is a function of the DNA replication complex of which DNA polymerase is a key component. The capacity of DNA polymerases for appropriate nucleotide selection during DNA synthesis can by itself account for replicative errors as low as $1 0 ^ { - 5 }$ [1]. In some known cases this potential error rate is reduced even further by the proofreading function of the $3 ^ { \\circ }  5 ^ { \\prime }$ exonuclease associated with prokaryote and some eukaryote DNA polymerases, adding another 1-2 orders of magnitude in accuracy [1, 2, 3]. The fidelity of DNA synthesis also depends on (3) the relative concentrations of the substrate deoxynucleoside triphosphates (dNTPs). Thus, an excess or deficiency of a particular triphosphate can result in increased error rates [4, 5, 6]. In addition inappropriate base incorporation may result from thylation creates the necessary $\\measuredangle$ window $\\gg$ for the efficient action of mismatch correction enzymes. Therefore, $\\pmb { { \\cal E } }$ , coli mutants deficient in adenine methylation (dam) and $E$ . coli dam methylase overproducers are both mutator [43, 44], presumably because both have lost the strand discrimifailure to metabolize normally precursors for DNA synthesis, e.g. deficiency in dUTPase in $E$ coli increases the pool size of dUTP resulting in the incorporation of dUMP in DNA [7]. ",
+        "bbox": [
+            523,
+            769,
+            911,
+            928
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            90,
+            483,
+            179
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            88,
+            905,
+            177
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/53a8ba51af07094d595f33d76997af7e2b256d63d4eaad66f57b520616317c5a.jpg",
+        "image_caption": [
+            "FIG. 1. — Processes involved in the maintenance and accurate transmission of genetic information. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            133,
+            198,
+            873,
+            394
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            97,
+            444,
+            487,
+            504
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, (5) there is experimental evidence that suggests that accessory proteins in the DNA replication complex, e.g. single-strand binding (SSB) protein, play a significant role in the fidelity of DNA replication [4, 8]. ",
+        "bbox": [
+            99,
+            509,
+            489,
+            582
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(C) Correction of replicative errors that occur in spite of the above-mentioned fidelity mechanisms is the function of a postreplicative mismatch correction system which was discovered in $\\boldsymbol { \\varepsilon }$ coli [9, 10, 11]. Figure 2 illustrates our current view of the mismatch correction process. Only the newly synthesized strands are substrate for mismatch repair, which occurs by an excision-resynthesis mechanism at sites of replication errors (M). The enzymatic discrimination between old and newlysynthesized strands in $E$ . coli is based on adenine methylation (6meAdo) at $_ { 5 } '$ GATC sequences. Methylation of such sequences renders the strand $\\ll$ immune $\\gg$ to mismatch repair presumably because the repair enzyme(s) do not attack fully methylated substrate despite the presence of the mismatches. Newly synthesized strands are normally transiently undermethylated [12], since methylation of GATC sequences by the $\\boldsymbol { \\varepsilon }$ coli dam gene coded methylase [13] lags behind DNA synthesis (see figure 2). The short time lapse between daughter strand synthesis and daughter strand menation property (the former because of failure to methylate strands which become templates for subsequent rounds of DNA synthesis, the latter because of a loss of the time < window > between replication and methylation (see Box D in fig. 1). ",
+        "bbox": [
+            101,
+            588,
+            489,
+            905
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            443,
+            909,
+            516
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/9554e714a38371d437d76115d98a8ccabcf04139cd938f7e9687f9d7ae0c2738.jpg",
+        "image_caption": [
+            "FIo. 2. -- Mismatch correction in replicational heteroduplexes : sequence conservation by strand-directed mismatch repair. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            533,
+            532,
+            898,
+            669
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mismatched base pairs $( + / \\mathbf { M } )$ arising as replicational errors (mutations $\\bar { \\mathbf { M } }$ are corrected by excision-resynthesis $( \\ I \\vee \\vee )$ . Only the newly synthesized strands segments proximal to the replication fork contain unmethylated GATC sequences $_ { ( - \\infty _ { - } ) }$ and therefore are subject to efficient mismatch repair (see text). ",
+        "bbox": [
+            523,
+            718,
+            912,
+            789
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { \\varepsilon }$ coli mutH, mutL, mutS and mutU (uvrE) mutants are proficient in DNA methylation, as indicated by the insensitivity of their DNA to the Mbol restriction endonuclease (W. Diver and O. P. Doubleday, unpublished experiments), but are deficient in the mismatch repair process [9, 10, 11, 14, 15, 16]. The mutH, $L$ ; S and $\\pmb { U }$ coded repair system corrects base substitution and frameshift mismatches [16]. Both $^ { + 1 }$ and - 1 frameshift mismatches are corrected according to the rule of strand methylation (C. Dohet, R. Wagner and M. Radman, unpublished). There is some evidence for a mismatch specificity of the four mutator genes. The uvrE502 mutant is deficient in correction of frameshift mismatches but proficient in correction of base substitution mismatches [11]. ",
+        "bbox": [
+            523,
+            831,
+            914,
+            905
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            96,
+            94,
+            483,
+            252
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Indirect evidence suggests that the repair of some nitrosoguanidine-induced mismatches is independent of the mutH gene [17], whereas the repair of 2-aminopurine induced mismatches is independent of the mutU (uvrE) gene [16, 18] and the mutS gene seems not to be involved in the correction of mismatches caused by the SOS mutator effect (P. Caillet-Fauquet and G. MaenhautMichel, this volume, and submitted for publication). Most of these results are based on genetic experiments with in vitro constructed phage λ DNA heteroduplexes composed of DNA strands carrying different (mismatched) genetic markers as well as all combinations of strand methylation $( \\mathrm { m e ^ { + } / m e ^ { + } }$ ; $\\mathrm { { \\ m e ^ { + } / m e ^ { - } } }$ ; me/me\") [10, 11 and unpublished experiments of P. Pukkilla, M. Rykowsky, J. Peterson and M. Meselson, and of . Dohet, F. Bourguignon-Van Horen, R. Wagner and M. Radman]. This postreplicative mismatch correction mechanism contributes about another 3 orders of magnitude to the final fidelity of DNA replication [16]. ",
+        "bbox": [
+            97,
+            262,
+            485,
+            579
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Diversification of genetic information. ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            605,
+            467,
+            619
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Whereas it is obvious why genetic information must be stable, there are at least two biological phenomena which require a diversification of genetic information. One is adaptive or evolutionary and is supported experimentally by showing that under selective pressure, increased genetic variability increases survival, or $\\pmb { \\ll }$ fitness $\\gg$ , of the population [19, 20]. The other is the phenomenon of cellular differentiation, of which a particularly well-studied example is the biology of the B lymphocytes of individual organisms which synthesize different immunoglobulins. An obvious explanation for such gene diversity is the operation of localized genetic alterations. ",
+        "bbox": [
+            101,
+            633,
+            489,
+            834
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1. GENERALIZED MUTAGENESIS BY SOS MUTATOR EFFECT. ",
+        "text_level": 1,
+        "bbox": [
+            101,
+            847,
+            489,
+            876
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The inducible SOS mutator effect has been demonstrated by the mutagenesis of intact phage genomes replicating in damaged (e.g. irradiated) bacteria [21, 22] and by the spontaneous mutator phenotype of $E$ coli mutants constitutively expressing SÖS functions [23, 24] including error-prone (i.e. mutagenic) DNA replication to enable the replicative machinery to $\\ll$ by pass $\\gg$ non-instructional lesions in the DNA [25, 27]. SOS induction itself is triggered by damaged DNA [26; D'Ari and Huisman, this volume; Devoret et al., this volume]. ",
+        "bbox": [
+            101,
+            881,
+            489,
+            912
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            92,
+            902,
+            238
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1. The SOS mutator effect is at the replication fork. ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            262,
+            905,
+            293
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Where and how does the SOS mutator effect operate ? In theory it could involve the introduction of a new infidelity component(s) not normally operative in living cells, and/or by interference of some or all of the constitutive fidelity mechanisms discussed above. With respect to the latter, in which box in figure 1 could the SOS mutator effect act ? To anower this question we measured the SOS mutator effect on unirradiated phage $\\gimel$ genomes replicating in preirradiated $\\pmb { \\cal E }$ coli host cells during the peak of SOS mutator effect [27]. The SOS mutator effect was found to be larger in mismatch correction deficient mutants mutH and mutL than in wild-type and mutS counterparts (P. Caillet-Fauquet and G. Maenhaut-Michel, this volume and submitted). The excess $\\gimel$ clear plaque mutagenesis in mutH and muL mutants was mostly due to mixed infective centres. containing both wild-type and mutant phages. Both observations can be interpreted as the result of mutagenesis in the course of phage $\\lambda$ DNA replication. SOS induced mismatches reside in the newly synthesized strands and are subject to mismatch correction involving mutH and mutL gene products but much less (if at all) the mutS product. ",
+        "bbox": [
+            517,
+            307,
+            907,
+            667
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Does SOS-induction affect the efficiency of mismatch repair in cells wild-type for this function ? Some experiments with phage $\\mathbf { \\mathcal { O } X 1 7 4 }$ heteroduplexes suggest an inhibition of mismatch repair in mitomycin-C treated $E$ coli [28]. We found no significant recA-dependent change in mismatch repair tested in UV-irradiated E. coli infected by phage λ carrying heteroduplex λred Pam3/Pam80 DNA, by measuring the formation of Pam\\* $\\ll$ recombinants $\\gg$ (F. Bourguignon-Van Horen, P. Caillet-Fauquet and M. Radman, unpublished). Therefore, our conclusion is that the SOS mutator effect acts mainly, if not exclusively, at the replication fork (box B, figure 1) and therefore may be due to disturbances of any of the processes normally responsible for the accurate DNA synthesis. ",
+        "bbox": [
+            521,
+            681,
+            909,
+            911
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.2. Molecular specificity of the SOS mutator effect. ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            91,
+            483,
+            121
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thirty two mutations generated in intact phage M13 DNA by the SOS mutator effect induced by UV irradiation of the $\\pmb { { \\cal E } }$ coli host have been sequenced [29]. Since the sequenced mutations are revertants of two M13 amber mutations, the total mutational specificity of the SOS mutator effect cannot be assessed. Nonetheless in both cases, all of the three bases of the amber codon were subject to change with no indication of preference for sites of potential pyrimidine dimer formation. Furthermore, the SOS mutator effect may relatively frequently cause untargeted tandem base changes [29, see also 45]. ",
+        "bbox": [
+            96,
+            130,
+            483,
+            319
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.3. Deoxyribonucleotide pools during SOS induction. ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            345,
+            485,
+            373
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Measuring the deoxyribonucleotide pools [29] at different time intervals (0, 5, 10, 20, 30, $6 0 ~ \\mathrm { m i n } )$ following optimal SOS-inducing UV doses revealed neither a significant inbalance of relative dNTPs, nor an effect of the recA gene, except for a recA-independent two-fold increase in dATP (M. Radman and G. Villani, unpublished). ",
+        "bbox": [
+            99,
+            384,
+            487,
+            485
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.4. DNA polymerases and SOS induction. ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            510,
+            459,
+            525
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the absence of any experimental support for either the presence of aberrant dNTPs or some effect on accessory proteins, the high mutator potency and the lack of any obvious mutagenic specificity [29] support our early suggestion [25, 30, 31] that SOS induction decreases the fidelity of DNA synthesis. Decreased fidelity of DNA synthesis has been detected in vitro [32]. Temperature shift to $4 2 ^ { \\circ } \\mathbf { C }$ of the $\\pmb { E }$ coli tif mutant caused, in cell free extracts, an increased misincorporation activity on homopolymer templates. This effect was dependent on the $\\pmb { \\cal E }$ coli recA\\* gene and was higher on UV-irradiated than on intact homopolymer, mimicking the phenomenology of in vivo mutagenesis [32]. We have not been able to purify this error-prone DNA synthesis activity. The assay conditions used were suitable for the activity of DNA polymerase I, therefore the recent report on an error-prone species of DNA polymerase I in a temperature-induced $\\pmb { { \\cal E } }$ ,coli tif mutant [33] may be related to our early work. However, the genetics of UV mutagenesis have shown that $\\pmb { { \\cal E } }$ coli DNA polymerase I is not required for mutagenesis. There are indications that polymerase III may be involved instead, directly or indirectly, in the fixation of UV-induced mutations [34]. To test the hypothesis of direct involvement of DNA polymerase III in the fixation of UV-induced mutations, we have reasoned as followed : if the SOS mutator effect inhibits one of the fidelity functions of DNA polymerase III, then, among numerous mutator mutants mapping in the polC gene [35], one might expect to find cases in which the mutator mutation has inhibited the same fidelity function as the one inhibited by SOS induction in cells with wild-type polymerase III. Such mutants should be hypermutable by UV light and, more important, their UV mutagenesis should be independent of SOS induction. Mutants with such phenotypes have been detected and the mutations mapped at the polC locus (A. Brotcorn, P. Caillet-Fauquet and M. Radman, unpublished). We conclude that a modification of DNA polymerase III is sufficient to allow constitutive UV mutagenesis, independent of SOS induction, but we can not be sure that this is the exact mechanism of the SOS mutator effect and not an alternative pathway of mutation fixation. ",
+        "bbox": [
+            103,
+            536,
+            491,
+            909
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            90,
+            905,
+            408
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "On the basis of genetic and biochemical analyses it has been proposed that a decrease in the accuracy of the DNA replication machinery results in both phenotypes of $\\bf \\Pi _ { \\ 8 } \\thinspace s o s$ replication $\\gg$ , i.e. mutator phenotype and  by-pass  elongation of DNA chains across non-coding lesions in the template, which in uninduced $\\pmb { { \\cal E } }$ coli present a definitive block to DNA chain elongation [30, 31]. Which fidelity function of DNA polymerase is affected by SOS induction to allow the SOS mutator effect by mutagenic by-pass synthesis of template strands containing DNA damage ? This question can be answered with in vitro systems in which the nucleotide selection and the $3 ^ { \\circ }  5 ^ { \\prime }$ exonuclease proofreading > activities can be measured and altered. In spite of an excessive turnover of d $\\mathbf { V T P }  \\mathbf { d N }$ MP by the proofreading exonuclease during the blockage of DNA chain elongation [31], the inhibition or absence of $3 ^ { \\circ }  5 ^ { \\circ }$ exonuclease is not sufficient to allow DNA chain elongation on UV-irradiated DNA in vitro [36]. Yet, the interference with nucleotide selection by DNA polymerase I either by the presence of the mutagenic metal manganese, or by the presence of pyrophosphatase, allows efficient by-pass synthesis of apurinic/apyrimidinic (AP) sites [36]. The in vitro mutagenic effect of Mn²\\* is well documented [37, 38]. A mechanism for nucleotide selection, associated with pyrophosphate (PPi) exchange has recently been elaborated in our laboratory (P. Lecomte, O. P. Doubleday and M. Radman, unpublished). On the basis of quantitative analyses of all known turnovers of dNTP substrates (i.e. polymerization and generation of free dNMP and PPiexchanged dNTP), it was found that, in the presence of an excess of $[ ^ { 3 2 } \\mathbf { P } ]$ PPi, an incorrect dNTP (either non complementary base moiety or incorrect sugar moiety) is preferentially aborted from the polymerization reaction in the form of $[ \\phantom { - } ^ { 3 2 } \\mathbf { P } ]$ dNTP. Therefore, we have proposed a model involving an abortive pathway for incorrect nucleotides, which takes place following the cleavage of PPi from dNTP but before the establishment of the phosphodiester bond linking the incoming mononucleotide to the growing DNA strand. We obtained evidence for a proofreadable (DNA - dNMP - PPi) intermediate in DNA synthesis and are now testing whether SOS induction in vivo leads to the inhibition of this proofreading step in nucleotide selection, since its inhibition in vitro (e.g. by pyrophosphatase) mimics the two phenotypes of $\\bf \\tilde { \\alpha } \\tilde { S } O S$ replication $\\gg$ , i.e. the mutator effect and the replicative by-pass of a non-coding lesion (AP site) whose mutagenicity in vivo depends on SOS induction [39]. ",
+        "bbox": [
+            523,
+            419,
+            911,
+            911
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            91,
+            482,
+            396
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2. LOCALIZED MUTAGENESIS BY MISMATCH REPAIR. ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            416,
+            482,
+            444
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mismatched base pairs can occur in DNA not only as the consequence of replication errors (replicational heteroduplex formation) but also as the consequence of recombinational strand exchange ",
+        "bbox": [
+            92,
+            454,
+            483,
+            512
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9f2231cfbd4b561ac0abd62a3dcbd969f820b817e3fc0ddc5f25ebb18049a7fd.jpg",
+        "image_caption": [
+            "FIG. 3. — Sequence diversification in recombinational heteroduplexes by random localised mismatch repair. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            101,
+            533,
+            483,
+            747
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Strand exchange among largely homologous but nonidentical genes generates mismatched heteroduplexes which can be further diversified by mismatch repair (see text). ",
+        "bbox": [
+            96,
+            784,
+            485,
+            831
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "among homologous but nonidentical genes (recombinational heteroduplex formation). Unlike replicational heteroduplex formation, recombinational heteroduplexes may not contain undermethylated strands. Therefore, mismatch repair in recombinational heteroduplexes may be less efficient than in replicational heteroduplexes and may lose strand discrimination. Figure 3 is a diagramatic illustration of how randomly localized mismatch repair can generate genetic diversity from the combination of alleles in the parental genes. Any heteroduplex species bearing n mismatches can yield $2 ^ { \\mathfrak { n } }$ genotypes by mismatch repair. Several publications on mismatch repair in DNA heteroduplexes with largely methylated strands have already shown that mismatch repair generates diversity [40, 41, 42]. We have provided evidence that such events occur in vivo when heteroduplex DNA results from recombinational exchanges [9, 16]. Sequence diversification by mismatch repair depends largely on the reduction of cocorrection, i.e. by the limitation of the excision repair tract (F. Bourguignon-Van Horen and M. Radman, unpublished). ",
+        "bbox": [
+            96,
+            865,
+            485,
+            908
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            91,
+            902,
+            380
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mapping of the germ line nucleotide sequence divergence and comparison with the amino acid sequence divergence in the variable region of immunoglobulin genes reveals the possibility that strand exchange among members of the $\\mathbf { V } _ { \\mathbf { H } }$ germ line gene family, followed by random mismatch repair, may be a mechanism of localized somatic mutagenesis and a major source of somatic diversification of immunoglobulin genes (M. Radman, submitted). ",
+        "bbox": [
+            514,
+            389,
+            902,
+            533
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES. ",
+        "text_level": 1,
+        "bbox": [
+            654,
+            549,
+            763,
+            561
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Fersht, A. R., Knill-Jones, J. W. & Tsui, W. C. (1982) J. Mol. Biol., 156, 37-51.   \n2. Kunkel, T. A., Eckstein, E., Mildvan, A. S., Koplitz, R. M. & Loeb, L. A. (1981) Proc. Natl. Acad. Sci. USA, 78, 6734-6738.   \n3. Clayton, L. K., Goodman, M. F., Brouscomb, E. W. & Gallas, D. J. (1979) J. Biol. Chem., 254, 1902- 1912.   \n4. Hibner, U. & Alberts, B. M. (1980) Nature, 285, 300- 305.   \n5. Fersht, A. (1979) Proc. Natl. Acad. Sci. USA, 76, 4946-4950.   \n6. Weymouth, L. A. & Loeb, L. A. (1978) Proc. Natl. Acad. Sci. USA, 75, 1924-1928.   \n7. Hochhauser, S. J. & Weiss, B. (1978) J. Bacteriol., 134, 157-166.   \n8. Kunkel, T. A., Meyer, R. R. & Loeb, L. A. (1979) Proc. Natl. Acad. Sci. USA, 76, 6331-6335.   \n9. Radman, M., Villani, G., Boiteux, S., Kinsella, A. R., Glickman, B. W. & Spadari, S. (1978) Cold Spring Harbor Symp. Quant. Biol., 43, 937-945.   \nO. Radman, M., Wagner, R. E., Glickman, B. W. & Meselson, M. (1980) Progress in Environmental Mutagenesis, M. Alacevic ed., Elsevier/North-Holland, Biomedical Press, pp. 121-130.   \n1. Radman, M., Dohet, C., Bourguignon, M. F., Doubleday, O. P. & Lecomte, P. (1982) in < Chromosome damage and repair > eds. E. Seeberg and K. Kleppe, Plenum Press, pp. 431-446.   \n12. Marinus, M. G. (1976) J. Bacteriol., 128, 853-854.   \n13. Lacks, S. & Greenberg, B. (1977) J. Mol. Biol., 114, 153-168.   \n14. Rydberg, B. (1978) Mutation Res., 52, 11-24.   \n15. Nevers, P. & Spatz, H. (1975) Mol. Gen. Genet., 139, 133-143.   \n16. Glickman, B. W. & Radman, M. (1980) Proc. Natl. Acad. Sci. USA, 77, 1063-1067.   \n17. Jones, M. & Wagner, R. E. (1981) Mol. Gen. Genet., 184, 562-563.   \n18. Glickman, B. W., van Elsen, P. & Radman, M. (1978) Mol. Gen. Genet., 163, 307-312.   \n19. Cox, E. C. & Gibson, T. C. (1974) Genetics, 77, 169- 184.   \n20. Ayala, F. (1967) Proc. Natl. Acad. Sci. USA, 58, 1919-1924.   \n21. Bleichrodt, J. F. & Verheij, W. S. D. (1974) Molec. Gen. Genet., 135, 19-27.   \n22. Ishikawa-Ryo, H. & Kondo, S. (1975) J. Mol. Biol., 97, 77-92.   \n23. Caillet-Fauquet, P. & Defais, M. (1977) Mol. Gen. Genet., 155, 231-234.   \n24. Mount, D. W. (1977) Proc. Natl. Acad. Sci. USA, 74, 300-304.   \n25. Radman, M. (1974) in $\\pmb { \\ll }$ Molecular and Environmental Aspects of Mutagenesis >, eds. L. Prakash et al., C. C. Thomas, Publ., Springfield, II., pp. 128-142.   \n26. George, J., Devoret, R. & Radman, M. (1974) Proc. Natl. Acad. Sci. USA, 71, 144-147.   \n27. Defais, M., Caillet-Fauquet, P., Fox, M. S. & Radman, M. (1976) Mol. Gen. Genet., 148, 125-130.   \n28. Baas, P. D. & Jansz, H. S. (1972) J. Mol. Biol., 63, 557-568.   \n29. Brandenburger, A., Godson, G. N., Radman, M., Glickman, B. W., van Sluis, C. A. & Doubleday, O. P. (1981) Nature, 294, 180-182.   \n30. Caillet-Fauquet, P., Defais, M. & Radman, M. (1977) J. Mol. Biol., 117, 95-112.   \n31. Villani, G., Boiteux, S. & Radman, M. (1978) Proc. Natl. Acad. Sci. USA, 75, 3037-3041.   \n32. Radman, M., Caillet-Fauquet, P., Defais, M. & Villani, G. (1976) in $\\sphericalangle$ Screening Tests in Chemical Carcinogenesis > eds. Montesano et al., IARC Sci. Publ. n 12, Lyon, pp. 537-545.   \n33. Lackey, D., Krauss, S. W. & Linn, S. (1982) Proc. Natl. Acad. Sci. USA, 79, 330-334.   \n34. Bridges, B. A. & Mottershead, R. P. (1978) Mol. Gen. Genet., 162, 35-41.   \n35. Sevastopoulos, S. G. & Glaser, D. A. (1977) Proc. Natl. Acad. Sci. USA, 77, 3485-3489.   \n36. Doubleday, O. P., Lecomte, P., Brandenburger, A., Diver, W. P. & Radman, M. (1982) in < Induced Mutagenesis : Molecular Mechanisms and their implications for Environmental Protection > ed. Lawrence et al., Plenum, in press.   \n37. Sirover, M. A. & Loeb, L. A. (1976) Science, 194, 1434-1436.   \n38. Radman, M., Spadari, S. & Villani, G. (1978) Natl. Cancer Inst. Monogr., 50, 121-127.   \n39. Schaaper, R. M. & Loeb, L. A. (1981) Proc. Natl. Acad. Sci. USA, 78, 1773-1778.   \n40. White, R. I. & Fox, M. S. (1974) Proc. Natl. Acad. Sci. USA, 71, 1544-1549.   \n41. Wildenberg, J. & Meselson, M. (1975) Proc. Natl. Acad. Sci. USA, 72, 2202-2206.   \n42. Wagner, R. E. & Meselson, M. (1976) Proc. Natl. Acad. Sci. USA, 73, 4135-4139.   \n43. Marinus, M. G. & Morris, N. R. (1975) Mutation Res., 28, 15-26.   \n44. Herman, G. E. & Modrich, P. (1981) J. Bacteriol., 145, 644-646.   \n45. Dunst, R. W., Loleman, R. D., Harnish, B. W. & Hill, C. W. (1981) Mol. Gen. Genet., 184, 445-449. ",
+        "bbox": [
+            523,
+            571,
+            907,
+            908
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            92,
+            485,
+            522
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            90,
+            907,
+            522
+        ],
+        "page_idx": 5
+    }
+]

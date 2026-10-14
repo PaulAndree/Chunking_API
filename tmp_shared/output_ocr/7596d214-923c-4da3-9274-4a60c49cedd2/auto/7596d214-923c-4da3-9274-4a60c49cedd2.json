@@ -1,0 +1,434 @@
+[
+    {
+        "type": "text",
+        "text": "DNA Mismatch Repair Systems: Mechanisms and Applications in Biotechnology ",
+        "text_level": 1,
+        "bbox": [
+            151,
+            204,
+            758,
+            255
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman & Robert Wagner ",
+        "bbox": [
+            151,
+            283,
+            473,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To cite this article: Miroslav Radman & Robert Wagner (1993) DNA Mismatch Repair Systems: Mechanisms and Applications in Biotechnology, Biotechnology and Genetic Engineering Reviews, 11:1, 357-366, D0I: 10.1080/02648725.1993.10647906 ",
+        "bbox": [
+            152,
+            327,
+            837,
+            372
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To link to this article: https://doi.org/10.1080/02648725.1993.10647906 ",
+        "bbox": [
+            151,
+            380,
+            684,
+            397
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "11 DNA Mismatch Repair Systems: Mechanisms and Applications in Biotechnology ",
+        "text_level": 1,
+        "bbox": [
+            113,
+            66,
+            705,
+            193
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MIROSLAV RADMAN AND ROBERT WAGNER ",
+        "bbox": [
+            113,
+            242,
+            658,
+            260
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Institute Jacques Monod, Paris, France ",
+        "bbox": [
+            116,
+            298,
+            510,
+            315
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair systems: Mechanisms and specificities ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            343,
+            670,
+            360
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The detection of mispaired or unpaired bases in DNA is a central element of mutation avoidance (Radman et al., 1979) genetic recombination (Jones, Wagner and Radman, 1987a) and speciation (Rayssiguier, Thaler and Radman, 1989). Mispaired or unpaired bases may arise as a result of replication errors, strand exchange between homologous but non-identical sequences or deamination of 5-methyl-cytosine (5-meC) to thymine. Both replication errors and deaminations of 5-meC are changes in DNA sequences which, if not rectified, will give rise to heritable mutations. ",
+        "bbox": [
+            116,
+            371,
+            902,
+            515
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair systems can be divided in two broad classes on the basis of their mechanisms of action (for reviews, see Radman and Wagner, 1986; Claverys and Lacks, 1986; Modrich, 1991). The long patch mismatch repair (LPMR) systems act by removing a number of nucleotides (often 10003000) from one strand of a DNA double helix in the region of a mispaired or unpaired base (Wildenberg and Meselson, 1975; Wagner and Meselson, 1976; Mejean and Claverys, 1984; Brooks et al., 1989). The resulting gap is then filled by DNA synthesis (Lahue, Au and Modrich, 1989; Brooks et al., 1989). Short patch mismatch repair (SPMR) systems act by removing only the mismatched nucleotide or the mismatched nucleotide and a few surrounding nucleotides (Lieb, 1983; Jones, Wagner and Radman, 1987a,c; Radicella, Clark and Fox, 1988; Au et al., 1988, 1989; Hennecke et al., 1992). ",
+        "bbox": [
+            113,
+            517,
+            902,
+            733
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Long patch mismatch repair systems are often referred to as 'generalized' mismatch repair systems because they act to repair many of the different mismatches formed as replication errors, i.e. mismatches formed as a result of errors in the polymerase nucleotide selection process which escape detection by the polymerase proofreading system (Radman and Wagner, 1986; Jones, Wagner and Radman, 1987b). Long patch mismatch repair systems also recognize and repair small (14 base) addition and deletion errors (Dohet, Wagner and Radman, 1986; Gasc, Sicard and Claverys, 1989; Parker and Marinus, 1992). Except for those systems requiring recombinational interactions between homologous DNA duplexes, any mismatch repair system whose mission is the correction of replication errors must be able to discriminate newly synthesized strands from parental strands and act specifically to preserve the sequence of the latter. Such strand discrimination is accomplished in Escherichia coli and some other bacteria by restricting LPMR to regions of DNA where one strand is undermethylated (Wagner and Meselson, 1976) with respect to adenine methylation of GATC sequences (Radman et al., 1980; Pukkila et al., 1983). The adenines in GATC sequences in non-replicating E. coli DNA are normally methylated (Marinus and Morris, 1973). This methylation inhibits the E. coli LPMR system (Radman et al., 1980; Pukkila et al., 1983). However, adenine methylation lags somewhat behind replication such that, immediately behind the replication fork, newly synthesized strands are transiently undermethylated (Lyons and Schendel, 1984). It is in this region that LPMR can act to remove replication errors. Another basis of strand discrimination in bacteria and in other organisms may be the discontinuities in newly synthesized DNA strands (Claverys and Lacks, 1986; Laengle-Rouault, Maenhaut-Michel and Radman, 1987; Lahue, Su and Modrich, 1987; Holmes, Clark and Modrich, 1990; Thomas, Roberts and Kunkel. 1991). In any event, it appears that LPMR systems generally act in the vicinity of the replication fork, although it has been shown that they do not require replication for their action (Radman and Wagner, 1986). ",
+        "bbox": [
+            113,
+            735,
+            900,
+            843
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            104,
+            63,
+            890,
+            505
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Short patch mismatch repair systems, which are considered to be 'specialized' mismatch repair systems, can act on non-replicating DNA to repair specific mismatches in a directed fashion (for a review, see Modrich, 1991). Two such systems have been identified in E. coli. One repairs only those G:T mismatches which result, or which could have resulted, from the deamination of 5-meC (Lieb, 1983; Jones, Wagner and Radman, 1987a,c; Zell and Fritz, 1987). Thus, this SPMR system acts only on a specific base (T) of a specific mismatch (G:T) at a specific position (the cytosine methylation position) in a specific sequence (a tetranucleotide sequence derived from the pentanucleotide cytosine methylase recognition sequence, CCWGG) (Lieb, Allen and Reid, 1986). ",
+        "bbox": [
+            102,
+            506,
+            886,
+            704
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The other E. coli SPMR system acts on G:A mismatches to repair them to G:C (Au et al., 1988; Radicella, Clark and Fox, 1988; Tsai-Wu, Radicella and Lu, 1991). This system apparently evolved because many G:A mismatches are not well recognized by the LPMR system (Dohet, Wagner and Radman, 1985; Jones, Wagner and Radman, 1987b), even though G:A mismatches are among the most common mistakes of DNA polymerases (Fersht and KnillJones, 1983). Because SPMR systems are not strand-directed, only those G:A mismatches in which A is on the newly synthesized strand will be repaired in such a way as to remove the replication error. In those cases where A is on the template strand, the action of this system would fix the mutation. However, the dGTPase activity of the polymerase-associated MutT protein (Akiyama el al., 1989; Bhatnagar and Bessman. 1988) may function to prevent the formation of G:template-A mismatches during replication and. thus, eliminate them as potential substrates for the SPMR system. Moreover, the MutT protein is likely to be involved in prevention of mutagenic incorporation of oxidatively damaged substrates for DNA synthesis such as the 8-oxoguanine triphosphate (Maki and Sekiguchi, 1992), whereas the MutY protein may prevent adenine misincorporation opposite 8-oxoG in the template (Michaels et al., 1992). ",
+        "bbox": [
+            99,
+            706,
+            883,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            113,
+            70,
+            897,
+            202
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The existence of mismatch repair was originally postulated to account for genetic marker effects in the studies of genetic recombination (Holliday. 1964; Ephrussi-Taylor and Gray, 1966) and it has been found that elements of both LPMR and SPMR do have a significant impact on the outcome of genetic recombination events (Jones. Wagner and Radman. 1987a). A key intermediate in the process of genetic recombination is a hybrid or heteroduplex overlap - a region of DNA in which one strand of the double helix is derived from each of the two recombining molecules (see Figure 1). It is this hybrid overlap that aligns recombining molecules and assures that recombination will occur only between homologous sequences. Mismatches will be formed whenever sequences that are not completely identical are included within the hybrid overlap (Figure I). Whenever mismatches within hybrid overlaps are substrates for SPMR, they will be repaired according to the rules of the particular system involved (see Figure I). It is this type of repair that is responsible for the elevated recombination of close markers (high negative interference) (Lieb, 1983; Jones. Wagner and Radman. 1987c: Meselson, 1988: Raposa and Fox, 1987; Dzidic and Radman, 1989) and will generally result in diversification of related, but non-identical, sequences (Figure /). ",
+        "bbox": [
+            113,
+            203,
+            897,
+            531
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Initially, it was not at all clear what. if any, role LPMR plays in genetic recombination. In fact. it was suggested that LPMR does not operate at all on recombinational intermediates (Lieb. 1981, 1983; Gussin, Rosen and Wulff. 1981). Such might be the case if the mismatch repair process was completely inhibited by methylation of GATC sequences. However, it has been demonstrated that, at least in vitro. LPMR proceeds sequentially and only breaking of the DNA strand containing the incorrect base, one of the later steps. requires unmethylated GATC sequences (Laengle-Rouault. MaenhautMichel and Radman, 1987; Au. Welsh and Modrich, 1992). Thus, the early steps of LPMR, including mismatch recognition, will occur even in fully methylated DNA. Given the structure of recombinational intermediates. it may be that the strand discontinuities in the donor DNA preceding and following the donor strand exchange serve to direct LPMR to the incoming strand and result in the strand being removed whenever it creates mismatches with the recipient strand (Figure 1). Thus. LPMR will prevent recombination between non-homologous sequences by \\*aborting' the recombination process or by destroying the heteroduplex intermediate (Jones. Wagner and Radman. 1987c; Rayssiguier. Thaler and Radman. 1989: Shen and Huang. 1989; see Figure 1). ",
+        "bbox": [
+            111,
+            532,
+            895,
+            875
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The 'editing' of recombinational intermediates and suppression of recombination by LPMR can account for the stability of eukaryotic genomes in which there are hundreds of thousands of dispersed repeated genetic elements. ",
+        "bbox": [
+            111,
+            876,
+            893,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/374918e67a749cbca31de09b1715d18a1beba91fd7e3d126e70ea47b49d6bc22.jpg",
+        "image_caption": [
+            "Figure 1. Specific prevention of recombination between partially homologous (homeologous) DNAs by the LPMR systems and hyper-recombination of specific alltic point mutations by the SPMR systems. LPMR proteins act by aborting the mismatched intermediates (hybrid DNA joints) generated by recombination protcins. thus creating the REC-' phenotype. Under LPMR-deficient conditions, the barricr to homeologous recombination is broken, allowing for inter-repeat and inter-species recombination (scc text). An active SPMR (or VSPMR) can further process the mismatched intermediate to generate fine structure diversity at the nucleotide sequence level (HYPER-REC phenotype). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            111,
+            68,
+            893,
+            452
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, the repeated elements are sufficiently diverged $( 2 \\mathrm { - } 1 5 \\% )$ that hybrid overlaps formed between them will contain mismatches and therefore, be substrates for action by a LPMR system. Long patch mismatch repair can prevent homologous interactions between repeated DNA sequences (Petit et al., 1991) and between genomes of closely related species (Rayssiguier, Thaler and Radman, 1989), thereby protecting an organism against deleterious chromosomal rearrangements and acting as an effective genetic barrier between related species (Radman, 1991). Escherichia coli mutants deficient in mismatch detection proteins (MutS and MutL) show an increased rate of duplication and deletion formation as a result of recombination between copies of repeated, diverged sequences (Petit et al., 1991). In addition, mutations which suppress LPMR allow interspecies $E$ colilSalmonella typhimurium recombination at about $1 0 \\%$ of intraspecies levels (mut+ bacteria allow only about $0 . 0 0 1 \\%$ of intraspecies levels) (Rayssiguier, Thaler and Radman, 1989; Rayssiguier, Dohet and Radman, 1991). This high efficiency of hybrid DNA formation involving non-identical sequences provides substrates for SPMR and thus can result in high recombination frequencies (Jones, Wagner and Radman, 1987c). ",
+        "bbox": [
+            104,
+            590,
+            893,
+            925
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Implications and applications of mismatch repair systems in genetic engineering and biotechnology ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            71,
+            791,
+            109
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The ability to control the fidelity of DNA replication and recombination processes by controlling LPMR and SPMR opens new doors in biotechnology. genetic engineering and medicine. Not only is it now possible to use powerful mutator mutants (i.e. mutants deficient in LPMR and SPMR) to alter DNA sequences rapidly but randomly, but it is also possible to generate new genes and even new species by allowing heretofore forbidden recombination between related genes and species. Recombination between diverged DNA seuqences coding for proteins of similar function can be facilitated under LPMR-deficient conditions to allow \\*protein engineering\" analogous to the strategies employed in nature to generate diversity in the immune (Reynaud et al., 1987), histocompatibility (Jaulin et al.. 1985) and parasite surface antigen (Thon, Baltz and Eisen, 1989) systems (Figure 2). In these systems, partially homologous DNA sequences act as donor sequences to a single expressed 'mosaic' gene. In addition, in yeast plasmid transformation experiments, recombination between diverged genes produced mosaic genes which coded for enzymes with altered specificities (Mezard. Pompon and Nicolas, 1992; Goguel, Delahodde and Jacq. 1992). By selecting appropriate donor sequences. it should be possible to set up similar systems of directed evolution in LPMR-deficient bacteria to create 'new' genes coding for new or improved proteins. Because the initial donor sequences can be selected by virtue of their ability to code for functional proteins, most recombinants will presumably be functional. an enormous advantage over current systems of random mutagenesis. Thus, it will be necessary only to select or screen for the desired alteration (e.g. improved stability. increased activity or altered specificity) from among a population of bacterial (or phage) clones coding for functional proteins. Recombinational repair between broken diverged (homeologous) genes is frequent in yeast plasmid transformation experiments, in which it was demonstrated that the resulting mosaic genes encode for enzymes with altered specificities (Mezard, Pompon and Nicolas, 1992: Goguel, Delahodde and Jacq, 1992). ",
+        "bbox": [
+            111,
+            120,
+            897,
+            678
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The process of creating new genes can perhaps be made even more efficient by performing some of the steps in vitro. For example, heteroduplex DNA can be formed in vitro between two diverged genes (Abastado et al., 1984) and be used to transfect LPMR-deficient $E$ coli. The heteroduplexes will then be substrates for SPMR, which will act to generate 'patchwork' sequences, which will represent incrcased repertoires of recombination products between the two genes. ",
+        "bbox": [
+            113,
+            678,
+            897,
+            803
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inhibition of LPMR will allow cloning of partially homologous genes from diverse species. By preparing a 'probe\" sequence from a previously cloned gene of identical function to the desired gene (and, therefore, presumably partially homologous to it), it will be possible, by means of recombination between partially homologous sequences, to extract efficiently the desired gene from a library of genes of a given species. Obviously, such a procedure is not restricted to coding sequences, but may be used to obtain any partially homologous sequences from any species. A similar method was previously developed, but did not employ LPMR-deficient bacteria and, therefore, was inefficient due to the high fidelity of genetic recombination in wild-type $\\varepsilon$ coli (Seed, 1983). ",
+        "bbox": [
+            113,
+            803,
+            897,
+            929
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/226aa5162eb2debcc20d5bd7132d2dded9997625e053b3c35b5af6b4d6f181d1.jpg",
+        "image_caption": [
+            "Figure 2. Instant evolution' of gencs and the encoded protcins by maximized homeologous recombination in the absence of LPMR and with uctive SPMR systems (sce Figure I). Box B presents an oversimplified version of natural systems generating protcin diversity through gene conversion processes (see text). Box A illustrates how one can mimic such diversification processes by homeologous recombination of cloned genes in bacteria that are LPMR-, SPMR+. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            51,
+            895,
+            549
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            104,
+            639,
+            890,
+            710
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The same principle can serve as a basis for gene inactivation. An inactive but partially homologous sequence to the gene in question can be constructed and, under LPMR-deficient conditions, allowed to recombine with the target gene to inactivate it. The ability to inactivate genes selectively can be useful in gene mapping and may eventually have diagnostic or therapeutic applications, particularly as it becomes possible to inhibit, perhaps transiently, LPMR in higher organisms. If, as suggested by Radman (1988, 1989, 1991), mitotic recombination is prevented by the differential sequence polymorphisms carried by the two homologous chromosomes, then gene replacement, gene inactivation or 'gene therapy' by homologous recombination with exogenous DNA may also be prevented by the sequence polymorphism carried by the target plant, animal or human cells. Using cloned isogenic' ",
+        "bbox": [
+            104,
+            712,
+            888,
+            931
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DNA sequences (from the same genetic background as the recipient cells) (Te Riele, Maandag and Berns, 1992) or inactivating mismatch detection and/or repair proteins may be necessary for efficient gene \\*targeting' or therapy' ",
+        "bbox": [
+            111,
+            68,
+            897,
+            141
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The ability to remove genetic barriers between species by allowing them to recombine under LPMR-deficient conditions. as has been demonstrated in Escherichia-Salmonella crosses (Rayssiguier, Thaler and Radman, 1989), means that it is now possible to create new species of micro-organisms. The potential applications appear almost limitless. Attenuated live vaccines can be created by selectively recombining pathogenic bacteria, such as Salmonella and Shigella, with $E$ coli to create non-pathogenic strains that retain the immunogenicity of the pathogens. It may also be possible to create universal salmonella-based vectors for any antigen presentation which could be used as oral vaccines illiciting mucosal immunity (McGhee et al.. 1992). ",
+        "bbox": [
+            111,
+            143,
+            897,
+            324
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Finally, it has been demonstrated that the mismatch-binding proteins, such as the bacterial MutS protein, can be used to detect substitution and small addition/deletion mutations. Such applications have wide ranging potentials for diagnosing human hereditary and somatic genetic diseases and in the study of polymorphism in human and other genomes (R. Wagner and M. Radman, unpublished). ",
+        "bbox": [
+            111,
+            325,
+            897,
+            432
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            462,
+            303,
+            479
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "M.R. was supported by grants from INSERM and the Ministry of Science and Technology of France (MRT. Section Biotechnologies). ",
+        "bbox": [
+            111,
+            488,
+            895,
+            523
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            109,
+            555,
+            220,
+            570
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ABASTADO, J.-P.. CAMI. B.. HUYNH DINH. T.. IGOLEN, J. AND KOURILSKY. P. (1984). Processing of complex heteroduplexes in Escherichia coli and Cos-l monkey cells. Proceedings of the National Academy of Sciences, USA 81. 57925796.   \nAKIYAMA, M., MAK1. H.. SEKIGuCHI. M. AND HORIUCHI. T. (1989). A speCific role of MutT protein; to prevent dG.dA mispairing in DNA replication. Proceedings of the National Academy of Sciences, USA 86. 3949-3952.   \nAU. K.G.. WELSH. K. AND MODRICH. P. (1992). Initiation of methyl-directed mismatch repair. Journal of Biological Chemistry 267, 12 142-12 148.   \nAU. K.G.. CABRERA. M.. MILLER, J.H. AND MODRICK. P. (1988). Escherichia coli murY gene product is required for specific A-G to C-G mismatch correction. Proceedings of the National Academy of Sciences, USA 85. 91639166.   \nAU. K.G.. CLARK. S.. MILLER, J.H. AND MODRICH. P. (1989). The Escherichia coli mutY gene encodes an adenine glycosylase active on G-A mispairs. Proceedings of the National Academy of Sciences, USA 86, 8877-8881.   \nBHATANAGAR. S.K. AND BEsSMAN. M.J. (1988). Studies on the mutator gene. mufT of Escherichia coli: molecular cloning of the gene, purification of the gene product, and identification of a novel nucleoside triphosphatasc. Journal of Biological Chemistry 263. 89538957.   \nBROOKS. P.. DOHET. C.. ALMOUZNI, G.. MECHALI, M. AND RADMAN, M. (1989). Mismatch repair involving localised DNA synthesis in Xenopus egg extracts. Proceedings of the National Academy of Sciences. USA 86. 44254429.   \nCLAVERYS. J.-P. AND LACKS. S.L. (1986). Heteroduplex deoxyribonucleic acid base ",
+        "bbox": [
+            109,
+            582,
+            897,
+            931
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "mismatch repair in bacteria. Annual Review of Microbiology 50, 133165. ",
+        "bbox": [
+            136,
+            65,
+            830,
+            82
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DOHET. C.. WAGNER. R. AND RADMAN, M. (1985). Repair of defined single base pair mismatches in E. coli. roceedings of the Natinal Academy of Sciences, USA , 503505.   \nDOHET, C., WAGNER, R. AND RADMAN, M. (1986). Methyl-directed repair of frameshif mutations in heteroduplex DNA. Procedings of the National Academy of Sciences. USA 83, 33953397.   \nDZIDIC. S. AND RADMAN, M. (1989). Genetic requirements for hyperrecombination byvery short patch mismatch repai: involvement of $\\pmb { \\mathcal { E } }$ coli DNA polymerase I. Molecular and General Genetics 217, 254256.   \nEPHRussi-TAYLOR. H. AND GRAY, T.C. (1966). Genetic studies of recombining DNA in pneumococcal transformation. Journal of General Physiology 49. 211231.   \nFERSHT, A.R. AND KNILL-JONES, J.W. (I1983). CONtribuTiOn of $3 ^ { \\prime } { \\xrightarrow { } } 5 ^ { \\prime }$ exonuclease activity of DA polymerase II holoenzyme fro Escherichia coli to speccity. Journal of Molecular Biology 165, 669-682.   \nGASC. A.M. SICARD, M. AND CLAVERYs, J.-P. (1989). Repair of single- and eut ect Su niae. Genetics 121, 2936.   \nGOGUEL, V., DELAHODDE, A. AND JACO, C. (1992). COnNeCtiONS between RNA splicing and DNA intron mobility in yeast mitochondria: RNA maturase and   \nGUSSIN. G.N. ROSEN. E.D. AND WULFF. D.L. (1981). Mapability of very close markers of bacteriophage lambda. Genetics 96. 1-24.   \nHENNECKE, F. OLAR, H. BUENDEL .AND FRITZ, H.J. 92 The product of E. coli K-12 is a strand- and sequence-specific DNA mismatch endonuclease. Nature 353. 776778.   \nHoLLIDAY, R. (1964). A mechanism for gene conversion in fungi. Genet Res 5, 282304.   \nHOLMES. J.J. LAR S.AND RICH P.Sr- - tion in nuclear extracts  human ad Drosophila melanogaster ell ines. Procedings of the National Academy of Sciences, USA 87.5837-5841.   \nJAULIN, C. PERRIN, A.. ABASTADO, J.-P.. DUMAS, B. PAPAMETHEAKIS, J. AND KRISKY, P. (1985). olymorphim in muse nd human cass I H-2 and HLA genes is not the result of random independent point mutations. Immunogenetics 22. 453470.   \nJONES, M., WAGNER, R. AND RADMAN, M. (1987a). Mismatch repair of deaminated 5-methyl-cytosine. Journal of Molecular Biology 194, 155159.   \nJONES, M., WAGNER. R. AND RADMAN, M. (1987b). Repar of a misMAtCh is influenced by the base composition of the surrounding nucleotide sequence. Genetics 115, 605610.   \nJONES, M., WAGNER, R. AND RADMAN. M. (1987c). Mismatch repair and recombination in E. coli. Cell 50, 621-626.   \nLaeNgle-RouaUlT, F., MaEnHaUT-MiCHEL, G. And RAdMAN, M. (1987). GATC sequences, DNA nicks and the mutH function in Escherichia coli mismatch repair. EMBO Journal 6, 1121-1127.   \nLAHUE, R.S., AU. K.G. AND MODRICH, P. (1989). DNA misMAtC correCiOn in a defined system. Science 245, 160164.   \nLAHUE, R.S., SU, S.-S. AND MODRICH, P. (1987). Requirement for d(GATC) sequences in Escherichia coli mutHLS mismatch correction. Proceedings of the National Academy of Sciences. USA 84, 1482-1486.   \nLIEB, M. 1. A u a  u   uti lambda repressor gene, including insertions of IS elements. Molecular and General Genetics 184, 364371.   \nLIEB, M. 9). Specic ismath crecti n bacterohage lama cross y very short patch repair. Molecular and General Genetics 191, 118-125.   \nLIE. .L . lambda: repair sites and length of repair tracts. Genetics 114. 10411060.   \nLYONs. S. AND SCHENDEL, P.F. (1984). Kinetics of methylation in Escherichia coli K-12. Journal of Bacteriology 159. 421423.   \nMA H. AND SEKIGUCHI. M. (1992. MutT protei specificaly hydrolyses a potent mutagenic substrate for DNA synthesis. Nature 355. 273-275.   \nMARINUs. M.G. AND MORRIS. N.R. (1973). Isolation of deoxyribonucleic acid methylase mutants of Escherichia coli K-12. Journal of Bacteriology 114. 1143 1150.   \nMcGHEE, J.R.. MESTECkY, J. DERtZBAUgH, M.T. ELDRIDGE. J.H.. HirASAVA. M. AND KiyONO. H. (1992). The mucosal immune system: from fundamental concepts to vaccine development. Vaccine 10, 7588.   \nMEJEAN. V. AND CLAVERYs, J.-P. (1984). Effect of mismatced base pairs on the fate of donor DNA in transformation of Streptococcus pneumoniae. Molecular and General Genetics 197, 467471.   \nMESELSON, M. (1988). Methy-directed repair of DNA mismatches. In Recombination GeniMatel ..LoEd ..ad ress.San CA.   \nMEZARD. C. POMPON. D. AND NICOLAS, A. (1992). Recombination bctween similar bu no nl    san c h o stretches of identity. Cell 70. 659670).   \nMICHAELS, M.L. CRUZ. C. GrOLLMAN. A.P. AnD MiLLER, J.H. (1992). Evidence that MutY and MutM combine to prevent mutations by an oxidatively damaged form of guanine in DNA. Procedings of the National Academy of Sciences. USA 89. 70227025.   \nMoDRicH, P. (1991). Mechanisms and biological effects of mismatch repair. Anmual Review of Genetics 25. 229253.   \nPARKER. B.O. AND MARINUs. M.G. (1992). Repair of DNA heteroduplexes containing small heterologous sequences in Escherichia coli. Proccedings of the National Academy of Sciences, USA 89. 1730-1734.   \nPETIT. M.-A., DIMPFL. J.. RADMAN. M. AND ECHOLS, H. (199I). COntrOl of chromosomal rearrangements in E. coli by the mismatch repair system. Genetics 129. 327332.   \nPUKKILA, P.J. PETERSON, J.. HERMAN. G.. MODRICH, P. AND MESELSON. M. (1983). Effects of high levels of DNA adenine methylation on methyl-directed mismatch repair in Escherichia coli. Genetics 104, 571582.   \nRADICELLA, J.P.. CLARK, E.A. AND FOX. M.S. (1988). SOme miSMatCh repair c n schicia o rocig thNatinal Acadey  Ss USA 85. 96749678.   \nRADMAN, M. (1988). Mismatch repair and genetic recombination. In Genetic Recom.uap ..Smh.E .A Sy for Microbiology. Washington, DC.   \nRADMAN. M. (1989). Mismatch repair and the fidelity of genetic recombination. Genome 31, 6873.   \nRADMAN. M. (1991). Avoidance of inter-repeat recombination by sequence divergence and a mechanism of neutral evolution. Biochimie 73. 357361.   \nRADMAN, M. AND WAGNER. R. (1986). Mismatch repair in Escherichia coli. Annual Review of Genetics 20, 523538.   \nRADMan. M.. ViLLAnI, G.. BOTtEUX, S.. KinsELLA. A.R.. GLickMAN. B.W. AnD SPADARi. S. (1979). Replication fidelity: mechanisms of mutation evoidance and tin ixation. Cold Srig Harb Smposa n Quantum Biology . 937-946.   \nRadman, M. WAgnER. R.E.. Glickman. B.W. AnD MEsElSOn. M. (1980). DNA metylatonisatch ction  en ably. I rossE menal Mutagenesis M.Alacevic. Ed. pp. 121130. Elsevier.Amsterdam.   \nRAPOSA, S. AND FOX, M.S. (1987). Some features of base pair mismatch and heterology repair in Escherichia coli. Genetics 117, 381-390.   \nRAYSSiGUIER. C., DOHET, C. AND RADMAN, M. (1991). Interspecific recombination between Escherichia coli and Salmonella typhimurium occurs by the RecBCD pathway. Biochimie 73, 371374.   \nRAYSSIGUIER, C.. THALER, D.S. AND RADMAN, M. (1989). The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342, 396401.   \nREYNAUD, C.-A.. AnQUEZ, V., GRiMAL, H. AND WEILL, J.-C. (1987). A hyperconversion mechanism generates the chicken light chain preimmune repertoire. Cell 48, 379387.   \nSEED, B. (1983). Purification of genomic sequences from bacteriophage libraries by recombination and selection in vivo. Nucleic Acids Research 11, 2427-2445.   \nSHEN, P. AND HuANG, H.V. (1989). Effect of base pair mismatches on recombination via the RecBCD pathway. Molecular and General Genetics 218, 358360.   \nTE RIELE, H., MAANDAG, E.R. AND BERNS, A. (1992). Highly efficient gene targeting in embryonic stem cells through homologous recombination with isogenic DNA constructs. Procedings of the National Academy of Sciences, USA 89, 51285132.   \nTHOMAS, D.C., ROBERTS, J.D. AND KUNKEL, T.A. (1991). HeterOduplex repair in extracts of human HeLa cells. Journal of Biological Chemistry 266, 3744-51.   \nTHON. G., BALTZ. T. AND EISEN, H. (1989). Antigenic diversity by the recobinatn of pseudogenes. Genes Dev 3, 1247-1254.   \nTSA1-WU. J.-J., RADICELLA, J.P. AND LU, A.-L. (1991). Nucleotide sequence of the Escherichia coli micA gene required for A/G-specific mismatch repair: identity of MicA and MutY. Journal of Bacteriology 173, 19021910.   \nWAGNER. R. AND MEsELSON, M. (1976).Repair tracts in mismatched DNA heteroduplexes. Proceedings of the National Academy of Sciences, USA 73, 41354139.   \nWILDENBERG, J. AND MESELSON, M. (1975). Mismatch repair in heteroduplex DNA. Proceedings of the National Academy of Sciences, USA 72, 22022206.   \nZELL. R. AND FRITZ., H.-J. (1987). DNA mismatch-repair in Escherichia coli counteracting the hydrolytic deamination of 5-methylcytosine residues. EMBO Journal 6, 18091815. ",
+        "bbox": [
+            97,
+            82,
+            900,
+            928
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            97,
+            76,
+            897,
+            936
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            104,
+            70,
+            900,
+            572
+        ],
+        "page_idx": 10
+    }
+]

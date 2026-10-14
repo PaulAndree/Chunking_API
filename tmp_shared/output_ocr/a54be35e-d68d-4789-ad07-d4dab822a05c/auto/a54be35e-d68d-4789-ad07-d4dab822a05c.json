@@ -1,0 +1,498 @@
+[
+    {
+        "type": "text",
+        "text": "Rapid #: -26245776 ",
+        "text_level": 1,
+        "bbox": [
+            47,
+            92,
+            346,
+            119
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CROSS REF ID: 455482260009370 ",
+        "bbox": [
+            45,
+            142,
+            439,
+            162
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LENDER: VAM (UVA Health Sciences Library) : Health Sciences Library   \nBORROWER: HR-ZAIRB (Znanstvene knjinice) :: HR-ZalRB   \nTYPE: Article CC:CCL   \nJOURNAL TITLE: Current topics in microbiology and immunology   \nUSER JOURNAL TITLE: Current Topics in Microbiology and Immunology   \nARTICLE TITLE: Effects of DNA Methylation on Mismatch Repair, Mutagenesis, and Recombination in Escherichia coli   \nARTICLE AUTHOR: Radman, M   \nVOLUME: 108   \nISSUE:   \nMONTH:   \nYEAR: 1984   \nPAGES: 23-   \nISSN: 0070-217X   \nOCLC #: 113301470   \nProcessed by RapidX: 2/25/2026 9:13:04 AM ",
+        "bbox": [
+            40,
+            160,
+            955,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Borrower: RAPID:HR-ZAIRB ",
+        "text_level": 1,
+        "bbox": [
+            186,
+            59,
+            453,
+            76
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lending String: ",
+        "bbox": [
+            186,
+            93,
+            308,
+            109
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Patron: ",
+        "bbox": [
+            186,
+            123,
+            245,
+            137
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Journal Title: Current topics in microbiology and immunology ",
+        "bbox": [
+            186,
+            151,
+            545,
+            182
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Volume: 108 Issue: Month/Year: 1984Pages: 23-28 ",
+        "bbox": [
+            186,
+            195,
+            441,
+            224
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Article Author: Radman, M ",
+        "bbox": [
+            186,
+            239,
+            400,
+            253
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Article Title: Effects of DNA Methylation on Mismatch Repair, Mutagenesis, and Recombination in Escherichia coli ",
+        "bbox": [
+            186,
+            268,
+            514,
+            312
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Imprint: ",
+        "text_level": 1,
+        "bbox": [
+            186,
+            341,
+            248,
+            356
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ILL Number:-26245776 ",
+        "bbox": [
+            186,
+            369,
+            443,
+            413
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Call #:   \nhttp://proxy01.its.virginia.edu/login ?url=https://www.springer.com/seri es/82 ",
+        "bbox": [
+            578,
+            57,
+            915,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Location: Springer Nature ",
+        "bbox": [
+            579,
+            139,
+            815,
+            157
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ODYSSEY ENABLED ",
+        "text_level": 1,
+        "bbox": [
+            579,
+            200,
+            779,
+            217
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Charge Maxcost: ",
+        "bbox": [
+            579,
+            231,
+            654,
+            260
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Shipping Address: NEW: HR-ZaIRB ",
+        "bbox": [
+            579,
+            275,
+            728,
+            304
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fax: Ariel: Email: ",
+        "bbox": [
+            579,
+            319,
+            632,
+            363
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effects of DNA Methylation on Mismatch Repair, Mutagenesis, and Recombination in Escherichia coli ",
+        "text_level": 1,
+        "bbox": [
+            49,
+            195,
+            579,
+            238
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M. RadMaN and R. WagNER ",
+        "bbox": [
+            51,
+            253,
+            268,
+            268
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction . 23   \n2 DNA Methylation and Mismatch Repair 24   \n3 Effects of Cytosine Methylation on Mutagenesis and Recombination 26   \n4 Summary 26   \nReferences 27 ",
+        "bbox": [
+            51,
+            345,
+            624,
+            420
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            471,
+            163,
+            484
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the DNA of Escherichia coli K12 approximately $2 \\%$ of the adenines and $1 \\%$ of the cytosines are methylated to form 6-methyladenine (6-mA) and 5-methylcytosine $( 5 - m C )$ respectively (reviews, HATTMaN 1981; MARINus 1982). Three different types of E. coli mutants deficient in DNA methylation have been isolated and characterized: (a) dam mutants, which are deficient in adenine methylation of GATC sequences (MARINUs and MoRRIs 1973; LACKs and GREENBERG 1977; HaTTMAN et al. 1978); (b) dcm (or mec) mutants, which are deficient in cytosine methylation of CC(A/T)GG sequences (MARINUS and MoRRIs 1973; HATTMAN et al. 1973); and (c) hsd mutants, which are deficient in adenine methylation of AAC (N6) GTGC sequences (review, YuAN 1981). ",
+        "bbox": [
+            52,
+            500,
+            621,
+            663
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hsd controlled methylation protects the cell's DNA from restriction by its own restriction endonuclease, Eco K12. Therefore, hsd mutants are viable only if the cell is also restriction-deficient. Dcm mutants have no easily discernible phenotype, however it has been demonstrated that they have lost some mutational hot spots. Dam mutations are highly pleiotropic. Relative to wild-type cells, dam mutants (a) have increased spontaneous mutation rates (mutator phenotype) (MARINus and MoRRIs 1975), (b) show increased levels of recombination (hyper-rec phenotype) (MARINus and KoNRAD 1976), and (c) are more sensitive to base analogs, EMS, MNNG, MMS, and UV (GLICKMAN et al. 1978; JONES and WAGNER 1981; MARINUS and MorRis 1974). In addition, dam rec A, dam rec B, dam lex A and dam pol A double mutants are inviable (MARINus and MorRus 1975). Several of the phenotypes of dam mutants, e.g., sensitivity to mutagenic agents and the inviability of dam rec A double mutants, are abolished by mut H, mul $L ,$ mut $S ,$ mul $v$ (uvr E), and sin mutations (GLICKMAN and RADMAN 1980; McGRAW and MARINUs 1980; MARINUS 1980; JONES and WAGNER 1981). ",
+        "bbox": [
+            52,
+            664,
+            619,
+            857
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            380,
+            64,
+            948,
+            123
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 DNA Methylation and Mismatch Repair ",
+        "text_level": 1,
+        "bbox": [
+            378,
+            158,
+            698,
+            175
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The methylation of adenine in the sequence GATC has been shown to lag somewhat behind replication, such that GATC sequences in newly synthesized DNA strands are transiently unmethylated (MAriNus 1976). Thus, in the region immediately behind the replication fork, newly synthesized strands can be distinguished from parental strands by their degree of methylation. It was suggested that the E. coli mismatch repair system might act in such regions to remove replication errors from newly synthesized strands (WAGNER and MEsELsoN 1976). This hypothesis was tested by annealing unmethylated strands of bacteriophage λ DNA (obtained from phages grown in dam dcm bacteria) to methylated strands of different genotype (obtained from phages grown in wild-type bacteria (RaDMAN et al. 1980; MEsELsoN et al. 1980). The heteroduplexes thus formed contained one methylated and one unmethylated strand and base pair mismatches at sites of genetic differences between the two original phages. The heteroduplexes were introduced into $E$ coli cells by means of transfection and the phages produced were analyzed to determine genotype frequencies. It was found that the genotypes carried on the unmethylated strands were underrepresented among the progeny, suggesting that mismatch repair operates preferentially on unmethylated strands. However, it might have been that unmethylated strands were simply lost rather than repaired, i.e., they may have failed to produce progeny in sufficient numbers to be recovered. The occurrence of methyl-directed strand loss in this system has been excluded by the following results: ",
+        "bbox": [
+            377,
+            197,
+            945,
+            539
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. A nonrepairable mismatch shows no methyl-directed strand loss (MESELSON et al. 1980).   \n2The methyl-directed bias in genotype output is abolished in mismatchrepair-deficient mutants (mut $L _ { i }$ ,mut S, mut $H ,$ and mut U) (RADMAN et al. 1980, 1981).   \nAnalysis of the genotypes of phages obtained from individual transfected cells in which one of a pair of mismatch markers was not repaired (i.e., both mutant and wild-type alleles of that marker were recovered from a single heteroduplex) showed methyl direction of repair at the other marker (C. Dohet, R. Wagner, and M. Radman, unpublished work). ",
+        "bbox": [
+            373,
+            545,
+            942,
+            695
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It was also found that heteroduplexes in which the unmethylated strand was prepared from the DNA of phages grown in dam dcm\\* bacteria showed methyl direction of mismatch repair (unpublished experiments from the laboratories of M. Meselson and M. Radman). Thus it appears that adenine methylation of GATC sequences is responsible for the strand discrimination ability of the E. coli mismatch repair system. Presumably, the mutator phenotype of dam mutants is a result of undirected mismatch repair (theoretically, undirected mismatch repair has the same effect on mutation frequencies as no mismatch repair). ",
+        "bbox": [
+            373,
+            702,
+            942,
+            761
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            59,
+            193,
+            632,
+            268
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since mismatch repair does not appear to operate on fully methylated DNA (MESELSON et al. 1980; PUKKILA et al. 1983), the speed with which methylation occurs following replication should determine the amount of time the mismatch repair system has to recognize and remove replication errors. Dam methylase overproducer strains, in which the dain gene is cloned in a multicopy plasmid, are mutators (HERMAN and MoDRICH 1981). It may be that methylation occurs more rapidly in these strains than in wildtype strains, thus shortening the time available for mismatch repair. Pur B ts mutants, which contain low levels of the S-adenosylmethionine, required for dam-directed methylation are antimutators (GEIGER and SPEYER 1977), and the antimutator activity appears to depend on functional mismatch repair genes (mut $s$ and mut $I$ ) (P. Schendel, personal communication). It may be that methylation is delayed in these strains, thus lengthening the time available for mismatch repair. These results suggest that no net selective pressure is operating on E. coli to decrease the spontaneous mutation rate by enhancing the efficiency of mismatch repair. In other words, it appears that either the benefit of the present mutation rate or the cost of reducing it may be too great to allow a significant decrease without creating a significant selective disadvantage for the cell. ",
+        "bbox": [
+            59,
+            269,
+            626,
+            551
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The inviability of dam rec A double mutants can be overcome by the addition of a mutation affecting mismatch repair (mut H, mut L, or mui S) (GLICKMAN and RADMAN 1980; Mc GRAW and MARINUS 1980). This suggests that some action of the mismatch repair system is responsible for the killing of the double mutant. It may be that the killing is caused by double-strand breaks in the DNA that cannot be repaired in rec $A$ bacteria (the repair of double-strand breaks has been shown to be an SOS-inducible function, i.e., one that requires rec A and lex A products, KRasin and Hutchinson 1981). Double-strand breaks could be produced by the mismatch repair system operating on dam (unmethylated) DNA either as result of simultaneous attack on both strands at a single mismatch or as a result of the overlap of excision tracts from repair events initiating on opposite strands at two relatively close mismatches. Whatever its mechanism, if this mismatch-stimulate suicie\" does occur, t could account or the finings that: (a) no SOS-induced mutator effect is observed in unirradiated $\\lambda$ phages replicating in UV-irradiated dam bacteria (P. CAILLET-FAuQUET, G. MAENHAUT-MiCHEL, and M. RADMAN, unpublished work); and (b) dam mutants have a lower spontaneous mutation frequency than mut $H _ { i }$ ,mut $L ,$ mut S, or mut $U$ single mutants or dam mut double mutants (GLickmaN and RADMAN 1980). Double-strand breaks have not been positively identified in dam DNA; however, if they occur as hypothesized above, they could also be the lesions responsible for the marker-independent hyper-rec phenotype of dam mutants. ",
+        "bbox": [
+            56,
+            551,
+            624,
+            892
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3 Effects of Cytosine Methylation on Mutagenesis and Recombination ",
+        "text_level": 1,
+        "bbox": [
+            370,
+            62,
+            891,
+            79
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although little is known regarding the role of cytosine methylation in $E$ coli, 5-mC residues have been found to be preferred sites for $\\mathbb { C } \\to \\mathbb { T }$ transition mutation (CouLoNDRe et al. 1978). Under physiological conditions, cytosine deamination to form uracil is a common occurrence (LiNDAHL and NyBERG 1974); the lesion is efficiently removed by the ura-DNA-glycosylase (review, LINDAHL 1982). However, deamination of 5-mC produces thymine, which is not a substrate for the glycosylase and which creates a $G / \\mathrm { T }$ mixmatch. As expected, dcm (or mec) mutants (and $E$ coli $\\mathtt { B }$ which are naturally dcm) do not show mutational hot spots at $C C ( \\mathrm { A } / \\mathrm { T } ) \\mathrm { G G }$ sequences (CouLONDRE et al. 1978). In ung mutants (deficient in ura-DNA-glycosylase) all cytosines show comparable frequencies of $\\Sigma  \\mathrm { T }$ transition (DuNCAN and MILLeR 1980). ",
+        "bbox": [
+            370,
+            93,
+            937,
+            269
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It has been found that hemimethylated DNA (i.e., DNA containing 5-mC in one strand but not in the other) is hyper-recombinogenic compared to DNA that is either fully methylated or fully unmethylated (KoRBA and HAYs 1982). Mutants partially deficient in cytosine methylation $( a r l )$ exhibit increased recombination frequencies. In addition, $\\lambda$ phages grown in arl mutants show increased recombination frequencies when crossed in $a 1 ^ { - 1 ^ { + } }$ bacteria. A dcm mutation abolishes the arl phenotype (KorBA and HAYs 1982). The mechanism of this stimulation of recombination by hemimethylated DNA is not known. (It may be that sister chromatid exchanges represent an analogous effect of cytosine hemimethylation in eukaryotes.) ",
+        "bbox": [
+            370,
+            272,
+            939,
+            419
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results of a recent study indicate that at least one of the two possible mismatches created by strand exchange between an amber mutant (TAG; created by $5 { \\cdot } \\mathrm { m C } \\to \\mathrm { T }$ transition) and the methylated wild-type parent is repaired at high frequency (LiEB, 1983). This efficient action of the mismatch repair system could explain the high levels of recombination observed with this particular class of amber mutants (i.e., CTAGG) in standard genetic crosses (LIEB, to be published). ",
+        "bbox": [
+            370,
+            420,
+            939,
+            523
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Summary ",
+        "text_level": 1,
+        "bbox": [
+            370,
+            552,
+            462,
+            568
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli K12 DNA contains methylated adenine (6-mA) and cytosine (5-mC) residues. Adenine methylation controlled by hsd is responsible for protection of the cell's DNA from restriction by its own restriction endonuclease. The dam-directed methylation of adenine in GATC sequences appears to direct the action of the mismatch repair system of $E$ coli in such a way that errors arising in newly synthesized (transiently unmethylated) DNA strands are corrected to the sequence of the parental strand. The precise mechanism of this strand direction is not known. ",
+        "bbox": [
+            370,
+            581,
+            939,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The extent of hemimethylated DNA, i.e., regions with one strand methylated and one strand unmethylated, appears (a) with respect to dam-directed adenine methylation, to influence the spontaneous mutation rate and (b) with respect to cytosine methylation, to influence the level of recombination. ",
+        "bbox": [
+            372,
+            701,
+            939,
+            760
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments. Dr. MrosLAv RADMaN was supported by a visiting professorship from the Université de Paris-Sud, Laboratoire de Génétique, Orsay, Dr. RoBErt WAGNEr holds a fellowship from the Ligue Nationale Française Contre le Cancer. ",
+        "bbox": [
+            54,
+            198,
+            623,
+            235
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            283,
+            134,
+            297
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Coulondre C, Miller JH, Farabaugh PJ, Gilbert W (1978) Molecular basis of base substitution hot spots in Escherichia coli. Nature 274:775780   \nDuncan BK, Miller JH (1980) Mutagenic deamination of cytosine residues in DNA. Nature 287:560-561   \nGeiger JR, Speyer JF (1977) A conditional antimutator in E. coli. Mol Gen Genet 153:8797   \nGlickman BW, Radman M (1980) Escherichia coli mutator mutants deficient in methylationinstructed mismatch correction. Proc Natl Acad Sci USA 77:1063-1067   \nGlickman BW, van der Elsen P, Radman M (1978) Induced mutagenesis in dam\\~ mutants of Escherichia coli: a role for 6-methyladenine in mutation avoidance. Mol Gen Genet 163:307312   \nHattman S (1981) DNA methylation. The Enzymes 14:517548   \nHattman S, Schlogman S, Cousens L (1973) Isolation of a mutant of Escherichia coli defective in cytosine-specific deoxyribonucleic acid methylation activity and in partial protection of bacteriophage against restriction by cells containing the N-3 drug-resistance factor. J Bacteriol 115:1103-1107   \nHattman S, Keister T, Gottelirer A (1978) Sequence specificity of DNA methylases from Bacillus amyboliquefaciens and Bacillus brevis. J Mol Biol 124: 701-711   \nHerman GE, Modrich P (1981) Escherichia coli K12 clones that overproduce dam methylase are hypermutable. J Bacteriol 145:644646   \nJones M, Wagner R (1981) $N .$ Methyl $\\mathbf { \\nabla } \\cdot \\mathbf { \\mathcal { N } ^ { \\prime } }$ nitro $N .$ -nitrosoguanidine sensitivity of $E .$ coli mutants deficient in DNA methylation and mismatch repair. Mol Gen Genet 184: 562563   \nKorba BE, Hays JB (1982) Partially deficient methylation of cytosine in DNA at CCA/TGG sites stimulates genetic recombination of bacteriophage lambda. Cell 28: 531541   \nKrasin F, Hutchinson F (1981) Repair of DNA double-strand breaks in Escherichia coli cells requires synthesis of proteins that can be induced by UV light. Proc Natl Acad Sci USA 78:34503453   \nLacks SA, Greenberg B (1977) Complementary specificity of restriction endonucleases of Diplococcus pneumoniae with respect to methylation. J Mol Biol 114:153-168   \nLieb M (1983) Specific mismatch correction in bacteriophage lambda crosses by very short patch repair. Mol Gen Genet 191: 118125   \nLindahl T (1979) DNA glycosylases endonucleases for apurinic/apyrimidinic sites and base excision repair. Prog Nucleic Acid Res Mol Biol 22:135192   \nLindahl TC (1982) DNA repair enzymes. Ann Rev Biochem 51:6187   \nLindahl T, Nyberg B (1974) Heat-induced deamination of cytosine residues in deoxyribonucleic acid. Biochemistry 13:34053410   \nMarinus MG (1976) Adenine methylation of Okazaki fragments in Escherichia coli. Mol Gen Genet 128:853854   \nMarinus MG (1980) Influence of ur D3, wr E502 and recL 152 mutations on the phenotypes of Escherichia coli K.12 dam mutants. J Bacteriol 141:223226   \nMarinus MG (1982) DNA methylation in Escherichia coli. In: Usdin E, Borchardt RT, Cleveling CR (eds) Biochemistry of $S \\cdot$ -adenosylmethionine and related compounds. Macmillan, London, pp 249253   \nMarinus MG, Morris NR (1973) Isolation of deoxyribonucleic acid methylase mutants of Escherichia coli K12. J Bacteriol 114:1143-1150   \nMarinus MG, Morris NR (1974) Biological function for 6-methyladenine residues in the DNA of Escherichia coli K12. J Mol Biol 85:309-322   \nMarinus MG, Morris NR (1975) Pleiotropic effects of a DNA adenine methylation mutation (dam-3) in Escherichia coli K12. Mutat Res 28:1526   \nMarinus MG, Konrad B (1976) Hyper-recombination in dam mutants of E. coli K12. Mol Gen Genet 149:273-277   \nMc Graw BR, Marinus MG (1980) Isolation and characterization of dam\\* revertants and suppressor mutations that modify secondary phenotypes of dam-3 strains of E. coli K12. Mol Gen Genet 178:309315   \nMeselson M, Pukkila P, Rykowsky M, Peterson J, Radman M, Wagner R, Herman G, Modrich P (1980) Methyl-directed mismatch repair: a mechanism for correcting DNA. J Supramol Struct [Suppl] 4:311   \nPukkila PJ, Peterson J, Herman G, Modrich P, Meselson M (1983) Effects of high levels of DNA adenine methylation on methyl-directed mismatch repair in Escherichia coli. Genetics 104:571-582   \nRadman M, Wagner RE, Glickman BW, Meselson M (1980) DNA methylation, mismatch correction and genetic stability. In: Alacevi M (ed) Progress in environmental mutagenesis. Elsevier, Amsterdam, pp 121130   \nRadman M, Dohet C, Bourguignon MF, Doubleday OP, Lecomte P (1981) High fidelity devices in the reproduction of DNA. In: Seeberg E, Kleppe K (eds) Chromosome damage and repair. Plenum, New York, pp 431-445   \nWagner RE, Meselson M (1976) Repair tracts in mismatched DNA heteroduplexes. Proc Natl Acad Sci USA 73:41354139   \nYuan R (1981) Structure and mechanism of multifunctional restriction endonucleases. Annu Rev Biochem 50:285-315 ",
+        "bbox": [
+            54,
+            306,
+            623,
+            901
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            361,
+            69,
+            931,
+            324
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/098390e598d607b230fd1c83bee0f28f3bc26f5136a3d4c5647e15fa12ff2052.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            213,
+            324,
+            975,
+            881
+        ],
+        "page_idx": 7
+    }
+]

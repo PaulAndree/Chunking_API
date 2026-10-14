@@ -1,0 +1,1034 @@
+[
+    {
+        "type": "text",
+        "text": "Genetic variability and adaptation to stress ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            189,
+            751,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "François Taddei ', Marin Vuli, Miroslav Radman and Ivan Mati ",
+        "bbox": [
+            145,
+            226,
+            772,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Mutagenèse, Institut Jacques Monod, 2 Place Jussieu, $F \\mathrm { . }$ -75251 Paris, France 1on leave of absence from Ecole Nationale du Génie Rural des Eaux et des Forêts, Paris, France ",
+        "bbox": [
+            145,
+            252,
+            845,
+            292
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. Besides an immediate cellular adaptation to stress, organisms can resist such challenges through changes in their genetic material. These changes can be due to mutation or acquisition of pre-evolved functions via horizontal transfer. In this chapter we will review evidence from bacterial genetics that suggests that the frequency of such events can increase in response to stress by activating mutagenic response (e.g. the SOS response) and by inhibiting antimutagenic activities (e.g. mismatch repair system, MRS). Natural selection, by favoring adaptations, can also select for the mechanism(s) that has/have generated the adaptive changes by hitchhiking. These mutator mechanisms can sometimes respond very specifically, though blindly, to the challenge of the environment. Such stress-induced increases in mutation rates enhance genetic polymorphism, which is the structural component of the barrier to genetic exchange. Since SOS and MRS are the enzymatic controls of this barrier, the modulation of these systems can lead to a burst of speciation. ",
+        "bbox": [
+            145,
+            306,
+            856,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Stress and adaptation ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            510,
+            366,
+            527
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Adverse environmental conditions — stresses  are at the basis of much evolutionary change. During periods of severe stress, because of the intense selective pressure, fundamental changes such as species extinctions and bursts of change within species are likely to occur. The outcome will depend on the genetic variability present in a given lineage. ",
+        "bbox": [
+            143,
+            545,
+            854,
+            632
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We refer to stress as a disturbance of the normal functioning of a biological system (its steady state or homeostasis) by a change in an environmental factor whose amplitude and persistence are such that it causes reduction in fitness or increased mortality. Since small and/or steady departures from steady-state conditions may render the individual more resistant to further change through induction of appropriate responses, they may be viewed as causing a beneficial outcome, and are not referred to as stresses. ",
+        "bbox": [
+            143,
+            633,
+            854,
+            771
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Even though mutation is generally recognized as the ultimate source of evolutionary change, its relative importance in the adaptive process has been underestimated. The contribution of mutation to the overall genetic variation present within a species has been thought to be insignificant in comparison to the already existing variation, because the waiting time for a beneficial mutation may be too long, and the probability that the occurrence of such a mutation will coincide with an environmental shift requiring an adaptive response seems infinitesimally small. However, recent evidence suggests that during periods of environmental challenge and subsequent stress of the organism, the rates of many mutational events increase dramatically. Therefore, mutation can be stress-responsive. The implications for adaptation of such a notion are important; at challenging moments in evolutionary history when major adaptive shifts are required, mechanisms exist that increase the probability that appropriate variants will be provided. ",
+        "bbox": [
+            143,
+            773,
+            854,
+            914
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            143,
+            123,
+            854,
+            228
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To answer questions about the influence of stress on the generation of genetic diversity and adaptation, experimental approaches are desirable, because it is very difficult to determine a posteriori the processes that produced some pattern. For example, mutation rates estimated from DNA sequence comparisons are apparently different in different lineages, in the same lineage over time and even at different locations within a single genome (Li, 1993). It is still unclear what the most important factors are that cause the observed rate heterogeneity, and their identification is fundamentally important to our understanding of evolution. The large statistical uncertainty of these estimations further underscores the need for experimental approaches to this and related problems. ",
+        "bbox": [
+            145,
+            229,
+            856,
+            420
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It might seem a daunting task because of the complexity of the systems, but there are experimental systems that allow the needed studies to be readily carried out. Model organisms such as bacteria have many advantages, such as short generation time, large population sizes, relatively small haploid genomes, controllable environmental variables, a possibility for direct comparison of initial and derived genotypes, availability of molecular data and substantial knowledge of molecular mechanisms. Moreover, due to the overall conservation of a number of these mechanisms from bacteria to humans, bacterial genetics can serve as a source of new paradigms, piloting research into the links between environment and genetic changes. ",
+        "bbox": [
+            145,
+            421,
+            856,
+            596
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This chapter will therefore focus on genetic changes induced by stress, setting aside cellular epigenetic responses to stress (for a review see Morris, 1993; Feige et al., 1996). The links between stress and genetic variability will be reviewed in two sections centered respectively on molecular and evolutionary aspects. The first describes molecular mechanisms which generate genetic variability and gives examples of their regulation that indicate that under stres the level of mutation increases. The second section will try to show that natural selection might favor such an increased mutation rate in the course of adaptation to an environmental challenge. Based on our knowledge of mutagenesis and recombination on the molecular level, the implications for the speciation process of this modulation of evolutionary rates will then be discussed. ",
+        "bbox": [
+            145,
+            597,
+            856,
+            807
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Molecular mechanisms contributing to genetic variability ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            842,
+            731,
+            861
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental investigations with micro-organisms carried out in the past decades have unravelled a number of molecular mechanisms which contribute, each in its specific way, to the overall generation of genetic variation (Fig. 1). Evolutionary theory has tended to pay less attention to these mechanisms than to the result of mutation, that is, to the variants and how the variants can be fixed in populations. Yet the understanding of mechanisms providing the variation has a direct bearing on the larger questions. ",
+        "bbox": [
+            145,
+            878,
+            856,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/058046e145fb6ec0b54a8e8367e5cea46a2ba2cf68cfae05070652b44996dded.jpg",
+        "image_caption": [
+            "Figure 1. The molecular mechanisms that regulate genetic variability. The MRS controls genetic stability. The E. coli mut mutants show large increases : (1) deletion events resulting from excision of transposable elements (Tex phenotype) (Lundblad and Kleckner, 1985); (2) spontaneous base substitution and frameshift mutagenesis (mutator phenotype) (Friedberg et al., 1995); (3) large chromosomal rearrangements resulting from crossovers between diverged DNA repeats (chromosomal instability phenotype) (Petit et al., 1991; Radman and Wagner, 1993; Radman et al., 1993); (4) recombination of genetic markers (hyper-rec phenotype) (Feinstein and Low, 1986); and (5) recombination with related species such as Salmonella (disrupted genetic barrier phenotype) (Rayssiguier et al., 1989). SOS induction increases the frequency of all of these genetic modifications, which are suppressed by the activity of the MRS (Friedberg et al., 1995). In black: parental strands; in gray: newly synthesized strand; arrays of arrows indicate repeats of mono-, di- and trinucelotides; mismatched bases are indicated by opposing arrowheads. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            148,
+            124,
+            861,
+            357
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            145,
+            579,
+            856,
+            666
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "These mechanisms can be grouped as following: ",
+        "bbox": [
+            168,
+            668,
+            635,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1) Mutagenesis through DNA replication and repair infidelity Base alterations arise from the inherent instability of the specific chemical bonds that constitute the normal chemistry of nucleotides under physiological conditions as well as from reaction with a variety of chemical compounds and physical agents present in the environment. The incorporation of such bases during DNA replication results in nucleotide substitutions. If the base alteration happens within a DNA molecule, its mutagenicity will depend on the fidelity of repair mechanisms present in each living cell. Besides misincorporation, mispositioning of template and newly synthesized strands relative to each other also adds to the repertoire of replication errors, resulting in small insertions, small deletions and small duplications. ",
+        "bbox": [
+            148,
+            699,
+            858,
+            912
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recombinational DNA rearrangements ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            124,
+            553,
+            141
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Besides homologous recombination at corresponding allelic regions, which increases genetic variety, recombination can also occur between DNA sequences of sufficient homology located at different sites in the genome. This can give rise to various types of DNA rearrangements, including duplications, deletions, inversions as well as fusion and dissociation of replicons. All these events can be mediated by various mobile genetic elements or can result from other illegitimate processes (Arber, 1995). ",
+        "bbox": [
+            145,
+            142,
+            856,
+            264
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3)Acquisition of genetic information from other organisms ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            282,
+            717,
+            298
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The nature of genetic exchange in prokaryotes makes it a powerful source of genetic variability unique to them (Matic et al., 1996). It can be brought about by transformation or by action of mobile genetic elements such as plasmids, transposons, insertion sequences and phages. The large overlap in host ranges of such genetic exchange vectors allows sequential DNA transmission among almost all bacterial species. Promiscuous genetic exchange gives bacteria a special adaptive advantage: it allows cells to acquire traits developed and refined by organisms from other taxa or even other phyla that confer, for example, resistance to antibiotics, toxins and metals and the ability to degrade new compounds (e.g. xenobiotics). One consequence is a pool of genes that is accessible to virtually every bacterial species. ",
+        "bbox": [
+            145,
+            300,
+            856,
+            509
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The majority of events involved in each of these processes produce nonadaptive alterations which are not fixed and therefore of no evolutionary relevance. However, amongst relevant alterations, one can assume that the acquisition of functional genetic information is perhaps the most efficient process, because for the recipient it may represent a functional improvement in a single step. Nucleotide substitutions and other local sequence variations are expected to be more frequent events representing steps in a long-term steady development and improvement of biological functions. Recombinational rearrangements probably represent an evolutionary efficiency between that of gene acquisition and that of point mutations. ",
+        "bbox": [
+            145,
+            510,
+            856,
+            701
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Molecular mutagenesis mechanisms that result in qualitatively very different types of mutations all have specific roles in the evolutionary process. Therefore, different mutagenesis processes should not be considered as alternative possibilities. Rather, a parallel action of various mechanisms of mutagenesis is essential for the evolutionary process. Although extensive knowledge about these processes has been collected, it is still quite difficult to determine their relative contributions to any particular case of evolution or, even more, to untangle their roles more generally. ",
+        "bbox": [
+            143,
+            702,
+            856,
+            843
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Besides enzymes that are specifically involved in any one of the processes which generate variability mentioned above, there are some enzymatic systems whose actions control or at least influence all of them. We will focus on two such systems: SOS and the mismatch repair system (MRS). ",
+        "bbox": [
+            143,
+            845,
+            856,
+            914
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair system down-regulates genetic variability ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            123,
+            710,
+            139
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enzymes that recognize and process mismatches were identified first in prokaryotes and then in eukaryotes based on their conservation from bacteria to humans (Radman et al., 1995; Modrich and Lahue, 1996). Their primary function is the control of genetic integrity and stability (for reviews see Modrich, 1991; Radman and Wagner, 1993). ",
+        "bbox": [
+            148,
+            157,
+            856,
+            244
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A base-pair mismatch can be defined as any mispaired or unpaired base in a DNA duplex. Such heteroduplex DNA molecules contain nonidentical genetic information on the two complementary strands. There are at least three ways in which mismatches can arise in DNA: (1) by physical or chemical damage to the DNA; (2) during DNA replication; and (3) during homologous recombination between non-identical DNA sequences. ",
+        "bbox": [
+            145,
+            244,
+            856,
+            367
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair transforms a heteroduplex molecule into a homoduplex which yields pure progeny of a single parental genotype. The MRS thus controls the fidelity of chromosomal replication (by eliminating DNA replication errors such as substitution and frame-shift mutations), of transposon excision and of homologous recombination (preventing chromosomal rearrangements and interspecies recombination). ",
+        "bbox": [
+            145,
+            367,
+            856,
+            472
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bacteria possess multiple mismatch repair pathways that are distinguished on the basis of mismatch specificity and the size of excision repair tracts associated with the correction. We will focus our discussion on the Escherichia coli methyl-directed repair (MutSLHU) which is the best-described mismatch repair system (Fig. 2) (Modrich, 1991). This system is characterized by broad mismatch specificity and repair in a strand-specific manner. The strand specificity of repair is governed by secondary signals that may be located far from the mismatch. As the excision-repair tracts associated with this pathway can be a kilobase long or longer, this repair system is referred to as the \"long-patch repair system\". ",
+        "bbox": [
+            148,
+            474,
+            856,
+            648
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Recombination between non-identical DNA sequences gives rise to mismatched heteroduplexes. The density of mispairs within this region reflects the extent of divergence of the two sequences and hence the degree to which imperfect homology is acceptable to the recombination enzymes catalyzing the reaction. The mismatch repair proteins recognize those mismatches and block RecA-catalyzed strand transfer (Worth Jr et al., 1994). The inactivation of mismatch repair genes in $E$ coli results in a 50- to 3000-fold increase in interspecies conjugational recombination between $E .$ coli and Salmonella typhimurium, whose chromosomes are about $1 6 \\%$ divergent at the DNA sequence level (Rayssiguier et al., 1989). Petit et al. (1991) have observed that the frequency of chromosomal duplications resulting from recombination between $E$ coli rhsA and rhsB loci $( 0 . 9 \\%$ divergent) increases 10- to 15-fold in mutL or mutS backgrounds. ",
+        "bbox": [
+            148,
+            650,
+            858,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/527e6d1fa39861c15b7a00021b4473f9dff723a584200c154cfbcf9c631fde46.jpg",
+        "image_caption": [
+            "Figure 2. Model for mismatch repair. The mismatch repair process is initiated by the MutS protein, which recognizes and binds to mismatches. The biochemical function of the MutL protein is unknown. It may act as a molecular matchmaker that allows formation of a repair complex containing MutS, MutL and MutH proteins at mismatched base pairs and hemimethylated d(GATC) sites. The state of adenine methylation of GATC sequences determines strand specificity of mismatch repair. The methylation lags behind DNA replication, leaving newly synthesized daughter-strand DNA undermethylated relative to the parental strand. The hemimethylated DNA is corrected on the unmethylated strand, with the modified strand serving as template. The nick introduced by MutH, which is hemimethylated d(GATC)-specific endonuclease, serves to initiate the excision of newly synthesized DNA from the nick to just past the mismatch. The last step of mismatch repair is gap repair by DNA polymerase. Repair directed by a persistent strand break requires neither MutH nor the presence of GATC sites within the heteroduplex, but does depend on the other protein components of the methyl-directed system. For example, the MutS and MutL proteins can edit recombination between similar non-identical sequences even in the absence of the MutH protein, which is not the case for the repair of replication errors. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            236,
+            121,
+            765,
+            630
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regulation of the MRS ",
+        "text_level": 1,
+        "bbox": [
+            150,
+            124,
+            366,
+            141
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The expression of the mutS and mutL mismatch repair genes is not induced by mutagen treatments or in different mutator backgrounds [i.e. when mutation rate is enhanced by some genetic defect (Pang et al., 1985)]. On the contrary it has been shown that the efficiency of the MRS can be decreased in some genetic backgrounds or under particular environmental conditions as a result of either diminution of the amount of mismatch repair proteins or of their titration by high concentration of mismatched DNA. For example, the mismatch repair system is saturated in $E$ coli cells which are treated with DNA-damaging agents introducing DNA lesions recognized by mismatch repair system (Cupples et al., 1990). ",
+        "bbox": [
+            148,
+            159,
+            858,
+            333
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Also, MutS protein can be titrated out in cells containing mismatches in retron-encoded multicopy single-stranded DNA. Overexpression of such molecules results in increased mutagenesis and frequency of interspecies recombination, which are phenotypes of mut cells (Maas et al., 1994; Maas et al., 1996). These phenomena are suppressed in the presence of a multicopy plasmid carrying the mutS gene. ",
+        "bbox": [
+            148,
+            334,
+            858,
+            439
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, the mismatch repair proteins can be titrated out in mutD5 mutants, in which there is a proofreading defect in DNA polymerase III, leading to very strong mutator phenotype (Damagnez et al., 1989; Schaaper and Radman, 1989). This mismatch repair defect is observed only in rich medium during the exponential growth phase, and it has been attributed to saturation of the MRS by excess of replication errors due to the proof reading defect. In these cells, it is a limitation in MutL and MutH, rather than in the MutS protein that diminishes mismatch repair capacity. These results suggest that mismatch repair proteins are not present in excess and may be limiting in some cases, even in exponentially growing cells. ",
+        "bbox": [
+            150,
+            439,
+            861,
+            615
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "There is growing evidence that mismatch-repair capacity decreases in stressed bacterial cells, during a stationary phase or during nutritional deprivation. Schaaper and Radman (1989) observed about five-fold reduction of mismatch repair activity in $E$ coli cells in late log phase compared with cells from early log phase. The expression of mutS and mutL genes from multicopy plasmids increases the efficiency of error correction in cells during a stationary phase (Foster et al., 1995). The level of MutS protein becomes barely detectable when $E .$ coli cells enter the late stationary phase or when they are deprived of a usable carbon source. The transcription of mutS, mutL and mutH also decreases to undetectable levels in latestationary-phase cells (Feng et al., 1996). ",
+        "bbox": [
+            150,
+            617,
+            861,
+            807
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The SOS response up-regulates genetic variability ",
+        "text_level": 1,
+        "bbox": [
+            150,
+            843,
+            630,
+            860
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SOS response is the set of physiological responses induced by exposure of $E$ coli cells to a variety of stressful conditions which damage DNA or interfere with DNA replication, like exposure to diverse physical or chemical DNA-damaging agents (for reviews see Oishi, 1988; Friedberg et al., 1995). SOS induction also occurs in bacteria in aging colonies on agar plates, in exhausted liquid media and during phosphate starvation (Dri and Moreau, 1993; Taddei et al., 1995). Starvation may be stressful because under such conditions cells might have to cope with an accumulation of DNA-damaging metabolic byproducts. Alternatively, the starvation might lead to blockage of replication due to depletion of DNA precursors. ",
+        "bbox": [
+            148,
+            878,
+            861,
+            912
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            145,
+            123,
+            856,
+            264
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "SOS induction has also been detected during conjugation (Matic et al., 1995), during restriction of foreign or host DNA (Dharmalingam and Goldberg, 1980), during transposition of Tn10 (Roberts and Kleckner, 1988) and IS1 (Lane et al., 1994), during activation of the postsegregational killing system of the F plasmid (Cohen-Fix and Livneh, 1994) and when plasmid or phage DNA persists in single-stranded form (Higashitani et al., 1992; Gigliani et al., 1993). Many Gram-negative and Gram-positive bacteria possess SOS regulatory systems similar to that in $E .$ coli with respect to the induced physiological responses and to the specificity of key regulatory interactions. ",
+        "bbox": [
+            145,
+            264,
+            856,
+            438
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Regulation of the SOS system is mediated through the recA and lexA genes (Fig. 3). The LexA protein acts as a repressor for more than 20 genes, including the recA and lexA genes, while the RecA protein functions as a positive regulatory element in SOS induction. The inferred inducing signal is persistent single-stranded DNA, to which the RecA protein binds and becomes activated as a co-protease $( \\boldsymbol { \\mathrm { R e c A } } ^ { * } )$ that promotes proteolytic cleavage of the LexA repressor, thus derepressing the SOS regulon. ",
+        "bbox": [
+            143,
+            439,
+            856,
+            563
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This complex inducible system has two general features that favor survival of a stressed bacterial population: increased capacity for DNA repair and enhanced generation or genetic variation. It can be argued that the genetic variation component is a side effect of the DNA repair activities; however, some SOS functions with the potential to increase genetic diversity have no obvious DNA repair functions. A bacterial population in danger of extinction has little to lose by accelerated generation of genetic modifications in a quest for new genetic potential. Some genes which are directly involved in error-free DNA repair may also be involved in generation of genetic variability. For example, in $E$ coli the SOS induction promotes repair of double-strand beaks and daughter-strand gap recombi",
+        "bbox": [
+            145,
+            564,
+            856,
+            755
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "NON-INDUCED STATE ",
+        "text_level": 1,
+        "bbox": [
+            334,
+            124,
+            642,
+            144
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/69cb38fee4c5f0036ef281d954a70e5c33483651ca1ded97653b224a0a63e2c4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            179,
+            148,
+            826,
+            782
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "INDUCED STATE ",
+        "text_level": 1,
+        "bbox": [
+            369,
+            782,
+            601,
+            803
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "to increased expression of error-free nucleotide excision and recombinational repair genes, while other SO responses, such as error-prone translesion synthesis or prophage induction do not occur unless the cell receives a stronger SOS-inducing treatment. As the cell begins to recover from the SOS-inducing treatment, the SOS-inducing signals disappear as a consequence of various DNA repair processes, and RecA molecules return to their non-activated state (open square). Continued synthesis of LexA molecules then leads to an increase in the LexA pool which, in turn, leads to repression of the SOS genes and a return to the uninduced state. ",
+        "bbox": [
+            143,
+            816,
+            856,
+            912
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "national repair, but it is also required for efficient conjugational and transductional recombination. SOS induction stimulates recombination between partially homologous $E$ coli rhsA and rhsB sequences $( 0 . 9 \\%$ divergence), leading to chromosomal rearrangements (Dimpfl and Echols, 1989). ",
+        "bbox": [
+            143,
+            123,
+            856,
+            192
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SOS induction-stimulated targeted (to DNA lesions) mutagenesis can be considered a DNA repair function as well as a function that generates genetic variation. Activation of the RecA protein, inactivation of the LexA repressor and subsequent induction of recA gene expression are necessary for the accumulation of \"adaptive mutations\" in $\\mathbf { F } '$ lac genes during longterm carbon source starvation (Cairns and Foster, 1991). SOS induction also increases the transposition frequencies of Tn5 and Tn10 (Kuan et al., 1991; Levy et al., 1993) and induces the expression of the himA gene, whose protein product is required for site-specific recombination. ",
+        "bbox": [
+            145,
+            193,
+            856,
+            351
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SOS response is induced in competent Bacillus subtilis cells in the absence of exogenous DNA-damaging treatments (Yasbin et al., 1992). The initial competence-specific induction of the RecA protein seems to be independent of the SOS regulon. However, in competent $B .$ subtilis cells, single-stranded gaps are formed in chromosomal DNA, which, together with transforming single-stranded DNA, provides a substrate for the activation of RecA. Activated RecA then derepresses SOS functions, leading to a further increase in RecA concentration, which enhances the efficiency of the transformational recombination. ",
+        "bbox": [
+            145,
+            352,
+            856,
+            509
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Treatment of competent $E$ coli cells with SOS-inducing agents increases the efficiency of transformation with plasmid DNA (Vericat et al., 1988). It is possible that this phenomenon is linked with association of $\\operatorname { R e c } \\mathbf { A } ^ { * }$ with the cell membrane of the SOS-induced $E .$ coli cells, which has been shown to change the levels of major outer membrane proteins. It is also known that the $\\operatorname { R e c } \\mathbf { A } ^ { * }$ protein increases the permeability of the E. coli cell membrane (Swenson and Schenley, 1974; Tessman and Peterson, 1985). Therefore, it may be that modification in structure and permeability of the membrane could facilitate entry of plasmid DNA. ",
+        "bbox": [
+            145,
+            510,
+            856,
+            665
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Numerous SOS functions can be implicated in genetic exchange. During interspecies conjugation, the DNA sequence divergence between genomes of different species slows down the RecA-mediated recombination steps, resulting in activation in the RecA protein co-protease activity. Consequently, the induction of the SOS response enhances interspecies recombination (Matic et al., 1995). Thus, interspecies conjugation acts as an intracellular stress inducer in the recipient cells. Paradoxically, the DNA sequence divergence, which is a major component of the interspecies genetic barrier, helps cells to partially overcome this obstacle by triggering SOS response. ",
+        "bbox": [
+            145,
+            666,
+            856,
+            842
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The $\\boldsymbol { \\mathrm { R e c A } } ^ { * }$ protein also promotes cleavage of repressors of a number of temperate bacteriophages such as lambda, 434, 21, P22, f80 and coliphage 186. Prophage induction differs from other SOS responses in that it is an irreversible process that causes cell death, but it can stimulate transduction. ",
+        "bbox": [
+            148,
+            843,
+            858,
+            914
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "SOS response-dependent restriction alleviation can increase the frequency of transduction and conjugation (Drake et al., 1983; Kowalczykowski, 1994). Furthermore, it has been found that double-strand exonuclease (ExoV) is inhibited in SOS induced cells, which might confer a hyperrecombinogenic phenotype (Thaler et al., 1988; Kannan and Dharmalingam, 1990; Rinken and Wackernagel, 1991). ",
+        "bbox": [
+            145,
+            123,
+            856,
+            226
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SOS and MRS fine-tune genetic variability ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            259,
+            555,
+            276
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "By the mechanisms described above, the actions of the SOS and MRS determine the rate of genetic diversification (Fig. 4). In general, the mismatch repair system is responsible for the constant maintenance of genome stability and its faithful transmission from one generation to the next; however, the activity of this down-regulator of genetic variability can be diminished. The SOS system is inducible and serves as an up-regulator of genetic variability under stress. Therefore, an abrupt environmental change which significantly deviates from the previous \"stable\" state can downregulate the MRS (as discussed above) and fully induce SOS response (whose activities then become generators of variability), increasing the potential for adaptation either by acquisition of beneficial mutation(s) or by acquisition of functions by horizontal transfer. ",
+        "bbox": [
+            148,
+            294,
+            858,
+            506
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/c613b81ae9b41c4c50f49aa7f2b0f1ae0dabfa9262195a7d46d26f080c80fbfd.jpg",
+        "image_caption": [
+            "Figure 4. Environment and the mutation rate. A mutation rate for an organism that is too low (A) would cause an evolutionary death due to the incapacity for adaptation to the changing environment, and one that is too high would cause an immediate death due to the error catastrophe (B). The optimal mutation rate for an organism (defined as the one maximizing fitness) lies between these extreme values. The rate varies depending on the fit between genotype and environment: the less adapted the population, the higher the mutation rate necessary to create individuals which will be adapted to the new environmental conditions. This would be accomplished through the effects of different states of the MR and SOS systems. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            182,
+            548,
+            817,
+            791
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The genetic basis of SOS and MRS is, just like the rest of the genome, a dynamic structure. So it too contains variability, and the extent of this variability is controlled by the action of the very products it encodes, as just described. Another way of seeing this is that mutator genes control their own mutation rate. With an understanding of the mechanisms generating variability outlined above, we can begin to look at the evolutionary outcome of the response of these systems to stress followed by natural selection. ",
+        "bbox": [
+            143,
+            123,
+            856,
+            262
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Evolutionary implications of the fine-tuning of genetic variability ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            297,
+            808,
+            315
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The speed of the Red Queen ",
+        "bbox": [
+            148,
+            333,
+            414,
+            351
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The fine-tuning of mutation rates by MRS and SOS challenges the classical view of a mutation rate necessarily set at a minimum. Since the vast majority of mutations are neutral or deleterious, Kimura proposed that mutation rates are necessarily as low as possible (Kimura, 1968). This hypothesis is supported by the existence of numerous antimutator mechanisms (\"evolutionary brakes\" such as the MRS) and by the constancy of mutation rate per genome [1 mutation per 300 genomes replicated for DNA-based microorganisms (Drake, 1991)]. In this view, constraints like speed of replication and more generally cost of mutators prevent a null mutation rate to be reached. Comparative analysis of mutation rates, as well as findings from the fields of molecular biology and population genetics, further supported this minimal mutation rate paradigm. ",
+        "bbox": [
+            145,
+            369,
+            856,
+            578
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "But this paradigm, as well as the entire neo-Darwinian view, was challenged by work on \"directed mutations\" in E. coli. In the most studied cases of what was then called \"adaptive mutagenesis\", it was shown that mechanisms specific to the system submitted to selection (transposable element or plasmid) were induced by stress rather than by the selection itself (Shapiro, 1995). The debate then focused on whether mutations accumulated during the period of starvation are harmful but unavoidable given the level of stress [sick watchmaker hypothesis (Lenski and Sniegowski, 1995)] or whether they were due to specific genetic programs [genetic engineer hypothesis (Shapiro, 1995)]. ",
+        "bbox": [
+            145,
+            581,
+            858,
+            753
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "As most experimental systems used in the adaptive mutation controversy have been linked with selfish elements (phage, transposon or plasmid), we can also speculate that selective pressure acting at their level rather than at the cellular level might be responsible for the observed phenomena. As described previously, replication of phages, plasmids and transposons is induced by stressful conditions which trigger SOS response. When their hosts are under stress, in an effort to increase their fitness, these selfish elements might transfer themselves to a new host or enhance the mutation rate of their current one. ",
+        "bbox": [
+            145,
+            756,
+            858,
+            912
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "If a host could enhance its own mutation rate in response to stress, we could ask whether the optimal mutation rate varies with the environment (Fig. 4). The rate would be minimal when conditions are favorable to growth and would increase in cases of poor adaptation to the environment. In the absence of a neo-Lamarckian mechanism generating only beneficial mutations, one way to maximize the advantage of a mechanism generating genetic variability is to induce it only in bacteria in environments where conditions are not favorable to growth. ",
+        "bbox": [
+            148,
+            123,
+            856,
+            261
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Considering the effects of MR and SOS systems, such a scenario is not difficult to imagine at a molecular level. In a favorable environment the mutation rate would be maintained at a low level primarily through the action of the MRS, whereas during environmental stress conditions (radiation, chemical agents, starvation conditions, intra- and/or interspecific competition etc.) when SOS response is induced and the MRS downregulated, it would be increased. ",
+        "bbox": [
+            145,
+            262,
+            856,
+            385
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Selecting for mutators ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            420,
+            359,
+            436
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Whenever adaptation of organisms is imperfect, intraspecific competition favors mechanisms generating first-adapted genotypes. A mutator allele might help to generate such an adapted genotype. If recombination is low enough, selection for the fittest genotype would also select for the mutator mechanism that has generated it by hitchhiking. In the absence of a system generating only useful mutations, mutator alleles will have a cost due to the deleterious mutations they will cause. ",
+        "bbox": [
+            145,
+            456,
+            856,
+            578
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A higher mutation rate is submitted to divergent selective pressure: counterselected at the interindividual level and selected for in an intergroup competition (the same holds true for other mechanisms like sex and migration that increase the distribution of fitness). What sort of evolutionary pattern this creates is being modelled using a population genetics approach. As we await these models, we can already make some general remarks. ",
+        "bbox": [
+            145,
+            579,
+            856,
+            683
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The balance between the costs and benefits of a mechanism generating genetic variability will determine if it can be maintained. At least two parameters associated with a given mechanism are important to consider: its localization (either restricted to certain loci or generalized to the whole genome) and its duration (either induced only in periods of stress or permanent). Numerous such mechanisms have survived the test of natural selection. Since space and time are independent parameters, one can find both localized and generalized mechanisms which are permanent or inducible (Tab. 1). ",
+        "bbox": [
+            145,
+            684,
+            856,
+            840
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There might even be a synergy among these different mechanisms. A given mutation hot spot might become hotter in mismatch repair-deficient or SOS-induced cells. Under a given selective pressure, such phenomena might make some mutation sites even hotter, whereas others would remain cold. This could give the illusion of \"directedness\" of mutations, but it should rather be viewed as an effect of past selective pressure. ",
+        "bbox": [
+            145,
+            842,
+            856,
+            912
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "table",
+        "img_path": "images/5aa9b12760cdfd45ad3c2be0d9d9230f3177a052d719479c020a23fbb54d2269.jpg",
+        "table_caption": [
+            "Table 1. The mechanism that generate genetic variability "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            141,
+            139,
+            856,
+            273
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            145,
+            298,
+            854,
+            333
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "In the case of pathogenic bacteria, which are submitted to strong selective pressure, including that imposed by the immune system, some of these mechanisms which increase the speed of evolution are observed more frequently. Symmetrically, hosts are able to synthesize libraries of antibacterial molecules which are generated by inducible mechanisms analogous to, and often even homologous to, the bacterial ones (e.g. chromosomal rearrangement, gene conversion, hot spots of mutagenesis) (Weill and Reynaud, 1996). By restricting the generation or variability to specialized cells (the B and T cells of the immune system), the hosts diminish the costs associated with the generation of genetic variability, a strategy which seems to be used by bacteria as well (Higgins, 1992). ",
+        "bbox": [
+            143,
+            334,
+            856,
+            527
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The importance of non-minimal mutation rates would be heightened if adaptation of organisms to their environment were at best ephemeral because of the impact of the evolution of different organisms on the environment (Ridley, 1993). This hypothesis is called the Red Queen hypothesis, a reference to the Lewis Carroll character who runs without moving forward because the landscape moves too. Under this assumption, mutation rates should vary depending on how fast the environment changes. The fate of a mechanism generating genetic variability would thus be linked with the intensity of the selective pressure (see also Sheldon, this volume). ",
+        "bbox": [
+            145,
+            528,
+            856,
+            683
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Experiments performed in chemostat (a liquid, homogeneous and chemically stable environment) tested the possibility of selecting for mutator genes. Bacterial competition in this new environment led to the selection of mutator strains (Chao and Cox, 1983), whereas after 2000 generations in this environment the mutation rate of mutator strains was reduced (Tröbner and Piechocki, 1984). ",
+        "bbox": [
+            145,
+            684,
+            856,
+            789
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "These observations suggest that Mut cells might be over-represented within stressed or recently adapted bacterial populations. However, in a stable and favorable environment, the advantage of a mutator phenotype will progressively deteriorate, leading to overgrowth of Mut\\* cells (Tröbner and Piechocki, 1984). The constant oscillation between stable and unstable environments in nature might result in the constant oscillation of the ratio of $\\mathrm { \\mathbf { M } u t ^ { - } }$ to $\\mathrm { { M u t } ^ { + } }$ cells in bacterial populations (Fig. 5 B). ",
+        "bbox": [
+            145,
+            791,
+            858,
+            914
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/d03a2c615d7de86586541babcb1fbe8802c65acb31d50be7917f23b3681167e1.jpg",
+        "image_caption": [
+            "Figure 5. The influence of the environment on the rate of accumulation of DNA sequence polymorphism. The accumulation of DNA sequence polymorphism depends on the selected rate of mutagenesis. In a stable environment, DNA sequence polymorphism increases slowly. (A) The stressful conditions that induce SOS response transiently increase mutagenesis and consequently the rate of accumulation of DNA sequence polymorphism. This inducible system that creates genetic variability only when needed minimizes the cost of deleterious mutations to the organism. (B) The mismatch repair capacity decreases in the stressed bacteria. At the population level, when bacteria are exposed to a stressful condition for a longer time period, the mutator alleles are selected for, because mutators are more likely to acquire adaptive mutation() than are wild-type cells. Consequently, the rate of mutagenesis increases on the population level until adaptation of the bacterial population is achieved. At this point the advantage of mutators will deteriorate, leading to the overgrowth of wild-type. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            246,
+            123,
+            760,
+            747
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "In nature, mutator strains are constantly generated from wild-type bacteria through mutations that inactivate mut genes. Strains defective for MRS are expected to arise at rates of $1 0 ^ { - 5 }$ per genomic replication (Ninio, 1991). However, in natural populations of $E$ coli, about $1 \\%$ of cells show enhanced mutagenesis as measured by antibiotic resistance (Jyssum, 1960; Gross and Siegel, 1981; Tröbner and Piechocki, 1984), of which the majority are expected to be mismatch repair mutants. ",
+        "bbox": [
+            143,
+            123,
+            856,
+            244
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "One possible explanation for this enrichment of mutators in natural bacterial populations is that under adverse environmental conditions the Mut cells are more likely to acquire adaptive mutation(s) than the wild-type cells. However, results obtained in chemostat also revealed a paradoxical feature: mutators seemed to be counterselected when rare and favored when abundant (Chao and Cox, 1983). The mechanisms by which mutators become abundant in nature without competing out cells having a lower mutation rate remains obscure. ",
+        "bbox": [
+            145,
+            246,
+            856,
+            387
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Stress, mutators and speciation ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            423,
+            444,
+            439
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Among constraints on the speed of evolution, the selective pressures of the past seem to play a major role. Not only have they selected for the adaptations of organisms to their environment but also for the mechanisms which generated them. Such mechanisms can sometimes respond very specifically, though blindly, to the stress induced by environmental changes. ",
+        "bbox": [
+            145,
+            459,
+            856,
+            546
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "How this occurs can now be imagined in molecular terms. The various states of MR and SOS systems, which are dependent on the extent of environmental stress, affect the mutation rate (Fig. 5). Given that mutation causes DNA sequence change, it follows that the rate of DNA diversification is also subject to environmental control. The acceleration of the speed of evolution during adaptive radiation of bacterial species (Woese, 1987) might support this view. ",
+        "bbox": [
+            145,
+            548,
+            856,
+            668
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The scenario for a stress-induced burst of evolutionary change would be the following: during a period of intense stress, high mutation rates due to mismatch repair deficiency and/or SOS induction are to be expected, leading to the rapid diversification of an initially homogeneous population. If this situation persists long enough, polymorphism might accumulate to such an extent as to generate a barrier to genetic exchange. At the end of such a period of diversification, adaptation of the organisms to their new niches would favor restoration of a lower mutation rate. Since the same enzymatic systems, SOS and mismatch repair, also directly determine the effectiveness of genetic barriers based on sequence divergence, return to mismatch repair proficiency and repressed SOS would result in an immediate establishment of multiple genetic barriers within a highly polymorphic population, causing the speciation burst which could be seen as a punctuated equilibrium event (Fig. 6). ",
+        "bbox": [
+            148,
+            668,
+            858,
+            915
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "image",
+        "img_path": "images/e14f753f904d277302431e40af9637d50fbdda5faf918ff76f61e08e4ad245ac.jpg",
+        "image_caption": [
+            "Figure 6. Molecular model for the burst of speciation. The opposing activities of the MR and SOS systems provide a potential for the fine tuning of both the rates of sequence diversification and the extent of genetic isolation, i.e. speciation. In a new habitat and/or when exposed to adverse environmental conditions, a bacterial population is in a period of high mutation rates due to induction of SOS responses, down-regulation of MRS and the selection for mutators at the population level. The adaptation of a bacterial population to the new environmental conditions leads to represson of the SOS system and the return to MR proficiency. Within such a highly polymorphic population, the accumulated DNA sequence polymorphism reduces genetic exchange and leads to establishment of multiple genetic barriers. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            300,
+            118,
+            706,
+            623
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            846,
+            282,
+            858
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "We thank M. Bianchetta for his help in the writing of this manuscript. This work was supported by grants from the Association pour la Recherche contre le Cancer and Actions Concertées Coordonnées-Sciences du Vivant du Ministère de l'Enseignement Supérieur et de la Recherche de France. ",
+        "bbox": [
+            145,
+            860,
+            858,
+            912
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            143,
+            123,
+            257,
+            139
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Arber, W. (1995) The generation of variation in bacterial genomes. J. Mol. Evol. 40 : 712.   \nCairns, J. and Foster, P.L. (1991) Adaptive reversion of a frameshift mutation in Escherichia coli. Genetics 128:695701.   \nChao, L. and Cox, E.C. (1983) Competition between high and low mutating strains of Escherichia coli. Evolution 37: 125134.   \nCohen-Fix, O. and Livneh, Z. (1994) In vitro UV mutagenesis associated with nucleotide excision-repair gaps in Escherichia coli. J. Biol. Chem. 269:49534958.   \nCupples, C.G., Cabrera, M., Cruz, C. and Miller, J.H. (1990) A set of lacZ mutations in Escherichia coli that allow rapid detection of specific frameshift mutations. Genetics 125:275280.   \nDamagenez, V., Doutriaux, M.P. and Radman, M. (1989) Saturation of mismatch repair in the mutD5 mutator strain of Escherichia coli. J. Bacteriol. 171 : 44944497.   \nDharmalingam, K. and Goldberg, E.B. (1980) Restriction in vivo. V. Induction of SOS functions in Escherichia coli by restricted T4 phage DNA, and alleviation of restriction by SOS functions. Mol. Gen. Genet. 178:5158.   \nDimpfl, J. and Echols, H. (1989) Duplication mutation as an SOS response in Escherichia coli: Enhanced duplication formation by a constitutively activated RecA. Genetics 123: 255260.   \nDrake, J.W. (1991) A constant rate of spontaneous mutation in DNA-based microbes. Proc. Natl. Acad. Sci. USA 88 : 71607164.   \nDrake, J.W., Glickman, B.W. and Ripley, L.W. (1983) Updating the theory of mutation. Am. Sci. 71:621630.   \nDri, A.-M. and Moreau, P.L. (1993) Phosphate starvation and low temperature as well as ultraviolet irradiation transcriptionally induce the Escherichia coli LexA-controlled gene iA. Mol. Microbiol. 8:697706.   \nFeige, U., Morimoto, R.I., Yahara, I. and Polla, B.S. (1996) Stress-Inducible Cellular Responses. Birkhäuser, Basel.   \nFeinstein, S.I. and Low, K.B. (1986) Hyper-recombining recipient strains in bacterial conjugation. Genetics 113: 1333.   \nFeng, G., Tsui, H.-C.T. and Winkler, M.E. (1996) Depletion of the cellular amounts of the MutS and MutH methyl-directed mismatch repair proteins in stationary-phase Escherichia coli K-12 cells. J. Bacteriol. 178 :23882396.   \nFoster, P.L., Gudmundson, G., Trimarchi, J.M., Cai, H. and Goodman, M.F. (1995) Profreadingdefective DNA polymerase II increases adaptive mutation in E. coli. Proc. Natl. Acad. Sci. USA 92:7951-7955.   \nFriedberg, E.C., Walker, G.C. and Siede, W. (1995) DNA Repair and Mutagenesis. ASM Press, Washington, DC.   \nGigliani, F., Ciotta, C., Del Grosso, M.F. and Battaglia, P.A. (1993) pR plasmid replication provides evidence that single-stranded DNA induces the SOS system in vivo. Mol. Gen. Genet. 238:333338.   \nGross, M.D. and Siegel, E.C. (1981) Incidence of mutator strains in Escherichia coli and coliforms in nature. Mutat. Res. 91 : 107110.   \nHigashitani, N., Higashitani, A., Roth, A. and Horiuchi, K. (1992) SOS induction in Escherichia coli by infection with mutant filamentous phage that are defective in initiation of complementary-strand DNA synthesis. J. Bact. 174: 16121618.   \nHiggins, N.P. (1992) Death and transfiguration among bacteria. Trends Biochem Sci 17:207211.   \nJyssum, K. (1960) Observation of two types of genetic instability in Escherichia coli. Acta Pathol. Microbiol. Immunol. Scand. 48: 113120.   \nKannan, P. and Dharmalingam, K. (1990) Induction of the inhibitor of the RecBCD enzyme in Escherichia coli is a lexA-independent SOS response. Current Microbiol. 21 :715.   \nKimura, M. (1968) Evolutionary rate at the molecular level. Nature 217:624626.   \nKowalczykowski, S.C. (1994) In vitro reconstitution of homologous recombination reactions. Experientia 50:204-215.   \nKuan, C.-T., Liu, S.-K. and Tessman, I. (1991) Excision and transposition of Tn5 as an SOS activity in Escherichia coli. Genetics 128:4557.   \nLane D. Cavaille, J. and Chandler, M. (1994) Induction of the SOS response by IS1 transposase. J. Mol. Biol. 242 :339350.   \nLenski, R.E. and Sniegowski, P.D. (1995) Adaptive mutation: The debate goes on. Science 269:285288.   \nLevy, M.S., Balbinder, E. and Nagel, R. (1993) Effects of mutations in SOS genes on UVinduced precise excision of Tn10 in E. coli. Mutation Res. 293 :241247.   \nLi, W.-H. (1993) So, what about the molecular clock hypothesis? Curr Opin. Genet. Dev. 3:896901.   \nLundblad, V. and Kleckner, N. (1985) Mismatch repair mutations. of Escherichia coli K12 enchance transposon excision. Genetics 109:319.   \nMaas, W.K., Wang, C., Lima, T., Zubay, G. and Lim, D. (1994) Multicopy single-stranded DNAs with mismatched base pairs are mutagenic in Escherichia coli. Mol. Microbiol. 14:437441.   \nMaas, W.K., Wang, C., Lima, T., Hach, A. and Lim, D. (1996) Multicopy single-stranded DNA of Escherichia coli enhances mutation and recombination frequencies by titrating MutS protein. Mol. Microbiol. 19: 505509.   \nMatic, I., Rayssiguier, C. and Radman, M. (1995) Interspecies gene exchange in bacteria: The role of SOS and mismatch repair systems in evolution of species. Cell 80 : 507515.   \nMatic, I, Taddei, F and Radman, M. 199) Genetic barriers among bacteria. Trends Microbiol. 4:6973.   \nModrich, P. (1991) Mechanisms and biological effects of mismatch repair. Annu. Rev. Genet. 25:229253.   \nModrich, P. and Lahue, R. (1996) Mismatch repair in replication fidelity, genetic recombination and cancer biology. Annu. Rev. Biochem. 65 : 101133.   \nMorris, J.G. (1993) Bacterial shock response. Endeavour 17:26.   \nMx, E.R. Raiey, P.B. Nowak, M.A. and Lenski R.E. (199Aaptiv vou y mutable loci in pathogenic bacteria. Current Biology 4 :2433.   \nNinio, J. (1991) Transient mutators: A semiquantitative analysis of the influence of translation and transcription errors on mutation rates. Genetics 129 : 957962.   \nOishi, M. (1988) Induction of recombination-related functions (SOS functions) in response to DNA damage. In: K. Brooks Low (ed.): The Recombination of Genetic Material. Academic Press, San Diego, CA, pp. 445491.   \nPang, P.P., Lundberg, A.S. and Walker, G.C. (1985) Identification and characterization of the mutL and mutS gene products of Salmonella typhimurium LT2. J. Bacteriol 163: 1007- 1015.   \nP M.A.  Rn M.Echols H.  ol al ments in E. coli by the mismatch repair system. Genetics 129 :327332.   \nRadman, M. and Wagner, R. (1993) Mismatch recognition in chromosomal interactions and speciation. Chromosoma 102 :369373.   \nRadman, M., Wagner, R. and Kricker, M.C. (1993) Homologous DNA interactions in the evolution of gene and chromosome structure. In: K.E. Davies (ed.): Genome Analysis, Volume 7. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, pp. 139152.   \nRaan, M. Matic, I., Halliay, Jand Tadei,F. (1995Editg DA replicaio nd embination by mismatch repair: From bacterial genetics to mechanisms of predisposition to cancer in humans. Phil. Trans. R. Soc. Lond. B 347:97103.   \nRayssiguier, C., Thaler, D.S. and Radman, M. (1989) The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342 :396401.   \nRidley, M. (1993)The Red Queen: Sex and the evolution of human nature. In: Penguin Science. Penguin Books, London.   \nRinken, R. and Wackernagel, W. (1992) Inhibition of the RecBCD-dependent activation of Chi recombinational hot spots in SOS-induced cells of Escherichia coli. J. Bacteriol. 174: 11721178.   \nRoberts, D. and Kleckner, N. (1988) Tn10 transpositon promotes RecA-dependent induction of a λ prophage. Proc. Natl. Acad. Sci. USA 85 : 60376041.   \nSchaaper, R.M. and Radman, M. (1989) The extreme mutator effect of Escherichia coli mutD5 results from saturation of mismatch repair by excessive DNA replication errors. EMBO J 8:35113516.   \nShapiro, J. (1995) Adaptive Mutation: Who's really in the garden? Science 268:373374.   \nSwenson, P.A. and Schenley, R.L. (1974) Respiration, growth and viability of repair-deficient mut Ecerichia col rultraviole raiation.IntRadiat. BiolRelat. Phys. Chem. Med. 25:5160.   \nTaddei, F., Matic, I. and Radman, M. (1995) Cyclic AMP-dependent SOS induction and mutagenesis in resting bacterial populations. Proc. Natl. Acad. Sci. USA 92: 11 73611 740.   \nTessman, E.S. and Peterson, P. (1985) Plaque color method for rapid isolation of novel recA mutants of Escherichia coli K-12: New classes of protease-constitutive recA mutants. J. Bact. 163:677687.   \nThaler, D.S., Sampson, E., Siddiqi, I., Rosenberg, S.M. Stahl, F.W. and Stahl, M.M. (1988) A hypothesis: Chi-activation of recBCD enzyme involves removal of the recD subunit. In: E. Friedberg and P. Hanawalt (eds): Mechanisms and Consequences of DNA Damage Processing. Alan R. Liss, New York, pp. 413422.   \nTröner, W. and Piechocki, R. (1984) Selection against hypermutability in Escherichia coli during long-term evolution. Mol. Gen. Genet. 198 : 177178.   \nVericat, J.A., Guerrero, R. and Barbé, J. (1988) Increase in plasmid transformation efficiency in SOS-induced cells. Mol. Gen. Genet. 211 : 526530.   \nWeill, J.-C. and Reynaud C.-A. (1996) Rearrangement/hypermutation/gene conversion: When, where and why. Immunology Today 17:9297.   \nWoese, C.R. (1987) Bacterial evolution. Microbiol. Rev. 51 :221271.   \nWorth, L. Jr., Clark, S., Radman, M. and Modrich, P. (1994) Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs. Proc. Natl. Acad. Sci. USA 91 :32383241.   \nYasbin, R.E., Cheo, D.L. and Bayles, K.W. (1992) Inducible DNA repair and differentiation in Bacillus subtilis: Interactions between global regulons. Mol. Microbiol. 6: 12631270. ",
+        "bbox": [
+            143,
+            150,
+            858,
+            918
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            143,
+            126,
+            858,
+            912
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            143,
+            124,
+            856,
+            447
+        ],
+        "page_idx": 19
+    }
+]

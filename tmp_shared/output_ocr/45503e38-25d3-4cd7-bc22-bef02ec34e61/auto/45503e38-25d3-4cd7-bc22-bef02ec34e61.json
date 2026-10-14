@@ -1,0 +1,872 @@
+[
+    {
+        "type": "text",
+        "text": "Structures of mismatched base pairs in DNA and their recognition by the Escherichia coli mismatch repair system ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            64,
+            745,
+            103
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "G.V.Fazakerley, E.Quignard, A.Woisard, W.Guschlbauer, G.A.van der Marel', J.H.van Boom1, M.Jones²2 and M.Radman2 ",
+        "bbox": [
+            89,
+            188,
+            477,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Service de Biochimie, Bat. 142, Département de Biologie, Centre d'Etudes Nucléaires de Saclay, 91191 Gif-sur-Yvette, Cédex, France, 1Gorlaeus Laboratoria, University of Leiden, 2300A-Leiden, The Netherlands, and Laboratore  Mutagéèe, Instiut J.Monod, Centre Natonal a Recherche Scientifique, Université Paris 7, Tour 43, 75251 Paris, Cédex 05, France ",
+        "bbox": [
+            89,
+            238,
+            490,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by M.Radman ",
+        "bbox": [
+            91,
+            313,
+            250,
+            325
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Escherichia coli mismatch repair system does not recognize and/or repair all mismatched base pairs with equal efficiency: whereas transition mismatches (G·T and $\\mathbf { A \\cdot C } )$ are well repaired, the repair of some transversion mismatches (e.g. $\\mathbf { A } { \\boldsymbol { \\cdot } } \\mathbf { G }$ or $\\mathbf { C } ^ { \\bullet } \\mathbf { T } )$ appears to depend on their position in heteroduplex DNA of phage λ. Undecamers were synthesized and annealed to form heteroduplexes with a single base-pair mismatch in the centre and with the five base pairs flanking each side corresponding to either repaired or unrepaired heteroduplexes of $\\lambda$ DNA. Nuclear magnetic resonance (n.m.r.) studies show that a $\\mathbf { G \\cdot A }$ mismatch gives rise to an equilibrium between fully helical and a looped-out structure. In the unrepaired $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch duplex the latter predominates, while the helical structure is predominant in the case of repaired $\\mathbf { G } { \\boldsymbol { \\cdot } } \\mathbf { A }$ and $\\mathbf { G \\cdot T }$ mismatches. It appears that the $\\pmb { { \\cal E } } .$ coli mismatch repair enzymes recognize and repair intrahelical mismatched bases, but not the extrahelical bases in the looped-out structures. ",
+        "bbox": [
+            91,
+            330,
+            501,
+            580
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: heteroduplex/oligonucleotides/nuclear magnetic resonance/DNA loops/mutagenesis ",
+        "bbox": [
+            89,
+            583,
+            500,
+            609
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            637,
+            176,
+            651
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA base pair mismatches can occur in vivo as a consequence o () replication errors, (i) heteroduplex formation in the course of genetic recombination between homologous, but not identical sequences and (ii) deamination of 5-methyl cytosine to thymine giving rise to a ${ \\bf G } { \\cdot } { \\bf T }$ mismatch (Radman and Wagner, 1984). In Escherichia coli mismatch repair depends on several genes, e.g. mutH, mutL, mutS, mutU and ssb (Radman and Wagner, 1984; Wagner et al., 1984; Lu et al., 1984). Replication errors are corrected by the localized excision of the newly synthesized strand and resynthesis using the parental strand as a template (Radman and Wagner, 1984; Wagner et al., 1984; Lu et al., 1983, 1984). Strand discrimination for the mismatch repair system in $E .$ coli is provided by adenine methylation of GATC sequences (Radman et al., 1980; Pukkila et al., 1983). Mismatch repair occurs preferentially on unmethylated strands of hemimethylated duplexes (Wagner et al., 1984; Lu et al., 1983, 1984; Radman et al., 1980; Pukkila et al., 1983) and is greatly reduced in DNA regions in which GATC sequences are fully methylated. Newly synthesized strands are transiently undermethylated, because dam methylation lags somewhat behind replication (Lyons and Schendel, 1984). It is therefore believed that mismatch repair in E. coli occurs primarily on newly synthesized strands immediately behind the replication fork (Wagner and Meselson, 1976), and that it eliminates over $9 9 \\%$ of replication errors (Glickman and Radman, 1980). ",
+        "bbox": [
+            89,
+            656,
+            500,
+            946
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            189,
+            941,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The repair of all classes of non-complementarities between two strands was tested in heteroduplex DNAs of phage $\\lambda$ transfecting E. coli (Wagner et al., 1984). Transition mismatches $( \\mathbf { G \\cdot T }$ and $\\mathbf { A \\cdot C } )$ (Wagner et al., 1984; Lu et al., 1983; Dohet et al., 1985) and single unpaired bases (Dohet et al., 1986) are well repaired on either of the strands of unmethylated λ heteroduplex. Three of the transversion mismatches $( \\mathbf { G } \\cdot \\mathbf { A } , \\mathbf { C } \\cdot \\mathbf { T } , \\mathbf { C } \\cdot \\mathbf { C } ) ,$ however, are not well repaired (Wagner et al., 1984; Dohet et al., 1985; Kramer et al., 1984). Repair of G· A and C · T mismatches depends on the environment of the mismatch and is proportional to the $\\mathbf { G \\cdot C }$ content of the (minimum) 4 bp on each side of the mismatch (M.J., R.Wagner and M.R., unpublished results). ",
+        "bbox": [
+            531,
+            246,
+            942,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To elucidate the molecular basis of mismatch recognition by the repair system, we have studied the structure of a repaired and an unrepaired $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch, as well as the structure of a repaired $\\mathbf { G \\cdot T }$ mismatch (at the same site). Undecamers, corresponding to the exact sequence of phage λ DNA in which the mismatch repair system was tested, were synthesized and studied by proton n.m.r. We have measured the inter-imino and imino to amino and adenosine $\\mathbf { H } ^ { 2 }$ nuclear Overhauser effects (NOE) to elucidate the conformation of the dominant species in solution. Saturation transfer studies demonstrated exchange between the major and minor species in the $\\mathbf { G } { \\boldsymbol { \\cdot } } \\mathbf { A }$ mismatch duplexes and permitted identification of the minor species. We also report some preliminary two dimensional nuclear Overhauser effect (NOESY) spectra on one of the duplexes. We find that both repairable mismatches $\\mathbf { \\nabla } [ \\mathbf { G } \\cdot \\mathbf { T }$ and $\\mathbf { G \\cdot A } )$ form an intrahelical wobble pair, whereas the unrepaired $\\mathbf { G } { \\boldsymbol { \\cdot } } \\mathbf { A }$ mismatch provokes a looped-out structure. ",
+        "bbox": [
+            531,
+            414,
+            942,
+            651
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            531,
+            678,
+            581,
+            690
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Variable repair efficiencies of the $\\pmb { G } { \\cdot } \\pmb { A }$ and $G \\cdot T$ mismatches in bacteriophage λ DNA ",
+        "text_level": 1,
+        "bbox": [
+            531,
+            695,
+            941,
+            723
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has been possible to form heteroduplex species with a single defined mismatched bp by annealing purified separated strands of DNA from wild-type bacteriophage λ with those from phages carrying a sequenced mutation (Dohet et al., 1985). The analysis of the progeny of individual heteroduplex molecules, following transfection and plating, allows an estimate of the mismatch repair efficiency. High fraction of mixed (wild-type/mutant, i.e. $\\mathtt { c } ^ { + } / \\mathtt { c } )$ infective centres reflects the absence of mismatch repair (Dohet et al., 1985). Table I shows repair efficiencies for the $\\mathbf { G \\cdot A }$ and $\\mathbf { G \\cdot T }$ mismatches at positions 43 and 208 in the cI gene. At each position, the $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch is repaired less efficiently than the $\\mathbf { G \\cdot T }$ mismatch. Both mismatches are repaired less efficiently in position 208 than in position 43. This particular example is typical for the general pattern of mismatch repair efficiency which appears to be proportional to the $\\mathbf { G \\cdot C }$ content of the mismatch neighbourhood (a minimum of 4 bp on each side of the mismatch aThe numbers above the mismatch correspond to the sequence position from the amino terminus of the cI gene product. $( \\mathsf { c } ^ { + } )$ is the wild-type strand sequence, (c) is the strand sequence from $\\lambda$ cI mutants: (1) $\\mathbf { C } { \\cdot } \\mathbf { G } { \\ - } \\mathbf { A } { \\cdot } \\mathbf { T }$ transversion SP40, (2) $\\mathbf { C \\cdot G } { \\mathbf { - } } \\mathbf { \\tilde { T } \\cdot A }$ transition SP44, (3) $\\mathbf { G \\cdot C } { \\mathbf { - } } \\mathbf { T \\cdot A }$ transversion LP206 and (4) $\\mathbf { G } { \\cdot } \\mathbf { C } { \\to } \\mathbf { A } { \\cdot } \\mathbf { T }$ transition UV23, respectively. Heteroduplexes (1), (2) and (3) (numbering as used in text) were chemically synthesized and analyzed by n.m.r. ",
+        "bbox": [
+            531,
+            727,
+            942,
+            946
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/5ce61ba9d88b8fba278c32b488d7d31bfaa2235c6eb7bec5405eef0fd19196fa.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "bbox": [
+            60,
+            83,
+            473,
+            380
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            386,
+            472,
+            468
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "bThis is approximate mutL-dependent repair efficiency, calculated by taking the percent mixed progeny from mutL transfections as $100 \\%$ , see Materials and methods. ",
+        "bbox": [
+            62,
+            467,
+            465,
+            501
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/14be8a9c0be9f4e8f2ae7477857592425423d394179b008ee9d10c032af3ba7e.jpg",
+        "image_caption": [
+            "Fig. 1. Electrophoresis in $20 \\%$ polyacrylamide gel. The oligonucleotides were end labelled with $\\boldsymbol { \\mathsf { 3 2 } } \\boldsymbol { \\mathbf { P } }$ and the gel run at $1 0 ^ { \\circ } \\mathbf { C }$ in $\\mathbf { 0 . 0 8 \\bar { 9 } M }$ Tris, $\\mathbf { 0 . 0 9 M }$ boric acid, $3 \\mathrm { \\ m M }$ EDTA, $1 5 \\ \\mathrm { m M }$ $\\mathbf { M g C l } _ { 2 }$ , $\\mathsf { p H } 8 . 3$ Lanes 6 and 7 are the separate strands of heteroduplex (1). Lanes 5, 2 and 1 are 11, 10 and 8 bp oligonucleotide markers containing no mismatches. In lane 4 is heteroduplex (1) and in lane 3 heteroduplex (3). The arrow indicates the position of a minor species visible after longer exposure. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            68,
+            531,
+            473,
+            848
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1d5ff34de83a773e12d19e2c5450e192483def650e3272adc5446cc3a73e982c.jpg",
+        "image_caption": [
+            "Fig. 2. Temperature dependence of the ${ 5 0 0 } \\ \\mathrm { M H z }$ imino proton n.m.r. spectra of heteroduplex (1) in $1 0 ~ \\mathrm { m M }$ phosphate, $1 5 0 ~ \\mathrm { m M }$ NaCl, $0 . 2 \\ \\mathrm { m M }$ EDTA, 9:1 ${ \\bf H } _ { 2 } { \\bf O } - \\bar { \\bf D } _ { 2 } { \\bf O }$ , $\\mathsf { p H } 7 . 3$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            555,
+            63,
+            849,
+            544
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "is crucial) (M.J., R.Wagner and M.R., unpublished). These results prompted us to study the structure of the undecamer oligonucleotide heteroduplexes (1), (2) and (3) of Table I in order to get an insight into the molecular basis of mismatch recognition by the $E .$ coli mismatch repair enzymes. ",
+        "bbox": [
+            498,
+            619,
+            906,
+            689
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polyacrylamide gel electrophoresis ",
+        "text_level": 1,
+        "bbox": [
+            500,
+            693,
+            728,
+            707
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Changes in helix length or major changes in conformation should influence the mobility of oligonucleotides during polyacrylamide gel electrophoresis carried out under non-denaturing conditions. Figure 1 shows the relative mobility of three undecamer duplexes. In lane 5 is the fully matched duplex which has the same sequence as heteroduplex (1) except for the central base pair which is a $\\mathbf { G } { \\cdot } \\mathbf { C }$ . Lane 3 shows that the mobility of heteroduplex (3) (the $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch in the $\\mathbf { G } { \\cdot } \\mathbf { C }$ rich environment) is almost identical to that of the duplex marker. We have noted small changes in mobility as a function of the $\\mathbf { G } { \\cdot } \\mathbf { C }$ content for oligonucleotides of given length. By contrast heteroduplex (1) (the $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch in the $\\mathbf { A } \\cdot \\mathbf { T }$ rich environment) shows quite different behaviour. The major band in lane 4 shows greater mobility than the decamer marker, lane 2. A minor species, more visible after longer exposure, migrates between the 10 and 11 bp markers. ",
+        "bbox": [
+            498,
+            710,
+            906,
+            916
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because heteroduplex (1) is not stable thermally, the electrophoresis was carried out under conditions in which it remains in a double-stranded form, as shown by the absence of bands migrating like the separate strands in lanes 6 and 7. These results indicate a major conformational change in heteroduplex (1) relative to the same sequence without a mismatch and relative to the $\\mathbf { G \\cdot A }$ mismatch in the $\\mathbf { G \\cdot C }$ rich sequence of heteroduplex (3). ",
+        "bbox": [
+            495,
+            919,
+            906,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fceb500fb8a0770eda5629d5c7c85e72e741d399bdf169ab5a871ed0b94fc4b7.jpg",
+        "image_caption": [
+            "Fig. 3. (a) ${ 5 0 0 } \\ \\mathrm { M H z }$ proton spectrum (imino region) of heteroduplex (1) at ${ 2 ^ { \\circ } } \\mathbf { C } .$ and (c) NOE difference spectra following $5 0 ~ \\mathrm { m s }$ pre-irradiation of the resonance at 11.2 p.p.m. (b) and 10.7 p.p.m. (c), respectively. () Difference between spectra (b) and (c). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            155,
+            64,
+            436,
+            426
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            98,
+            503,
+            509,
+            588
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N.m.r. study of synthetic undecamer heteroduplexes ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            592,
+            442,
+            606
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The low field region of the proton spectra of the heteroduplex (1) (see Table I) in ${ \\bf H } _ { 2 } { \\bf O }$ as a function of temperature is shown in Figure 2. The spectrum at $- 2 ^ { \\circ } \\mathbf { C }$ shows some important differences compared with the many published spectra of B form oligodeoxyribonucleotides. We observe a fairly sharp resonance at 11.19 p.p.m. and one broad resonance to even higher field. In addition to the resonance observed in the $\\mathbf { G } { \\cdot } \\mathbf { C }$ region of the spectrum at 12.51 p.p.m., we observe a broad resonance at 12.67 p.p.m. If the resonance at 12.51 p.p.m. corresponds to one proton, the shoulder at 12.67 p.p.m. integrates for about 0.15 proton, the resonance at 11.19 for about one proton and the whole of the region $1 0 . 4 - 1 1 . 6 \\ \\mathsf { p cdot p . m }$ . for about $_ { 2 - 2 . 5 }$ protons. On raising the temperature to ${ 2 1 ^ { \\circ } \\mathbf { C } }$ the high field region of the spectrum becomes very broad and the resonance at 12.67 p.p.m. disappears. At ${ } ^ { 2 7 } { } ^ { \\circ } \\mathbf { C }$ the spectrum integrates for six protons in the ${ \\bf A } ^ { \\cdot \\mathrm { T } }$ region and one in the $\\mathbf { G } { \\cdot } \\mathbf { C }$ region. At $3 5 ^ { \\circ } \\mathbf { C }$ all the remaining resonances broaden due to exchange with solvent but curiously a resonance at 11.9 p.p.m. appears. At $4 0 ^ { \\circ } \\mathbf { C }$ (not shown) the imino region shows only broad humps. ",
+        "bbox": [
+            96,
+            606,
+            508,
+            871
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Imino resonances at $^ { 1 0 - 1 2 }$ p.p.m. have been observed either for a $\\mathbf { G \\cdot T }$ wobble pair (Patel et al., 1982; Tibanyenda et al., 1984) or for imino protons non-hydrogen bonded in loop structures (Haasnoot et al., 1980, 1983; Patel et al., 1985). To establish the nature of the resonances at high field, we have carried out saturation transfer experiments at ${ 2 ^ { \\circ } } \\mathbf { C }$ Figure 3a shows the spectrum at this temperature and pre-irradiation for ${ \\bf 5 0 ~ m s }$ at the positions indicated give the difference spectra (Figure 3b and c). Under these conditions NOE effects should be very small, but specific irradiation is impossible as high power had to be used to give an acceptable signal-to-noise ratio. Irradiation at 11.2 p.p.m., Figure 3b, predominantly gives an effect at 12.67 p.p.m. and these two resonances must correspond to a proton in two different environments. Irradiation at $1 0 . 7 \\ \\mathbf { p } . \\mathbf { p } . \\mathbf { m }$ predominantly gives a broad hump in the $\\mathbf { A } ^ { \\cdot \\mathbf { T } }$ region. This is more clearly seen in the difference of Figure 3b and c, weighted to eliminate the $1 1 . 2 \\ : \\mathbf { p } . \\mathbf { p } . \\mathbf { m }$ resonance. The resonances marked with an asterisk arise from NOEs and are absent in spectra obtained with a $2 0 ~ \\mathrm { m s }$ pre-irradiation time under which conditions transfer of saturation is $\\sim 6 0 \\%$ , whereas at ${ \\ 5 0 } \\ \\mathrm { m s }$ it is complete. At $1 0 ^ { \\circ } \\mathbf { C }$ we observed that transfer of saturation was complete with a pre-irradiation time of $2 0 ~ \\mathrm { m s }$ . ",
+        "bbox": [
+            98,
+            872,
+            508,
+            940
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/005b722f1a72b85d7649d8f9ffbb953b600590d2d4e5b721b42000138929d834.jpg",
+        "image_caption": [
+            "Fig. 4. ${ \\mathfrak { s o o m } } \\mathbf { M H z }$ proton spectra of heteroduplex (1) at $1 4 ^ { \\circ } \\mathbf { C }$ () imino region, (d) aromatic region. NOE difference spectra following 1 s preirradiation of the resonance at 14 p.p.m. (b), at 12.51 p.p.m. (c, imino region) and (e, aromatic region). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            598,
+            64,
+            885,
+            506
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            534,
+            580,
+            946,
+            815
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Having established that two species are present in a ratio of \\~ 1:6, NOE measurements at a variety of temperatures were carried out to try to establish the nature of the predominant species. Irradiation at $1 4 ^ { \\circ } \\mathbf { C }$ of the lowest field resonance at 14.00 p.p.m. gives rise to two NOEs at 13.63 p.p.m. and 13.86 p.p.m., Figure 4b, showing that its two neighbours are both ${ \\bf A } ^ { \\cdot \\mathbf { T } }$ base pairs. By contrast, pre-irradiation of the resonance at 12.51 p.p.m., Figure $\\pmb { 4 \\mathrm { c } }$ , gives two very weak NOEs in the A · T region and another at 11.2 p.p.m. The magnitude of the NOEs is $5 \\text{‰}$ of those observed in Figure 3b. The resonance at 12.51 p.p.m. is that of a guanosine imino proton from its chemical shift and thus either a $\\mathbf { G } { \\cdot } \\mathbf { C }$ or $\\mathbf { G } { \\cdot } \\mathbf { A }$ base pair. Examination of the aromatic region resolves this ambiguity. Figure 4e shows the observed NOEs, the two most important ones are found at 8.50 and 6.79 p.p.m. and these two resonances are both exchangeable protons. In this temperature range no sharp resonances are found for guanosine or adenosine amino protons (Fazakerley et al., 1985), but strong NOEs to each of the cytidine amino protons are observed (Fazakerley et al., 1984). Thus the resonance at 12.51 p.p.m. arises from a $\\mathbf { G \\cdot C }$ base pair. The extremely small interimino and imino to $\\mathbf { H } ^ { 2 }$ NOEs show that the adjacent bp are abnormally far away, the magnitude of the interimino NOEs is consistent with an internuclear distance of ${ \\sim } 0 . 5 ~ \\mathrm { n m }$ . The apparent NOE at 11.2 p.p.m. is the reverse magnetization transfer to that shown in Figure 3a. ",
+        "bbox": [
+            535,
+            816,
+            946,
+            940
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/6eac30f7fea317b03005d323fadb0a99feebc2db47588f96d6e6ac39e61becba.jpg",
+        "image_caption": [
+            "recorded at $1 2 ^ { \\circ } \\mathbf { C }$ with a mixing time of $3 0 0 ~ \\mathrm { { m s } }$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            223,
+            60,
+            738,
+            459
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            523,
+            464,
+            747
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Imino protons in loop structures are usually more accessible to the solvent than hydrogen bonded ones. Spectra of heteroduplex (1) at $- 2 ^ { \\circ } \\mathbf { C }$ in the absence of phosphate buffer and at $\\tt p H 5 . 8$ (not shown) are identical to those observed in the presence of phosphate. The line widths of the resonances at high field must be determined by exchange between different species and not by exchange with solvent. This is consistent with the appearance at $3 5 ^ { \\circ } \\mathbf { C }$ (Figure 2) of a resonance at $1 1 . 9 \\ \\mathbf { p } . \\mathbf { p } . \\mathbf { m }$ This probably corresponds to a proton (or protons) of the different species now in fast exchange on an n.m.r. time scale. ",
+        "bbox": [
+            53,
+            748,
+            464,
+            885
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We have also measured 2D NOESY spectra of the three duplexes and also of the fully complementary ${ \\bf A } \\cdot { \\bf T }$ rich sequence. For the latter duplex normal base —base interactions $\\mathbf { H } ^ { \\bar { \\pmb { 8 } } }$ or $\\mathbf { H } ^ { 6 }$ to $\\mathrm { T C H } _ { 3 }$ or $\\mathbf { H } ^ { \\pmb { 5 } }$ link $\\mathsf { \\Omega } ^ { 3 } \\mathsf { A H } ^ { 8 }$ to $^ { \\mathfrak { s } } \\mathbf { C } \\mathbf { H } ^ { \\mathfrak { s } }$ on one strand and $^ { 1 2 } \\mathrm { T H } ^ { 6 }$ to $\\mathbf { \\iota ^ { 1 4 } T C H _ { 3 } }$ and $^ { 1 9 } \\mathbf { A H } ^ { 8 }$ to $\\mathbf { \\lambda ^ { 2 2 } T C H _ { 3 } }$ on the other strand (not shown). Among these a normal strong interaction ${ ^ { 6 } { \\bf C } { \\bf H ^ { 6 } } \\cdot \\mathrm { ^ { 7 } T C H _ { 3 } } }$ is observed. If ${ } ^ { 6 } \\mathbf { C }$ is replaced by A, heteroduplex (1), we would expect a cross peak for $\\mathbf { ^ 6 A H ^ { 8 } \\cdot 7 T C H _ { 3 } }$ for a Watson-Crick $\\mathbf { G } { \\boldsymbol { \\cdot } } \\mathbf { A }$ pair or a strong cross peak $\\mathsf { \\Omega } ^ { 6 } \\mathbf { A } \\mathbf { H } ^ { 2 . 7 } \\mathrm { T C } \\mathbf { H } _ { 3 }$ , if ${ ^ 6 } \\mathbf { A }$ were syn, as observed in a recent crystal structure (Kennard, 1985). The region of the ",
+        "bbox": [
+            52,
+            886,
+            462,
+            940
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a3c6fb068fcc069923802e0c7927854000e9a0cb10dca98f79cf6bbf6a291cb7.jpg",
+        "image_caption": [
+            "Fig. 6. ${ \\mathfrak { s o o m } } \\mathbf { M H z }$ proton spectra (imino region) of (a)heteroduplex (3) at $- 2 ^ { \\circ } \\mathbf { C }$ and $\\mathbf { ( 6 ) }$ heteroduplex (2) at $\\textstyle \\mathbf { 0 } ^ { \\circ } \\mathbf { C }$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            506,
+            522,
+            877,
+            794
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            490,
+            858,
+            898,
+            941
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NOESY spectrum corresponding to interactions between the aromatic and methyl region is shown in Figure 5. The only major difference between this and the fully complementary duplex is that $\\small \\overline { { \\mathrm { \\Delta T C H } } } _ { 3 }$ is shifted 0.2 p.p.m. downfield and that there is no interaction with any ${ ^ 6 } \\mathbf { A }$ base proton. We have examined the matrix column through the cross peak assigned $\\mathrm { 7 T H ^ { 6 } \\cdot ^ { 7 } T C H _ { 3 } }$ and find no other interaction with $\\bar { \\bf \\Delta } \\bar { \\bf \\Delta } \\bar { \\bf C } { \\bf H } _ { 3 }$ .Further, the row through this cross peak shows a resonance corresponding to a single proton on the diagonal eliminating the possibility of coincident cross peaks. No strong NOE in the aromatic to anomeric region is observed which would account for a syn conformation, as required for a Hoogsteen pair (Kennard, 1985; Topal and Fresco, 1980). ",
+        "bbox": [
+            102,
+            66,
+            513,
+            247
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch in heteroduplex (1) is poorly repaired whereas the $\\mathbf { G \\cdot A }$ mismatch in heteroduplex (3) is well repaired (Table I). The proton spectrum of the imino region of heteroduplex (3) is shown in Figure 6a. In the region $_ { \\mathrm { 1 0 - 1 2 } }$ p.p.m. resonances are observed but these correspond to a minor species $( \\sim 1 5 \\%$ , if the resonance at $1 1 . 8 2 { \\ p } . { \\mathsf { p } } . { \\mathsf { m } }$ corresponds to one proton of this species), as opposed to the spectrum of heteroduplex (1), Figure 2a. The major species give resonances in the usual $\\mathbf { A } ^ { \\cdot \\mathrm { T } }$ and $\\mathbf { G } { \\cdot } \\mathbf { C }$ regions and from interpretation of interimino NOEs (not shown) is the fully helical form. The $\\mathbf { G } { \\cdot } \\mathbf { A }$ imino proton is observed at $1 2 . 8 2 \\ \\mathsf { p } . \\mathsf { p } . \\mathsf { m }$ . The identity of the minor species has not yet been established. If it is a looped-out form similar to scheme $\\mathbf { I }$ the slipped $\\mathbf { G \\cdot C }$ pair would probably be between $\\mathfrak { s } _ { \\mathbf { G } }$ and $^ { 1 8 } \\mathbf { C }$ . ",
+        "bbox": [
+            101,
+            250,
+            513,
+            443
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have also studied the ${ \\bf A } \\cdot { \\bf T }$ rich sequence but with a $\\mathbf { G \\cdot T }$ mismatch in place of the $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch [heteroduplex (2) in Table I]. The proton spectrum of the undecamer heteroduplex () is shown in Figure 6b. As expected the two imino protons of the $\\mathbf { G \\cdot T }$ wobble pair are found in the high field region. No minor species have been observed for this DNA at any temperature. ",
+        "bbox": [
+            101,
+            444,
+            513,
+            541
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "nucleotides on either strand extrahelical and the remaining bases pairing and stacking more or less normally. ",
+        "bbox": [
+            540,
+            66,
+            952,
+            94
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The n.m.r. data provide considerable information on the location of the helix perturbation. The NOESY spectrum, Figure 5, shows the normal connectivities for $^ 3 \\mathbf { A }$ to $\\mathfrak { s } _ { \\mathrm { T } }$ , $^ { 1 9 } \\mathbf { A }$ to ${ \\bf \\delta } ^ { 2 2 } \\mathbf { T }$ and $^ { 1 4 } \\mathrm { T }$ to ${ \\boldsymbol { \\mathsf { 1 2 } } } \\mathbf { T }$ The $5 \\mathbf { A } \\cdot \\mathbf { T }$ base pair sequence observed by sequential interimino NOEs, with the above NOESY connectivities, shows that from ${ \\mathbf { 1 } } _ { \\mathbf { A } }$ to ${ \\mathfrak { s } } _ { \\mathrm { T } }$ the bases are paired and the helix shows no major conformational change. Similarly at the other end of the helix we observed two adjacent ${ \\bf A } ^ { \\cdot } { \\bf T }$ pairs. At $1 4 ^ { \\circ } \\mathbf { C }$ we would expect that one or both of the terminal ${ \\bf A } ^ { \\cdot } { \\bf T }$ base pairs fray and that the imino resonance would be very broad as previously observed for sequences terminating with $\\mathbf { A } ^ { \\cdot \\mathbf { T } }$ base pairs (Feigon et al., 1983). This, with the NOESY spectrum, shows that from ${ \\boldsymbol { \\mathsf { 1 2 7 } } }$ to $\\mathbf { ^ { 1 4 } T }$ the bases must be paired. ",
+        "bbox": [
+            542,
+            95,
+            954,
+            275
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There remain three bases on each strand to which we observe no NOESY connectivities. For this section we observe, however, all three imino protons. A guanosine imino proton of a $\\mathbf { \\sigma } _ { \\mathbf { G } \\cdot \\mathbf { C } }$ base pair is observed in a normal chemical shift range. A second G and a $\\mathbf { T }$ imino proton are observed to high field, in a region characteristic for imino protons in non-hydrogen bonded loop structures. This suggests that we have a normal $\\mathbf { 1 5 } _ { \\mathbf { G } } . 8 _ { \\mathbf { C } }$ base pair with $^ { 1 7 } \\mathbf { G } \\cdot ^ { 6 } \\mathbf { A }$ and $\\bar { \\mathbf { 1 6 } } _ { \\mathbf { A } } . \\pmb { 7 } \\mathbf { T }$ looped out, scheme I: ",
+        "bbox": [
+            540,
+            276,
+            952,
+            388
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/bb2a582fcd7d232fc0ec7a2678b2a5e7fd2095f4407fed495d3d7438c4e76d70.jpg",
+        "text": "$$\n\\begin{array} { r l r } { { 2 } 2 \\mathsf { T } } & { - \\textbf { 1 } _ { \\mathbf { A } } } & \\\\ { \\mathsf { T } } & { - } & { \\textbf { A } } \\\\ { \\mathsf { T } } & { - } & { \\textbf { A } } \\\\ { \\textbf { A } } & { - } & { \\mathsf { T } } \\\\ { \\mathbf { 1 } _ { \\mathbf { A } } } & { - } & { \\mathsf { T } } \\\\ { \\mathbf { 1 } _ { \\mathbf { A } } ^ { \\mathrm { { 2 } } } } & { \\mathbf { 6 } } & { \\mathsf { A } } \\\\ { \\mathbf { 1 } _ { \\mathbf { A } } ^ { \\mathrm { { 4 } } } } & { \\mathbf { 7 } } \\\\ { \\mathbf { 1 } _ { \\mathbf { S } } ^ { \\mathrm { { 6 } } } } & { - \\textbf { 8 } } & { \\mathsf { T } } \\\\ { \\mathsf { T } } & { - } & { \\textbf { A } } \\\\ { \\mathsf { T } } & { - } & { \\textbf { A } } \\\\ { \\mathbf { 1 } _ { \\mathbf { 2 } } \\mathsf { T } } & { \\mathbf { 1 } _ { \\mathbf { A } } } & \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            562,
+            398,
+            671,
+            565
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/2a4b6f7b7658503296323b6c94e7b931643498d4efa616b19ea139a30d505cce.jpg",
+        "text": "$$\n\\begin{array} { r l } { 2 2 \\Gamma - 1 } & { { } \\mathbf { A } } \\\\ { \\mathbf { T } - \\mathbf { A } } \\\\ { \\mathbf { T } - \\mathbf { A } } \\\\ { \\mathbf { A } - \\mathbf { \\Phi } \\cdot \\mathbf { T } } \\\\ { 1 8 \\mathbf { A } - \\mathbf { \\Phi } \\cdot \\mathbf { T } } \\\\ { 1 7 \\mathbf { G } - \\mathbf { \\Phi } ^ { 6 } \\mathbf { A } } \\\\ { \\mathbf { A } - \\mathbf { \\Phi } \\cdot \\mathbf { T } } \\\\ { \\mathbf { G } - \\mathbf { \\Phi } \\mathbf { C } } \\\\ { \\mathbf { T } - \\mathbf { \\Phi } \\cdot \\mathbf { A } } \\\\ { \\mathbf { T } - \\mathbf { \\Phi } \\cdot \\mathbf { A } } \\\\ { 1 2 \\mathbf { T } - 1 \\mathbf { A } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            854,
+            400,
+            926,
+            564
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            560,
+            173,
+            574
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Table I shows that the mismatch repair efficiency in $E .$ coli depends on the nature of the mismatch as well as on the nature of the base pairs surrounding the mismatch: the transition mismatch $( \\mathbf { G \\cdot T } )$ is repaired more efficiently than the transversion mismatch $( \\mathbf { G } \\cdot \\mathbf { A } )$ and both are repaired more efficiently in the $\\mathbf { G \\cdot C }$ rich environment than in the $\\mathbf { A } ^ { \\cdot \\mathbf { T } }$ rich environment. This 'context effect' is more striking for the poorly repaired $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch than for the well repaired $\\mathbf { G \\cdot T }$ mismatch. We have determined (M.J., R.Wagner and M.R., unpublished) that the repair efficiency is directly proportional to the $\\mathbf { G \\cdot C }$ content of the (minimum) 4 bp on each side of the mismatch. ",
+        "bbox": [
+            99,
+            579,
+            511,
+            731
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have examined by different techniques the structure of the undecanucleotide heteroduplexes with the mismatch in the middle corresponding to the $\\lambda$ DNA heteroduplexes, the repair of which was studied in vivo (Table I). While none of these techniques provides sufficiently precise insight into the structural reasons for the high and low repair efficiency of these defined mismatches, together they suggest a major structural difference between an unrepaired mismatch and three well repaired mismatches. ",
+        "bbox": [
+            99,
+            732,
+            511,
+            856
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the gel electrophoresis experiment we observe what must be a major conformational change for the (unrepaired) heteroduplex (1) relative to the (repaired) heteroduplex (3) and to the fully matched duplex. The observed mobility of heteroduplex (1) corresponds to a helix of ${ \\sim } 9$ bp, suggesting that several base pairs must be involved. The simplest model would involve two ",
+        "bbox": [
+            99,
+            857,
+            511,
+            939
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This would also explain the absence of a NOESY connectivity between ${ ^ 6 } \\mathbf { A }$ and $\\boldsymbol { \\mathsf { 7 } } \\boldsymbol { \\mathsf { T } }$ . ",
+        "bbox": [
+            540,
+            619,
+            952,
+            647
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Two observations, however, contradict this interpretation. Firstly, we do not observe a normal interimino NOE from the $\\mathbf { G } { \\cdot } \\mathbf { C }$ base pair to $^ { 1 4 } \\mathrm { T } \\cdot ^ { 9 } \\mathbf { A }$ Rather we observe an extremely small NOE to the imino proton of this base pair and a similar small NOE to the imino proton of ${ } ^ { 1 8 } \\mathbf { A } \\cdot { } ^ { 5 } \\mathbf { T }$ . The $\\mathbf { G } { \\cdot } \\mathbf { C }$ base pair is thus approximately equidistant from these two base pairs. Secondly, the imino resonances at high field do not exchange with solvent, this requires that the imino protons are protected by the conformation (loop structures) since an extrahelical base would exhibit rapid imino exchange. ",
+        "bbox": [
+            540,
+            648,
+            952,
+            787
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It must be emphasized that under the conditions of these experiments heteroduplex (1) exhibits exchange in the imino proton spectra between three species: the two observed duplex forms and the single strand species, especially at ${ \\bf \\ } ^ { 2 0 ^ { \\circ } \\bf C }$ We do not propose a 3D model for the major species but rather we have determined the region of major conformational change in the heteroduplex. ",
+        "bbox": [
+            540,
+            787,
+            952,
+            883
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Scheme II fits our data much better than any of the others we have considered. A CPK model of scheme ⅡI shows the feasibility of this pairing. The $^ { 1 7 } \\mathbf { G } \\cdot 8 \\mathbf { C }$ pair is displaced towards the small groove because of the two loops in the ${ \\boldsymbol { 5 ^ { \\prime } } }$ direction. Additional stabilizations through Hoogsteen pairing of $^ { 1 5 } \\mathbf { G }$ and $\\boldsymbol { \\tau } _ { \\mathrm { T } }$ with ${ \\bf A } ^ { \\cdot } { \\bf T }$ base pairs may occur and would account for these two observed imino resonances. The minor form observed is certainly that of the fully hydrogen bonded helix (scheme I) with base pairing between $\\mathbf { \\sigma } ^ { 1 7 } \\mathbf { G } \\cdot \\mathbf { \\sigma } ^ { 6 } \\mathbf { \\bar { A } }$ . ",
+        "bbox": [
+            540,
+            883,
+            950,
+            939
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            55,
+            65,
+            465,
+            135
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This study shows that the local structure of DNA at and around the site of a mismatch is determined both by the nature of the mismatched bases and by the surrounding base pairs. The $\\mathbf { G \\cdot T }$ mismatch in the ${ \\bf A } ^ { \\cdot \\bf T }$ rich region and the $\\mathbf { G \\cdot A }$ mismatch in the $\\mathbf { G \\cdot C }$ rich region are repaired with similar efficiencies (Table I) and were found in regular helical structures by n.m.r. ",
+        "bbox": [
+            55,
+            136,
+            465,
+            219
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For heteroduplex (1) corresponding to the unrepaired $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch in the $\\mathbf { A } ^ { \\cdot \\mathrm { T } }$ rich region (Table I), we propose that the major species observed has a structure with two loops which are not directly opposite each other, but are separated by a $\\mathbf { G } { \\cdot } \\mathbf { C }$ base pair, scheme II. We have not been able to fit our data to any fully helical conformation. The very small NOEs observed from the $\\mathbf { G } { \\cdot } \\mathbf { C }$ imino proton to two ${ \\bf A } \\cdot { \\bf T }$ imino protons must reflect real long imino— imino proton internuclear distances. While the separation between these two ${ \\bf A } ^ { \\cdot } { \\bf T }$ base pairs cannot be accurately calculated scheme ⅡI predicts that the helix length would be shortened by 0.3 to $\\mathbf { 0 . 5 \\ n m }$ , relative to a fully base paired form. This prediction is in agreement with the gel electrophoresis experiment (Figure 1). ",
+        "bbox": [
+            55,
+            220,
+            465,
+            401
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The major species is in fairly rapid equilibrium with one or more minor forms which are very likely fully base-paired. On increasing the $\\mathbf { G \\cdot C }$ content [heteroduplex (3), Figure 6a], the equilibrium is strongly shifted towards the fully base-paired form, but a minor species with a different looped-out structure is still observed. ",
+        "bbox": [
+            55,
+            402,
+            465,
+            484
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The nature of the base pairs adjacent to the $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch plays a major role. Two previous n.m.r. studies on the $\\mathbf { G } { \\cdot } \\mathbf { A }$ mismatch (Kan et al., 1983; Patel et al., 1984) both on duplexes with $50 \\%$ $\\mathbf { G \\cdot C }$ pairs found $\\mathbf { G \\cdot A }$ pairing with both bases anti. Interestingly, a minor species giving an imino resonance at 12.11 p.p.m. was observed in one of these studies (Patel et al., 1984). We also observed other resonances to even higher field consistent with loop formation rather than a different $\\mathbf { G \\cdot A }$ base pair form. ",
+        "bbox": [
+            55,
+            486,
+            465,
+            597
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As we observed only the fully base-paired form for the wellrepaired ${ \\bf G } \\cdot { \\bf T }$ mismatch, we can conclude that the extent of $\\mathbf { G \\cdot A }$ mismatch repair is directly related to the loop forming capacity and thus to the ${ \\bf A } ^ { \\cdot } { \\bf T }$ content of the sequence. More detail of these structures will be obtained from the full interpretation of the 2D NOESY spectra, and from chemical modification experiments which are in progress. ",
+        "bbox": [
+            55,
+            597,
+            465,
+            694
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Not all other unrepaired mismatches need to show the same looped-out structure (scheme II) because of the apparent sequence dependence. Possibly any extrahelical bases and/or loops may remain unrecognized by the $E .$ coli mismatch repair system. It should be noted that large single-stranded loops in heteroduplex DNA are not repaired by this $E .$ coli repair system (Wagner et al., 1984). ",
+        "bbox": [
+            55,
+            695,
+            465,
+            791
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Because of the high mutator effect in mismatch repair deficient E. coli mut mutants, it was suggested that unrepaired mismatches must be very rare errors in DNA replication (Wagner et al., 1984; Dohet et al., 1985; Kramer et al., 1984). The proposed loopedout structure suggests a reason: when such mismatches occur during DNA synthesis they are expected to be eliminated by the single-strand specific $3 ^ { \\prime } {  } 5 ^ { \\prime }$ 'proof-reading' exonuclease more efficiently than the well-fitted intrahelical mismatches. Even initial misincorporation resulting in looped-out mismatches may be less likely than for other mismatches: $\\mathrm { T } _ { 4 }$ phage DNA polymerase makes less mistakes in the A · T rich regions (prone to yield unrepaired looped-out mismatches) than in the $\\mathbf { G \\cdot C }$ rich regions (Petruska and Goodman, 1985). ",
+        "bbox": [
+            55,
+            791,
+            465,
+            929
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            493,
+            65,
+            900,
+            107
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            118,
+            653,
+            132
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Genetic experiments with heteroduplex DNA ",
+        "text_level": 1,
+        "bbox": [
+            495,
+            138,
+            727,
+            150
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "λ phages with sequenced mutations in the cI gene (referred to in Table I) were obtained from Dr F.Hutchinson (Yale University). Strand preparation and annealing to form defined heteroduplex DNA, transfection conditions and scoring procedures for the analysis of the phage progeny derived from individual heteroduplex molecules have been described (Dohet et al., 1985). Unmethylated DNA was prepared from phages grown in dam bacteria GM33 (Marinus and Morris, 17). The percentage of infective centers from E. coli transfected with a single heteroduplex molecule was determined by analyzing at least 220 individual infective centers for each heteroduplex. Percent mixed progeny from transfections of mismatch repair deficient E. coli mutL (mut $^ { - 2 1 1 }$ bacteria (Dohet et al., 1986) was used as standard aginst which the repair efficiency in mut+ E. coli C600 was calculated. ",
+        "bbox": [
+            493,
+            152,
+            901,
+            289
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Syntheses ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            294,
+            544,
+            304
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Threeundecamer duplexes (Table I) have been used in this study, corresponding exactly to the λ mismatch sequences studied. The five undecamers were synthesized by the phosphotriester method (van der Marel et al., 1981; Marugg et al., 1984). ",
+        "bbox": [
+            493,
+            308,
+            901,
+            353
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "N.m.r. spectroscopy ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            357,
+            599,
+            368
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Spectra were recorded at ${ 5 0 0 } \\ \\mathbf { M H z }$ on a Bruker WM-500 spectrometer. The solvent peak was suppressed by a $1 - \\tau { - } 1$ hard pulse sequence (Moore and Kim, 1983) and the origin of the spectrum placed in the imino region. When integrals are reported the origin was placed symmetrically between the resonances whose integrals were to be compared. Two dimensional NOESY spectra (Jeener et al., 1979; Macura et al., 1981) were recorded in ${ \\bf D } _ { 2 } { \\bf O }$ with a mixing time of $3 0 0 ~ \\mathrm { { m s } }$ . ",
+        "bbox": [
+            493,
+            371,
+            901,
+            439
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Oligonucleotides were $4 \\mathrm { m M }$ in strand concentration and dissolved in either ${ \\bf D } _ { 2 } { \\bf O }$ r $90 \\%$ $\\mathbf { H } _ { 2 } \\mathbf { O } / 1 0 \\%$ $\\mathbf { D } _ { 2 } \\mathbf { O }$ , $1 5 0 \\ \\mathrm { m M } \\ \\mathrm { N a C l }$ , $1 0 ~ \\mathrm { m M }$ phosphate, $\\mathsf { \\dot { p } H } 7 . 2$ Chemical shifts are reported relative to internal tetramethylammonium chloride at 3.18 p.p.m. ",
+        "bbox": [
+            493,
+            439,
+            900,
+            484
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            497,
+            625,
+            511
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Work in Paris was supported by a fellowship from the Centre National de la Recherche Scientifique (CNRS) to M.J. and by grants to M.R. from CNRS. M.J. and M.R. also acknowledge support from the Association pour la Recherche sur le Cancer. ",
+        "bbox": [
+            491,
+            513,
+            900,
+            559
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            493,
+            571,
+            568,
+            584
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dohet,C., Wagner,R. and Radman,M. (1985) Proc. Natl. Acad. Sci. USA, 82, 503-505.   \nDohet,C., Wagner,R. and Radman,M. (1986) Proc. Natl. Acad. Sci. USA, 83, 33953399.   \nFazakerley,G.V., van der Marel,G.A., van Boom,J.H. and Guschlbauer,W. (1984) Nucleic Acids Res., 12, 82698279.   \nFazakerley,G.V., Téoule,R., Fritzsche,H., Guy,A. and Guschlbauer,W. (1985) Biochemistry, 24, 45404546.   \nFenJ. Denny,W.A. Leupin,W. and Kearns,D.R. (183) Biohemistry, , 59305942.   \nGlickman,B. and Radman,M. (1980) Proc. Natl. Acad. Sci. USA, 77, 1063  1067.   \nHaasnoot,C.A.G., den Hartog,J.H.J., de Rooij,J.F.M., van Boom,J.H. and Altona,C. (1980) Nucleic Acids Res. , 8, 169181.   \nHaasnoot,C.A.G., de Bruin,S.H., Berendsen,R.G., Janssen,H.G.J.M., Binnedijk, T.J.J., Hilbers,C.W. van der Marel,G.A. and van Boom,J.H. (1983) J.Biomol. Struct. Dyn., 1, 115129.   \nJeener,J., Meier,B.H. , Bachmann,P. and Ernst,R.R. (1979) J. Chem. Phys. , 71, 45464553.   \nKan,L.S., Chandrasegaran,S., Pulford,S.M. and Miler,P.S. (1983) Proc. Natl. Acad. Sci. USA, 80, 42634265.   \nKennard,O. (1985) J. Biomol. Struct. Dyn. , 3, 205226.   \nKramer,B., Kramer,W. and Fritz,H.-J. (1984) Cell, 38, 879887.   \nLu,A.L., Clark,S. and Modrich,P. (1983) Proc. Natl. Acad. Sci. USA, 80, 4639 4643.   \nLuA.L., Welsh,K., Clark,S., Su,S.S. and Modrich,P. (1984) Cold Sprig Harr Symp. Quant. Biol., 49, 589596.   \nLyons,S.M. and Schendel,P.F. (1984) J. Bacteriol, 159, 421 423.   \nMacura,S. Huan,Y., Suter,D. and Erst,R.R. (1981) J. Magn. Res. 43, 259 281.   \nMarinus,M.G. and Morris,N.R. (1973) J. Bacteriol, 114, 1143-1150.   \nMarugg,J.E., Tromp,M., Ihurani,P., Hoyng,C.F., van der Marel,G.A. and van Boom,J.H. (1984) Tetrahedron, 40, 7378.   \nMoore,P. and Kim,P. (1983) Biochemistry, 22, 26152622.   \nPatel,D.J., Kozoski,S.A. Marky,L.A., Rice,J.A. Broka,C. Dallas,J., Ik, K. and Breslauer,K.J. (1982) Biochemistry, 21, 437444.   \nPatel,D.J., Kozlowski,S.A., Ikuta,S. and Itakura,K. (1984) Biochemistry, 23, 32073217.   \nPatel,D.J., Kozlowski,S.A., Hare,D.R., Reid,B., Ituka,S., Lander,N. and Itakura, K. (1985) Biochemistry, 24, 926935.   \nPetruska,J. and Goodman,M.F. (1985) J. Biol. Chem. , 260, 75337539.   \nPukkila,P.J., Peterson,P., Herman,G., Modrich,P. and Meselson,M. (1983) Genetics, 104, 571582.   \nRadman,M. and Wagner,R. (1984) Curr. Top. Microbiol. Immun. , 108, 2328.   \nRadman,M., Wagner,R., Glickman,B.W. and Meselson,M. (1980) In Alacevic, .d., rogress inEnvironmetal MutaeneisEevir,Amsterd, . 121-130.   \nTibanyenda,N., de Bruin,S.H., Haasnoot,C.A.G., van der Marel,G.A, van Boom, J.H. and Hilbers,C.W. (1984) Eur. J. Biochem., 139, 1927.   \nTopal,M.D. and Fresco,J.R. (1980) Nature, 263, 285289.   \nvan der Marel,G.A., van Boeckel,C.A.A., Wille,G. and van Boom,J.H. (1981) Tetrahedron Lett., 22, 3887 3890.   \nWagner,R. and Meselson,M. (1976) Proc. Natl. Acad. Sci. USA, 73, 41354139.   \nWagner,R., Dohet,C., Jones,M., Doutriaux,M.-P. and Radman,M. (1984) Cold Spring Harbor Symp. Quant. Biol., 49, 611615. ",
+        "bbox": [
+            491,
+            590,
+            901,
+            929
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            98,
+            71,
+            514,
+            348
+        ],
+        "page_idx": 6
+    }
+]

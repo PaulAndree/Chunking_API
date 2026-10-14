@@ -1,0 +1,319 @@
+[
+    {
+        "type": "text",
+        "text": "may permit an equilibrium distribution of mitochondrial cytochrome c between both oxidase and peroxidase (when present), with only transient mobility in the intracristal space. This is an alternative to the view19,21 that membrane-bound cytochrome $\\pmb { c }$ is lipid-linked and capable of rotating its \"\"active face\" to different neighbouring reaction sites without forming long lived complexes with essentially \"locked\" configurations. Recent studies demonstrate the formation of other cytochrome c complexes, both with non-enzymatic proteins such as phosvitin22 and with active systems such as the photoreactive centre of Rhodopseudomonas spheroides23. The complex between cytochrome c and yeast peroxidase, if it is a catalytically active intermediate, is, however, the first functional complex to be defined in true solution. Other complexes with cytochrome c involve membrane fragments or detergent-solubilized enzymes. How does electron transfer occur within these complexes ? The ease with which both cytochrome $\\pmb { c } ^ { 1 }$ and yeast peroxidase24 crystallize suggests that it may be possible to crystallize the two proteins together. X-ray analysis of such a crystal would give clues to the mode of electron transfer that cannot yet be obtained for the corresponding membranebound systems. ",
+        "bbox": [
+            58,
+            52,
+            486,
+            329
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peter NIcholls ",
+        "bbox": [
+            347,
+            337,
+            463,
+            349
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "7 Ailsa Court, Chesterton Road, Cambridge ",
+        "bbox": [
+            60,
+            353,
+            176,
+            392
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Eugene Mochan ",
+        "bbox": [
+            347,
+            399,
+            470,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Department of Biochemistry, University of Pennsylvania, Philadelphia, Pennsylvania 19104 ",
+        "bbox": [
+            60,
+            416,
+            252,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received June 8; revised November 2, 1970. ",
+        "bbox": [
+            62,
+            477,
+            337,
+            490
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Margoliash, E., and Schejter, A., Adv. Prot. Chem., 21, 113 (196).   \n2 Nicholls, P., in Oxidases and Related Redox Systems (edit. by King, T. E., Mason, H. S., and Morrison, M.), 764 (Wiley, New York, 1965).   \nSeuzu, an ui .JBem Toky, 204 (1962).   \n4 Nicholls, P., Arch. Biochem. Biophys., 106, 25 (1964).   \nKuboyama, M. Takemori, S., and King, T. E., Biochem. Biophys. Res. Commun., 9, 534 (1962).   \n6 Machinist, J. M., Das, M. L., Crane, F. L., and Jacobs, E. E., Biochem. Biophys. Res. Commun., 6, 475 (1962).   \nOkunuki, K., in The Oxygenases (edit. by Hayaishi, O.), 409 (Academic Press, New York, 1962).   \nSmith, L., and Conrad, H. Arch. Biochem. Biophys., 3, 403 (1956).   \nAltschul, A M., Abrams, R., and Hogness, T. R., J. Biol. Chem., 130, 427 (1939).   \nAtschul, A..brams, R. an Hogness .R.J. Biol.Ch   \n  \nY Ty   Chem 240 0.   \nY T.  ay .  BiCh 0 .   \nMochan, E., and Degn, H. Biochim. Biophys. Acta, 189, 354   \n0   \nYonetani, T. Schleyer, H. and Ehrenberg A. J. Biol. Chem., 241, 3240 (1966).   \n17 Drott, H. D. Fed roc., 28, 603196.   \nNicholls, P. Mocan, E., an melberg, H. K. in Colloi on Bioenergetics, Pugnochioso 1970 (Adriatica Editrice, Bari, in the press).   \n19 Chance, B., Erecinska, M., and Lee, C. P., Proc. US Nat. Acad. Press, Baltimore, 1954).   \nC  C.a t, and Function of Cytochromes (edit. by Okunuki, K., Kamen, D. and Sekuzu, I., 75 University Park Press, Tokyo, 1968).   \nTaborsky G ty, 768 .   \nKe, B., Chaney, T. H., and Reed, D. W., Biochim. Biophys. Acta, 216, 373 (1970).   \nYonetani, T., J. Biol. Chem. 242, 5008 1967. ",
+        "bbox": [
+            62,
+            500,
+            489,
+            959
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Target Size of DNA in Ultraviolet Irradiation ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            51,
+            771,
+            88
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I reporT here a simple experimental observation which suggests that the rate of inactivation of bacteriophage by ultraviolet irradiation is proportional to the quantity of DNA, and that the cause of inactivation is, for the most part, interference with DNA replication. ",
+        "bbox": [
+            515,
+            92,
+            942,
+            155
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A mutant of phage $\\lambda ,$ , λb2, carries a large deletion in the central region of the chromosome. This region, which is not required for vegetative growth, comprises about $1 5 \\%$ of the λ DNAi-3. If ultraviolet irradiation principally or only damages DNA, if ultraviolet-induced lesions in the b2 region are repaired with the same efficiency as lesions elsewhere, and if lesions in the b2 region are functionally the same as those elsewhere, then the ultraviolet sensitivities of $\\lambda ^ { + }$ and λb2 should be proportional to the amount of DNA they contain. Photoreactivation and excision repair, both of which eliminate pyrimidine dimers from ultraviolet-irradiated DNA in vivo4,s, also greatly increase survival, which justifies the assumption that DNA is indeed the principal ultraviolet target. Pyrimidine dimers are the most important type of lethal lesion in ultraviolet irradiated $\\lambda ^ { 6 }$ . ",
+        "bbox": [
+            517,
+            155,
+            942,
+            343
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3db70bb8386f2b070b6d5b4526b0db1895cf212779ccf1682e53b5f837c80982.jpg",
+        "image_caption": [
+            "Ergs mm-2 ",
+            "Fig. 1 Surviving fraction of plaque forming units of $\\lambda ^ { + }$ (closed symbolsand $\\bar { \\lambda } b \\bar { 2 }$ (open symbols) as a function of ultraviolet dose. The right ordinate and the upper abscissa refer to phage assays on wild type bacteria AB1157 (circles) only. The left ordinate and the lower abscissa refer to phage assays on AB1886 uvrA6 $( \\nabla , \\ \\nabla )$ and on AB248ó uvrA6 recA13 $( \\triangle , \\triangle )$ . The dose reduction between the $\\lambda ^ { + }$ and $\\lambda b 2$ survival curves is given as percentage and is indicated between the arrows. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            541,
+            374,
+            920,
+            641
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 shows inactivation curves of extracellularly ultraviolet irradiated $\\lambda ^ { + }$ (closed symbols) and $\\lambda b 2$ (open symbols), assayed on wild type $\\scriptstyle { E . }$ coli AB1157 (circles), its excision repair deficient derivative AB1886 uvrA6 $( \\nabla , \\ \\pmb { \\eta } )$ , and the double excision and recombination deficient mutant AB2480 uvr A6 recA13 $( \\triangle , \\blacktriangle )$ . ",
+        "bbox": [
+            519,
+            755,
+            944,
+            832
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All three bacterial assays show increased resistance to ultraviolet irradiation of λb2 as compared with $\\lambda ^ { + }$ The dose increase, measured on the exponential part of the survival curves (as indicated in the figure), is about $1 7 \\%$ when irradiated phage are assayed on either AB1157 or on AB1886 uvrA6, and $1 4 \\%$ when assayed on AB2480 uvr A6 recA13. This is in good agreement with the results of physical measurements of $\\lambda ^ { + }$ and λb2 DNA, which indicate that the b2 region comprises $1 8 \\% ^ { 2 }$ and $1 3 \\% ^ { 3 }$ of the $\\lambda ^ { + }$ chromosome. X-ray irradiation gives results similar to those presented here (Arber and ",
+        "bbox": [
+            519,
+            832,
+            944,
+            957
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hradecna, cited in ref. 2, and personal communication from Arber). ",
+        "bbox": [
+            55,
+            50,
+            482,
+            75
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is not possible to exclude a priori the remote possibility that $\\lambda ^ { + }$ is more sensitive to irradiation than λb2 because of some function of the b2 region. This region might, for example, code for an enzyme which inactivates irradiated XDNA. The improbability of such an explanation is enhanced by the exact correspondence between DNA content and ultraviolet sensitivity, which would then be a coincidence. ",
+        "bbox": [
+            55,
+            75,
+            484,
+            162
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The correspondence between the DNA content and ultraviolet sensitivity of $\\lambda ^ { + }$ and $\\lambda b 2$ suggests that DNA is the principal or sole ultraviolet target, and that damage to the b2 region is both physically and functionally the same as damage elsewhere. This means that damage in the b2 region is repaired with the same efficiency as elsewhere; that the same fraction of lesions is irreparable in the b2 region as elsewhere (which further indicates that irreparable lesions are also DNA lesions); and that so far as ultraviolet inactivation is concerned, the entire chromosome, including the b2 region, has a similar indispensable function which is proportional to DNA content. It therefore seems that ultraviolet target size is directly proportional to the quantity of DNA irradiated, the function of the area being irrelevant. ",
+        "bbox": [
+            55,
+            163,
+            484,
+            339
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because the b2 region is not required for vegetative phage growth, it would be reasonable if this region were more or less immune to radiation damage. If this were true, $\\lambda ^ { + }$ and λb2 would have very similar or identical sensitivities to ultraviolet irradiation. It could be that, as regards function, the b2 region is in fact relatively insensitive but that, fortuitously, it is physically more readily damaged or less readily repaired; and that these factors exactly compensate each other. ",
+        "bbox": [
+            57,
+            340,
+            484,
+            440
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Otherwise, the similarity in functional sensitivity of the b2 region and the remainder of $\\gimel$ chromosome must be related to the mechanism by which ultraviolet lesions inactivate the phage. Inactivation is presumably due to an effect on either DNA transcription or replication. Transcription of some early genes is required for the replication of infecting λDNA and for subsequent phage development7. The b2 region is transcribed7, but is not required for vegetative growth. With regard to transcription, therefore, ultraviolet lesions in this region can only affect viability if they prevent the transcription of other regions. This could result if transcription must toke place sequentially along the genome or parts of it, including the $^ { b 2 }$ region. But because the leftward and rightward transcriptions converge and terminate in the b2 region and because only a part of the genome is transcribed before DNA replication takes place7,8, it is unlikely that an effect on transcription would be proportional to the amount of DNA. It seems probable, therefore, that most inactivating ultraviolet lesions block not DNA transcription but DNA replication and that the primary inactivation event occurs on the level of DNA replication. ",
+        "bbox": [
+            57,
+            440,
+            484,
+            692
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This work was aided by a \"Joliot Curie\" postdoctoral fellowship. I thank Drs Ann Roller and R. Devoret for reading the manuscript. ",
+        "bbox": [
+            58,
+            692,
+            484,
+            730
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman ",
+        "bbox": [
+            333,
+            730,
+            470,
+            741
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Centre des Faibles Radioactivités, Centre National de la Recherche Scientifique, 91, Gif-sur-Yvette ",
+        "text_level": 1,
+        "bbox": [
+            58,
+            742,
+            363,
+            780
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Received October 5, 1970. ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            796,
+            219,
+            809
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Kellenberger, G., Zichichi, M. L., and Weigle, J., Nature, 184, 161 (1960).   \n2 Kellenberger, G., Zichichi, M. L., and Weigle, J., J. Mol. Biol., 3, 399 (1961).   \n3 Westmoreland, B. C., Szybalski, W., and Ris, H., Science, 163, 1343 (1969).   \n4 Wulf, D. L., and Rupert, C. S., Biochem. Biophys. Res. Commun., 7, 237 (1962).   \n5Setlow, R. B., and Carrier, W. L., Proc. US Nat. Acad. Sci., 51, 266 (1964).   \n6 Radman, M., Cordone, L., Krsmanovi-Simi, D., and Errera, M., J. Mol. Biol., 49, 203 (1970).   \n7Szybalski et al., J. Cell. Physiol., 74, Suppl. 1, 33 (1969).   \nDove, W. F., Ann. Rev. Genetics, 2, 305 (1968). ",
+        "bbox": [
+            58,
+            817,
+            486,
+            960
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Coordination of Sex Pili with their Specifying R Factors ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            49,
+            899,
+            85
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A sINGLE bacterial cell can simultaneously carry both F-like $( \\hbar ^ { + } )$ and I-like (fi-) R factors and, when the R factors are de-repressed, most cells produce both F-like and I-like sex pili. These pili can be distinguished immunologically and by their capacity to adsorb different phages1. The $\\mathbf { F }$ pilus is the receptor for RNA phages such as MS2 and filamentous DNA phages such as M13. The I pilus is the receptor for other filamentous DNA phages such as If1 and If2. Electron microscopy suggests that these filamentous DNA phages, both F-specific and I-specific, adsorb to the tip of the pilus2,3. ",
+        "bbox": [
+            513,
+            88,
+            944,
+            225
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These experiments were designed to determine whether, in cells producing both types of pilus (doubly $\\mathbf { R } ^ { + }$ cells), each pilus functions coordinately with the R factor specifying its formation. The experiment assumes that a pilus with one or more phage particles adsorbed to its tip will function less efficiently in mating than it would otherwise4. The doubly $\\mathbb { R } ^ { + }$ donor was accordingly pretreated with a large excess of inactivated filamentous phage, either F-specific or I-specific. A phage that decreases the frequency of transfer of the other R factor would be acting non-specifically on the physiology of the cell. Experiments similar to this have been performed previously4 but, because the donor carried only one class of plasmid, the specific pilus-blocking efect could not be distinguished from the non-specific effect. ",
+        "bbox": [
+            515,
+            228,
+            942,
+            402
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Variants of Escherichia coli K12 were used as donor and recipient. The donor J53 (pro met) contained the de-repressed R factors 538-1 (chl su1 stm) and 538-2 (tet stm)5. The first causes the synthesis of F-like sex pili, and the second I-like sex pili. The donor was counted on an appropriately supplemented minimal medium. A mutant of strain 712 (pro his trp str) resistant to nalidixic acid was used as recipient and was counted on nutrient agar supplemented with nalidixic acid, $2 0 \\ \\mu \\mathrm { g } / \\mathrm { m l } .$ , Recipients of R538-1 were counted on this medium containing $2 0 \\ \\mu \\mathrm { g / m l } .$ , of chloramphenicol and recipients of R538-2 on medium containing $1 0 \\ \\mu \\mathrm { g } / \\mathrm { m } 1$ , of tetracycline. Stock of F-specific M13 phage was prepared on $\\pmb { E }$ coli strain HfrC on nutrient agar at $3 7 ^ { \\circ } \\textbf { C }$ and the I-specific phage If2 on $E$ coli strain 2395 $( \\mathbb { R } 6 4 - 1 1 ) ^ { 6 }$ on $\\mathbf { L }$ medium containing $1 \\%$ agar at $3 7 ^ { \\circ } \\mathrm { ~ \\bf ~ C ~ }$ Because the titre of If2 propagated in this way was low, the phage was concentrated by ammonium sulphate flotation?. The phages were titrated on the appropriate strains and media: at $3 7 ^ { \\circ } \\mathrm { ~ c ~ }$ for M13 and $3 0 ^ { \\circ } ~ \\mathbf { C }$ for If2. The final titre of M13 was $8 \\times 1 0 ^ { 1 2 } / \\mathrm { m l }$ , and of If2, $2 { - } 3 \\times 1 0 ^ { 1 2 } / \\mathrm { m l }$ The phages used to interfere with mating were inactivated with ultraviolet light. Phage stock in broth $( 1 0 ~ \\mathrm { m l } . $ ) was rocked in a Petri dish and irradiated for $2 0 \\ \\mathrm { m i n }$ at $5 0 \\ \\mathtt { c m }$ from a ${ \\bf 1 5 W }$ germicidal lamp. After irradiation the titre of both phages was less than $1 0 ^ { 6 } / \\mathrm { m l }$ , For mating, the donor was grown at $3 7 ^ { \\circ } \\bf C$ with shaking to a concentration of $2 { \\bf - } 4 \\times 1 0 ^ { 8 } / \\mathrm { m l }$ , One millilitre was added to $1 ~ \\mathrm { m l }$ of ultravioletinactivated phage, or to broth as control, at $3 7 ^ { \\circ } \\mathbf { C }$ for $1 0 \\ \\mathrm { m i n }$ . The $2 \\ m 1$ of phage-donor or broth-donor mixture was then added to ${ \\mathfrak { s } } _ { \\mathbf { m } } \\mathbf { l } .$ of recipient strain 712 grown overnight without shaking. After mating for $1 5 \\ \\mathrm { m i n } ,$ , appropriate dilutions were plated on the various selective media in a $0 . 6 \\%$ agar overlay. Preliminary experiments showed that in these conditions, the number of recipient cells acquiring the F-like R factor in $1 5 \\ \\mathrm { m i n }$ in the absence of phage approximately equalled the number of donor cells. Nutrient agar plates were counted after overnight incubation and minimal media after 2 days incubation. ",
+        "bbox": [
+            515,
+            402,
+            944,
+            868
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The results of four experiments are shown in Table 1. Exposing the donor to ultraviolet-inactivated bacteriophage consistently decreased the frequency of transfer of the R factor specifying the adsorbing pilus much more than the other R factor. Nevertheless, both phages had some effect on the heterologous R factor, indicating a non-specific effect on the donor cell. Although the ultraviolet-inactivated phages were ",
+        "bbox": [
+            517,
+            870,
+            944,
+            958
+        ],
+        "page_idx": 1
+    }
+]

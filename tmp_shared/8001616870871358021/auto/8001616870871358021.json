@@ -1,0 +1,727 @@
+[
+    {
+        "type": "text",
+        "text": "Queen of the South (serie de televisión) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            97,
+            771,
+            129
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Queen of the South es una serie de televisión estadounidense de drama. Se estrenó el 23 de junio de 2016 en USA Network y es una adaptación de la exitosa telenovela La Reina del Sur, que se transmitió en Telemundo, que a su vez es una adaptación de la novela homónima del autor español Arturo Pérez-Reverte. El 6 de septiembre de 2016, USA Network renovó la serie para una segunda temporada que se estrenó el 8 de junio de 2017. El 10 de agosto de 2017, USA Network renovó la serie para una tercera temporada que fue estrenada el 21 de junio de 2018. ",
+        "bbox": [
+            70,
+            140,
+            497,
+            366
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sinopsis ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            402,
+            178,
+            427
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cuando el novio traficante de drogas de Teresa Mendoza es asesinado inesperadamente en México, Teresa se ve obligada a huir y buscar refugio en Estados Unidos, donde se une a una figura poco probable de su pasado para derribar al líder de la misma red de tráfico de drogas que la busca. En el proceso, ella aprende las herramientas del oficio y se posiciona estratégicamente para convertirse en la líder del cártel.3 ",
+        "bbox": [
+            70,
+            441,
+            497,
+            614
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/ed536c6533b8c42655c254190beb0fb9d7ab6c9a4afdc963589852593da2c97b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            517,
+            117,
+            926,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/75df8ce04afd3c9942bfa368ef7d52c08a787c0ed8ee3e7aa2c5b6b7e1cfe5d9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            111,
+            494,
+            732
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3d40ad94a116c631ab1fae9789199054efbe6b09f67c20706320efe78bf81c8d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            39,
+            924,
+            523
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/07f914886bf957e599fd43fd65522b77012420aca21361902c6274c178c58644.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            108,
+            667,
+            252
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Producción ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            285,
+            221,
+            307
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Desarrollo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            346,
+            191,
+            366
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El 23 de septiembre de 2014, se anunció que USA Network había ordenado un episodio piloto basada en la adaptación de la telenovela de 2011 de Telemundo La Reina del Sur que a su vez se basa en el libro homónimo por Arturo Pérez-Reverte,3 con Charlotte Sieling para dirigirla.4 El 12 de mayo de 2015, USA Network acepta el piloto y ordena una temporada de 13 episodios.5 El 5 de junio de 2015, Scott Rosenbaum fue elegido para ser el showrunner de la serie.6 ",
+        "bbox": [
+            70,
+            375,
+            932,
+            472
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El 6 de septiembre de 2016, USA Network renovó la serie para una segunda temporada, con Natalie Chaidez fungiendo como showrunner, reemplazando a Rosenbaum,7 y programada para ser estrenada el 8 de junio de 2017.8 ",
+        "bbox": [
+            70,
+            488,
+            932,
+            546
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El 10 de agosto de 2017, USA Network renovó la serie para una tercera temporada,9 que fue estrenada el 21 de junio de 2018.10 ",
+        "bbox": [
+            72,
+            561,
+            931,
+            600
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Casting ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            630,
+            161,
+            649
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A fines de octubre de 2014, se anunció que Alice Braga fue elegida para interpretar Teresa Mendoza.11 En noviembre de 2014, se confirmó que Justina Machado se unió a la serie como Brenda.12 El mes siguiente, se unió Hemky Madera para interpretar a Pote Gálvez.13 El 13 de enero de 2015, se anunció que Veronica falcon fue elegida para formar parte del elenco principal como Camila Vargas, la exmujer de un poderoso narcotraficante.14 Días después, se unen en papeles recurrentes James Martinez como Gato Fierros,15 y Joaquim de Almeida como Don Epifanio Vargas, un político mexicano privilegiado y exitoso que a la vez puede ser peligroso.16 ",
+        "bbox": [
+            70,
+            657,
+            931,
+            795
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El 30 de septiembre de 2015, se dio a conocer que Peter Gadiot fue contratado para interpretar a James Valdez, mano derecha de Camila y aliado de Teresa, y formará parte del elenco principal.17 A mediados de octubre de 2015, se reportó que Carlos Gómez aparecerá de forma recurrente interpretando al narcotraficante Javier Acosta.18 En enero de 2016, Mark Consuelos se unió a la serie en un papel recurrente para interpretar a Teo Aljarafe, un abogado contratado por Camila.19 ",
+        "bbox": [
+            70,
+            812,
+            931,
+            909
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El 20 de enero de 2017, se anunció que Yancey Arias se unía a la segunda temporada en un papel recurrente como el Coronel Cortez, un renuente nuevo socio comercial de Epifanio Vargas.20 El 14 de marzo de 2018, se anunció que el rapero Remy Ma aparecerá como invitado especial en la tercera temporada, interpretando a un miembro de seguridad de un magnate de la droga de Chicago.21 Dos semanas después, Alfonso Herrera se unió al elenco recurrente como Javier Gallegos, nuevo aliado de Teresa, primo de Boaz Jimenez y miembro de su organización.22 ",
+        "bbox": [
+            70,
+            42,
+            932,
+            159
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Música ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            187,
+            154,
+            206
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Giorgio Moroder y Raney Shockne ejercen como los compositores de la serie.23 ",
+        "bbox": [
+            68,
+            213,
+            721,
+            235
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rodaje ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            262,
+            152,
+            281
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El piloto se rodó en la Ciudad de México.24 El resto de los episodios se rodaron en Dallas, Texas iniciando en octubre de 2015 y duró 6 meses.24 ",
+        "bbox": [
+            70,
+            289,
+            929,
+            328
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El rodaje de la tercera temporada comenzó a inicios de 2018.25 ",
+        "bbox": [
+            72,
+            344,
+            584,
+            364
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recepción ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            400,
+            205,
+            423
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Críticas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            461,
+            161,
+            482
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La primera temporada de Queen of the South recibió reseñas mixtas y positivas de parte de los críticos. En Rotten Tomatoes, tiene una calificación de $6 9 \\%$ , basada en 16 reseñas. El consenso del sitio dice: «Queen of the South anima una premisa exagerada con acción y vigor narrativo, y muestra indicios de potencial intrigante».26 En Metacritic, la primera temporada obtuvo 59 de 100, con base en 15 reseñas, lo que indica «reseñas mixtas».27 ",
+        "bbox": [
+            70,
+            490,
+            931,
+            585
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Premios y nominaciones ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            614,
+            349,
+            634
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f23e166847eb8e1569ca873c76ffe679a46a35ace1da2e46eed6f20776613efd.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            647,
+            927,
+            880
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. «Queen of the South» (http://www.nbcumv. com/programming/usa-network/queen-sout h). NBCUniversal Media Village (en inglés). Archivado (https://web.archive.org/web/201 61030210537/http://www.nbcumv.com/prog ramming/usa-network/queen-south) desde el original el 30 de octubre de 2016. ",
+        "bbox": [
+            77,
+            112,
+            494,
+            225
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Lambert, David (14 de abril de 2017). «Queen of the South - DVDs Are Coming Soon for the First Season of the USA Network Series!» (https://www.tvshowsond vd.com/news/Queen-South-Season-1/2321 2). TVShowsonTV.com (en inglés). Consultado el 15 de abril de 2017. ",
+        "bbox": [
+            77,
+            229,
+            492,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Andreeva, Nellie (23 de septiembre de 2014). «La Reina Del Sur Adaptation Picked Up By USA Network As Drama Pilot» (http://deadline.com/2014/09/queenof-the-la-reina-del-sur-pilot-usa-839669/). Deadline (en inglés). Archivado (https://we b.archive.org/web/20160224115739/http://d eadline.com/2014/09/queen-of-the-la-reinadel-sur-pilot-usa-839669/) desde el original el 24 de febrero de 2016. Consultado el 23 de febrero de 2016. ",
+        "bbox": [
+            77,
+            345,
+            494,
+            520
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. El equipo de Deadline (14 de noviembre de 2014). «Charlotte Sieling To Direct USA Pilot ‘Queen Of The South’» (http://deadlin e.com/2014/11/charlotte-sieling-to-direct-us a-pilot-queen-of-the-south-1201284813/). Deadline (en inglés). Consultado el 14 de mayo de 2018. ",
+        "bbox": [
+            77,
+            524,
+            492,
+            636
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Andreeva, Nellie (12 de mayo de 2015). «USA Picks Up ‘Queen Of the South’ To Series» (http://deadline.com/2015/05/quee n-of-the-south-usa-series-pickup-12014250 09/). Deadline (en inglés). Consultado el 14 de mayo de 2018. ",
+        "bbox": [
+            77,
+            641,
+            492,
+            736
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. Andreeva, Nellie (5 de junio de 2015). «Scott Rosenbaum Joins USA Drama Series ‘Queen Of the South’ As Showrunner» (http://deadline.com/2015/06/ scott-rosenbaum-queen-of-the-south-showr unner-usa-1201438599/). Deadline (en inglés). Consultado el 14 de mayo de 2018. ",
+        "bbox": [
+            77,
+            739,
+            492,
+            852
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Andreeva, Nellie (6 de septiembre de 2016). «‘Queen Of The South’ Renewed For Season 2 By USA With New Showrunner» (http://deadline.com/2016/09/ queen-of-the-south-renewed-season-2-usa -new-showrunner-1201814046/). Deadline (en inglés). Consultado el 24 de mayo de 2018. ",
+        "bbox": [
+            78,
+            856,
+            494,
+            937
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            534,
+            102,
+            929,
+            149
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Pedersen, Erik (11 de abril de 2017). «USA Sets ‘The Sinner’ For August; Return Dates For ‘Shooter,’ ‘Suits’ & More» (http://deadlin e.com/2017/04/usa-summer-premiere-date s-the-sinner-shooter-suits-queen-of-the-sou th-1202067746/). Deadline (en inglés). Consultado el 14 de mayo de 2018. ",
+        "bbox": [
+            514,
+            153,
+            929,
+            267
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Petski, Denise (10 de agosto de 2017). «‘Queen Of The South’ Renewed For Season 3 By USA» (http://deadline.com/20 17/08/queen-of-the-south-renewed-season3-usa-1202146518/). Deadline (en inglés). Consultado el 11 de agosto de 2017. ",
+        "bbox": [
+            510,
+            269,
+            929,
+            365
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Pedersen, Erik (21 de marzo de 2018). «USA Network Premiere Dates: ‘Shooter’, ‘Colony’, ‘Queen Of The South’, ‘Chrisley’ & More» (http://deadline.com/2018/03/usa-su mmer-premiere-dates-suits-shooter-colonyqueen-of-the-south-1202350783/). Deadline (en inglés). Consultado el 14 de mayo de 2018. ",
+        "bbox": [
+            504,
+            369,
+            929,
+            497
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. Ng, Philiana; Masters, Kim (23 de octubre de 2014). «USA's 'Queen of the South' Adaptation Finds Its Star (Exclusive)» (http s://www.hollywoodreporter.com/live-feed/us as-queen-south-adaptation-finds-743468). The Hollywood Reporter (en inglés). Consultado el 15 de mayo de 2018. ",
+        "bbox": [
+            504,
+            502,
+            929,
+            614
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Petski, Denise (25 de noviembre de 2014). «Justina Machado Joins ‘Queen Of The South’; Kyle Gallner In ‘Outsiders’» (http://d eadline.com/2014/11/justina-machado-cast -queen-of-the-south-kyle-gallner-outsiders1201296794/). Deadline (en inglés). Archivado (https://web.archive.org/web/201 60309014409/http://deadline.com/2014/11/j ustina-machado-cast-queen-of-the-south-k yle-gallner-outsiders-1201296794/) desde el original el 9 de marzo de 2016. Consultado el 23 de febrero de 2016. ",
+        "bbox": [
+            505,
+            617,
+            929,
+            808
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. The Deadline Team. «Loretta Devine Joins Jerrod Carmichael Comedy Pilot; Hemky Madera In ‘Queen Of The South’» (http://de adline.com/2014/12/loretta-devine-joins-jerr od-carmichael-comedy-pilot-hemky-madera -in-queen-of-the-south-1201329872/). Deadline (en inglés). Archivado (https://we b.archive.org/web/20160221055411/http://d eadline.com/2014/12/loretta-devine-joins-je rrod-carmichael-comedy-pilot-hemky-made ra-in-queen-of-the-south-1201329872/) desde el original el 21 de febrero de 2016. Consultado el 23 de febrero de 2016. ",
+        "bbox": [
+            505,
+            813,
+            931,
+            927
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            97,
+            41,
+            492,
+            137
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. Petski, Denise (13 de enero de 2015). «Adriana Barraza Joins ‘Queen Of The South’; Gentry White In ‘Turn: Washington Spies’» (http://deadline.com/2015/01/adrian a-barraza-cast-queen-of-the-south-gentrywhite-turn-washington-spies-1201349191/). Deadline (en inglés). Consultado el 14 de mayo de 2018. ",
+        "bbox": [
+            65,
+            141,
+            492,
+            269
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. The Deadline Team. «James Martinez Cast In ‘Queen Of The South’; Luis Guzman & Finesse Mitchell Tour With ‘Roadies’» (htt p://deadline.com/2015/01/james-martinez-q ueen-of-the-south-luis-guzman-finesse-120 1351021/). Deadline (en inglés). Archivado (https://web.archive.org/web/20160221060 000/http://deadline.com/2015/01/james-mar tinez-queen-of-the-south-luis-guzman-fines se-1201351021/) desde el original el 21 de febrero de 2016. Consultado el 23 de febrero de 2016. ",
+        "bbox": [
+            65,
+            274,
+            492,
+            465
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. Petski, Denise. «Kyle Dean Massey Cast In ‘Nashville’, Joaquim De Almeida In ‘Queen Of The South» (http://deadline.com/2015/0 1/kyle-dean-massey-cast-nashville-joaquim -de-almeida-queen-of-the-south-12013566 24/). Deadline (en inglés). Archivado (http s://web.archive.org/web/20160222042416/ http://deadline.com/2015/01/kyle-dean-mas sey-cast-nashville-joaquim-de-almeida-que en-of-the-south-1201356624/) desde el original el 22 de febrero de 2016. Consultado el 23 de febrero de 2016. ",
+        "bbox": [
+            65,
+            470,
+            492,
+            661
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. Petski, Denise (30 de septiembre de 2015). «Peter Gadiot Joins USA Drama Series ‘Queen Of The South’» (http://deadline.co m/2015/09/peter-gadiot-joins-usa-drama-se ries-queen-of-the-south-1201561199/). Deadline (en inglés). Archivado (https://we b.archive.org/web/20160221065949/http://d eadline.com/2015/09/peter-gadiot-joins-usa -drama-series-queen-of-the-south-1201561 199/) desde el original el 21 de febrero de 2016. Consultado el 23 de febrero de 2016. ",
+        "bbox": [
+            65,
+            666,
+            492,
+            842
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. Petski, Denise (19 de octubre de 2015). «Carlos Gomez Joins USA Drama Series ‘Queen Of The South’» (http://deadline.co m/2015/10/carlos-gomez-recurring-queen-o f-the-south-usa-network-1201588153/). ",
+        "bbox": [
+            65,
+            845,
+            494,
+            926
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Deadline (en inglés). Archivado (https://we b.archive.org/web/20151229013415/http://d eadline.com/2015/10/carlos-gomez-recurrin g-queen-of-the-south-usa-network-120158 8153/) desde el original el 29 de diciembre de 2015. Consultado el 23 de febrero de 2016. ",
+        "bbox": [
+            536,
+            41,
+            929,
+            153
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "19. Petski, Denise (22 de enero de 2016). «Mark Consuelos Joins ‘Queen Of The South’ As Recurring» (http://deadline.com/2 016/01/mark-consueloscast-queen-of-the-s outh-difficult-people-kingdom-120168820 8/). Deadline (en inglés). Consultado el 14 de mayo de 2018. ",
+        "bbox": [
+            504,
+            157,
+            931,
+            269
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "20. Petski, Denise (20 de enero de 2017). «‘Queen Of The South’: Yancey Arias Set To Recur In Season 2» (https://deadline.co m/2017/01/queen-of-the-south-yancey-aria s-recur-season-2-1201891061/). Deadline (en inglés). Consultado el 27 de junio de 2018. ",
+        "bbox": [
+            502,
+            273,
+            931,
+            385
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "21. Brockington, Ariana (14 de marzo de 2018). «TV News Roundup: Remy Ma to Guest Star on 'Queen of the South' – Variety» (https://variety.com/2018/tv/news/t v-news-roundup-remy-ma-queen-of-the-so uth-season-3-1202727104/). Variety (en inglés). Consultado el 11 de julio de 2018. ",
+        "bbox": [
+            502,
+            389,
+            931,
+            502
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "22. Cordero, Rosy (31 de marzo de 2018). « 'The Exorcist' Star Alfonso Herrera Joins USA Network's 'Queen of the South' (Exclusive)» (https://www.hollywoodreporte r.com/live-feed/exorcist-star-alfonso-herrera -joins-usa-networks-queen-south-111594 6). The Hollywood Reporter (en inglés). Consultado el 27 de junio de 2018. ",
+        "bbox": [
+            504,
+            505,
+            931,
+            633
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "23. Lincoln, Ross A. «‘Queen of The South’ Composers Giorgio Moroder & Raney Shockne — Interview» (http://deadline.co m/2016/06/giorgio-moroder-queen-of-the-s oundtrack-composer-raney-shockne-scarfa ce-1201781275/). Deadline Hollywood (en inglés). Archivado (https://web.archive.org/ web/20160701075101/http://deadline.com/ 2016/06/giorgio-moroder-queen-of-the-sou ndtrack-composer-raney-shockne-scarface1201781275/) desde el original el 1 de julio de 2016. Consultado el 30 de junio de 2016. ",
+        "bbox": [
+            504,
+            637,
+            931,
+            844
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "24. Martindale, David (21 de junio de 2016). «Dallas serves as the backdrop for actionpacked new USA series ‘Queen of the South’» (http://www.star-telegram.com/ente rtainment/tv/article85060062.html). Star",
+        "bbox": [
+            502,
+            849,
+            929,
+            929
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Telegram (en inglés). Consultado el 16 de mayo de 2018. ",
+        "bbox": [
+            100,
+            41,
+            492,
+            73
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "25. Macon, Alex (4 de diciembre de 2017). «Queen of the South Filming in Dallas for a Third Season» (https://www.dmagazine.co m/arts-entertainment/2017/12/queen-southseason-3-dallas/). D Magazine (en inglés). Consultado el 16 de mayo de 2018. ",
+        "bbox": [
+            65,
+            77,
+            492,
+            173
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "26. «Queen of the South: Season 1 (2016)» (ht tps://www.rottentomatoes.com/tv/queen_of _the_south/s01/). Rotten Tomatoes (en inglés). Archivado (https://web.archive.org/ web/20161012192742/https://www.rottento matoes.com/tv/queen_of_the_south/s01/) desde el original el 12 de octubre de 2016. Consultado el 30 de julio de 2016. ",
+        "bbox": [
+            65,
+            176,
+            494,
+            226
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            534,
+            41,
+            931,
+            121
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "27. «Queen of the South : Season 1» (https://w ww.metacritic.com/tv/queen-of-the-south) (en inglés). Metacritic. Archivado (https://we b.archive.org/web/20160722232236/http:// www.metacritic.com/tv/queen-of-the-south) desde el original el 22 de julio de 2016. Consultado el 30 de julio de 2016. ",
+        "bbox": [
+            504,
+            125,
+            931,
+            238
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            268,
+            289,
+            288
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Página web oficial (http://www.usanetwork.com/queenofthesouth/) ",
+        "bbox": [
+            85,
+            311,
+            699,
+            327
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Queen of the South (https://www.imdb.com/title/tt1064899/) en Internet Movie Database (en inglés) ",
+        "bbox": [
+            78,
+            331,
+            931,
+            364
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de title=Queen_of_the_South_(serie_de_televisión)&oldid=170797641» ",
+        "bbox": [
+            70,
+            385,
+            584,
+            414
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "«https://es.wikipedia.org/w/index.php? ",
+        "bbox": [
+            643,
+            385,
+            927,
+            401
+        ],
+        "page_idx": 6
+    }
+]

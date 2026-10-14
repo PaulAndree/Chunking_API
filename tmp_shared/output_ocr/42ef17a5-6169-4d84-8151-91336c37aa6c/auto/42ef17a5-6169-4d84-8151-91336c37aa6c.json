@@ -1,0 +1,785 @@
+[
+    {
+        "type": "text",
+        "text": "Commentary ",
+        "bbox": [
+            53,
+            182,
+            152,
+            197
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair earns Nobel Prize in Chemistry 2015 to Paul Modrich for a biochemical tour de force ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            205,
+            810,
+            249
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman ",
+        "bbox": [
+            52,
+            258,
+            201,
+            274
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mediterranean Institute for Life Sciences, 21000 Split, Croatia and Faculté de Médecine René Descartes, Université Paris-5, Inserm U1001; 24, rue du Faubourg Saint-Jacques, 75014 Paris, France ",
+        "bbox": [
+            50,
+            283,
+            773,
+            303
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "First night after landing from Paris, I was all but sleepless in Seattle when at 3:30 a.m. on October 7, 2015 I was brutally awaken by phone calls from Paris and Zagreb with journalists’ question: “What do you have to say about the Nobel Prizes in Chemistry to Lindahl, Sancar and Modrich for DNA repair?”. Grudgy, I first answered “Listen, Richard Feynman was mad about being awaken for his own Nobel Prize; why are you awakening me for somebody else’s prize!” Jet lagged, I tried to connect to my brain and got back only this: “Nobel in chemistry for DNA repair? Finally. Well merited. Good night. Call me tomorrow”. But the professionals made me formulate ad hoc compliments for the contributions of my three colleagues and friends. These journalists knew about my long-lasting love affair with DNA repair, in particular mismatch repair (MMR). ",
+        "bbox": [
+            52,
+            358,
+            475,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA repair is the sole fundamental property of DNA that Watson and Crick failed to imagine in 1953. To act in a DNA repair process, the dedicated proteins must recognize chemical abnormalities, the non-DNA entities in DNA, and then either reverse the chemistry to the initial normality (damage reversal) or remove the damaged moiety by excising it out of DNA by molecular surgery and then replacing by insertion of normal nucleotides by correct basepairing with intact complementary strand (BER and NER). These repair processes were largely biochemically elaborated by Tomas Lindahl and Aziz Sancar. I am honored by the invitation to pay a tribute to Paul Modrich’s work on biochemistry of MMR. ",
+        "bbox": [
+            53,
+            530,
+            475,
+            674
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There will be two stars in this tribute to Paul Modrich’s Nobel Prize: Paul himself and mismatch repair itself. MMR’s stardom is based on its being a DNA repair not like others – mechanistically, the most sophisticated repair system that acts as a multifaceted editor of DNA replication, recombination and structure, interfering in all key aspects of genetic stability. To correct DNA copy errors, MMR must make a double diagnostic before acting: (i) diagnostic of chemically normal, but wrong, bases that are mis-matched or non-matched with the complementary strand and (ii) diagnostic of “strandedness”, i.e., strand discrimination between the original template strand and the copy strand. Only then does it make sense to remove the mismatched base(s) exclusively from the errorbearing copy strand (otherwise, the original information would also acquire mutation, by its transfer by repair from the erroneous copy strand). ",
+        "bbox": [
+            53,
+            675,
+            475,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Another reason for MMR stardom is two decades of an exceptional intellectual history created by molecular geneticists while postulating the existence of mismatch correction against the “reason” expressed e.g., by Arthur Kornberg. In the 1974 edition of his book “DNA Replication” A. Kornberg wrote that the fidelity of DNA replication must rely only on DNA polymerases because there is no chemical difference between old and new strand of DNA. I presume that the beautiful (hi)story of MMR is known to few biologists, let alone their students and colleagues. Few would know today that the discovery of MMR required elaboration a special piece of molecular genetics – the genetics of single defined “heteroduplex” DNA molecules reconstituted in vitro before being introduced (as single molecules!) into the living cells in order to analyze the progeny of each heteroduplex strand through the successive replication rounds. Such a Hi-Tech sophistication in Lo-Tech times was developed in Matthew Meselson’s and Maurice Fox’s laboratories [1–3]. I wish to walk you through the tale of MMR in the period preceding Paul Modrich’s research that finally revealed its molecular intricacies. To avoid redundancy with many comprehensive scholarly reviews on MMR (e.g., [4–8]), I will write about MMR mainly by describing ideas, people and some experiments, but in particular about the biological ramifications of MMR that are almost absent in the literature. Paul’s brilliant breakthrough research on MMR biochemistry that earned him the Nobel Prize in Chemistry was well reviewed [4–8]. I wish to share a fascinating evolution of concepts. ",
+        "bbox": [
+            505,
+            359,
+            929,
+            687
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. The ideas ",
+        "text_level": 1,
+        "bbox": [
+            507,
+            709,
+            588,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "My medical students know for sure that MMR was discovered as the genetic defect in the hereditary non-polyposis colon cancer (HNPCC) syndrome “way back in 1993”. Yet, the concept of MMR arose around 1964 (almost simultaneously, and probably independently, by Harriett Ephrusi-Taylor, Robin Holliday and Matthew Meselson) to explain aberrant segregation (called gene conversion) of mutations used as genetic markers in genetic crosses with fungi and yeast [9]. Gene conversion looks as if allelic mutations were hopping from one homologous DNA molecule to another during the act of genetic recombination – a sort of genetic infection involving the same sites in DNA molecules! Strand exchange was invoked to form the heteroduplex “splice” or “patch” region in which one partner strand carried mutation (genetic marker) and the other not – hence the formation of a mismatched base-pair. The geneticists hypothesized that “mismatch repair” could either remove the mutation from the invading strand (and they would be blind to this event) or fix it, depending which strand was repaired by MMR. Nobody knew what would be the benefit of such DNA repair. ",
+        "bbox": [
+            505,
+            736,
+            929,
+            894
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            68,
+            494,
+            146
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The idea of a benefit for acquisition of MMR came from the observed coincidence of two phenotypes of MMR deficiency in bacteria: (i) the loss of “marker effect” – a version of gene conversion in bacterial genetic recombination [8] and (ii) the “mutator” phenotype displaying high spontaneous mutation rates. The coincidence and inseparability of the two phenotypes was noticed first in Gerard Thiraby’s Ph.D. thesis (University of Toulouse, 1969) study of the transformation of Streptococcus pneumoniae hex mutant [8]. Gerard was, via his thesis adviser Michel Sicard, a second-generation student of Ephrussi-Taylor, who, to account for “marker effects” in pneumococcal transformation, postulated the existence of mismatch repair in 1964/1965 (reviewed in 8). Marker effect is sort of uncertainty principle in genetic recombination: recombination frequency between closely and equally spaced markers (i.e., mutations) can vary several orders of magnitude depending solely on the chemical nature of mutation [10]. This was interpreted as the consequence of variable patterns and efficacies of MMR in the DNA heteroduplex region. When genetic markers from both crossing partners are closely spaced, they tend to be included in the same heteroduplex joint region and form two mismatched base-pairs (when two genetic markers are used) that can be repaired either on the same strand (i.e., co-repaired), or on opposite strands (repaired in trans), or remain unrepaired. When the genetic markers are associated with distinct phenotypes, the geneticist will observe different genetic outcomes and identify each of the three cases. This interpretation was abstract (try a simple drawing) and hypothetical, derived from results of tooth-picking colonies on solid agar media. ",
+        "bbox": [
+            70,
+            148,
+            494,
+            515
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "According to Maury Fox (pers. comm.), the pneumococcal hex mutator mutant emerged spontaneously in the Rockefeller Institute in the 1940s, possibly because of its accelerated (mutational) adaptation to the early less-than-optimal growth media, or was sorted out for its efficient transformation even with the low efficiency transformation markers (in normal bacteria). The “loss of marker effect” phenotype in hex (initially observed by Sanford Lacks; see ref. [8]) means that all markers/mutations are high efficiency markers because all remain unrepaired when transferred and integrated in DNA heteroduplex, therefore remain stably incorporated in the chromosome and transmitted to the progeny. ",
+        "bbox": [
+            70,
+            517,
+            494,
+            660
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Prelude to the discovery of post-replication error correction in DNA ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            688,
+            420,
+            713
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The implications of the hex mutator phenotype were discussed in depth during the 1975 EMBO Recombination Meeting in the Scottish town of Nethybridge. The obvious question was: to correct DNA copy errors, how can MMR proteins “know” which DNA strand is the original and which is the copy? The simplest way is to imagine that MMR complex somehow hangs on the new strand, e.g., by hooking onto, and staying behind, the DNA polymerase complex on the nascent strand. But, we knew that, to be detected, MMR must and does occur on artificially constructed DNA heteroduplex before its replication [1–3]. Robin Holliday’s proposition that the discontinuities in the newly synthesized strands could be the signals for strand discrimination was not met with enthusiasm. The reason was that the standard model of DNA replication involves “leading” and “lagging” strand synthesis and only the lagging strand would be subject to such mismatch correction reducing mutations only by $5 0 \\%$ . But now, it turns out that R. Holliday’s proposition probably applies to the vast majority of bacteria and to all other organisms. The forgotten fact is that Escherichia coli and yeast mutants with a temperature sensitive DNA ligase synthesize, at the elevated temperature, all its DNA discontinuously and of the same size (Okazaki fragments), suggesting that both “lagging” and “leading” strands might be initially synthesized in a discontinuous fashion [11,12]. Perhaps the strand-biased ligation kinetics could produce the leading/lagging strand asymmetry? Clearly, a selective mismatch-stimulated abortion of error-bearing Okazaki fragments by a helicase would result in effective copy error correction. ",
+        "bbox": [
+            70,
+            727,
+            494,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            524,
+            68,
+            946,
+            199
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "An alternative idea occurred to Matt Meselson who proposed that the methylation status of DNA strands could direct mismatch repair to the copy strand [2]. While sipping malt whisky in the Nethybridge hotel, he told me in 1975: “If I were the mismatch repair enzyme, I would look for DNA methylation pattern”. Matt knew from his E. coli restriction/modification studies that DNA strand modification – via sequence-specific addition of methyl groups – lags after the strand synthesis leaving a limited time window when newly synthesized strands are transiently undermethylated. That window could be used by mismatch repair enzymes to discriminate strands and repair only the transiently undermethylated copy strand! Few days before the trip to Scotland, I read a paper by M. G. Marinus and N.G. Morris about isolation of E. coli mutants deficient in either adenine (dam) or cytosine (dcm) methylation [13]. They noticed that dam, but not dcm, mutants exhibited increased spontaneous mutation rates – a mutator phenotype! Thus, the Dam-methylation (6meAdo in GATC sequences) fulfilled the prediction of Meselson’s hypothesis because, in non-methylated DNA of the dam mutant, a random undirected mismatch repair should cause a mutator effect as severe as the mismatch repair deficiency itself. I was excited by the amazing coincidence, but Matt was typically skeptical even about his own idea: too good to be true! ",
+        "bbox": [
+            524,
+            200,
+            946,
+            501
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I had a personal reason to be excited about a likely clue to the mismatch repair discovery because in the period 1970–1973 I ran in Matt Meselson’s lab a few thousand of alkaline sucrose velocity gradients of radioactive - phage DNA (reconstituted in vitro as to bear 3 equidistant mismatches) looking for E. coli cell extract activity that would cut DNA strand at mismatches and produce (multiples of) $1 / 4$ strand length fragments. Unfortunately for me, there was often a very weak signal that would vanish by purification and I never succeeded in isolating the elusive MMR endonuclease. The reason for my failure is that Matt’s later intuition about DNA methylation in MMR was correct for $E$ . coli and that my $\\lambda$ phage DNA preparations were about $7 0 \\%$ methylated at GATC sequences. The bottleneck to repair activity was in the substrate. During my desperate years Matt used to leave short messages on my desk like “virtue will triumph!”. It eventually did 3 years later for another kind of experiment, but even more for Paul Modrich a decade later. ",
+        "bbox": [
+            524,
+            504,
+            947,
+            713
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. First direct evidence for methyl-directed mismatch repair ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            741,
+            887,
+            766
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On May 28, 1976, during my one-month visit to test the DNA methylation hypothesis, Mathew Meselson, Robert Wagner and I saw the first direct experimental evidence of the methyl-directed mismatch repair process in E. coli. To imitate copy errors in the newly synthesized, transiently under-methylated, DNA strands, I used dam mutants to produce unmethylated $\\lambda$ DNA and with Bob Wagner made the first use of a hemi-methylated (one strand methylated, the other not) DNA heteroduplex with single mismatched base pairs as genetic markers. The result appeared exactly as imagined by Matt Meselson, i.e., as if MMR were designed to correct copy errors in DNA replication. Mismatched markers were lost from the transfected $\\lambda$ DNA heteroduplex only in the unmethylated strands. There was no loss of markers from fully methylated heteroduplex and the unmethylated heteroduplex showed random loss (repair) of mismatched markers meaning that all unmethylated strands are subject to MMR. This 40 years old experiment merits remembering because, except in a congress book [14], it was never published. ",
+        "bbox": [
+            524,
+            780,
+            946,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            52,
+            68,
+            475,
+            146
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We were de facto doing the genetics of reconstituted single DNA molecules. The “mottled” (mixed) $\\lambda$ plaques contain both genotypes and represent segregation of single unrepaired heteroduplex DNA molecules. “Pure” $\\lambda$ plaques could arise by localized repair or by loss of the entire strand. Matt taught us to be maximally creative in imagining even the most unlikely alternative interpretations – such as the bizarre strand loss. Much later we used an un-reparable mismatch as a stable marker for both DNA strands (to detect eventual strand loss) and a mismatch that was subject to repair. But, at that point in 1976, only the isolation of E. coli mismatch repair mutants could assure us that we are seeing a localized MMR rather than strand loss. Hence, no publication of our “breakthrough”! ",
+        "bbox": [
+            53,
+            147,
+            475,
+            303
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Isolation of mismatch repair mutants ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            319,
+            324,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Through my collaboration with Barry Glickman at Leiden University, we found a strategy how to select for mismatch repair deficient mutants: undirected mismatch repair in the dam mutant caused efficient cell killing following incorporation of a mismatching agent, the adenine analog 2-aminopurine [15], such that only mismatch repair deficient dam mutants were expected to grow on plates containing a lot of 2-aminopurine. Indeed, mutS, mutL and mutH mismatch repair deficient mutator mutants were readily isolated using this strategy [16]. When methylated, unmethylated and hemimethylated - heteroduplexes were transfected into mutS, L or H mutator mutants, they all produced only the mixed - plaques, i.e., there was no mismatch repair (reviewed in ref. [7]). Independently, B. Rydberg in Sweden used 5-bromouracil toxicity to identify MMR mutants among existing mutator mutants [17]. The availability of mut mutants advanced greatly the research on MMR. ",
+        "bbox": [
+            53,
+            345,
+            475,
+            542
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Isolation of MMR mutants left enough time to make $\\lambda$ heteroduplexes with physically separated “Watson” and “Crick” - DNA strands with defined mismatches (using sequenced mutations) and the methylation status. Over the following couple of years Matt’s brilliant post-doctoral fellow Pat Pukkila and my research assistant Christiane Dohet performed similar experiments. Again, because of the pressures from congress organizers, we published our extensive study in the proceedings of a meeting [18] and Pukkila and Meselson published their study in Genetics [19]. But most importantly, our results were in full agreement. ",
+        "bbox": [
+            53,
+            543,
+            475,
+            674
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. Enter Paul Modrich ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            688,
+            203,
+            699
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Matt Meselson wanted to have - DNA strands fully methylated in vitro to mimic the cellular DNA and called for help from Paul Modrich who had the purified Dam methylase. That was a historic phone call that will initiate the biochemistry of MMR. In a PNAS paper in 1983 [20] Paul came up with an ingenious design for the diagnostic of in vitro MMR: a heteroduplex between two distinct DNA restriction sequences, differing in only one base-pair that formed a G:T mismatch preventing either restriction endonuclease from cutting that site in DNA. If mismatch was repaired on Watson strand it created the normal sequence cleaved by one restriction enzyme and if repaired on Crick strand it was cut by the other restriction enzyme. Thus, in vitro MMR could be diagnosed at each strand and quantified by the intensity of distinct bands following restriction of the hemimethylated fd phage heteroduplex DNA incubated in complete E. coli extracts [20]. This was the very beginning of the end. In a tour de force lasting four years, using inactive extracts of MMR deficient mutants and purifying the complementing protein from the active wild type extract, Modrich and associates isolated all four key MMR-specific proteins (MutS, MutL, MutH and UvrD), complemented them with Pol III holoenzyme, SSB, exonuleases I and VII and ligase and got the full blast MMR working in vitro with purified proteins [21]. ",
+        "bbox": [
+            53,
+            715,
+            475,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            68,
+            929,
+            133
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The specific functions were readily assigned to each protein: (i) MutS recognizes and binds to all mismatches (except for C:C mismatch), (ii) MutH recognizes and cuts the unmethylated GATC sequence closest to the mismatch, irrespective of the left-right direction, (iii) MutL is the key matchmaker between the two sites and necessary to activate the MutH endonuclease and UvrD (helicaseII) preparing the cut strand for degradation by (iv) exonucleases I and VII followed by the (v) repair synthesis (up to few kilobases when GATC was at such distance) by the replicative PolIII holoenzyme and finally (vi) sealing the repaired strand by ligase [21]. A complicated exercise to achieve a complex task. ",
+        "bbox": [
+            505,
+            134,
+            929,
+            278
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The long-range multi-protein interactions mediated by the MutL matchmaker remained mysterious for years because, for some reason, MutL is consumed in MMR and has to be replenished [22,23]. Excess of mismatches (by high DNA polymeraseIII error rates or by addition of mismatching base analogs) paralyses MMR in E. coli resulting in a MMR deficient “phenocopy” that can be cured by artificial overproduction of MutL [23]. The electron microscopy and crystal structures with purified proteins suggested a DNA loop intermediate in MMR by joining the mismatch-bound MutS and the proximal GATC sequence [24]. But in vivo experiments with fluorescent MutS and MutL proteins showed the necessity of MutL polymerization, or aggregation, on DNA for the MMR activity [25]. The latter model agrees better with in vivo results showing MutL saturation by unrepaired mismatches [22,23]. In that model, MutL binds to the mismatch-bound MutS and pushes the activated MutH by its own polymerisation left and right away from the mismatch until the first encounter of an unmethylated GATC sequence that is readily cut by MutH [25,26]. One of the two models – DNA loop in vitro versus MutL aggregation/polymerisation in vivo – must involve an artifact. It is more likely that the in vitro conditions miss something. ",
+        "bbox": [
+            505,
+            279,
+            929,
+            554
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During the decade 1980–1990, P. Modrich’s in vitro biochemical studies and our in vivo genetic studies with DNA heteroduplexes went on in parallel, and in full agreement, to define the basic mechanism of MMR and the hierarchy of mismatch preference in MMR. Key to the understanding of the MMR mechanism was the finding that small phage phiX174 DNA, naturally devoid of GATC sequence, is not the substrate for MMR, but the insertion of the GATC sequence makes it an active substrate [27,28]. Unmethylated GATC sequence, even at kilobase distance from the mismatch, is required for repair and MutH is the endonuclease that cleaves the proximal GATC, but only when activated by MutSL bound to the mismatch [27,28]. Interestingly, any nick in DNA can substitute for both GATC sequence and MutH in MMR [27,29]. At this point, Robin Holliday’s hypothesis came back to light to explain the MMR mechanism in large majority of bacteria and in all other species devoid of GATC methylation and some devoid of all detectable methylation. Only a small number of $\\gamma$ -proteobacteria posses genes encoding Dam methylase and MutH endonuclease. The research on yeast, Xenopus and human MMR will show later that strand discontinuity is a universal signal for MMR. Our current view of the mechanism of MMR in E. coli involving MutL polymerization on DNA is shown in Ref. [25]. ",
+        "bbox": [
+            505,
+            556,
+            929,
+            846
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. How MutS recognizes a mismatch? ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            872,
+            759,
+            885
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When diverse mismatches with known in vivo repair efficiencies were reproduced in synthetic oligonucleotides and studied by NMR spectroscopy, it turned out that only intrahelical mismatches are repaired [30]. For instance, the C:C mismatch is always extrahelical and non-reparable. Yet, the spectrum of spontaneous mutations is not loaded by the $G C \\to C G$ transversions for the good reason that, as shown by Myron Goodman and colleagues, DNA polymerases almost never make such grotesque mistake (reviewed in 7). No need to repair errors that do not occur! Olga Kennard showed in crystal structures of oligonucleotides that the T in the G:T mismatch is tilted towards the narrow groove to stack with the neighboring base but both G and T remain intrahelical [31]. Finally, the pioneering work of Wei Yang and Titia Sixma on MutS and MutS/MutL crystals and co-crystals of mismatched oligonucleotides with the bound MutS protein showed a $6 0 ^ { \\circ }$ DNA kink at the mismatch and the stacking of Phe36 on the mismatched base with hydrogen bonding between the tilted T mismatched base and the Glu38 residue of the MutS [32,33]. ",
+        "bbox": [
+            504,
+            899,
+            929,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            68,
+            494,
+            264
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This rounds up my personal recollection of the early times of DNA methyl-directed mismatch repair. DNA sequencing allowed the identification of the nature of each mismatch revealing that the most frequent replication errors (transition and frameshift) are the most efficiently corrected mismatches [7] whereas the most infrequent error C:C is not recognized by MMR. The immediate surrounding G:C richness increases polymerase error rates as well as the repair efficacy of any mismatch repair (reviewed in 7). The result is that MMR specificity compensates for the bias of DNA replication errors (predominantly, G:T, A:C and frame-shift) such that, after repair, all mutations occur at similar frequencies. How nice! ",
+        "bbox": [
+            70,
+            266,
+            494,
+            409
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. MMR edits genetic recombination ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            437,
+            317,
+            450
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After the hype of the role of MMR in improving DNA replication fidelity by two orders of magnitude, a surprise came about by late 1980s showing that the ubiquitous MMR’s controls also the fidelity of homologous recombination, and is probably involved in early stages of speciation [34]. In order to see how is the key intermediate in recombination processed by MMR, we performed both transfection experiments with reconstituted - phage DNA heteroduplexes and the genuine genetic crosses using the same mutations. In one such system, each of four mismatched bases – forming two defined mismatched base pairs within -cI gene in pure DNA heteroduplexes – had a distinct phenotype such that each of 8 possible repair and co-repair events (final arrangements of markers on each strand) were scored [35]. ",
+        "bbox": [
+            70,
+            464,
+            494,
+            634
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These elaborate experiments revealed something important: when genetic markers (mutations) are used to study recombination, the general MMR system acts to reduce recombination. The MMR activity made genetic recombination a reversible process because of genetic markers used! Apparently, when mismatched, the early heteroduplex intermediates were aborted by the MutSL and helicase II [36,37]. However, a specialized very-short-patch (VSP) mismatch repair acts – irrespective of adenine methylation – only on the $G / \\mathrm { T }$ mismatch that mimics the mutagenic deamination of 5-methyl-cytosine to thymine by removing punctually only the T residue opposite G thereby restoring the original G:C pair [38]. When at least one genetic marker originated from 5- meC deamination, then VSP repair caused hyper-recombination between close markers due to the punctuated mismatch repair: this is the so-called high negative interference phenomenon. Mechanistically, the recombinant sequences are generated by localized VSP repair rather than by rare crossing over between the markers. This specialized VSP repair, suggested originally by Peggy Lieb [39] (we used her -c am6 mutant) was so efficient that we could use it for the quantification of the heteroduplex formation during regular recombination in vivo. ",
+        "bbox": [
+            70,
+            635,
+            494,
+            910
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The observation that the general mismatch repair reverses the work of recombination enzymes by aborting nascent mismatched heteroduplexes – because of the use of genetic markers – gave birth to the easily tested idea that mismatch repair system may act as a barrier to recombination between closely related species, e.g., the $2 0 \\%$ diverged Escherichia and Salmonella, due to natural sequence divergence that provides multitude of mismatching silent mutations [40]. ",
+        "bbox": [
+            70,
+            912,
+            494,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            68,
+            946,
+            146
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. Melting mismatched secondary structures in DNA by MMR proteins ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            166,
+            897,
+            192
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unlike the complete MMR process involved in the elimination of mutations arising from DNA replication errors, MutS, MutL and helicaseII alone can edit homologous recombination between non-identical sequences, as well as mismatched secondary structures, by a mismatch-stimulated melting of duplex DNA. In the case of recombination, this results in anti-recombination: abortion of the recombination process by reversing the strand invasion by recombinases (Fig. 1). In the case of palindromic “hairpins” or stem-and-loop structures, it results in the melting of the secondary structure. In the latter case, such melting prevents deletions of the hairpin or stem-and-loop sequences by skipping such structures in the template via DNA replication across the secondary structure (Fig. 1). MMR deficient mutS, mutL and UvrD mutants exhibit the Tex (“transposon excision”, a transposon loss but without its physical excision) phenotype – a few hundred-fold increase in the loss of transposon (Tn5 and Tn10) sequences [41]. Closely spaced inverted identical repeats form stable secondary structures that are highly deletogenic, but even a single mismatch in the stem destabilizes the structure by the activity of MMR proteins and prevents deletions generated by replicative bypass. ",
+        "bbox": [
+            522,
+            206,
+            947,
+            470
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Repeated very short sequence motifs can become “parasitic” and expand like some kind of DNA tumors, because they confuse DNA polymerase during replication, which starts “slipping” – skipping or jumping over the same short repeated sequences. Such is the case of CAG and CGG triplet repeats causing progressive emergence of a dozen of nasty neuromuscular diseases while affecting gene expression or function by expanding within the DNA of somatic cells. When transiently single-stranded (e.g., during replication or transcription) such repeats can form heavily mismatched (1/3 base pairs) hairpins and induce DNA polymerase to slip and expand or shrink the repeated sequence. There, MMR can have paradoxical effects: either melt the hairpin (good news) or stimulate its formation (bad news) by generating single-strandedness during the long-range strand removal in the act of repair [42]. But globally, MMR proteins are amazing versatile editors of DNA preventing its alterations arising from replication, recombination and secondary structures, thereby stabilizing genomic sequence and structure (Fig. 1). ",
+        "bbox": [
+            524,
+            471,
+            946,
+            707
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. MMR stabilizes chromosome structure and prevents all genetic change ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            727,
+            915,
+            754
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Repeats of small motifs (mono, di and trinucleotides) cause all DNA polymerases to slip and make so frequent insertion/deletion frameshift mutations as to produce a phenomenon called microsatellite instability. When such one to three unpairedbases replication errors occur, they are exquisitely corrected by MMR. Therefore, lack of MMR can increase genome-wide microsatellite instability by up to 10,000-fold – to the extent that hundreds of thousands of microsatellites in our genome start “playing accordion” and produce fuzziness in the analysis of short DNA fragment length. Such fuzziness was the first diagnostic of MMR deficiency in HNPCC tumors! ",
+        "bbox": [
+            524,
+            766,
+            946,
+            910
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "However, although the much larger sequence repeats are stable in replication, they become substrate for non-allelic homologous recombination generating large chromosomal rearrangements by “ectopic” recombination. Typical eukaryotic genomes are riddled by many kinds of DNA sequence repeats – blocks of diverged sequence homologies scattered throughout the genome. Such repeats were shown by Tom Petes to cross-over in yeast irrespective of their position [43]. The “ectopic” recombination events generate chromosomal rearrangements (deletions, inversions and translocations). With hundreds of thousands members of a single family of repeats, how come that human genome shows its stability while very frequent crossovers, sister-chromatid exchange, occur between the identical sister molecules? The clue is in sequence identity and MMR. ",
+        "bbox": [
+            522,
+            912,
+            947,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/af107609190becd612b13a370dc485723bb9010813a06c21e1f08adb3bc9594d.jpg",
+        "image_caption": [
+            "Editing DNA replication, recombination and structure by mismatch repair ",
+            "Fig. 1. Editing of DNA replication, recombination and secondary structures by mismatch repair proteins. The indicated DNA replication errors are: (i) an A:C mismatch, (ii) the mono-, di- or tri-nucleotide repeats (microsatellites) drawn as short arrows that expand (the upper sister molecule) or contract (the lower sister molecule) and the large mushroom-like secondary structure with the mismatch-bearing stem to mimic a transposon with repeated IS sequence in opposite orientation. The corrective action of MMR proteins is shown by arrows. On the right hand side is drawn a strand invasion event creating an early homologous, or homeologous, recombination intermediate with a heteroduplex region mismatched at points of sequence divergence between the parental molecules. The arrow indicates mismatch-stimulated strand separation by a helicase activity (like when melting the secondary structure to the left) aborting the attempted recombination event. This anti-recombination prevents chromosomal rearrangements by inter-repeat crossovers and erects genetic barriers as an early stage of speciation (Fig. 2). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            226,
+            95,
+            746,
+            356
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            459,
+            475,
+            616
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We reasoned that even a low divergence $1 - 3 \\%$ , such as among the LINE sequences) prevents inter-repeat recombination by the MMR editing. I called my friend Hatch Echols in whose lab MarieAgnès Petit studied a large chromosomal duplication mediated by the ectopic crossover between two long $1 \\%$ diverged natural repeats. The question was whether that rearrangement is increased in MMR mutants? Marie-Agnès showed soon that this large chromosomal rearrangement is suppressed by active MMR [44]. Hence, all aspects of genomic stability are controlled by MMR! ",
+        "bbox": [
+            52,
+            617,
+            475,
+            736
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In 1988, Susan Rosenberg and David Thaler were visiting postdoctoral colleagues with a huge impetus on my Parisian lab. David came with the idea that SOS and MMR systems must “speak to each other” because they act in opposite directions: MMR stabilizes the genome, SOS stimulates changes. It turned out that they do: Ivan Matic and Christiane Rayssiguier showed that the genetic barrier to recombination of similar DNA sequences is increased by MMR and lowered by SOS [45]. Inter-species bacterial mating induces SOS that in turn enhances genetic recombination. The consequence is that, in the individual SOS-induced MMR deficient cells, identified by an epigenetic switch, genetic recombination totally ignores $2 0 \\%$ divergence between Salmonella and Escherichia leading to the elimination of the genetic barrier that was built over a 100 million years by causing a million-fold increase in inter-species recombination [46]. ",
+        "bbox": [
+            53,
+            737,
+            475,
+            933
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Eukaryotic MMR ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            459,
+            645,
+            471
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "By the end of 1980s the studies on yeast MMR in Richard Kolodner’s laboratory advanced well and it was time to tackle MMR in complex eukaryotes. First, the Xenopus egg [47] and then with the reconstituted proteins from human cell extracts [48] showed MMR activities that are strand-directed by a single-strand break. The MMR activity in Xenopus egg extract showed that the “nick” was the signal for strand-direction of MMR rather than the free end for excision-resynthesis [47]. Kolodner and colleagues identified multiple gene homologues of the bacterial mutS and mutL genes in yeast Saccharomyces cerevisiae that is devoid of any detectable DNA methylation, and yet, their inactivation caused the expected mutator effect (reviews 4–6). Isolation of yeast MSH and MLH genes was the prelude to the isolation of amphibian, mouse and human (review, 4) MMR genes that resulted in the identification of MSH2, MSH3, MLH1 and PMS2 gene mutations as causes of the HNPCC (Lynch 2) syndrome predisposing (in heterozygote individuals) to the colon (and some other) cancers. In all such tumors, the inborn MMR heterozygosity $\\left( \\mathrm { m } { } / { + } \\right)$ was reduced to the MMR deficient homozygosity $\\mathrm { ( m / m ) }$ displaying a mutator phenotype. This link between MMR and human cancer gave MMR a huge publicity and large support for research. ",
+        "bbox": [
+            505,
+            485,
+            929,
+            761
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The coincident generation of transgenic mice with inactivated MSH2 [49] and PMS2 [50] genes produced the first mammalian mutator phenotype and showed, for the first time, a direct causal relationship between the increased spontaneous mutation rates and carcinogenesis in the absence of any external genotoxic treatment. The triggering of apoptotic cell death by MMR activity in mammalian cells treated with alkylating agents was also demonstrated [49] probably as the consequence of DNA breaks made by too close MMR events. ",
+        "bbox": [
+            505,
+            762,
+            929,
+            881
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Another tour de force involving R. Kolodner, B. Vogelstein and P. Modrich’s laboratories, joined later by Tom Kunkel’s group, revealed an increase in the number of proteins required for mammalian MMR already known from the analysis of yeast MMR genes and proteins (reviews, 4–6). Protein homodimers in bacteria became heterodimers in eukaryotes: Msh2, Msh3 and Msh6 form Msh2/Msh3 and Msh2/Msh6 heterodimers to recognize nonmatched versus mis-matched bases, respectively; Mlh1/Pms2 and Mlh1/Pms1 are used in mitosis and meiosis respectively. ",
+        "bbox": [
+            504,
+            881,
+            927,
+            933
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            68,
+            494,
+            133
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Editing of recombination by MMR holds for mammals as well. MMR was shown to edit the homologous recombination process in the gene replacement, knock-out or knock-in, experiments with mouse ES cells. Whenever donor DNA sequence differed from the recipient chromosome’s sequence by the natural sequence polymorphism (using the same DNA fragment from different mouse strains) there was suppression of gene replacement. MMR deficiency improved the non-isogenic gene replacement efficacy in ES cells by three orders of magnitude without affecting gene replacement by identical sequence [49]. Inspiration for this experiment with mouse ES cells came from the studies of inter-species recombination in bacteria. ",
+        "bbox": [
+            70,
+            133,
+            494,
+            291
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. Evolutionary, oncological and methodological ramifications of MMR ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            307,
+            410,
+            332
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Random mutation is substrate of evolution and source of genetic handicaps, therefore the tuning of mutation rates serves their optimization in adaptive evolution. In bacteria, SOS system appears as an accelerator of, and MMR as a break to, genomic change. MMR erects the early genetic barriers [40] as shown by a real-time experimental incipient bacterial speciation in the laboratory [51] – an experiment that started with a single bacterial cell and lasted (then) over two decades, and 20,000 generations, of accumulating polymorphism during the continuous growth. The notion that mismatch repair system provides for a ubiquitous first step in the process of sympatric reproductive isolation, i.e., speciation, is still too academic to be fully appreciated (but see Fig. 2). ",
+        "bbox": [
+            70,
+            346,
+            494,
+            504
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The impact of MMR mutants on our understanding of the mutational process in carcinogenesis was discussed above. The expression of recessive mutations in tumor suppressor genes is a bottleneck in the process of carcinogenesis and requires the reduction of the heterozygous mutant state $\\left( \\mathrm { m } { } / { + } \\right)$ to homozygosity $\\mathrm { ( m / m ) }$ usually by mitotic recombination. The natural sequence polymorphism between maternal and paternal homologues in somatic cells and the MMR activity together prevent mitotic recombination [52] and therefore cancer. This aspect of MMR concerns all heterozygous recessive mutations and the health of the entire human population, but is rarely mentioned (presumably because it is somewhat abstract to explain a recombination-related “phenotype” of the global human sequence polymorphism). The simple lesson is: inbreeding can be carcinogenic! ",
+        "bbox": [
+            70,
+            505,
+            494,
+            557
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            524,
+            68,
+            946,
+            199
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Studying MMR led also to the creation of new methods. For instance, the efforts to understand how MMR works lead to a unique method for visualizing, in real time, all genomic mutations arising in the last replication round, in living and dead cells, irrespective of their phenotypic effects [26]. The method is based on the facts that (i) about $1 \\%$ of DNA copy errors escape mismatch repair because GATC methylation occurs before MMR has corrected all copy errors and (ii) MutS protein still detects such emerging mutations (mismatches) and attracts MutL that keeps accumulating on DNA in the futile attempt to trigger mismatch repair [25]. When fused to a fluorescent protein (GFP, YFP), such still functional MutL forms stable fluorescent foci at each unrepaired mismatch until next replication round separates the mismatched base pair. This allows for visualizing and counting all mutations emerging in each DNA replication round, i.e., direct visualization of the mutation rate by counting simply the number of fluorescent foci [26]. Visualization of mutations – substrate of evolution – as they emerge, in real time, and understanding how accumulating mutations (polymorphism) create early genetic barriers in speciation ([51,53] and Fig. 2) is a Darwinian dream come true. ",
+        "bbox": [
+            524,
+            200,
+            947,
+            462
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As warned at the outset, in commenting the Nobel Prize to Paul Modrich for his brilliant elucidation of the mechanism of MMR, I wrote an ad hoc personal account about the early ground-breaking MMR research community, evolution of ideas and conception of key experiments and, in particular, about the biology of MMR (Fig. 1). The impact of DNA base pair mismatch recognition and repair on genetics, evolution and health is impressive and Paul Modrich’s biochemical exploration of MMR allows for a better mechanistic understanding of the biological impact of MMR. ",
+        "bbox": [
+            522,
+            464,
+            947,
+            556
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2c7a050c8b79da4e2225fee1321b1eaaaa48318081681b0107cb6d0f418a97fa.jpg",
+        "image_caption": [
+            "",
+            "Fig. 2. Exponential decrease in recombination frequency with increasing genomic sequence divergence (polymorphism) is largely controlled by MMR. The inter-species crosses are between the recipient E. coli K12 and (in the increasing order of sequence divergence) and E. coli K12, E. coli B, E. coli C, Shigella flexneri, E. fergusonii and Salmonella typhimurium (shaded points). The open points and the lines correspond to a mechanistic mathematical model (the right hand ordinate). The recombination frequencies in blue circles are when recombination occurs in the wild type E. coli K12; the red triangles are for recombination occurring in MMR deficient (mutS) E. coli K12 over-expressing the key recombinase RecA and the green squares are for SOS non-inducible lexA3 mutant over-expressing the two key MMR proteins, MutS and MutL. Genetic barriers can be quasi eliminated (red triangles) or ad hoc created (green squares) by varying genetic exchange by up to $1 0 ^ { 6 }$ -fold. These data and mathematical modeling can be found in Ref. [53]. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            245,
+            590,
+            771,
+            848
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            52,
+            68,
+            477,
+            93
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            108,
+            184,
+            121
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I wish to express my gratitude to Paul Modrich for invitations and delightful discussions during my sabbatical year at NIEHS in Chapel Hill 1989–1991 that resulted in a coauthored paper (Ref. [37]), to Matt Meselson for his coaching me through 3 years (1970–1973) of effort to reveal existence MMR and to Bob Wagner for the most productive collaboration I ever experienced. Christiane Rayssiguier, Ivan Matic, Franc¸ ois Taddei, David Thaler, Susan Rosenberg, Marin Vulic and Marina Elez made me think incessantly and produced with me an opus of exciting papers on MMR. My current work at the Mediterranean Institute for Life Sciences is supported by the French Naos Group, and formerly by the Swiss FNAB foundation, and by the INSERM in the Inserm U-1001 in Paris. ",
+        "bbox": [
+            53,
+            134,
+            475,
+            291
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            306,
+            126,
+            319
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "[1] J. Wildenberg, M. Meselson, Mismatch repair in heteroduplex DNA, Proc. Natl. Acad. Sci. U. S. A. 72 (1975) 2202–2206.   \n[2] R. Wagner Jr., M. Meselson, Repair tracts in mismatched DNA heteroduplexes, Proc. Natl. Acad. Sci. U. S. A. 73 (1976) 4136–4139.   \n[3] R.L. White, M.S. Fox, On the molecular basis of high negative interference, Proc. Natl. Acad. Sci. U. S. A. 71 (1974) 1544–1548.   \n[4] P. Modrich, Mechanisms and biological effects of mismatch repair, Annu. Rev. Genet. 25 (1991) 229–253.   \n[5] R. Fishel, Mismatch repair, J. Biol. Chem. 290 (2015) 26395–26403.   \n[6] T. Kunkel, D.A. Erie, Eukaryotic mismatch repair in relation to DNA replication, Annu. Rev. Genet. 49 (2015) 291–313.   \n[7] M. Radman, R.E. Wagner, Mismatch repair in Escherichia coli, Annu. Rev. Genet. 20 (1986) 523–538.   \n[8] J.-P. Claverys, S.A. Lacks, Heteroduplex deoxyribonucleic acid base mismatch repair in bacteria, Microbiol. Rev. 50 (1986) 133–165.   \n[9] H.L.K. Whitehouse, Genetic Recombination: Understanding the Mechanisms, Wiley Publ., 1982.   \n[10] C. Coulondre, J.H. Miller, Genetic studies of the lac repressor IV. Mutagenic specificity in the lacI gene of Escherichia coli, J. Mol. Biol. 117 (1977) 577–606.   \n[11] L. Amado, A. Kuzminov, Low molecular weight DNA replication intermediates in Escherichia coli: mechanism of formation and strand specificity, J. Mol. Biol. 425 (22) (2013), http://dx.doi.org/10.1016/j.jmb.2013.07.021.   \n[12] L.H. Johnston, K.A. Nasmyth, Saccharomyces cerevisiae cell cycle cdc9 mutant is defective in DNA ligase, Nature 274 (1978) 891–893.   \n[13] M.G. Marinus, N.R. Morris, Pleiotropic effects od a DNA adenine methylation mutation (dam3) in Escherichia coli K12, Mutat. Res. 28 (1975) 15–26.   \n[14] M. Radman, R.E. Wagner, B.W. Glickman, M. Meselson, DNA methylation, mismatch correction and genetic stability, in: M. Alacevic (Ed.), Progress in Environmental Mutagenesis, Amsterdam, Elsevier/North-Holland, 1980, pp. 121–130.   \n[15] B.W. Glickman, P. Van den Elsen, M. Radman, Induced mutagenesis in dam− mutants of Escherichia coli: a role for 6-methyl-adenine residues in mutation avoidance, Mol. Gen. Genet. 163 (1978) 307–312.   \n[16] B.W. Glickman, M. Radman, E. coli mutator mutants deficient in methylation instructed DNA mismatch correction, Proc. Natl. Acad. Sci. U. S. A. 77 (1980) 1063–1067.   \n[17] B. Rydberg, Bromouracil mutagenesis in Escherichia coli evidence for involvement of mismatch repair, Mol. Gen. Genet. 152 (1977) 19–28.   \n[18] M. Radman, C. Dohet, M.-F. Bourguignon, O.P. Doubleday, P. Lecomte, High fidelity devices in the reproduction of DNA, in: E. Seeberg, K. Kleppe (Eds.), Chromosome Damage and Repair, Plenum Publ. Corp., 1981, pp. 431–445.   \n[19] P. Pukkila, J. Peterson, G. Herman, P. Modrich, M. Meselson, Effects of high levels of DNA adenine methylation on methyl-directed mismatch repair in Escherichia coli, Genetics 104 (1983) 571–582.   \n[20] A.-L. Lu, S. Clark, P. Modrich, Methyl-directed repair of DNA base-pair mismatches in vitro, Proc. Natl. Acad. Sci. U. S. A. 80 (1983) 4639–4643.   \n[21] R.S. Lahue, K.G. Au, P. Modrich, DNA mismatch correction in a defined system, Science 245 (1989) 160–164.   \n[22] V. Damagnez, M.-P. Dutrillaux, M. Radman, Saturation of mismatch repair in the mutD5 mutator strain of Escherichia coli, J. Bacteriol. 171 (1989) 4494–4497.   \n[23] R.M. Schaaper, M. Radman, The extreme mutator effect of Escherichia coli mutD5 results from saturation of mismatch repair by excessive DNA replication errors, EMBO J. 11 (1989) 3511–3516.   \n[24] D.J. Allen, et al., MutS mediates heteroduplex loop formation by a translocation mechanism, EMBO J. 16 (July (14)) (1997) 4467–4476.   \n[25] M. Elez, M. Radman, I. Matic, Stoichiometry of MutS and MutL at unrepaired mismatches in vivo suggests the mechanism of repair, Nucl. Acids Res. (2012), http://dx.doi.org/10.1093/nar/gkr1298.   \n[26] M. Elez, A.W. Murray, L.-J. Bi, X.-E. Zhang, I. Matic, M. Radman, Seeing mutations in living cells, Curr. Biol. 20 (2010) 1432–1437.   \n[27] F. Laengle-Rouault, G. Maenhaut-Michel, M. Radman, GATC sequence and mismatch repair in E. coli, EMBO J. 5 (1986) 2009–2013.   \n[28] R.S. Lahue, S.S. Su, P. Modrich Requirement for d(GATC) sequences in Escherichia coli mutHLS mismatch correction, Proc. Natl. Acad. Sci. U. S. A. 84 (1987) 1482–1486.   \n[29] F. Laengle-Rouault, G. Maenhaut-Michel, M. Radman, GATC sequences DNA nicks and the mutH function in Escherichia coli mismatch repair, EMBO J. 6 (1987) 1121–1127.   \n[30] G.V. Fazakerley, et al., Structures of mismatched base pairs in DNA and their recognition by the Escherichia coli mismatch repair system, EMBO J. 5 (1986) 3697–3703.   \n[31] W.N. Hunter, G. Kneale, T. Brown, D. Rabinovich, O. Kennerd, Refined crystal structure of an octanucleotide duplex with G T mismatched base-pairs, J. Mol. Biol. 190 (1986) 605–618.   \n[32] G. Obmolova, C. Ban, P. Hsieh, W. Yang, Crystal structures of mismatch repair protein MutS and its complex with a substrate DNA, Nature 407 (2000) 703–710.   \n[33] H. Meindert, et al., The crystal structure of DNA mismatch repair protein MutS binding to a G:T mismatch, Nature 407 (2000) 711–717.   \n[34] M. Radman, R. Wagner, Mismatch recognition in chromosomal interactions and speciation, Chromosoma 102 (1993) 369–373.   \n[35] M. Jones, R.E. Wagner, M. Radman, Mismatch repair and recombination in E. coli, Cell 50 (1987) 621–626.   \n[36] M. Elez, M. Radman, I. Matic, The frequency and structure of recombinant products is determined by the cellular level of MutL, Proc. Natl. Acad. Sci. U. S. A. 104 (2007) 8935–8940.   \n[37] L. Worth Jr., S. Clark, M. Radman, P. Modrich, Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs, Proc. Natl. Acad. Sci. U. S. A. 91 (1994) 3238–3241.   \n[38] M. Jones, R.E. Wagner, M. Radman, Mismatch repair of deaminated 5-methylcytosine, J. Mol. Biol. 194 (1987) 155–159.   \n[39] M. Lieb, C. Rehmat, Very short patch repair of T:G mismatches in vivo: importance of context and accessory proteins, J. Bateriol. 177 (1995) 660–666.   \n[40] C. Rayssiguier, D.S. Thaler, M. Radman, The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants, Nature 342 (1989) 396–401.   \n[41] V. Lundblad, N. Kleckner, Enhanced transposon excision in mismatch repair mutations of Escherichia coli K12, Genetics 109 (1985) 3–19.   \n[42] C. McMurray, Hijacking of the mismatch repair system to cause CAG expansion and cell death in neurodegenerative disease, DNA Repair 7 (2008) 1121–1134.   \n[43] T.D. Petes, C.W. Hill, Recombination of repeated genes in microorganisms, Annu. Rev. Genet. 22 (1988) 147–168.   \n[44] M.-A. Petit, J. Dimpfl, M. Radman, H. Echols, Control of chromosomal rearrangements in E. coli by the mismatch repair system, Genetics 129 (1991) 327–332.   \n[45] I. Matic, C. Rayssiguier, M. Radman, Interspecies gene exchange in bacteria: the role of SOS and mismatch repair systems in evolution of species, Cell 80 (1995) 507–515.   \n[46] I. Matic, F. Taddei, M. Radman, No genetic barriers between Salmonella enterica serovar typhimurium and Escherichia coli in SOS induced mismatch repair deficient cells, J. Bacteriol. 182 (2000) 5922–5924.   \n[47] I. Varlet, G. Cerovic, P. Brooks, M. Radman, Mismatch repair in Xenopus egg extracts: DNA strand breaks act as signals rather excision points, Proc. Natl. Acad. Sci. U. S. A. 93 (1996) 10156–10161.   \n[48] N. Constantin, L. Dzantiev, F.A. Kadyrov, P. Modrich, Human mismatch repair: reconstitution of a nick-directed bidirectional reaction, J. Biol. Chem. 280 (2005) 39752–39761.   \n[49] N. de Wind, M. Dekker, A. Berns, M. Radman, H. te Riele, Inactivation of the mouse Msh2 gene results in mismatch repair deficiency, methylation tolerance, hyperrecombination and predisposition to cancer, Cell 82 (1995) 321–330.   \n[50] S.M. Baker, et al., Male mice defective in the DNA mismatch repair gene PMS2 exhibit abnormal chromosome synapsis in meiosis, Cell 82 (1995) 309–319.   \n[51] M. Vulic, R. Lenski, M. Radman, Mutation, recombination and incipient speciation of bacteria in the laboratory, Proc. Natl. Acad. Sci. U. S. A. 96 (1999) 7348–7351.   \n[52] C. Shao, L. Deng, Y. Chen, R. Kutcherlapati, P.J. Stambrook, J.A. Tiscgfield, Mlh1 mediates tissue-specific regulation of mitotic recombination, Oncogene 23 (56) (2004) 9017–9024.   \n[53] M. Vulic, F. Dionisio, M. Taddei, Radman, Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria, Proc. Natl. Acad. Sci. U. S. A. 94 (1997) 9763–9767. ",
+        "bbox": [
+            50,
+            329,
+            477,
+            866
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            502,
+            66,
+            931,
+            860
+        ],
+        "page_idx": 6
+    }
+]

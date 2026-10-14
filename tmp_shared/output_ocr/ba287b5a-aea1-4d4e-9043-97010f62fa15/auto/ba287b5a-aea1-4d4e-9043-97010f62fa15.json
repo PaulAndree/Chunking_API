@@ -1,0 +1,369 @@
+[
+    {
+        "type": "text",
+        "text": "Protection and Host Cell Repair of Irradiated Lambda Phage III. Ultraviolet Irradiation of 5-Bromouracil-Substituted Phage ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            120,
+            856,
+            163
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. RADMAN\\*, A. ROLLER\\*\\* and M. ERRERA Laboratoire de Biophysique et Radiobiologie, Faculté des Sciences, Université libre de Bruxelles ",
+        "bbox": [
+            228,
+            175,
+            762,
+            223
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received March 10, 1969 ",
+        "bbox": [
+            401,
+            236,
+            600,
+            250
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. 5-bromouracil-containing A phage, irradiated with UV light in the presence and absence of cysteamine, were assayed on normal and DNA-repair deficient bacteria. ",
+        "bbox": [
+            128,
+            268,
+            869,
+            297
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has been found that these phage suffer (1) lesions, of unknown nature, which are neither reparable by the bacterial DNA repair systems nor prevented by cysteamine, a free radical scavenger and proton donor; (2) lesions which are converted to reparable lesions by cysteamine, and which may be sugar damages (perhaps accompanied by pyridimine dimers) which are converted to simple dimers; and (3) irreparable lesions, which do not occur in the presence of cysteamine, and which are probably sugardamages. Theselatter are the most important, and in large part explain the increased sensitivity to irradiation of 5-bromouracil-substituted phage. ",
+        "bbox": [
+            128,
+            297,
+            871,
+            394
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            442,
+            413,
+            555,
+            429
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ultraviolet (UV) iradiation of phage in which the thymine has been replaced by 5-bromouracil (BU) gives rise to lesions which cannot be repaired by DNA repair systems (STAHL et al., 1961; SAUERBIER, 1961; HoWARD-FLANDERS et al., 1962). This was interpreted as meaning that the repair enzymes are inhibited by BU substitution. Recently, it has been found that the repair enzymes are not inhibited in partially BU-substituted, UV -irradiated bacteria (L1oN, 1968). A significant protection of BU substituted T 1 and T 4 is observed if the phage are irradiated in the presence of cysteamine (Cy) (HoTz, 1963; HoTz and REusCHL, 1967), who suggested that it permits normal DNA repair. ",
+        "bbox": [
+            126,
+            433,
+            871,
+            586
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In none of the above investigations was use made of mutants in which the repair systems are nonfunctional. A study of the UV inactivation of BU-substituted phage A has therefore been undertaken, with the aim of distinguishing the effect of repair system from changes in the lesions resulting from the presence of Cy. ",
+        "bbox": [
+            128,
+            587,
+            871,
+            653
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phage, irradiated in the presence or absence of $\\mathrm { C y }$ , were assayed on normal, host cell reactivation (uvr $C ^ { - }$ and recombination $( r e c A ^ { - } )$ deficient bacteria. It has been found that the most important effect ist the partial prevention of lethal lesions by Cy. In agreement with the investigations cited above, there is little or repair when phage are UV irradiated in the absence of Cy. In its presence, a significant fraction of lesions are reparable. These findings are interpreted in the light of recent chemical studies of the nature of UV induced lesions. They are also compared to results obtained with BU $\\lambda$ , irradiated with near visible light, and with normal, UV irradiated λ (RADMAN et. al., 1969b, a). ",
+        "bbox": [
+            126,
+            656,
+            871,
+            805
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            825,
+            602,
+            841
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All materials and methods have been described in the two preceding papers (RADMAN et al., ${ \\bf l 9 6 9 a , }$ b). ",
+        "bbox": [
+            128,
+            844,
+            869,
+            872
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            463,
+            105,
+            532,
+            123
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 1 are presented the inactivation curves obtained when UV-irradiated BU A are assayed on wild type (WT), rec $A ^ { - }$ and uvr $C ^ { - }$ bacteria, in the absence of Cy (open symbols). In agreement with the findings of SAUERBIER (1961), there is little difference between the curves, indicating that few of the lesions can be repaired. Inactivation in the presence of Cy is shown by closed symbols. All curves are much less steep. The slope obtained with uvr $C ^ {  }$ bacteria is almost twice a steep as that obtained with WT. Rec $A ^ { - }$ is close to WT. ",
+        "bbox": [
+            123,
+            127,
+            871,
+            177
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1cd312491bafa66335d2f48ceb77a72491d3455cbd8433dc95d0b5f57b05f60f.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            519,
+            188,
+            833,
+            417
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa8494351d88c878fea65e9c3b78863b89f9dfd3ac5514e36669867e91e81f37.jpg",
+        "image_caption": [
+            "Fig. 1. Survival of BU-substituted $\\lambda ,$ irradiated with UV light in the presence (closed symbols) and absence (open symbols) of cysteamine, and assayed on WT $( \\bigcirc )$ , rec $A ^ { - } \\left( \\triangle \\right)$ , and uvr $C ^ { - } \\left( \\sqsubseteq \\right)$ bacteria ",
+            "Fig. 2. Lethal hits as a function of UV dose. The symbols are the same as in Fig. 1. The reference for the calculation of lethal hits is the curve obtained for $\\lambda$ irradiated in the absence of cysteamine and assayed on uvr $\\mathit { C ^ { - } }$ bacteria ",
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            130,
+            193,
+            452,
+            569
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            126,
+            603,
+            873,
+            670
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2, these results are replotted as lethal hits per phage versus dose. This data is presented in Table 1 and 2 in a form which permits distinction between the effects of Cy and of the bacterial repair systems. In Table l, it can be seen that, no matter on which bacterium the phage are assayed, between four and five lethal hits (between half and two thirds of the total) are eliminated when phage are irradiated in the presence of Cy. ",
+        "bbox": [
+            128,
+            672,
+            873,
+            775
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b52f9ef2e99618cf28e949e47305d0636958c86aef898b3b7b739dfb2b4268e0.jpg",
+        "table_caption": [
+            "Table l. Elimination of lethal hits by cysteamine "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            235,
+            809,
+            764,
+            929
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c0bd5183c11beda76809e899c729ac627caf149340f9efd5eadbaef38ddf5b0d.jpg",
+        "table_caption": [
+            "Table 2. Elimination of lethal hits by bacterial repair systems "
+        ],
+        "table_footnote": [
+            "Column 3 is the difference between columns 2 and 1. Column 5 is the difference between columns 4 and 1. "
+        ],
+        "bbox": [
+            121,
+            120,
+            871,
+            297
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Table 2 it is seen that, in the absence of Cy, 1.3 and 0.3 lethal hits are eliminated by the uvr $\\boldsymbol { C }$ and rec $\\pmb { A }$ repair systems, respectively. These figures change to 2.2 and 0.6 respectively in the presence of Cy. This suggests that, although when Cy is absent during irradiation there are few reparable hits, if present, the number is increased. That is, some lesions appear to be changed to a type which are reparable. ",
+        "bbox": [
+            126,
+            357,
+            871,
+            460
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As discussed previously, the intermediate results obtained with rec $A ^ { - }$ bacteria are, at least in part, due to the activity of the A red gene (EcHoLs and GINGERY, 1968; SIGNER and WEISs, 1968; RADMAN et al., in preparation) which supplements the deficient rec-. ",
+        "bbox": [
+            126,
+            463,
+            871,
+            530
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion and Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            376,
+            537,
+            623,
+            555
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results demonstrate that the fraction of reparable lesions which occur when BU-X are irradiated with UV, either in the presence or absence of Cy, is small, although it is larger in the former case. Reparable lesions are probably pyrimidine dimers (review, HowARD-FLANDERs, 1968), whose number might be increased by the presence of Cy. Such an increase could be due either to an increase in the absolute number of such lesions, as opposed to nonreparable lesions, or to the elimination of irreparable sugar damages which may otherwise accompany dimers (HoTz and ReuscHL, 1967). If sugar damages are present, the dimer could in principle be excised, but the lesions could nevertheless not be \"healed\" because they lead to breaks which are not a substrate for ligase (WeIss and RicHARDson, 1967). ",
+        "bbox": [
+            126,
+            562,
+            873,
+            731
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cy changes the nature of half to two thirds of the lesions, rendering them non lethal or non-existent. It is known that, in the case of UV irradiation of BU-DNA \"sugar breaks\" (HoTz and REusCHL, 1967), strand breaks (LIoN, 1966) and even chromosome breaks (TRosKo and BREwEN, 1967) are suppressed by Cy. \"Sugar breaks\", which are a consequence of debromination and accompanying free radical formation (HuTcHinson, 1967), may lead to uncontrolled degradation of the DNA (AoKI et al., 1966; BoYcE, 1966). Sugar breaks, in the absence of Cy, are accompanied by transformation of the BU moiety into uracil (WAcKER, 1961). Presumably, uracil formation, which also occurs in the presence of Cy, is a nonlethal lesion when it is not accompanied by a sugar break. ",
+        "bbox": [
+            128,
+            735,
+            873,
+            902
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A comparison with the previous paper shows that the results of UV and near visible (NV) irradiation of BU λ are similar. In both cases, the major photochemical reaction is debromination, leading, in the absence of Cy, to sugar damages which give rise to strand breaks other than sugar-phosphate breaks. However, in the case of NV irradiation, in the presence or absence of Cy, there are many more reparable lesions, the nature of which cannot as yet be surmised. ",
+        "bbox": [
+            126,
+            104,
+            873,
+            206
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A comparison of UV irradiation of BU and normal λ indicates that the increased sensitivity of the former is due to the nature and quantity of released free radicals. Radical damages, which are protected by Cy, are reparable in the case of thymine-containing λ, but are not reparable in the case of BU-containing λ. In the latter case, they are also more numerous. In thymine DNA, the damages are probably (reparable) pyrimidine dimers, whereas in BU-DNA, they include (nonreparable) sugar breaks. This may well be the major cause of the sensitization to radiation which results from substitution of thymine by BU. ",
+        "bbox": [
+            126,
+            213,
+            871,
+            347
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These studies were carried out under the contract Euratom-ULB 007-61-10 ABIB and supported by the National Institutes of Health U.S.A. (Research Grant-6214), by the U.S. National Science Foundation Grants GB-7513 and GB-4359 and by the \"Fonds de la Recherche Fondamentale Collective\". ",
+        "bbox": [
+            126,
+            367,
+            871,
+            422
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            448,
+            447,
+            547,
+            463
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "AoKI, S., R. P. BoYCE, and P. HowARD-FLAnDERs: Sensitization of Escherichia coli to radiation by bromouracil: excessive post-irradiation breakdown of deoxyribonucleic acid without concomitant synthesis. Nature (Lond.) 209, 686 (1966).   \nBoycE, R. P.: Production of additional sites of deoxyribonucleic acid breakdown in bromouracil containing Escherichia coli exposed to ultraviolet light. Nature (Lond.) 209, 688 (1966).   \nEcHOLs, H., and R. GingERy: Mutants of bacteriophage λ defective in vegetative genetic recombination. J. molec. Biol. 34, 239 (1968).   \nHotz, G. : Suppression by cysteamine of radiosensitization in 5-bromodeoxyuridine substituted phage T 1. Biochem. biophys. Res. Commun. 11, 393 (1963).   \n—, and H. REuscHL: Damage to deoxyribose molecule and to U-gene reactivation in UV. irradiated 5-bromouracil DNA of phage T 4 Bor as influenced by cysteamine. Molec. Gen. Genetics 99, 5 (1967).   \nHowARD-FLANDERs, P.: DNA repair. Ann. Rev. Biochem. 37, 175 (1968).   \n— R. P.BoycE, and L. THERIoT: Mechanism of sensitization to ultra-violet light of T 1 bacteriophage by incorporation of 5-bromodeoxyuridine or by pre-irradiation of the host cell. Nature (Lond.) 195, 51 (1962).   \nHuTcHiNson, F.: Private communication, 1967.   \nKoEHNLEIN, W., and F. HuTcHINsoN: ESR studies of normal and bromouracil substituted transforming DNA of Bacillus subtilis after irradiation with ultraviolet light. 3rd Int. Congr. Radiat. Res., Cortina d'Ampezzo 1966.   \nRADMAN, M., A. RoLLER, and M. ERRERA: Protection and host cell repair of irradiated lambda phage I. Irradiation of normal phage with ultraviolet light. Molec. Gen. Genetics 104 (1969). - — Protection and host cell repair of irradiated lambda phage II. Irradiation of 5-bromouracil-substituted phage with near visible light. Molec. Gen. Genetics 104 (1969).   \nSAUERBIER, W.: The influence of 5-bromodeoxyuridine substitution on UV-sensitivity, hostcell reactivation and photoreactivation in T 1 and $\\mathrm { ~ P ~ 2 2 ~ H ~ 5 ~ }$ . Virology 15, 465 (1961).   \nSIGNER, E. R., and J. WEIL: Recombination in bacteriophage λ. I. Mutants deficient in general recombination. J. Molec. Biol. 34, 261 (1968). ",
+        "bbox": [
+            121,
+            470,
+            873,
+            909
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "STAHL, F. W., J. M. CRAsEMAN, L. OKUN, E. FOx, and C. LAIRD: Radiation sensitivity of bacteriophage containing 5-bromodeoxyuridine. Virology 13, 98 (1961). WAcKER, A.: Strahlenchemische Veränderungen von Pyrimidinen in vivo und in vitro. J. Chim. Phys. 58, 1041 (1961) WEIss, B., and C. C. RIcHARDson: Enzymatic breakage and joining of deoxyribonucleic acid. I. Repair of single-stranded breaks in DNA by an enzyme system from Escherichia coli infected with T 4 bacteriophage. Proc. nat. Acad. Sci. (Wash.) 51, 1021 (1967). ",
+        "bbox": [
+            126,
+            100,
+            871,
+            206
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Communicated by P. SLoNIMSKI ",
+        "bbox": [
+            346,
+            224,
+            643,
+            240
+        ],
+        "page_idx": 4
+    }
+]

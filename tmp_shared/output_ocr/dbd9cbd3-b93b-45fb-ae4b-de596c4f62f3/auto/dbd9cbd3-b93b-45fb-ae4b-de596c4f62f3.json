@@ -1,0 +1,2665 @@
+[
+    {
+        "type": "text",
+        "text": "Workshop on processing of DNA damage ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            238,
+            757,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alan R. Lehmann \\*, Bryn A. Bridges, Philip C. Hanawalt, Robert T. Johnson, Roland Kanaar, Hans E. Krokan, Soterios Kyrtopoulos, Bo Lambert, David W. Melton, Ethel Moustacchi, A.T. Natarajan, Miroslav Radman, Alain Sarasin, Erling Seeberg, Michael J. Smerdon, C. Allen Smith, Paul J. Smith, John Thacker, Jürgen Thomale, Ray Waters, Geert Weeda, Steven C. West, Albert A. van Zeeland, Malgorzata Z. Zdzienicka ",
+        "bbox": [
+            106,
+            279,
+            887,
+            399
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 16 July 1996; accepted 6 August 1996 ",
+        "bbox": [
+            356,
+            408,
+            636,
+            421
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": ": ecc  Hu Xeroderma pigmentosum ",
+        "bbox": [
+            83,
+            455,
+            909,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introductory remarks ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            558,
+            276,
+            574
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A workshop on Processing of DNA damage: Molecular Mechanisms and Biological Effects was held under the auspices of the EU Concerted Action on DNA Repair and Cancer, at Noordwijkerhout (The Netherlands) 20-25 April, 1996. The local organisation of the meeting was done under the auspices of the Medical Genetic Centre South-West Netherlands (MGC). The organisers were D. Bootsma, W. Ferro (meeting secretary), J.H.J. Hoeijmakers, A.R. Lehmann, P.H.M. Lohman, L. Mullenders, and A.A. van Zeeland. Over 250 scientists participated, and the format of the meeting followed that of the 1987 and 1991 workshops [Friedberg, ",
+        "bbox": [
+            84,
+            588,
+            475,
+            794
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E.C., C. Backendorf, J. Burke, A. Collins, L. Grossman, J.H.J. Hoeijmakers, A.R. Lehmann, E. Seeberg, G.P. van der Schans and A.A. van Zeeland (1987) Molecular aspects of DNA repair, Mutation Res., 184, 67-86., Lehmann, A.R., J.H.J. Hoeijmakers, A.A. van Zeeland, C.M.P. Backendorf, B.A. Bridges, A. Collins, R.P.D. Fuchs, G.P. Margison, R. Montesano, E. Moustacchi, A.T. Natarajan, M. Radman, A. Sarasin, E. Seeberg, C.A. Smith, M. Stefanini, L.H. Thompson, G.P. van der Schans, C.A. Weber and M.Z. Zdzienicka (1992) Workshop on DNA repair, Mutation Res., 273, 128.]. Plenary review talks in the mornings were followed, in the afternoons, by poster viewing in three parallel sessions. Groups of 1525 posters were discussed in detail, and later on, in plenary sessions, chairpersons of the poster discussions reviewed the afternoons' posters. There has been enormous progress recently in many aspects of DNA repair, and many exciting new results were presented. It is impossible to summarise all contributions to this meeting, so, for the sake of coherence, presentations that did not fit easily into any of the general themes of the meeting have not been included. ARL takes responsibility, with apologies, for any errors in this report. ",
+        "bbox": [
+            517,
+            558,
+            907,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            126,
+            475,
+            205
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Nucleotide excision repair ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            239,
+            309,
+            253
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A general theme that pervaded the workshop discussions is the remarkable overlap between enzymes required for excision repair and those needed in a number of other cellular transactions, most notably transcription, but also DNA replication, mitotic recombination and cell-cycle control. The dual roles of certain enzymes may be important to the regulation of the respective DNA transactions, but also in environmental stress situations the sharing of essential factors may result in competition for those in limiting supply. The most striking example of this dual functionality is the recently discovered implication of the multi-subunit transcription factor TFIIH in nucleotide excision repair (NER), as well as in RNA polymerase II transcription initiation. This has led to the notion, discussed in detail in Section 4.2 that the clinical features of some human hereditary diseases such as Cockayne Syndrome (CS) and trichothiodystrophy (TTD) may be understood as a malfunction of TFIIH in transcription rather than as a defect in its role in DNA repair. ",
+        "bbox": [
+            84,
+            272,
+            473,
+            607
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. NER in human cell extracts ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            625,
+            323,
+            638
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "NER has now been reconstituted in cell-free extracts and from assembled purified components. In human cells the complete mechanism involves over 25 polypeptides; this includes the basal transcription initiation factor TFIIH. Incision of UV-damaged or cis-platin-damaged DNA has been reconstituted with the purified proteins RPA, XPA, TFIIH (which includes XPB and XPD), XPC, XPG, ERCC1/XPF complex, and IF7 (Wood, ICRF, South Mimms). Wood also found that a type 2A protein phosphatase was required to optimize the repair reaction on UVdamaged DNA in vitro. It is likely that additional factors may participate in an auxiliary manner through their modulation of core component activities. The dual incisions in the damaged strand are introduced 3 to 9 phosphodiester bonds to the $3 ^ { \\prime }$ side of the lesion by the XPG nuclease and 16 to 25 phosphodiester bonds to the $5 ^ { \\prime }$ side of the lesion by the structure-specific ERCC1/XPF nuclease. It is now established that XPF, ERCC4, and ERCC11 represent the identical protein with the implication that ERCC4 and ERCC11 complementation is intragenic (Sijbers, Rotterdam and ICRF); This protein is homologous to Rad1 of S. cerevisiae, Rad16 of S. pombe and Mei-9 of Drosophila (Sijbers; also Thompson, Livermore), and it is able to cleave double-stranded DNA at the $5 ^ { \\prime }$ side of a duplex singlestrand junction (de Laat et al., Rotterdam and ICRF). The complete repair replication reaction can be obtained if the incision factors are combined with RFC, PCNA, DNA polymerase epsilon (or delta) and DNA ligase I. ",
+        "bbox": [
+            84,
+            657,
+            475,
+            892
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            128,
+            907,
+            399
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Considerable debate focused upon the question of whether the factors required for NER are pre-assembled in undamaged cells and whether they function in large aggregates termed repairosomes, or whether subsets of these factors are assembled as needed sequentially through the four basic operations required. These operations include: (1) lesion recognition; (2) incision and excision of the damaged stretch of DNA; (3) repair replication; and (4) ligation. ",
+        "bbox": [
+            517,
+            400,
+            905,
+            542
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Protein—protein interactions ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            560,
+            759,
+            575
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using the cloned genes for TFIIH subunits (including XPB, XPD, p62, p44, and p34) as well as the cloned XPG, CSA and CSB genes, Friedberg and associates (Dallas) analyzed protein-protein interactions using co-immunoprecipitation of in vitro translated polypeptides and/or the yeast two-hybrid system. XPB, XPD, p44, and p62 proteins were found to interact with each other. XPG protein interacted with several subunits of TFIIH and also with CSB protein. CSA protein interacted with CSB and with p44. A yeast homologue of the CSA gene was cloned and designated RAD28. Rad28 mutants are viable and normally resistant to UV. Although Rad28 did not interact with Rad26, the yeast homologue of CSB, in the two-hybrid system, Rad28 did interact with human CSB protein and Rad26 interacted with CSA. Hanaoka and coworkers (Osaka) also obtained evidence for complex formation between XPG and TFIIH, using association of the purified proteins and also through their co-purification through several steps. In contrast, using functional, epitope tagged TFIIH Hoeijmakers (Rotterdam), in collaboration with Egly (Strasbourg), did not find stable associations of TFIIH with XPG or CSB in repair-competent extracts assayed under physiological conditions. CSA and CSB were found in separate large protein complexes of different sizes, and a further complex contained XPC and the bound fraction of hHR23B (see below), while ERCC1/XPF was largely free. These results are consistent with a model in which the repairosome may assemble at the site of a lesion, rather than operating as a preformed complex. The studies that implicate protein-protein interactions may be revealing the 'docking sites' for the eventual protein contacts during the coordinated sequence of steps in NER. ",
+        "bbox": [
+            517,
+            592,
+            907,
+            892
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            128,
+            475,
+            399
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "XP-C is of particular interest because it is one of the most common of the XP complementation groups, but also because it appears to control NER of global genome repair, with no involvement in the specialized transcription-coupled repair pathway (see Section 2). Hanaoka and coworkers have shown that the XPC gene product is tightly associated with one of the two human homologues of Rad23, namely hHR23B. In a reconstituted cell-free NER system recombinant XPC protein corrected an XPC defect only weakly but this activity was stimulated upon addition of recombinant hHR23B, suggesting a role for this protein in the global repair pathway. ",
+        "bbox": [
+            86,
+            400,
+            475,
+            608
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3. Mechanisms of lesion recognition ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            636,
+            368,
+            650
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Studies on the UvrABC system from E. coli continue to provide important mechanistic information. New results were presented on the mechanisms of DNA damage recognition and incision catalyzed by the UvrABC endonuclease from E. coli. Delagoutte et al. (Strasbourg) elaborated on factors determining the efficiency of incision of acetylaminofluorene (AAF) adducts residing at different G sequence positions within the NarI site (GGCGCC). They concluded that the UvrB-DNA complexes yielding efficient incision are much less stable than those formed with poorly inciseable DNA (i.e., AAF residing at the second G of the GGCGCC sequence). Footprints of the less stable UvrB-DNA complexes can only be visualized transiently at low temperature, whereas the $\\mathrm { U v } \\mathbf { \\Lambda } \\mathbf { A } _ { 2 } \\mathbf { B }$ recognition complex is similarly formed with all DNA substrates. These results are consistent with a model in which dynamic flexibility of the UvrB-DNA complex as determined by the sequence context and type of lesion is essential for incision/excision efficiency. Van Houten et al. (Galveston) have studied in great detail the interactions of the UvrABC enzyme with all isoforms of modified $\\aleph ^ { 2 }$ -guanine benzo(a)pyrene-diolepoxide (BPDE) adducts. For all substrates they found similar recognition efficiencies; however, incisions were more efficient at cisisomers and the $( + ) .$ -enantiomers of both the cisand the trans-isomers. Fluorescence spectroscopic analysis of the interaction of UvrA with BPDE-DNA suggested that hydrophobic interactions as well as phosphate charge interactions are important for damage recognition. Again, there was no correlation between recognition by UvrA and the incision efficiency by the UvrABC enzyme complex. ",
+        "bbox": [
+            84,
+            674,
+            475,
+            895
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            128,
+            907,
+            464
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein-protein interactions between UvrB and UvrC proteins were studied by Moolenaar et al. (Leiden). Deletion of the C-terminal end of UvrB prevents its interaction with UvrC; however, this interaction is not essential for the $5 ^ { \\prime }$ incision made by UvrC, nor is the UvrB C-terminal end essential for the $3 ^ { \\prime }$ incision. They suggested that the short region of homology between UvrB and UvrC may constitute the sites involved in the protein-protein interactions. Results of mutagenesis studies led to doubts being raised about the previous conclusion that the $5 ^ { \\prime }$ incision is made by UvrC and the $3 ^ { \\prime }$ incision by UvrB, and they suggest instead that both incisions are made by UvrC or by a complex of UvrB and UvrC. ",
+        "bbox": [
+            518,
+            465,
+            907,
+            705
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Further elaboration on the efficiency of NER for different types of substrates was made by Naegeli et al. (Zurich). These investigators have developed a competition assay in which repair synthesis catalyzed by human cell free extracts on DNA containing a single AAF adduct is measured after addition of different types of competing damaged plasmid DNA. It appears that different lesions are recognized with efficiencies differing by at least two orders of magnitude: AAF being a good substrate and 8- methoxypsoralen being a very poor determinant for damage recognition. Model studies of this type are likely to be important for evaluating the role of NER in vivo for handling different types of DNA damage. ",
+        "bbox": [
+            517,
+            707,
+            907,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            86,
+            126,
+            475,
+            157
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Jones et al. (Swansea) presented data to suggest that, in S. cerevisiae, Rad14 is directly involved in damage recognition in yeast and that the zinc finger domain of Rad14 may determine specificity. A specific point mutation (rad14-2) in this domain prevents repair of pyrimidinc dimers, but not of pyrimidine hydrates (monitored as endonuclease-III-sensitive sites). A deletion mutant of RAD14 is, however, defective in repair not only of CPDs as expected, but also unexpectedly of pyrimidine hydrates, as are other mutants defective in NER. Other studies monitoring removal of thymine glycols with an antibody suggest, however, that base excision repair is important for repair of pyrimidine hydrates. This apparent discrepancy might be explained by endonuclease III monitoring a larger variety of DNA lesions than just pyrimidine hydrates. ",
+        "bbox": [
+            86,
+            158,
+            475,
+            431
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Lombaerts et al. (Leiden) reported on the identification of a yeast gene with sequence similarity to XPE from mammalian cells. Interestingly, targeted disruption of this gene in yeast yielded a nonviable mutant as has been observed previously for RAD3. Further characterization is required to establish whether the yeast XPE homologue is yet another component of the NER machinery in yeast that also has an essential function. ",
+        "bbox": [
+            86,
+            432,
+            477,
+            575
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The work of Yasui et al. (Sendai and Rotterdam) has provided evidence for the existence of a photolyase gene in human cells. The gene product shows homology to class I photolyases, which comprise most microbial photolyases. It is also similar to the plant blue light receptors. It remains to be analyzed by expression analysis whether the gene indeed expresses a protein with a photolyase function. ",
+        "bbox": [
+            86,
+            578,
+            477,
+            705
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pedrini et al. (Pavia) reported on the UV-induced interference of topoisomerase action. Topoisomerase I is apparently trapped within a DNA strand by UV-irradiation due to constraints in resolution of the DNA strands following swivelling. Such trapped intermediates may account for at least some of the protein-DNA cross-links formed by UV-irradiation. ",
+        "bbox": [
+            88,
+            706,
+            477,
+            816
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA damage recognition is a crucial and complex element in all excision repair processes. Although in vitro studies may be interpreted such that recognition can occur by a specific type of repair system, the abundance and availability of different repair enzyme systems in vivo may be the determining consideration for how different types of damage are handled by different pathways in the cell. ",
+        "bbox": [
+            88,
+            817,
+            477,
+            894
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            128,
+            907,
+            174
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.4. NER in the yeasts, S. cerevisiae and S. pombe ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            202,
+            896,
+            216
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The S. cerevisiae RAD16 gene is required for the repair by NER of cyclobutane pyrimidine dimers (CPD) in nontranscribed DNA. It is not yet clear whether the Rad16 protein is involved in lesion recognition or rather in permitting the NER complex access to CPD in such regions. The S. pombe homologue has been cloned (Bang et al., Leiden) and, as in S. cerevisiae, this gene is inducible. However, unlike in S. cerevisiae, its disruption does not confer UV sensitivity but it does confer cis-platinum sensitivity. This may be because of compensation by an alternative UV excision repair pathway in S. pombe (see below), although it should be borne in mind that disruption of genes essential for all NER generally confer considerable UV sensitivity in S. pombe. Why the alternative pathway should compensate much more for the repair of CPD in nontranscribed DNA is not known at present. No human homologue of this gene has yet been identified and the search continues (Bang et al.). A second role for RAD16 has been identified: enhanced NER of CPD is seen if cells receive a small UV dose before a second higher dose (compared to that seen after the second dose alone). This effect is absent in rad16 mutants. With respect to the expression of RAD16 in the mitotic cell cycle, the RAD16 mRNA is not degraded in Gl as in the other phases. Scott et al. (Swansea) examined the enhanced repair of CPD through the mitotic cell cycle. In synchronized populations it was restricted to G1- and possibly early S-phase, thus correlating with the enhanced stability of RAD16 mRNA. When cells were arrested at precise points in late Gl using cdc4 and cdc28 mutants, there was surprisingly no excision of CPD. Either the products of the CDC4 and CDC28 genes have a direct role in NER, or NER is prevented from operating in the late G1 state at which these cells arrest. ",
+        "bbox": [
+            518,
+            231,
+            909,
+            832
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The roles of many S. cerevisiae NER products have been elucidated. Rad1 and Rad10 proteins (homologues of human XPF and ERCC1) are subunits of an endonuclease cleaving at the ${ \\pmb 5 } ^ { \\prime }$ side of DNA lesions. Monoclonal antibodies were used to identify two regions of Rad1 essential for cleavage and these inhibit NER in vitro (Tomkinson et al., San Antonio and Dallas). The Rad1 /Rad10 complex has no affinity for DNA damage and the recognition of damage is mediated by Radl4. However, in cells over-producing Rad14, affinity purification indicated that Rad14 co-purifies with Rad1 and Rad10 in the absence of DNA damage. This suggests that for NER, these three products may be pre-associated and either form part of a repairosome or part of a complex that contributes to the assembly of a repairosome at the site of damage. Whether Rad2, which incises at the $3 ^ { \\prime }$ side of the lesion is also part of such a complex remains to be elucidated. ",
+        "bbox": [
+            520,
+            832,
+            909,
+            892
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            128,
+            473,
+            366
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "S. pombe also possesses an NER pathway and its Swi10 product, the homologue of Rad10 in S. cerevisiae and human ERCC1, is involved in both mating type switching and NER. Rodel and Schmidt (Braunschweig) analyzed the gene by site directed mutagenesis. The DNA binding motif has been identified and deletion of this motif abolishes both switching and NER. Both ERCCl and an N-terminal fragment of swil0 were able to complement the switching defect but not the UV sensitivity of the swil0 deletion strain. Apart from full-length swil0, only a chimaeric ERCCl (N-terminal)-swil0 (Cterminal) construct was able to complement the UV sensitivity. ",
+        "bbox": [
+            84,
+            369,
+            475,
+            591
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Unlike S. cerevisiae, S. pombe has an additional alternative excision pathway for the repair of both CPD and 6-4 photoproducts which is distinct from NER (Yasui et al., Sendai; McCready et al., Oxford; Murray et al., Sussex). The alternative pathway entails the action of UVDE, an endonuclease which incises ${ \\boldsymbol { 5 } } ^ { \\prime }$ to these lesions and a short oligonucleotide is removed by Rad2 which is a ${ 5 ^ { \\prime } } – 3 ^ { \\prime }$ exonuclease or a flap endonuclease. Mutants in the two pathways exhibit distinct phenotypes: those for NER are more UV-sensitive than are those for the alternative pathway, despite more excision of CPD and 6-4 photoproducts occurring in the former. The genetic analysis of mutants for the alternative pathway has led to the generalizing proposal that UVDE-incised lesions may be processed by a number of routes: excision, recombination, error-prone repair and a possible pathway leading to cell death. The Rad12 protein has a role in a number of pathways: it possibly regulates ",
+        "bbox": [
+            84,
+            592,
+            473,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "UVDE activity, but rad12 does not encode UVDE, contrary to a previous suggestion in the literature. ",
+        "bbox": [
+            515,
+            126,
+            905,
+            158
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "From these fungal systems it is evident that relationships exist between NER and a number of other cellular processes, such as recombination and cellcycle arrest. Clearly, the powerful genetic approaches available for these organisms will assist in unravelling the nature of these relationships. ",
+        "bbox": [
+            517,
+            160,
+            905,
+            253
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.5. Other proteins ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            272,
+            658,
+            287
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Studies of NER in rodent cell lines belonging to several complementation groups sensitive to ionizing radiation and deficient in double-strand break repair have suggested that the Ku/DNA-dependent protein kinase may be involved in NER, but it is not yet clear which step(s) is affected (Salles et al., Toulouse). ",
+        "bbox": [
+            517,
+            304,
+            907,
+            415
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ackerman and his associates (Bethesda and Galveston) have characterized a highly efficient NER system in nuclear extracts of Xenopus as well as in the injected oocytes. Both the high efficiency and the DNA polymerase requirements appeared to be different from those implicated in mammalian cell extracts. Using polymerase-specific antibodies they showed that both DNA polymerases $\\alpha$ and $\\beta$ were required for repair of UV-induced photoproducts or AAF adducts. ",
+        "bbox": [
+            517,
+            417,
+            905,
+            575
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We now probably know essentially all of the gene products required to carry out the process of NER. What we still do not know for sure is the sequence in which these proteins and complexes (such as TFIIH) operate. There is good evidence that XPG cuts the damaged strand first on the $3 ^ { \\prime }$ side of the lesion, followed by XPF/ERCCl cutting on the $5 ^ { \\prime }$ side. However, it is not yet established whether TFIIH (containing helicases XPB and XPD) really is involved in opening up the damaged duplex DNA prior to cutting or whether it operates in the removal of the damaged segment following incision. (In $E .$ coli, by possible analogy, the UvrD helicase appears to operate at this later step.) We also do not know unambiguously which protein associations are preformed and which occur through the course of the NER sequence. The next major advances in the NER field should answer these questions as well as those relating to the localization of NER reactions in the intact cell. ",
+        "bbox": [
+            517,
+            578,
+            905,
+            895
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ". Gene-specific repair ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            126,
+            264,
+            141
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.1. CS and XP-C (see also Section 4) ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            158,
+            372,
+            173
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The most prominent example of intragenomic heterogeneity of repair, now usually termed transcription coupled repair (TCR) is the increased rate or extent of removal of certain lesions from the transcribed strands of active genes, observed in bacteria, yeast and mammalian cells. The apparent lack of this process in CS-A and CS-B cells, and its persistence in XP-C cells, led to the notion that TCR and so-called 'global' repair are distinct processes. The stalling of transcription at a lesion would recruit the actual excision/resynthesis machinery to the lesion via CS proteins, while another system, deficient in XP-C, would facilitate detection in the rest of the genome by overcoming barriers posed by packing of DNA into chromatin. However, the recent demonstration of the involvement of TFIIH in both transcription and the actual excision steps in NER, the association of CS with mutations in genes clearly involved directly in both TFIIH and excision nuclease functions, and the finding that elements of the mismatch repair system have roles in TCR argue strongly against such a simple view. Although attempts to elucidate the mechanism of TCR by studies in vitro are now beginning, most of the presentations concerned studies of removal of a variety of different lesions in diverse cell types and characterized mutants, many of which were in yeast systems. ",
+        "bbox": [
+            86,
+            191,
+            477,
+            623
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Spivak et al. (Stanford and ICRF) described attempts to develop a repair system using cell extracts that would exhibit TCR. Comparisons of repair in fragments containing either expressed or silent lacZ genes, present simultaneously on different plasmids under conditions allowing transcription, did not demonstrate any preference for the lesions in the template of the active gene. They ascribe this to inefficient transcription combined with efficient repair, and are now attempting to isolate those plasmids supporting transcription prior to analysis of repair. ",
+        "bbox": [
+            86,
+            625,
+            477,
+            816
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The underlying basis for the complex nature of the defect in CS cells was an important theme at the meeting and is discussed in detail in Section 4. One model proposes that the clinical symptoms of CS result from a deficiency in the rapid and efficient ",
+        "bbox": [
+            88,
+            817,
+            477,
+            894
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "TCR of endogenous, probably oxidative damage in some critical genes during development. Some time ago, such a form of TCR after ionizing radiation was shown to be present in repair-proficient cells and NER-deficient XP-A cells but absent in CS-A and CS-B cells, which are deficient in TCR of CPD. This model must somehow account for an impact on this process by those mutations in XPB, XPD and XPG genes that result in CS. An involvement of XPG in this process was the subject of work by Cooper et al. (Berkeley, Geneva and Chapel Hill), who examined metallothionein genes for repair of ionizing radiation damage, and for removal of $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ induced thymine glycols. XP-G cells from patients showing severe XP symptoms but not CS involvement exhibited TCR but it was significantly delayed compared to the response in normal or XP-F cells, and overall repair was less efficient. In XP-G cells from patients with CS symptoms, the TCR was absent, and the overall repair was even more deficient. All the XP-G cells and the XP-F cells are severely deficient in NER, so these results suggest that an XP-G activity separate from its role in the incision step in NER is required for TCR of oxidative damage and lack of this process contributes significantly to the symptoms of CS. The linkage between this repair deficiency and the actual symptoms of CS is at present as mysterious as the proposed transcription defect discussed in Section 4. ",
+        "bbox": [
+            518,
+            125,
+            909,
+            589
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A detailed comparative analysis of the response of normal, XP-C. CS-A and CS-B cells to UV photoproducts (CPDs and 6-4 photoproducts), dG-C8-AF and dG-C8-AAF was presented by Mullenders (Leiden) and suggested a new model for the nature of the demonstrated defect in TCR mediated by NER in the CS-A and CS-B cells. In XP-C cells TCR is the only mechanism able to operate on all these lesions; however, in repair-proficient cells, neither the 6-4 photoproducts nor the aminofluorene lesions exhibited TCR, defined by the usual diagnostic, namely more rapid repair of the template DNA strand than its complementary strand. A likely explanation is that the efficiency of the global repair system is so high for these adducts that TCR is masked. CS cells are hypersensitive to killing by N-acetoxy-AAF but have no deficiency in the repair of AF adducts in active or inactive genes. Nevertheless RNA synthesis, inhibited by such treatments, fails to recover, a response resembling that observed after UV-irradiation. This suggests that the sensitivity of CS cells to such lesions may be the result of a direct defect in recovery of RNA synthesis rather than an inability to target lesions in genes for efficient repair. A model that might account for these observations is that DNA damage stimulates the commitment of TFIIH complexes to repair activity, and the CS factors are involved in restoring TFIIH to its role in transcription initiation following repair. The lack of TCR of CPD in CS cells would be an indirect result of the sudden down-regulation of the genes examined. ",
+        "bbox": [
+            520,
+            592,
+            909,
+            892
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            88,
+            129,
+            477,
+            335
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.2. Yeast systems ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            353,
+            222,
+            366
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "TCR and its relation to global genomic repair in yeast was discussed by Brouwer (Leiden). In the following, it should be kept in mind that 'repair' refers only to removal of CPD while survival was (necessarily) measured after introduction of all photoproducts induced by UV. The homolog of CSB, Rad26, is necessary for efficient TCR in yeast, but there is a some residual TCR of both the RPB2 and GAL7 genes (dependent upon ongoing transcription), and rad26 mutants are not UV sensitive. Like XPC in humans, RAD16 and RAD7 are both required for repair of inactive DNA; neither gene is however the homologue of XPC. Single rad16 or rad7 mutants are UV sensitive, to the same degree as the double mutants; however, when either single or the double mutant is combined with rad26, UV sensitivity is increased dramatically, but still not to the level of a rad2 mutant, completely deficient in incision. This suggests that the global repair system can repair UV damage efficiently enough to prevent hypersensitivity to UV, and that unrepaired damage both within and outside transcription templates contribute significantly to cell killing. Presumably some lesions can be repaired by RAD2-dependent NER in the absence of these three factors; if they all function to give repair systems access to lesions, perhaps some subset of lesions are already accessible or can be made so by proteins with roles in other processes. TFIIS and Rad28 (the homolog of CSA) do not appear to be fulfilling this role, judged by studies with appropriate mutants. ",
+        "bbox": [
+            86,
+            382,
+            477,
+            878
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The recent demonstration of defective TCR in bacterial and human tumour cells mutant in mismatch repair genes suggests they might be involved, but extensive studies with yeast mutants by Sweder et al. (Piscataway, Stanford, Leiden and Atlanta) failed to show any involvement of these proteins in TCR. This was true for msh2 mutants even when in combination with rad7, rad26, or both. For ribosomal DNA (Verhage et al., Leiden), transcribed by a different polymerase and existing in a form that appears to be non-nucleosomal when active, both strands were repaired efficiently, even in rad26 mutants, with the transcribed strand perhaps slightly faster. In rad7 and rad16 mutants the repair of the non-transcribed strand is reduced to $50 \\%$ roughly the fraction of inactive, nucleosomal ribosomal DNA sequences. In mutants in rad4, the homologue of XPC, the repair of the non-transcribed strand was abolished, leaving about $50 \\%$ repair of the transcribed strand. Rad4 mutants are almost completely deficient in overall repair, suggesting that a stalled RNA PolI on ribosomal DNA substitutes for the functions provided by rad26, rad4 and rad7 / 16 required in a location-specific manner at other CPDs. ",
+        "bbox": [
+            108,
+            880,
+            473,
+            894
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            130,
+            911,
+            497
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mueller and Smerdon (Pullman) showed that the repair deficiency of rad7 mutants characterized for the genome also occurs with a plasmid system; most of the repair occurred in transcribed sequences. Repair of the genome overall in rad23 mutants was shown to be about as deficient as in rad7 mutants. Rad23 protein forms a complex with Rad4 protein and one of the Rad23 homologues in mammalian cells forms a complex with XPC protein. However. the deficiency in rad23 mutants is not as severe as for rad4. Repair in the RPB2 gene both on a plasmid and in the genome in rad23 was only about $1 5 \\%$ .The homology between Rad16 and Snf2 provides support for the notion that requirement for Rad16 in repair of silent sequences relates to modulation of the binding of chromatin proteins to DNA (See Section 3.3). ",
+        "bbox": [
+            520,
+            498,
+            909,
+            768
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3. Repair at the nucleotide level ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            787,
+            772,
+            801
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Holmquist (Duarte) discussed excision repair at the level of the individual nucleotide in human cells. He reviewed the data showing that for the $P G K I$ and JUN genes, CPD are removed much faster from the sites on transcribed strands than from non-transcribed strands, but that this property does not always start at the same point along the DNA. It begins at roughly 140 bases downstream from transcription start in PGK1, while in JUN it starts 40 bases upstream. TCR is less apparent in JUN, possibly because the repair of the non-transcribed strand is more rapid. In promoters, repair rates can vary widely, as can induction rates, and strand specificity is not observed. Studies of the repair of methylpurines formed by dimethylsulphate confirmed the lack of strand bias observed several years ago for CHO cells at kilobase resolution. Adducts to adenine were repaired faster than those to guanine. Repair rates among the sites were variable, but no sequence context was apparent. When repair was carried out in vitro using purified glycosylase, rates of removal varied at different sites, but did not correlate with the rates found in cells. Tijsterman et al. (Leiden) studied repair kinetics at the nucleotide level in the RPB2 gene of yeast, and found results similar to those in human cells: relatively uniform rates of removal in the transcribed sequence, with faster repair in the transcribed strand, and highly variable repair in the promoter region. The repair in the gene itself in rad7, rad16 and rad26 mutants was consistent with studies of repair at low resolution, but in the promoter, complex variations in the mutants was observed, in a site-specific manner. Reed et al. (Swansea) studied repair at the nucleotide level in the 300 bp mfa2 gene of yeast, which is silent in mating type-a cells, and active in $\\alpha$ cells. The small size of this gene and some modifications of the end-labelling method used greatly facilitates the analysis. The expected behaviour of normal cells was observed: relatively uniform repair rates along the reading frame and faster repair in the transcribed strand only when transcription was active. ",
+        "bbox": [
+            518,
+            818,
+            907,
+            895
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            120,
+            473,
+            719
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "McGregor et al. and Wei et al. (East Lansing) carried out extensive studies of repair in the HPRT gene in human fibroblasts. Using ligase-mediated PCR. they compared the rate of removal of 1-nitrosopyrene (NOP) and BPDE adducts at specific guanine sites in exon 3 of HPRT. Overall, 1-NOP adducts were removed 2-3 times faster than BPDE adducts, but the fine structure of differences in rate between sites was not the same for the two lesions, suggesting that the rate at a particular site depends both on sequence context and the actual lesion being recognized and removed. They also compared repair for these two adducts and those (almost exclusively dG-C8-AF) formed by treatment with NA-AAF at the gene level of resolution, using UvrABC nuclease to cleave at sites of lesions. When cells were treated with doses resulting in $3 7 \\%$ cell survival (8 BPDE, 25 1-NOP, 50 AF adducts per million nucleotides) mutation frequencies were 160, 80 and 40 per million cells. Repair of 1-NOP adducts was about 2.5 times faster than repair of BPDE adducts, and both showed moderate strand specificity; however, repair of the dG-C8-AF adducts was even slower than that of BPDE, and showed no strand bias, similar to the result mentioned above. In vitro, BPDE adducts blocked transcription by the phage T7 RNA polymerase about 4 times better than the other two adducts. Thus the repair rates do not provide a simple explanation of the mutagenicity data. It should be kept in mind that cell killing may significantly reflect induction of some apoptotic process, which may not be directly related to lesion frequency or repair rates, and that minor adducts may contribute to mutagenicity. ",
+        "bbox": [
+            84,
+            720,
+            473,
+            892
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            129,
+            907,
+            494
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.4. New methodology ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            513,
+            681,
+            526
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Van Houten et al. (Galveston) presented successful development of a gene-specific repair assay in which PCR of up to $1 8 \\ \\mathrm { k b }$ was sufficiently quantitative for calculation of the frequency of lesions due to their blocking the polymerase. Repair in the HPRT gene of UV-irradiated human cells was much faster than repair in the inactive region encompassing the $\\beta$ -globin genes, and little or no repair was apparent in XP-A cells. Repair in a lymphoblastoid line appeared faster than in SV40 transformed fibroblasts and repair in the mismatch repair defective P2 line was slower than in a proficient cell. This assay measures the aggregate removal of all blocking lesions, which of course may be processed at different rates. Single-strand breaks and thymine glycols induced by hydrogen peroxide were also detectable; mitochondrial DNA suffered about threefold more damage with this agent than nuclear DNA, and mtDNA was poorly repaired. This assay requires very little material and should facilitate studies with tissue. As yet, it is not capable of examining individual strands. ",
+        "bbox": [
+            517,
+            544,
+            905,
+            891
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.5. Repair of different adducts in different genes ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            128,
+            453,
+            142
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Besides the detailed mechanism for TCR we also seek to know the adducts and repair systems for which repair heterogeneity occurs and the biological consequences of such. Many presentations reflected studies with new genes, cell systems and adducts and the results are summarised in Table 1. There were two reports of attempts to measure gene-specific repair in specially constructed MEL and ES cell lines being thwarted by massive apoptotic responses (Vreeswijk et al., Leiden: van Sloun et al., Leiden). ",
+        "bbox": [
+            86,
+            162,
+            477,
+            321
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3.6. Strand-specific repair and mutation ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            343,
+            385,
+            358
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Jansen et al. (Leiden) investigated the mutational spectrum induced by the ethylating agents $N .$ -ethyl$N .$ -nitrosourea (ENU) and ethyl methanesulfonate (EMS) in the HPRT gene of the excision repair deficient CHO cell line UV5 and in its parental cell line AA8. Mutation induction by ENU was 1.5 times higher in UV5 compared to AA8, while mutation induction by EMS was the same in both cell lines. The spectrum of ENU showed a fairly large fraction of AT to TA transversions in both cell lines while this type of mutations was absent in the EMS spectrum. Interestingly. in AA8 cells all AT to TA transversions were found at positions where the mutated $\\mathrm { T }$ was located in the non-transcribed strand of the HPRT gene. This contrasts with the situation in UV5 where $30 \\%$ of the mutated T's involved in AT to TA transversions were located in the transcribed strand. Since these types of mutations are most likely caused by mispairing of $\\mathrm { O } ^ { 2 }$ -ethylthymine with thymine, the data suggest that in AA8 cells ${ \\mathrm { O } } ^ { 2 }$ ethylthymine is specifically removed from the transcribed strand by NER. Both ethylating agents induce GC to AT transitions. Based on the division of mutated G's over the two strands, these data suggest that for EMS-induced mutations, most of the GC to AT transitions are caused by mispairing of $\\mathrm { O } ^ { 6 }$ -ethylguanine with thymine, but that in the spectrum of ENU induced mutations part of the GC to AT transitions are caused by mispairing of $\\mathrm { O } ^ { 2 }$ -ethylcytosine. A comparison of these mutations in UV5 and AA8 cells also suggests that $0 ^ { 2 }$ -ethylcytosine is preferentially removed from the transcribed strand of the HPRT gene by NER. ",
+        "bbox": [
+            84,
+            378,
+            475,
+            568
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            128,
+            907,
+            462
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1cd53200f98d89e3653cf9eae1643412f8cda585535ef132d216a1bf8a1a8224.jpg",
+        "table_caption": [
+            "Table I Various studies on gene-specific repair in different systems "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            81,
+            648,
+            904,
+            888
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. DNA repair and nuclear structures ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            503,
+            815,
+            518
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The transcriptional status of the DNA is only one aspect of chromatin structure that may modulate ",
+        "bbox": [
+            517,
+            539,
+            907,
+            570
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DNA repair. Several groups are investigating other aspects. ",
+        "bbox": [
+            84,
+            128,
+            473,
+            157
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.1. DNA damage / repair and the structural hierarchy of chromatin ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            191,
+            473,
+            222
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "At the nucleosome level, Schieferstein and Thoma (Zürich) examined UV-induced CPDs in a definedsequence nucleosome, reconstituted on a fragment of the yeast DED1 promoter containing a 40 bp stretch of five T-tracts. They found that CPDs are strongly modulated by nucleosome structure and the distribution differs from that found for mixed sequence nucleosomes. Although CPDs changed the rotational setting of DNA when nucleosomes were assembled onto pre-irradiated DNA, there was no effect of CPDs on the rotational setting of DNA irradiated after nucleosome formation. Nucleosome structure modulates repair of CPDs by photolyase. Sites in nuclease-sensitive DNA (e.g., nucleosome linkers and gene promoters) are removed within $1 5 ~ \\mathrm { \\ m i n }$ whereas sites in nucleosome cores take more than 2 h. ",
+        "bbox": [
+            84,
+            247,
+            473,
+            518
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.2. DNA repair at the nuclear matrix, or putative chromatin loop attachment sites in nuclei ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            554,
+            475,
+            584
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Balajee et al. (Baltimore) used an immunological approach to identify DNA repair, replication and transcription sites in single nuclei. Very early repair occurred primarily in the nuclear matrix fraction (as compared to the chromatin loop fraction) in close association with transcription sites in hamster cells. The matrix fraction was found to be enriched in various repair-associated proteins (e.g., PCNA), and rcduced in basal transcription in CS cells (lacking TCR). Koehler and Hanawalt (Stanford) find there is an increase in CPD-containing DNA in the matrix fraction during the first hour after UV-irradiation in normal Chinese hamster ovary cells but not in an ERCC1 deficient mutant. This suggests there is a 'recruitment' of transcribed and nontranscribed DNA containing CPDs, to the matrix immediately after irradiation. The structure of the nuclear matrix is still somewhat ill-defined, and more information needs to be obtained relating the biochemical fractionations to actual structures in vivo. ",
+        "bbox": [
+            86,
+            608,
+            475,
+            894
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            128,
+            905,
+            157
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A third form of structural hierarchy examined was the interstitial telomeric repeat sequences (ITRS) in Chinese hamster cells (Slijepcevic et al., Leiden). Four immortalized cell lines showed far more radiation-induced chromosome breaks in ITRS and telomerase activity than the non-transformed, primary hamster cells, suggesting a possible link between chromosome breaks in ITRS-containing regions of chromatin and telomerase activity. ",
+        "bbox": [
+            517,
+            160,
+            905,
+            302
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A fourth structural category in nuclei is simply defined as heterochromatin, or very condensed chromatin containing primarily highly repetitive DNA. Surrallés et al. (Leiden) used molecular cytogenetic techniques to investigate the level of DNA repair in the heterochromatin region of chromosome 1 in human, and found a very low level of spontaneous and EMS-induced breaks in this region, even though a high level of repair occurred in the genome overall. ",
+        "bbox": [
+            517,
+            305,
+            905,
+            447
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4.3. Modulation of chromatin structure during DNA repair ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            476,
+            905,
+            506
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Peterson (Worcester) discussed the modulation of nucleosome structure by the SWI/SNF family of DNA-dependent ATPases in yeast. Despitc thc presence of helicase domains in this family, no helicase activity has been detected in any of the family members studied. Sub-families of this class of complexes include Rad5, Rad16 and Rad54 of S. cerevisiae, Rad8 of S. pombe and CSB (ERCC6) in mammalian cells. Peterson proposed that these proteins were involved in chromosome remodelling during repair of different types of damage. ",
+        "bbox": [
+            517,
+            529,
+            905,
+            703
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Almouzni and coworkers (Paris and Cold Spring Harbor) examined chromatin assembly in Xenopus oocytes, and extracts of Xenopus eggs and human cells. Two chromatin assembly pathways are observed in injected oocytes, independent or dependent on DNA synthesis. Injection of UV-irradiated plasmids into oocytes yields specific DNA synthesis on these templates coupled to chromatin assembly. With extracts. the authors observe NER with plasmids irradiated with UVC or containing a single cisplatinum lesion. Coupled to the NER in vitro, is assembly of the repaired plasmids into nucleosomes, which requires chromatin assembly factor-1 (CAF-1) in the human cytosolic extract. ",
+        "bbox": [
+            518,
+            705,
+            907,
+            892
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            92,
+            130,
+            482,
+            161
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Solovjeva et al. (St. Petersberg, Quebec, Brighton, and Rotterdam) used monoclonal antibodies to localize XPB (ERCC3) and PCNA in UV-irradiated human cells. After UV-irradiation, PCNA rapidly accumulates in nuclei of non-S-phase cells as does XPB, but confocal analysis indicates that many of the XPB- and PCNA-associated granules are not associated. Furthermore, PCNA-containing complexes were detected in the nuclei of XP-A cells, indicating that these complexes are not solely associated with DNA repair synthesis. The results indicate that PCNA has a second, repair synthesis-independent, function in NER. In another study, Czibula et al. (Szeged, Hungary, Cambridge and Manchester) examined the proficiency of NER, alkylation damage repair and double-strand break (DSB) repair in mouse embryonic cells induced to differentiate. Undifferentiated cells removed UV-induced CPDs very rapidly, whereas a much more reduced NER capacity was observed in the differentiated state. Although no difference was observed in the first step of base excision repair (BER) between undifferentiated and differentiated cells, the latter cells show a decline in $\\boldsymbol { 0 } ^ { 6 }$ -alkylguanine-DNA-alkyltransferase (ATase) activity. even when human ATase was injected into the cells. Lastly, both broken chromosomes and exchanges are observed following induction of DSBs. ",
+        "bbox": [
+            94,
+            164,
+            482,
+            593
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. Syndromes and animal models associated with defects in repair of UV damage ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            640,
+            484,
+            670
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.1. The cellular responses to DNA damage ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            701,
+            421,
+            715
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To understand the genetic predisposition to skin cancer in repair-deficient syndromes, Abrahams et al. (Leiden) studied the induction of the SOS-like responses, Enhanced Reactivation (ER) and Enhanced Mutagenesis (EM), in UVC-irradiated skin fibroblasts from normal individuals, XP, and different cancer-prone patients. Previously, they reported that fibroblasts from XP patients which remain cancer-free in sun-exposed areas of the skin do not display ER. Here they showed that the ability to display an ER response is an hereditary trait and that the same cell lines which fail to show ER, also do not show the UV-induced expression of a protooncogene, ornithine decarboxylase (Terleth et al., Leiden). ",
+        "bbox": [
+            94,
+            739,
+            484,
+            896
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            524,
+            130,
+            913,
+            208
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There were several studies on DNA repair capacity in normal individuals and patients with different disorders. Abrahams et al. (Leiden) showed that repair capacity measured by Host-cell reactivation (HCR) of UVC-irradiated Herpes Simplex virus type 1(HSV-1) is lower in various hereditary cancer-prone syndromes. Repair of UV-induced photoproducts and their biological consequences were studied in different human syndromes deficient in nucleotide excision repair (NER). Clingen et al. (MRC, Brighton) (IIB.10) showed that UVB and UVC induce CPDs. (6-4) photoproducts, and Dewar isomers with markedly different proportions, and that (6-4) photoproducts are most effective for cell killing, and inhibition of DNA and RNA synthesis. ",
+        "bbox": [
+            524,
+            210,
+            915,
+            449
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The role of CPD and 6-4 photoproduct repair in cancer prevention in TTD patients was discussed by Mezzina et al. (Villejuif). They showed that in photosensitive TTD patients repair of CPDs is defective, whereas repair of 6-4 photoproducts both in active genes, as well as in the overall genome, is similar to that observed in cells from normal individuals. However, these data are not in agreement with the results obtained by the Brighton group but the reason for the observed discrepancy is not known. ",
+        "bbox": [
+            526,
+            452,
+            915,
+            609
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Arlett et al. (MRC, Brighton) examined ionizing radiation sensitivity of several XP cell lines (23 cell lines) from various complementation groups. Three cell lines from group XP-C, D, and G displayed an increased sensitivity to ionizing radiation. An extreme $\\mathbf { X }$ -ray sensitivity, similar to that in A-T patients, was found in XP14BR cells (XP-C). Transfection of the XPC gene restored only the UV but not the X-ray sensitivity, indicating that a separate novel gene involved in the cellular response to ionizing radiation is likely to be mutated in XPl4BR cells. The reason for the observed X-ray sensitivity in other XP cell lines is unknown, but it could be due to the variability of $\\mathbf { \\boldsymbol { X } }$ -ray sensitivity which is also observed in normal individuals. These studies indicate the importance of verification of radiosensitivity of XP. as well as other patients in case of any possible radiotherapy. ",
+        "bbox": [
+            526,
+            611,
+            915,
+            896
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5.2. Transcription syndromes and mutation analysis in TFIIH related syndromes ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            126,
+            475,
+            157
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DNA repair defects in XP complementation groups B and D are associated with the clinical features of the three quite different disorders; XP (sun-sensitive and cancer-prone), TTD or CS (multisystem disorders with no skin cancer). The finding of additional combined XP/CS patients falling in group B, D and G indicates that there is considerable overlap and clinical heterogeneity within a subset of complementation groups. To date most repair-deficient TTD cell strains have been assigned to XP group D, with the exception of TTD1BR (TTD-A) and TTD6VI and TTD4VI (XP group B). ",
+        "bbox": [
+            86,
+            174,
+            475,
+            366
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The discovery that the XPB and XPD DNA repair helicases are involved in basal transcription and nucleotide excision repair has been extremely helpful in our understanding of clinical disorders associated with DNA repair defects. In view of this dual functionality of TFIIH it was postulated that a mutation in a subunit can affect either one or both of its functions. Classical XP may result from an impairment in the DNA repair function, whereas TTD and CS could be due to a crippled TFIIH, affecting the expression of certain genes or the stability of TFIIH. This also provides a rationale for the category of TTD and CS patients without NER defects. These non-photosensitive patients are hypothesised to harbour mutations that only affect the transcription function of TFIIH. At the same time this accounts for the extreme rarity of these syndromes in general. The relative abundance of XP-D can be explained by the fact that the gene can tolerate many mutations, because its helicase activity is not essential. The physical presence of XPD is more important for TFIIH than its functional integrity (J.H.J. Hoeijmakers). The finding by several laboratories of distinct mutations in the XPD gene associated with the disorders support this hypothesis (Lehmann). ",
+        "bbox": [
+            86,
+            369,
+            475,
+            767
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "These disorders caused by subtle disturbances of basal transcription were suggested to be part of a larger clinical spectrum reflecting transcription syndromes. Extensive genetic analysis using SSCP, REF and automatic sequencing of 31 patients considered to be candidates for such transcription syndromes but with normal UV sensitivity showed no involvement in the XPD gene, suggesting that viable mutations in this gene are most likely to cause UV sensitivity (Jaspers et al., Rotterdam) ",
+        "bbox": [
+            86,
+            768,
+            477,
+            892
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            128,
+            907,
+            157
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Circumstantial evidence supports the idea that the transcription proteins p62, p44, p55 and p34 are also implicated in NER. This suggests that most if not all components of the transcription machinery participate in NER. It is possible that the TTDA protein (not cloned) is identical to the $\\mathsf { p } 4 4$ TFIIH subunit. Recently, it became clear that in man this gene was duplicated during evolution. Both telomeric and centromeric gene copies are expressed and three amino acid differences were detected. Alternatively, the TTDA factor might have a tendency to (partly) dissociate during purification of TFIIH and may represent a new TFIIH subunit (Egly, Strasbourg). ",
+        "bbox": [
+            518,
+            160,
+            907,
+            366
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Most important from the viewpoint of tumour aetiology are the observations that neither TTD nor CS patients have skin tumours nor severe skin pigmentation alterations, whereas most XP patients develop skin cancer during their lifespan. In the past there were lines of evidence supporting the hypothesis that impaired immunological surveillance was involved in the aetiology of skin cancer. Recent interesting findings from Krutmann and coworkers presented by Lehmann showed that ICAM1 expression was more severely reduced by UVB light in XP-D cells compared to wild-type or TTD cells. ",
+        "bbox": [
+            517,
+            369,
+            907,
+            558
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "In order to understand how different phenotypes can arise from mutations in the same gene, several labs (Stefanini et al., Pavia, Lehmann et al.. and Weber et al., Livermore) have identified a large number of XPD mutations (most are compound heterozygotes) in XP, TTD and $\\tt X P / C S$ Although mutation analysis has not revealed obvious TTD or XP-specific domains within the XPD gene, one mutation is found $( \\mathrm { A r g 6 8 3 T r p } )$ which is present in $70 \\%$ of the XP-D patients analyzed. Two TTD specific mutations have been commonly found $( \\mathrm { A r g } 7 2 2 \\mathrm { T r p } )$ and (Arg1 12His). ",
+        "bbox": [
+            518,
+            560,
+            907,
+            750
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Two labs (Stefanini, Pavia and Slor, Tel-Aviv) described a patient from Israel, which showed the cellular phenotype of CS (normal UDS and inability to recover normal RNA synthesis after UV), but no typical CS clinical features other than sun-sensitivity. Complementation was observed with CS-A and CS-B cells, so that this cell line represents a new complementation group. ",
+        "bbox": [
+            518,
+            751,
+            907,
+            876
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The involvement of TFIIH in both transcription and repair, and the fact that some patients with the clinical features of both CS and XP have mutations in the XPD or XPB gene led to the suggestion that the symptoms of CS might result from some subtle defect in the transcriptional role of TFIIH. To explain the origin of the CS symptoms in patients with defects in the CSA, CSB, and XPG genes, none of which are essential genes, the model in its simple form suggests that these proteins can also have a direct involvement with transcription. A direct interaction of CSB protein with the transcription apparatus, for example, could advance this idea. The evidence for and against such interactions is discussed in Section 1.2. ",
+        "bbox": [
+            542,
+            878,
+            905,
+            891
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            88,
+            128,
+            479,
+            349
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Friedberg (Dallas) reported that the transcriptional activity of partially fractionated cell extracts was severely depressed in XP-B, XP-D, CS-A and CS-B cells. Since intact cells clearly could not sustain such a dramatic reduction in transcription, the interpretation of these interesting findings remains unclear at present. In contrast to these findings, immunodepletion of the CSB protein from cell extracts was found by van Gool et al. (Rotterdam) to have no effect on transcription or repair. ",
+        "bbox": [
+            88,
+            353,
+            479,
+            510
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "As discussed in Section 2.1, work of Cooper (Berkeley) and the lab of Clarkson (Geneva) showed that severely affected XPG/CS patients have reduced ability to remove thymine glycols. This suggests that defective transcription coupled repair of endogenous oxidative base damage may contribute to the clinical manifestations of CS in XP-G. The subtle mutation found in XP125L0 and XP124LO (mutation in the putative endonuclease active site) results in mild cutaneous abnormalities (without CS phenotype) and normal repair of thymine glycols. These observations are in agreement with the hypothesis that mutations which give rise to the CS phenotype might disrupt interactions with XPG that are important for transcription coupled removal of oxidative base damage. ",
+        "bbox": [
+            88,
+            511,
+            479,
+            767
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3. Gene-targeted mice ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            784,
+            265,
+            798
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Gene targeting is used to understand gene function in a whole-animal system—the mouse—and to model human inherited disease. The first genetargeted mouse with a DNA repair gene (ERCCl) deficiency was reported in 1993. In 1995, knockouts for XPA and XPC were reported. At this meeting additional information on the existing knockouts was presented and a number of new knockouts were reported. ",
+        "bbox": [
+            86,
+            816,
+            477,
+            894
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            128,
+            911,
+            190
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3.1. Conventional knockouts ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            208,
+            746,
+            222
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Most of the DNA repair gene targeting to date has involved the production of conventional gene knockouts, typically involving neo-gene insertion into the target locus, sometimes also generating a small deletion in the target gene, or a premature stop codon. ",
+        "bbox": [
+            522,
+            224,
+            911,
+            302
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3.1.I. XPA. XPA knockouts (de Vries et al., Bilthoven and Utrecht) showed increased susceptibility to tumour induction by UV-B. A daily low dose of UV-B led to hyperkeratosis and ocular abnormalities, with a large increase in the frequency of skin tumours compared to controls. Benzo(a)pyrene administration. causing a bulky DNA lesion normally repaired by NER, led to an increase in internal tumours and an increased mutation rate in somatic cells (assayed by crossing a lacZ transgene into the XPA background) compared to wild-type controls. ",
+        "bbox": [
+            522,
+            321,
+            911,
+            496
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The HPRT mutation frequency in somatic cells from XPA mice has also been studied (Bol et al., Leiden). Benzo(a)pyrene induced mutations in T cells from XPA knockout mice more rapidly than in controls. The second mutagen used, N-hydroxylAAF. which also generates lesions repaired by NER, failed to induce T-cell mutations in either genotype, probably because it failed to reach the spleen in its active form. ",
+        "bbox": [
+            520,
+            497,
+            911,
+            640
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fibroblasts isolated from XPA knockout mice (Frosina et al.. Genoa and Bilthoven; poster IIIB.19) were UV sensitive, with reduced UDS compared to controls. The mutant cells were easily immortalised, at which point they became less UV-sensitive. The significance of this observation was discussed in the context of the possibility that it might indicate the activation of an alternative repair pathway, or of a damage-tolerance mechanism. ",
+        "bbox": [
+            520,
+            641,
+            911,
+            784
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5.3.1.2. CSB (ERCC6). CSB knockouts (van der Horst et al., Rotterdam) mimicking the mutation in the CS patient CS1AN were reported. This mutation introduces a stop codon into exon 5. Knockout mice were sensitive to UV-B, developing erythema at lower doses than control animals. Mutant mice were slightly smaller than controls, but did not exhibit other characteristic features of CS, such as infertility or severe neurological abnormalities. However, a significant decrease in locomotor activity and a tendency to waltz (a possible indication of a hearing problem), provided a preliminary indication of possible neurological changes in the knockout animals. Primary embryonic fibroblasts isolated from knockout embryos showed the characteristic cellular phenotype of CS: UV sensitivity. normal UDS, failure to recover RNA synthesis following UV and loss of preferential repair of the template strand of activelytranscribed genes. However, contrary to the situation in CS, CSB knockout mice showed preliminary indications of increased cancer incidence following either UV-B or DMBA treatments. $X P C / C S B$ double nulls were severely runted, with a disturbed gait, and died 20 days after birth. ",
+        "bbox": [
+            520,
+            801,
+            909,
+            895
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            126,
+            472,
+            412
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3.1.3. ERCC1 (Donker et al., Rotterdam). Both a complete knockout and a deletion of the C-terminal seven amino acids were discussed. Both showed a severe growth defect with the complete knockout mice dying before 3 weeks of age and the C-terminal deletion mice dying before 6 months. Both types of mouse showed polyploidy and chromatin abnormalities in liver and kidney, ferritin deposition in spleen and lack of subcutaneous fat. It was suggested that, as with the previously-reported ERCCl knockouts, animals died of liver failure. The premature ageing observed in these animals could be due to a combination of NER and recombination defects ( ERCCl is homologous to RADl0 in S. cerevisiae, which is involved in mitotic recombination). ",
+        "bbox": [
+            82,
+            430,
+            472,
+            668
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3.1.4. XPB. XPB knockouts (Donker et al., Rotterdam), mimicking the mutation found in the XP-B/CS patient XP11BE, were embryonic lethals, confirming an essential role for XPB as a component of the RNA polymerase II basal transcription factor TFIIH. ",
+        "bbox": [
+            82,
+            686,
+            470,
+            764
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3.1.5. MHR6A and 6B (Roest et al., Rotterdam). S. cerevisiae rad6 mutants show increased sensitivity to UV, X-rays and alkylating agents and sporulation is affected. Primary embryonic fibroblasts derived from knockout mice for either of the mouse RAD6 homologues, MHR6A and $\\it 6 B$ , were not UV-sensitive. MHR6A knockouts were normal, apart from reduced fertility in females. In the MHR6B knockouts, the males were sterile with defective spermatogenesis, leading to the suggestion that MHR6B could be involved in chromatin remodelling during spermatogenesis. Embryos homozygous for both MHR6A and $\\boldsymbol { \\epsilon } \\boldsymbol { B }$ mutations failed to develop to E13.5. ",
+        "bbox": [
+            82,
+            782,
+            470,
+            890
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            128,
+            900,
+            220
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5.3.2. Subtle gene alterations ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            239,
+            731,
+            253
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Conventional knockouts cannot be used to introduce subtle gene mutations. One example where such mutations are essential is to study the relationship between XPD mutations and the resulting disease, which can be XP, XP/CS or TTD. The XP8BR mutation (causing XP/CS) has been introduced into the mouse XPD gene by double-replacement genetargeting in HPRT-deficient embryonic stem cells (de Boer et al., Rotterdam). In the first targeting step, part of the $3 ^ { \\prime }$ end of the gene is deleted and replaced by a cassette containing neo-and hprt-markers. In the second targeting step, the markers are themselves replaced by a modified $3 ^ { \\prime }$ end of the XPD gene, carrying the XP8BR mutation. An alternative strategy has also been used to introduce the TTD1BEL mutation (causing TTD). Here, in a single step, the $3 ^ { \\prime }$ end of the mouse XPD gene has been replaced with an altered sequence containing a human cDNA-derived part of exon 22 containing the TTD1BEL mutation, globin gene splicing signals and a neo-gene inserted downstream. The phenotype of any mice arising from these targeted ES cells is eagerly awaited. ",
+        "bbox": [
+            513,
+            257,
+            902,
+            620
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6. Mismatch repair and base excision repair ",
+        "text_level": 1,
+        "bbox": [
+            511,
+            655,
+            859,
+            669
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "6.1. Mismatch repair ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            686,
+            668,
+            701
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Drummond (Duke University) reviewed briefly the current situation regarding mismatch repair in mammalian cells and described a bidirectional scanning model according to which the MutS complex (made up of the hMSH2 and GTBP proteins, both of which are homologues of the bacterial MutS protein) binds to a mismatch and bidirectionally searches along the DNA for the signal that will direct incision to one of the two strands. The human MutS complex recognises, in addition to all 8 possible normal base mismatches, 112 base loops as well as pairs involving a damaged base such as $0 ^ { 6 }$ -methylguanine : T or C, $\\mathrm { O ^ { 4 } }$ -methylthymine: A (but not $\\mathbf { G }$ and 1,2-GpG adducts of cis-platin. However, it does not recognise 1,2-ApG, or 1,3-adducts of cis-platin or 1,3-adducts of trans-platin. These studies indicate the increasing interest in the possible involvement of mismatch repair in tumour resistance to alkylating drugs. Examples were given of cell lines in which drug sensitivity appeared to correlate with mismatch repair deficiency. ",
+        "bbox": [
+            513,
+            719,
+            900,
+            891
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            126,
+            473,
+            285
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Progress in the production of cell lines and mice deficient in mismatch repair was described by te Riele (Amsterdam). $m s h \\bar { 2 } ^ { - } / { ^ - }$ ES cells show the anticipated characteristics, including microsatellite instability, increased recombination frequency and methylation tolerance. Heterozygous, homozygous and chimeric msh2 knockout mice have been produced which do not show any overt abnormalities at birth. However, the homozygous animals have a predisposition to spontaneous carcinogenesis, developing mainly T-cell-derived lymphosarcomas as well as other types of tumours, including tumours of the lung, intestine and stomach. Unlike the human situation, heterozygous animals do not show an abnormal cancer susceptibility, while chimaeric animals have an intermediate phenotype. The interaction between loss of mismatch repair function and other cancer susceptibility traits in the natural history of carcinogenesis was indicated by the observation that crosses of the $m s h 2 ^ { - } \\mathrm { ~ \\AA ~ } ^ { - }$ mice with $m i n ^ { - }$ mice (heterozygous for the apc gene which is implicated in colon carcinogenesis) develop multiple intestinal tumours, demonstrating that msh2 deficiency accelerates intestinal carcinogenesis in a min\\~ background. ",
+        "bbox": [
+            84,
+            289,
+            473,
+            669
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Iaccarino et al. (Rome) reported the cDNA sequence for a $\\mathbf { G } { : } \\mathbb { T } ( \\mathbb { U } )$ mismatch DNA glycosylase which also binds to $\\mathrm { G } { : } 5$ -bromouracil and $\\mathrm { O } ^ { 6 } .$ -methylguanine : T pairs. This cDNA is not related to any other known enzyme and may be involved in the repair of $\\mathrm { G } \\colon \\mathrm { T }$ mismatches caused by deamination of 5-methylcytosine. Two mismatch repair activities have been identified in S. pombe by Fleck et al. (Berne), one of which can bind to and correct all types of mismatches (except $\\mathrm { C } / \\mathrm { C } )$ as well as DNA loops, while the other is specific for C-containing mismatches. ",
+        "bbox": [
+            83,
+            671,
+            473,
+            859
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "M. Bignami et al. (Rome) reported that methylation tolerant, mismatch repair-deficient human HeLa cells have increased rates of spontaneous somatic recombination. From the same laboratory Aquilina et al. (Rome, IARC, ICRF and Leiden) described the identification of two complementation groups among methylation tolerant cells. Complementation group I was hMLH1 deficient and had the anticipated characteristics (inability to repair $\\mathrm { G } : \\mathrm { T }$ mismatches or carry out repair synthesis at $O ^ { 6 }$ -methylguanine residues, increased instability at dinucleotide repeats). On the other hand, complementation group II had normal G:T mismatch repair and $0 ^ { 6 }$ -methylguanine-induced repair synthesis, but demonstrated lower tolerance to MNNG than group I cells and instability at mononucleotide (but not at dinucleotide) repeats. The authors proposed the hypothesis that $\\mathbf { O } ^ { 6 } .$ -methylguanine : T and ${ \\mathrm { O } } ^ { 6 } .$ -methylguanine : C pairs may be recognised by different complexes (involving hMSH2 in combination with GTBP for the first and a different protein for the second) and that group II cells are GTBP deficient and thus can tolerate the former but not the latter $\\mathrm { O } ^ { 6 }$ -methylguanine pairs. ",
+        "bbox": [
+            83,
+            863,
+            473,
+            894
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            128,
+            905,
+            462
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "An observation of possible clinical significance was reported by Hampson et al. (ICRF and Oxford), who found that in cell lines established from human colorectal carcinomas, loss of $\\beta 2$ -microglobulin (mediator of the recognition by thc immune system of non-self peptides) expression was highly correlated with mismatch repair defects and that microsatellite instability was over-represented among tumours deficient in $\\beta 2$ -microglobulin. These observations imply the existence of strong immune response against tumours with genetic mismatch repair defects and suggest a way by which this response may be evaded by the tumours, namely by loss of $\\beta 2$ -microglobulin. ",
+        "bbox": [
+            517,
+            465,
+            905,
+            687
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6.2. Base excision repair (BER) ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            705,
+            752,
+            719
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Lindahl (ICRF) reviewed the enzymology of base excision repair and described the in vitro reconstitution of this process (for the repair of a uracil-containing substrate) using purified human uracil-DNA glycosylase, AP endonuclease I, DNA polymerase $\\beta$ , XRCC1 and DNA ligase III. The reaction was rapid and resulted in the replacement of a single nucleotide. It was suggested that the XRCCI protein can act as a scaffold holding polymerase $\\beta$ and ligase III together and it was shown that it can stop chain displacement by polymerase $\\beta$ The role of pol $\\beta$ in BER was described by Wilson (Galveston). An $8 \\ \\mathrm { \\ k D a }$ domain of pol $\\beta$ contains dRPase activity, which is required to remove the $5 ^ { \\prime } .$ -deoxyribose sugar left at the $5 ^ { \\prime }$ terminus of the DNA following AP endonuclease activity. Mouse pol $\\beta$ knockouts are embryonic lethal, but embryonic fibroblast lines have been established from them. They are sensitive to simple alkylating agents and unable to carry out BER, confirming the role of pol $\\beta$ in this process. During fractionation of cell extracts, $10 \\%$ of pol $\\beta$ was found in a complex with DNA ligase I, raising the possibility of a role for ligase I as well as ligase III in BER. ",
+        "bbox": [
+            515,
+            738,
+            904,
+            895
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            83,
+            128,
+            473,
+            349
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Erixon et al. (Stockholm and Richmond) investigated the effects of polymerase inhibitors in mammalian cells treated with methylating agents. In repair proficient human or hamster cells and in XP cells aphidicolin (APC) and araC caused strand breaks, suggesting that a polymerase other than $\\beta$ is involved in the repair of methylation products in DNA. However, dideoxythymidine also causes strand breaks indicating that polymerase $\\beta$ is also involved. The amount of breaks resulting from AraC and 3-aminobenzamide, an inhibitor of poly(ADP-ribosyl) polymerase were additive, suggesting two parallel pathways in base excision repair. ",
+        "bbox": [
+            83,
+            353,
+            473,
+            559
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.2.1. Alkylpurine DNA glycosylases ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            578,
+            354,
+            592
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "The substrate specificity of alkylpurine DNA glycosylases was addressed by a number of laboratories. O'Connor et al. (Villejuif, Summit and Gyongsang, Korea) found that the E. coli 3-methyladenine glycosylase (AlkA), but not the human or rat methylpurine glycosylase, could removc damage induced by a number of clinically important nitrogen mustards and restore template activity for DNA replication. On the other hand. Cussac and F. Laval (Villejuif) reported that the Fpg protein, but not the AlkA protein, could protect bacteria from the toxic or mutagenic effects of the direct-acting alkylating agent aziridine, suggesting that aziridine induces fapy-type lesions in DNA. Finally, a poster from the J. Laval laboratory (Villejuif) indicated that, while the AlkA protein can excise hypoxanthine from DNA in vitro, it cannot protect $E .$ coli cells against nitrous acid-induced A to G mutations which are assumed to arise from deamination of adenine to hypoxanthine. ",
+        "bbox": [
+            84,
+            592,
+            473,
+            894
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Strikingly, protection against this type of mutagenic effect was afforded by the uurA gene implying that. if the observed mutations are due to hypoxanthine, a DNA lesion chemically as minor as the deamination of adenine can be recognised and corrected by the UvrABC system. ",
+        "bbox": [
+            515,
+            128,
+            904,
+            222
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Alkylpurine-DNA-glycosylase knockout mice have been generated by Elder et al. (Manchester). They are viable and fertile. Their phenotype is under investigation. ",
+        "bbox": [
+            515,
+            224,
+            904,
+            287
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.2.2. Uracil-DNA glycosylase ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            304,
+            743,
+            318
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Recent information on the structure of human uracil-DNA glycosylase revealed a highly conserved DNA-binding groove and an essentially invariant uracil-binding pocket. Krokan et al. (Trondheim and La Jolla) presented biochemical data indicating active flipping of U out of the DNA helix and into the recognition pocket. Furthermore, the substrate specificity of the enzyme could be changed by single amino acid substitutions to give rise to mutants that recognised either C or $\\mathrm { T }$ in DNA substrate. When these mutants were expressed in $E .$ coli they were cytotoxic and mutagenic. The sequence specificity of $E$ coli uracil-DNA glycosylase was examined by Nilsen et al. from the same laboratory (1C.8), and the consensus for good and bad repair found to be ${ \\mathsf { S } } ^ { \\prime } ( { \\mathrm { A } } / { \\mathrm { T } } ) { \\mathrm { U A } } ( { \\mathrm { A } } / { \\mathrm { T } } ) 3 ^ { \\prime }$ and ${ \\sf 5 ^ { \\prime } ( G / C ) } \\mathrm { U ( T / G / C ) } 3 ^ { \\prime }$ , respectively. The sequence specificity of repair correlated well with the sequence distribution of U-induced mutations along the lacl gene. ",
+        "bbox": [
+            515,
+            321,
+            905,
+            621
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "6.2.3. Oxidative DNA damage ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            641,
+            741,
+            654
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Luna et al. (Oslo) reported the isolation of human cDNA's with homology to the bacterial DNA glycosylase genes fpg and nth. Sequence analyses indicate that the DNA-binding motifs present in the bacterial Fpg and Nth, a zinc finger and the 4Fe-4S cluster, respectively, are conserved in the corresponding human enzymes. The same group (Eide et al.) also reported the isolation from S. cerevisiae of a gene (SCNTH) for a DNA glycosylase from yeast which is similar to endonuclease III from E. coli. The expressed protein of $4 5 \\ \\mathrm { k D a }$ removed thymine glycols as well as ring-opened 7-methylguanine (fapy) residues like the $E .$ coli Fpg enzyme, but, in contrast to the latter, did not remove 8-oxoguanine. Boiteux et al. (Villejuif and Gif) reported on a S. ",
+        "bbox": [
+            517,
+            657,
+            905,
+            892
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "cerevisiae gene, OGGl, a functional homologue of the bacterial fpg gene. OGGl encodes a DNA glycosylase/AP lyase that excises 8-oxoguanine and fapy. This $4 3 \\ \\mathrm { \\ k D a }$ enzyme preferentially excises 8-oxoguanine opposite cytosine or thymine but not opposite adenine. A mutant of this gene has a hypermutable phenotype and causes $\\mathbf { G } : \\mathbf { C }$ to $\\mathbf { T } : \\mathbf { A }$ transversions. ",
+        "bbox": [
+            86,
+            128,
+            477,
+            253
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.2.4. Human $A P$ -endonuclease I (HAP1) ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            280,
+            396,
+            294
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "HAP1, cloned by Hickson and coworkers (ICRF. Oxford), is the major human AP-endonuclease and it is a homologue of exonuclease III in $E .$ coli. The enzyme also has $3 ^ { \\prime }$ phosphodiesterase, $3 ^ { \\prime }$ -phosphatase and Rnase H activity. In addition, HAPI possesses the ability to alter the redox state of a conserved cysteine residue located in the DNA-binding domain of c-Jun and c-Fos. Repair and redox domains are structurally and functionally distinct. Based on homology with exonuclease III, a model for the structure of HAP1 has been established and critical amino acid residues in the proposed active site identified by site-directed mutagenesis. ",
+        "bbox": [
+            86,
+            297,
+            477,
+            502
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.2.5. DNA ligases ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            529,
+            227,
+            542
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "By knocking out DNA ligase I in mice, Melton et al. (Edinburgh) showed that haematopoiesis was disrupted and this led to prenatal death after mid-term. Thus, DNA ligase I is required for normal mammalian development, but is not entirely essential for DNA replication, indicating that, in case of its absence. other ligases may complement this defect during DNA replication. The cloning of two human DNA ligase genes (including a previously unknown one) was discussed by Lindahl and coworkers. Using information from peptide sequences from a region that is conserved in all known eukaryotic DNA ligases, two human cDNA's were isolated and ex pressed, one of which encoded the previously described DNA ligase III of $1 0 3 \\mathrm { \\ k D a }$ that interacts with XRCC1. The other cDNA encoded a new ATP-dependent ligase of $9 6 ~ \\mathrm { \\ k D a }$ DNA ligase IV. DNA ligases III and IV share a related active site motif and several short regions of homology with DNA ligase I. DNA ligases III and IV are located on human chromosomes $1 7 \\mathrm { q } 1 1 . 2 \\mathrm { - } 1 2$ and 13q33-34. respectively. ",
+        "bbox": [
+            84,
+            546,
+            475,
+            892
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.2.6. Expression of alkyltransferases ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            128,
+            797,
+            144
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Several groups reported progress in the biology of alkylation damage repair in eukaryotes. Rafferty et al. (Manchester) described the induction by X-rays of $0 ^ { 6 }$ -methylguanine-DNA methyltransferase (MGMT) in various tissues of p53-deficient mice. They found that, while the basal levels of the enzyme did not depend on the animals' p53 status, induction was absolutely dependent on p53 expression, implying that p53 may modulate the expression of MGMT. Grombacher et al. (Mainz and Galveston) reported on the induction of MGMT in rat hepatoma cells H4IIE by MNNG, X-rays and dexamethasone and a lack of co-regulation with $N .$ methylpurineDNA glycosylase. The presence of two alternative transcripts of $N .$ -methylpurine-DNA glycosylase in human cell lines was described by Pelkonen et al. (IARC. Lyon). The proportions of the two types of transcripts varied between different cell lines and did not correlate with overall enzymatic activity. ",
+        "bbox": [
+            520,
+            144,
+            909,
+            447
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "6.2.7. Practical applications of DNA repair studies ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            465,
+            900,
+            481
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "It is reasonable to anticipate that individual ability to repair DNA lesions may play a critical role in the determination of clinical response to antitumour alkylating agents. Buschfort et al. (Essen) presented data relevant to this question using lymphocytes of CLL patients. A battery of in vitro assays for DNA repair activity (adduct repair at single-cell level. induction and loss of repair-related single-strand breaks by the comet assay, DNA incision in a damaged plasmid) were employed. and good correlation with the in vitro sensitivity to alkylating agent as well as indications of a correlation with clinical response to alkylating drug treatment were obtained. ",
+        "bbox": [
+            518,
+            482,
+            907,
+            689
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Collins et al. (Aberdeen) described how the comet assay can be exploited to study DNA lesions other than strand breaks in the context of molecular epidemiology as well as more fundamental investigations by treating nucleoids with enzymes capable of converting specific lesions (e.g.. E. coli fpg for 8-oxoguanine. T4 endonuclease V for cyclobutane dimers) into single-strand breaks that can be subsequently quantitated with high sensitivity. Using these modifications of the comet assay to measure different lesions, Dusinska et al. (Bratislava. Teplice and Aberdeen) examined DNA repair capacity in groups of patients with different chronic degenerative diseases which are possibly related to oxidative stress. In peripheral lymphocytes derived from diabetes and ankylosing spondylitis patients, the endogenous levels of these DNA lesions were higher than in healthy individuals. In addition, no repair of strand breaks was found in ankylosing spondelytis patients. These preliminary results indicate that the comet assay provides a practical method for assessing endogenous DNA damage and repair capacities in human cells. ",
+        "bbox": [
+            517,
+            690,
+            907,
+            896
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            128,
+            473,
+            287
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "7. Repair of strand breaks ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            320,
+            294,
+            335
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "7.1. DNA-PK ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            353,
+            184,
+            367
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Jeggo et al. (MRC Brighton) discussed the role of the multi-component DNA-dependent kinase (DNAPK) in cellular responses. Mutants defective in two of the components $\\mathrm { K u } 8 6$ and $\\mathrm { D N A - P K } _ { \\mathrm { c s } }$ , encoded by the genes XRCC5 and XRCC7, respectively) are very sensitive to ionising radiation and have defects in V(D)J recombination. A mammalian mutant for the third component $\\left( \\mathrm { K u } 7 0 \\right)$ has yet to be identified. XRCC7 has a $1 4 ~ \\mathrm { \\mathbf { k } \\mathbf { b } }$ ORF with a kinase domain at the carboxy-terminus and belongs to the PI3 kinaselike family. $\\mathbf { K } \\mathbf { u } 7 0$ and 86 form a complex with affinity for ds DNA ends or other discontinuities, suggesting that these components recognize strand interruptions leading to activation of the kinase component. The in vivo substrates of the kinase activity remain a matter of speculation. ",
+        "bbox": [
+            86,
+            384,
+            475,
+            640
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Errami et al. (Leiden) showed that independently-isolated Chinese hamster V79 mutants belonging to complementation group 5 have mutations in the $\\mathtt { K u 8 6 }$ gene. The different alleles show different levels of X-ray sensitivity. Two of these mutants produce mRNA with in-frame deletions corresponding to the loss of 46 and 84 amino acids, respectively. Blunt et al. (MRC, Brighton) have identified mouse and hamster homologues of XRCC7. which predict $83 \\%$ identity in the $3 ^ { \\prime }$ kinase domain to the human protein. Mutants defective in XRCC7, such as the scid (severe combined immune deficient) mouse and the hamster V3 line have different mutations, since scid expresses DNA-PK at near wild-type levels while V3 has much reduced levels. A nonsense mutation potcntially responsible for the scid phenotype has been identified in the highly conserved carboxy-terminal domain of DNA-PKcs. ",
+        "bbox": [
+            86,
+            641,
+            477,
+            894
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            128,
+            904,
+            158
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A mutant of S. cerevisiae, known as hdfl, has sequence similarity to $\\mathbf { K } \\mathbf { u } 7 0$ Friedl et al. (Oberschleissheim) showed that haploid hdfl and diploid hdfl rad52 knockout mutants are very radiation-sensitive while diploid hdfl mutants are not. The hdfl rad52 mutants degrade irradiated DNA and show low frequencies of chromosomal aberrations, but the rad52 mutant has no degradation and a high frequency of aberrations, suggesting that Hdf1 protects broken ends but promotes aberration formation. Thus, although the major pathway for DSB repair in S. cerevisiae involves homologous recombination, a homology-independent DNA end joining mechanism can also contribute to DSB repair. ",
+        "bbox": [
+            517,
+            161,
+            905,
+            382
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "7.2. Genes involved in DNA cross-link repair in humans ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            411,
+            905,
+            441
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Thompson et al. (Livermore) have isolated cDNAs that partially correct mutants with sensitivity to DNA cross-linking agents; these cDNAs are candidates for the genes known as XRCC2, XRCC3, and XRCC9. The cDNAs relating to XRCC2 and XRCC3 have limited homology to the S. cerevisiae recombination gene RAD5l and its human homologue HsRAD51, and encode proteins of 280 and 346 amino acids, respectively. The cDNA relating to XRCC9 has no known homology. ",
+        "bbox": [
+            517,
+            464,
+            907,
+            623
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Thacker et al. (MRC Harwell) have also isolated cDNAs relating to the XRCC2 gene, using a positional cloning approach. Having first finely mapped the gene to chromosome $7 9 3 6 . 1$ , they have localized it to a single YAC giving complete correction of the mutant defect. A large number of cDNAs isolated by direct selection with the YAC were sequenced to identify candidates for the gene. ",
+        "bbox": [
+            518,
+            625,
+            907,
+            751
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Arwert et al. (Amsterdam) examined the genetic basis of the reversion of MMC sensitivity in Fanconi anemia, group C patients with apparent mosaicism, by comparing mutations in the $F A C$ gene in MMCsensitive and MMC-resistant cells. The results indicated that two distinct types of genetic recombination: intragenic mitotic recombination and gene conversion were responsible for the presence of a wildtype allele of the $F A C$ gene in MMC-resistant cells. ",
+        "bbox": [
+            520,
+            753,
+            907,
+            894
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "7.3. PARP and XRCC1 ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            129,
+            258,
+            144
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "De Murcia (Strasbourg) discussed the function of the enigmatic protein poly(ADP-ribose) polymerase (PARP), which is rapidly synthesised in response to DNA strand breaks. PARP catalyses the transfer of ADP-ribose from the respiratory coenzyme $\\mathrm { \\ N A D ^ { + } }$ to certain DNA-binding proteins and to itself. The protein has two zinc fingers at the N-terminus to act as a nick-sensor and a C-terminal catalytic domain whose activity is strongly stimulated on binding to DNA breaks. The crystal structure of chicken PARP has been solved to show that it is related to bacterial ADP-ribosylating toxins. Data from dominant-negative mutants, knockout mice, and the search for protein interactions suggest that PARP coordinates cellular responses to DNA damage with cell-cycle progression. ",
+        "bbox": [
+            86,
+            160,
+            477,
+            416
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Dantzer et al. (Strasbourg) prescnted evidencc for the role of PARP in DNA replication, through its interaction with the p180 subunit of DNA polymerase $\\alpha \\mathrm { . }$ -primase complex, suggesting a role in the detection of damage with the progression of the replication fork. ",
+        "bbox": [
+            88,
+            419,
+            479,
+            513
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The phenotype of mutants defective in XRCC1 protein is consistent with its role in a late stage of base-excision repair, and the protein has been shown to physically interact with DNA ligase III. Ligase III has a zinc-finger motif recognizing strand breaks in vitro, with homology to the nick-sensing motifs on PARP. Caldecott and Nash (Manchester and ICRF South Mimms) have found that PARP appears to associate with the XRCC1/ligase III complex and that PARP activity is inhibited by ligase III. They suggest that these three proteins act as a nick-sensing mechanism in damaged cells. ",
+        "bbox": [
+            88,
+            514,
+            479,
+            703
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Thompson et al. (Livermore) have generated XRCC1 knockouts. Null embryos died by E9.5 having failed to gastrulate normally at E6.5. This very severe phenotype was unexpected, especially given that DNA ligase I knockouts develop normally to E12.5, and implies that XRCC1 is involved in processes additional to DNA repair. The phenotype of DNA ligase III knockouts will be particularly informative. There was preliminary evidence for increased rates of apoptosis in the XRCCl null embryos. ",
+        "bbox": [
+            88,
+            706,
+            479,
+            878
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "It has been found recently that PARP is an early marker of apoptosis, through cleavage by proteases of the Ced3/ICE family. Scovassi's group (Pavia) has characterized the apoptotic events occurring in human tumour cell lines after different lethal stimuli (antitumour drugs, serum starvation, growth arrest). Following the characteristic appearance of high molecular weight DNA fragments, PARP is activated. The enhancement of the automodification capacity of the PARP is followed by proteolytic cleavage of the enzyme. This indicates that the apoptotic cell programme is associated with modulation of post-translational modifications. ",
+        "bbox": [
+            108,
+            880,
+            479,
+            895
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            128,
+            907,
+            318
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Shah et al. (Sainte-Foy. Quebec) have developed an activity-based method for detection of the apoptotic $( 8 9 ~ \\mathrm { k D a } )$ fragment of PARP, and have shown that this fragment does not act as a nick sensor. Paris et al. (Gif-sur-Yvette) used this assay to investigate the radiation sensitivity of cell lines differing in p53 status, and showcd that apoptosis was more rapid in cells with enhanced radiosensitivity. ",
+        "bbox": [
+            520,
+            321,
+            909,
+            448
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The involvement of PARP in familial Adenomatous Polyposis was examined by Cristovao et al. (Lisbon) by analyzing the effect of gamma rays on $\\mathbf { N A D } ^ { + }$ levels of peripheral leukocytes. No stimulation of PARP by gamma-irradiation was found in FAP patients. The significant increase in the level of $\\mathrm { N A D ^ { + } }$ and total NAD after 3AB (an inhibitor of PARP) treatment was found only in healthy individuals, and no such response was seen in FAP patients. The results imply a difference in redox potential of FAP cells or a defect for $\\mathrm { N A D } ^ { + }$ consumption due to PARP synthesis in these patients. ",
+        "bbox": [
+            520,
+            449,
+            911,
+            640
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "7.4. Cloning and analysis of genes related to yeast recombination repair genes ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            658,
+            909,
+            689
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Kooistra et al. (Leiden) have cloned a homologue of RAD54 from $D$ melanogaster. using degenerate PCR primers from yeast conserved sequences. Identity with the human and mouse proteins is about $5 0 \\%$ overall, with greater homology in the helicase domains. The gene is located at chromosome II23D, close to the Rrp1 AP-endonuclease gene. Expression of the gene was highest in early embryos and females, suggesting that the gene has a role in meiotic recombination and/or in fertilization-associated replication. ",
+        "bbox": [
+            520,
+            706,
+            911,
+            879
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Essers et al. (Rotterdam) showed that the human homologue of the S. cerevisiae RAD54 gene predicts a protein with $48 \\%$ identity to the yeast protein, and similarly belongs to the SNF2 family of DNA-dependent ATPases. Vispe et al. (Toulouse) have cloned the Chinese hamster Rad5l gene, showing that this is similar to mouse and human homologues. Treatment of cells with DNA damaging agents such as $N$ -methyl $. N ^ { \\prime }$ -nitro $N -$ -nitrosoguanidine and MMC appears to lead to an induction of the gene product. ",
+        "bbox": [
+            540,
+            882,
+            909,
+            895
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            83,
+            126,
+            471,
+            269
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The S. pombe homologues of S. cerevisiae RAD51, RAD52 and RAD54 have been studied by Vreeken et al. (Leiden, Brighton and Braunschweig). Knockout mutants of the RAD51 and RAD54 homologues (rhp51 and rhp54, respectively) have similar phenotypes in the two yeasts, but a knockout mutant of the RAD52 homologue (rad22) is less severe. Although not essential for viability, a mini-chromosome loss assay showed that the rhp51 and rhp54 mutants have a very high level of spontaneous chromosome loss. The response of double mutants of rhp54 with checkpoint genes chkl or rad17 suggested that Rhp54 is likely to be involved in DNA replication. ",
+        "bbox": [
+            83,
+            272,
+            471,
+            494
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "By evolutionary walking, McKay et al. (Rotterdam) have cloned homologues of the S. pombe rad2l gene, involved in repair of radiation-induced DNA breaks. Predicted human and S. pombe genes showed $2 5 \\%$ identity overall, but with the N-terminal region (where the original yeast mutation occurred) showing $59 \\%$ homology. The human gene is cellcycle regulated but is not inducible by radiation. The mouse gene is expressed in all tissues (3.1 kb transcript), and especially testis and thymus, suggesting a role in recombination, but a smaller transcript is expressed at a high lcvcl in post-meiotic spermatids. This gene is located on human chromosome 8q24 and mouse 15D3. ",
+        "bbox": [
+            83,
+            496,
+            472,
+            718
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Clever et al. (Bern) showed that over-expression of wild-type or mutant Rad54 protein in wild-type S. cerevisiae cells is detrimental, possibly implicating Rad54 in protein—protein interactions. Using a 2-hybrid screen, potential candidates for this interaction were identified; one of which had $\\beta$ -transducin repeats. Disruption of the ORFs encoding the candidate proteins resulted in an MMS sensitive phenotype. ",
+        "bbox": [
+            84,
+            720,
+            472,
+            862
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "The S. cerevisiae RAD51 gene is induced following ionising or UV radiation, but induction of a ",
+        "bbox": [
+            84,
+            863,
+            472,
+            892
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "RAD5l fusion gene was markedly reduced in rad52 mutant cells suggesting that DNA damage processing precedes induction (Averbeck and Averbeck, Paris). ",
+        "bbox": [
+            514,
+            128,
+            902,
+            190
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Ahne (Oberschleissheim) showed that the rad54-1 mutant of S. cerevisiae was very inefficient at the correct repair of DNA double-strand gaps in marker plasmids. Similarly rev2 (rad5) mutants gave only about $20 \\%$ correct repair of this substrate. Sequence analysis of the incorrectly repaired products revealed that in most cases the break ends were blunted before joining, but sometimes there were deletions or insertions at the break site. The fidelity function of REV2 may be important in determining the sensitivity of these mutants. ",
+        "bbox": [
+            514,
+            191,
+            902,
+            365
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Nairn (Smithville) made CHO cell lines that are defective in ERCCl. These lines show the expected sensitivity to UV and MMC. The results of gene targeting experiments at the APRT locus implied a role for ERCC1 in recombination, analogous to that of Rad10 in S. cerevisiae. ",
+        "bbox": [
+            514,
+            367,
+            902,
+            461
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Willson et al. (Brighton) reported the isolation of 121 MMS sensitive S. pombe mutants. Many of the mutants are cross-sensitive to UV and gamma-rays: G2 checkpoint and recombination classes of mutants are represented in the collection. A plasmid was isolated that complemented one of the mutants (mms64) that is unable to arrest in G2 after treatment with ionising radiation. ",
+        "bbox": [
+            514,
+            462,
+            904,
+            589
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "7.5. Mammalian Holliday junction resolvase ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            608,
+            841,
+            623
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Davies et al. (ICRF, South Mimms) purified a 38 kDa protein related to the $E .$ coli RuvC protein from rodent cell lines and calf testes. A number of other proteins were also found to bind labelled Holliday junctions, but it is not clear if these specifically recognize junctions or other features such as bent DNA. Resolvase activity was found at normal levels in a series of ionising radiation-sensitive cell lines and human mutant lines. ",
+        "bbox": [
+            514,
+            640,
+            904,
+            781
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "7.6. DNA double-strand break rejoining by mammalian cell extracts ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            798,
+            902,
+            829
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Johnson and Fairman (MRC, Harwell) proposed that double-strand break repair is mediated by complexes including ligases and accessory proteins. They have identified two types of activity involved in the repair of simple double-strand breaks: activities that directly join breaks and an activity (REP-1) that stimulates joining. The rejoining activities surprisingly do not show the characteristic adenylation products of DNA ligases, and the stimulation given to a pure ligase by REP-1 is correlated with the loss of adenylation product. ",
+        "bbox": [
+            514,
+            846,
+            904,
+            892
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            129,
+            481,
+            255
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Mason et al. (MRC, Harwell) have studied the rejoining of double-strand breaks with non-complementary ends. The efficiency of rejoining of such breaks was dependent on the type of break end $( 5 ^ { \\prime }$ overhang, $3 ^ { \\prime }$ overhang or blunt); some ends were rejoined through blunting of single-stranded ends followed by ligation, while others rejoined through illegitimate recombination between short direct repeat sequences. Proteins involved in the repeat-driven mechanism were partially purified by fractionation of calf thymus extracts. ",
+        "bbox": [
+            90,
+            257,
+            481,
+            431
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "7.7. Techniques and applications ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            453,
+            336,
+            466
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Using graded-field gel electrophoresis DahmDaphi and Dikomey (Hamburg) showed that the efficiency of the repair of DSBs introduced by X-rays in DNA of CHO cells does not depend on the length of the DNA fragments. ",
+        "bbox": [
+            90,
+            488,
+            481,
+            566
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Arrand et al. (Brunel and Northwood) have looked at microsatellite length polymorphisms in a number of human genes implicated in repair of ionising radiation induced DNA damage. Among patients who showed a severe adverse reaction to radiotherapy they have identified 2 patients heterozygous for rare repeat-length polymorphisms in the XRCC1 and XRCC5 genes. Microsatellite repeat-length polymorphisms could possibly provide a tool for the development of a predictive assay for radiosensitivity. ",
+        "bbox": [
+            90,
+            567,
+            481,
+            726
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "8. Perturbation of cellular processes by DNA damage ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            763,
+            481,
+            793
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "8.1. Checkpoints ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            816,
+            215,
+            829
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "In addition to disturbing the primary structure of DNA, damaging agents induce a complex, prolonged and variable response in pro- and eukaryote cells. ",
+        "bbox": [
+            90,
+            849,
+            482,
+            895
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "The resulting concerted action of protective mechanisms provides the cell with ways to survive damage (repair, tolerance, cycle delay), or to die via a regulated apoptosis. The acceptable level of residual DNA damage consistent with survival may require the induction of mechanisms which, while permitting DNA metabolism to proceed, introduce mutations and reduce genetic integrity. The precise balance of these concerted actions and their outcomes may differ radically from one cell type to another and among different organisms. Because of their importance (to the survival of the organism) we might expect the integration of the concerted actions as well as the particular actions themselves to be the subjects of intense natural selection. ",
+        "bbox": [
+            522,
+            129,
+            913,
+            367
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "It is, therefore, not surprising to learn that checkpoint genes in both fission and budding yeast may also be involved in DNA metabolism or repair functions. Experiments reported by Lydall (Tucson) on cdc13 mutants of S. cerevisiae, which spontaneously generate telomeric DNA damage, show that the RAD9-dependent G2 checkpoint is induced by action of the Rad17 exonuclease (another checkpoint protein) on this substrate. rad9 mutations suppress the activity of Radl7, the checkpoint-inducing signal is not produced and cells progress to mitosis where they die of accumulated DNA damage. Interestingly. the existence in S. cerevisiae of a RAD9 controlled network analogous to the $E .$ coli SOS system has been reported by Lowndes (ICRF, South Mimms, and Paris). Indeed, RAD9 is required not only for the activation of the G1, S and G2 checkpoints in the cell cycle but also for the transcriptional response to DNA damage. Dun1, a transducer of DNA damage transcriptional response of RNR1, RNR2 and RNR3 genes is part of this RAD9 control. It is important to note that even after functional substitution of checkpoints, the rad9 mutant remains UV-sensitive indicating that a further role of $R A D 9$ (such as transcriptional activation) plays a major role in the response to UV. ",
+        "bbox": [
+            522,
+            369,
+            913,
+            783
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Further progress in understanding the nature of the DNA structure checkpoints was discussed by Carr (MRC, Brighton). In fission yeast the checkpoint depends on six genes (radl, rad3, rad9, rad7, rad26 and hus1) which collectively sense DNA alterations or replication arrest. Several of the checkpoint genes bear structural homologies either to replication proteins (Rad17 with RFC). to PI 3-kinase like proteins (Rad3), or to protein kinases (Chk1 /Rad27). The similarity of the rad3 mutant phenotype to that of the human disease, ataxiatelangiectasia (A-T), and the homology between the Rad3 and ATM gene products. emphasizes the central role of PI3-kinase like proteins in establishing the damage response of eukaryotic cells. Clearly checkpoints can be subverted by changing the phosphorylation status of key checkpoint sensing proteins, which is the reason for the intense interest in the development and analysis of specific protein kinase inhibitors discussed by Abbondandolo (Genoa). ",
+        "bbox": [
+            522,
+            787,
+            913,
+            895
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            92,
+            128,
+            477,
+            349
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Defective S-phase responses of A-T cells to DNA damage were reported by Dixon (Cincinnati) and Paterson (Edmonton). The Dixon group first described the UV-induced hyperphosphorylation of the p34 subunit of the RPA replication protein. a credible substrate for the DNA-PK enzyme. and reported that in A-T cells, which fail to arrest DNA synthesis after damage. RPA is not hyperphosphorylated. These findings suggest that both the ATM gene product and DNA-PK operate in the signalling pathway that identifies DNA damage or structural abnormalities in S-phase nuclei. Work by the Paterson group emphasized the importance of the calcium/calmodulin-dependent kinase II pathway in signalling thc radiation-induced delay in the S-phase of normal cells, and also that this pathway is defective in A-T cells. Interestingly, while the relative positions of the calmodulin kinase Il and ATM elements of the signalling pathway are uncertain, only the S-phase checkpoint requires the participation of calmodulin kinase II. ",
+        "bbox": [
+            92,
+            353,
+            477,
+            685
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Cloning the gene defective in A-T. a tour de force, was described by Shiloh (Tel Aviv). The structure of the ATM gene is one of considerable complexity; it has two promoters, one bidirectional, as well as two active internal promoters. ATM transcripts show multiple alternative ${ \\mathsf { J } } ^ { \\prime } { \\mathsf { U T R s } }$ and alternative polyadenylation signals which give rise to $3 ^ { \\prime }$ UTRs of variable lengths. The possibility of many different $5 ^ { \\prime }$ -transcripts of the ATM gene suggests that a rapid, subtle and sensitive translational regulation of the proteins may be possible in response to a variety of cell stress conditions. resulting in the precise modulation of ATM catalytic activity in association with different substrates. The search is now on for ATM-interacting proteins, and there is a strong suspicion that mild ATM mutations may be responsible for other (? cancer-prone) phenotypes distinct from A-T. ",
+        "bbox": [
+            92,
+            689,
+            477,
+            892
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            128,
+            904,
+            205
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "8.2. DNA damage and replication ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            234,
+            766,
+            248
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "The S-phase checkpoint ensures that DNA synthesis rapidly terminates and is not completed for many hours. Experiments reported by Orren ct al. (Baltimore) on UV6I and UV5 Chinese hamster cell mutants and also wild-type cells showed that following UV-irradiation of S-phase cells. DNA synthesis is eventually completed, presumably by a translesion mechanism, but that (6-4) photoproducts presented a greater problem for replication than CPDs. For human cells. Squires et al. (Cambridge) reported that CPDs induced in active replicons caused rapid stalling of ongoing replication forks. Stalling was overcome over a period of several hours in repaircompetent cells. but in XP-A cells most of the stalled forks were converted to frank double-strand breaks. The kinetics of recovery from stalling were found to be related to the operation of a replication-coupled repair pathway operating two- to threefold faster than global repair. This pathway is defective in CS and is normal in XP-C cells. These data suggest that. as with RNA polymerase II stalling at CPDs. the arrest of DNA polymerases at these lesions signals the rapid recruitment of the NER machinery. ",
+        "bbox": [
+            520,
+            273,
+            904,
+            637
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "In contrast to the promotion of error-free replication by facilitated repair. there was new genetic and biochemical evidence for the operation of error-prone translesion mechanisms in bacteria and S. cereriside. Livneh (Rehovot) reported the in vitro reconstruction of an error-prone NER mechanism in $E$ coli. operating on templates damaged on both strands. The key mutagenic component in this translesion synthesis reaction is DNA polymerase III core enzyme. Lawrence (Rochester) has discovered a new mutagenic DNA polymerase in yeast. DNA polymerase $\\zeta$ , presumably operating via a translesion mechanism. Polymerase $\\zeta$ turns out to be a complex formed by the Rev3 and Rev7 gene products. The new enzyme has DNA polymerase activity in vitro. and is able to replicate past a thymine-thymine cis-syn cyclobutane dimer (a lesion that normally severely inhibits replication), with an efficiency of around $1 0 \\%$ . far greater than other polymerases. The likelihood that translesion synthesis has a genetic basis in all eukaryotes is strengthened by the finding of $R E V . ^ { 3 } / R E V 7$ homologues in man, while Pastink (Leiden) reported the identification of a Drosophila gene ( mus205) which bears considerable homology to REV3. ",
+        "bbox": [
+            520,
+            640,
+            904,
+            892
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            128,
+            475,
+            269
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "8.3. Damage-inducible genes ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            298,
+            305,
+            313
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "A number of groups provided new insights into the nature of proteins induced by DNA damage. Kaina's group (Mainz) investigated whether the damage inducible proto-oncogene c-fos is involved in protecting cells from the genotoxic effects of UV radiation. Mouse fibroblasts deficient in $c ^ { * }$ -fos were hypersensitive to UV-induced lethality. clastogenicity, and recovery from the arrest of DNA replication. In contrast. c-fos deficient cells are as efficient as the wild-type in DNA repair synthesis for doses below $3 0 ~ \\mathrm { J m } ~ \\overset { \\cdot } { ^ { 3 } }$ . They suggested that the hypersensitive phenotype of $\\dot { \\ell }$ -Fos-deficient cells is primarily a consequence of impaired S-phase checkpoint control after UV treatment. ",
+        "bbox": [
+            92,
+            335,
+            475,
+            558
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The ability of three alkylpurines to inhibit the activity of specific protein kinases was examined by Abbondandolo's group (Genoa). The compounds chosen do not damage DNA but affect early and late events of the cell cycle in rodent cells. The results indicate that S6 ribosomal protein phosphorylation by the $7 0  { ~ \\mathrm { k D a } ~ }  { \\mathrm { S 6 } }$ kinase and MAP kinase phosphorylation which plays a role in DNA synthesis and mitosis are steps of independent pathways. Moreover. the major components of the cytoskeleton (actin. $\\beta$ -tubulin and vimentin) were all affected by 6-dimethylamino purine while only the $\\beta$ tubulin was altered by the $\\mathrm { O ^ { 6 } }$ -methyl and ${ { \\mathrm { O } } ^ { 6 } } .$ ethyl guanine. It is clear that non-DNA targets are involved in the effects of these compounds on early cell-cycle events and induction of chromosome loss. ",
+        "bbox": [
+            90,
+            559,
+            475,
+            813
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The same group is involved in another project aiming at the isolation of CHO cells expressing DNA damage inducible genes (Menichini et al.). A gene-trapping strategy based on the use of a promoterless lacZ gene in transfection experiments has been applied to cells treated with UV and $\\gamma$ rays. Clones expressing at least tenfold induction of $\\beta$ . galactosidase were sorted by FACS-FDG analysis. One promising clone indicating a possible role of a growth factor or its receptor in the UV-response, has been selected and characterised. ",
+        "bbox": [
+            90,
+            816,
+            475,
+            894
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            128,
+            905,
+            222
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "8.4. P53 ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            251,
+            580,
+            264
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "The loss of p53-dependent suppressor function appears to be a frequent and critical step in the progression of many types of tumours. Several groups reported on the theme of how p53 dysfunction can affect genomic instability. The studies of Verhaegh and Hainaut (Lyon) stressed the remarkable conformational flexibility of p53. Human breast tumour cells, expressing wild-type p53 accumulated p53 in a form immunologically identical to 'mutant' p53 upon treatment with the zinc chelating agent TPEN. Further studies showed that p53 could also be modulated by redox conditions. Clearly changes in such environmental conditions could contribute to apparent dysfunction of p53, although the cellular consequences of 'mutant-like' changes in p53 protein conformation, such as loss of checkpoint integrity, have yet to be proven. ",
+        "bbox": [
+            518,
+            287,
+            905,
+            559
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Preservation of genome integrity relies upon the efficient coordination of damage signalling and repair pathways during replication on damaged templates. Johnson et al. (Cambridge, Cardiff and Smithville) have highlighted a potential role for p53 in controlling the course of events following the stalling of replication forks at CPDs. Not only does loss of wild-type p53 function correlate with significant reduction of excision repair ability of CPDs and (6-4) photoproducts but tumour or SV40 transformed cells can generate frank double-strand breaks at stalled forks. The presence of wild-type p53 reduces the extent of break generation in stalled forks, providing a possible role for maintaining genome stability. ",
+        "bbox": [
+            518,
+            562,
+            905,
+            800
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Chin and Smith (Cardiff) presented studies on the comparative cell-cycle effects of DNA damaging and non-damaging inhibitors of DNA topoisomerase II. p53 was not required for the arrest of cells at a catenation-sensitive G2 checkpoint although the presence of wild-type p53, stabilized in response to topoisomerase inhibition rather than DNA damage, permitted the efficient expression of apoptosis. The studies also revealed the triggering of apoptosis in early S-phase as a consequence of topoisomerase dysfunction, suggesting a role for this enzyme in allowing normal replicon dynamics. ",
+        "bbox": [
+            517,
+            801,
+            905,
+            895
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            126,
+            473,
+            220
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Although p53 has a central role in both promoting apoptosis and cell-cycle checkpoint arrest, the studies of Rosselli et al. (Paris) suggested that the radiosensitivity of A-T cells, accompanied by a reduced or delayed p53 response, is not related to increased apoptosis. Furthermore, Fanconi anemia (FA) cells show an impairment of p53 stabilization after exposure to MMC, a chemical agent for which FA cells demonstrate a specific cellular and chromosomal hypersensitivity. It appears that sensitivity to genotoxic agents and drugs which disrupt dynamic changes in chromatin conformation, can be affected both by p53 function and dysfunction. The session highlighted the need to understand the integrating role of important molecules such as p53 in permitting the processes of cycle arrest and cell death to be interfaced with lesion and stress-handling pathways. ",
+        "bbox": [
+            83,
+            223,
+            473,
+            494
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "9 Mutagenesis ",
+        "text_level": 1,
+        "bbox": [
+            83,
+            538,
+            200,
+            552
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Whilst most contributors confined their attention to a particular repair system, Devoret et al. (Gif) proposed a global model for bacteria integrating NER, homologous recombination repair and mutagenic SOS repair. These are proposed to operate as a cascade in time after exposure to an agent such as UV. An important feature of this model is that stoichiometric considerations suggested that the $\\mathrm { U m u D } _ { \\geq } ^ { \\prime } \\mathbf { C }$ complex is envisaged as binding to a lesion at the end of the filament of RecA protein which has formed around a post-replication gap. This then acts as an inhibitor of recombination and switches repair into the mutagenic SOS mode. ",
+        "bbox": [
+            84,
+            575,
+            473,
+            781
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Devoret's model had no room for mutations arising at a low level during NER although Retel et al. (Amsterdam) addressed this. This question remains controversial although Retel et al. argued that it was implicit in their observation that $\\mathbf { G } : \\mathbf { C }$ to $\\mathbf { C } : \\mathbf { G }$ transversions were found when plasmids containing lacZ (or lacl) genes were exposed to gamma radiation either intracellularly or after transfection in NER-proficient but not in NER-deficient bacteria. ",
+        "bbox": [
+            84,
+            784,
+            473,
+            892
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            126,
+            904,
+            157
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "9.1. Mutation spectra ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            186,
+            674,
+            199
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Differences in mutational spectra were observed between NER-proficient and NER-deficient cells with a variety of different systems, e.g., bacteria treated with chloroethyl-cyclohexyl-nitroso-urea (Iannone et al., Genoa and Cordoba), XP-D, TTD and wild-type human cells with UV-treated shuttle vectors (Stary et al., Villejuif), or with shuttle vectors containing 8- oxoguanine (Le Page et al., Villejuif IIIC13), UVBand UVA-treated ERCC1-deficient CHO cells (Sage et al., Paris and Montreal), p53 mutations in skin tumours from XP and normal subjects (DayaGrosjean et al., Villejuif). Interestingly, in all these systems, DNA repair deficiencies (XP cells or skin tumours, or CHO cells) were associated with a high level of CC to TT tandem mutations considered as a specific signature of UV-damage. ",
+        "bbox": [
+            515,
+            223,
+            905,
+            477
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Interestingly the spectrum of mutations in an UV-irradiated shuttle vector transfected into TTD cells was closer to that seen following transfection into normal than into XP cells (Stary et al.). The unexplained difference between XP and TTD cells in susceptibility to sunlight-induced skin cancer is of fundamental interest and is usually interpreted in terms of the different nature of the genetic deficiencies causing differences in transcription, in turn possibly affecting immune surveillance (see Section 4). These results, however, suggest that there may be subtle differences between XP. and TTD cells in repair at different lesions or sites. Indeed, the 8-oxoguanine containing plasmid exhibited a higher mutation frequency in the TTD cell line as compared to normal or XP-C cells (Le Page et al.). Whether these differences are of relevance to skin cancer remains to be determined. ",
+        "bbox": [
+            517,
+            480,
+            905,
+            765
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "Pascucci and Dogliotti (Rome) have applied the difficult technique of RFLP/PCR mutation assay to human mitochondrial DNA. The spontaneous mutation frequency was $1 0 ^ { - 5 } – 1 0 ^ { - 6 }$ .Whereas spontaneous mutations were highly specific for certain bases, UV-induced mutations were mostly $\\mathbf { C }$ to $\\mathbf { T }$ as expected and were tenfold above the spontaneous level. ",
+        "bbox": [
+            517,
+            767,
+            905,
+            891
+        ],
+        "page_idx": 23
+    },
+    {
+        "type": "text",
+        "text": "The availability of transgenic mouse models with integrated bacterial target genes has enabled experiments to be carried out that attempt to relate DNA lesions to carcinogenesis in the whole animal. Mientjes et al. (Zeist and Leiden) used lacZ mice and followed alkylated DNA and mutations in various organs after treatment with EMS, ENU and $N , N .$ -diethylnitrosamine. The results were complex and varied from organ to organ. For example, $\\mathbf { O } ^ { 6 }$ ethylations were removed in liver and bone marrow by 3 days, but whereas in bone marrow the mutation frequency peaked at 3 days, in liver it continued to increase up to 28 days. Explanations based on different alkylation products make some sense, for example in bone marrow $41 \\%$ of mutations were $\\mathbf { G } : \\mathbf { C }$ to $\\mathsf { A } : \\mathsf { T }$ transitions, possibly attributable to $0 ^ { 6 }$ guanine alkylations; in liver only $19 \\%$ were $\\mathbf { G } : \\mathbb { C }$ to $\\mathbf { A } : \\mathbf { T }$ and the influence of $0 ^ { 2 }$ -thymine alkylations was postulated. ",
+        "bbox": [
+            90,
+            130,
+            481,
+            417
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "'Adaptive mutations' in bacteria are still an unknown process found in non-growing bacteria. Bridges (MRC, Brighton) showed that spontaneous mutations in non-growing bacteria were highly elevated in mutY /mutM double mutants (more than 100 times as compared to wild-type cells). The hypothesis, partly correlated with the types of mutations, is that 8-oxo-guanine was produced as a spontaneous lesion giving rise to mutated messenger RNA and to modified enzymes allowing DNA replication to start and to fix the 'adaptive' mutations. The same DNA lesion (8-oxoguanine) has been studied in Blanco's laboratory (Valencia) in oxyR bacteria. These bacteria are sensitive to oxidative stress which gives rise to two types of mutations. One class is SOS-dependent and is believed to be generated from abasic sites (mostly T : A to $\\mathbf { A } : \\mathbf { T }$ and $\\mathbf { G } : \\mathbf { C }$ to $\\mathbf { A } : \\mathrm { T } )$ and the other is SOS-independent but mutM / mutYdependent (G: C to $\\mathrm { T } \\colon \\mathrm { A } )$ , and believed to be induced by unrepaired 8-oxoguanine. ",
+        "bbox": [
+            90,
+            419,
+            481,
+            738
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "9.2. Mechanisms of formation of chromosome aberrations ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            755,
+            432,
+            784
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "A novel system for testing mutagenicity in plants was described by Angelis et al. (Prague). Cotyledons of germinating tobacco seeds express somatic mutation by displaying coloured spots, allowing the quantification of a mutagenic response to MNU and MMS, as well as to MNNG which previously has been reported to be non-mutagenic in plants. Genetic modification of DNA repair pathways was envisaged as a means to further increase the sensitivity of the system. ",
+        "bbox": [
+            92,
+            804,
+            481,
+            896
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            130,
+            913,
+            193
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "Howard et al. (Cambridge and Berlin) reported that SV40 transformation of Indian muntjac cells results in chronic genomic instability and hypersensitivity to UV and DMS. Using alternating-field gel electrophoresis, it was demonstrated that DNA double-strand breaks appeared at the replication fork $1 2 { - } 1 6 \\ \\mathrm { h }$ after UV-irradiation in these cells, suggesting that they may be unable to accomplish competent replication of damaged DNA. In contrast, primary or spontaneously transformed cells did not show genomic instability, UV-hypersensitivity or late appearance of DNA double-strand breaks. ",
+        "bbox": [
+            522,
+            194,
+            913,
+            384
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "In a study of the mutagenic and genotoxic effects of theophylline in Chinese hamster V79 cells, Slamenova et al. (Bratislava) reported a dose-dependent increase of chromosome aberrations and DNA single-strand breaks, but no increase of HPRT gene mutation. Cells cultured in low concentration $( < 0 . 3$ $\\mathrm { m g / m l } )$ of theophylline showed reduced rate of DNA replication and delayed rejoining of MNNGinduced DNA strand breaks, suggesting an inhibitory effect of theophylline on DNA replication and repair. The report of Darroudi et al. (Leiden) focused on the mechanisms by which ionizing radiation induces chromosome aberrations in human peripheral blood lymphocytes. Although DNA double-strand breaks have long been considered to be responsible for the induction of radiation induced chromosomal aberrations, the multiple steps likely to be involved are not known. Using conventional Giemsa banding as well as FISH and PCC technology, Darroudi et al. explored the modulating effects of DNA repair inhibitors on the frequency of radiation-induced dicentric and translocation chromosomes in human lymphocytes. Ara-A was found to increase the frequency of both dicentrics and translocations, whereas only dicentrics increased after treatment with 3-aminobenzamide and ara-C. The kinetics of formation of translocations after irradiation were found to be different from those of dicentric chromosomes. While DNA double-strand breaks was found to be the major lesion involved in translocation induction, dicentric chromosomes seem to be induced by other lesions as well. These results suggest that the two types of aberrations may be formed by partly different mechanisms. ",
+        "bbox": [
+            522,
+            384,
+            913,
+            898
+        ],
+        "page_idx": 24
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            126,
+            497,
+            157
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Matteucci et al. (Viterbo) reported on the effect of caffeine, camptothecin (CPT) and etoposide (VP16) on the frequency of chromosomal aberrations induced by X-irradiation in the G2-phase in normal and FA lymphoblasts. FA cells of complementation group B, but not FA cell of groups A and C, showed increased sensitivity to caffeine. In contrast, FA-C cells were found to be less sensitive to camptothecin than normal cells. ",
+        "bbox": [
+            110,
+            158,
+            499,
+            301
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "In a study of the adaptive response to X-irradiation in human lymphocytes, using the frequency of micronuclei to indicate adaptation, Wojewodzka and Szumiel (Warsaw) found that three of four donors showed adaptive response. No relationship was found between the presence of an adaptive response and ",
+        "bbox": [
+            110,
+            304,
+            499,
+            398
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "DNA repair activity, measured by the 'comet' assay. However, inhibitors of cellular signal transduction such as staurosporine, TMB-8 and anti-CD38ab, were found to prevent the adaptive response, but did not affect the rate of DNA repair. These results were taken to support the hypothesis that adaptation may depend on mechanisms involved in the control of cell-cycle progression. ",
+        "bbox": [
+            540,
+            128,
+            931,
+            253
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            540,
+            298,
+            690,
+            313
+        ],
+        "page_idx": 25
+    },
+    {
+        "type": "text",
+        "text": "The main funding for the meeting was the EU Concerted Action on DNA repair and Cancer (contract No. BMH1-CT93 1510). In addition the meeting was sponsored by the Dutch Cancer Society. ",
+        "bbox": [
+            540,
+            335,
+            929,
+            398
+        ],
+        "page_idx": 25
+    }
+]

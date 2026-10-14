@@ -1,0 +1,629 @@
+[
+    {
+        "type": "text",
+        "text": "Cloning and expression of the Xenopus and mouse Msh2 DNA mismatch repair genes ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            100,
+            903,
+            153
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Isabelle Varlet+\\*, Caroline Pallard, Miroslav Radman, Jacques Moreau and Niels de Winds Laboratoire de Mutagenèse, CNRS, Institut Jacques Monod, Tour 43, 2 Place Jussieu, 75251 Paris cédex 05, France ",
+        "bbox": [
+            75,
+            175,
+            898,
+            227
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received July 27, 1994; Revised and Accepted November 14, 1994 ",
+        "bbox": [
+            75,
+            256,
+            551,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EMBL accession nos: L26599 and X81143 ",
+        "bbox": [
+            612,
+            256,
+            913,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            312,
+            162,
+            326
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacterial MutS protein and its yeast and human homologs MSH2 trigger the mismatch repair process by their initial binding to mispaired and unpaired bases in DNA. We describe the cloning and sequencing of genes from Xenopus laevis and Mus musculus encoding the homolog of the Saccharomyces cerevisiae MSH2 (the major DNA mismatch binding protein). Mutations in the human homolog of this gene have recently been implicated in microsatellite instability and DNA mismatch repair deficiency in tumour cells from patients with the most common hereditary predisposition to cancer (Lynch syndrome, or hereditary non-polyposis colorectal cancer, HNPCC), as well as in a significant percentage of sporadic tumours. Expression of the amphibian and murine Msh2 gene in different tissues appears to be ubiquitous. The Xenopus gene is highly expressed in eggs, a model system for the biochemistry of DNA mismatch repair. Expression of the murine gene is low in all tissues examined, and is relatively high in a rapidly dividing cell line. These data are suggestive of a role for MSH2 during DNA replication. ",
+        "bbox": [
+            75,
+            332,
+            480,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            649,
+            199,
+            664
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Long Patch Mismatch Repair (LPMR) controls in bacteria all aspects of genetic stability because it acts as an editing system for DNA replication and recombination (1). This system is capable of recognizing mismatched base pairs and of removing them, together with a stretch of up to several kilobases of singlestranded DNA next to the mismatch (2). LPMR has been studied most extensively in the prokaryotes Streptococcus pneumoniae (the Hex system) and Escherichia coli and the related species Salmonella typhimurium (the MutHLS system). Biochemical studies show that MutS recognizes and binds the mismatch, whereas the MutL protein subsequently binds to the MutS -DNA complex, triggering excision of the DNA strand containing the mutant base (for a review see 2). Several in vitro systems have been employed to study the biochemistry of mismatch repair in higher eukaryotes. Repair activities resembling E.coli LPMR in terms of mismatch specificity and long-patch excision and resynthesis were found in extracts of Xenopus laevis eggs (3, 4), Drosophila melanogaster (5) and human cell lines (5, 6). Some other mut homologs were isolated from eukaryotic organisms: in S.cerevisiae two homologs of the LPMR MutL protein, PMS1 (7, 8) and MLH1 (9) and, in addition, three homologs of the mutS gene were described, MSH (for MutS Homolog) 1 and 2 (10) and MSH3 (11, 12). A yeast msh2 mutant strain has a strongly increased spontaneous mutation rate of chromosomal DNA (13) and displays instability of simple repeat sequences (14). This strain lacks the major mismatch-binding activity (15), suggesting that cells depend on the MSH2-dependent mismatch repair pathway to correct misincorporation and template slippage errors during chromosomal DNA replication. Furthermore, both PMS1 and MLH1 genes have been shown to share the same MSH2-dependent pathway in yeast (14). Three homologs of these two genes, hPMS1 , hPMS2 and hMLH1 , have been identified in man (16 18). The human homologous hMSH2 protein has been demonstrated to bind directly to mismatches (19). The MSH1 pathway seems to function specifically in the repair of mismatches in mitochondrial DNA (13), whereas the MSH3 pathway is hypothesized to be involved in the processing of recombination intermediates between homologous but nonidentical (homeologous) DNA molecules (11). In Schizosaccharomyces pombe, the MSH3-like gene swi4 was found to be involved in control of the recombination process of mating type switching (20). In mouse and human cells, another MSH3 homolog (Rep-3 and DUG-1, respectively) was found upstream of the dihydrofolate reductase gene (21, 22). In yeast, finally, a distant mutS homolog, msh4, has been cloned (23). To better define the biochemical and genetical components of the amphibian model system for in vitro mismatch repair we have cloned a Msh2 homolog from Xenopus and determined its expression during various stages of development and in various tissues of the animal (24). ",
+        "bbox": [
+            77,
+            671,
+            480,
+            858
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            331,
+            919,
+            819
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Very recently, mutations in the human hMSH2, hMLH1 (for human mutL homolog), hPMS1 and hPMS2 genes were associated with the most prevalent tumour predisposition syndrome ",
+        "bbox": [
+            512,
+            819,
+            919,
+            858
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HNPCC, or Lynch syndrome (25, giving also a preliminary account of the mapping and cloning of the murine Msh2 homolog, 16, 18, 26). HNPCC patients predominantly develop tumours of the proximal colon (27). These tumours are characterized by an instability of simple repeat sequences (the replication error+ $[ \\tt R E R ^ { + } ]$ phenotype $( 2 8 - 3 0 )$ and cell lines derived from tumours show a virtual absence of mismatch repair (31). In addition, a $\\mathbf { R } \\mathbf { R } \\mathbf { R } ^ { + }$ phenotype has now been found in a significant number of sporadic tumours as well (e.g. 30, 32, 33). We also describe here the cloning and sequencing of the complete murine Msh2 homolog. Its expression was determined in a panel of mouse tissues to investigate a correlation between the apparent tissue specificity of the HNPCC phenotype and expression of the MSH2 gene. We found expression of the mouse gene in most tissues examined, suggesting that the tissue specificity of the HNPCC phenotype is not likely to be due to a unique requirement for the MSH2 protein in the colon, unless the pattern of human MSH2 expression is different from murine. We discuss other possible causes for the tissue specificity of the HNPCC syndrome. ",
+        "bbox": [
+            90,
+            97,
+            495,
+            355
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Screening of cDNA libraries ",
+        "text_level": 1,
+        "bbox": [
+            528,
+            97,
+            725,
+            111
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For their use as probes, cloned PCR fragments were excised with BamHI, and isolated by $1 . 8 \\%$ agarose gel electrophoresis followed by DEAE membrane or glass bead purification. Subsequently, purified fragments were polymerized by ligation to enable labelling to high specific activity by random priming ('Prime-a-Gene', Promega). Approximately $\\mathsf { \\bar { 2 } } \\times 1 0 ^ { 5 }$ plaques of a Xenopus stage VI oocyte library, cloned into λgt10, and $1 0 ^ { 6 }$ plaques of a mouse thymus cDNA library, cloned in lambda ZAP (Stratagene), were lifted onto nitrocellulose (Schleicher & Schuell) or Genescreen membranes (Dupont), and hybridized with labelled probe fragments as described (34). Filters were washed up to $1 \\times { \\bf S S C }$ , ${ \\mathfrak {6 5 } } ^ { \\circ } \\mathbf { C }$ Screening was repeated on agarose plugs containing positive plaques until pure plaques were obtained. DNA from plaque-purified phages of the Xenopus cDNA library was purified as described (34) and inserts were subcloned in pBluescript plasmids (Stratagene). Inserts from plaque-purified phages of the mouse thymus lambda Zap cDNA library were excised in vivo as recommended by the manufacturer (Stratagene). ",
+        "bbox": [
+            527,
+            113,
+            930,
+            371
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            382,
+            308,
+            395
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PCR amplification of Msh2 homologs from Xenopus and mouse ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            400,
+            493,
+            427
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "PCR amplifications were performed on purified DNA from amplified cDNA libraries from Xenopus stage VI oocytes (a gift from Dr D.Melton) and from mouse fibroblast (Stratagene). For every amplification reaction, $1 0 0 \\ \\mathfrak { n } \\mathfrak { g }$ template was used. Sequences of guessmer primers and inosine-containing primers used for amplification were as follows (see Figure 2 for the positions of the primers): ",
+        "bbox": [
+            88,
+            431,
+            493,
+            525
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(1) ${ \\pmb 5 } ^ { \\prime }$ -CTGGATCCACIGGICCIAA(C/T)ATG-3';   \n(2) 5'-C(A/G)TA(A/G)TGIGTI(A/G)C(A/G)AA: ${ \\mathfrak { z } } ^ { \\prime }$ ;   \n(3) ${ \\pmb 5 } ^ { \\prime } .$ CTGGATCCAC(A/G/C/T)GG(A/G/C/T)CC(A/G/C/T)AA(C/T)ATG-3';   \n(4) ${ \\pmb 5 } ^ { \\prime }$ -CTGGATCC(A/G)TA(A/G)TG(A/G/C/T)GT(A/G/C/T)(A/G)C(A/G)- AA ${ \\mathfrak { z } } ^ { \\prime }$ ;   \n(5) ${ \\pmb 5 } ^ { \\prime }$ -CTGGATCCCC(A/G/C)A(A/G)(C/T)TC(G/A)TC-3'; ",
+        "bbox": [
+            88,
+            533,
+            493,
+            600
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These sequences are directed to back-translated peptidic stretches, conserved in all mutS homologs (see Figure 1), and are essentially as described (10, primers 1-4). Primers 1 and 3, and 2 and 4 are directed to the same sequences. Since agarose gels of amplifications using the mouse cDNA library as template displayed a flurry of bands using these primers, we performed nested PCR amplifications to improve specificity. To this purpose we devised primer 5, directed against an additional conserved region, internal to the first set of primers (Figure 1). Conditions of PCR reactions were as follows: $1 0 ~ \\mathrm { m M }$ Tris-HCI, $\\mathsf { p H } 8 . 3$ (at $2 5 ^ { \\circ } \\mathbf { C } )$ , 50 mM KCl, 1.5 mM $\\mathbf { M g C l } _ { 2 }$ , $1 . 2 5 ~ \\mathrm { m M }$ of all four dNTPs, $0 . 1 \\%$ Triton X-100, 200 pmol of each primer and 2.5 U Taq DNA polymerase. The final reaction volume was ${ 5 0 \\mu \\mathrm { l } }$ . Reactions consisted of 5 cycles of: (a) $0 . 5 \\mathrm { \\ m i n }$ at ${ \\mathfrak { s } } 4 ^ { \\circ } \\mathbf { C }$ (denaturation), (b) 2 min at $3 7 ^ { \\circ } \\mathbf { C }$ (annealing), (c) 1 min at ${ 7 2 ^ { \\circ } \\mathbf C }$ (elongation); followed by 30 cycles of (a) $0 . 5 \\mathrm { \\ m i n }$ at ${ \\bf 9 4 ^ { \\circ } C }$ (denaturation), (b) 2 min at ${ \\bf 4 5 ^ { \\circ } C }$ (annealing), (c) 1 min at ${ \\bf 7 2 ^ { \\circ } C }$ (elongation). For nested PCR, $\\mathbf { 0 . 5 \\ \\mu d }$ of the first reaction was diluted in ${ \\mathfrak { s o } } _ { \\mu \\mathrm { l } }$ fresh reaction mixture. Reaction products were cleaved with BamHI to expose cohesive overhangs, separated on $1 . 8 \\%$ agarose gels, purified on DEAE membranes (Schleicher & Schuell) or using glass beads (\"Geneclean', Bio 101) and cloned in $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ or pBluescript (Stratagene) vectors. Clones of interest were analysed by direct sequencing, as described below. ",
+        "bbox": [
+            88,
+            604,
+            493,
+            923
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA sequencing ",
+        "text_level": 1,
+        "bbox": [
+            527,
+            382,
+            643,
+            395
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Xmsh2 gene from Xenopus was sheared by sonication (35); random fragments of the gene were subcloned and sequenced as double-stranded DNA using universal primers, with the United States Biochemical Sequenase kit, as described by the manufacturer. The mouse Mmsh2 gene was subcloned, in two orientations, in pBluescript $\\mathbf { K S } ( + )$ and $\\mathbf { S K } ( + )$ and subjected to nested deletion mutagenesis using exonuclease ⅢI and S1 nuclease (36). Single-stranded DNA from clones containing deletions of appropriate sizes was isolated after super-infection with the M13K07 helper phage (34) and sequenced using the T7 promoter primer and the Sequenase kit. When single-stranded DNA could not be obtained, the clone was sequenced as double-stranded DNA. Sequence data were analysed using the GCG package (37), with the Staden program (38) or with the PC/gene package (Intelligenetics). Clustering alignments were generated using the CLUSTAL program (39). The Xenopus and mouse cDNA sequences have been submitted to GenBank and assigned accession number L26599 and X81143 respectively. ",
+        "bbox": [
+            525,
+            399,
+            930,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef0e4208f7b0287a90e931d07cbd1e8a10c545e84fa7c500abd26b1aaf54c58b.jpg",
+        "image_caption": [
+            "Figure 1. Comparison of the deduced amino acid sequences from all MSH2 homologs known today. Abbreviations are as follows: ScMSH2: peptidic sequence of MSH2 from S.cerevisiae (10); XMSH2: MSH2 from X.laevis; MMSH2: mouse MSH2; HMSH2: human MSH2 (25, 26). ., . indicate identical amino acids and conservative substitutions respectively; - corresponds to a gap in the aligned sequence. Position of the primers used in the PCR reactions are shown with arrows. Conserved protein domains are in bold: NTP-binding motifs A-D and DNAbinding domain (helix —turn-helix) HTH. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            524,
+            464,
+            930,
+            812
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            88,
+            475,
+            304
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Northern (RNA) blotting ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            314,
+            245,
+            329
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { P o l y } ( \\mathbf { A } ) ^ { + }$ RNA from different developmental stages and various organs of Xenopus, and total RNA of a panel of mouse tissues were isolated and electrophoresed as described (34), blotted onto nylon membranes (Hybond-N, Amersham or Nytran, Schleicher and Schuell, and hybridized to Xenopus and mouse Msh2 probes, labelled by random priming, as described above (Prime-a-Gene kit). ",
+        "bbox": [
+            72,
+            332,
+            477,
+            426
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transcription and translation in vitro ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            437,
+            332,
+            450
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The complete open reading frame (ORF) of the Xenopus Xmsh2 gene was subcloned in pSP72 (Promega), as an EcoRV -PvuII fragment, transcribed in vitro using T7 RNA polymerase (Promega), and translated in reticulocyte lysates (Promega) in the presence of $[ ^ { 3 5 } \\mathbf { S } ]$ methionine (Amersham), as recommended by Promega. Synthesized proteins were separated by denaturing $S D S - 8 \\%$ polyacrylamide gel electrophoresis; gels were treated with salicylate buffer and exposed to autoradiography film (34). ",
+        "bbox": [
+            73,
+            454,
+            477,
+            562
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            587,
+            149,
+            600
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cloning and sequence analysis of mutS homologs ",
+        "text_level": 1,
+        "bbox": [
+            77,
+            605,
+            413,
+            619
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PCR amplification of the Msh gene fragments. We adopted a PCR-based approach using degenerate oligonucleotides to isolate Xenopus and mouse cDNA sequences corresponding to most conserved peptidic domains of known mutS homologs, as described by Reenan et al. in yeast (10). The size of the expected fragment between primers 1 or 3 and 2 or 4 is 366 bp. From Xenopus we obtained in this way a fragment with high homology to the yeast MSH2 gene. Since PCR reactions using primer pairs 1 and 2 or 3 and 4 with the mouse fibroblast cDNA library as template did not yield a single band, we performed a nested PCR reaction using primer pair 3 and 5. Here we found a predominant band of the expected size (266 bp). Sequence analysis of the cloned PCR fragments revealed non mutS-like sequences but also both the Rep-3 gene as well as a fragment of which the deduced protein sequence was $7 5 \\%$ identical to the yeast MSH2 protein and $91 \\%$ identical to the Xenopus MSH2 homolog (Figure 1). ",
+        "bbox": [
+            75,
+            622,
+            479,
+            837
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cloning and sequencing of the Msh2 sequences. The DNA fragments of interest were then used as probes to isolate full length clones comprising the entire Msh2 genes from Xenopus and mouse cDNA libraries, as described in Materials and Methods. In this report, we describe the characterization of the Msh2 homologs. Sequencing of the cDNA clones revealed an open reading frame of 2799 bp in Xenopus and 2805 bp in mouse (called Xmsh2 and Mmsh2 respectively). Figure 1 shows the deduced amino acid sequences of the Msh2 genes isolated from both organisms. ",
+        "bbox": [
+            75,
+            851,
+            479,
+            917
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            88,
+            914,
+            156
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Homology analysis of the putative encoded proteins. Comparison of the four known MSH2 peptidic sequences (Figure 1) shows that the highest conservation is localized in the C-terminal part of the protein which contains the now typical domains for the MSH family. These domains consist of the consensus sequences for the NTP-binding motifs (40), i.e. the two common motifs for the phosphate-binding loop (motif A) and for the $\\mathbf { M } \\mathbf { g } ^ { 2 + }$ -chelating site (motif B), to which are added two specific sites (C and D) typical for the recombination/repair protein family (41). A second conserved domain is the helix —turn —helix motif characteristic of a number of DNA-binding proteins (42). However, the strong global conservation within the MSH2 group enables one to distinguish classes of MSH genes (11), for each of which the homology extends to further domains probably corresponding to related functions. Such similarity suggests that the Xenopus and mouse Msh2 genes may be involved, as are their yeast and probably human homologs, in the repair of DNA replication errors (see also Discussion). ",
+        "bbox": [
+            508,
+            169,
+            914,
+            412
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Expression of the Msh2 genes ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            423,
+            717,
+            437
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In vitro transcription and translation of the Xenopus cDNA. To verify whether the nucleotide sequence obtained was able to encode a protein of the expected size, we used the Xmsh2 template of Xenopus in an in vitro transcription/translation assay. An autoradiogram of the protein synthetized is shown in Figure 2. The major translation product has a size of $1 0 4 \\mathrm { k D a }$ , as expected from the deduced protein sequence, starting from the first ATG codon. Shorter bands also present were probably the result of false translation initiation sites on the template. ",
+        "bbox": [
+            509,
+            441,
+            916,
+            562
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Northern (RNA) blot analysis. The expression of the Xmsh2 and Mmsh2 genes was examined in different tissues of the mature animals and during various Xenopus developmental stages. As shown in Figure 3A, the Xenopus probe detected a single transcript of ${ \\sim } 3 . 2 \\mathrm { k b }$ , corresponding to the expected size deduced from the nucleotide sequence. This transcript was expressed at high levels during oogenesis, in agreement with the accumulation of large quantities of mRNA at this developmental stage to ensure post-fertilization growth requirements—DNA replication and cell division (43). The ubiquitous Xmsh2 expression pattern suggests that the translated product could be continuously needed, but at a moderate level, in all replicating cells. Northern blot analysis of a mouse tissue RNA panel with the Mmsh2 probe reveals a similarly ubiquitous pattern of expression in mouse (Figure 3B), i.e. the presence of a low-abundance single transcript of $\\sim 3 . 2$ kb approximately equally expressed in all tissues tested, including colon, with the exception of ovary (relatively high expression) and of heart and skeletal muscle (relatively low expression). Expression of the mouse gene was, however, considerably higher in rapidly dividing cell line (Figure 3B), supporting a role of the gene product during replication. ",
+        "bbox": [
+            509,
+            576,
+            916,
+            603
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/15557d56bd79e1e43ccd405fc9f2a472c6805f68da91877bf1f47e34497721d0.jpg",
+        "image_caption": [
+            "Figure 2. Transcription and translation in vitro of the Xmsh2 cDNA sequence. Synthesized proteins were analysed on $8 \\%$ SDS-PAGE. As a control we expressed the $\\pmb { \\cal E } .$ coli mutS gene, provided with a Kozak sequence and a nuclear localization signal (NLS) (N.de Wind, unpublished). Protein molecular weight markers are indicated on the left. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            610,
+            632,
+            803,
+            832
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            93,
+            97,
+            498,
+            355
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            379,
+            192,
+            393
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cloning and sequence analysis of Msh2 homologs from Xenopus and mouse ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            396,
+            496,
+            423
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Using a PCR-based strategy based on homology between previously identified homologs of the E.coli mutS gene we obtained probes for cloning the Msh2 genes of Xenopus and mouse, using cDNA libraries of either organism as templates. These probes were subsequently used to clone cDNA of the entire Msh2 genes of both organisms. Expression of the Xmsh2 gene in vitro confirms that the gene is capable of encoding a protein with a putative molecular. weight of 104 kDa. A graphical representation of an alignment between all MutS homologs isolated to date clearly demonstrates clustering of MSH2 homologs in a discrete subgroup (Figure 4). ",
+        "bbox": [
+            91,
+            427,
+            496,
+            468
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            530,
+            97,
+            934,
+            206
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/a261ec160ef6b1366821268fcc068046943d005360fdf195e0eef49667c98f4b.jpg",
+        "image_caption": [
+            "Figure 3. Northern blot analysis of Xenopus (A) and mouse (B) transcripts at different developmental stages and in various tissues from the adult animals. (A) $4 - 5 \\mu 8$ of Xenopus poly $( \\mathbf { A } ) ^ { + }$ RNA were loaded in each lane. Positions of the transcripts hybridizing to the Xmsh2 probe $( 3 . 2 ~ \\mathrm { \\bf { k } } \\mathrm { \\bf { b } } )$ and to the $\\pmb { \\cal E } \\pmb { \\cal F } \\pmb { \\cal l } - \\pmb { \\cal \\alpha }$ control probe (1.6 kb) are indicated. The expression of the translation elongation factor $\\bar { \\pmb { E F I - \\alpha } }$ starts at the mid-blastula transition during development (50). (B) 1030 $\\pmb { \\mu 8 }$ of mouse total RNA were loaded, electrophoresed and blotted, and the blot was hybridized to the Mmsh2 cDNA probe. GAPDH: glyceraldehyde phosphate dehydrogenase in RNA as an internal control. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            91,
+            495,
+            483,
+            799
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Several biochemical and genetic data now corroborate the notion that this subgroup of mutS homologs recognizes mismatches that occur during replication: (i) extracts of a yeast msh2 mutant lack the major DNA mismatch binding activity (15), the mutant strain itself has a genomic mutator phenotype (13) and displays an instability of simple repeat sequences, indicative failure to correct slippage errors during replication ()i) by direct protein sequencing, the human MSH2 homolog has been found to be identical to the mismatch binding protein GTBP (19); (iii) germline mutation of the hMSH2 gene has been found in HNPCC patients (26, 44) and, in addition, extracts from a cell line from a HNPCC tumour have been shown to be deficient in repair of mismatches (including slipped CA repeats) in vitro (31). Although the deficient gene is not hMSH2 but hMLH1 in this cell line (18), recent data strongly suggest that homologs of these two genes share the same pathway of mismatch repair in yeast (9). ",
+        "bbox": [
+            530,
+            207,
+            934,
+            434
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Expression of Xmsh2 and Mmsh2 RNA ",
+        "text_level": 1,
+        "bbox": [
+            530,
+            445,
+            800,
+            459
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Northern (RNA) blot analysis shows expression of both the Xmsh2 and the Mmsh2 genes which is low in most tissues examined (Figure 3A and B). Notable exceptions to this were eggs and oocytes, where the Xmsh2 gene is relatively strongly expressed. Both contain all RNA required for the first 12 cell divisions after fertilization (43). The Mmsh2 gene has a relatively low expression in non-dividing muscular tissues and a relatively high expression in a rapidly dividing cell line. These data reinforce the notion that the gene product is required to correct replicational errors. However, assuming that the expression pattern of the hMSH2 gene is similar to that of the Mmsh2 gene and thus is expressed ubiquitously, the limited tissue spectrum of $\\mathbf { R } \\mathbf { R } ^ { + }$ tumours in HNPCC patients is surprising. Several explanations may be considered for this apparent tissue-specific role of MSH2 mutations in carcinogenesis in these patients. Firstly, the existence of additional MSH2 homologs and thus redundancy in DNA mismatch repair in many tissues might prevent the occurrence of a $\\mathbf { R E R ^ { + } }$ phenotype. Although this possibility cannot be excluded at this stage, we consider it unlikely, since in the colon this redundant repair mechanism would, by implication, not be functional, while cells in the lumen of the colon that are dividing relatively rapidly (and thus would depend more strongly on mismatch repair) would be devoid of such a mechanism. A tentative speculation on the tissue specificity of the $\\mathbf { R E R } ^ { + }$ phenotype is based on recent findings that mismatch repair-deficient cell lines are tolerant to the highly cytotoxic effects (reviewed in 45) of certain alkylating agents (46, 47). In the lumen of the colon, where alkylated bases (and possibly also other premutagenic lesions) may be common, mismatch repair-deficient cells may have both a growth advantage (due to loss of an S phase block; 46, 48) and a mutator phenotype (due to the mismatch repair deficiency; 46). Therefore, cells in the colon that have acquired a deficiency in mismatch repair will be prone to additional mutations that may give them further advantage in the multistep evolutionary pathway that ultimately leads to a fully malignant tumour. ",
+        "bbox": [
+            528,
+            463,
+            932,
+            530
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e8fef820822c23bfbe0709086463cd0151a74cd4c5fbe39914293163a19ed23.jpg",
+        "image_caption": [
+            "Figure 4. Dendogram showing clustering relationships between the different MSH proteins, generated with the PILEUP program $\\textcircled { 3 7 }$ Abbreviations are as follows: DUT-1: human DUT-1 (22), REP-3: mouse Rep-3 (21), SWI4: S.pombe SWI4 (20), MSH3: S.cerevisiae MSH3 (11, 12), HMSH2: human HMSH2 (25, 26), MMSH2: mouse MMSH2, XMSH2: Xenopus XMSH2, MSH2: S.cerevisiae MSH2 (10), MutS (Ec): E.coli MutS (51), MutS (St): S.typhimurium MutS (52), MutS (Av): Azotobacter vinelandii MutS (53), HexA: S.pneumoniae HexA (54), MSH1: S.cerevisiae MSH1 (10) and MSH4: S.cerevisiae MSH4 (23). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            627,
+            561,
+            826,
+            816
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            89,
+            479,
+            508
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relatively good prognosis of tumours in HNPCC patients (49) might be related to a reduced fitness of the mismatch repairdeficient tumour cells. We expect that further study of the biochemistry (in Xenopus egg lysates) and of the genetics (in mouse) of mismatch repair will shed new light on its role in the maintenance of the integrity of eukaryotic genomes, and in the development of cancer. ",
+        "bbox": [
+            73,
+            509,
+            479,
+            603
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            625,
+            255,
+            638
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by INSERM-CNAMTS grant no. 520013 (86-3-34-IE), by fellowships from the Ligue Nationale contre le Cancer (to I.V.) and from EMBO (long-term fellowship to N. de W.). ",
+        "bbox": [
+            73,
+            646,
+            479,
+            701
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            719,
+            181,
+            733
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Radman, M. and Wagner, R. (1993) Chromosoma 102, 369-373.   \n2. Modrich, P. (1991) Annu. Rev. Genet. 25, 229253.   \n3. Brooks, P., Dohet, C., Almouzni, G., Méchali, M. and Radman, M. (1989) Proc. Natl. Acad. Sci. USA 86, 44254429.   \n4. Varlet, I., Radman, M. and Brooks, P. (1990) Proc. Natl. Acad. Sci. USA 87, 78837887.   \n5. Holmes, J.J., Clark, S. and Modrich, P. (1990) Proc. Natl. Acad. Sci. USA 87, 58375841.   \n6. Thomas, D.C., Roberts, J.D. and Kunkel, T.A. (1991) J. Biol. Chem. 266, 37443751.   \n7. Williamson, M.S., Game, J.C. and Fogel, S. (1985) Genetics 110, 609-646.   \n8. Kramer, W., Kramer, B., Williamson, M.S. and Fogel, S. (1989) J. Bacteriol. 171, 53395346.   \n9. Prolla, T.A., Christie, D.M. and Liskay, R.M. (1994) Mol. Cell. Biol. 14, 407415.   \nI0. Reenan, R.A.G. and Kolodner, R.D. (1992) Genetics 132, 963-973.   \nNew, L., Liu, K. and Crouse, G.F. (1993) Mol. Gen. Genet. 239, 97108.   \n1Valle, G., Bergantino, E., Lanfranchi, G. and Carignani, G. (1991) Yeast 7, 981988.   \n13. Reenan, R.A.G. and Kolodner, R.D. (1992) Genetics 132, 975985.   \n1.Strand, M., Prolla, T.A., Liskay, R.M. and Petes, T.D. (1993) Nature 365, 274-276.   \n15. Miret, J.J., Milla, M.G. and Lahue, R.S. (1993) J. Biol. Chem. 268, 3507-3513.   \n16. Bronner, C.E., Baker, S.M., Morrison, P.T., Warren, G., Smith, L.G., Lescoe, M.K., Kane, M., Earabino, C., Lipford, J., Lindblom, A., Tannegard, P., Bollag, R.J., Godwin, A.R., Ward, D.C., Nordenskjold, M. Fishel, R., Kolodner, R. and Liskay, R.M. (1994) Nature 368, 258261.   \n17. Nicolaides, N.C., Papadopoulos, N., Liu, B., Wei, Y.F., Carter, K.C., Ruben, S.M., Rosen, C.A., Haseltine, W.A., Fleischmann, R.D., Fraser, C.M., Adams, M.D., Venter, J.C., Dunlop, M.G., Hamilton, S.R., Petersen, G.M., de la Chapelle, A., Vogelstein, B.and Kinzler, K.W. (1994) Nature 371, 7580.   \n8Papaopoulos, N.Nicolaides, N.C. WeiY.F. Ruben, S.M. Carter,.C. Rosen, C.A., Haseltine, W.A., Fleischmann, R.D., Fraser, C.M., Adams, M.D., Venter, J.C., Hamilton, S.R., Petersen, G.M. Watson, P., Lynch, H.T., Peltomäki, P., Mecklin, J.-P., de la Chapelle, A., Kinzler, K.W. and Vogelstein, B. (1994) Science 263, 16251629.   \nF.H. J.Tr  J. Nature 367, 417.   \n20. Fleck, O., Michael, H. and Heim, L. (1992) Nucleic Acids Res. 20, 22712278.   \nLinton, J.P., Yen, J.-Y.J., Selby, E., Chen, Z., Chinsky, J.M., Liu,K., Kellems, R.E. and Crouse, G.F. (1989) Mol. Cell. Biol. 9, 3058-3072.   \n22. Fuji, H. and Shimada, T. (1989) J. Biol. Chem. 264, 1005710064.   \n23. Ross-Macdonald, P. and Roeder, S., submitted for publication.   \nVarlet, I. (1993) PhD thesis, University of Paris VII, France.   \n25. Fishel, R., Lescoe, M.K., Rao, M.R.S., Copeland, N.G., Jenkins, N.A., Garber, J., Kane, M. and Kolodner, R. (1993) Cell 75, 1027 - 1038.   \nLeach, F.S., Nicolaides, N.C., Papadopoulos, N. Liu, B., Jen, J., Parsons, R., Peltoäki, P., Sistonen, P., Aaltonen, L.A., Nyström-Lahti, M., Guan, X.-Y., Zhang, J., Meltzer, P.S., Yu, J.-W., Kao, F.-T., Chen, D.J., Cerosaletti, K.M., KeithFournier, R.E., Todd, S., Lewis, T., Leach, R.J., Naylor, S.L., Weissebach, J., Meckin, J.-P., Järvinen, H., Petersen, G.M., Hamilton, S.R., Green, J., Jass, J., Watson, P., Lynch, H.T., Trent, J.M., de la Chapelle, A., Kinzler, K.W. and Vogelstein, B. (1993) Cell 75, 12151226.   \n27. Lynch, H.T., Smyrk, T.C., Watson, P., Lanspa, S.J., Lynch, J.F., Lynch, P.M., Cavalieri, R.J. and Boland, C.R. (1993) Gastroenterology 104, 15351549.   \n28. Thibodeau, S.N., Bren, G. and Schaid, D. (1993) Science 260, 816-819.   \nAaltonen, L.A., Peltomäki, P., Leach, F.S., Sistonen, P., Pylkkänen, L., Mecklin, J.-P., Järvinen, H., Powell, S.M., Jen, J., Hailon, S.R., Peteren, G.M., Kinzler, K.W., Vogelstein, B. and de la Chapelle, A. (1993) Science 260, 812816.   \nIonov, Y., Peinado, M.A., Malkhosyan, S., Shibata, D. and Perucho, M. (1993)Nature 363, 558561.   \n31. Parsons, R., Li, G.-M., Longley, M.J., Fang, W.-H., Papadopoulos, N., Jen, J., de la Chapelle, A., Kinzler, K.W., Vogelstein, B.and Modrich, P. (1993) Cell 75, 12271236.   \nHan, H.-J., Yanagisawa, A., Kato,Y., Park, J.-G. and Nakamura, Y. (1993) Cancer Res. 53, 50875089.   \n33.Peltomäki, P., Lothe, R.A., Aaltonen, L.A., Pylkänen, L., Nyström-Lahti, M. Seruca, R., David, L., Holm, R., Ryberg, D., Haugen, A., Bröggr A., Börrensen, A.-L. and de la Chapelle, A. (1993) Cancer Res. 53, 5853-5855.   \nSambrook, J., Fritsch, C.F. and Maniatis, T. (1989) Molecular Cloning: A Laboratory Manual. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY.   \n35. Bankier, A.T., Weston, K.M. and Barrel, B.G. (1987) Methods Enzymol. 155, 5193.   \n36. Henikoff, S. (1987) Methods Enzymol. 155, 156165.   \nDevx, J. Har P.n S, O.ucAci Re, 387395.   \n38. Staden, R. (1986) Nucleic Acids Res. 14, 217223.   \n3 Higgins, D.G. and Sharp, P.M. (1988) Gene 73, 237244.   \nWalkr, J.E. Srase, M. Rick, M.J. and Gray, N.J. (198) EMBC J. 1, 945951.   \n4. Gorbalenya, A.E. and Koonin, E.V. (1990) J. Mol. Biol. 213, 583591.   \n42. Pabo, C.O. and Sauer, R.T. (1984) Annu. Rev. Biochem. 53, 293321.   \n43. Newport, J. and Kirschner, M. (1982) Cell 30, 675686.   \n44. Liu, B., Parsons, R.E., Hamilton, S.R., Petersen, G.M., Lynch, H.T., Watson, P., Markowitz, S., Willson, J.K.V., Green, J., de la Chapelle, A., Kinzler, K.W. and Vogelstein, B. (1994) Cancer Res. 54, 45904594.   \n45. Karran, P. and Bignami, M. (1992) Nucleic Acids Res. 20, 29332940.   \n4Kat, A., Thilly, W.G., Fang, W.-H., Longley, M.J., Li, G.-M. and Modrich, P. (1993) Proc. Natl. Acad. Sci. USA 90, 64246428.   \n4Branch, P., Aquilina, G., Bignami, M. and Karran, P. (1993) Nature 362, 652654.   \n48.Goldmacher, V.S., Cuzick, R.A. and Thilly, W.G. (1986) J. Biol. Chem. 261, 1246212471.   \n4. Lothe, R.A., Peltomäki, P., Meling, G.I., Aaltonen, L.A., Nyström-Lahti, M., Pylkkanen, L., Heimdal, K., Andersen, T.I., Moller, P., Rognum, T.O., Fossa, S.D., Haldorsen, T., Langmark, F., Brogger, A., de la Chapelle, A. and Borresen, A.L. (1993) Cancer Res. 53, 58495852.   \n50. Krieg, P.A., Varnum, S.M., Wormington, W.M. and Melton, D.A. (1989) Dev. Biol. 133, 93100.   \n51. Schlensog, V. and Bock, A. (1991) J. Bacteriol. 173, 74147415.   \n52. Haber, L.T., Pang, P.P., Sobell, D.I., Mankovich, J.A. and Walker, G.C. (1988) J. Bacteriol. 170, 197202.   \n53.Le, O., Shen, B., Iismaa, S.E. and Burgess, B.K. (1993) J. Bacteriol. 175, 77077710.   \n54.Priebe, S.D., Hadi, S.M., Greenberg, B. and Lacks, S.A. (1988) J. Bacteriol. 170, 190196. ",
+        "bbox": [
+            80,
+            742,
+            480,
+            917
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            506,
+            51,
+            916,
+            918
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            93,
+            90,
+            501,
+            348
+        ],
+        "page_idx": 5
+    }
+]

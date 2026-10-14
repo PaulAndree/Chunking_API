@@ -1,0 +1,506 @@
+[
+    {
+        "type": "text",
+        "text": "Robin Hood: príncipe de los ladrones ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            97,
+            742,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood: príncipe de los ladrones (Robin Hood: Prince of Thieves) es una película estadounidense de aventuras de 1991 dirigida por Kevin Reynolds. Está protagonizada, entre otros, por Kevin Costner, Morgan Freeman, Mary Elizabeth Mastrantonio, Alan Rickman y Christian Slater. La música fue compuesta, orquestada y dirigida por el compositor Michael Kamen. ",
+        "bbox": [
+            70,
+            140,
+            497,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Esta película se estrenó el 14 de junio de 1991 en Estados Unidos, el 21 de junio en España, y en julio y agosto del mismo año en el resto de Latinoamérica. ",
+        "bbox": [
+            70,
+            306,
+            497,
+            381
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Argumento ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            418,
+            221,
+            440
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La película está ambientada en la Edad Media, a finales del siglo x ii. Robin de Locksley (Kevin Costner) es un noble inglés que, unido al rey Ricardo Corazón de León en la Tercera Cruzada, acaba encarcelado en una prisión de Jerusalén. En su huida conocerá al también preso Azeem (Morgan Freeman), quien, agradecido porque Locksley le ha salvado la vida, decide quedarse con él hasta devolverle el favor. ",
+        "bbox": [
+            70,
+            457,
+            497,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cuando Robin regresa a Inglaterra en compañía de Azeem, encuentra sus tierras gobernadas por el déspota sheriff de Nottingham (Alan Rickman), ayudado por su primo Guy de Gisborne (Michael Wincott) y la bruja Mortianna (Geraldine McEwan). Enseguida descubren que el padre de Robin, Lord Locksley (Brian Blessed), ha sido colgado, y encuentran a su siervo Duncan (Walter Sparrow) cegado. Este le explica a Robin que su padre había sido ejecutado bajo falsa acusación de brujería, pero en realidad por rechazar unirse al sheriff en sus planes para derrocar al rey Ricardo y asumir la Corona inglesa. Como venganza Robin, ayudado por Azeem, comienza a robar a la nobleza y a la Iglesia corrupta, para alimentar a los más necesitados. ",
+        "bbox": [
+            70,
+            642,
+            497,
+            888
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/b561a1c33f266eee74d504e57e1c9c5f813f37ee028581540986217776f355d0.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            149,
+            926,
+            564
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/d9983c99b84da2e5f0b568c4b80990528ce2237c622f927f4808dc4af688003f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            566,
+            924,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            497,
+            97
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ficha (https://www.filmaffinity.com/es/film49866 5.html) en FilmAffinity ",
+        "text_level": 1,
+        "bbox": [
+            529,
+            42,
+            919,
+            78
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Escondidos en el bosque de Sherwood, Robin y Azeem conocen a un grupo de proscritos que, por un motivo u otro, también se ocultan del poder del sheriff de Nottingham, bajo el mando de Little John (Nick Brimble). Tras una lucha personal contra él, Robin se gana su amistad y la confianza del grupo, excepto la del joven Will Scarlet (Christian Slater). Unidos todos por la misma causa, y liderados ahora por Robin Hood, el grupo planea su venganza conjunta, y continúa con su campaña de robar a los ricos y ayudar a los pobres. Y en poco tiempo ganan también para su causa al buen fraile Tuck (Mike McShane). El sheriff acaba poniendo precio a la cabeza de quien ya va siendo conocido por todos como Robin Hood. Pero nadie cuenta con que entre los planes del sheriff se incluye, para garantizarse los derechos al trono, el casarse con la noble lady Marian (Mary Elizabeth Mastrantonio), de sangre real por ser familiar de Ricardo I. Ella y Robin se conocen fortuitamente; y, aunque ella en un principio desconfía de él y desdeña sus advertencias, se acabarán enamorando el uno del otro. ",
+        "bbox": [
+            70,
+            114,
+            578,
+            352
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b3bde7281025323f0460b29339416e4a745eca223912018a1d5ff02927a9c5dc.jpg",
+        "image_caption": [
+            "Sycamore Gap en el Muro de Adriano. Árbol conocido como \"Robin Hood Tree\".2 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            105,
+            922,
+            273
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            361,
+            932,
+            434
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finalmente Lady Marian, es engañada por el corrupto obispo de Hereford (William Innocent) aliado del sheriff, y es retenida en custodia en Nottingham. Además, el sheriff manipula los sentimientos del resentido joven Will para conseguir llegar hasta el campamento de los proscritos, destruirlo y capturar a Little John y a varios más de ellos, sirviendose de mercenarios celtas de las tierras altas. Dando a Robin por muerto, el sheriff se prepara para celebrar su aparente victoria colgando a los proscritos y casándose con Marian, todo en un mismo día. ",
+        "bbox": [
+            70,
+            451,
+            931,
+            564
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pero Robin ha sobrevivido al ataque y se reconcilia con el arrepentido Will, cuando ambos descubren que son medio hermanos. Enseguida planea con los supervivientes un asalto final a la fortaleza del sheriff, y consiguen liberar a los proscritos cuando van a ser colgados, y salvar a Lady Marian. En el proceso encuentran la muerte el sheriff, el obispo y la bruja, siendo liberada la región de su tiranía, y salvándose Inglaterra de la conspiración. ",
+        "bbox": [
+            70,
+            580,
+            931,
+            673
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la escena final vemos cómo el fraile Tuck se dispone a celebrar la boda de Robin y Marian. Pero esta es interrumpida por la inesperada llegada del rey Ricardo (Sean Connery), que le agradece a Robin haber salvado su corona, y exige a cambio el derecho a apadrinarle la boda con su prima. ",
+        "bbox": [
+            70,
+            688,
+            931,
+            744
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reparto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            781,
+            178,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Kevin Costner como Robin Hood3 Morgan Freeman como Azeem Christian Slater como Will Scarlet Mary Elizabeth Mastrantonio como Lady Marian Alan Rickman como George, Sheriff de Nottingham4 ",
+        "bbox": [
+            80,
+            824,
+            576,
+            927
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Geraldine McEwan como Mortianna   \nMike McShane como Fraile Tuck   \nBrian Blessed como Lord Locksley   \nMichael Wincott como Guy de Gisborne   \nNick Brimble como Little John   \nHarold Innocent como Obispo of Hereford   \nWalter Sparrow como Duncan   \nSean Connery como Ricardo Corazón de León (no acreditado) ",
+        "bbox": [
+            80,
+            42,
+            670,
+            199
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Producción ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            219,
+            221,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rodaje ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            282,
+            152,
+            301
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La película se rodó principalmente en Inglaterra, Reino Unido. Se filmó allí en Aysgarth Falls, Sherwood Forest, Seven Sisters, Hulne Priory y en el Muro de Adriano. El único lugar, donde no se rodó en Inglaterra fue en la Ciudadela de Carcasona en la ciudad de Carcasona en Aude, Francia.5 ",
+        "bbox": [
+            70,
+            311,
+            931,
+            366
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Banda sonora ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            395,
+            231,
+            414
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Todas las canciones escritas y compuestas por Michael Kamen. ",
+        "bbox": [
+            72,
+            423,
+            584,
+            440
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N.º Título Duración   \n1. «Overture» (A Prisoner of the Crusades) 8:27   \n2. «Sir Guy of Gisborne» (The Escape to Sherwood) 7:27   \n3. «Little John» (The Band in the Forest) 4:52   \n4. «The Sheriff and His Witch» 6:03   \n5. «Maid Marian» 2:57   \n6. «Training» (Robin Hood, Prince of Thieves) 5:15   \n7. «Marian at the Waterfall» 5:34   \n8. «The Abduction» (The Final Battle at the Gallows) 9:53   \n9. «(Everything I Do) I Do It For You» (Bryan Adams) 6:38   \n10. «Wild Times» (Jeff Lynne) 3:12 ",
+        "bbox": [
+            75,
+            454,
+            929,
+            635
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/1e66a3fbf083903ce8f223d88b9890f3111bca02c46d7a7928577d5110f667ad.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            106,
+            905,
+            801
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Con 170 millones de dólares recaudados en Estados Unidos y 230 millones en el resto del mundo, Robin Hood: Príncipe de los ladrones únicamente fue superada en ventas ese año por Terminator 2: el juicio final. La crítica fue positiva con la película, pero no con Costner, al cual le recriminaron por no intentar el acento inglés en el filme. En cambio, Rickman fue alabado por su actuación de antagonista. ",
+        "bbox": [
+            70,
+            103,
+            931,
+            178
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La balada «(Everything I Do) I Do It For You», de Bryan Adams, se mantuvo como número 1 en el Reino Unido durante 16 semanas, siendo también un éxito en Canadá y Estados Unidos. ",
+        "bbox": [
+            67,
+            193,
+            931,
+            230
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Premios ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            267,
+            178,
+            288
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La película fue nominada a los Óscars de 1992 en el apartado de mejor canción compuesta para una película por «(Everything I Do) I Do It For You», del canadiense Bryan Adams, pero no consiguió la tan apreciada estatuilla dorada. ",
+        "bbox": [
+            70,
+            305,
+            931,
+            361
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Además de esa nominación, la película ganó los premios ASCAP, BAFTA Film, BMI Film Music, Evening Standard British Film, Golden Screen, Grammy, ALFS, MTV Movie, Golden Reel, Razzie y el premio al artista joven. ",
+        "bbox": [
+            70,
+            377,
+            931,
+            433
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            470,
+            223,
+            491
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. «Robin Hood Freshens Up A Film Legend» (http://articles.orlandosentinel.com/1991-03-18/lif estyle/9103160920_1_robin-hood-prince-of-thieves-first-robin). Orlando Sentinel. (en inglés) ",
+        "bbox": [
+            77,
+            513,
+            929,
+            546
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Sycamore Gap, una seccion del muro cerca de Milecastle 39, se llama \"Robin Hood Tree\" desde que se uso en el film de 1991 Robin Hood: Prince of Thieves (1991). ",
+        "bbox": [
+            75,
+            548,
+            927,
+            581
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Dowd, Maureen (9 de junio de 1991). «FILM; Hollywood's Superhunk Heads for Nottingham» (https://select.nytimes.com/gst/abstract.html?res=F20614F93E5A0C7A8CDDA F0894D9494D81). The New York Times. (en inglés) ",
+        "bbox": [
+            77,
+            584,
+            934,
+            633
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Leydon, Joe (9 de junio de 1991). «Robin Hood' and the uncertain science of hype» (http://ar ticles.latimes.com/1991-06-09/entertainment/ca-671_1_robin-hood). The Los Angeles Times. (en inglés) ",
+        "bbox": [
+            77,
+            636,
+            932,
+            685
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. AMAZON VIDEONETFLIXRANDOM ¿Dónde se rodó Robin Hood: Prince of Thieves? (http s://enelajo.com/donde-se-rodo-robin-hood-prince-of-thieves/) EN EL AJO. 11 de septiembre de 2021. Consultado el 11 de octubre de 2022. ",
+        "bbox": [
+            77,
+            688,
+            931,
+            737
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            767,
+            289,
+            788
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood: príncipe de los ladrones (https://www.imdb.com/title/tt0102798/) en Internet Movie Database (en inglés)   \n«Robin Hood» en allmovie (http://www.allmovie.com/cg/avg.dll?p=avg&sql=1:41689) (en inglés).   \n«The Battle of Sherwood Forest». (http://www.ew.com/ew/article/0,,314660,00.html) Archivado (https://web.archive.org/web/20130522185515/http://www.ew.com/ew/article/0,,3 ",
+        "bbox": [
+            80,
+            809,
+            932,
+            915
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14660,00.html) el 22 de mayo de 2013 en Wayback Machine. Artículo en www.ew.com (en inglés). ",
+        "bbox": [
+            97,
+            41,
+            931,
+            74
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Robin Hood: príncipe de los ladrones (http://www.filmaffinity.com/es/film498665.html) en FilmAffinity. ",
+        "bbox": [
+            94,
+            77,
+            927,
+            110
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Localización de la película (http://www.dcine.org/localizaciones/localizacion-de-robin-hood-p rincipe-de-los-ladrones-1) Localización 2 (http://www.dcine.org/localizaciones/localizacion-d e-robin-hood-principe-de-los-ladrones-0) ",
+        "bbox": [
+            82,
+            112,
+            931,
+            162
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de title=Robin_Hood:_príncipe_de_los_ladrones&oldid=169521922» «https://es.wikipedia.org/w/index.php? ",
+        "bbox": [
+            70,
+            182,
+            557,
+            211
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            642,
+            182,
+            927,
+            198
+        ],
+        "page_idx": 5
+    }
+]

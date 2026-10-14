@@ -1,0 +1,569 @@
+[
+    {
+        "type": "text",
+        "text": "A Gedanken Projekt inspired by Michael Stoker's observations and George Klein's work (Miro Radman, 17-19 sept 2015): ",
+        "bbox": [
+            115,
+            83,
+            825,
+            122
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EMERGENCE OF PHENOTYPES IN CANCER: ",
+        "text_level": 1,
+        "bbox": [
+            277,
+            164,
+            719,
+            184
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTER-CELLULAR TRANSFER OF mRNA AND PROTEINS AS MEANS OFPHENOTYPIC SUPPRESSION AND TARGET FOR TUMOUR PROMOTION?",
+        "bbox": [
+            147,
+            195,
+            850,
+            234
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            274,
+            189,
+            291
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diverse inter-cellular junctions, tunnels and transport vesicles allow for trafficking of RNA, proteins and even entire organelles (mitochondria) among neighbouring cells. I propose to test whether such molecular traffic can be sufficiently intense to suppress phenotypic expression of recessive defects emerging in single quiescent cells. Such buffering of emerging cellular deficiencies caused by genetic and epigenetic alterations could functionally homogenize entire tissues and organs, prevent the expression of recessive premalignant and malignant phenotypes and extend cancer latency period. ",
+        "bbox": [
+            115,
+            302,
+            882,
+            467
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Other aging-related cellular defects leading to pathologies such as arthritis, osteoporosis, cardiovascular, neurodegenerative and immune diseases, could also be subject to such functional buffering by inter-cellular molecular traffic. Conditions that lead to break down of inter-cellular connections, such as inflammation, may act as promotors of cancer and other age-related diseases. ",
+        "bbox": [
+            115,
+            474,
+            868,
+            589
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Extension of abstract ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            623,
+            294,
+            639
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Latency period in carcinogenesis is radically reduced by prolonged exposure to inflammatory agents called tumour promotors. TPA (PMA) is a potent tumour promotor that was shown to break down intercellular gap junctions (James Trosko, 1980-ies) presumably by activating the excreted serine proteases (Wigler & Weinstein, 1970-ies). At the time, this observation did not inspire and was not followed up. But, in the meantime, it was shown that mRNAs, proteins and even entire mitochondria can be massively transferred between the touching cells - via extruding plasma membrane tunnelling nanotubes and budding vesicles (exosomes, microsomes, etc.) - and then functionally expressed in the recipient cell (below). ",
+        "bbox": [
+            115,
+            646,
+            863,
+            862
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here, I propose a concept for species-specific latency period in carcinogenesis and a mechanism of tumour promotion. When acting long enough, tumour promotors and other inflammatory conditions accelerate the initiated carcinogenic process by an unknown mechanism. I propose that they could do so by interrupting the phenotypic suppression of premalignant and malignant cell defects via molecular traffic with healthy surrounding cells. Such mechanism defines new approach to cancer prevention and cure by the reestablishment of molecular traffic between premalignant or malignant cells with normal cells thereby extending the cancer latency. ",
+        "bbox": [
+            115,
+            869,
+            862,
+            912
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            82,
+            862,
+            224
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unless there is a selective bias in the traffic of specific macromolecules, other aging-related cellular deficiencies can also be subject to such functional buffering by inter-cellular molecular traffic. That would possibly include pathologies such as cardiovascular, neurodegenerative and immune diseases, arthritis, osteoporosis, etc. Since inflammation leads to protein oxidative damage and to the breakdown the inter-cellular connections, it may be the principal promotor of cancer and other age-related diseases, justifiably called inflammaging. ",
+        "bbox": [
+            115,
+            254,
+            878,
+            397
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "http://www.nature.com/cdd/journal/v22/n7/pdf/cdd2014211a.pdf mito transf http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4403925/pdf/pone.0125506.pdf http://jcs.biologists.org/content/126/16/3678.full.pdf protein transport http://genesdev.cshlp.org/content/29/8/791 protein transport http://carcin.oxfordjournals.org/content/19/5/747.full.pdf - suppr tumor gap junc http://www.ncbi.nlm.nih.gov/pubmed/7697800 - inter-cell traffic interrupted by TPA http://www.ncbi.nlm.nih.gov/pubmed/7953912 (same) ",
+        "bbox": [
+            115,
+            521,
+            836,
+            638
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TEXT:",
+        "bbox": [
+            117,
+            677,
+            169,
+            693
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let's suppose that organs are 3-dimensional cellular networks within which a lively transfer and exchange of (in fine) functional proteins suppresses phenotypic expression of recessive cellular deficiencies in the entire organ. In a similar way, phenotypic suppression of recessive defects emerging in single nuclei certainly occurs within large multinucleate muscular cells and could account for the scarcity of tumours originating from muscle cells. The gist of the concept is that the entire tissues and organs could functionally behave as a single gigantic cell within which nearly all of rare emerging genetic or epigenetic defects can be kept silent by functional complementation. Isolation of single mutant cells by prolonged interruption of inter-cellular molecular traffic would lead to the expression of recessive phenotypes, such as malignant growth. ",
+        "bbox": [
+            115,
+            701,
+            880,
+            892
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            82,
+            840,
+            124
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the light of this concept, let us consider the phenotypic consequences of the emergence of rare dominant, and much more frequent recessive, somatic mutations. To spread the effect of dominant mutations, single mutant cells would have to \"infect\" the normal neighbouring cells by the its mutant protein, which in turn could not donate a significant amount of the received limited amount of mutant protein to their neighbours. The transferred mutant protein would keep diluting from the mutant cell into the multitude of wild type recipient cells. Exception would be dominant prion proteins that convert homologous normal proteins into prions and spread sequentially between the touching cells to very long distances, e.g., from intestine to brain. ",
+        "bbox": [
+            115,
+            131,
+            882,
+            346
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, for about 1000 times more frequent recessive loss-of-function mutations, the scenario is just the opposite because only the mutant cell does not synthesize the functional protein but can receive it (directly and, more efficiently, upon receiving its mRNA) from all surrounding wild type cells. Thus, the effect of 3D intercellular protein trafficking on the spread of standard dominant phenotype should be negligible in contrast to the efficiency of suppression of the recessive phenotype where all neighbouring cells are potential suppressive donors to a single mutant cell. ",
+        "bbox": [
+            115,
+            378,
+            875,
+            543
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "What is the expected effect of tumour-promoting inflammation in this scenario? By inducing extracellular proteases and oxidative protein damage, chronic inflammation and lasting tumour promotion can disconnect phenotypic suppression by cutting-off cellular communication. The potent anti tumour-promoting activity of serine protease inhibitors (antipain and leupeptin) and of anti-inflamamtory steroids, appears coherent with the proposed scenario. ",
+        "bbox": [
+            115,
+            550,
+            862,
+            692
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Functional isolation of single precancerous cells by long-lasting tumour promotion would disconnect active tumour suppression triggering their unsuppressed growth into mutant cellular mono-clones within which phenotypic suppression cannot occur. Even after cessation of the tumour-promoting condition, phenotypic suppression could occur only to cells located at the surface of the mutant mono-clone, where mutant cells touch normal cell, but cells in the centre would remain unsuppressed and continue their clonal growth into the next stage of cancer development. ",
+        "bbox": [
+            115,
+            699,
+            882,
+            864
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein oxidation during tumour promotion is expected to impact the emergence of recessive phenotypes at the level of the mutant cell and at the level of the suppressing activity of ",
+        "bbox": [
+            115,
+            871,
+            884,
+            914
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "normal cells. In cells that have acquired a homozygous recessive mutation, the residual activity of its own non-renewing wild type protein delays phenotypic expression. Such limited \"functional memory\" in non-dividing (stem) cells can be destroyed by protein oxidative damage and result in accelerated acquisition of the mutant phenotype. Another expected effect of protein oxidation (increased by aging or acute oxidative stress, like inflammation) is that normal cells surrounding the mutant cell will suffer oxidative damage to their own suppressive proteins and therefore become poor providers of phenotypic suppression to the mutant cells. Finally, age-related accumulation of protein damage is likely to decrease the capacity of normal aging cells to engage in active inter-cellular traffic leading to the reduced transfer of suppressive molecules. ",
+        "bbox": [
+            115,
+            82,
+            877,
+            323
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Other important aspects of cancer prevention by selective cell death, like apoptosis and anoikis, are not discussed here, although avoidance of apoptosis occurs by \"par excellence\" recessive mutations that could be subject to the proposed phenotypic suppression. Anoikis is cancer cell death caused by its displacement and isolation, presumably caused by (unsuppressed) functional deficiencies, unrelated to malignancy, due to the mutational load in cancer cells. It is known that the aggressive cancer cells are difficult to culture, such that the selection of sub-clones fit in the culture medium establishes tumour cell lines. ",
+        "bbox": [
+            115,
+            349,
+            872,
+            517
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The described scenario offers a specific hypothesis compatible with the Peto's paradox of drastically decreased cancer risk (per unit time) with increase in both body size and longevity - in spite of larger numbers of cells at risk and longer available time (for man versus mouse the factors are 1000 and 30 respectively). For both cancer development and protein carbonylation, it is not the chronological but the biological time (fraction of life span) that matters. ",
+        "bbox": [
+            115,
+            546,
+            857,
+            688
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "bbox": [
+            117,
+            696,
+            194,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Loewenstein, W. R., and Kanno, Y. Intercellular communication and the control of tissue growth: lack of communication between cancer cells. Nature (Lond.), 209:1248 –1249, 1966.   \n2. Yamasaki, H., Mesnil, M., Omori, Y., Mironov, N., and Krutovskikh, V. Intercellular communication and carcinogenesis. Mutat. Res.,333:181–188, 1995.   \n3. Ito, A., Katoh, F., Kataoka, T. R., Okada, M., Tsubota, N., Asada, H., Yoshikawa, K.,Maeda, S., Kitamura, Y., Yamasaki, H., and Nojima, H. A role for heterologous gap junctions between melanoma and endothelial cells in metastasis. J. Clin. Investig.,105:1189 –1197, 2000.   \n4. El-Sabban, M. E., and Pauli, B. U. Cytoplasmic dye transfer between metastatic tumor cells and vascular endothelium. J. Cell Biol.,115:1375–1381, 1991. ",
+        "bbox": [
+            112,
+            722,
+            884,
+            888
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. Nicolson, G. L., Dulski, K. M., and Trosko, J. E. Loss of intercellular junctional communication correlates with metastatic potential in mammary adenocarcinomacells. Proc. Natl. Acad. Sci. USA, 85: 473– 476, 1988. ",
+        "bbox": [
+            114,
+            82,
+            857,
+            111
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. Trosko, J., and Ruch, R. Cell-cell communication in carcinogenesis. Frontiers Biosci.,3: d208 – d236, 1998. ",
+        "bbox": [
+            119,
+            123,
+            858,
+            137
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*\\* Goldberg GS, KD Martyn & AF Lau: A connexin 43 antisense vector reduces the ability of normal cells to inhibit the foci formation of transformed cells. Mol Carcinog 11, 106-114 (1994) ",
+        "bbox": [
+            115,
+            149,
+            870,
+            178
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*Shiokawa-Sawada M, H Mano, K Hanada, S Kakudo, TKameda, K Miyazawa, Y Nakamaru, T Yuasa, Y Mori, M Kumegawa & Y Hakeda: Down-regulation of gap junctional intercellular communication between osteoblastic MC3T3-E1 cells by basic fibroblast growth factor and a phorbol ester (12-Otetradecanoylphorbol-13-acetate) J Bone Miner Res 12,1165-1173 (1997) ",
+        "bbox": [
+            115,
+            190,
+            873,
+            247
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2878508/ https://www.bioscience.org/1998/v3/d/trosko/trosko.pdf http://www.biomedcentral.com/content/pdf/1745-6150-2-35.pdf \\*Abercrombie M: Contact inhibition and malignancy. Nature 281, 259-262 (1979) ",
+        "bbox": [
+            117,
+            259,
+            507,
+            273
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            285,
+            500,
+            299
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            311,
+            554,
+            325
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            337,
+            675,
+            351
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\\*\\*\\*\\* http://www.ncbi.nlm.nih.gov/pubmed/12167228 ",
+        "bbox": [
+            117,
+            363,
+            485,
+            378
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Park JU1, Tsuchiya T. ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            391,
+            263,
+            404
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Increase in gap junctional intercellular communication by high molecular weight hyaluronic acid associated with fibroblast growth factor 2 and keratinocyte growth factor production in normal human dermal fibroblasts. Tissue Eng. 2002 Jul;8(3):419-27..... SKIN ",
+        "bbox": [
+            117,
+            405,
+            875,
+            447
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "http://www.ncbi.nlm.nih.gov/pubmed/12767052 skin!! ",
+        "bbox": [
+            115,
+            461,
+            497,
+            476
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "PROPOSED EXPERIMENTS... ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            512,
+            352,
+            530
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(1) Expression of tumour phenotypes upon plating spread isolated (trypsinized ?) cells from tissue (skin, liver..) biopsies in relation to donor's (human, mouse) age. Plating the same cells on fibroblast monolayer. Use also TPA, anti-protease and hyaluronan treatments! ",
+        "bbox": [
+            115,
+            549,
+            875,
+            617
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(2) How can we mimic an organ in cell culture for experimental purposes? Should we use fairly homogeneous cell population (like in an organ) and induce mutants by localised radiation; or shall we use wild type mesenchymal, fibroblast or stem cell monolayer upon which are seeded model mutant (recessive TGR and dominant AphR) cells (of which origin?). Is it easier to look directly for malignancy-related focus formation phenotype, i.e., simply redo the Stocker experiment by seeding rare malignant (or better pre-malignant) cells on a normal cell monolayer, with and without tumour promotor (TPA) treatment? In that case, where can we find the appropriate pre-malignant cells? Which cell monolayer suppresses malignant growth most efficiently? Which malignant cells are most prone to growth suppression? (George Klein probably knows the answers to these questions.) ",
+        "bbox": [
+            115,
+            634,
+            877,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(3) Alternatively, the whole experiment is conceivable without the use of cultured cells by using human and mouse skin (even comparatively) in vitro, UVB irradiated in vitro and the staining for both TGR and AphR by the same immuno-histochemical method (anti-BrdU - after exposure to both 5-BrdU and either of two drugs, 6-TG or Aph). But, I doubt that this staining would work because of limited cell growth. ",
+        "bbox": [
+            115,
+            82,
+            875,
+            199
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(4) I prefer the following idea of an in vivo-ex vivo experiment on live mouse skin: a classic Berenblum tumour initiation- promotion experiment on the skin of a single male mouse (considered here as a cell culture), with chronological biopsies from the same area of initiated/promoted skin for histological detection of $T G ^ { R }$ and AphR mutant cells. A large area would be treated once with mutagen/carcinogen and divided into 3 sections: (1) No further treatment, (2) Repeated TPA applications, (3) Repeated TPA applications along with antipain/leupeptin. Collection of chronological skin biopsies in the course of treatment from all three skin sections for histological detection of $T G ^ { R }$ and AphR mutant cells and malignant cells. ",
+        "bbox": [
+            114,
+            217,
+            870,
+            434
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In favour of this: all in vivo tumour promotion experiments with TPA were performed on mouse skin. ",
+        "bbox": [
+            115,
+            451,
+            852,
+            493
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(5) May be that one can use single eGFP expressing mutant 6-TGR cells seeded individually on a monolayer of epithelial stem cells, or fibroblasts and, in parallel, depositing the same separated individual cells in the Petri dish, treat both by 6-TG and look for survival/death of the fluorescent mutant cells? ",
+        "bbox": [
+            115,
+            512,
+            867,
+            605
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Repeat the same experiment but with eGFP expressing tumour cells and look for their growth in both conditions! ",
+        "bbox": [
+            115,
+            623,
+            877,
+            665
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(6) Unrelated to intercellular traffic, testing for TPA effect on the expression time of emerging recessive mutations within single cells in culture, one can UV irradiate well-separated target cells, add or not the TPA, and then apply the drug 6-TG at different time intervals after irradiation. The question is: would TPA accelerate the expression of UV-induced recessive 6- TGR mutations? (see the concept in Fig1 of the Kinsella and Radman PNAS 1978 paper, att.) (7) Study the effect of high molecular weight hyaluronan, dermatan sulfate and trehalose on phenotypic suppression. ",
+        "bbox": [
+            112,
+            683,
+            882,
+            862
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(8) Note: all of proposed experiments address the question of buffering of all functional cell defects within the organ (skin) and relate to (skin) aging and nearly all age-related pathologies. ",
+        "bbox": [
+            115,
+            83,
+            862,
+            151
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Extracellular matrix regulation of cell-cell communication and tissue-specific gene expression in primary liver cultures. (PMID:3543962) ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            195,
+            870,
+            223
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fujita M, Spray DC, Choi H, Saez J, Jefferson DM, Hertzberg E, Rosenberg LC, Reid LM ",
+        "bbox": [
+            115,
+            235,
+            726,
+            249
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Progress in Clinical and Biological Research [1986, 226:333-360] ",
+        "bbox": [
+            117,
+            261,
+            564,
+            275
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Epithelial-mesenchymal interactions are effected, in part, by extracellular matrix components. We have spent many years analyzing the influence of extracellular matrix, both as extracts of matrix and as purified matrix components, on the growth and differentiation of normal and neoplastic liver cells. Currently we are focused on analyzing the influence of the extracellular matrix components, glycosaminoglycans and proteoglycans. We have found that these factors induce dramatic morphological changes, are potent inducers of gap junction synthesis and can regulate tissue-specific gene expression. With respect to gap junctions: intercellular communication via gap junctions, as measured by dye and electrical coupling, disappears within 12 hrs in primary rat hepatocytes cultured in serum supplemented media or within $2 4 \\mathrm { h r s }$ in cells in a serum free, hormonally defined medium designed for hepatocytes. Glucagon and linoleic acid/BSA were the primary factors in the HDM responsible for the extended life span of the electrical coupling. Addition of proteoglycans or glycosaminoglycans to hormonally defined medium after 24 hrs resulted in reexpression of electrical and dye coupling when assayed at 96 hrs of culture. The incidence of coupling was less than $5 \\%$ in hormonally defined medium alone. Coupling incidence increased to $10 { - } 3 0 \\%$ with the addition of 10 micrograms $/ \\mathrm { m l }$ of glycosaminoglycans (i.e., hyaluronic acid, dermatan sulfate, chondroitin 4- or 6-sulfate, and iota- or kappa-carrageenan) to hormonally defined medium. By contrast, the same concentrations of chondroitin sulfate proteoglycan, dermatan sulfate proteoglycan, or lambdacarrageenan resulted in dye coupling in more than $70 \\%$ of the cells, with numerous cells showing dye spread from a single injected cell (in the case of the proteoglycans). The greatest effect of those tested was elicited by the dermatan sulfate proteoglycans, which induced cell-cell communication in $90 \\mathbf { - } 1 0 0 \\%$ of the cells. Heparins gave intermediate responses $( 3 0 - 5 0 \\% )$ ). Western blots demonstrated that the amounts of the main intrinsic gap junction polypeptide $( 2 7 ~ \\mathrm { K D a } )$ extractable from cells correlated with the degree of electrical and dye coupling. Thus, proteoglycans and glycosaminoglycans appear to elicit the formation and function of gap junctions and may thus play a role in the regulation of intercellular communication under normal and pathological conditions. With respect to gene expression: normal rat hepatocytes maintained in culture on tissue culture plastic and in serum supplemented medium lose their tissue-specific functions within hours to a few days due to loss of synthesis and to rapid degradation of tissue-specific mRNAs.(ABSTRACT TRUNCATED AT 400 WORDS). ",
+        "bbox": [
+            115,
+            290,
+            890,
+            644
+        ],
+        "page_idx": 6
+    }
+]

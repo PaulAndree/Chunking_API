@@ -1,0 +1,967 @@
+[
+    {
+        "type": "text",
+        "text": "Complementary Action of Recombination and Excision in the Repair of Ultraviolet Irradiation Damage to DNA ",
+        "text_level": 1,
+        "bbox": [
+            158,
+            143,
+            839,
+            187
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MirosLav Radman†, Lorenzo Cordone‡, Draga Krsmanovic-Simic And Maurice Errera ",
+        "bbox": [
+            170,
+            206,
+            831,
+            241
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Biophysique et Radiobiologie Faculté des Sciences Université libre de Bruxelles, Belgium (Received 24 March 1969, and in revised form 26 November 1969) ",
+        "bbox": [
+            303,
+            251,
+            696,
+            304
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            211,
+            321,
+            792,
+            337
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The roles of the bacterial rec and uvr and of the λ red functions for the survival of ultraviolet-irradiated λ phage have been studied. ",
+        "bbox": [
+            155,
+            356,
+            848,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If only a small number of pyrimidine dimers is present in the λ DNA, repair is preferentially performed by recombination (rec and red functions); excision repair (uvr functions) being efficient only for extensive damage. This is probably related to the ultraviolet-induced inhibition of DNA replication. ",
+        "bbox": [
+            158,
+            385,
+            850,
+            444
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A temporary inhibition of post-irradiation DNA replication was obtained using a $\\lambda ,$ cistron O, thermosensitive mutant. It was thereby demonstrated that excision repair is efficient on non-replicating and recombination repair on replicating DNA. ",
+        "bbox": [
+            158,
+            445,
+            848,
+            502
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is suggested that recombination and excision are complementary mechanisms for repairing ultraviolet irradiation damage to DNA, excision taking place before DNA replication and recombination repair after and/or during replication. Regulation of DNA replication is therefore an important factor for the efficient repair of DNA. ",
+        "bbox": [
+            158,
+            504,
+            850,
+            576
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            427,
+            589,
+            581,
+            605
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two classes of bacterial mutations are known to increase the sensitivity of bacteria and infecting viruses to ultraviolet irradiation and some other mutagenic agents. ",
+        "bbox": [
+            117,
+            609,
+            891,
+            644
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The uvr mutants are unable to excise (Boyce & Howard-Flanders, 1964; Setlow & Carrier, 1964) u.v.-irradiation induced pyrimidine dimers (Beukers & Berends, 1960; Wacker, Delweg & Weinblum, 1960). Three uvr genes have been identified (Howard-Flanders, Boyce & Theriot, 1966; van de Putte, van Sluis, van Dillewijn & Rörsch, 1965). ",
+        "bbox": [
+            119,
+            646,
+            891,
+            732
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A second class, the rec mutants (Clark & Margulies, 1965; Howard-Flanders & Theriot, 1966; van de Putte, Zwenk & Rörsch, 1966) are both radiation sensitive and unable to perform genetic recombination. Escherichia coli mutated in the recA gene degrade their own DNA after u.v. irradiation (Howard-Flanders & Boyce, 1966) and show broken survival curves (Clark & Margulies, 1965; Howard-Flanders & Theriot, 1966; van de Putte et al., I966). At low u.v. doses recA- bacteria are extremely sensitive, but at higher doses the slope of the survival curve becomes very similar to the wild-type curve which indicates that the uor functions operate relatively more efficiently at high doses. ",
+        "bbox": [
+            119,
+            733,
+            891,
+            837
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            73,
+            880,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Excision and recombination appear as independent repair systems: a single mutation in the rec or uvr locus does not affect the functions of the other gene: uvr - bacteria and bacteriophage infecting this strain recombine normally, and with an increased frequency after u.v. irradiation (Jacob & Wollman, 1955; Baker & Haynes, 1967; Howard-Flanders, Boyce, Simson & Theriot, 1962). On the other hand, rec- bacteria can excise pyrimidine dimers from their DNA (Clark, Chamberlin, Boyce & HowardFlanders, 1966). ",
+        "bbox": [
+            108,
+            125,
+            880,
+            247
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the present work, the respective roles of genetic recombination and of excision for repairing u.v.-damaged phage λ DNA have been studied. The lethal damage to λ DNA at the u.v. doses used in these experiments was shown to be almost exclusively due to pyrimidine dimers (Krsmanovié-Simié, manuscript in preparation). The analysis of survival curves shows that recombination repair (controlled by the host rec and the λ red functions) is efficient only for small amounts of u.v. damage, whereas the excision repair mechanism starts to be efficient for highly damaged DNA. ",
+        "bbox": [
+            108,
+            248,
+            880,
+            371
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Blocking DNA replication of an u.v.-irradiated O cistron thermosensitive mutant of $\\lambda ,$ causes exclusively an increase of excision repair; conversely the replication of DNA favours recombination repair. ",
+        "bbox": [
+            108,
+            372,
+            880,
+            423
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These results lead to the conclusion that the repair of DNA by the uvr system (excision) takes place before DNA replication, and that its repair by the rec system (recombination) takes place, as suggested by Rupp & Howard-Flanders (1968), after and/or during replication. ",
+        "bbox": [
+            111,
+            425,
+            878,
+            494
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            363,
+            529,
+            626,
+            546
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(a) Phage strains ",
+        "text_level": 1,
+        "bbox": [
+            418,
+            558,
+            568,
+            573
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda ^ { + + }$ (Kaiser, 1957) is the wild-type strain. ",
+        "bbox": [
+            128,
+            576,
+            495,
+            592
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "λ cI857 is a thermosensitive c mutant isolated by Sussman & Jacob (1962). Lysogens of this phage grow normally below $\\mathbf { 3 2 ^ { \\circ } C }$ , but are induced upon exposure to $\\mathbf { 4 2 } \\mathbf { \\circ } \\mathbf { C }$ ",
+        "bbox": [
+            111,
+            592,
+            878,
+            621
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda \\mathrm { c } I 8 5 7 \\ r e d _ { 3 }$ (lacking exo- and $\\beta$ -functions) is defective in autonomous vegetative genetic recombination (Signer $\\&$ Weil, 1968). ",
+        "bbox": [
+            106,
+            621,
+            882,
+            650
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "λcI $O _ { 2 8 }$ (ts) is a clear O cistron thermosensitive mutant, isolated by Dr A. W. Harris and sent to Professor $\\mathbf { R }$ . Thomas who kindly provided us with all the phage strains. These were stored at $\\pmb { 4 } \\%$ in the storage medium of Weigle, Meselson & Paigen (1959). ",
+        "bbox": [
+            104,
+            650,
+            882,
+            694
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(b) Bacterial strains ",
+        "text_level": 1,
+        "bbox": [
+            405,
+            703,
+            581,
+            719
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ABl157 and KMBL49 are here considered to be wild type, as their uvr and rec genes are intact. These strains will be designated genotypically as $\\mathit { r e c } ^ { + }$ uvr+. Genotypically $\\mathit { r e c } ^ { + }$ uvr\" strains are AB1886 $( u v r \\pmb { A } _ { \\pmb { \\theta } } )$ , GY471 $( u v r B _ { 5 0 1 } )$ and KMBL100, dar- $\\pmb { \\mathscr { s } }$ (uvrC). Genotypically rec- uvr+ are: AB2463 $( r e c { A _ { 1 3 } } )$ and KMBL24l, also a recA mutant. The double mutant rec\" uvr\" is AB2480 $( r e c A _ { 1 3 } \\ u v r A _ { 6 } )$ . ",
+        "bbox": [
+            108,
+            722,
+            880,
+            796
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AB strains were isolated and described by Howard-Flanders et al. (1966) and HowardFlanders & Theriot (1966). They carry the following markers: ara+, $x y l ^ { + }$ , mtl+, gal+; leu\\~, pro\", his\", argB-; strA and tsx. ",
+        "bbox": [
+            108,
+            796,
+            878,
+            839
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "KMBL strains were isolated and described by van de Putte et al. (1965,1966). They are: thr-, leu\", thy-, pyr-, lac- and are Tl resistant mutants, derived from $\\pmb { \\cal { E } }$ coli CR34. GY471 was derived by Dr Devoret from KMBL49 and is ${ \\pmb { \\mathrm { F } } } ^ { - }$ , thr-, $\\pmb { l e u } ^ { - }$ , mal-, $\\pmb { \\imath } \\pmb { a } \\pmb { c } ^ { - }$ , $g a l ^ { + }$ , mal $^ +$ , $\\lambda ^ { s }$ , Sms. This strain and all AB strains were a kind gift from Dr R. Devoret. KMBL strains were provided by Dr A. Rörsch. ",
+        "bbox": [
+            106,
+            840,
+            878,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(c) Media ",
+        "text_level": 1,
+        "bbox": [
+            452,
+            76,
+            542,
+            92
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { T B _ { 1 } }$ broth, $\\mathbf { T A _ { 7 } }$ soft agar and the $\\mathbf { T A _ { 1 2 } }$ agar medium used for plating are described by Kaiser (1955). Other media are: ",
+        "bbox": [
+            113,
+            95,
+            884,
+            124
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tris-Mg, ${ \\bf 1 0 ^ { - 2 } M }$ Tris, $\\mathbf { p } \\mathbf { H } \\mathbf { \\Lambda } 7 { \\cdot } 5$ ,plus $\\mathbf { 1 0 ^ { - 2 } M { \\cdot } M g S O _ { 4 } }$ ",
+        "bbox": [
+            128,
+            125,
+            559,
+            140
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tris-Mg-gelatin has $0 { \\cdot } 0 1 \\%$ gelatin added. ",
+        "bbox": [
+            134,
+            140,
+            493,
+            153
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "fineral medium (as described by Dunn & Smith, 1957). ",
+        "bbox": [
+            141,
+            154,
+            621,
+            168
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Phosphate buffer, $\\mathbf { 1 0 ^ { - 2 } w }$ -phosphate buffer with $1 0 ^ { - 1 } \\mathrm { { \\bf M } } \\mathrm { { \\bf - N a C l } } , \\mathrm { p } \\mathrm { { \\bf H } } 7 { \\bf \\cdot 8 } .$ ",
+        "bbox": [
+            130,
+            169,
+            724,
+            182
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Storage medium was prepared according to Weigle et al. (1959). ",
+        "bbox": [
+            130,
+            184,
+            683,
+            197
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(d) Ultraviolet irradiation ",
+        "text_level": 1,
+        "bbox": [
+            388,
+            210,
+            608,
+            225
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Irradiation was carried out with a Mineralight lamp (Fisher Scientific Co., U.S.A.) with a maximum output at 2537 A. Dose rates were measured with a Latarjet dosimeter (Latarjet, Morenne & Berger, 1953). Phage suspensions were irradiated at less than $\\mathbf { 1 } \\mathbf { m m }$ thickness at a concentration of about $\\mathbf { 1 0 ^ { 8 } }$ particles/ml. in Tris- $\\mathbf { \\cdot M } \\mathbf { g } \\mathbf { \\cdot }$ gelatin medium. Bacteria were irradiated in Tris-Mg medium under the same conditions. ",
+        "bbox": [
+            111,
+            229,
+            884,
+            304
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(e) Phage assays ",
+        "text_level": 1,
+        "bbox": [
+            425,
+            317,
+            570,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Phage assays were carried out by standard techniques as described by Adams (1959). Phage were pre-adsorbed and photoreactivation during the experiments was avoided. ",
+        "bbox": [
+            111,
+            336,
+            888,
+            365
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(f) Radiochromatography of ultraviolet photoproducts in λ DNA ",
+        "text_level": 1,
+        "bbox": [
+            230,
+            377,
+            769,
+            394
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(i) $\\lambda ^ { + + }$ labelled with $\\mathfrak { a d } _ { \\mathrm { C } }$ was obtained by inducing $\\pmb { \\mathcal { E } }$ .coli K12 $( \\lambda ^ { + + } )$ with mitomycin C. Lysogenic bacteria were incubated in enriched mineral medium, harvested and resuspended in mineral medium containing $1 0 \\ \\mu \\mathrm { g }$ $[ ^ { 1 4 } \\mathrm { C } ]$ thymidine/ml. (specific activity 59 $\\mathbf { m c } / \\mathbf { m }$ -mole, Radiochemical Centre Amersham) and $1 \\mu \\mathrm { g }$ mitomycin $\\mathrm { C } / \\mathrm { m l }$ (Sigma Chemical Co.). After 3 to ${ \\bf 4 } \\ \\mathrm { h r }$ , chloroform was added and the phage was purified by low- and highspeed centrifugation and banding in a $\\mathbf { C s C 1 }$ density-gradient. Phage was resuspended in phosphate buffer and irradiated. ",
+        "bbox": [
+            111,
+            397,
+            884,
+            500
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(ii) $\\lambda$ DNA was extracted by $\\bf { N a C l O _ { 4 } }$ purified in a sucrose density-gradient and hydrolysed according to the method of Setlow & Carrier (1966). Chromatography was carried out on a thin layer of cellulose MM300 (Machery, Nagel & Co.) according to Randerath (1964). Other technical details for dimer estimation are described by Setlow & Carrier (1966). The radioactivity was measured in a Nuclear Chicago scintillation counter. ",
+        "bbox": [
+            111,
+            500,
+            884,
+            573
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "bbox": [
+            448,
+            603,
+            549,
+            621
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(a) Contribution of the bacterial uvr and rec functions and of the $\\lambda$ red functions to the survival of irradiated λ phage ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            630,
+            882,
+            666
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "recA- Bacteria are very sensitive to u.v. irradiation, but the $r e c ^ { - }$ mutation does not seem to affect very greatly the survival of u.v. irradiated $\\lambda$ phage (see Figure 1, solid triangles). Furthermore, genetic recombination of $\\lambda$ phage is not suppressed in recA- hosts (Brooks & Clark, 1967). This suggests that $\\lambda$ carries genetic information for its own repair and genetic recombination, which compensates for the bacterial deficiency in rec- bacteria. However $\\lambda$ red- mutants, incapable of autonomous vegetative recombination (Echols & Gingery, 1968; Signer $\\pmb { \\& }$ Weil, 1968), show an increased sensitivity to u.v. irradiation when plated on recA- bacteria (Echols & Gingery, 1968). ",
+        "bbox": [
+            111,
+            671,
+            884,
+            827
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Using u.v.-irradiated λ red mutants and bacterial uvr\" and rec- strains, all combinations for these three functions can be studied. Four typical cases $( r e d ^ { + } / r e c ^ { + } u v r ^ { + }$ , $r e d ^ { - } / r e c ^ { - } u v r ^ { + }$ , $r e d ^ { + } / r e c ^ { + } u v r ^ { - }$ and red-/rec-uvr-) are shown in Figure 1 (unbroken lines). All curves have exponential inactivation kinetics for doses above about 300 ergs $\\mathbf { m } \\mathbf { m } ^ { - 2 }$ . Beyond this \"critical dose\" all assays on uur+ strains (whether or not ",
+        "bbox": [
+            111,
+            828,
+            884,
+            915
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/318aab64e031aa70cb60e2434f67b322b73d5f3c6c60f38b4dc5f89f6a9755ab.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            119,
+            92,
+            829,
+            549
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "F1G. 1. Survival curves of u.v.-irradiated phage $\\lambda$ (closed symbols) and λ red- (open symbols) assayed on bacteria: ",
+        "bbox": [
+            111,
+            562,
+            878,
+            589
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$r e c ^ { + } \\ u v r ^ { + }$ (AB1157) (circles); $r e c A ^ { - } \\ u v r ^ { + }$ (AB2463) (triangles); rec+ uvrA- (AB1886) (squares) and recA- uvrA- (AB2480) (inverted triangles). ",
+        "bbox": [
+            126,
+            593,
+            476,
+            647
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Curves obtained with strains KMBL49 $( r e c ^ { + } u v r ^ { + } ,$ , KMBL $( r e c { \\bf } { \\bf } { \\bf } { \\bf } { \\bf } ^ { - } )$ and KMBL100 $( u v r { C ^ { - } } )$ or GY471 $( u v r B ^ { - } )$ were almost overlapping with those obtained with AB strains. ",
+        "bbox": [
+            111,
+            649,
+            876,
+            675
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The symbols are designated according to the relevant genetic structure of $\\lambda / E$ coli systems: ",
+        "bbox": [
+            115,
+            675,
+            876,
+            688
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "—•—•—, red+frec+uvr+;   \n------, red-|rec+uvr +;   \n-------, red+|rec−uvr+;   \n—∆−, red-/rec-uvr+; ",
+        "bbox": [
+            123,
+            691,
+            352,
+            745
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "red and rec are functional) show almost parallel slopes. In this respect, the most interesting curve is that for the red-/rec-uvr+ system, which shows that down to $1 0 \\%$ survival, the ur functions provide only slight repair activity. It can also be seen for low u.v. doses that $\\lambda$ phage recovers more efficiently in the $r e d ^ { + } / r e c ^ { + } u v r ^ { - }$ system than in the $r e d ^ { - } / r e c ^ { - } u v r ^ { + }$ system. In contrast, after higher doses, repair becomes much more efficient in the red- /rec-uvr+ than in the red+ /rec+uvr system. Strikingly similar relationships are obtained for bacterial survival curves (Howard-Flanders et $\\pmb { a l }$ , 1966, Howard-Flanders & Boyce, 1966; Ogawa, Shimada & Tomizawa, 1968). ",
+        "bbox": [
+            106,
+            777,
+            878,
+            918
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It can therefore be concluded: (i) for low u.v. doses excision repair is almost ineffective and recombination repair is the principal repair mechanism; (ii) for high u.v. doses excision repair becomes more efficient, whereas recombination alone is extremely inefficient. ",
+        "bbox": [
+            111,
+            73,
+            886,
+            141
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(b) Estimation of the number of pyrimidine dimers required for inactivation of λ phage in different genetic systems ",
+        "text_level": 1,
+        "bbox": [
+            217,
+            154,
+            775,
+            191
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Doses of u.v. used for the survival analysis (Fig. 1) produce one principal lethal damage to $\\lambda$ DNA: the pyrimidine dimer. Other damage, such as chain breaks and cross links are negligible (Krsmanovié-Simié, manuscript in preparation). An equal amount of T.T and C-T dimers were formed in the DNA of irradiated $\\lambda$ phage up to about 15,000 ergs $\\mathrm { m } \\mathrm { m } ^ { - 2 }$ , above which the ratio $\\mathbf { \\overline { { T . T } } / \\overline { { C . T } } }$ starts increasing with the dose. We were not able to measure $\\overrightarrow { \\mathrm { C } } \\cdot \\overrightarrow { \\mathrm { C } }$ dimers, probably because of the low specific activity of labelled cytidine; these however are not expected to increase the total number of dimers by more than $1 0 \\%$ (Setlow $\\&$ Carrier, 1966). The experimental variations in dimer estimation were lower than $1 0 \\%$ . ",
+        "bbox": [
+            113,
+            195,
+            886,
+            353
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/360f603754aa641a10ba689b8e98800d3edf5ed4b776e5f3f97906be2c8a27b8.jpg",
+        "table_caption": [
+            "TABLE 1 Number of thymine $+$ thymine-cytosine dimers induced by u.v. irradiation (see text) in λ DNA for $\\pmb { D _ { 3 7 } }$ taken from Figure 1. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            113,
+            435,
+            886,
+            603
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$1 \\mathrm { e r g } \\mathrm { m } \\mathrm { m } ^ { - 2 }$ of u.v. irradiation yields about 0·04 pyrimidine dimer $( \\mathbf { \\overline { { T } } } \\mathbf { \\cdot } \\mathbf { \\overline { { T } } } + \\mathbf { \\overline { { C } } } \\mathbf { \\cdot } \\mathbf { \\overline { { T } } } )$ per $\\lambda$ DNA. The estimation of the number of dimers per $\\lambda$ DNA for $1 / \\theta$ survival is summarized in Table 1. It is evident that the red functions of $\\lambda$ actively participate in the repair of its DNA. ",
+        "bbox": [
+            115,
+            616,
+            888,
+            687
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(c) Recovery of $\\lambda { \\bf c I O } _ { 2 8 }$ (ts) in $\\mathbf { u } \\mathbf { v } \\mathbf { r } ^ { + }$ bacteria during thermal inhibition of phage DNA replication ",
+        "text_level": 1,
+        "bbox": [
+            243,
+            700,
+            762,
+            736
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In order to study the influence of DNA replication on recombination and excision repair, a thermosensitive $\\lambda c I O _ { 2 8 } ( t s )$ mutant was used, the function of the O gene being absolutely necessary for replication of $\\lambda$ DNA (Brooks, 1965; Joyner, Isaacs, Echols & Sly, 1966; Ogawa & Tomizawa, ${ \\bf 1 9 6 8 ) \\dagger }$ The O-gene product of this $\\lambda$ mutant is inactive at $\\bf { 4 2 ^ { \\circ } C }$ ; its DNA cannot replicate at this temperature, but it replicates normally at $\\bf { 3 2 ^ { \\circ } C }$ No other major metabolic change is expected to take place at $\\bf { 4 2 ^ { \\circ } C } .$ . ",
+        "bbox": [
+            117,
+            739,
+            888,
+            846
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda c I O _ { 2 8 } ( t s )$ phages were irradiated with various u.v. doses in order to give approximately the same survival in all the bacterial assays. Irradiated and non-irradiated ",
+        "bbox": [
+            115,
+            846,
+            886,
+            880
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$^ \\dagger$ The products of λ O and $\\mathbf { P }$ cistrons seem to be a specific endonuclease required for initiation of the replication of circular $\\lambda$ DNA (Shuster & Weissbach, 1969). ",
+        "bbox": [
+            117,
+            888,
+            888,
+            916
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d11041403a6835bd17d1c7b2efb611a89be631b10e292c70d58bff309e3fe06.jpg",
+        "table_caption": [
+            "",
+            "20 "
+        ],
+        "table_footnote": [
+            "20 20 "
+        ],
+        "bbox": [
+            276,
+            71,
+            725,
+            815
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "phage were adsorbed at $\\bf { 4 0 ^ { \\circ } C }$ on ABI157, AB1886 (uvrA-), AB2463 $( r e c A ^ { - } )$ and AB2480 (recA - uvrA -) bacteria with a low multiplicity (less than 0·001) and plated at $\\bf { 4 2 ^ { \\circ } C } .$ ,One series was placed immediately at $\\bf { 3 2 ^ { \\circ } C }$ and the others were kept for different times at $\\bf { 4 2 ^ { \\circ } C }$ and then incubated overnight at $\\bf { 3 2 ^ { \\circ } C } .$ The results of typical experiments are shown in Table 2. Only in uvr+ bacteria is there an increased $\\lambda$ survival with increasing time of thermal inhibition of DNA replication. Damage by irradiation of 150 ergs $\\mathbf { m } \\mathbf { m } ^ { - 2 }$ can be totally repaired by excision during a one-hour replication block. The small survival increase in rec+ uvr+ compared to rec- uvr† bacteria can be explained by the presence of the rec gene, which probably enhances the relative contribution of rec repair under replicative conditions at $\\mathbf { 3 2 ^ { \\circ } C }$ . ",
+        "bbox": [
+            111,
+            70,
+            886,
+            247
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In rec+ uvr- bacteria, irradiated phages have a considerably lower survival after exposure to $\\bf { 4 2 ^ { \\circ } C }$ , which might be due to the attack of rec-controlled nucleases on u.v.-irradiated non-replicating DNA. Starting with a similar survival value at $\\mathbf { 3 2 ^ { \\circ } C }$ there are many more surviving phages in rec\" uvr+ than in rec+ uvr\" bacteria if DNA synthesis has been delayed for one hour at $\\bf { 4 2 ^ { \\circ } C }$ . ",
+        "bbox": [
+            115,
+            250,
+            888,
+            336
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is remarkable that the suppression of replication of λ DNA in rec -uvr- bacteria does not significantly influence phage survival, indicating again that the survival decrease in rec+uvr- bacteria is due to rec-controlled inactivation of non-replicating DNA. ",
+        "bbox": [
+            115,
+            336,
+            888,
+            406
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "These experiments strongly suggest that at least one step in excision repair of u.v.-irradiation damaged DNA occurs best before replication and that the genetic recombination mechanism repairs after or during DNA replication. ",
+        "bbox": [
+            117,
+            407,
+            888,
+            460
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "bbox": [
+            435,
+            472,
+            572,
+            489
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Excision repair of u.v.-induced pyrimidine dimers is thought to occur through the following steps: recognition of the lesion and incision, excision and broadening of the gap, gap-filling repair replication and covalent joining by the polynucleotide ligase (see for a review, Howard-Flanders, 1968). An implication of this model is that unfinished excision repair should be affected by semi-conservative DNA replication which would lead to lethal discontinuous double helices. ",
+        "bbox": [
+            117,
+            494,
+            891,
+            599
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, if the replication of a continuous DNA strand still containing pyrimidine dimers occurs, then, according to Rupp & Howard-Flanders (1968), a gap will appear in the daughter strand opposite each dimer. Post-replicative excision of such dimers is also expected to cause lethal double-strand breaks. It is therefore reasonable to suppose that excision of pyrimidine dimers can lead to efficient repair only before the first post-irradiation DNA replication. ",
+        "bbox": [
+            119,
+            600,
+            893,
+            704
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recombination can occur only in the presence of two homologous DNA duplexes, i.e. in the case of single DNA molecules, only after and/or during DNA replication, between the two newly-synthesized daughter double helices. ",
+        "bbox": [
+            119,
+            706,
+            895,
+            757
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results presented in this paper do suggest that efficient excision repair occurs only before the first post-irradiation DNA replication, recombination repair taking place after and/or during DNA replication. In this sense excision and recombination repair are complementary mechanisms. This is found to be the case when one enquires into the number of pyrimidine dimers necessary to reduce survival of $\\lambda$ phage to $1 / \\theta ,$ when assayed on the various bacterial strains (Table l). Two dimers are sufficient to inactivate phage in the red-/rec-uvr\" system. This is very similar to the finding for $\\pmb { \\cal { R } }$ , coli deficient in both excision and recombination (Howard-Flanders, Theriot $\\pmb { \\delta }$ Stedeford, 1969) where 1·3 dimers are found to be lethal. ",
+        "bbox": [
+            121,
+            758,
+            897,
+            913
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "If recombination and excision were independent and uncorrelated repair processes, then the wild-type $( r e d ^ { + } / r e c ^ { + } u v r ^ { + } )$ system would support up to $\\mathbf { 4 } + \\mathbf { 7 } { \\cdot } \\mathbf { 2 } = \\mathbf { 1 } \\mathbf { 1 } { \\cdot } \\mathbf { 2 }$ pyrimidine dimers in $\\lambda$ DNA. However, it repairs about 38 dimers (see Table l) suggesting that excision and recombination are complementary and in addition co-operative repair systems. A similar relationship between excision and recombination repair was found in $\\pmb { \\mathscr { L } }$ coli (Howard-Flanders, 1968). ",
+        "bbox": [
+            111,
+            70,
+            884,
+            175
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results in Table 2 clearly show that a blook in DNA replication enhances the efficiency of excision repair; on the contrary, replication favours recombination repair. Identical results have been obtained with $\\pmb { \\mathscr { L } }$ , coli mutants thermosensitive for DNA replication: excision only repairs with high efficiency u.v.-damaged E. coli DNA before the first replication (Radman & Errera, 1970). These results support suggestions that various recovery phenomena such as liquid holding (see Harm, 1966), starvation of bacteria and stationary phase of growth (Howard-Flanders, 1968; Horii & Suzuki, 1968) could simply be due to the efficient excision repair during a temporary inhibition of DNA synthesis. ",
+        "bbox": [
+            108,
+            178,
+            884,
+            333
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We would like to suggest that the complementarity or co-operativeness of excision and replication repair may simply be a consequence of the optimal timing for DNA replication. One of the major effects of u.v. irradiation in vivo is the inhibition of DNA synthesis (for review see Setlow, 1968). At low doses, replication will not be inhibited and therefore the sister exchange between daughter molecules will be possible (see scheme below). At high doses, replication being strongly inhibited, excision will proceed efficiently until replication resumes, recombination then taking care of residual dimers: ",
+        "bbox": [
+            108,
+            336,
+            882,
+            475
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef44a3d25c13dcf450be78dcbe949cdeada0ee4a2af312da67f2009764557a4e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            153,
+            492,
+            790,
+            654
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This scheme implicates the existence of a critical dose, above which DNA replication is inhibited by u.v. irradiation for a sufficiently long time to allow excision repair to take place. Pyrimidine clusters in the promoter regions (Szybalski, Kubinski & Sheldrick, 1966) could contribute to this control : following u.v. irradiation these will contain more dimers than other regions on the chromosome, and would be expected to inhibit DNA transcription and replication allowing efficient excision repair. ",
+        "bbox": [
+            111,
+            671,
+            882,
+            793
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Genetic recombination induced by u.v. irradiation (Jacob & Wollman, 1955) seems to be a consequence of recombination repair. Baker & Haynes (1967) studied u.v.-induced recombination among $\\lambda$ phage in the same host bacteria used in the present experiments. They found a linear increase in recombination frequency for low u.v. doses to $\\pmb { \\lambda }$ both in uvr+ and uvr- bacteria, but only in uvr+ bacteria did the recombination frequency remain constant beyond a critical dose, above which one expects that excision starts eliminating pyrimidine dimers (Fig. 1). ",
+        "bbox": [
+            111,
+            793,
+            882,
+            915
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The recombination frequency curves obtained by Baker & Haynes (1967) and the λ survival curves (Fig. 1) are in agreement with the scheme suggested above. The u.v.-induced recombination among $\\lambda$ phage occurred also in recA- hosts (Baker & Haynes, 1967), i.e. it can be promoted by $\\lambda$ red functions, expressed only after λ DNA replication (M. Yarmolinsky and P. Brachet, personal communications). ",
+        "bbox": [
+            113,
+            73,
+            886,
+            160
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, the control of replication and transcription of u.v.-irradiated DNA is expected to be an essential factor for the optimal repair by excision and recombination. ",
+        "bbox": [
+            113,
+            162,
+            886,
+            211
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We are indebted to Drs R. K. Appleyard, R. Devoret, M. Drakulic, A. Roller and R. Thomas for many helpful discussions. ",
+        "bbox": [
+            113,
+            226,
+            884,
+            255
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Two of us (M.R. and L.C.) were Research Fellows of the European Molecular Biology Organization. ",
+        "bbox": [
+            111,
+            255,
+            886,
+            285
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work was carried out under Contract Euratom-U.L.B. 007-61-10 BIAB and was supported by the U.S. National Institutes of Health (Research grant no. 6214) and by the Fonds de la Recherche Fondamentale Collective. ",
+        "bbox": [
+            113,
+            285,
+            886,
+            328
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            429,
+            355,
+            572,
+            369
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Adams, M. H. (1959). Bacteriophages. New York: Interscience.   \nBaker, R. M. & Haynes, R. H. (1967). Mol. Gen. Genetics, 100, 166.   \nBeukers, R. & Berends, W. (1960). Biochim. biophys. Acta, 41, 550.   \nBoyce, R. P. & Howard-Flanders, P. (1964). Proc. Nat. Acad. Sci., Wash. 51, 293.   \nBrooks, K. (1965). Virology, 26, 489.   \nBrooks, K. & Clark, A. J. (1967). J. Virol. 1, 283.   \nClark, A. J., Chamberlin, M., Boyce, R. P. & Howard-Flanders, P. (1966). J. Mol.   \nBiol. 19, 442.   \nClark, A. J. & Margulies, A. D. (1965). Proc. Nat. Acad. Sci., Wash. 53, 451.   \nDunn, R. B. & Smith, J. D. (1957). Biochem. J. 67, 494.   \nEchols, H. & Gingery, R. (1968). J. Mol. Biol. 34, 239.   \nHarm, W. (1966). Photochem. Photobiol. 5, 747.   \nHorii, Z. I. & Suzuki, K. (1968). Photochem. Photobiol. 8, 93.   \nHoward-Flanders, P. (1968). Ann. Rev. Biochem. 37, 175.   \nHoward-Flanders, P. & Boyce, R. P. (1966). Radiation Res. (suppl.) 6, 156.   \nHoward-Flanders, P., Boyce, R. P., Simson, E. & Theriot, L. (1962). Proc. Nat. Acad.   \nSci., Wash. 48, 2109.   \nHoward-Flanders, P., Boyce, R. P. & Theriot, L. (1966). Genetics, 53, 1119.   \nHoward-Flanders, P. & Theriot, L. (1966). Genetics, 53, 1137.   \nHoward-Flanders, P., Theriot, L. & Stedeford, J. B. (1969). J. Bact. 97, 1134.   \nJacob, F. & Wollman, E. L. (1955). Ann. Inst. Pasteur, 88, 724.   \nJoyner, A., Issaacs, L. N., Echols, H. & Sly, W. S. (1966). J. Mol. Biol. 19, 174.   \nKaiser, A. D. (1955). Virology, 1, 424.   \nKaiser, A. D. (1957). Virology, 3, 42.   \nLatarjet, R., Morenne, P. & Berger, R. (1953). Ann. Inst. Pasteur, 85, 174.   \nOgawa, H., Shimada, K. & Tomizawa, J. (1968). Mol. Gen. Genetics, 101, 227.   \nOgawa, T. & Tomizawa, J. (1968). J. Mol. Biol. 38, 217.   \nvan de Putte, P., van Sluis, C. A., van Dillewijn, J. & Rörsch, A. (1965). Mutation Res.   \n2, 97.   \nvan de Putte, P., Zwenk, H. & Rörsch, A. (1966). Mutation Res. 3, 381.   \nRadman, M. & Errera, M. (1970). Mutation Res. in the press.   \nRanderath, K. (1963). Thin-layer Chromatography. New York and London: Academic Press.   \nRupp. W. D. & Howard-Flanders, P. (1968). J. Mol. Biol. 3l, 291.   \nSetlow, R. B. (1968). In Progress in Nucleic Acid Research and Molecular Biology, ed.   \nby J. N. Davidson & W. E. Cohn, vol. 8, p. 257. New York and London: Academic Press.   \nSetlow, R. B. & Carrier, W. L. (1964). Proc. Nat. Acad. Sci., Wash. 5l, 266. Setlow, R. B. & Carrier, W. L. (1966). J. Mol. Biol. 17, 237.   \nShuster, R. C. & Weissbach, A. (1969). Nature, 228, 852.   \nSigner, E. R. & Weil, J. (1968). J. Mol. Biol. 34, 261.   \nSussman, R. & Jacob, F. (1962). C. R. Acad. Sci. Paris, 254, 1517.   \nSzybalski, W., Kubinski, H. & Sheldrick, P. (1966). Cold Spr. Harb. Symp. Quant. Biol.   \n31, 123.   \nWacker, A., Delweg, H. & Weinblum, D. (1960). Naturwiss. 47, 477.   \nWeigle, J. J., Meselson, M. & Paigen, K. (1959). J. Mol. Biol. 1, 379. ",
+        "bbox": [
+            111,
+            371,
+            886,
+            921
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            71,
+            884,
+            191
+        ],
+        "page_idx": 9
+    }
+]

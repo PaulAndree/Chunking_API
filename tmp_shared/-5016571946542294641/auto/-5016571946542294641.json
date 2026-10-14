@@ -1,0 +1,371 @@
+[
+    {
+        "type": "text",
+        "text": "Concierto de The Beatles en la azotea ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            97,
+            744,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A mediodía del 30 de enero de 1969, la banda británica The Beatles comenzaba el llamado Concierto en la azotea. El cuarteto de Liverpool, acompañados del tecladista Billy Preston, se reunió de forma sorpresiva en la azotea de los Apple Corps –el estudio de grabación de la banda– en Londres, y tocaron durante unos 40 minutos en el que sería su último concierto en vivo.1 ",
+        "bbox": [
+            70,
+            140,
+            556,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "No obstante, no se trató realmente de un concierto, sino de una actuación improvisada en la que ni siquiera había público, salvo algunos trabajadores de las oficinas de Apple Corps y algunos policías. El grupo llevaba dos años y cinco meses sin hacer una gira y había decidido no hacer más. Su último concierto había sido el celebrado en Candlestick Park, San Francisco el 29 de agosto de 1966, perteneciente a la gira \"Beatles '66 US Tour\". ",
+        "bbox": [
+            70,
+            289,
+            556,
+            439
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Historia ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            475,
+            178,
+            497
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Las sesiones de lo que iba a ser el nuevo disco de The Beatles, que sería titulado Get Back, empezaron el 2 de enero de 1969 en los estudios cinematográficos de Twickenham de Londres, siendo el director Michael Lindsay-Hogg el encargado del rodaje del documental, pero prontamente se vio que la dinámica no compatibilizaba con la estabilidad del grupo. Por un lado, las condiciones no eran las más adecuadas para The Beatles, acostrumbrados como estaban a trabajar en los estudios de EMI a sus anchas y durante largas sesiones nocturnas que se extendían a menudo hasta la madrugada: los estudios de Twickenham eran muy fríos y tenían mala acústica, y al tener que contar con el equipo de grabación del documental, tenían que ensayar durante la mañana y la primera parte de la tarde. ",
+        "bbox": [
+            70,
+            514,
+            556,
+            798
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Los ánimos del grupo estaban cada vez más caldeados, ya que de los cuatro, sólo Paul McCartney mostraba interés por sacar el grupo hacia delante y ofrecer un buen álbum; John Lennon, junto a Yoko Ono, pasaba por una adicción a las drogas que redujo casi totalmente su interés por la música de la banda. Mientras George Harrison se sentía menospreciado por el resto de sus compañeros, que no apreciaban su virtud como compositor. ",
+        "bbox": [
+            70,
+            814,
+            556,
+            908
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c690b3c68ec62a7f4d545e6b029bfafa71c96ea4bc42f6059548fe1269da3df.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            584,
+            149,
+            919,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5593b678421d8dd91440d58fc42bc949abfd056551df19a921f8cccca766435.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            581,
+            637,
+            904,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            43,
+            556,
+            98
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Como resultado, para el 10 de enero, y tras una muy dura discusión con McCartney, George Harrison anunció que dejaba el grupo. Aunque un sarcástico Lennon propuso [cita requerida]  sustituirlo por Jimi Hendrix o Eric Clapton y seguir como si nada importara, finalmente la situación se recompuso, pero con dos cambios importantes: el primero fue el traslado de las sesiones de Twickenham a los estudios de grabación que The Beatles tenían en su empresa, Apple, en la calle de Savile Row de la ciudad de Londres; el segundo fue que, al poco de retomar las sesiones, Harrison invitase al pianista Billy Preston, amigo del grupo desde sus días en Hamburgo, a que se uniera a las sesiones y tocara el piano en el planeado concierto. Ambos hechos mejoraron sobremanera el ambiente en las sesiones de grabación del grupo. ",
+        "bbox": [
+            70,
+            114,
+            556,
+            228
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3109a711e1a4420c9bd8e27e64a2814be89076b0c68ed0b384e2ced71207f288.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            578,
+            41,
+            926,
+            204
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            229,
+            931,
+            323
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La cuestión acerca de dónde, cuándo y cómo se iba a hacer el concierto se debatió desde los primeros días de las sesiones. Después de barajar ideas descabelladas (tocar en un hospital rodeados de niños enfermos, a bordo de un barco con multitud de admiradores, o frente a las pirámides de Egipto con un público formado por beduinos del desierto), se optó finalmente por una idea ingeniosa que a todos satisfizo: ¿Por qué tener que molestarse con los preparativos y desplazamientos propios de todo concierto cuando el grupo puede subirse al tejado del edificio donde trabajaban, enchufar los instrumentos y ponerse a tocar allí mismo? A la hora del almuerzo del 30 de enero, The Beatles tocaron el que era el primer \"concierto\" desde la gira americana del verano de 1966 y el que sería a la postre el último de su carrera.2 The Beatles tocaron varias de las canciones que habían ensayado durante las semanas previas al concierto. ",
+        "bbox": [
+            70,
+            338,
+            931,
+            509
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La banda tocó hasta que las quejas de los vecinos de la zona llevaron a la policía a poner fin al concierto. Varias de las canciones terminaron por incluirse en el disco Let It Be. Al día siguiente, 31 de enero, The Beatles grabaron algunas otras canciones que podían interpretarse en directo (como los temas \"Let It Be\" o \"For You Blue\"), con lo que se puso fin a las sesiones para aquel disco. ",
+        "bbox": [
+            70,
+            524,
+            931,
+            599
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El concierto es recordado hasta nuestros días como una revolución en la música. ",
+        "bbox": [
+            70,
+            616,
+            719,
+            633
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Referencias culturales ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            668,
+            357,
+            692
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Se hace un homenaje de este concierto en el capítulo \"Homer's Barbershop Quartet\" de la serie norteamericana Los Simpsons, en donde Homer, Skinner, Apu y Barney están vestidos con la misma ropa que Los Beatles ese día y donde también termina interfiriendo la policía. Incluso el propio George Harrison hace un pequeño cameo en esa parte, diciendo \"Eso ya se ha visto/Eso ya se hizo\". ",
+        "bbox": [
+            82,
+            712,
+            931,
+            794
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La Banda ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            817,
+            200,
+            839
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Beatles ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            864,
+            186,
+            881
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "John Lennon: Vocalista, guitarra rítmica, guitarra solista (Epiphone Casino).   \nPaul McCartney: Vocalista, bajo (Höfner 500/1 63'). George Harrison: Coros, guitarra solista, guitarra rítmica (Fender Rosewood Telecaster).   \nRingo Starr: Batería (Ludwig Hollywood Maple). ",
+        "bbox": [
+            82,
+            896,
+            781,
+            933
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            80,
+            42,
+            895,
+            80
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Músicos adicionales ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            93,
+            270,
+            111
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Billy Preston: Piano eléctrico (Fender Rhodes). ",
+        "bbox": [
+            80,
+            125,
+            526,
+            144
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lista de canciones ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            166,
+            309,
+            188
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. \"Get Back\" (toma uno)   \n2. \"Get Back\" (toma dos)   \n3. \"Don't Let Me Down\" (toma uno)   \n4. \"I've Got a Feeling\" (toma uno)   \n5. \"One After 909\"   \n6. \"Dig a Pony\"   \n7. \"God Save The Queen\" - Jam (arreglos por The Beatles)   \n8. \"I've Got a Feeling\" (toma dos)   \n9. \"Don't Let Me Down\" (toma dos)   \n10. \"Get Back\" (toma tres) ",
+        "bbox": [
+            77,
+            209,
+            613,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fechas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            427,
+            163,
+            448
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/409bdaeb8abe10b9af1c5b9bb28d7f2916ead0ed927fd90dfd05808dbf90b963.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            72,
+            471,
+            927,
+            521
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            554,
+            225,
+            576
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. TelesurTV. «Los Beatles juntos por última vez, desde la terraza» (https://www.telesurtv.net/n ews/Los-Beatles-juntos-por-ultima-vez-desde-la-terraza--20150130-0035.html). Consultado el 30 de enero de 2019. ",
+        "bbox": [
+            75,
+            598,
+            932,
+            646
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Las crónicas del último concierto (https://web.archive.org/web/20091215212600/http://comu nidad.lavanguardia.es/component/20090129/679697/los-beatles-siguen-vivos.xhtml) ",
+        "bbox": [
+            72,
+            650,
+            926,
+            684
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de title=Concierto_de_The_Beatles_en_la_azotea&oldid=169965942» ",
+        "bbox": [
+            73,
+            704,
+            574,
+            733
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "«https://es.wikipedia.org/w/index.php? ",
+        "bbox": [
+            643,
+            704,
+            927,
+            719
+        ],
+        "page_idx": 2
+    }
+]

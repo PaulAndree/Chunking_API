@@ -1,0 +1,158 @@
+[
+    {
+        "type": "text",
+        "text": "Argument Extraction and Classification. Framework and Results ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            104,
+            815,
+            151
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Based on the suggestions done previously, including article type tagging, addressing conceptual overlap, and identifying reasoning patterns, we want to propose another approach grounded in Walton's argumentation framework, which defines an argument as \"a structured attempt to justify a claim (conclusion) by giving reasons (premises).\" This definition aligns very well with our use case for argument extraction. Moreover, Walton provides a well defined argumentation scheme (aka reasoning patterns) that serve as templates for common types of arguments used in scientific contexts and other domains. As suggested in reference [1], we selected a five-category scheme set from Walton's framework to perform one initial test with the article “Protein Damage, Ageing and Age-Related Diseases” ",
+        "bbox": [
+            114,
+            189,
+            877,
+            363
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The workflow followed three connected steps: ",
+        "bbox": [
+            116,
+            376,
+            514,
+            393
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Argument Recognition and Extraction: Identify and extract conclusions and premises from documents. ",
+        "bbox": [
+            140,
+            406,
+            852,
+            441
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Argument Classification: Categorize arguments using the five-category scheme set. ",
+        "bbox": [
+            143,
+            448,
+            812,
+            484
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. Argument Validation: Filter arguments to ensure alignment with Walton's definition. ",
+        "bbox": [
+            140,
+            491,
+            825,
+            526
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These “reasoning patterns” are not standard categories in established argumentation taxonomies. ",
+        "bbox": [
+            114,
+            568,
+            753,
+            603
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "So: ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            617,
+            150,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Damage-Cascade (Snowball) Reasoning (RP3) and 1. Root-Cause Reduction Reasoning (RP1) $\\mathbf { \\mu } _ { - > }$  Argument from cause to effect . Argument from explanation ",
+        "bbox": [
+            114,
+            645,
+            826,
+            699
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Weak-Link / System Fragility Reasoning (RP2) $\\bullet >$ Argument from causal mechanism ",
+        "bbox": [
+            112,
+            710,
+            810,
+            746
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4. Comparative / Extreme-Case Reasoning (RP4) $\\mathbf { \\mu } _ { - > }$ Argument from analogy ",
+        "bbox": [
+            111,
+            757,
+            818,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Argument results: ",
+        "bbox": [
+            116,
+            819,
+            271,
+            837
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "bbox": [
+            116,
+            330,
+            222,
+            348
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Feng, V. W., & Hirst, G. (2011). Classifying arguments by scheme. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies (pp. 987–996). Association for Computational Linguistics. ",
+        "bbox": [
+            145,
+            359,
+            848,
+            431
+        ],
+        "page_idx": 1
+    }
+]

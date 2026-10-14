@@ -1,0 +1,570 @@
+[
+    {
+        "type": "text",
+        "text": "Indirect Ultraviolet-Reactivation of Phage λ ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            99,
+            540,
+            119
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(mutagenesis/repair of DNA/bacterial conjugation/Escherichia coli) ",
+        "bbox": [
+            133,
+            125,
+            596,
+            137
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JACQUELINE GEORGE\\*, RAYMOND DEVORET, AND MIROSLAV RADMAN† ",
+        "bbox": [
+            106,
+            150,
+            687,
+            165
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire d'Enzymologie, Centre National de la Recherche Scientifque, 1190 Gif-sur-Yvete, France ",
+        "bbox": [
+            106,
+            172,
+            718,
+            185
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jommunicated by Richard B. Setlow, September 13, 1973 ",
+        "bbox": [
+            112,
+            194,
+            442,
+            205
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT When an $\\mathbf { F } ^ { - }$ recipient Escherichia coli K12 bacterium receives Hfr or $\\mathbf { F } _ { } { l a c } ^ { + }$ DNA from an ultraviolet-irradiated donor, its capacity to promote DNA repair and mutagenesis of ultraviolet-damaged phage λ is substantially increased. ",
+        "bbox": [
+            106,
+            228,
+            500,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We call this phenomenon indirect ultraviolet-reactivation, since its features are essentially the same as those of ultraviolet-reactivation; this repair process occurs in pyrimidine dimer excision-deficient strains and produces clear plaque mutations of the restored phage. Moreover, this process is similar to indirect ultraviolet-induction of prophage λ, since it is promoted by conjugation. However, contrarily to indirect induction, it is produced by Hfr donors and occurs in recipients restricting the incoming ultraviolet-damaged donor DNA. ",
+        "bbox": [
+            106,
+            285,
+            500,
+            398
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The occurrence of indirect ultraviolet-reactivation provides evidence for the existence in E. coli of an inducible error-prone mechanism for the repair of DNA. ",
+        "bbox": [
+            106,
+            398,
+            500,
+            433
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The survival of ultraviolet (UV)-irradiated phage $\\lambda$ is increased when the host cell has been exposed to a low UV dose before infection. This phenomenon, known as UV-reactivation (1), is accompanied by a high rate of mutation (UV-mutagenesis) of the reactivated phage (2). ",
+        "bbox": [
+            106,
+            441,
+            500,
+            511
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UV-reactivation as well as UV-mutagenesis of phage λ require for their occurrence the bacterial recA and lex gene functions (3, 4). This requirement is also shared by UV-induction of prophage $\\lambda$ (5-8) as well as by UV-mutagenesis of Escherichia coli K12 (9, 10). This has led Defais et al. (4) to suggest that common pathways might be involved in the abovementioned phenomena. ",
+        "bbox": [
+            104,
+            511,
+            500,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Since lysogenic induction in a lysogenic recipient cell can be obtained \"indirectly\" by conjugation with a UV-irradiated $\\mathbf { F } ^ { + } \\left( 1 1 , 1 2 \\right)$ or $\\mathbf { F ^ { \\prime } }$ donor (13), if the above hypothesis is correct, one should be able to produce UV-reactivation of phage $\\lambda$ as well as its mutagenesis in a recipient host cell mated with a UV-damaged $\\mathbf { F ^ { \\prime } }$ donor. This paper shows that this is indeed the case. Therefore, we call the repair process described here indirect UV-reactivation. Its conditions of occurrence have been compared to those of indirect UV-induction. ",
+        "bbox": [
+            104,
+            608,
+            500,
+            731
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The occurrence of indirect UV-reactivation provides evidence for the existence in $E$ .coli of an inducible error-prone DNA repair mechanism. ",
+        "bbox": [
+            106,
+            732,
+            500,
+            772
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            197,
+            782,
+            411,
+            795
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacteria and Bacteriophages. Bacteria used are described in Table 1. Symbols conform to the recommendations of Demerec et al. (14). All $\\mathbf { F } ^ { - }$ strains were derived from G $\\mathbf { Y _ { \\lambda } 1 5 8 : F ^ { - } } $ thr-4 leu-8 thi-1 pyrF49 dra-34 thyA34 lacY1 tonA101 supE, except AB 2480. $\\mathbf { F } _ { 2 } { - } l a c ^ { + }$ was that from Jacob and Adelberg. Bacteria were rendered resistant to streptomycin $( \\mathrm { S t r } ^ { \\mathbf { R } } )$ or spectinomycin $( \\mathrm { { \\bf S } p c ^ { R } } )$ by transduction with phage P1 grown on GY 2049 str or on GY 2339 spc. Bacteria resistant to phage $\\lambda$ $\\left( \\mathrm { L a m } ^ { \\mathbf { R } } \\right)$ were selected against λvir as white colonies on eosinmethylene blue-maltose plates. Bacteria resistant to phage P1 $( \\mathrm { P o n } ^ { \\mathbf { R } } )$ were obtained as resistant to phage 62c (this paper). Phage λpapa was used throughout for UV-reactivation experiments. In restricting crosses (see Table 2), it was modified by previous growth on P1CM (15) lysogens. ",
+        "bbox": [
+            106,
+            803,
+            501,
+            829
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            539,
+            229,
+            934,
+            393
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Indirect UV-Reactivation Experiments were performed as follows: logarithmic phase cultures of donor and recipient bacteria at $2 \\times 1 0 ^ { 8 }$ cells per ml were centrifuged at $4 ^ { \\circ }$ , and the pellets were resuspended in cold 0.01 M $\\mathbf { M g S O } { _ { \\mathrm { i } } }$ solution. Aliquots of the suspensions were exposed to UV light; when only one UV dose was given to the donor it was 1600 ergs/ $\\mathrm { \\bf ~ m m ^ { 2 } }$ Irradiated and nonirradiated samples were centrifuged and the pellets resuspended in broth, donor bacteria being concentrated 5-fold. The survival of donor and recipient bacteria was then measured. Bacterial conjugation was carried out by mixing equal volumes of donor and recipient cultures, which were immediately distributed into small tubes and incubated in the dark for $2 5 \\ \\mathrm { m i n }$ at $3 7 ^ { \\circ }$ with gentle agitation. Then, dilutions of UV-irradiated (or not) phage λ were added at multiplicities of infection of less than $\\mathbf { 1 0 ^ { - 2 } }$ to the small tubes in which phage adsorption took place for $\\bf { 2 5 } \\operatorname* { m i n }$ at $3 7 ^ { \\circ }$ . The suspensions were then plated with AB 2480 indicator bacteria. In the mating mixture, the strain that was not host for phage λ was always $\\mathbf { L a m ^ { R } }$ . Plaques were counted after overnight incubation at $3 7 ^ { \\circ }$ . The efficiency of conjugation was determined at ${ \\bf 2 5 } \\mathrm { m i n }$ , before the addition of phage to the mixture, by measuring the number of recipients having acquired the $l a c ^ { + }$ gene from the nonirradiated donor. ",
+        "bbox": [
+            539,
+            402,
+            934,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Direct UV-Reactivation Experiments were performed under conditions similar to those described above, except that donors were not added, since their addition gave identical results in control experiments. Host bacteria were exposed to 800 or 50 ergs/ $\\mathrm { \\bf { m m ^ { 2 } } }$ , according to whether or not they were able to excise pyrimidine dimers ${ \\mathrm { U } } \\mathbf { v } \\mathbf { r } ^ { + }$ or Uvr-). ",
+        "bbox": [
+            539,
+            727,
+            936,
+            808
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UV-Reactivation Factor. UV-reactivation of $\\lambda$ was always determined at about ${ \\bf 1 0 ^ { - 2 } }$ survival of the phage plated either on ${ \\mathrm { U } } \\mathbf { v } \\mathbf { r } ^ { + }$ or $\\mathrm { U } \\mathrm { v } \\mathrm { r } ^ { - }$ bacteria; exposure doses of the phage to UV light were 1500 and $\\mathbf { 4 5 0 e r g s / m m ^ { 2 } }$ , respectively. The reactivation factor was estimated as the ratio of $\\lambda$ survival on a host carrying UV-damaged bacterial DNA over that on a host without UV-damage to the bacterial DNA. For the sake of brevity, in the tables, phage and bacteria that were exposed to UV light have been labeled with an asterisk. ",
+        "bbox": [
+            539,
+            815,
+            936,
+            912
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c6b60756f20d016bd83887f64acec22dbab077c94cfbe6aa5e0aaa2179da5cf6.jpg",
+        "image_caption": [
+            "FIG. 1. Indirect UV-reactivation was determined on GY 688 mated with UV-irradiated Hfr GY 1151 $( { \\mathsf { O } } \\mathrm { - } \\mathrm { - } { \\mathsf { O } } )$ and with F$l a c ^ { + } \\mathbf { G Y 8 5 4 }$ $( \\bullet - \\bullet )$ . The titer of phage λ used was $3 \\times 1 0 ^ { 6 } / \\mathrm { m l }$ its survival was precisely $\\bf { 1 0 ^ { - 2 } }$ in this experiment. The percentages of recipients having acquired ${ \\bf L a c ^ { + } }$ were $5 9 \\%$ (cross GY $8 5 4 \\ \\times$ GY 688); $1 7 \\%$ (cross GY $\\mathbf { \\Sigma } ^ { \\prime } \\mathbf { \\Sigma } ^ { 1 1 5 1 } \\mathbf { \\Sigma } \\times \\mathbf { \\Sigma } \\mathbf { G Y }$ 688). The reactivation factor is plotted on the ordinate against the UV dose given to the donor, on the abscissa. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            173,
+            75,
+            352,
+            321
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            63,
+            446,
+            459,
+            473
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Miscellaneous. Media and experiments on indirect induction of prophage λ were as published previously (12). UV doses were measured with a Latarjet dosimeter. ",
+        "bbox": [
+            62,
+            481,
+            459,
+            522
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            225,
+            531,
+            297,
+            544
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Indirect UV-Reactivation of Phage λ. The number of plaques formed by UV-irradiated phage $\\gimel$ on an $\\mathbf { F } ^ { - }$ recipient host cell crossed with an $\\mathbf { F } { \\boldsymbol { - } } l a c ^ { + }$ or Hfr donor increases when the donor has been exposed to UV light before mating (Fig. 1). However, the reactivation factor under these conditions is 3-5, lower than that found (about 10) on directly UV-irradiated host cells (direct UV-reactivation). Such a difference can almost completely be accounted for by the variable efficiency of DNA transfer to the recipient. ",
+        "bbox": [
+            62,
+            551,
+            459,
+            592
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/769753e03e38eaac37d455aea44b8a11917771fbe637bda4fe085ccc9efe7d40.jpg",
+        "table_caption": [
+            "TABLE 1. Bacterial strains "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            57,
+            628,
+            455,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/71b4e1dfbec97aa0fa3ae5faa3ec3f0e062e241c0dfd311d907013689423ad4f.jpg",
+        "table_caption": [
+            "TABLE 2. Phage reactivation experiments ",
+            "\\* The sign \\* in this and subsequent tables indicates that bacteria or phage have been UV-irradiated. The percentages of recipients having acquired ${ \\mathrm { { L a c } } } ^ { + }$ were $7 2 \\%$ in Al, $8 2 \\%$ in $\\mathbf { A } _ { 2 }$ ; $8 0 \\%$ in $\\mathbf { B _ { 1 , } }$ and $1 0 0 \\%$ in $\\mathbf { B _ { 2 } }$ ; $2 7 \\%$ in $\\mathbf { C _ { 1 } }$ and less than ${ \\bf 1 0 ^ { - 4 } }$ in the restrictive cross $\\mathbf { C _ { 2 } }$ To avoid its restriction in GY 743, λ.P1CM $\\gimel$ grown on a P1CM lysogen) was used in experiments $\\mathbf { C _ { 1 } }$ and $\\mathbf { C _ { 2 } }$ . "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            503,
+            89,
+            888,
+            689
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            490,
+            792,
+            887,
+            875
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The phage reactivation process described here is not an enhanced host-cell reactivation, since it is not abolished in an $\\mathbf { F } ^ { - }$ recipient λ host deficient in pyrimidine dimer excision repair (Table 2, Exp. ${ \\bf A } _ { 1 }$ and $\\mathbf { A _ { 2 } } ,$ This finding parallels what is found in direct UV-reactivation (4, 16). Yet, bacteria carrying uvrB5, used in this series of experiments, appear to be less proficient in UV-reactivation of λ than some other uvrA, uvrB, or uvrC bacteria (16). ",
+        "bbox": [
+            486,
+            876,
+            883,
+            930
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ad555863c64340417da056e1b6839f3c073bdcbfa7ad6508d1394f0f4224977.jpg",
+        "table_caption": [
+            "TABLE 3. Mutagenesis during reactivation "
+        ],
+        "table_footnote": [
+            "Mutagenesis was scored by the number of clear plaque mutants arising from about ${ \\bf 1 0 ^ { 5 } }$ plaques of $\\gimel$ survivors. Lac+ transfer was $1 0 \\%$ . "
+        ],
+        "bbox": [
+            114,
+            84,
+            508,
+            263
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            114,
+            320,
+            509,
+            375
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, a high rate of mutation of $\\lambda$ to clear plaque mutants is observed when UV-irradiated phage λ is reactivated in a recipient crossed with a UV-damaged HfrH donor (Table 3). ",
+        "bbox": [
+            114,
+            376,
+            509,
+            430
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The rate of mutation is of the same magnitude as that found in direct UV-reactivation. ",
+        "bbox": [
+            112,
+            431,
+            509,
+            457
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since UV-reactivation can be characterized as (i) a repair process that is highly mutagenic for the recovered phage, and (ii) taking place in uvr- hosts, we propose to call this repair process indirect UV-reactivation by analogy to indirect UVinduction of prophage λ (12). ",
+        "bbox": [
+            114,
+            458,
+            511,
+            526
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Indirect UV-Reactivation Is Induced by Transferred UVDamaged DNA. To prove this point and eliminate the possibility that indirect UV-reactivation could be either due to some component released into the medium by the irradiated donor or promoted solely by the cell wall contact, we sought to demonstrate that indirect UV-reactivation is determined by the direction of conjugal transfer. Indeed, only in those λ hosts that were recipients of the UV-damaged transferred ",
+        "bbox": [
+            116,
+            535,
+            511,
+            645
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA, did UV-reactivation of λ take place (Table 2, $\\mathbf { B _ { 1 } }$ and $\\bf { B _ { 2 } } )$ . ",
+        "bbox": [
+            545,
+            68,
+            942,
+            94
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "It has been demonstrated that conjugal transfer of UVdamaged episomal DNA (13, 17), as well as Hfr DNA (J. George, unpublished), is not diminished after UV-irradiation of the donor bacteria, at least in the range of UV doses used here. This, taken together with the control experiments described just above, suggests that indirect UV-reactivation is induced in a nonirradiated host cell by the introduction of UV-damaged bacterial DNA. ",
+        "bbox": [
+            547,
+            95,
+            942,
+            204
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Indirect UV-Reactivation Versus Indirect UV-Induction. It was previously established (12, 13, 18) that indirect UV-induction of prophage λ results from the transfer of an entire UVdamaged replicon. Restriction in the recipient lysogen of the incoming DNA abolishes prophage induction (19). In contrast to indirect prophage induction, indirect UV-reactivation can be promoted with equal efficiency by either $\\mathbf { F ^ { \\prime } }$ or Hfr donors as shown in Fig. 1, Table 2, and Table 4. ",
+        "bbox": [
+            547,
+            212,
+            944,
+            321
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Moreover, restriction of the incoming UV-damaged donor DNA in the recipient by a factor of ${ \\bf 1 0 ^ { 4 } }$ only slightly decreases the efficiency of indirect UV-reactivation of unrestricted phage λ infecting the same recipient (Table 2, $\\mathrm { C } _ { 1 }$ and $\\mathrm { C _ { 2 } } ,$ . If degradation of the transferred DNA takes place, a very likely occurrence, this does not prevent the appearance of the phenomenon. ",
+        "bbox": [
+            547,
+            323,
+            944,
+            417
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A repeated decrease of direct UV-reactivation of λ. P1CM in GY 688 not lysogenic for P1CM was found (Exp. $\\mathrm { C } _ { 1 }$ , lines 3 and 4). This observation remains unexplained, although it could be that modification of the phage DNA competes with DNA repair. ",
+        "bbox": [
+            547,
+            419,
+            944,
+            487
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            700,
+            501,
+            794,
+            513
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper demonstrates that the introduction of UV-damaged DNA into a host cell provides a means of promoting UVreactivation of UV-irradiated phage $\\lambda$ . The fact that the efficiency of indirect UV-reactivation under our experimental conditions is less than that produced by direct UV-exposure of the host cell is not at all surprising if one takes into account limiting factors such as the efficiencies of mating and of DNA transmission. ",
+        "bbox": [
+            549,
+            518,
+            946,
+            628
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This new kind of phage reactivation has the same essential features as direct UV-reactivation: it is associated with the mutagenesis of the restored phage and it can be produced in a pyrimidine dimer excision-deficient strain. The question of the involvement of pyrimidine dimer excision in UV-reactivation has been a controversial matter in the past (2022). Yet, it has been shown that UV-reactivation is not the result of an enhanced dimer excision in ${ \\tt U } { \\tt v } { \\tt r } ^ { + }$ cells (23), and that it takes place in ${ \\tt U } { \\tt v } { \\tt r } ^ { - }$ bacteria in which there is no pyrimidine dimer excision (4, 16). We are unable, as yet, to account for the lower efficiency of UV-reactivation (direct or indirect) in bacteria carrying the uvrB5 mutation. This is in contrast with what was found in other uvrA, uvrB, and uvrC strains (4, 16). An explanation for this difference in behavior must await the elucidation of what the uvrB function is. ",
+        "bbox": [
+            563,
+            628,
+            941,
+            642
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/af7630aa2a1e217350aa44990d4088868cc3c97b718a3722aedc688ef68c5466.jpg",
+        "table_caption": [
+            "TABLE 4. Promotion of indirect UV-reactivation and indirect prophage induction by $F ^ { \\prime }$ and Hfr donors "
+        ],
+        "table_footnote": [
+            "T GY 688); $2 8 \\%$ (cross GY ${ \\bf 8 5 4 } \\times { \\bf G Y : }$ 701); $1 9 \\%$ (cross GY $\\mathbf { 1 1 5 1 } \\times \\mathbf { G Y 6 8 8 }$ ; $4 . 6 \\%$ $\\mathbf { \\sigma } _ { \\mathrm { { O S S } } } \\mathbf { G Y } \\ 1 1 5 1 \\times \\mathbf { G Y } \\ 7 0 1 .$ . "
+        ],
+        "bbox": [
+            117,
+            688,
+            942,
+            862
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            73,
+            480,
+            265
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis of the restored phage is an intrinsic feature of the UV-reactivation process (1). The mutagenic effect was found to be the same whether the $\\mathbf { F } ^ { - }$ recipient had been directly exposed to UV or had received by conjugation a relatively small piece of DNA exposed to an almost equivalent dose. This suggests that introduction by conjugation of UVdamaged DNA has a catalytic effect in inducing an \"errorprone\" (9) repair process. This is in line with the fact that mutagenesis and repair of the UV-damaged phage can also be produced as a consequence of a thermal shift of tif bacteria (24), under which condition no obvious DNA lesions are revealed (25, 24). ",
+        "bbox": [
+            81,
+            266,
+            477,
+            430
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Treatments that in lysogens promote lysogenic induction, such as UV-irradiation, thymineless death, or thermal shift of tif bacteria, also promote UV-reactivation of phage $\\pmb { \\lambda }$ in the non-lysogenic host (26, 24). However, conditions that promote indirect UV-reactivation are not sufficient to promote indirect lysogenic induction of prophage λ. Both phenomena are triggered by pyrimidine dimers carried by the donor DNA transferred to the recipient, but lysogenic induction, in order to be produced, requires their presence on a transmitted replicon (12, 13, 18). ",
+        "bbox": [
+            78,
+            431,
+            473,
+            569
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Repair processes such as pyrimidine dimer excision or recombination between phage and host DNAs cannot account for the mechanism of UV-reactivation (4, 16, 27). ",
+        "bbox": [
+            75,
+            569,
+            470,
+            609
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We think that the introduction into a host cell of bacterial DNA carrying UV lesions induces a repair process less accurate than excision and post-replicative recombination repair (28); we postulate that such a phenomenon implies the existence of a third mechanism of repair of UV-damage. This idea is supported by other studies (29, 31). ",
+        "bbox": [
+            73,
+            611,
+            470,
+            693
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The excellent technical assistance of Mrs. M. Pierre has been highly appreciated as well as discussion with Dr. M. Blanco. This work was aided by funds from the Fondation pour la Recherche Médicale Française. Miroslav Radman was supported by a Joliot-Curie Post-Doctoral Fellowship. ",
+        "bbox": [
+            517,
+            71,
+            913,
+            131
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Weigle, J. J. (1953) Proc. Nat. Acad. Sci. USA 39, 628636. 2. Kellenberger, G. & Weigle, J. J. (1958) Biochim. Biophys. Acta 30, 112124. 3. Miura, A. & Tomizawa, J. (1968) Mol. Gen. Genet. 103, 1-10. 4. Defis, M., Fauquet, P., Radman, M. & Errera, M. (1971) Virology 43, 495503. 5. Brooks, K. & Clark, A. J. (1967) J. Virol. 1, 283-293. 6. Hertman, I. & Luria, S. E. (1967) J. Mol. Biol. 23, 117-133. 7. Donch, J., Greenberg, J. & Green, M. H. L. (1970) Genet. Res. 15, 87-97. 8. Castellazzi, M., George, J. & Buttin, G. (9172) Mol. Gen. Genet. 119, 153-174.   \n9. Witkin, E. M. (1967) Brookaven Symp. Biol. 20, 17-55.   \n10. Witkin, E. M. 1969) Mutat. Res. 8, 9-14.   \n11. Borek, E. & Ryan, A. (1958) Proc. Nat. Acad. Sci. USA 44, 374377.   \n12. Devoret, R. & George, J. (1967) Mutat. Res. 7, 713-734.   \n13. George, J. & Devoret, R. (1971) Mol. Gen. Genet. 111, 103-119.   \n14. Demerec, M., Adelberg, E. A., Clark, A. J. & Hartman, P. E. (1966) Genetics 54, 6176.   \n15. Kondo, E. & Mitsuhashi, S. (1964) J. Bacteriol. 88, 1266- 1273.   \n16. Radman, M. & Devoret, R. (1971) Virology 43, 504-506.   \n17. Monk, M. (1969) Mol. Gen. Genet. 106, 14-24.   \n18. Rosner, J. L., Kass, L. R. & Yarmolinsky, M. B. (1968)   \n. Cold Spring Harbor Symp. Quant. Biol. 33, 785-789.   \n19. George, J. (1966) C. R. Acad. Sci. (Paris) 262, 1805-1808.   \n20. Harm, W. (1966) Virology 29, 494.   \n21. Kneser, H. (1968) Virology 36, 303305.   \n22. Ogawa, H. & Tomizawa, J. (1973) J. Mol. Biol. 73, 397-406.   \n23. Boyle, J. M. & Setlow, R. B. (1970) J. Mol. Biol. 51, 131- 144.   \n24. Castellazzi, M., George, J. & Buttin, G. (1972) Mol. Gen. Genet. 119, 139152.   \n25. Kirby, E. P., Jacob, F. & Goldthwait, D. A. (1967) Proc. Nat. Acad. Sci. USA 58, 1903-1910.   \n26. Hart, M. G. R. & Ellison, J. (1970) J. Gen. Virol. 8, 197-208.   \n27. Blanco, M. & Devoret, R. (1973) Mutat. Res. 17, 293305.   \n28. Rupp, D. W., Wilde, C. E., Reno, D. L. & Howard-Flanders, P. (1971) J. Mol. Biol. 61, 2544.   \n29. Witkin, E. M. & George, D. L. (1973) Genetics Suppl. 73, 91-108.   \n30. Howard-Flanders, P. & Boyce, R. P. (1966) Radiat. Res. 6, 156-184.   \n31. Radman, M. 1973 Conference on Enviromental Toxicity (to be published). ",
+        "bbox": [
+            511,
+            140,
+            910,
+            698
+        ],
+        "page_idx": 3
+    }
+]

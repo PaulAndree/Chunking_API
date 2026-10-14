@@ -1,0 +1,698 @@
+[
+    {
+        "type": "text",
+        "text": "YEARLY REVIEW ",
+        "text_level": 1,
+        "bbox": [
+            407,
+            111,
+            601,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IS THERE SOS INDUCTION IN MAMMALIAN CELLS? ",
+        "text_level": 1,
+        "bbox": [
+            196,
+            157,
+            809,
+            177
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            246,
+            247,
+            355,
+            259
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "What is SOS induction and repair and how is it to be measured? ",
+        "bbox": [
+            114,
+            268,
+            490,
+            296
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The author of this review is not fully familiar with the intricacies of various experimental systems using mammalian cells and their viruses to study DNA repair and mutagenesis, his only relevant qualifications being his participation in the discovery of the phenomenology of SOS induction (for review, see [88]) and of the mechanism of SOS repair [9] in E. coli and his participation in initiating some of the studies aimed at answering the question which forms the title of this review [14]. ",
+        "bbox": [
+            118,
+            304,
+            492,
+            445
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The strategy of this review is to present only the recent arguments from the published and in press literature which encourage or discourage the notion that an SOS induction phenomenon, analogous to that found in bacteria, might operate in mammalian cells. This is not a comprehensive critical review of all published papers; such recent reviews are available [13, 35, 52, 73]. ",
+        "bbox": [
+            118,
+            447,
+            492,
+            560
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Instead, a few recent papers selected for their quality, completeness and possible relevance will be discussed. The first part of this paper is deliberately aimed as a comparison between E. coli and mammalian cell systems. This review terminates with personal views of the author where new research in this area could be directed. ",
+        "bbox": [
+            118,
+            562,
+            492,
+            658
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The terms SOS induction, SOS repair and SOS functions were coined to designate a set of genetically programmed, inducible and diverse metabolic responses to a cellular stress (such as damage to DNA or to its replicative machinery), resulting in an increased chance of cell survival [65, 87, 88] and eventually to an increased population fitness [66, 67, 88]. ",
+        "bbox": [
+            118,
+            661,
+            492,
+            759
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "'SOS', the international distress signal, was taken to depict both signaling of the stress and the activation (SOS induction) of a cellular salvage machinery (SOS functions) devised to overcome the initial stress (e.g. overcoming of potentially lethal DNA damage by SOS repair). Since SOS induction coordinately and temporarily activates metabolically otherwise unrelated cellular pathways (see below), its biological rationale at the cellular level resembles that of stress hormones at the organismic level. ",
+        "bbox": [
+            118,
+            759,
+            494,
+            899
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The phenomenology, genetics and biochemistry of SOS induction have been elaborated using the bacterium E. coli and its viruses as the experimental system. An excellent comprehensive review is available [88] as well as a few smaller more recent reviews [24, 26, 35, 68]. ",
+        "bbox": [
+            120,
+            900,
+            496,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            247,
+            887,
+            304
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "What is typical of SOS induction and repair in E. coli which can allow us to ask the question about SOS functions in mammalian cells? It appears that all damage to DNA, or to its replicative machinery, which impedes the progression of the replication fork, leads to the induction of a pleiotropic cellular response which includes new DNA repair and mutagenic activities, a rapid inhibition of cellular division, inhibition of the oxidative metabolism, activation of inducible prophages such as $\\hat { \\lambda }$ , a massive synthesis of the recA protein (protein X), inhibition of DNA degradation, initiations at the replication origin of new rounds of DNA replication, and so-called 'stable DNA replication' (the capacity to initiate new rounds of DNA replication in the absence of de novo protein synthesis $[ 4 6 ^ { a } , 8 8 ]$ . All these phenomena are under genetic control of $E$ coli recA and lexA genes. SOS repair and mutator effects depend upon de novo protein synthesis [23, 87]. The molecular details of the prophage Å induction process are now being elucidated: the phage $\\lambda$ repressor is cleaved by an inducible recA-lexA-dependent protease activity mediated by the recA protein itself and requiring a singlestranded polynucleotide as cofactor [16]. Therefore, the observations that UV induced mutagenesis, SOS repair and filamentous growth are all inhibited by two protease inhibitors, antipain [59] and TLCK [67], encourage the speculation that the same inducible proteolytic activity might act upon different cellular control proteins (e.g. repressors). giving the pleiotropic SOS response [88]. It should be borne in mind that the notion of inducibility does not imply the absence of 'spontaneous' inductions in rare individual cells or even low constitutive levels of the inducible activities in all cells. Indeed, prophage induction in lysogenic bacteria, an inducible process par excellence, occurs spontaneously, still as a recA-dependent process, at frequencies $( 1 0 ^ { - 5 } - 1 0 ^ { - 4 }$ per generation) at least two orders of magnitude higher than the inducing' mutation in the cI repressor gene $\\lbrace 1 0 ^ { - 7 } – 1 0 ^ { - 6 }$ per generation) [83]. ",
+        "bbox": [
+            512,
+            304,
+            888,
+            890
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Attempts to measure some of the listed parameters of SOS induction in mammalian cell systems are reviewed below. ",
+        "bbox": [
+            514,
+            887,
+            890,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OBSERVATIONS POSSIBLY RELEVANT TO THE TESTING FOR SOS FUNCTIONS IN MAMMALIAN CELLS ",
+        "text_level": 1,
+        "bbox": [
+            164,
+            79,
+            446,
+            120
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Viral genome as a genetic probe for SOs repair: Increased survival and mutagenesis ",
+        "bbox": [
+            116,
+            121,
+            492,
+            149
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The idea that the cellular mutagenesis might often require the induction of a mutagenic competence [65] stems from a new interpretation [22] or J. Weigle's discovery [86] in 1953 that an extensive mutagenesis of the UV irradiated phage λ can be produced only in radiation or chemically damaged E. coli host cells. Irradiation of the phage alone produced little or no phage mutagenesis [4, 22, 86], whereas irradiation of the host cells alone produced substantial viral mutagenesis [4, 41]. ",
+        "bbox": [
+            116,
+            150,
+            494,
+            292
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These observations imply that radiation-damaged phage DNA does not significantly induce SOS repair before the onset of viral DNA replication. The SOS repair hypothesis is also an interpretation of the findings that E. coli mutants (recA\" and lexA\") unable to produce Weigle reactivation (i.e. increased survival of UV irradiated phage due to irradiation of the host cells) and mutagenesis of phages were themselves nonmutable by UV light, non-inducible for prophage and non-inducible for filamentous growth [review, 88]. ",
+        "bbox": [
+            116,
+            293,
+            494,
+            448
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many papers have demonstrated that DNA damaging treatments of mammalian cells prior to viral infection increased the survival of the UV irradiated virus (enhanced reactivation). The effective \\*inducing' treatments tested were UV irradiation [5. 7, 14, 20, 52, 74], X-ray irradiation [6], aflatoxin B1, NAAAF, MMS. EMS, hydroxyurea and cycloheximide [53, 55, 74]. Most viruses tested were effective substrates for enhanced reactivation, e.g. Herpes virus (papers by Lytle et al. and [20]], adenovirus [7], SV40 [7. 14, 74] and single-stranded DNA viruses (parvoviruses) ([52] and J. Rommelaere, personal communication), but vaccinia and poliovirus gave negative results [7]. Host cells that gave positive results in such experiments were rodent, monkey and human cells. In all cases, except one [91], the highest reactivation factor was observed when the infection following host cell irradiation was delayed for an optimum time corresponding to one to two cell generations (1-3 days) which is roughly equivalent, in terms of cell generation time. to the peak induction time in E. coli/phage experiments $3 0 - 6 0 \\mathrm { m i n }$ , [23]). The UV enhanced reactivation of the Herpes and Kilham rat virus inhibited by the protein synthesis inhibitor cycloheximide [52]—another analogy to Weigle reactivation o] phage  in irradiated E. coli where chloramphenicol inhibits this process [23]. However, the interpretation of viral rcactivation experiments in mammalian cel systems is complicated by the fact that often only one out of a hundred, or even a thousand, virus particle: (e.g. SV40) yields a plaque in the cell monolayel plaque assay. Therefore, it was suggested thal damaged host cells could simply be better substrates for viral adsorption and infection [13]. The recen1 work of Cornelis et al. [14] shows that transfecting SV40 DNA is at least as well reactivated in UV irradiated monkey kidney cells as is SV40 virus. Thus, in this case, the damaged DNA seens to be the substrate for enhanced reactivation. ",
+        "bbox": [
+            120,
+            449,
+            496,
+            929
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            78,
+            892,
+            149
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A crucial characteristic of Weigle reactivation in $E$ . coli is that it is highly mutagenic for the irradiated virus and moderately mutagenic for intact virus [4, 10, 41]. One study claimed that both irradiated and non-irradiated Herpes virus show increased mutation frequencies towards BUdR resistance in UV irradiated host cells with the time course similar to that of enhanced reactivation [20]. Cycloheximide was an inhibitor, However, another study using IUdR resistance as selection for TK deficiency showed no effect of host cell irradiation upon mutagenesis of the irradiated virus [56]. Somewhat similar results have been observed with the SV40, which is a priori a better suited substrate for cellular mutagenic and repair activities since, unlike Herpes and adenovirus, SV40 does not code for its own DNA polymerase and/or repair functions. Indeed, no enhanced mutagenesis of UV-irradiated adenovirus in UV-irradiated human fibroblasts could be detected [21]. ",
+        "bbox": [
+            516,
+            150,
+            894,
+            419
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All studies agree on one point: UV irradiation of the virus alone is sufficient to produce massive viral mutagenesis (above and [12, 14, 75]), quite unlike the situation with E. coli phages 0X174 and A (see above). Two obvious possibilities have been mentioned to account for this result: either there is a constitutive mutagenic competence for viral UV mutagenesis in mammalian cells or the damaged viral DNA suffices to trigger SOS induction in these cells. This second possibility is not unlikely also from our experience with E. coli where some plasmids and plasmid-like viruses (e.g. P1) are capable of SOS induction : e.g. the introduction of irradiated plasmid DNA by conjugation [32] leads to mutagenic repair of the co-infecting UV irradiated phage  DNA and/or to indirect prophage induction. This possibility, the use of \\*trigger' DNA and \\*target' DNA in the same cell, has not yet been explored in mammalian cell systems. ",
+        "bbox": [
+            518,
+            421,
+            896,
+            677
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Apart from the above results, most other parameters measured show important differences, e.g. Sarasin and Benoit (1980) find an important (order of magnitude) further increase in the ts reversion mutagenesis of the UV irradiated SV40 virus due to irradiation of the monkey kidney host cells. which Cornelis et al. [14] do not find in the very same system (analogous to the difference [20]vs [56] in the Herpes virus system). There is an interesting hint in the data of Sarasin and Benoit ([75]. Table 1), that the SV40 mutagenesis induced by the irradiation of the virus alone depends upon multiplicity of infection (m.o.i.). In particular, they have observed the following frequencies $( f )$ of reversion of ts A 58 mutation: for irradiated virus $( 1 5 0 0 \\mathrm { J / m } ^ { 2 } )$ in non-irradiated host at m.o.i. $1 0 ^ { - 4 }$ $f < 1 0 ^ { - 4 }$ at m.o.i. of $1 0 ^ { - 3 }$ $f = 1 . 5 \\times 1 0 ^ { - 3 }$ , and when the host cell was also irradiated $( 1 5 \\mathrm { J } / \\mathrm { m } ^ { 2 } ) f \\sim 1 0 ^ { - 2 }$ was found at both m.o.i.'s. ",
+        "bbox": [
+            520,
+            679,
+            898,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experiments with Herpes virus do not show such results [56]. Unfortunately all these experiments present a black box in as much as the true m.o.i. enjoyed by virus-producing cells is unknown (e.g. is there a 'helping effect of the first infection event upon subsequent infections by other plaque-forming, or non-plaque-forming, viruses in the suspension, such as in transfection of E. coli and mammalian cells with viral and plasmid DNAs?). High m.o.i. could perhaps contribute to both reactivation and mutagenesis through some recombinational and/or function complementation mechanisms. Effective high m.o.i. could lead to trivial results, e.g. by increasing the 'sampling' effect of pre-existing mutants (i.e. the increased probability for each virus-producing cell to receive a preexisting $t s ^ { + }$ revertant) or by affecting the number of replication rounds of viral DNA in each single host cell. The determination of true m.o.i. will be necessary for the interpretation of all reviewed experiments and for the study of the role of m.o.i. upon both survival (multiplicity reactivation) and mutagenesis [56]. One approach to estimate true m.o.i. in infectious centre assays could be the use of mixed virus populations containing different proportions of two stable viral genotypes (e.g. one carrying a stable unselected marker, for example, a deletion) and by working out the statistics of genetically pure and mixed single burst in infective centres at different m.o.i.'s. ",
+        "bbox": [
+            120,
+            79,
+            494,
+            477
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Finally, the only observation which could be used to argue in favor of an inducible mutator effect is the modest apparent increase in mutation frequency of undamaged virus due to irradiation of the host ([20] and J. Cornelis, personal communication). The extent of such a mutator effect, called untargeted mutagenesis [89], is expected to depend upon the extent of increase in mutation rate $( m )$ and upon the number of DNA replication rounds $( r )$ If the initial virus population is small and if we exclude the 'jack pot' problem, the mutation frequency $( f )$ of a geometrically replicating system, such as SV40, is $f = m r$ Therefore, a small increase in $f$ (such as in above untargeted mutagenesis) could be due to (1) a small increase in $\\pmb { m }$ (2) a small increases in the number of replication rounds $( r )$ even at high $^ { m }$ or (3) an increase in $r$ without any change in $\\pmb { m }$ The latter possibility arises from the work of Cornelis et al. [14] who found that the virus yield in plaques issued from individual UV irradiated cells infected with either unirradiated or irradiated SV40 virus (or transfected by $\\mathbf { S V 4 0 ~ D N A } )$ is in some experiments enhanced about an order of magnitude compared to the yield from unirradiated cells. Thus, UV irradiation of the host cell apparently provoked additional replication rounds and this alone could be sufficient to account for a 3-fold increase in observed $f .$ A barely significant effect of untargeted mutagenesis in the Sarasin and Benoit paper [75] is paralleled by the barely significant effect of the hos1 irradiation on the yield of unirradiated virus. The authors of other papers on this subject are invited tc examine their raw data in the light of this possibility and also to present their data in a way which can allow this kind of analysis. In the meantime, in spite of suggestive evidence reviewed above, no firm conclusion is possible on the basis of available genetic experiments. The possibilities of a constitutive, or of an easily triggered (e.g. by the irradiated virus alone), error-prone DNA replication remain open. ",
+        "bbox": [
+            122,
+            477,
+            496,
+            931
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            79,
+            892,
+            178
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Viral DN A as a biochemical probe for SOS repair ",
+        "text_level": 1,
+        "bbox": [
+            520,
+            187,
+            861,
+            202
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The inducible mutagenic increase in survival could in principle be accomplished either by a mutagenic removal of the lesion or by a mutagenic toleration of unremoved lesions. Using single-stranded phage $\\varnothing \\mathbf { X } 1 7 4$ as an in vivo substrate for the SOS repair in excision-repair deficient hosts, it has been shown ([9] and references therein) that in infected untreated $E$ . coli host the first encountered UV photolesion (probably pyrimidine dimer) in $\\beta \\mathbf { X } 1 7 4$ DNA permanently blocks the elongation of the nascent DNA chain, hence producing killing without mutagenesis. Only in UV irradiated hosts did DNA chain elongation on irradiated 0X174 DNA template occasionally occur beyond UV photolesions yielding continuous nascent chains, hence producing increased survival and a massive mutagenesis. This apparent lesion-bypass DNA synthesis was sensitive to chloramphenicol [9]. The weakness of this paper is the lack of data on the persistence of photolesions in the parental strands in fully replicated, reactivated, 0X174 DNA mol. ",
+        "bbox": [
+            518,
+            207,
+            894,
+            492
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This approach was recently followed in mammalian cell systems and some analyses went beyond those performed in E. coli. For example, Sarasin and Hanawalt [76] have demonstrated several characteristics of the replication of intracellulary UV irradiated replication-synchronized SV40 DNA, e.g. (1) at early times (up to 1 h) each UV induced pyrimidine dimer presents a block to nascent chain elongation, (2) this blockage is released at later times (beyond $^ { 2 \\mathrm { h } }$ , probably by a genuine lesion bypass synthesis, since no parental DNA with pyrimidine dimers appeared in the new strands and (3) pyrimidine dimers in the parental DNA are not lost (as T4 endonuclease V sensitive sites) in the irradiated fully replicated molecules. ",
+        "bbox": [
+            520,
+            493,
+            894,
+            691
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In a recent work, J. Rommelaere et al. (private communication) have used the single-stranded selfprimed DNA of a mouse parvovirus as a model system for in vivo replication of UV irradiated DNA in intact and irradiated mouse host cells, analogously to the $\\varnothing \\mathbf { X } 1 7 4 / E$ coli system described above. His results agree with Sarasin and Hanawalt's [76], i.e. the initial blockage of chain elongation by the UV-photolesions is eventually overcome with time. Irradiation of the host cell prior to infection enhances an early lesionbypass synthesis which proceeds from the genuine initiation site; this enhancement is fully inhibited by cycloheximide. All these results are also consistent with the SV40 virus growth curves [73]: the enhanced reactivation of UV irradiated SV40 is high only in the early parts of the SV40 growth curve; at later times the virus yield in unirradiated host comes close to the levels of irradiated cells. Thus, it is possible that the principal effect of UV irradiation of the host cell upon replication and survival of the irradiated virus is the speeding-up of the same DNA replication processes that occur somewhat later in unirradiated cells. This is the simplest conclusion from Fig. 1 in the paper by Sarasin and Benoit [75] where UV irradiation of SV40 delayed its production for about $2 4 \\hbar$ in nonirradiated cells, and only about $^ { 1 2 \\mathrm { h } }$ in irradiated cells (otherwise, the growth curves are parallel). If this delayed apparent lesion-bypass replication were mutagenic, the prediction is that the UV-induced viral mutants should occur in both irradiated and nonirradiated host cells (as they indeed do), but they should appear earlier in the irradiated hosts. A timecourse mutagenesis experiment should test this prediction, and if viral maturation obscures the phenomenon, intracellular viral DNA could be extracted at various time intervals and transfected [14] into indicator hosts to determine mutation frequency. ",
+        "bbox": [
+            520,
+            693,
+            896,
+            931
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            79,
+            488,
+            363
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The discussed scheme for the replication of UV irradiated viral DNA, i.e. a blockage of new chain elongation by the lesion in the template followed by a lesion-bypass synthesis (which may eventually be inducible by the lesions in either cellular or viral DNA) is also consistent wjth the studies on replication of UV irradiated cellular DNA [25, 28, 47]. The question of the mutagenicity of the lesion bypass synthesis and of its inducibility must now be tested e.g. in a system using a 'trigger' and a 'target' DNA, as discussed above. ",
+        "bbox": [
+            114,
+            366,
+            492,
+            521
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Provirus induction ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            533,
+            240,
+            544
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Endogenous integrated DNA of a DNA or an RNA virus can be activated to produce viral particles, by a variety of DNA damaging mutagens/carcinogens $[ 3 1 , 3 8 , 5 0 , 7 2 ^ { \\mathrm { a } } ]$ as well as by tumor promoters (e.g. TPA, [1, 92]) and hormones [36] which do not directly interact with DNA. This process is formally analogous to prophage induction in lysogenic bacteria, which is an indicator of SOS induction. As in the case of E. coli, indirect arguments support the hypothesis that unrepaired DNA lesions are the initial trigger for induction in irradiated mammalian cells [90]. A case can be made for the existence of indirect induction of a resident murine leukemia virus by the irradiated HSV in otherwise untreated host cell [33, 34]. A parallelism in dose-response curves has been demonstrated for UV induction of SV40 provirus and enhanced reactivation of irradiated HSV [91] as well as for induction of SV40 provirus and SCEs by EMS and mitomycin C [42]. Whether these correlations signify a common inducible causation of these three phenomena or three independent titrations of cellular DNA lesions remains to be investigated. ",
+        "bbox": [
+            118,
+            551,
+            494,
+            874
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Split-dose experiments and synergisms ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            884,
+            379,
+            898
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The possibility that classical radiobiological splitdose recovery experiments [review, 29] might reflect a kind of inducible and carcinogenic DNA repair was already discussed [66]. The general split-dose strategy was used in an attempt to ask the question whether the (post)replicative repair of UV light or N-AAAF inflicted DNA damage is enhanced by a preceding small 'trigger' dose of UV light. Indeed, when an optimum time was allowed between the two treatments, an apparent enhancement or speeding-up of the nascent DNA chain elongation was observed [17, 18]. The inducibility of this effect was supported by the fact that cycloheximide was an inhibitor. This approach was criticized [63], but much of the criticism was overcome in another paper [19] and everything was reviewed [35]. Papers of D'Ambrosio and Setlow [1719] are, however, in fine agreement with the studies on replication of irradiated viral DNA [see previous section] in their conclusion that damage to cellular DNA speeds-up the establishment of strand continuity on damaged DNA templates. The inducibility of the process of recovery of DNA replication following DNA damage in human cells was recently suggested by split-dose experiments of Friedburg, Moustacchi, Paul and Ehmann (personal communication). In mutagenesis studies, split-dose experiments with and without an inhibitor of protein synthesis between the two doses provided positive evidence for an inducible mutagenic repair in yeast [27]. but gave negative results in V79 Chinese Hamster cells [11]. The latter data with a cell culture system must not yet be taken as a 'positively' negative answer to this question, in view of Russell's classical findings that $\\mathbf { X } .$ -ray doses split with a $2 4 \\hbar$ interval greatly enhance in vivo mutagenesis in mouse spermatogonia tested on 13 different loci for dominant and recessive mutations [51, $7 2 ^ { \\mathsf { b } } ]$ . ",
+        "bbox": [
+            118,
+            903,
+            496,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            79,
+            890,
+            579
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Induction of the changes in differentiation patterns ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            587,
+            861,
+            601
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SOS induction is a complex epigenetic response to troubles in DNA replication leading eventually also to genetic changes, such as mutations. A specially constructed genetic system in E. coli clearly demonstrated that DNA damage can cause stable, heritable epigenetic changes caused by SOS induction [83]. Provirus induction is also an epigenetic change triggered in mammalian cells by DNA damage or hormones (see above). ",
+        "bbox": [
+            514,
+            607,
+            890,
+            734
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interestingly enough, UV and $\\mathbf { X } .$ -ray irradiation and a series of chemicals damaging DNA (mitomycin C, bleomycin and actinomycin D) or inhibiting its replication (hydroxyurea and araC) have all been shown to induce efficiently erythrodifferentiation in murine Friend leukemia cells in culture [77, 81]. Furthermore, the time course of commitment to differentiatton and the appearance of DNA breakage, also in DMSO and butyrate induction of erythrodifferentiation, has been found [81]. ",
+        "bbox": [
+            516,
+            734,
+            892,
+            874
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The question of whether this is an artifact of cellular damage or is an indication that damage to DNA and its replicative system can produce signals analogous to those of some hormones, and hence cause changes in differentiation patterns, is most exciting. Tumor promoter TPA, BUdR and the active product of the RSV src gene show the same inhibitory effect upon differentiation of myogenic and chondrogenic cells in culture [49 and refs therein]. ",
+        "bbox": [
+            516,
+            875,
+            894,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            112,
+            79,
+            488,
+            149
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Inducible proteins in mammalian cells? ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            160,
+            375,
+            173
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "R. Hart et al. (personal communication) have detected a new protein band in SDS gel electrophoresis following UV, DMBA, N-AAAF and 3MC treatment of rodent cells in culture (V79, SHE). Cycloheximide inhibited protein induction. Peak induction time of $3 0 { - } 3 6 \\mathrm { h }$ corresponds to the peak time for enhanced virus reactivation. Only metabolically active forms of the above carcinogens were active in induction. ",
+        "bbox": [
+            112,
+            179,
+            487,
+            305
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A role for proteases? ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            316,
+            255,
+            329
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Several years ago, a great optimism was experienced when the following observations were put together: (1) carcinogenesis often leads to a constitutive synthesis of proteases (plasminogen activators) of the same type as those induced temporarily by a tumor promotor TPA [reviewed in 59 and 67], (2) some inhibitors of such proteases are potent inhibitors of tumor promotion by TPA [84], induced carcinogenesis in vivo [40] and induced transformation in cell cultures $( [ 4 3 , 4 6 ^ { \\circ } ]$ and A. Kinsella, unpublished experiments), (3) the same protease inhibitors inhibit three principal UV-induced SOS responses in E. coli, i.e. mutagenesis, prophage induction and filamentation [59, 67] and (4) induction of prophage λ by DNA damaging agents is executed through proteolysis of $\\lambda$ repressor protein [70]. Hence the question \"Does the prominent protease inhibitor antipain (which showed all listed effects) prevent radiation and carcinogen induced mutagenesis in mammalian cells?\" So far the answer is negative for the mutagenesis towards 8-azaguanine and/or ouabaine resistance in V79 Chinese Hamster cells treated with UV light, activated 3MC and MNNG $[ 4 6 ^ { \\circ } ]$ as well as for MNNG induced mutagenesis towards 6-thioguanine resistance in the same cells [45]. ",
+        "bbox": [
+            116,
+            337,
+            488,
+            690
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Antipain did not inhibit enhanced reactivation of HSV by UV light in an experiment with positive control in the $\\lambda / E$ coli system, i.e. inhibition of Weigle reactivation in phage $\\lambda$ [54]. However, TPA induced SCEs [44], a special class of $\\mathbf { x }$ -ray induced SCEs [62] and MNNG induced chromosomal aberrations were efficiently and specifically inhibited by antipain [45, 68, 69]. Induction of plasminogen activator protease by a series of DNA damaging agents, including the alkylating agent MMS, was recently reported by Miskin and Reich [60]. Interestingly enough, induction of endogenous dormant C type virus by irradiated HSV was inhibited by antipain [37]. All reviewed papers indicate an involvement of specific proteolytic processes in epigenetic and genetic events triggered by carcinogenic agents, but the mechanisms are as yet unexplored. ",
+        "bbox": [
+            116,
+            691,
+            492,
+            929
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NEW APPROACHES AND PERSPECTIVES ",
+        "text_level": 1,
+        "bbox": [
+            561,
+            79,
+            833,
+            91
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Is chromosomal rearrangement an inducible process in eukar yotes? ",
+        "bbox": [
+            509,
+            96,
+            885,
+            124
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Agents that cause DNA damage and mutagenesis, in general also cause an increase in genetic recombination and other chromosomal rearrangements, yet attempts to demonstrate a causal relationship between induced recombination and mutation events in the genome of phage λ gave negative results ([61], Elsevier and Dove, unpublished; Zambrano and Radman, unpublished). Furthermore, it is sufficient to irradiate the phage to obtain maximum stimulation of phage $\\lambda$ recombination [3, 8], whereas an apparent moderate increase in recombination of intact phage λ in irradiated hosts is lexA-independent [8], hence not part of the general SOS system. A causal relationship between meiotic recombination and mutation was claimed in yeast [57]. There is good evidence for the existence of inducible mechanisms in radiation-stimulated mitotic genetic recombination in lower eukaryotes. The protein synthesis inhibitor, cycloheximide, inhibits radiation induced allelic recombination and recombination repair in fungus Ustilago maydis [39]. UV or $\\mathbf { x }$ -ray irradiation of one haploid yeast cell before mating stimulates recombination among intact chromosomes from the non-irradiated partner following the mating fusion [30]. ",
+        "bbox": [
+            511,
+            136,
+            887,
+            477
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The failure to detect spontaneous or induced mitotic recombination in simple genetic systems in mammalian cells [71, 80] may be due either to a true lack of such events, or to their localized occurrence or to the predominance of other, non-homologous exchanges yielding cytologically detectable, frequent chromosomal rearrangements and aberrations, e.g. dicentrics, acentrics, quadriradials, triradials and other individual translocations and deletions. The latter events must result from the enzymatic processing of the chromosomes by the nucleases, polymerases, ligases and other enzymes. How are these processes triggered by DNA damage? Are there inducible or activated steps among complex processes that generate chromosomal rearrangements? Some indirect evidence encourages this speculation. For example, cells with two or more chromosomal aberrations occur much more frequently than expected from the product of the incidence of single aberration events in untreated and mutagen-treated normal human lymphocytes as well as in Bloom's and Fanconi's anemia syndromes, which show high incidence of spontaneous chromosomal rearrangements [78, 79, 82]. One way to interpret this finding is to suppose that spontaneous and DNA damage provoked 'induction' events occur in individual cells activating a specific cellular recombinogenic activity which then often creates multiple chromosomal rearrangements. Furthermore, split doses of $\\mathbf { x }$ -rays, separated by $2 4 \\mathrm { \\ h r } ,$ , cause a high increase in the frequency of translocations in mouse spermatogonia above the single dose effect [85]. Our recent experiments are consistent with such an induction hypothesis although inducibility is not the only possible conclusion [45, 68]. MNNG treatment of V79 cells caused a high increase in mutation (towards 6-thioguanine resistance), SCE and chromosomal aberration (predominantly quadriradials and triradials) frequencies. The anticarcinogenic protease inhibitor, antipain, acted as a specific inhibitor of induced chromosomal abberations [45], thereby generating a suspicion that some specific chromosomal rearrangement might be one rate-limiting step in carcinogenesis. Concerning the mechanism of rearrangements among non-homologous chromosomes and chromosomal segments, possibly through activable cellular mechanisms, it is interesting to note that transposon-like genetic elements in corn [58] can be (and perhaps must be) initially activated to mediate chromosomal rearrangements. Cytogenetically-induced chromosome breakage (e.g. breakage of a dicentric chromosome by the mitotic spindle contraction) or ionizing irradiations can apparently turn on the chromosome rearranging activity of the controlling elements in corn [58, 64]. ",
+        "bbox": [
+            512,
+            476,
+            890,
+            929
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            112,
+            80,
+            488,
+            394
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On the biological role of SOS induction in prokaryotes and eukar yotes ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            404,
+            492,
+            432
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In addition to the obvious advantage of SOS repair as a mechanism for increased survival, SOS induction has another major biological effect: a rapid and potent temporary increase in genetic variability which is known to increase population fitness under unfavorable, selective conditions. In vegetatively-reproducing haploid unicellular organisms, such as nonmating bacteria, mutagenesis is the major source of genetic variability. Indeed, in appropriate competition experiments, E. coli mutator (mut T) mutant shows selective advantage over the wild type under restrictive growth conditions; the opposite is true for growth in a rich medium [15]. ",
+        "bbox": [
+            114,
+            437,
+            492,
+            538
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            80,
+            890,
+            166
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, X-ray irradiation of non-inbred Drosophila strains (but not of inbred strains) increases population fitness under selective conditions, suggesting that $\\mathbf { X }$ -ray induced recombinations, but not mutagenesis, contribute towards population fitness, if the latter is due to genetic variability ([2] and references therein). ",
+        "bbox": [
+            514,
+            167,
+            892,
+            264
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Theoretical arguments suggest that mutagenesis can lead to an increased population fitness only in asexually reproducing organisms, never in sexually reproducing ones [48]. Therefore, if an SOS system were a genetic program aimed at a rapid increase in population fitness as a response to environmental stresses, we should critically test whether chromosomal rearrangement is an inducible SOS function in mammalian cells. Carcinogenesis, if it involves inducible mutagenic and/or chromosomal rearrangement events, could, under this aspect, be a somatic 'price' we pay for being endowed with an evolutionary potential. ",
+        "bbox": [
+            516,
+            267,
+            892,
+            449
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman ",
+        "text_level": 1,
+        "bbox": [
+            751,
+            481,
+            888,
+            493
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Département de Biologie Moléculaire Université Libre de Bruxelles B-1640 Rhode-St-Genèse, Belgium ",
+        "bbox": [
+            511,
+            481,
+            746,
+            538
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            457,
+            589,
+            548,
+            600
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. Arya, S. K. (1980) Nature 284, 7172.   \n2. Ayala, F. (1967)  Proc. Natl Acad. Sci. USA 58, 1919-1924.   \n3. Baker, R. M. and R. H. Haynes (1967) Mol. Gen. Genet. 100, 166177.   \n4Bleichrodt, J. F. and W. S. D. Verheij (1974) Mol. Gen. Genet. 135, 1027.   \n5. Bockstahler, L. E. and C. D. Lytle (1970) Biochem. Biophys. Res. Commun. 41, 184-189.   \n6.Bockstahler, L. E. and C. D. Lytle (1971) J. Virol. 8, 601602.   \n7. Bockstahler, L. E. and C. D. Lytle (1977) Photochem. Photobiol. 25, 477482.   \nBoiteux, S., G. Villani, S. Spadari, F. Zambrano and M. Radman (1978) In DNA Repair Mechan  \nisms (Edited by P. C. Hanawalt, E. C. Friedberg and C. F. Fox). pp. 73-84. Academic Press, New   \nYork.   \n9. Caillet-Fauquet, P., M. Defais and M. Radman (1977) J. Mol. Biol. 117, 95112.   \n10. Caillet-Fauquet, P. and M. Defais (1977) Mol. Gen. Genet. 155, 231234.   \n1Chang, C. C., S. M. D'Ambrosio, R. Schultz, J. E. Trosko and R. B. Setlow 1978) Mutat. Res. 52,   \n231245.   \n12. Cleaver, J. E. and S. Weil (1975) J. Virol. 16, 214-216.   \n13. Cleaver, J. E. (1978) Biochim. Biophys. Acta 516, 489516.   \nCo J.  J. H.Lp  A. J. van r a. Re  .   \n15. Cox, E. C. and T. C. Gibson (1974) Genetics 77, 169184.   \n16. Craig, N. and R. Roberts (1980) Nature 283, 2630.   \n17. D'Ambrosio, S. M. and R. B. Setlow (1976) Proc. Natl Acad. Sci. USA 73, 23962400.   \n18. D'Ambrosio, S. M. and R. B. Setlow (1978) Cancer Res. 38, 1147-1153.   \n19. D'Ambrosio, S. M., P. M. Aebersold and R. B. Setlow (1978) Biophys. J. 23, 7178.   \n20. Das Gupta, U. B. and W. C. Summers (1978) Proc. Natl Acad. Sci. USA 75, 23782381.   \n2 Day, R. S. III and C. Ziolkowski (1978) In DNA Repair Mechanisms (Edited by P. C. Hanawalt,   \nE. C. Friedberg and C. F. Fox), pp. 535-539. Academic Press, New York.   \n22. Defais, M., P. Fauquet, M. Radman and M. Errera (1971) Virology 43, 504506.   \n23. Defais, M., P. Caillet-Fauquet, S. Fox and M. Radman (1976) Mol. Gen. Genet. 148, 125130.   \n24. Devoret, R. (1978) Biochimie 60, 11351140. ",
+        "bbox": [
+            170,
+            608,
+            838,
+            932
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "25. Doniger, J. (1978) J. Mol. Biol. 120, 433446.   \n.Doubleday, O. P.(1980) In Progress in Environmental Toxicology (Edited by M. Alacevi), in press. Elsevier/North Holland, Amsterdam.   \n.Eckardt, F., E. Moustacchi and R. H. Haynes (1978) In DNA Repair Mechanisms (Edited by P. C. Hanawalt, E. C. Friedberg and C. F. Fox), pp. 421423. Academic Press, New York.   \nEdenberg, H. J. (1976) Biophys. J. 16, 849860.   \n2. Elkind, M. M. (1967) In Radiation Research (Edited by G. Silini), pp. 558586. North-Holland, Amsterdam.   \n30Fabre, F. and H. Roman (1977) Proc. Natl Acad. Sci. USA 74, 16671678.   \n31. Fogel, M. and L. Sachs (1970)  Virology 40, 174177.   \n3. George, J., R. Devoret and M. Radman (1974) Proc. Natl Acad. Sci. USA 71, 144147.   \nHampar, B. S. A. Aaronson, J. G.Derge, M. Chakrabarty, S. D. Showalter and C. Y. Dunn (1976) Proc. Natl Acad. Sci. USA 73, 646650.   \nHampar, B., M. Hatanaka, G. Aulakh, J. G. Derge, L. Lee and S. D. Showalter (1977 Virology 76, 876881.   \n3. Hanawalt, P. C., P. K. Cooper, A. K. Ganesan and C. A. Smith (1979) Ann. Rev. Biochem. 48. 783836.   \n3 Hellman, A. and A. K. Fowler (1971) Nature New Biol. 233, 142144.   \nHellan, K. B., P. P. Brewer and A. Helma (17 Am. Soc. Photobiol., Abstracts, p. 1. Pc Grove, CA, 2428 June.   \n8Hirsch, M. S. and P. H. Black_ (1974) Adv. Virus Res. 19, 265313.   \nHolliday, R. 975 Mutat. Res. 29, 149155.   \n40. Hozumi, M., M. Ogawa, T. Sugimura, T. Takeuchi and H. Umezawa (1972) Cancer Res. 32, 17251728.   \n41. Ichikawa-Ryo, H. and S. Kondo (1975) J. Mol. Biol. 97, 7792.   \n4 Kaplan, J. C., G. B. Zamansky, P. H. Black and S. A. Latt (1978) Nature 271, 662663.   \n43. Kennedy, A. R. and J. B. Little (1978) Nature 276, 825-826.   \n44. Kinsella, A. R. and M. Radman (1978) Proc. Natl Acad. Sci. USA 75, 61496153.   \nnlla, A. R.  M. R roc. at Aca.Sci.USA i .   \n4 Kogoma, T., T. Torrey and M. Connaughton (1979) Mol. Gen. Genet. 176, 19.   \n46b Kuroki, T. and C. Drevon (1979) Cancer Res. 39, 27552761.   \n47. Lehmann, A. R. and S. Kirk-Bell  (1972) Eur. J. Biochem. 31, 438445.   \n48. Leigh, E. G. (1973) Genetics 73, (suppl) 118).   \n49. Lowe, M. E., M. Pacifici and H. Hottzer (1978) Cancer Res. 38, 23502356.   \n50. Lowy, D. R., W. P. Rowe, N. Teich and J. W. Hartley (1971) Science 174, 155156.   \n51. Lyon, M. F. and T. Morris (1969) Mutat. Res. 8, 191-198.   \n52. Lytle, C. D. (1978) Natl Cancer Inst. Monogr. 50, 145149.   \nLytle, C. D., J. Coppey and W. D. Taylor (1978) Nature 272, 60.   \n. Lytle, C. D., J. G. Goddard and F. L. Buchta (1978) In DNA Repair Mechanisms (Edited by P. C. Hanawalt, E. C. Friedberg and C. F. Fox), pp. 559-562. Academic Press, New York.   \n5 Lytle, C. D. and J. G. Goddard (1979) Photochem. Photobiol. 29, 959962.   \n56. Lytle, C. D., J. G. Goddard and C. Lin (1980) Mutat. Res. 70, 139149.   \n57. Magni, G. E. (1963) Proc. Natl Acad. Sci. USA 50, 575-580.   \n58. McClintock, B. (1950) Proc. Natl Acad. Sci. USA 36, 344355.   \n59. Meyn, M. S., T. Rossman and W. Troll (1977) Proc. Natl Acad. Sci. USA 74, 11521156.   \n60. Miskin, R. and E. Reich (1980) Cell 19, 217224.   \n61. Miura, A. and J. Tomizawa (1970) Proc. Natl Acad. Sci. USA 67, 17221726.   \n6. Nagasawa, H. and J. B. Little (1979) Proc. Natl. Acad. Sci. USA 76, 19431947.   \n6. Painter, R. B. (1978) Nature 275, 243245.   \n6. Peterson, P. A. (1960) Genetics 45, 115126.   \n6 Radman, M. (1974) In Molecular and Environmental Aspects of Mutagenesis (Edited by L. Prakash, F. Sherman, M. W. Miller, C. W. Lawrence and H. W. Taber), pp. 128-142. C. C. Thomas, Springfield, IL.   \n66. Radman, M. (1977) In Cancérogenese Chimique, Colloques internationaux du C.N.R.S. No. 256, pp. 293306. Paris.   \n6. Radman, M., G. Villani, S. Boiteux, M. Defais, P. Caillet-Fauquet and S. Spadari (1977) In Origins of Human Cancer (Edited by H. Hiatt, J. D. Watson and J. A. Winsten), pp. 903-922. Cold Spring Harbor Laboratory, Cold Spring Harbor.   \n6 Radman, M., G. Villani, S. Boiteux, A. R. Kinsella, B. W. Glickman and S. Spadari (1978) Cold Spring Harbor Symp. Quant. Biol. 43, 937-946.   \nRadman, M. and A. R. Kinsella (1980) In Molecular and Cellular Aspects of Carcinogen Screening Tests (Edited by R. Montesano, H. Bartsch and L. Tomatis), pp. 75-95. IARC Sci. Publ. No. 27, Lyon.   \n7Roberts, J. W. and C. W. Roberts (1975) Proc. Natl Acad. Sci. USA 72, 147151.   \n71. Rosenstraus, M. J. and L. A. Chasin (1976) Genetics 90, 735760.   \n$7 2 ^ { \\mathrm { a } }$ .Rothschild, H. and P. H. Black (1970) Virology 42, 251256.   \n$7 2 ^ { \\mathfrak { b } }$ Russel, W. L. (1962) Proc. Natl Acad. Sci. USA 48, 1724-1727.   \n. Sarasin, A. (1978) Biochimie 60, 11411144.   \n7.Sarasin, A. R. and P. C. Hanawalt (1978) Proc. Natl Acad. Sci. USA 75, 346350.   \n75. Sarasin, A. and A. Benoit (1980) Mutat. Res. 70, 7181.   \n76. Sarasin, A. and P. C. Hanawalt (1980) Cell, submitted.   \n77. Scher, W. and C. Friend (1978) Cancer Res. 38, 841849.   \n78 Schroeder, T. M. and J. German (197) Humangenetik 25, 299306. ",
+        "bbox": [
+            140,
+            83,
+            811,
+            940
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "79. Shaw, M. W. and M. M. Cohen (1965) Genetics 51, 181190.   \n80. Tarrant, G. M. and R. Holliday (1978) Mol. Gen. Genet. 156, 273279.   \n81. Terada, M., U. Nudel, E. Fibach, R. Rikind and P. Marks (1978) Cancer Res. 38, 835-840.   \n82. Therman, E. and E. Meyer Kuhn (1976) Cytogenet. Cell Genet. 17, 254267.   \n8. Toman, Z., C. Dambly and M. Radman (1980) In Molecular and Cellular Aspects of Carcinogen   \nScreening Tests (Edited by R. Montesano, H. Bartsch and L. Tomatis), pp. 243255. IARC Sci. Publ.   \nNo. 27, Lyon.   \n84. Troll, W., A. Klassen and A. Jannof (1971) Science 169, 12111213.   \n85. Van Buul, P. P. W. and A. Léonard (1980) Mutat. Res. 70, 95101.   \n86. Weigle, J. J. (1953) Proc. Natl Acad. Sci. USA 39, 628636.   \n87. Witkin, E. M. (1974) Proc. Natl Acad. Sci. USA 71, 19301934.   \n88. Witkin, E. M. (1976) Bacteriol. Rev. 40, 869907.   \n8. Witkin, E. M. and I. E. Wermundsen (1978) Cold Spring Harbor Symp. Quant. Biol. 43, 881886.   \nZamansky, G. B., J. B. Little, P. H. Black and J. C. Kaplan (1978) Mutat. Res. 51, 109119.   \n91. Zamansky, G. B., L. F. Kleinman, P. H. Black and J. C. Kaplan (1980) Mutat. Res. 70, 19.   \n92. zur Hausen, H., G. W. Bornkamm, R. Schmidt and E. Hecker (1979) Proc. Natl Acad. Sci. USA   \n76, 782785. ",
+        "bbox": [
+            181,
+            79,
+            851,
+            279
+        ],
+        "page_idx": 7
+    }
+]

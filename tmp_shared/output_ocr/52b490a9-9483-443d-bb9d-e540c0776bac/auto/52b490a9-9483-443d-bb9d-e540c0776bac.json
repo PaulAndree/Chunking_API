@@ -1,0 +1,741 @@
+[
+    {
+        "type": "text",
+        "text": "Seeing Mutations in Living Cells ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            85,
+            558,
+            112
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Marina Elez,1 Andrew W. Murray,2 Li-Jun Bi,3   \nXian-En Zhang,4 Ivan Matic,1,6, \\* and Miroslav Radman1,5,6   \n1University Paris-Descartes Medical School, Inserm Unit 1001,   \n75730 Paris Cedex 15, France   \n2Department of Molecular and Cellular Biology,   \nHarvard University, Cambridge, MA 02138, USA   \n3National Laboratory of Biomacromolecules,   \nInstitute of Biophysics, Chinese Academy of Sciences,   \nBeijing 100101, China   \n4State Key Laboratory of Virology, Wuhan Institute of Virology,   \nChinese Academy of Sciences, Wuhan 430071, China   \n5Mediterranean Institute for Life Sciences, 21000 Split, Croatia ",
+        "bbox": [
+            91,
+            184,
+            490,
+            343
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            370,
+            156,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Background: Evolution depends on mutations: rare errors in the transmission of genetic information. Experimentally, mutations have been found by detecting altered phenotypes or sequencing complete genomes, but most mutations do not have overt phenotypes, and sequencing is expensive and has limited time resolution. The major source of mutations is DNA replication errors. Nearly all mistakes in DNA replication are detected and repaired by the mismatch repair machinery. Results: We use a functional, fluorescently labeled derivative of one of the key mismatch repair proteins (MutL) to see and count the small fraction of errors in   that Escherichia colidoes not get repaired and is converted into stable mutations by the next round of DNA replication. Over a 300-fold range, there is a linear relationship between the frequency of fluorescent foci and the genetically measured mutation frequency, and the mean frequency of fluorescent foci agrees well with estimates of the global mutation rate. ",
+        "bbox": [
+            91,
+            398,
+            491,
+            625
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: We describe a method for detecting the majority of genomic mutations emerging in living cells, independently of their potential phenotype. The distribution of emerging mutations per cell is roughly Poisson distributed, suggesting that all the cells in the population have roughly the same mutation rate. ",
+        "bbox": [
+            93,
+            626,
+            490,
+            704
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            725,
+            174,
+            736
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mutations are the raw material of evolution and play important roles in cancer, AIDS, and other human diseases. Because mutations are rare, they are hard to detect, particularly as they emerge. For most of the history of genetics, mutations were inferred by comparing the phenotypes of different individuals, and determining how fast, and when, mutations occurred depended on the sort of statistical analysis pioneered by Luria and Delbruck [1]. More recently, genome sequencing has made it possible to discover all the mutations that separate two lineages [2, 3], but this approach is expensive and has limited ability to resolve when mutations occur. Here we exploit the cell’s own machinery for correcting mistakes in DNA replication to directly see the small fraction of mistakes that is not repaired and is converted into mutations by the next round of DNA synthesis (Figure 1). This method detects genomic mutations as they emerge in living cells independently of their potential phenotype. ",
+        "bbox": [
+            93,
+            750,
+            490,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            184,
+            906,
+            250
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mismatch repair machinery is a strongly conserved group of proteins that detects and corrects errors in DNA replication [4, 5]. In all organisms endowed with mismatch repair, MutS binds to the sites of mistakes and recruits MutL. In enterobacteria, the MutL bound to mismatch-MutS complex recruits MutH, an endonuclease that cleaves the newly replicated DNA strand, triggering the removal of a segment of single-stranded DNA that contains the errant base. MutH can distinguish the two DNA strands because it recognizes the unmethylated adenine in the palindromic sequence GATC: the old strand is methylated, and the new strand remains unmethylated for several minutes after its synthesis. After the newly synthesized strand is methylated, MutH is unable to cleave either strand, and mistakes can no longer be corrected. Eukaryotes use homologs of MutS and MutL to correct errors in DNA replication, but they lack a homolog of MutH and do not use methylation to distinguish old and new DNA strands [4, 5]. ",
+        "bbox": [
+            509,
+            251,
+            908,
+            491
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "How uniform is the mutation rate within a population of genetically identical cells [6]? This question has important implications for evolution and medicine but is beyond the reach of previous methods for measuring mutation rates, which used populations rather than individual cells [7]. We have removed this limitation by studying the localization of functional, fluorescently labeled derivatives of mismatch repair proteins. In wild-type cells, a small fraction of the cells contains fluorescent focus formed by the accumulation of MutL, and the number of cells with focus, as well as the number of foci per cell, rises dramatically as mismatch repair is compromised, with the number of foci corresponding to the mutation rates of the different strains. In strains with high mutation rates, the number of foci per cell is a close match to the Poisson distribution that we would expect if most of the cells in the population had the same mutation rate. We discuss how our method can be extended to measure mutation rates in eukaryotes. ",
+        "bbox": [
+            509,
+            492,
+            906,
+            731
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            746,
+            561,
+            758
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MutL Foci Represent Nascent Mutations ",
+        "text_level": 1,
+        "bbox": [
+            511,
+            772,
+            779,
+            785
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three processes could recruit mismatch repair proteins to a region of the  chromosome: (1) association with a repliE. colication error that was destined to be repaired, (2) association with an error that will not be repaired, and (3) other processes that are unrelated to errors in DNA synthesis, such as homologous recombination between nonidentical DNA sequences. These possibilities can be distinguished by fluorescently labeling components of the mismatch repair machinery, looking at cells that have different mutation rates, and correlating the number of foci of labeled proteins with the frequency of mutant colonies in different strains. If foci persist for the same time on mistakes that will and will not be repaired, the number of foci will depend only on the rate at which DNA ",
+        "bbox": [
+            509,
+            786,
+            906,
+            959
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/365d0e0a9f6a7b02e164e6eaff149dbd0106e41ae30708707a656cef4bcea224.jpg",
+        "image_caption": [
+            "Figure 1. Diagram Showing the Outcome of Repair or a Failure of Repair of DNA Replication Errors "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            86,
+            106,
+            627,
+            338
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Parallel lines represent DNA strands. Replication error is C (in red) mispaired with A. Nascent mutation and fixed mutation are encircled in red. ",
+        "bbox": [
+            647,
+            140,
+            906,
+            175
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "detect the presence of a single mismatch in a cell by fluorescent microscopy [8, 9]. We found that fluorescent MutS and MutL form foci in a subset of cells. Although MutS shows some mismatch-independent foci (detected with mismatch binding-defective MutSF36A mutant [10]; data not shown), two lines of evidence suggest that all MutL foci are at mismatch sites: all eGFP-MutL polymerase makes mistakes and will be independent of the fraction of these errors that is corrected. If mistakes that are repaired never recruit enough mismatch repair protein or last long enough to be detected as discrete foci, the only visible mistakes will be those that are not corrected, and thus the number of foci will depend both on the fraction of mistakes that is corrected and the rate at which DNA polymerase makes errors. Finally, if the mismatch repair proteins are being recruited to other DNA configurations, e.g., recombination intermediates, the number of foci should be uncorrelated with either the accuracy of DNA polymerase or the efficiency of repair. ",
+        "bbox": [
+            647,
+            225,
+            908,
+            356
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            358,
+            490,
+            517
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To distinguish these hypotheses, we produced fluorescently labeled mismatch repair proteins. Our eGFP-labeled versions of MutL and MutS retain their normal function, as judged by measuring the frequency of rifampicin-resistant mutants in the strains that carried only the labeled derivatives (see Table S1 available online). Biochemical and in vivo experiments suggest that a single mismatch may lead to the recruitment of many copies of the MutL and MutS, thus allowing us to foci are abolished by (1) eliminating MutS and (2) replacing wild-type MutL with MutL-K159E, a mutant deficient for DNA binding and ATP hydrolysis [10] (Figures 2Ad, 2Ae, and 2B). We therefore used only eGFP-MutL for this study. ",
+        "bbox": [
+            91,
+            519,
+            490,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            358,
+            906,
+            410
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2053fe9f58be9e26c87cc1adfc56cc3aa282e682925f336e4f35c34579acfd53.jpg",
+        "image_caption": [
+            "Figure 2. eGFP-MutLWT Foci in Cells Exhibiting Different Mutation Rates "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            98,
+            647,
+            629,
+            959
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chromosomally  cells that express eGFP-MutL from mutLplasmid show very rare focus, with $0 . 4 5 \\%$ of the cells growing in minimal medium containing a single focus (Figures 2Aa and 2B). Eliminating MutH, the endonuclease that initiates the removal of the incorrect base, increases the fraction of cells with at least one focus to $2 4 . 9 \\%$ (Figures 2Ab and 2B). The number of MutL foci in  cells is not dependent on mutHthe cellular amount of eGFP-MutL (Figure S1). Elimination of the proofreading activity of the replicative DNA polymerase (the mutant) increases this fraction still further to $52 \\%$ mutD5(Figures 2Ac and 2B). Thus, the number of eGFP-MutL foci depends on three things: the frequency of errors in DNA replication, the efficiency with which these errors are repaired, and the integrity of MutS and MutL. ",
+        "bbox": [
+            509,
+            411,
+            908,
+            597
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These results are inconsistent with the two models: (1) a source of foci that is unconnected to errors in DNA (Aa–Ae) Fluorescent images of  (Aa), mutL mutL(Ab), (Ac), mutH mutL mutD5 mutL mutH strains producing eGFP-MutLWT (Ad), and mutS strain producing eGFP-MutLm mutL mutH(MutLK159E) (Ae), all grown to early exponential phase in minimal medium. ",
+        "bbox": [
+            509,
+            599,
+            906,
+            624
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            647,
+            671,
+            906,
+            739
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(B) The percentage of cells with at least one eGFP-MutLWT focus from (A). Error bars indicate standard error of the mean. n indicates the number of cells examined. See also Table S1 and Figure S1. ",
+        "bbox": [
+            647,
+            740,
+            908,
+            796
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "replication and (2) a model in which the foci are equally likely to come from errors destined to be repaired and those that are not. The results are consistent with the hypothesis that the foci only become bright enough and persistent enough to detect errors that are not going to be repaired. This hypothesis makes two further predictions: (1) the foci should disappear when a mismatched base pair is replicated to produce one duplex that has entirely wild-type information and one duplex that has entirely mutant information (Figure 1), and (2) the frequency of foci should be equal to the mutation rate. ",
+        "bbox": [
+            91,
+            103,
+            490,
+            237
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We tested the first prediction by following the fate of the eGFP-MutL foci in individual  cells. Figure 3A shows mutHimages from the growth of a single microcolony: a fluorescent focus becomes visible in one cell at 10 min and then disappears between 40 and 50 min. Figure 3B traces the intensity of nine individual eGFP-MutL foci through time. Foci were brighter than the background for 20 to $4 0 \\mathsf { m i n }$ . If a focus formed shortly after the passage of the replication fork that made the initial mistake and disappeared after the next fork replicated the mismatched DNA, the foci should persist for $4 0 \\mathrm { m i n }$ , which is the doubling time of the cells under the microscope and represents the time between the passage of successive replication forks. If the foci disappear because the mismatch is replicated, preventing the next round of replication will stop the focus from disappearing. This is precisely what we see: using rifampicin treatment to prevent the next round of DNA replication allows the foci to persist for at least 200 min (Figure 3C). ",
+        "bbox": [
+            91,
+            237,
+            490,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The second and most important prediction is that the focus frequency should correspond to the mutation rate. There are caveats to this prediction. Some types of replication errors, such as C:C mismatches, are not recognized by the mismatch repair machinery [11, 12]. Fortunately, the rate at which DNA polymerases make these errors is much lower than the rate of errors that is recognized by the repair machinery [13]. Additionally, it has been suggested that in some incipient mismatches in   [14], the templating base, instead of the mutant base, may be repaired and replaced in the newly synthesized strand. If this occurs as rapidly as correct mismatch repair, then such mutations will not be visualized by our method. ",
+        "bbox": [
+            91,
+            479,
+            490,
+            650
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We tested the prediction that the frequency of MutL foci represents an accurate estimation of the genomic mutation rate. We established the correlations between the frequency of eGFP-MutL foci and two measurements that reflect the cellular mutation rate: the frequency of rifampicin-resistant colonies and estimates of the genome-wide mutation rate [15]. We measured the frequency of rifampicin-resistant colonies and the frequency of eGFP-MutL foci in phenotypically wildtype, , and  cells in minimal medium. Rifampicin mutH mutD5resistance is a result of point mutations, small deletions, or small insertions in the  gene [16]. Figure 4 shows that rpoBthe number of eGFP-MutL foci is linearly related $( \\mathsf { R } ^ { 2 } = 0 . 9 9 9 )$ to the frequency of rifampicin-resistant colonies (Table S4). This excludes the possibility that above-mentioned problems preclude the precise estimation of mutation rate by our method. ",
+        "bbox": [
+            91,
+            653,
+            490,
+            865
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Next, we tested the agreement between the frequency of foci and estimates of the average mutation rate per base pair, which range from $4 . 1 ~ \\times ~ 1 0 ^ { - 1 0 }$ to $6 . 9 \\times 1 0 ^ { - 1 0 }$ [15, 17]. We see foci in $0 . 5 7 \\%$ of wild-type cells grown in minimal medium. We calculate that an exponentially growing population of cells has mean genome number of 2.0 by using the measured doubling time of the population $( 4 0 \\mathrm { \\ m i n } )$ and three (A) Representative examples of the consecutive fluorescent images of the same microcolony after 0, 10, 20, 30, 40, and 50 min of growth. ",
+        "bbox": [
+            91,
+            867,
+            490,
+            959
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/17de932a599b39af7fc13c6fd2be5d5f3f0e93aed27aa5abe46aa02807a7e35c.jpg",
+        "image_caption": [
+            "Figure 3. Lifetime of eGFP-MutLWT Foci (A and B) Dynamics of eGFP-MutLWT foci appearing and disappearing during growth.  cells producing eGFP-MutLWT were grown in minimal medium to early exponential phase, plated on a slide with agarose supplemented with minimal medium, and examined by time-lapse microscopy. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            531,
+            107,
+            885,
+            661
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            744,
+            906,
+            765
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(B) Evolution of the fluorescence for nine individual foci in the course of time $( \\bullet )$ and evolution of cell background fluorescence through time (B). Time 0 represents the fluorescence of the same cell, and the same cell area, 10 min prior to the time of initial focus detection. a.u. denotes arbitrary units. (C) Persisting eGFP-MutLWT foci in rifampicin-treated cells. Rifampicin $( 2 0 0 ~ \\mu \\ g / \\ m \\ l )$ was added to an early exponential phase culture of mutL cells producing eGFP-MutLWT grown in minimal medium, and incubation continued for $1 5 \\mathrm { \\ m i n }$ . The cells were concentrated and plated on the slide with agarose supplemented by minimal medium and rifampicin. Representative examples of fluorescent images taken at 0, 30, 110, and 200 min are shown. Time 0 corresponds to $3 0 \\ \\mathrm { m i n }$ postincubation with rifampicin. ",
+        "bbox": [
+            509,
+            757,
+            906,
+            904
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "assumptions: (1) it takes $4 0 \\mathrm { \\ m i n }$ for the forks to get from the origin to the terminus, (2) there is a 20 min interval between the termination of replication and cell division, and (3) the age distribution for exponentially growing cells is $\\mathsf { N } ( x ) = 2 ^ { ( 1 - x ) }$ , where N is the number of cells of age $x$ and $x$ xvaries from x x0 (newly born cells) to 1 (cells about to divide). Using this value and the frequency of foci, we calculate the overall mutation rate as the focus frequency (0.0057) divided by the product of the mean genome number cell (2.0) and the length of the genome $( 4 . 5 \\times 1 0 ^ { 6 } )$ , giving a value of $6 . 3 \\times 1 0 ^ { - 1 0 }$ bp/cell/ generation. This number falls within other estimates of the genomic mutation rate and suggests that we are measuring the occurrence of base pair mismatches that the next round of replication will convert into stable mutations. Because both our and others’ calculations of the genomic mutation rate involve assumptions, we cannot exclude the possibility that we fail to detect all the lesions that are going to be converted into mutations. ",
+        "bbox": [
+            508,
+            920,
+            906,
+            959
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/995356f897e18e64a97516898407e691c956509adeb7e56d340c8c7a7b14b775.jpg",
+        "image_caption": [
+            "Figure 4. Number of eGFP-MutL Foci Is Linearly Related to the Mutation Frequency "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            142,
+            104,
+            440,
+            286
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            501,
+            490,
+            702
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Mutation Rate in the Population Is Roughly Uniform Genetically identical cells need not behave identically even when they share the same environment [18–20]. This raises the possibility that the mutation rate is nonuniform in a population of cells. In principle, this possibility can be investigated by asking whether the frequency of double mutations is greater than half the square of frequency of single mutations. In practice, spontaneous double mutations are so rare that this question has proved impossible to address. ",
+        "bbox": [
+            91,
+            718,
+            490,
+            838
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our method allows us to interrogate the entire genome of many cells for the presence of mutations. If all the cells in the population have the same mutation rate, the number of eGFP-MutL foci per cell will follow a Poisson distribution. In chromosomally  cells that express eGFP-MutL from mplasmid, less than $1 \\%$ of the cells has a focus, suggesting that less than $0 . 0 1 \\%$ of them should have two foci, a frequency that is difficult to accurately measure. In cells that lack MutH or have an error-prone DNA polymerase, the mutation frequency is higher, and we see cells with up to three distinct foci. We can use the mean focus frequency of mutations to predict the distribution of cells with 0 to $\\geq 3$ foci if the mutation rate were uniform across the population of cells. Under these conditions, the number of foci per cell should follow a Poisson distribution. Figure 5 shows the actual distribution of the number of foci for  and  cells compared with two mutH mutD5different Poisson distributions, one calculated from the measured mean number of foci per cell and the other calculated from the fraction of cells that has no focus, on the assumption that the foci show a Poisson distribution. The actual number of foci is close to the two calculated distributions, although there is a slight excess of cells with one focus, compared to the predictions, and a deficit of cells with two or more foci. ",
+        "bbox": [
+            93,
+            840,
+            490,
+            959
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4c990b1ef8eeafabd91e84615a85f40ecadb7703fe0bc5798b1436c086250a6d.jpg",
+        "image_caption": [
+            "The plot shows the correlation between eGFP-MutL focus frequency and frequency of colonies that contain spontaneous mutations to rifampicin resistance $( \\mathsf { R } ^ { 2 } = 0 . 9 9 9 )$ for three strains with different mutation rates: , mutL , and  , all expressing eGFP-MutLWT. Assuming 2.0 genomes per cell and a target size of 69 different point mutations that can lead to rifampicin resistance, we calculate that MutL focus corresponds to a probability of $6 9 / ( 2 . 0 \\times 3 \\times 4 . 5 \\times 1 0 ^ { 6 } ) = 2 . 5 \\times 1 0 ^ { - 6 }$ of observing a mutation to rifampicin resistance in one of the cell’s descendants. We observe that each focus corresponds to a probability of obtaining a rifampicin-resistant colony of $8 . 2 \\times 1 0 ^ { - 6 }$ ; this discrepancy is in the expected direction because we measured the frequency of mutant cells, rather than the mutation rate, and mutations that arise earlier in the culture give rise to more mutant colonies than those that arise later [1]. See also Table S4. ",
+            "Figure 5. Mutation Rate in the Population Is Roughly Uniform (A and B) The plot shows the observed and calculated frequency of cells with a different number of foci for   strain expressing eGFPmutL mutHMutLWT (A) and   strain expressing eGFP-MutLWT (B). The mutL mutD5expected number of foci was calculated according to the Poisson distribution based on two different estimates of the mean number of foci per cell: (1) directly calculating the mean number of foci from the different frequency classes, which may be a slight underestimate, because if two foci are close together in the cell, they cannot be resolved from each other, and (2) using the frequency of cells that have no focus and the relationship (no focus) $=$ ${ \\mathfrak { e } } ^ { - m }$ , where $m$ is the mean number of foci per cell. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            528,
+            106,
+            888,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            689,
+            906,
+            874
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            893,
+            584,
+            905
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We have used the cell’s own mismatch repair machinery to detect the minority of errors that escapes repair and will produce mutations, because the errors get replicated before they can be repaired. We suggest that this apparent paradox arises because of a race between two processes: cleavage of the newly replicated strand that contains the misincorporated base by MutH and methylation of the GATC motifs on the newly synthesized strand by the Dam methylase. If MutH wins, the mismatch is removed, and accurate DNA repair prevents mutation. If Dam wins, both old and new strands are methylated near the site of the mismatch, precluding MutH cleavage, the mismatch persists, and the next round of replication converts it into a mutation. ",
+        "bbox": [
+            509,
+            920,
+            906,
+            959
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            104,
+            490,
+            236
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We can estimate how often MutH wins this race by comparing the frequency of eGFP-MutL foci in chromosomally cells that express eGFP-MutL from plasmid and chromomutLsomally  cells expressing eGFP-MutL. This commutL mutHparison suggests that more than $9 9 \\%$ of the time, MutH wins the race, a stretch of the newly synthesized DNA is degraded, and MutH rapidly disappears from the DNA. This result is coherent with previous genetic studies on mismatch repair effect on replication fidelity [21]. If we assume that cells take $5 \\mathrm { { m i n } }$ to methylate newly synthesized DNA and that the time taken for MutH to cleave DNA near mismatches is exponentially distributed, the mean time that a MutL focus would be associated with a mismatch destined to be successfully repaired would be $\\yen 70 s$ , assuming that MutS and MutL detect mismatches and become microscopically visible as soon as the DNA has replicated. We suspect that most mismatches do not recruit enough MutL molecules to become microscopically visible before they are repaired. Only unrepaired mismatches, either because of the absence of MutH protein or because of the ‘‘premature’’ methylation of GATC sequence by Dam methylase that prevents GATC cutting, allow accumulation of enough fluorescent MutL proteins to be detected as fluorescent foci. ",
+        "bbox": [
+            91,
+            237,
+            490,
+            543
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We present two pieces of evidence that support the idea that the eGFP-MutL foci we see represent nascent mutations. The first is that the ratio between the mean number of foci per cell and the frequency of rifampicin-resistant colonies is constant for three different genotypes whose relative mutation rate varies by a factor of 300. The second is the quantitative agreement between the number of foci and estimates of the genome-wide mutation rate. ",
+        "bbox": [
+            91,
+            546,
+            490,
+            652
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We used our method to address the long-standing puzzle of whether mutation rates are uniform within a population. The distribution of cells with a different number of MutL foci is a close match to a Poisson distribution. This observation rules out the possibility of any pronounced nonuniformity in the mutation rate within a growing population of  . There are two important caveats to this conclusion. First, we detect two nascent mutations by seeing two foci. If two mutations lie close together in space, even if they recruit eGFP-MutL independently, the two foci cannot be resolved by light microscopy. Thus, we cannot rule out the possibility that there is local clustering of mutations. Second, because we analyze only cells with high mutation rates, our conclusion of uniformity of mutation rates holds for most cells with high mutation rates. We cannot rule out, for example, that a subpopulation in wild-type cells can become transiently mismatch repair-defective as a result of, for example, stochastic fluctuations of a limiting component. ",
+        "bbox": [
+            91,
+            653,
+            490,
+            892
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The ability to see mutations as they happen opens many possibilities. In bacteria, these include the vexed question of whether a subpopulation of cells elevates its mutation rate as cultures enter stationary phase [22] and the comparison of the mutation rate in species that do and do not use the preferential methylation of older DNA strands to direct mismatch repair. Previous attempts to visualize mismatch repair were made in  subtilis [8], but the relationship Bacillusbetween the frequency of MutL foci and the genomic mutation rate was difficult to assess because this study was done with nonfunctional fluorescent MutL. Because the mismatch repair machinery is conserved, it should also be possible to see nascent mutations in eukaryotes. This would open up many important possibilities, such as investigating the elevation of the mutation rate in meiosis [23], comparing the rate of mutation in soma and germline, and investigating the uniformity of mutation rates within populations of tumor cells. ",
+        "bbox": [
+            91,
+            893,
+            490,
+            959
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            104,
+            908,
+            263
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Experimental Procedures ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            278,
+            649,
+            289
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Strain Construction ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            301,
+            617,
+            312
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The construction of  fusions to wild-type and mutant  and egfp mutL mutSgenes expressed from T7 RNA polymerase promoter on pET-32a type plasmid is described in the Supplemental Experimental Procedures. Plasmids were transformed into the strains deleted for the chromosomal or  gene to avoid dilution of the fluorescent MutL or MutS proteins mutSby the nonfluorescent native MutL or MutS, respectively. The T7 phage RNA polymerase-encoding gene was inserted into the chromosome under the control of an arabinose-inducible promoter. ",
+        "bbox": [
+            509,
+            313,
+            906,
+            402
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Growth Conditions ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            416,
+            614,
+            427
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cells were cultivated in minimal medium supplemented by $0 . 2 \\%$ casamino acids and ampicillin $( 1 0 0 ~ \\mu \\mathfrak { g } / \\mathfrak { m } \\mu )$ . For microscopy, cells from exponentially growing cultures were inoculated onto a solid matrix of minimal medium agarose in microscope cavity slides, as previously described [24]. ",
+        "bbox": [
+            509,
+            428,
+            906,
+            473
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Live Cell Imaging and Image Analysis ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            485,
+            717,
+            496
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cells were visualized with a 100 objective on an Axiovert 200 inverted microscope (Carl Zeiss) equipped with a Photometrics CoolSNAP camera (Princeton Instruments) and a temperature-controlled incubation chamber. Images were taken and analyzed by MetaMorph software. Focus fluorescence was calculated by subtracting the background fluorescence of the cell from the maximal pixel intensity of the focus. ",
+        "bbox": [
+            509,
+            497,
+            906,
+            565
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Statistics ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            578,
+            561,
+            586
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We used the observed frequency of cells with a different number of foci to calculate two predictions for the foci distribution we would expect if the mutation rate were uniform within the population. The first uses the observed mean number of foci per cell, and the second assumes that the mutations are Poisson distributed and uses the fraction of cells with no foci to calculate $m$ , the mean number of foci per cell according to the formula (0) = 2m ",
+        "bbox": [
+            509,
+            589,
+            908,
+            667
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            682,
+            652,
+            693
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Information includes Supplemental Experimental Procedures, one figure, and four tables and can be found with this article online at doi:10.1016/j.cub.2010.06.071. ",
+        "bbox": [
+            509,
+            705,
+            906,
+            739
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            751,
+            612,
+            762
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thank Martin Marinus and Wei Yang for kindly providing bacterial strains and plasmids as indicated. We also acknowledge Lydia Robert and Alex Dajkovic for critical reading of the manuscript. M.E. was supported by the University of Paris-Descartes and by Inserm U 1001 laboratory funds. ",
+        "bbox": [
+            509,
+            774,
+            906,
+            819
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Received: March 29, 2010   \nRevised: May 26, 2010   \nAccepted: June 22, 2010   \nPublished online: July 29, 2010 ",
+        "bbox": [
+            509,
+            836,
+            676,
+            881
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            893,
+            571,
+            904
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Luria, S.E., and Delbru¨ ck, M. (1943). Mutations of bacteria from virus sensitivity to virus resistance. Genetics , 491–511. 282. Denver, D.R., Dolan, P.C., Wilhelm, L.J., Sung, W., Lucas-Lledo´ , J.I., Howe, D.K., Lewis, S.C., Okamoto, K., Thomas, W.K., Lynch, M., and ",
+        "bbox": [
+            514,
+            913,
+            906,
+            959
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Baer, C.F. (2009). A genome-wide view of Caenorhabditis elegans basesubstitution mutation processes. Proc. Natl. Acad. Sci. USA , 16310– 16314.   \n3. Haag-Liautard, C., Dorris, M., Maside, X., Macaskill, S., Halligan, D.L., Houle, D., Charlesworth, B., and Keightley, P.D. (2007). Direct estimation of per nucleotide and genomic deleterious mutation rates in Drosophila. Nature , 82–85. 4454. Hsieh, P., and Yamane, K. (2008). DNA mismatch repair: Molecular mechanism, cancer, and ageing. Mech. Ageing Dev. , 391–407. 1295. Kunkel, T.A., and Erie, D.A. (2005). DNA mismatch repair. Annu. Rev. Biochem. , 681–710. 746. Ninio, J. (1991). Transient mutators: A semiquantitative analysis of the influence of translation and transcription errors on mutation rates. Genetics , 957–962. 1297. Drake, J.W. (2007). Too many mutants with multiple mutations. Crit. Rev. Biochem. Mol. Biol. , 247–258. 428. Smith, B.T., Grossman, A.D., and Walker, G.C. (2001). Visualization of mismatch repair in bacterial cells. Mol. Cell , 1197–1206.   \n9. Acharya, S., Foster, P.L., Brooks, P., and Fishel, R. (2003). The coordinated functions of the E. coli MutS and MutL proteins in mismatch repair. Mol. Cell , 233–246.   \n10. Junop, M.S., Yang, W., Funchain, P., Clendenin, W., and Miller, J.H. (2003). In vitro and in vivo studies of MutS, MutL and MutH mutants: Correlation of mismatch repair and DNA recombination. DNA Repair (Amst.) , 387–405.   \n211. Dohet, C., Wagner, R., and Radman, M. (1985). Repair of defined single base-pair mismatches in Escherichia coli. Proc. Natl. Acad. Sci. USA , 503–505.   \n12. Su, S.S., Lahue, R.S., Au, K.G., and Modrich, P. (1988). Mispair specificity of methyl-directed DNA mismatch correction in vitro. J. Biol. Chem. , 6829–6835.   \n26313. Mendelman, L.V., Boosalis, M.S., Petruska, J., and Goodman, M.F. (1989). Nearest neighbor influences on DNA polymerase insertion fidelity. J. Biol. Chem. , 14415–14423.   \n26414. Witkin, E.M., and Sicurella, N.A. (1964). Pure clones of lactose-negative mutants obtained In Escherichia coli after treatment with 5-Bromouracil. J. Mol. Biol. , 610–613.   \n815. Drake, J.W. (1991). A constant rate of spontaneous mutation in DNAbased microbes. Proc. Natl. Acad. Sci. USA , 7160–7164.   \n8816. Garibyan, L., Huang, T., Kim, M., Wolff, E., Nguyen, A., Nguyen, T., Diep, A., Hu, K., Iverson, A., Yang, H., and Miller, J.H. (2003). Use of the rpoB gene to determine the specificity of base substitution mutations on the Escherichia coli chromosome. DNA Repair (Amst.) , 593–608.   \n217. Drake, J.W., Charlesworth, B., Charlesworth, D., and Crow, J.F. (1998). Rates of spontaneous mutation. Genetics , 1667–1686.   \n14818. Novick, A., and Weiner, M. (1957). Enzyme induction as an all-or-none phenomenon. Proc. Natl. Acad. Sci. USA , 553–566.   \n4319. Kaern, M., Elston, T.C., Blake, W.J., and Collins, J.J. (2005). Stochasticity in gene expression: From theories to phenotypes. Nat. Rev. Genet. , 451–464.   \n20. Losick, R., and Desplan, C. (2008). Stochasticity and cell fate. Science , 65–68.   \n21. Glickman, B.W., and Radman, M. (1980). Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc. Natl. Acad. Sci. USA , 1063–1067.   \n7722. Galhardo, R.S., Hastings, P.J., and Rosenberg, S.M. (2007). Mutation as a stress response and the regulation of evolvability. Crit. Rev. Biochem. Mol. Biol. , 399–435.   \n4223. Magni, G.E., and Von Borstel, R.C. (1962). Different rates of spontaneous mutation during mitosis and meiosis in yeast. Genetics , 1097–1108.   \n24. Stewart, E.J., Madden, R., Paul, G., and Taddei, F. (2005). Aging and death in an organism that reproduces by morphologically symmetric division. PLoS Biol. , e45. ",
+        "bbox": [
+            89,
+            99,
+            493,
+            836
+        ],
+        "page_idx": 5
+    }
+]

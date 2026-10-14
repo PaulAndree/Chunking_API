@@ -1,0 +1,206 @@
+[
+    {
+        "type": "text",
+        "text": "Endonuclease III: An Endonuclease from Escherichia coli That Introduces Single Polynucleotide Chain Scissions in Ultraviolet-Irradiated DNA1 ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            268,
+            746,
+            369
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman2 ",
+        "bbox": [
+            204,
+            391,
+            404,
+            411
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Biological Laboratories Harvard University Cambridge, Massachusetts 02138 ",
+        "bbox": [
+            204,
+            423,
+            476,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            525,
+            255,
+            543
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An endonuclease that makes single polynucleotide chain scissions in UV-irradiated DNA has been purified from Escherichia coli. The activity has the following properties: (1) unirradiated DNA is attacked very little if at all; (2) singlestranded DNA is not attacked, whether irradiated or not; (3) there is no requirement for divalent cations, and the activity is not affected by the addition of EDTA; (4) the $\\mathsf { p H }$ optimum is approximately 7; (5) the activity is inhibited by $1 \\ \\mathrm { ~ M ~ } \\ \\mathrm { N a C l }$ , single-stranded DNA, transfer RNA, and unirradiated doublestranded DNA; (6) the sedimentation coefficient, $S _ { 2 0 , w }$ is approximately 2.6; (7) it is a basic protein. The enzyme is tentatively named $E .$ coli endonuclease III. The physiological function of the endonuclease has not yet been established. ",
+        "bbox": [
+            118,
+            563,
+            881,
+            748
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This study represents an initial attempt to isolate and characterize enzymes involved in correction of mismatched base pairs in DNA. Such local irregularities in the double-stranded structure of DNA can arise either as a result of the reaction of mutagenic chemicals or radiation with DNA or as a consequence of the formation of hybird DNA during genetic recombination (for review see Radding, 1973). Mismatches, i.e. noncomplementary base pairs, will occur during recombination whenever the hybird region includes portions of the parental molecules containing different genetic markers. In such instances, genetic markers which are single-base-pair substitutions will produce single-basepair mismatches, whereas insertion or deletion will produce extensive regions of mispairing, i.e. loops. Genetic evidence exists for the correction in Escherichia coli of both single-base-pair mismatches (Baas and Jansz, 1972; Wildenberg and Meselson, 1975; White and Fox, 1974) and loops (Berger and Benz, this volume). ",
+        "bbox": [
+            120,
+            785,
+            881,
+            822
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            118,
+            92,
+            881,
+            312
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using labeled heteroduplex $\\lambda$ DNA with three single-base-pair mismatches as substrate, we have been unable to detect in $E .$ coli extracts any major endonucleolytic activity specific for heteroduplex DNA. In an alternative approach, we have used UV-irradiated DNA in our assay system in order to purify endonucleases specific for damaged DNA and to test their activity on mismatched DNA. ",
+        "bbox": [
+            118,
+            314,
+            881,
+            423
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Two different assays for measuring the extent of single-strand breakage in the DNA were used: (1) velocity sedimentation analysis of $\\lambda$ DNA in alkaline sucrose gradients and (2) measurement of the proportion of intact covalently closed circular DNA molecules (RFI) of phage $\\phi { \\Chi } 1 7 4$ by the reversibility of denaturation of this particular DNA. A typical reaction mixture $( 0 . 2 5 ~ \\mathrm { m l } )$ contained (per ml) $5 0 ~ \\mu \\mathrm { M }$ Tris·HCl-Tris base buffer $\\mathrm { ( p H } 7 . 1 )$ , $5 ~ \\mu \\mathbf { M }$ EDTA, 5 $\\mu \\mathbf { M }$ 2-mercaptoethanol, $1 0 0 ~ \\mu \\mathbf { g }$ bovine serum albumin or gelatin, the enzyme sample to be assayed, and either approximately $1 0 ^ { 1 1 }$ labeled $\\lambda$ DNA molecules or about $0 . 1 ~ \\mu \\mathbf { g }$ labeled $\\phi \\mathbf { X } 1 7 4$ RFI DNA. The purification scheme includes DEAE-cellulose and phosphocellulose column chromatography, Sephadex gel filtration, velocity sedimentation in a glycerol gradient, and preparative isoelectric focusing in polyacrylamide gels. All methodological details were described elsewhere (Radman, 1975). ",
+        "bbox": [
+            116,
+            426,
+            879,
+            662
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Of at least two, and possibly three, different \"UV endonucleases,\" one, which we tentatively call endonuclease III, has been considerably purified through the above-mentioned steps. The principal property of the enzyme, the exclusive single-strand breakage of UV-irradiated DNA only, is illustrated in the experiment shown in Fig. 1. ",
+        "bbox": [
+            118,
+            665,
+            879,
+            755
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Some properties of the endonuclease III have been studied and are summarized in the abstract above. The full paper (Radman, 1975) discusses endonuclease III in relation to all other known $E .$ coli endonucleases, and we suggest that endonuclease III is different from endonuclease I, endonuclease II, restriction endonuclease R-K, recBC nuclease, and $E .$ coli UV endonuclease. This latter enzyme has been studied by Braun and Grossman (1974, and this volume) and shown to be missing in the uvrA and uvrB mutants, which are deficient in excision-repair of pyrimidine dimers. ",
+        "bbox": [
+            118,
+            756,
+            879,
+            902
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/70b0c75e418c40c9b4ba12e6f17233015a5300fecc449da5daa3bd908fd3bc27.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            297,
+            112,
+            693,
+            546
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1. Neutral and alkaline sedimentation analysis of UV-irradiated and nonirradiated $\\lambda$ DNA treated with endonuclease III. Two standard reaction mixtures $\\cdot 0 . 4 \\mathrm { \\ m l }$ each)contained approximately $2 \\ \\mu \\mathrm { g }$ each of UV-irradiated $\\mathbf { \\boldsymbol { \\mathsf { 3 2 } } } \\mathbf { p } .$ -labeled and nonirradiated $^ 3 \\mathrm { H }$ labeled $\\lambda$ DNA. One mixture was incubated without enzyme and to the second mixture approximately $1 ~ \\mu \\mathrm { g }$ protein from phosphocellulose fraction was added. Incubation was at $3 7 ^ { \\circ } \\mathrm { C }$ for $6 0 \\ \\mathrm { m i n }$ . After addition of EDTA, the two reaction mixtures were divided into two equal parts for sedimentation analysis at neutral and alkaline $\\mathsf { p H }$ Neutral exponential gradients of $6 \\mathrm { - } 2 5 \\%$ sucrose contained 0.01 M tris buffer, $\\mathsf { p H } 8 . 0$ ,0.001 M EDTA, $0 . 9 \\mathrm { ~ M ~ N a C l }$ , and $1 \\%$ Duponol. Alkaline exponential gradients of $6 - 2 5 \\%$ sucrose contained $0 . 0 0 5 \\textbf { M }$ EDTA and $0 . 3 \\mathrm { ~ M ~ N a O H }$ Centrifugation was performed in an IEC, SB405 rotor at $5 5 , 0 0 0 ~ \\mathrm { r p m }$ , at $2 0 ^ { \\circ } \\mathrm { C }$ . for $6 0 ~ \\mathrm { { m i n } }$ in the case of neutral gradients, and for $1 3 0 \\mathrm { m i n }$ in the case of alkaline gradients. Fractions were collected from the bottom onto filter papers. Radioactivity of dried papers was determined by liquid scintillation counting in Omnifluor-toluene scintillation fluid. Gradients were routinely plotted using a computer program in which peaks were normalized to the same level, and the curves were plotted as percent total radioactivity of each isotope in one gradient. Peak values are (a) $^ { 3 2 } \\mathrm { P } = 2 7 . 2 \\%$ $^ 3 \\mathrm { H } = 3 0 . 3 \\%$ ,(b) $^ { 3 2 } \\mathrm { P } = 3 3 . 5 \\%$ $^ 3 \\mathrm { H } = 3 0 . 7 \\%$ ; (c) $^ { 3 2 } \\mathrm { P } = 2 1 . 9 \\%$ $^ 3 \\mathrm { H } = 2 3 . 1 \\%$ ;(d) $^ { 3 2 } \\mathrm { P } = 1 4 . 7 \\%$ , $^ 3 \\mathrm { H } = 2 3 . 2 \\%$ Total radioactivity per gradient was approximately $1 0 0 0 ~ \\mathrm { c p m }$ of each isotope. (a) Neutral gradient, no enzyme added; $\\left. b \\right.$ neutral gradient, with enzyme; $\\left( c \\right)$ alkaline gradient, no enzyme added; $( d )$ alkaline gradient, with enzyme. $\\mathrm { O - } \\mathrm { \\longrightarrow } \\mathrm { O }$ b $^ 3 \\mathrm { H }$ labeled, nonirradiated $\\lambda$ DNA; •, $\\mathbf { \\boldsymbol { \\mathbf { \\mathit { \\varepsilon } } } } ^ { 3 2 } \\mathbf { \\mathbf { \\mathit { \\varepsilon } } } \\mathbf { P }$ -labeled, UV. irradiated $\\lambda$ DNA. ",
+        "bbox": [
+            116,
+            557,
+            881,
+            884
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The investigation of the types of distortion in the DNA structure which are recognized by endonuclease III and the screening of mutants deficient in its activity should furnish more information about the biological role of endonuclease III. ",
+        "bbox": [
+            120,
+            90,
+            879,
+            164
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            200,
+            390,
+            220
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "I thank Matt Meselson for the advice and encouragement and hospitality in his laboratory. I have enjoyed excellent assistance of S. Bott, J. Landers, and R. Burger. This work was done while I was holding an EMBO postdoctoral fellowship and a fellowship from the Jane Coffin Childs Memorial Fund for Medical Research with a grant-in-aid. This work was supported by an NSF grant to M. Meselson. ",
+        "bbox": [
+            120,
+            238,
+            881,
+            349
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            385,
+            290,
+            403
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Baas, P. D. and Jansz, H. S. (1972). J. Mol. Biol. 63, 557568.   \nBraun, A. and Grossman, L. (1974). Proc. Nat. Acad. Sci. U.S.A. 71, 18381842.   \nRadding, C. M. (1973). Ann. Rev. Genet. 1, 87111.   \nRadman, M. (1975). J. Biol. Chem. (in press).   \nWhite, R. and Fox, M. S. (1974). Proc. Nat. Acad. Sci. U.S.A. 71, 1544-1548.   \nWildenberg, J. and Meselson, M. (1975). Proc. Nat. Acad. Sci. U.S.A. (in press). ",
+        "bbox": [
+            120,
+            419,
+            786,
+            513
+        ],
+        "page_idx": 3
+    }
+]

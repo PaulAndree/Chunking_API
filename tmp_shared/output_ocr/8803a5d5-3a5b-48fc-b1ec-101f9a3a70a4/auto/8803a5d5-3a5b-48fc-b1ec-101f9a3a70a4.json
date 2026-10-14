@@ -1,0 +1,891 @@
+[
+    {
+        "type": "text",
+        "text": "Interspecies Gene Exchange in Bacteria: The Role of SOS and Mismatch Repair Systems in Evolution of Species ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            77,
+            766,
+            152
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ivan Matic, Christiane Rayssiguier,   \nand Miroslav Radman   \nLaboratoire de Mutagénèse   \nInstitut Jacques Monod   \n2, Place Jussieu   \n75251 Paris Cedex 05   \nFrance ",
+        "bbox": [
+            127,
+            170,
+            361,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            291,
+            192,
+            304
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Analysis of interspecies matings between S. typhimurium and E. coli indicates that the genetic barrier that separates these (and perhaps many other) related species is primarily recombinational. The structural component of this barrier is genomic sequence divergence. The mismatch repair enzymes act as potent inhibitors of interspecies recombination, whereas the SOS system acts as an inducible positive regulator. Interspecies mating triggers a RecBC-dependent SOS response in female bacteria that increases recombination mainly through overproduction of the RecA protein. Mismatch repair acts to reduce the mutation rate and recombination between similar sequences, whereas SOS acts to increase both. These opposing activities allow mismatch repair and SOS systems to determine both the rate of accumulation of sequence divergence and the extent of genetic isolation, which are the key components of the speciation process. ",
+        "bbox": [
+            129,
+            316,
+            482,
+            555
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            130,
+            571,
+            210,
+            583
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Species are groups of interbreeding natural populations that are reproductively isolated from other such groups (Mayr, 1982). Whether or not organisms reproduce sexually, the process of speciation can start only when gene flow between two or more populations is interrupted. Thus, enquiring about the genetic mechanisms of speciation amounts to asking how populations become genetically isolated. Bacteria reproduce vegetatively and produce recombinant genotypes facultatively via gene transfer by conjugation, transformation, and transduction (Porter, 1988). The existence of genetic barriers that prevent all mechanisms of interspecies genetic exchange in bacteria suggests that the definition of reproductive isolation for eukaryotic species can be extended to bacteria (MaynardSmith et al., 1991). ",
+        "bbox": [
+            130,
+            597,
+            483,
+            795
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An excellent model system for genetic and molecular studies of genetic barriers between closely related bacterial species is provided by Salmonella typhimurium and Escherichia coli. These two bacterial species have diverged mostly through the accumulation of neutral mutations, such that the two genomes are about $16 \\%$ diverged, but the encoded proteins are highly conserved (Sharp and Li, 1987; Sharp, 1991). DNA sequence analysis indicates that there has been little transfer of chromosomal genes between these two species (Sharp and Li, 1987; Maynard",
+        "bbox": [
+            130,
+            797,
+            483,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Smith et al., 1991; Sharp, 1991). Experimental data confirm that genetic exchange between E. coli and S. typhimurium is very low, on the order of $1 0 ^ { 5 }$ times lower than intraspecies recombination (Baron et al., 1968; Rayssiguier et al., 1989). Even such rare events may be important for the evolution of species, because they allow rapid adaptation to environmental challenges. The majority of reported cases of horizontal gene transfer in E. coli and S. typhimurium are genes whose acquisition presents an immediate adaptive advantage (such as genes encoding cell surface proteins) (Verma and Reeves, 1989; Smith et al., 1990; Marklund et al., 1992). The evolution of E. coli was certainly affected by gene acquisition from other species, as suggested by the biological roles of genes for which horizontal transfer has been invoked: the mutD, mutL, mutT, and mutH genes (functional antimutator genes) (Médigue et al., 1991; A. Hénaut, personal communication), the umuCD operon (required for mutagenic DNA repair) (Sedgwick et al., 1988), and the lac operon (Buvinger et al., 1984). Analysis of the G plus C content and codon adaptation index for 500 E. coli genes shows that about $6 \\%$ of the genes have atypical values, presumably as a result of their recent acquisition by horizontal transfer (Whittam and Ake, 1993). ",
+        "bbox": [
+            516,
+            169,
+            869,
+            489
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For horizontal transmission to occur, genetic material must overcome at least two types of barriers: transfer barriers that prevent the delivery of genetic information from a donor cell, and establishment barriers that block inheritance of newly acquired genes (Heinemann, 1991). It has been shown that major restraints to genetic exchange between E. coli and S. typhimurium occur on the level of homologous recombination between the donor and recipient DNAs (Rayssiguier et al., 1989; Rayssiguier et al., 1991; Matic et al., 1994). Recombination between partially homologous DNA substrates is dependent on the extent and degree of DNA homology, which is monitored by recombination and mismatch repair enzymes (Modrich, 1991; Radman and Wagner, 1993). Recombination enzymes appear to be highly selective for sequence identity only at the initial stage of the strand exchange process, which requires a minimum length of homology or minimum efficient processing segment (MEPS), below which recombination becomes inefficient (Shen and Huang, 1986). Divergence between recombination substrates reduces recombination by reducing the number of available MEPSs (Shen and Huang, 1989). However, the mismatch repair system, in particular its mismatch-binding components MutS and MutL, is the most potent inhibitor of recombination between weakly and moderately diverged sequences, including genomes of related bacterial species (Rayssiguier et al., 1989; Shen and Huang, 1989; Rayssiguier et al., 1991; Matic et al., 1994). Intrachromosomal recombination between two repeated sequences diverged $0 . 9 \\%$ (rhsA and rhsB) is increased either by the inactivation of the mismatch repair system or by the activation of the SOS system (Petit et al., 1991). These opposite effects of SOS induction and mismatch repair on recombination between similar sequences prompted this study of the genetic control of interspecies recombination. The results show that the SOS response induced in recipient cells by interspecies mating and the interspecies recombination are RecBC dependent and that the SOS induction stimulates interspecies recombination through increased expression of the recA gene, and probably ruvA and ruvB genes. The postulated role of mismatch repair and SOS systems in the genetic and environmental control of bacterial speciation provides a paradigm for speciation of eukaryotes. ",
+        "bbox": [
+            517,
+            491,
+            870,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/88d22cb89b2d439a49132d451c55b05fc0450a8093d21f9d4dbdd89fde93292c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            127,
+            132,
+            482,
+            338
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            125,
+            374,
+            478,
+            507
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            125,
+            521,
+            176,
+            533
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transfer and Survival of Donor DNA in Interspecies Crosses ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            548,
+            367,
+            573
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The first step in genetic exchange is DNA transfer from one organism to another, which can be limited by barriers such as cell surface incompatibilities and restriction systems that can degrade exogenous DNA. We tested the mating and transfer efficiency during interspecies conjugation by measuring the zygotic induction of $\\gimel$ prophage transferred as an integral part of Hfr DNA into nonimmune recipient cells (Jacob and Wollman, 1961) and found that there is no significant barrier that prevents the conjugational DNA transfer between S. typhimurium and E. coli (Table 1). The E. coli type I restriction system (encoded by the hsdR gene) does not significantly affect either conjugational DNA delivery or the recombination of a single marker between S. typhimurium and E. coli (Table 1 and Figure 1). ",
+        "bbox": [
+            125,
+            576,
+            478,
+            774
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pathways of Interspecies Recombination ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            786,
+            398,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During E. coli conjugation, Hfr DNA enters the recipient cell as a single strand with a leading ${ \\mathfrak { s } } ^ { \\prime }$ end. In female cells, lagging-strand synthesis produces double-stranded DNA with transient strand interruptions (Ohki and Tomizawa, 1969). Double-stranded ends are substrates for the RecBCD recombination pathway, whereas DNA without free double-stranded ends, but with nicks or singlestranded gaps, is a substrate for the RecF pathway (Smith, 1989). The RecBCD pathway, the major pathway for conjugational recombination of E. coli, is also the major pathway for interspecies conjugational recombination (Rayssiguier et al., 1991; Figure 1), where it was shown to produce large chromosomal replacements (Matic et al., 1994). The recB gene is essential for all known activities of the RecBCD enzyme (Taylor, 1988). In the mut\\* background, a recB mutation reduces recovery of intraspecies and interspecies recombinants to $1 \\%$ of the $\\pmb { r e c B } ^ { + }$ level (Figure However, in a mutS strain, the yield of interspecies recombinants decreases $2 \\times 1 0 ^ { 4 } \\cdot$ -fold upon introduction of a recB mutation. The RecBC enzyme (without the RecD subunit) has no exonuclease V activity but retains helicase activity (Palas and Kushner, 1990). This activity appears to be sufficient to provide a source of single-stranded DNA substrate for the RecA protein, since recD strains retain intra- (Mahajan, 1988) and interspecies recombination proficiency (Figure 1). ",
+        "bbox": [
+            125,
+            800,
+            478,
+            929
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            134,
+            870,
+            345
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the absence of the RecBCD enzyme, the residual level of intra- and interspecies recombination (both in mut\\* and mutS strains) can be restored to the wild-type level by extragenic suppressors sbcB and sbcC, which turn on the RecF pathway (Mahajan, 1988; Figure 1). In a wild-type background, the RecF pathway plays only a minor role in conjugational recombination, because the recF or recJ mutations do not significantly affect either intra- or interspecies recombination of single markers (Figure 1). ",
+        "bbox": [
+            519,
+            346,
+            870,
+            466
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Role of Branch Migration Proteins in Interspecies Recombination ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            492,
+            758,
+            518
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interspecies conjugational recombination between S. typhimurium and E. coli shows an absolute requirement for the recA gene product (Rayssiguier et al., 1989; Figure 1), which is involved in homology searching, pairing, strand exchange, and branch migration (Kowalczykowski et al., 1994). Branch migration initiated by the RecA protein is completed by the RuvA, RuvB, and RuvC proteins, or by the RecG protein, which provide alternative pathways for the resolution of Holliday junctions (West, 1994). It is not known how much RecA-dependent heteroduplex formation occurs prior to continuation of branch migration by the Ruv or RecG proteins, nor how much the activity of these proteins is affected by sequence divergence and heterology. ",
+        "bbox": [
+            517,
+            520,
+            869,
+            704
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We have observed a similar effect of the ruvA mutation on interspecies recombination in mut\\* and mutS contexts (11- and 16-fold decreases), whereas the ruvA mutation had no effect on intraspecies recombination in the mutS and a 4-fold effect in the mut\\* strain. This observation suggests that the Ruv functions are more important for inter- than for intraspecies recombination. Mutations in ruvA and recG genes similarly reduce intraspecies recombination (less than 4-fold), but in interspecies recombination, a ruvA mutation reduces recombination 5- to 8-fold more than a recG mutation. These results could be accounted for by an increased expression of the ruvAB genes due to the induction of SOS response by interspecies mating (see next section; Kowalczykowski et al., 1994). The double ruvA recG mutant is completely recombination deficient in interspecies crosses (Figure 1), presumably owing to the failure to resolve Holliday junctions (West, 1994). ",
+        "bbox": [
+            516,
+            707,
+            869,
+            927
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/06a04991fc24196049af30ee4622e3ed301dc4b6da228ee0b06bec8bea330195.jpg",
+        "image_caption": [
+            "Figure 1. The Frequencies of S. typhimurium $H \\hbar r \\times E$ coli $\\mathsf { F } ^ { \\ast }$ Interspecies and E. coli Hfr $\\times$ E. coli F- Intraspecies Conjugational Recombination "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            130,
+            123,
+            591,
+            820
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The recombination frequencies for the selected marker (arg\\*; left column) are expressed per Hfr donor after subtracting unmated revertants. Each number represents the mean of at least three independent experiments. The histograms represent the recombination frequencies (arg\\* per Hfr) of different recipients relative to that of the wild-type strain (0 on the log scale). The juxtaposed graphs show the difference of five orders of magnitude between the wild-type interspecies (A) and intraspecies (B) recombination frequencies. ",
+        "bbox": [
+            633,
+            175,
+            870,
+            305
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stimulation of Interspecies Recombination by SOS Induction ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            836,
+            415,
+            862
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Induction of SOS response (Radman, 1974) results from activation of the RecA protein by an inducing signal produced following DNA damage (Walker, 1984). Activated RecA protein promotes self-cleavage of the LexA repressor of the SOS regulon, as well as repressors of temperate phages (e.g., λ Cl) (Little, 1984). The SOS response induced either by DNA-damaging agents or by an SOSconstitutive mutation (recA441) stimulates conjugational recombination (Lloyd, 1978; Oishi, 1988), presumably by inducing numerous recombination genes (e.g., recA, recN, recQ, ruvA, ruvB, uvrD) (Kowalczykowski et al., 1994). ",
+        "bbox": [
+            127,
+            863,
+            482,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            838,
+            870,
+            928
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/92aaca1d66bc835196b843ab2713ba62c317f82fd690eab3ab2c656a6195cb49.jpg",
+        "image_caption": [
+            "Figure 2. Induction of recA Gene Expression in E. coli $\\mathsf { F } ^ { - }$ Recipients by S. typhimurium Hr $\\times$ E. coli F- Interspecies and E. coli Hfr $\\times \\mathsf { E }$ coli $\\mathsf { F } ^ { - }$ Intraspecies Conjugation "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            131,
+            598,
+            398
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(A) The expression of the recA::/acZ fusion, measured by assaying the β-galactosidase activity in the E. coli wild-type strain in the course of conjugation (1 hr) and subsequent incubation (2 hr). ",
+        "bbox": [
+            633,
+            179,
+            870,
+            234
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(B) The expression of the recA::lacZ fusion in different E. coli recipient strains after 1 hr of conjugation plus 1 hr of subsequent incubation. ",
+        "bbox": [
+            633,
+            235,
+            870,
+            266
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We have used the lexA1 (Ind\") mutation, which renders the LexA repressor noncleavable and thus limits the expression of the SOS regulon to uninduced levels (Mount et al., 1972; Walker, 1984). This aliele reduces the recombination frequencies by 10- and 15-fold for intra- and interspecies matings, respectively (Figure 1). However, in a mutS background, the lexA1 (Ind\") mutation reduces interspecies recombination 170-fold but intraspecies recombination only 2-fold (Figure 1), suggesting that some inducible LexA-regulated functions are rate-limiting for interspecies recombination. ",
+        "bbox": [
+            125,
+            426,
+            480,
+            571
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To test whether increased levels of the RecA protein alone can restore the interspecies recombination proficiency of lexA 1 (Ind-) strains, the recAo98 operator constitutive allele was introduced. This allele increases the concentration of the RecA protein in a lexA1 (Ind-) strain by 6-fold (Sommer et al., 1993), which increases interspecies recombination 11- and 65-fold in lexA1 (Ind-) and lexA1 (Ind\") mutS strains, respectively. (Similarly, when the concentration of RecA protein was increased in the lexA1 (Ind\") strain by the introduction of a plasmid carrying the E. coli recA+ gene [pDR1453], the frequency of interspecies recombination increased 13-fold.) The minor contribution of the RecF pathway suggests that other recombination genes of the SOS regulon (e.g., recN and recQ) are not involved in interspecies recombination (Figure 1). ",
+        "bbox": [
+            127,
+            573,
+            478,
+            771
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effect of SOS induction on interspecies recombination is much stronger in the mutS than in the mut\\* strains (compare effects of the lexA1 (Ind-) and recAo98 mutations in mutS and in mut\\* backgrounds in Figure 1). This suggests that the mismatch repair system is a potent inhibitor of interspecies recombination even during SOs response. ",
+        "bbox": [
+            127,
+            772,
+            480,
+            864
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Increased Expression of the recA Gene in the Course of Interspecies Mating ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            878,
+            433,
+            903
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The requirement of SOS inducibility $( I e x A ^ { + } )$ for efficient conjugational recombination (Figure 1) suggests that mating may induce SOS response in female cells. Whereas intraspecies conjugation induces the SOS response only weakly (Jones et al., 1992; Figure 2), a strong SOS induction (detected by monitoring inactivation of  phage repressor through use of an epigenetic switch system) was observed during interspecies conjugation in $2 \\%$ of mated female bacteria. Clones that had undergone such strong SOS induction were found to have a 20-fold higher interspecies recombination frequency than the noninduced ones (I. M., F. Taddei, and M. R., unpublished data). Because the RecA protein appears to be the key SOSinducible protein that is rate-limiting for interspecies recombination, we measured, in a more sensitive assay, the kinetics of expression of a recA::lacZ operon fusion in a strain that also bears a functional $r e c A ^ { + }$ gene. At $6 0 m i n$ after the interruption of conjugation, recA gene induction was 3- to 4-fold higher in interspecies than in intraspecies conjugation (Figure 2B). The absence of recA::lacZ induction in lexA1 (Ind\") recipients indicates that mating induces a genuine SOS response. ",
+        "bbox": [
+            127,
+            904,
+            480,
+            929
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            426,
+            870,
+            692
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Genetic Analysis of SOS Response and Interspecies Recombination ",
+        "text_level": 1,
+        "bbox": [
+            519,
+            706,
+            750,
+            731
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The results of in vitro and in vivo experiments suggest that persistent single-stranded DNA is the SOS-inducing signal (Craig and Roberts, 1980; Sassanfar and Roberts, 1990). The possibility that the double-strand breakage of donor DNA by host type I restriction endonuclease produces the SOS-inducing signal during interspecies matings can be eliminated on account of the lack of significant effect of a hsdR mutation (Figure 2B). ",
+        "bbox": [
+            519,
+            733,
+            870,
+            838
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The observed difference in the level of SOS induction between inter- and intraspecies conjugations is RecBC dependent and RecD independent, and a recJ mutation inactivating the RecF pathway does not modify SOS induction (Figure 2B). Thus, the genetic requirements for SOS response induced by interspecies mating are similar to those for SOS induction by nalidixic acid, which is caused by gyrase-mediated double-strand breakage (Chaudhury and Smith, 1985; Sassanfar and Roberts, 1990). Neither requires the exonuclease activity of the RecBCD enzyme, and both require the helicase activity of RecBC(D-) enzyme, which is presumably involved in production of single-stranded DNA termini (Oishi, 1988; Figure 2B). Moreover, the highest level of recA gene expression observed during interspecies conjugation (Figure 2) was similar to that obtained with nalidixic acid $4 0 \\mu / / m \\mu$ after 2 hr of incubation; data not shown). The RecBC-dependent SOS response to interspecies mating is not affected by mutations in the mutS, ruvA, or recG genes (Figure 2B). Therefore, the SOS induction signal is probably not produced by the mismatch recognition and repair activities. It is probably generated after the RecBC helicase activity but before the RuvA-or RecG-mediated branch migration, i.e., at the time when RecA protein acts. ",
+        "bbox": [
+            517,
+            838,
+            870,
+            928
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            127,
+            131,
+            480,
+            355
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "No difference in SOS induction between intra- and interspecies conjugation is observed in a recBC sbcBC strain (Figure 2). However, in the recBC sbcBC strain, recA gene expression is already high, owing to constitutive expression of SOS functions (Karu and Belk, 1982; Figure 2). In addition, the kinetics of intraspecies recombination in this double-mutant strain are particularly slow compared with those in wild-type strains (Lloyd and Thomas, 1983). If SOS induction and recombination are dependent on the same substrates, then the absence of a stronger SOS response to interspecies conjugation in the recBC sbcBC strain might be due to a slower generation of such substrates, e.g., single-stranded DNA. ",
+        "bbox": [
+            129,
+            357,
+            483,
+            528
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            130,
+            543,
+            204,
+            555
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "text_level": 1,
+        "bbox": [
+            133,
+            570,
+            459,
+            582
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNA Sequence Divergence and Genetic Isolation Neither the efficiency of conjugational DNA transfer nor the type I restriction system presents a significant genetic barrier between S. typhimurium and E. coli (Table 1). The genomic divergence of these two species is clearly the key structural basis of the genetic barrier between them. The effectiveness of the barrier is determined by the activities of recombination and mismatch repair enzymes in the course of interspecies DNA interactions. In addition to correcting DNA replication errors, mismatch repair proteins act as editors of homologous recombination (Radman and Wagner, 1993). In the absence of such editing, the RecA-mediated strand exchange can occur in spite of large numbers of mismatches and large heterologies (DasGupta and Radding, 1982; Bianchi and Radding, 1983; Lichten and Fox, 1984). Rayssiguier et al. (1989) have demonstrated that genetic exchanges (conjugational and transductional) between E. coli and S. typhimurium are enhanced by up to three orders of magnitude when the recipients are mismatch repair—deficient mutS or mutL mutants. These results have been corroborated in vitro: purified MutS and MutL proteins have been shown to block the RecA-catalyzed strand transfer between $3 \\%$ diverged DNA substrates without affecting strand transfer between identical substrates (Worth et al., 1994). ",
+        "bbox": [
+            130,
+            572,
+            483,
+            899
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The requirement of sequence identity for a maximally efficient recombination can restrict recombination events to regions of highest homology. It has been reported that rrn operons, whose DNA sequence is highly conserved (e.g., the S. typhimurium and E. coli 16S rRNA sequences differ by only ${ 2 \\% 1 0 - 3 \\% 1 }$ , present favored targets for interspecies recombination in a wild-type background (Lehner et al., 1984; Lehner and Hill, 1985). The importance of DNA sequence divergence in sexual isolation has also been confirmed in transformation of Bacillus species, where the degree of sequence divergence between donor and recipient genomes correlates with the degree of genetic isolation (Roberts and Cohan, 1993). ",
+        "bbox": [
+            130,
+            903,
+            483,
+            927
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            129,
+            869,
+            274
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The SOS Response to Interspecies Mating ",
+        "text_level": 1,
+        "bbox": [
+            519,
+            289,
+            800,
+            301
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The strong recombination-suppressing effect of the lexA1 (Ind-) allele in the mutS backgrounds indicates that inactivation of the mismatch repair system is not a sufficient condition for maximal interspecies recombination (Figure 1). Induction of the recA gene is clearly required for efficient recombination in mut\\* and mutS backgrounds (Figure 1), but the induction of ruvAB genes appears also to be specifically required for maximal interspecies recombination. These results indicated that the RuvAB proteins can catalyze branch migration across mismatched regions. Thus, it appears that the recombination intermediates created by RecA activity are subject to editing by the MutS and MutL proteins, whereas recombinational activity of the RuvAB proteins is not (perhaps because Ruvcatalyzed heteroduplexes are too long to be edited or because RuvABC protein—mediated resolution is too fast for MutS and MutL to act). Editing of recombination by mismatch repair proteins appears to occur during homology search or initiation of strand exchange by the RecA protein, or both. ",
+        "bbox": [
+            517,
+            304,
+            869,
+            567
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SOS induction is weak and RecB-independent in intraspecies mating, whereas it is strong and RecB-dependent in interspecies mating (Figure 2B). The RecB-independent SOS induction is the same in both types of matings, and it may therefore be due to transient single-strandedness during the lagging-strand synthesis on the transferred Hfr DNA (Bagdasarian et al., 1986). The RecBC dependence of only the SOS response specific for interspecies conjugation indicates that either the RecBC enzyme acts differently on S. typhimurium and E. coli DNAs, which seems unlikely, or that the strong SOS-inducing signal occurs following RecBC activity. The requirement for doublestranded DNA ends for all known RecBCD activities (Taylor, 1988) suggests that the interspecies conjugationspecific induction signal is produced after the complementary strand synthesis. It has been reported that also in recombination, the RecBCD enzyme acts early by providing singlestranded DNA substrate for the RecA protein (Roman et al., 1991). ",
+        "bbox": [
+            517,
+            570,
+            869,
+            822
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The extent and kinetics of the RecBC-dependent SOS response to interspecies mating are RecD-, MutS-, RuvA-, and RecG-independent (Figure 2B). Therefore, the SOS induction signal is probably not produced by the mismatch recognition and repair activities and may be generated after RecBC helicase activity but before the RuvA- or RecG-mediated branch migration. Given the lack of strong SOS induction in the course of highly efficient homologous recombination during intraspecies conjugation, we postulate that the difference (with regard to SOS induction) between the intra- and interspecies recombination is probably in one of RecA protein-mediated recombination steps (homology search, pairing, strand exchange, and branch migration). The MutS independence of the interspecies mating-induced SOS response suggests that the activation of the RecA coprotease activity occurs prior to extensive strand exchange. It is possible that the RecA-singlestranded DNA complex requires a longer time to find homology between diverged DNA sequences; hence, more time is available for the activation of the RecA coprotease function. Alternatively, the pairing between diverged DNA sequences may provide SOS-inducing signals. ",
+        "bbox": [
+            517,
+            823,
+            869,
+            928
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            127,
+            130,
+            480,
+            317
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The two mutants, recB and lexA1 (Ind\"), are similarly deficient in SOS response to interspecies conjugation. However, recB is more recombination deficient than lexA1 (Ind ), and RecA overproduction by the recAo98 mutation recovers recombination much less effectively in the recB than in the lexA1 (Ind-) background (Figure 1). Thus, the RecBC enzyme appears to be involved in interspecies recombination both as a recombinase and as an SOSinducing function. The severe recombination deficiency of the recB strain during interspecies matings can be accounted for by the inactivation of the RecBC recombination pathway, higher homology requirement for recombination in this genetic background (longer MEPS size; Shen and Huang, 1986), and the deficit of RecA and RuvAB proteins due to the absence of the RecB-dependent SOS induction. ",
+        "bbox": [
+            125,
+            318,
+            478,
+            530
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Genetic and Environmental Control of Speciation ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            544,
+            455,
+            556
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The SOS response favors the survival of stressed bacterial populations by increasing the capacity for DNA repair and genetic variation (Radman, 1974; Witkin, 1976). The mutagenic component of SOs does not appear as a side effect to the tolerance of DNA damage, but as an inducible genetic revolution (Echols, 1981) increasing the population fitness under adverse environmental conditions (Radman, 1980). Interspecies recombination should be added to the list of mechanisms of genetic alterations that are stimulated by SOs induction, e.g., point and frameshift mutagenesis (Caillet-Fauquet et al., 1984; Walker, 1984), chromosomal rearrangements (Dimpfl and Echols, 1989), and particular deletions (e.g., transposon loss; Kuan and Tessman, 1992). ",
+        "bbox": [
+            125,
+            549,
+            478,
+            742
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DNA divergence, a major obstacle to interspecies recombination, paradoxically stimulates interspecies recombination by triggering SOS response via RecA activities. This effect of SOS response is strongest in Mut strains (Figure 1), which are expected to arise at rates of at least $1 0 ^ { - 7 }$ per genomic replication (Ninio, 1991). In natural populations of E. coli, about $1 \\%$ of cells are mutators (Jyssum, 1960; Gross and Siegel, 1981; Tröbner and Piechocki, 1984), of which the majority are expected to be mismatch repair mutants (E. C. Cox, personal communication). Under adverse environmental conditions, the Mut cells are more likely to acquire the adaptive mutation(s) than the wild-type cells (Chao and Cox, 1983), which should result in an early overrepresentation of Mut\" cells within a recently adapted population. Adverse environmental conditions, which induce the SOS response, are expected to stimulate the acquirement of adaptive genetic modifications, also through horizontal gene transfer. However, in a stable and favorable environment, the advantage of the mutator phenotype will progressively deteriorate, leading to the overgrowth of Mut\\* cells (Lenski, 1992). Our results (Figure 1) suggest that the cross-species DNA transfer of chromosomal genes may occur in nature at significant levels and would presumably involve a large number of genes (Matic et al., 1994). The failure to observe such interspecies recombinants in nature may be due to the fact that such large replacements of genetic material may put the recipient cells at a selective disadvantage. ",
+        "bbox": [
+            125,
+            745,
+            478,
+            926
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            131,
+            870,
+            317
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mismatch repair system, which constitutively controls the genetic stability of species (reviewed by Modrich, 1991; Radman and Wagner, 1993) is expected to decrease the frequency of horizontal gene transfer, especially in well-adapted bacterial populations. By inhibiting all mechanisms of genetic alteration, mismatch repair is expected to slow down the rate of evolution. By stimulating, in an inducible fashion, the same kinds of genetic alterations, the SOS system is expected to accelerate the rate of diversification. Thus, accumulated genomic sequence divergence, or polymorphism, is the structural element of genomic stability (Petit et al., 1991; Kricker et al., 1992; Radman et al., 1993) and the genomic substrate for genetic isolation (Radman, 1989). Remarkably, the same enzymatic systems, SOS and mismatch repair, that control the rate of diversification also directly determine the effectiveness of genetic barriers based on sequence divergence. ",
+        "bbox": [
+            517,
+            318,
+            870,
+            556
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The opposing activities of the SOS and mismatch repair systems provide a unique potential for the fine tuning of both the rates of sequence diversification and the extent of genetic isolation, i.e., speciation. A burst of speciation events, perhaps similar to a punctuated equilibrium (Gould and Eldredge, 1993), can now be imagined in molecular terms. For example, after a period of high mutation rates due to mismatch repair deficiency, SOS induction through environmental stress, or both, the return to mismatch repair proficiency and repressed SOs is expected to lead to an immediate establishment of multiple genetic barriers within a large highly polymorphic population (sympatric speciation). ",
+        "bbox": [
+            516,
+            557,
+            869,
+            729
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The importance of mismatch repair in eukaryotes is reflected in the existence of several different functional genes, homologous to bacterial mutS or mutL genes, that appear to control genetic stability from yeast to humans (Reenan and Kolodner, 1992; Service, 1994). Defects in two such genes, hMSH2 and hMLH1, are associated with a frequent hereditary predisposition to cancer (reviewed by Service, 1994). Several responses of eukaryotic cells to DNA damage are reminiscent of some aspects of SOS response in bacteria (Radman, 1980; Herrlich et al., 1984; Fornace, 1992). This suggests that the evolutionary paradigm developed in this paper may also apply to eukaryotes. The presence of large amounts of diverged repeated sequences requires stringent control of interrepeat recombination to maintain the eukaryotic genome integrity. However, it may be that there is a selective advantage to maintaining all well-distributed noncoding DNA as the main carrier of the neutral genomic sequence polymorphism, a structural element of genomic stability and a substrate for speciation. In meioses resulting from a cross between two closely related species, the mismatch repair components may establish and maintain the polymorphismbased genetic barriers by preventing pairing, recombination, or both between diverged chromosomes, leading to a reproductive isolation through meiotic sterility. ",
+        "bbox": [
+            517,
+            731,
+            869,
+            927
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            129,
+            130,
+            482,
+            262
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Experimental Procedures ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            272,
+            267,
+            283
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bacterial Strains, Plasmids, and Phages ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            295,
+            351,
+            305
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hfr strains used in this study were the following: S. typhimurium SA977 (Sanderson et al., 1972) and E. coli $\\mathsf { P K } _ { \\mathfrak { a } }$ (Kahn, 1968). For zygotic induction experiments, an E. coli $\\mathsf { P K } _ { \\mathfrak { s } }$ Hfr derivative was constructed by lysogenization with the $\\gimel$ j21 Cam105 phage (from the collection of C. Herman, Institut Jacques Monod, Paris), while the S. typhimurium SA977 Hfr strain was first transformed by a pAC plasmid carrying the E. coli lamB\\* gene (Boulain et al., 1986) and subsequently lysogenized with the $\\gimel$ 2 Cam105 phage. The E. coli $\\ulcorner$ strain indicated as wild type was AB1157 (Bachman, 1972). All other recipients were AB1157 derivatives (Figures 1 and 2). The AB1157 [λd(recA::lacZ) cl(Ind-) Ap] (Casaregola et al., 1982), recA13 (Howard-Flanders and Theriot, 1966), recD1009 (from the collection of S. Rosenberg, University of Alberta, Edmonton, Alberta, Canada), recB21 recC22 sbcB15 sbcC201 (Kushner et al., 1971), and recF143 (Horii and Clark, 1973) strains were already constructed, whereas the other recipients have been constructed for this study by introduction of hsdR thr\\* (from GC4707; collection of R. D'Ari, Institut Jacques Monod, Paris), lexA1 malB2:Tn9 (from GC2281; collection of R. D'Ari), mutS201:Tn5 (Siegel et al., 1982), mutS215::Tn10 (from the collection of G. Walker, Massachusetts Institute of Technology, Cambridge, Massachusetts), recAo98 srlC300::Tn10 (from the collection of C. Herman), recB268:: Tn10 (Lloyd et al., 1987), recG263 Km' (Ryder et al., 1994), recJ284:: Tn10 (Lovett and Clark, 1984), and ruvA60::Tn10 (Ryder et al., 1994) alleles by using P1-mediated transductions (Miller, 1972). The C600 hsdR strain (from the collection of M. Meselson, Harvard University, Cambridge, Massachusetts) was used as indicator for zygotic induction. The pDR1453 plasmid carries the E. coli $r e c A ^ { + }$ gene (Sedgwick and Yarranton, 1982). All recipient strains were nalidixic acidresistant (except AB1157 [λd(recA::lacZ) cl(Ind)] Ap′), because nalidixic acid was used to counterselect the Hfr donor cells. ",
+        "bbox": [
+            129,
+            305,
+            482,
+            632
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conjugational Crosses ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            644,
+            254,
+            654
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The conjugation experiments were performed under previously described conditions (Rayssiguier et al., 1989). Hfr strains were as follows: S. typhimurium SA977 for inter- and E. coli $\\mathsf { P K } _ { 3 }$ for intraspecies conjugation. All recipient strains were derivatives of E. coli AB1157 (see list of strains and Figure 1). Log-phase bacteria $( 2 \\times 1 0 ^ { 8 }$ to $4 \\times$ $1 0 ^ { 8 }$ cells/ml) were mixed in a 1:1 (Hfr:F\") ratio and filtered through a $0 . 4 5 ~ { \\mu \\ m \\ m }$ pore size filter (Schleicher and Schuel), which was then incubated on prewarmed rich medium agar. After $6 0 m i n$ at ${ \\mathfrak { a } } 7 ^ { \\circ } \\mathfrak { c }$ , the conjugants were resuspended in $1 0 ^ { - 2 }$ M $M g S O _ { 4 }$ containing nalidixic acid $( 4 0 \\ \\mu 9 / \\ m \\eta )$ and separated by vortexing. The exconjugants were plated on M63 medium supplemented with histidine, leucine, proline, and threonine $1 0 0 \\mu { \\sf g } / \\ m \\mu$ each), thiamine $( 3 0 \\mu 9 / \\ m ) )$ , glucose $_ { ( 0 . 4 \\% ) }$ , and nalidixic acid $( 4 0 \\mu 9 / \\ m \\ l )$ , lacking arginine, to select for arg recombinants. Recombinants were scored after $4 8 \\mathsf { h r }$ . ",
+        "bbox": [
+            129,
+            655,
+            482,
+            806
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Measurement of recA Gene Expression ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            818,
+            343,
+            829
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The conjugation experiments were performed as described previously (Rayssiguier et al., 1989). Hfr strains were as follows: S. typhimurium SA977 for inter- and E. coli $\\mathsf { P K } _ { 3 }$ for intraspecies conjugation. All recipient strains were derivatives of E. coli AB1157 [λd(recA:lacZ) cl(Ind) Ap] (see list of strains and Figure 2B). After 60 min of conjugation, Hfr and $\\mathsf { F } ^ { - }$ cells were resuspended in M63 liquid medium supplemented with thiamine $( 3 0 \\mu \\ g / \\ m \\mathrm { m l } )$ , arginine, histidine, leucine, proline, and threonine ( $1 0 0 \\mu g / m$ each), glucose $_ { ( 0 . 4 \\% ) }$ streptomycin ${ \\bf 1 0 0 \\mu \\ g } I$ ml), and ampicillin $( 5 0 \\mu 9 / m )$ , separated by vortexing, and incubated at ${ \\mathfrak { a } } 7 ^ { \\circ } \\complement$ with shaking for $1 2 0 \\mathsf { m i n }$ . In this medium, only recipient cells (including recombinants) can grow. Aliquots were taken every $3 0 \\mathsf { m i n }$ , and recA gene expression was measured by titrating $\\beta \\mathrm { . }$ -galactosidase as described by J. Miller (1972). ",
+        "bbox": [
+            127,
+            830,
+            480,
+            926
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            130,
+            870,
+            173
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Zygotic Induction ",
+        "text_level": 1,
+        "bbox": [
+            519,
+            185,
+            616,
+            195
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Mating and DNA transfer efficiency during intra- and interspecies conjugation was measured by the zygotic induction of λ prophage as described previously (Jacob and Wollman, 1961; Rayssiguier et al., 1989). The Hfr strains were S. typhimurium SA977 (λ 2 Cam105) for interspecies and E. coli $P _ { \\mathsf { K } _ { 3 } }$ (λ Cam105) for intraspecies matings. E. coli F- recipients were derivatives of the AB1157 strain (see list of strains and Table 1). After 60 min of conjugation, the Hfr $\\times { \\mathsf { F } } ^ { - }$ mixture was plated on a lawn of C600 hsdR (from the collection of M. Meselson, Harvard University, Cambridge, Massachusetts) indicator bacteria. The results were scored after ${ \\tt z 4 h r }$ . ",
+        "bbox": [
+            519,
+            196,
+            870,
+            304
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            322,
+            619,
+            332
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I. M. is on leave of absence from the Laboratory of Biology and Microbial Genetics, Faculty of Food Technology and Biotechnology, University of Zagreb, 41000 Zagreb, Croatia. We thank F. Taddei, R. Wagner, and S. Rosenberg for helpful discussions and a critical reading of this manuscript. We thank colleagues from our laboratory and that of R. DAri for their continuous interest in this work. I. M. was supported by a fellowship from the Agence Nationale de Recherche sur le SIDA. This work was supported by grants from the Agence Nationale de Recherche sur le SIDA, the Association pour la Recherche contre le Cancer, the Fondation pour la Recherche Medicale, and the Ligue Nationale Française contre le Cancer. ",
+        "bbox": [
+            517,
+            344,
+            869,
+            463
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Received October 20, 1994; revised December 6, 1994. ",
+        "bbox": [
+            519,
+            475,
+            805,
+            485
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            497,
+            578,
+            507
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bachman, B. J. (1972). Pedigrees of some mutant strains of Escherichia coli K-12. Bacteriol. Rev. 36, 525.   \nBagdasarian, M., Bailone, A., Bagdasarian, M. M., Manning, P. A. Lurz, R., Timmis, K. N., and Devoret, R. (1986). An inhibitor of SOS inuction specified by a plasmid locus in Escherichia col. Proc. Nat. Acad. Sci. USA 83, 57235726.   \nBaron, L. S., Gemski, P., Jr., Johnson, E. M., and Wohhieter, J. A. (1968). Intergeneric bacterial matings. Bacteriol. Rev. 32, 362369. Bianchi, M. E., and Radding, C. M. (1983). Insertions, deletions, and mismatches in heteroduplex DNA made by RecA protein. Cell 35, 511 520.   \nBoulain J.C., Charbit, A., and Hofnug, M. (86). Mutagenesy random linker insertion into lamB gene of Escherichia coli K12. Mol. Gen. Genet. 205, 339348.   \nBr W.E. Lel,K.A. B R.J RilyM.. Location and analysis of nucleotide sequences at one end of a putative lac transposon in Escherichia coli chromosome. J. Bacteriol. 159, 618 623.   \nCaillet-Fauquet, P., Maenhaut-Michel, G., and Radman, M. (1984). SOS mutator effect in E. coli mutants deficient in mismatch correction. EMBO J. 3, 707-712.   \nCasaregola, S., D'Ari, R., and Huisman, O. (1982). Quantitative evaluation of recA gene expression in Escherichia coli. Mol. Gen. Genet. 185, 430439.   \nChao, L., and Cox, E. C. (1983). Competition between high and low mutating strains of Escherichia coli. Evolution 37, 125134.   \nChaudhury, A. M., and Smith, G. R. (1985). Role of Escherichia coli RecBC enzyme in SOS induction. Mol. Gen. Genet. 201, 525528. Craig, N. L., and Roberts, J. W. (1980). E. coli RecA proteindirected cleage phageepressor euires polynucleotide.Natu3, 2630.   \nDasGupta, C., and Radding, C. M. (1982). Polar branch migration promoted by RcA protei: ffectmismatched base pairs. P. Natl. Acad. Sci. USA 79, 762766.   \nDimpi, J. and Echols, H. 98). Duplicationmutation as an SOS response in Escherichia coli: enhanced duplication formation by a constitutively activated RecA. Genetics 123, 255260.   \nsH.8OSce aucl Cell 25, 12.   \nForace, A.J. Jr. 192). Mammalian genes induced by radiatin: activation of genes associated with growth control. Annu. Rev. Genet. 26, 507-526.   \nGuld . J. an Elrege . uncat equilr ms of age. Nature 366, 223227.   \nGros, M. D. and Siegel, E.C. (981). Incidence of mutator strains in Echrichia colan coliforsiatue. utat. Res.,0 Heineman, J. A. 1991. Geneticf generansr etwe secs. Trends Genet. 7, 181185.   \nHerrlich, P., Mallick, U., Ponta, H., and Rahmsdorf, H. J. (1984). Genetic changes in mammalian cells reminiscent of an SOS response. Hum. Genet. 67, 360368.   \noi, Z ogntirecombination inEscherichia coliK12:solation and characterisation of mutants. J. Mol. Biol. 80, 327344.   \nHoward-Flanders., andTheriot, L 66). Mutantsf Eschechia coli K-12 defective in DNA repairand in genetic recombination. Genetics 53, 11371150.   \neffs. In Sexuality and the Genetics o Bacteria New YorkAcademic Press), pp. 93108.   \nJons, A. L., Barth, P. T., and Wikins, B. M. (1992). Zyoticinducn of plasmid ssb and psiB genes following conjugative transfer of Incl1 plasmid Collb-P9. Mol. Microbiol. 6, 605613.   \nEscherichia coliActa Pathol. Microbiol. Immunol. Scand 120.   \nKahn, P. L. (1968). Isolation of high frequency recombining strains from Escherichia colicontaining the Vcolicinogenic factor. J. Bacteriol. 96, 205214.   \nKaru A. E., and Belk, E. D. (982). Induction of E. coli recA protein via recBC and alternate pathways: quantitation by enzyme-linked immunosorbent assay (ELISA). Mol. Gen. Genet. 185, 275282.   \nKowalczykowski, S. C., Dixon, D. A., Eggleston, A. K., Lauder, S. D., and Rehrauer, W. M. (1994). Biochemistry of homologous recombination in Escherichia coli. Microbiol. Rev. 58, 401465.   \nKricker, M. C., Drake, J. W., and Radman, M. (1992). Duplicationotic chromosomes. Proc. Natl. Acad. Sci. USA 89, 10751079. Kuan, C.-T., and Tessman, I. (1992). Further evidence that transposiactivated RecA proteins. J. Bacteriol. 174, 68726877.   \nKushner, S. R., Nagaishi, H., Templin, A., and Clark, A. J. (1971). Genetic recombination in Escherichia coli: the role of exonuclease I. Proc. Natl. Acad. Sci. USA 67, 824827.   \nLehner, A. F., and Hill, C. W. (985). Merodiploidy in Escherichiacoli Salmonella typhimurium crosses: the role of unequal recombination between ribosomal RNA genes. Genetics 110, 365380.   \nLehner, A. F., Harvey, S., and Hill, C. W. (1984). Mapping and spacer identification of rRNA operons of Salmonella typhimurium. J. Bacteriol. 160, 682686.   \nLenski, R.E. (1992). Evolution, experimental. In Encyclopedia ofMicrobiology, Volume 2 (San Diego: Academic Press), pp. 125140. Lichten, M., and Fox, M. S. (1984). Evidence for inclusion of regions of nonhomology in heteroduplex products of bacteriophage λ recombination. Proc. Natl. Acad. Sci. USA 81, 71807184.   \nLittle, J. W. (1984). Autodigestion of lexA and phage λ repressors. Proc. Natl. Acad. Sci. USA 81, 13751379.   \nLloyd, R. G. (1978). Hyper-recombination in Escherichia coli K-12 mutants constitutive for protein X synthesis. J. Bacteriol. 134, 929935. Lloyd, R. G., and Thomas, A. (1983). On the nature of the RecBC and RecF pathways of conjugal recombination in Escherichia coli. Mol. Gen. Genet. 190, 156161. L R.G. Buckman C., and BensonF. E. (98).Gene analysis in RecBCD enzyme. J. Gen. Microbiol. 133, 25312538.   \nLvt  ClarkA.J. 9. e alysis  the ec of Escherichia coli K-12. J. Bacteriol 157, 190196.   \nMahajan, S. K. (198). Pathways of homologous recombinationin erichiol nGeneRecbination, Kucherapati anR. ao AS l F  H o te Escherichia coli pap and prs piloerons as a echanism for veivol. 6, 22252242.   \nMatic, . C. binants from conjugational crosses between Escherichia coli donor andmismatch-repairdeficent Salmonella tyhimurium recipients. Genetics 136, 1726.   \nm o. nSprat B. z sex in bacteria. Nature 349, 2931.   \nMayr E. (982). The Growth f Biological Thought: Diversity, EvoluonCdt Har Press).   \nMédigue, C., Rouxel, T., Vigier, P., and Hénaut, A. (1991). Evidence for horizontal gene transfer in Escherichia coli speciation. J. Mol. Biol. 222, 851856.   \nHarbor, New York: Cold Spring Harbor Laboratory Press).   \nModrich, P. (1991). Mechanisms and biological effects of mismatch repair. Annu. Rev. Genet. 25, 229253.   \nMount, D. W., Low, K. B., andEdmiston, S. (1972). Dominant mutations e) in Escherichia coli K-12 which affect radiation sensitivity and frequency of ultraviolet light—induced mutations. J. Bacteriol. 112, 886 893.   \nNino, J. (991). Transient mutators: a semiquantitative analysis o ati Genetics 129, 957962.   \nOhki, M., and Tomizawa, J. I. (1969). Asymmetric transfer of DNA strands in bacterial conjugation. Cold Spring Harbor Symp. Quant. Biol. 33, 651658.   \nOishi, M. (1988). Induction of recombination-related functions (SOS functions) in response to DNA damage. In The Recombination of Genetic Material, K. L. Low, ed. San Diego: Academic Press), pp. 445 491.   \nPalas, K. M., and Kushner, S. R. (1990). Biochemical and physical characterization exonucleasefrom Esherichia col. J. Biol.Ce. 265, 34473454.   \nPetit, M. A., Dimpfl, J., Radman, M., and Echols, H. (191). Control of chromosomal rearrangements in E. coli by the mismatch repair system. Genetics 129, 327332.   \nPorter, R. D. (1988). Modes of gene transfer in bacteria. In Genetic Recombination, R. Kucherlapati and G. R. Smith, eds. (Washington D. C.: ASM Publications), pp. 141.   \nRadman, M. (1974). Phenomenology of an inducible mutagenic DNA repair pathway in Escherichia coli: SOS repair hypothesis. In Molecular and Environmental Aspects of Mutagenesis, L. Prakash, F. Sherman, M. Miller, C. Lawrence, and H. W. Tabor, eds. (Springfield, Illinois: C. C. Thomas), pp. 128142.   \nRadman, M. (1980). Is there SOS induction in mammalian cells? Photochem. Photobiol. 32, 823830.   \nRadman, M. (1989). Mismatch repair and the fidelity of genetic recombination. Genome 31, 6873.   \nRadman, M., and Wagner, R. (1993). Mismatch recognition in chromosomal interactions and speciation. Chromosoma 102, 369373. Radman, M., Wagner, R., and Kricker, M. C. (1993). Homologous DNA interactions in the evolution of gene and chromosome structure. In Genome Analysis, Volume 7 (Cold Spring Harbor, New York: Cold Spring Harbor Laboratory Press), pp. 139152. ",
+        "bbox": [
+            516,
+            518,
+            869,
+            932
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            124,
+            103,
+            482,
+            922
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            109,
+            872,
+            919
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Walker, G. C. (1984). Mutagenesis and inducible responses to deoxynucleotide damage in Escherichia coli. Microbiol. Rev. 48, 60-93. West, S. C. (1994). The processing of recombination intermediates: mechanistic insights from studies of bacterial proteins. Cell 76, 915. Whittam, T. S., and Ake, S. E. (1993). Genetic polymorphisms and recombination in natural populations of Escherichia coli. In Mechanisms of Molecular Evolution, N. Takahata and A. G. Clark, eds. (Tokyo: Japan Scientific Societies Press), pp. 223245. Witkin, E. M. (1976). Ultraviolet mutagenesis and inducible DNA repair in Escherichia coli. Bacteriol. Rev. 40, 869907. Worth, L., Jr., Clark, S., Radman, M., and Modrich, P. (1994). Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs. Proc. Natl. Acad. Sci. USA 91, 32383241. ",
+        "bbox": [
+            516,
+            128,
+            870,
+            278
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rayssiguier, C., Thaler, D. S., and Radman, M. (1989). The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342, 396401.   \nRayssiguier, C., Dohet, C., and Radman, M. (1991). Interspecific recombination between Escherichia coli and Salmonella typhimurium occurs by the RecABCD pathway. Biochimie 73, 371-374.   \nReenan, R. A. G., and Kolodner, R. D. (1992). Isolation and characterization of two Saccharomyces cerevisiae genes encoding homologs of the bacterial HexA and MutS mismatch repair proteins. Genetics 132, 963973.   \nRoberts, M. S., and Cohan, F. M. (1993). The effect of DNA sequence divergence on sexual isolation in Bacillus. Genetics 134, 40108. Roman, L. J., Dixon, D. A., and Kowalczykowski, S. C. (1991). RecBCD-dependent joint molecule formation promoted by the Escherichia coli RecA and SSB proteins. Proc. Nati. Acad. Sci. USA 88, 33673371.   \nRyder, L., Whitby, M. C., and Lloyd, R. G. (1994). Mutation of recF, recJ, recO, recQ, or recR improves Hfr recombination in resolvasedeficient ruv recG strains of Escherichia coli. J. Bacteriol. 176, 1570- 1577.   \nSanderson, K. E., Ross, H., Zeiger, L., and Mäkeläa, P. H. (1972). F H, and F' strains f Salmonella typhimurium and Salmonella abony. Bact. Rev. 36, 608637.   \nSassanfar, M., and Roberts, J. W. (1990). Nature of the SOS-inducing signal in Escherichia coli. J. Mol. Biol. 212, 7996.   \nSedgwick, S. G., and Yarranton, G. Y. (1982). Cloned truncated recA genes in E. coli. I. Effect on radiosensitivity and recA+ dependent process. Mol. Gen. Genet. 185, 9398.   \nSedgwick, S. G., Robson, M., and Malik, F. (1988). Polymorphisms in the umuDC region of Escherichia species. J. Bacteriol. 170, 1610 1616.   \nService, R. F. (1994). Stalking the start of colon cancer. Science 263, 15591560.   \nSharp, P. M. (1991). Determinants of DNA sequence divergence between Escherichia coliand Salmonella typhimurium:codon usage, map position, and concerted evolution. J. Mol. Evol. 33, 2333.   \nSharp, P. M., and Li, W. H. (1987). The rate of synonymous substiuon in enteriobacterial genes is inversely related to codon usage bias. Mol. Biol. Evol. 4, 222230.   \nShen, P., and Huang, H. V. (1986). Homologous recombination in Escherichia coli: dependence on substrate length and homology. Genetics 112, 441457.   \nShen, P., and Huang, H. (1989). Effect of base pair mismatches on recombination via the RecBCD pathway. Mol. Gen. Genet. 218, 358 360.   \nSl E. aiS. elzer S. F. Bin . . J. M. (1982). Mutator mutations in Escherichia coli induced by the insertion of phage Mu and the transposable resistance elements. Mutat. Res. 92, 2533.   \nSmith, G. R. (1989). Homologous recombination in E. coli: multiple pathways or multiple reasons. Cell 58, 807809.   \nSmith, N. H., Beltran, P., and Selander, R. K. (1990). Recombination of Salmonella phase 1 flagellin genes generates new serovars. J. Bacteriol. 172, 22092216.   \nSoer, S. Baione, A., an Devoret, R. 93). Theapea te Umu' protein complex in Escherichia oli switces repai frm homologous recombination to SOS mutagenesis. Mol. Microbiol. 10, 963971.   \nTaylor, A. F. (1988). RecBCD enzyme of Escherichia coli. In Genetic Recombination, R. Kucherlapati and  . mith, eds. (Washinon, D. C.: ASM Publications), pp. 231263.   \nTW., and Piechocki R.198. Sel gaisyeail y Escherichia coli during long term evolution. Mol. Gen Genet. 198, 177178.   \nVerma, N., and Reeves, P. (1989). Identification and sequence of rbfS D Salmonellae. J. Bacteriol. 171, 5694-5701. ",
+        "bbox": [
+            127,
+            102,
+            485,
+            923
+        ],
+        "page_idx": 8
+    }
+]

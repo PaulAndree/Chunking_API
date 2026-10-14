@@ -1,0 +1,399 @@
+[
+    {
+        "type": "text",
+        "text": "Interspecific recombination between Escherichia coli and Salmonella typhimurium occurs by the RecABCD pathway ",
+        "text_level": 1,
+        "bbox": [
+            171,
+            176,
+            818,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C Rayssiguier, C Dohet, M Radman ",
+        "bbox": [
+            346,
+            242,
+            648,
+            262
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis Laboratory, Institut Jacques Monod, 2, place Jussieu, 75251 Paris Cedex 05, France (Received 2 January 1991; accepted 7 February 1991) ",
+        "bbox": [
+            187,
+            273,
+            803,
+            308
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$2 0 \\%$ $\\mathbf { 1 0 3 }$ -fold. The interspecific recombination in mutS or mutL mutants is only $\\approx 1 0$ -fold lower than recombination in homospecific crosses as found dependent on tne RecABCD pathway: it was abolished in a recA mutant and decreased $\\dot { \\approx } 1 0 ^ { 3 }$ -fold in a recC mutant. ",
+        "bbox": [
+            76,
+            342,
+            918,
+            429
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nterspecirecobinaton/mimath repaihomologous recobination/recbnation pathwa/heterodupex ",
+        "bbox": [
+            81,
+            439,
+            882,
+            455
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli and Salmonella typhimurium belong to 2 different bacterial genera that have emerged from a common ancestor some 150 millions yr ago [1]. Since that time their genomes have evolved by accumulation of mutations such that their divergence at the DNA level is $\\approx 2 0 \\%$ , mostly (19/20) localized at the third base of the codons [2]. The fact that DNA has evolved but not proteins encoded by that DNA is in agreement with the theory of neutral evolution developed by Kimura [3] and explains why, in the laboratory, it is possible to substitute most, if not all, of vital gene functions between these 2 bacteria. Yet, the cross between these 2 bacteria is sterile, ie there is no significant genetic exchange. In a classical conjugation experiment, the intergeneric recombination frequency is $\\approx 1 0 – 8$ per Hfr donor compared to a $\\mathbf { 1 0 ^ { - 1 } }$ frequency in intraspecific recombination [4]. The cause of the sterility of these crosses has recently become clear. The identity of a species appears to be ultimately defined by the base sequence of its DNA. Closely related species cannot interbreed because recombination is impaired by their DNA sequence differences. On the molecular level, this is because the key step in recombination involves the pairing of complementary strands of DNA from each parent, ie the formation of a hybrid DNA joint. If the parental sequences are different, this hybrid DNA will be a heteroduplex bearing mismatches at the sites of sequence difference. A surprisingly small degree of sequence divergence is sufficient to hinder recombination: as little as one difference in 10 bases already has a large effect [5, 6]. Efficient recombination in vivo requires a nearly perfect homology. The fidelity of recombination depends on the precise formation of a hybrid joint which is a key structure for aligning parental sequences in genetic recombination. About 30 bp of perfect homology are needed to initiate recombination, ie a MEPS (minimum efficient processing segment) of perfect homology [6]. But after initiation, heteroduplex extension by the RecABCD system of $E$ coli can proceed even across large heterologies [7]. The fidelity of recombination is not guaranteed by the RecA protein because heteroduplex DNA formation catalysed in vitro by the $E$ coli RecA protein tolerates up to 30% mismatches [8]. The results described here indicate that the control of recombination fidelity, ie the stringency of the sequence identity necessary for recombination, is assured by the mismatch repair enzymes as we have previously shown [9], and that interspecific recombination between $\\pmb { \\cal E }$ coli and $s$ typhimurium occurs via the RecABCD pathway. ",
+        "bbox": [
+            78,
+            473,
+            477,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            473,
+            915,
+            787
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            808,
+            704,
+            824
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strains ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            831,
+            568,
+            845
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The $E$ coli Hfr PK3 has already been described [9]. It was lysogenised by the λi21 c+ phage for the zygotic induction experiments where an AB1 157/X resistant to phage λ was used and a C600 hsdR deficient in restriction (from M Meselson's collection). The $\\pmb { \\cal E }$ coli JC 5519 recB21 recC22 has been described [10]. The Salmonella SL4213 (mut+ or mutL, S, H) recA+ or recA have already been described [9]. SL4213 (mut+ or L, S) recC have been constructed by transduction of recC498::MudJ by P22 HT int3 phage [11] from the strain TT13230 [12] and selection for kanamycin resistance. The Salmonella Hfr SA977 whose origin is between 75 and 76 min and which injects its chromosome in the same direction as PK3 [9] and LT2 have aiready been described [13]. ",
+        "bbox": [
+            522,
+            850,
+            916,
+            900
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            87,
+            472,
+            199
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conjugation experiments ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            206,
+            232,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The conjugation experiments have been performed under the conditions previously described [9]. For the zygotic induction experiments a $1 / 1$ ratio of Hfr to $\\mathtt { F ^ { - } }$ was used and the conjugations were made on filters as previously described [9], except that the time varied from 60 to 280 min; an aliquot was then plated on a restriction deficient strain (C600 hsdR ) to allow titration of the Salmonella infective centers. For the homospecific conjugation an $\\pmb { \\cal E }$ coli recipient resistant to $\\gimel$ $( A B \\mid 1 \\dot { 5 } 7 / \\lambda )$ was used as in the classical experiment from Jacob and Wollman [14]. ",
+        "bbox": [
+            76,
+            226,
+            472,
+            349
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            366,
+            133,
+            382
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RecA dependence of interspecific recombination ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            388,
+            428,
+            404
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Recombination following Hfr-mediated conjugation is the 'natural' means for genetic exchange in $\\pmb { { \\cal E } }$ coli whereby chromosomes pair and exchange homologous fragments to produce recombinant chromosomes. This complex process is promoted by a series of recombination enzymes. The recombinational pathways have been initially defined using Hfr -mediated conjugation. Conjugational recombination requires RecA protein and follows the RecBCD pathway in wild type $\\pmb { { \\cal E } }$ coli [15]. To show that the recombination fidelity is controlled by the mismatch repair enzymes, we previously studied interspecific conjugational recombination between $\\pmb { \\cal E }$ coli and S typhimurium. To test whether such intergeneric recombination proceeds via homologous recombination pathways, we checked the RecA dependence of this 'relaxed' recombination permitted by the inactivation of one of the mismatch repair (Mut) functions. The results are shown in table I. Inactivating one Mut protein increases the recombination frequency, at least 103- fold for MutL or MutS and 102- fold for MutH. These intergeneric recombination events are RecAdependent, as illustrated by the absence of such recombination in a recA mut background and therefore operationally represent homologous recombination events. ",
+        "bbox": [
+            76,
+            412,
+            472,
+            780
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Zygotic induction ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            788,
+            204,
+            803
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When either the MutS or the MutL protein is inactivated, the interspecific recombination frequency increases up to a level which is then only 100-fold lower than that observed in the corresponding homospecific crosses using the same Hfr. \" We wondered whether this 100-fold difference reflects only the recombination fidelity or also includes a lower efficiency of mating and/or DNA transfer during conjugation. To test this we conducted an 'old time' experiment using zygotic induction of prophage $\\gimel$ to measure the effective DNA transfer. The same $\\pmb { { \\cal E } }$ coli Hfr PK3 was lysogenised by phage $\\lambda i ^ { 2 1 } ~ \\mathfrak { c } ^ { + }$ and conjugated for 60280 min with either $\\pmb { { \\cal E } }$ coli AB1157/X (intraspecific) or S typhimurium SL4213 mutS (interspecific) and the mixture was plated on bacteria deficient in restriction. In a parallel experiment spontaneous induction of the PK3 $( \\lambda \\mathbf { i } ^ { 2 1 } ~ \\mathbf { c } ^ { + } )$ was tested. The results are shown in figure 1. The percentage of zygotic induction throughout the conjugation period was from 1015 times lower in the interspecific cross than in the intraspecific cross. Only if there is no lysis of $\\pmb { \\mathrm { F } } ^ { } -$ bacteria prior to plating is this curve really an expression of the kinetics of conjugation. We did not inactivate free phages but we did not obtain a 2-step curve as Jacob and Wollman did in their classic experiment [14]. Whatever the reason, the almost constant ratio between the percentages all along the curve leaves us confident that this ratio gives an ",
+        "bbox": [
+            76,
+            809,
+            470,
+            897
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            84,
+            916,
+            400
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a134c49fad76aadd437bbb7ae48ba23d520f99cd3a9f25bf6c59daa63ea8ccd.jpg",
+        "table_caption": [
+            "Table I. Conjugational crosses between Escherichia coli and Salmonella typhimurium : RecA dependence. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            514,
+            450,
+            916,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Heterospecific crosses involved $\\pmb { \\cal E }$ coli Hfr PK3 and S typhimurium $\\pmb { \\mathrm { F } } ^ { - }$ SL4213 mut+, mutL, mutS, mutH, or ${ \\pmb F } ^ { \\bot }$ SL4213 (mut+ or mut) recAl. Homospecific crosses involved $\\pmb { \\cal E }$ coli Hfr PK3 and $\\pmb { \\cal E }$ coli $\\mathbf { F } ^ { - }$ AB1157. Log-phase bacteria were mixed in a 1:1 (Hfr:F-) ratio and immediately de-posited on a sterile $\\mathbf { 0 . 4 5 - \\mu m }$ pore size filter (Schleicher and Schuel) which was incubated on prewarmed rich medium agar. After $4 0 \\ \\mathrm { m i n }$ at $\\mathsf { \\pmb { 3 7 ^ { \\circ } C } }$ , the conjugants were resuspended in $\\mathbf { 1 0 ^ { - 2 } }$ M $\\bf { M g S O _ { 4 } }$ and separated by vortexing. The exconjugants were then plated on M63 synthetic medium containing xylose as the sole carbon source to select for xyl+ recombinants [9]. The Hfr donor cells were doubly counterselected by $2 5 \\ \\mu \\mathrm { g } \\ \\mathrm { m l } ^ { - 1 }$ streptomycin and, in the case of intergeneric conjugation, by withholding threonine and leucine. Amino acids were added to a final concentration of $1 0 0 ~ \\mu \\mathrm { g } \\mathrm { ~ m l } ^ { - 1 }$ thiamine to $3 0 ~ { \\mu \\mathrm { g } } ~ \\mathrm { m l } ^ { - 1 }$ and xylose to $0 . 4 \\%$ Because of the late appearance of intergeneric recombinants, all recombinants were scored after $\\mathbf { 8 8 \\ h }$ of incubation. Recombination frequencies $( x y l ^ { + } )$ are expressed per Hfr donor after subtracting unmated revertants. ",
+        "bbox": [
+            517,
+            637,
+            915,
+            898
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d83906bf580ce7703f78c06b7c947a56d409bd6a632e2ceae450346d4401eda6.jpg",
+        "image_caption": [
+            "Fig 1. Efficiency of mating and DNA transfer in interspecific and intraspecific conjugation tested by zygotic induction. Zygotic induction experiments were conducted with an 1/1 ratio of Hfr to $\\mathbf { F } ^ { - }$ on filters for increasing times and aliquots of the mixture were plated on on a restriction deficient $\\pmb { \\cal E }$ coli strain (C600 hsdR). Spontaneous induction of the $\\gimel$ prophage was followed in these conditions. Recipients:AB 1157/λ $\\pmb { { \\cal E } }$ coli); X SL 4213 mut S (S thyphimurium); $\\bullet$ spontaneous induction. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            76,
+            88,
+            472,
+            370
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "estimate of the contribution of the 2 steps, mating and DNA transfer, to the lower frequency of recombination observed in interspecific conjugation. Thus, when either the MutS or the MutL protein is inactivated, the frequency of intergeneric recombination is only $\\approx 1 0$ times lower than the homospecific recombination. ",
+        "bbox": [
+            78,
+            545,
+            475,
+            618
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            88,
+            913,
+            118
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Implication of the RecBCD pathway ",
+        "text_level": 1,
+        "bbox": [
+            521,
+            125,
+            782,
+            141
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The implication of the RecBCD pathway in interspecific recombination has been examined in comparison to the known role of this pathway in intraspecific recombination [15]. Homospecific and heterospecific crosses using a similar Hfr and identical Salmonella recipients either mut+, mutS or mutL were made in a $r e c \\hat { C } ^ { + }$ or recC background. The results are shown in table II. In homospecific crosses, inactivating either the MutL or the MutS protein does not change the frequency of recombination (in contrast to heterospecific crosses). The recC mutation decreases recombination in homospecific crosses from $\\mathbf { 1 0 ^ { 5 } }$ for murt to 200-fold for mutL. For heterospecific crosses, a decrease is also observed and varies from 2-fold for mut+ to ${ \\bf 1 0 3 }$ -fold for mutS. Thus most of the interspecific recombination which takes place when either the MutS or the MutL protein is inactive depends on an active RecC protein and therefore proceeds via the RecBCD pathway. Thus, the major pathway for conjugational recombination in wild type $\\pmb { { \\cal E } }$ coli is also the major pathway for conjugational interspecific recombination $\\mathbf { \\delta E }$ coli-S typhimurium). ",
+        "bbox": [
+            521,
+            146,
+            915,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            521,
+            464,
+            602,
+            479
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We have presented experiments indicating that interspecific recombination between $E$ coli and S typhimurium is a RecA dependent process and thus corresponds to a bona fide homologous recombination. The inactivation of one of the Mut functions $^ { ( \\mathbf { L } , \\pmb { S } }$ or H) allows a laxier recombination between the 2 different DNAs. With an inactivated MutL or MutS protein, which corresponds to the most 'permissive' condition for recombination between divergent sequences, there is roughly only a 10-fold decrease in recombination frequency which is due to the inter-species difference in the DNA sequences; anterior steps such as mating and DNA transfer already reducing the efficacy by 10-fold. When similar experiments were done in our laboratory with a Salmonella Hfr donor and Escherichia $\\check { F ^ { - } }$ recipients proficient in restriction, the frequency of recombination in a mutS or mutL background was of the same order of magnitude, ie $\\approx 1 0 ^ { - 3 }$ per Hfr (B Mahé, personal communication), as in the reverse crosses with Salmonella recipients deficient in the 2 major restriction systems (table I). This suggests that the restriction of foreign DNA is not the major barrier to interspecific mating and recombination in conjugation. Editing of recombination by the Mut proteins appears as the principal barrier to inter-species recombination. It has been observed that restriction is alleviated by SOS induction [16]. As interspecific recombination could induce the SOS system through its molecular intermediates, eg by the attempt to recombine diverged DNA followed by abortion of the mismatched heteroduplex DNA by the Mut HLS system, we are currently testing whether intergeneric mating results in SOs induction. Sommer et al have shown that conjugation of an $E$ coli Hfr with an $E$ coli Frecipient already partially induces SOs (personal communication). Dimpfl \"and Echols showed that partially homologous sequences present in $\\pmb { { \\cal E } }$ coli rhsA and rhsB, probably $< \\dot { 1 0 \\% }$ divergent, recombine to give duplications with a higher frequency (a 10-fold increase) in a recA730 strain constitutively induced for SOS [17]. The formation of these duplications seemed to depend on the RecF pathway in which several genes are known to be induced in the SOS response [15]. The interspecific recombination we observed in mut backgrounds depends mainly on the RecBCD pathway and may thus be different from the SOS induced duplications from the above study. In a collaborative study with Dr Echols' laboratory, it was shown that the frequency of the same duplications increases in mut background (unpublished results) and the recombination then seems to depend on the RecBCD pathway (H Echols, personal communication) which would be consistent with results of conjugation experiments. The relation between SOS and intergeneric recombination is not yet clear. The fact that the intergeneric recombination in mut bacteria is mostly RecBCD-dependent, like the 'regular' homospecific conjugational recombination, indicates that a similar recombination process is taking place but with a more relaxed specificity, ie less stringently depending on the sequence identity of the two DNAs. This is in agreement with the effects of localised sequence divergence on recombination between mouse $\\mathbf { \\dot { V } _ { H } }$ sequences via the RecBCD pathway observed by Shen and Huang [18]. ",
+        "bbox": [
+            522,
+            489,
+            915,
+            617
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9bc885762d5ee0e02ffe8edc6d3b2d5e839aa99662d085beaf843ea9f037a22.jpg",
+        "table_caption": [
+            "lR eceec carried out by conjugation using exactly the same protocol as described in the legend to table I. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            75,
+            671,
+            916,
+            901
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            91,
+            473,
+            898
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            86,
+            660,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank our colleague DS Thaler for his collaboration [9] and for suggesting that SOS may interfere with inter-species recombination. H Echols and B Mahe have provided unpublished observations for the Discussion. This work was supported by INSERM CNAMTS $\\mathbf { N } ^ { \\circ }$ 86-3-34-1-E, Ligue Nationale contre le Cancer, Fondation pour la Recherche Medicale Française. ",
+        "bbox": [
+            516,
+            103,
+            915,
+            190
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            204,
+            602,
+            218
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ochman H, Wilson A (1987) Evolutionary history of enteric bacteria. In: Escherichia coli and Salmonella typhimurium, Cellular and Molecular Biology (Neidhardt FC, Ingraham JL, Low KB, Magasanik B, Schaechter M, Umbarger HE, eds) ASM Publications, Washington, 2, 16491654   \n2 Calomagno MS, Chiarotti L, Alifano P. Nappo AG, Bruni CB (1988) Structure and function of the Salmonella typhimurium and Escherichia coli K12 histidine operons. J Mol Biol 203, 585606   \n3 Kimura M (1983) The Neutral Theory of Molecular Evolution. Cambridge University Press Baron LS, Gemski P, Johnson EM, Wohlhieter J (1968) Intergeneric bacterial matings. Bacteriol Rev 32, 362369   \n5 Schneider WP, Nichols BP, Yanofsky C (1981) Procedure for production of hybrid genes and proteins and its use in assessing significance of amino acid differences in homologous tryptophan synthetase a polypeptides. Proc Natl Acad Sci USA 78, 2169-2173   \n6 Shen P, Huang HV (1986) Homologous recombination in Escherichia coli: dependence on substrate length and homology. Genetics 112, 441457 Lichten MJ, Fox MS (1984) Evidence for inclusion of regions of non homology in heteroduplex, produci of bacteriophage lambda recombination. Proc Natl Acac. Sci USA 81, 7180-7184   \n8 Das Gupta C, Radding CM (1982) Lower fidelity of RecA protein catalysed homologous pairing with a superhelical substrate. Nature (Lond) 295, 7173   \n9 Rayssiguier C, Thaler DS, Radman M (1989) The barrier to recombination between Escherichia coli andSalmonella typhimurium is disrupted in mismatch-repair mutants. Nature (Lond) 342, 396401   \n10 Kushner SR, Nagaishi H, Templin A, Clark J (1971) Genetic recombination in Escherichia coli: the role of exonuclease I. Proc Natl Aca. Sci USA 68, 82827 Schmieger H (1972) Phage P22-mutants with increased or decreased transduction abilities. Mol Gen Gener 119, 75-88   \n12 Mahan M, Roth J (1989) recB and recC genes of Salmonella typhimurium. J Bacteriol 171, 612615   \n13 Sanderson KE, Ross H, Ziegler L, Makela PH (1972) $\\bar { \\mathbf { F } ^ { + } } ,$ Hfr and F' strains of Salmonella typhimurium and Salmonella abony. Bacteriol Rev 36, 608637   \n14 Jacob F. Wollman E (1961) Sexuality and the Genetics of Bacteria. Academic Press, NY 93-108   \n15 Smith G. (1989) Homologous recombination in $\\pmb { \\cal E }$ coli: multiple pathways for multiple reasons. Cell 58, 807809   \n16 Dharmalingam K, Goldberg EB (1980) Restriction in vivo. V. Induction of SOS functions in Escherichia coli by restricted phage DNA, and alleviation of restriction by SOS functions. Mol Gen Genet 178, 5158   \n17 Dimpf J, Echols H (1989) Duplication mutation as an SOS response in Escherichia coli: enhanced duplication formation by a constitutively activated RecA. Genetics 123, 255260   \n18 Shen P, Huang H (1989) Effect of base pair mismatches on recombination via the RecBCD pathway. Mol Gen Genet 218, 358360 ",
+        "bbox": [
+            522,
+            222,
+            916,
+            900
+        ],
+        "page_idx": 3
+    }
+]

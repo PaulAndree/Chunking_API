@@ -1,0 +1,327 @@
+[
+    {
+        "type": "text",
+        "text": "Generation of DNA-Free Escherichia coli Cells by 2-Aminopurine Requires Mismatch Repair and Nonmethylated DNA ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            114,
+            894,
+            160
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ivan Matic,1\\* Damian Ekiert,2 Miroslav Radman,1 and Masamichi Kohiyama2 ",
+        "bbox": [
+            181,
+            166,
+            818,
+            183
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INSERM U571, Faculté de Médecine Necker-Université Paris V, 156 rue de Vaugirard, 75730 Paris Cedex 15, France,1 and Institut Jacques Monod-CNRS, Universités Paris 6 & 7, 2 place Jussieu, 75251 Paris Cedex 05, France2 ",
+        "bbox": [
+            211,
+            187,
+            779,
+            227
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 20 July 2005/Accepted 12 October 2005 ",
+        "bbox": [
+            352,
+            237,
+            644,
+            249
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Undirected mismatch repair initiated by the incorporation of the base analog 2-aminopurine kills DNAmethylation-deficient Escherichia coli dam cells by DNA double-strand breakage. Subsequently, the chromosomal DNA is totally degraded, resulting in DNA-free cells. ",
+        "bbox": [
+            133,
+            264,
+            864,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The DNA mismatch repair (MMR) system has evolved as an error correction mechanism following DNA replication, but it acts also as an editor of homologous recombination (14). Intriguingly, MMR can kill bacterial and mammalian cells by inactivating cellular DNA bearing mismatches recognized by this DNA repair system (14). Several widely used chemotherapeutic agents kill tumor and normal cells by this mechanism, providing a ground for direct selection of mismatch repairdeficient mutator cells resistant to such treatments and additionally prone to evolution of new cancers (1, 3). ",
+        "bbox": [
+            71,
+            324,
+            482,
+            464
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In enterobacteria, such cell killing requires the absence of DNA Dam methylation (adenine methylation at GATC sequences), allowing the MMR machinery to produce lethal double-strand breaks (DSB) (9). Such mismatch-stimulated killing (6) is so efficient that mismatch repair-deficient mutants (mutS, mutL, and mutH) were isolated as survivors of Escherichia coli dam mutants treated with the base analogue 2-aminopurine (2-AP) (8). The incorporation of 2-AP in DNA leads to the $2 { \\cdot } \\mathrm { A P \\cdot T }$ and $2 { \\cdot } \\mathrm { A P \\cdot C }$ mispairs that are recognized by the MMR. ",
+        "bbox": [
+            71,
+            466,
+            483,
+            591
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mismatch-stimulated killing requires functional mismatch recognition (MutS), repair-initiating protein matchmaker (MutL), nickase cutting the unmethylated strand of hemimethylated double-stranded GATC sequence (MutH endonuclease), and helicase II (UvrD) proteins (5, 6, 14). Because a single mismatch is sufficient to cause mismatch-stimulated killing (6), a coincident attack by MutH on GATC sequences (flanking the mismatch) on opposite strands, followed by convergent unwinding by helicase II, probably causes the DSB. Even without any exogenous introduction of mismatched bases, the RecABCD-dependent repair of DSBs is required for the viability of dam mutants, suggesting that at least one replication error (mismatch) is generated in each replication cycle (8, 13). The viability of the dam recA mutS (mutL or mutH) triple mutants provides the argument that mismatch repair is the potential killer of dam mutants also, under normal replication conditions (8, 11). ",
+        "bbox": [
+            512,
+            325,
+            924,
+            563
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Here, we have studied the fate of $E _ { \\ast }$ coli dam cells exposed to the lethal effects of 2-AP. The survival analysis of 2-APtreated dam cells (Table 1 shows a list of strains) shows that the MutS, MutH, and UvrD proteins are responsible for $1 0 ^ { 3 }$ -fold viability loss in dam cells treated with 2-AP (Fig. 1), which corroborates previously published data (8). Flow cytometry and fluorescent microscopy were used to monitor the cellular DNA content. For the flow cytometry analysis, an overnight culture made in LB was diluted 1,000-fold in LB, and bacteria were grown at $3 7 ^ { \\circ } \\mathrm { C }$ until reaching an optical density at $6 0 0 \\mathrm { n m }$ of 0.05. The culture was split into two; the first (control) culture continued to grow up to an optical density of 0.4 before addition of $2 5 0 ~ \\mu \\mathrm { g / m l }$ of rifampin. Rifampin prevents initiation of replication but allows the finalization of the replication cycles. After $9 0 \\mathrm { { m i n } }$ of incubation at $3 7 ^ { \\circ } \\mathrm { C }$ $0 . 4 \\mathrm { m l }$ of culture was withdrawn and mixed with $1 . 6 \\mathrm { m l }$ of cold methanol $( 1 0 0 \\% )$ and left on ice for $1 \\mathrm { { h } }$ After centrifugation, the resulting pellet was resuspended in $1 . 5 ~ \\mathrm { m l }$ of 0.01 M Tris $\\mathrm { ( p H } 7 . 4 \\mathrm { ) }$ , 0.01 M $\\mathrm { { \\bf M g C l } } _ { 2 }$ , and DAPI $^ { 4 ^ { \\prime } , 6 ^ { \\prime } }$ -diamidino-2-phenylindole) $( 0 . 3 ~ \\mu \\mathrm { g / m l } )$ (15). Flow cytometry was performed with an Epics-ELITE (Coulter). The second test culture was treated with $1 \\mathrm { m g / m l }$ of 2-AP for $2 \\mathrm { ~ h ~ } 3 0 \\mathrm { ~ m i n }$ and then centrifuged (2 min at room temperature) to eliminate the 2-AP before the rifampin treatment, as described above. ",
+        "bbox": [
+            512,
+            564,
+            924,
+            591
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/4b7800b37c91aa9db1b5fd582e4f0d57bd2082f9288c6fa5267b2d74889d9806.jpg",
+        "table_caption": [
+            "TABLE 1. Strains used in this study "
+        ],
+        "table_footnote": [
+            "\\* Corresponding author. Mailing address: INSERM U571, Faculté de Médecine, Université Paris V, 156 rue Vaugirard, 75730 Paris Cedex 15, France. Phone: (33) 1 40 61 53 25. Fax: (33) 1 40 61 53 22. E-mail: matic@necker.fr. "
+        ],
+        "bbox": [
+            68,
+            643,
+            924,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f985f782dd72eb2fdfb3690b600dacb19fb9c061e77eefd5e825d6649c4c68f0.jpg",
+        "image_caption": [
+            "FIG. 1. Survival of 2-AP treated cells. Overnight cultures grown in M9 minimal medium-glucose were diluted and plated on M9 minimal medium-glucose containing (or not containing) $\\bar { 5 } 0 0 ~ \\mu \\mathrm { g / m l }$ of 2-AP and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ Each point represents the mean ( $\\pm$ standard error) of six independent experiments. wt, wild type. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            70,
+            86,
+            473,
+            334
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            432,
+            483,
+            743
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Flow cytometry analysis shows that the 2-AP pretreatment of the wild-type strain produced, besides the two major peaks containing two and four chromosomes, also two small peaks corresponding to one and three chromosomes, indicating induction of significant asynchrony at the DNA replication initiation level or chromosome degradation (Fig. 2). In contrast, in the dam mutant, the same treatment resulted in disappearance of all peaks, indicating the loss of the complete set of chromosomes. The only detectable peak was composed of cells deprived of most of their DNA, which was confirmed by the fluorescence microscopy (Fig. 3). The chromosomal degradation in the 2-AP-treated dam mutant is dependent on active MutS, MutH, and UvrD proteins (Fig. 2). ",
+        "bbox": [
+            71,
+            744,
+            483,
+            927
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a8136098107f48eb6cfdfaaad0fafbe9b6626e372e863c4ce1fcd46eafc7bb4b.jpg",
+        "image_caption": [
+            "FIG. 2. Flow cytometry analysis of DNA content in different strains with or without 2-AP treatment. DAPI int (integral) is the area signal of the pulses produced at the detector as the cell passes through the measurement region. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            84,
+            873,
+            727
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As this result was obtained after successive 2-AP and rifampin treatments, we wondered whether 2-AP treatment alone could induce chromosome degradation in dam mutants. The flow cytometry analysis of the dam cells incubated with 2-AP for various periods showed that the peak of bacteria without DNA started to emerge after $^ { 2 \\mathrm { ~ h ~ } }$ of treatment and it became dominant after $^ { 3 \\mathrm { ~ h ~ } }$ (Fig. 4). Therefore, the rifampin treatment does not participate in DNA degradation. However, rifampin affects the kinetics of chromosome degradation (Fig. 5A). This was demonstrated by treating cells for 1 h with 2-AP, which is insufficient to produce the peak of DNA-less bacteria, and by subsequently incubating cells with rifampin. We observed that a $3 0 { \\cdot } \\mathrm { m i n }$ postincubation was sufficient to produce a substantial fraction of DNA-free bacteria, indicating that the addition of rifampin apparently accelerates DNA degradation (Fig. 5A). ",
+        "bbox": [
+            512,
+            812,
+            924,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f727941551a044e00743f93c1f9761b35ad347c82ce1f6d03e6b602c74e0fdd2.jpg",
+        "image_caption": [
+            "FIG. 3. Production of DNA-free bacteria after 2-AP treatment in the dam mutant. The E. coli dam-mutant culture was treated with 2-AP as described in the text, and then cells were visualized using phasecontrast and fluorescence microscopy. DNA was stained with DAPI. (A) Untreated cells; (B) 2-AP treated cells. DAPI-stained DNA is green, and DNA-less cell space and DNA-less cells are black. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            123,
+            88,
+            432,
+            486
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            610,
+            483,
+            725
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this regimen, we treated bacteria with 2-AP for more than two generations (generation time was $3 0 \\ \\mathrm { m i n } $ , which might produce DNA with two complementary strands containing 2-AP. Hence, the question arises whether the incorporation of this base analogue into one of the strands is sufficient to trigger degradation of DNA in a dam mutant. Fixing the rifampin treatment to $9 0 \\ \\mathrm { m i n }$ , we varied the time of 2-AP treatment, withdrawing samples, centrifuging them at room temperature for $2 \\mathrm { m i n }$ in order to eliminate the 2-AP, and then resuspending them in LB containing rifampin. Figure 5B shows that the incorporation of the 2-AP for the time span of one generation is largely enough to trigger the chromosome degradation. Even the short exposure of cells to the 2-AP (2 min required for centrifugation) could alter the formation of mature chromosomes (Fig. 5B). This result shows that the incorporation of 2-AP on only one DNA strand is sufficient to trigger DNA degradation. ",
+        "bbox": [
+            71,
+            726,
+            483,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c19e7f790f06de1c342c0f77126f2d4843ceb6cdddaee03d65cfe37304ce272c.jpg",
+        "image_caption": [
+            "FIG. 4. Kinetics of chromosome degradation in 2-AP-treated dam cells without addition of rifampin. dam-mutant culture was treated with 2-AP and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for different times as indicated. Samples were precipitated with methanol and analyzed as described in the text. DAP int (integral) is the area signal of the pulses produced at the detector as the cell passes through the measurement region. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            600,
+            89,
+            820,
+            591
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            708,
+            924,
+            750
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Finally, as the RecBCD-dependent recombination machinery is required for the viability of dam mutants (10, 17), we tested whether extensive chromosome degradation results from its exonuclease V activity. The analysis of the DNA content of 2-AP-treated dam recD cells (lacking exonuclease V activity) indicates that degradation depends only partially on exonuclease V activity (Fig. 2). This is in contrast to DNA breakdown initiated by radiation-induced DSBs, where the global degradation depends on RecBCD (7). The MMR-generated DSBs are expected to be different from DSBs induced by radiation or restriction enzymes. Initiated by MutH nicking, on opposite strands, of GATC sequences flanking a 2-AP mismatch, the DSB would result from convergent-DNA unwinding by UvrD helicase. The DNA ends with single-stranded tails are better substrates for single-strand exonucleases (e.g., RecJ, ExoI, ExoVII, and ExoX) than for the double-strand exonuclease RecBCD. All these nucleases may alternate in the global DNA breakdown. The described efficiency of producing DNA-free $E$ coli cells offers a facile method for experimentation with bacterial cells devoid of their genes. ",
+        "bbox": [
+            512,
+            753,
+            924,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea4e41aaa47ec6bb3b5d4f9ae559bb7cc32c3925fece4fbeda96211b6a600eb4.jpg",
+        "image_caption": [
+            "FIG. 5. The effect of variable time of rifampin and 2-AP treatment on chromosome degradation in dam-mutant cells. (A) dam culture treated with 2-AP for $^ { 1 \\mathrm { ~ h ~ } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ was centrifuged, resuspended, and incubated in LB containing rifampin. At different times, samples were precipitated with methanol and analyzed as described in the text. (B) 2-AP was added to a dam culture and, after various times, $0 . 4 ~ \\mathrm { m l }$ of culture was centrifuged for $2 \\ \\mathrm { m i n }$ at room temperature and the pellet resuspended in LB containing rifampin, followed by incubation for $9 0 \\ \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathrm { C }$ before methanol treatment. Finally, cells were analyzed as described in the text. DAPI int (integral) is the area signal of the pulses produced at the detector as the cell passes through the measurement region. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            71,
+            90,
+            473,
+            455
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            630,
+            483,
+            699
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            85,
+            924,
+            126
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We were indebted to M.-C. Gendron (Institut J. Monod) for flow cytometry measurements and M. Selva for technical help. ",
+        "bbox": [
+            512,
+            141,
+            924,
+            166
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            678,
+            186,
+            758,
+            196
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Bardelli, A., D. P. Cahill, G. Lederer, M. R. Speicher, K. W. Kinzler, B. Vogelstein, and C. Lengauer. 2001. Carcinogen-specific induction of genetic instability. Proc. Natl. Acad. Sci. USA 98:57705775.   \n2. Bierne, H., D. Vilette, S. D. Ehrlich, and B. Michel. 1997. Isolation of a dnaE mutation which enhances RecA-independent homologous recombination in the Escherichia coli chromosome. Mol. Microbiol. 24:12251234.   \n3. Bignami, M., I. Casorelli, and P. Karran. 2003. Mismatch repair and response to DNA-damaging antitumour therapies. Eur. J. Cancer 39:2142   \n2149.   \n4. Brégeon, D., I. Matic, M. Radman, and F. Taddei. 199. Inefficient mismatch repair: genetic defects and down regulation. J. Genet. 78:2128.   \n5. Burdett, V., C. Baitinger, M. Viswanathan, S. T. Lovett, and P. Modrich.   \n2001. In vivo requirement for RecJ, ExoVII, ExoI, and ExoX in methyldirected mismatch repair. Proc. Natl. Acad. Sci. USA 98:67656770.   \n6. Doutriaux, M.-P., R. Wagner, and M. Radman. 1986. Mismatch-stimulated killing. Proc. Natl. Acad. Sci. USA 83:25762578.   \n7. Emmerson, P. T. 1968. Recombination deficient mutants of Escherichia coli K12 that map between thyA and argA. Genetics 60:1930.   \n8. Glickman, B. W., and M. Radman. 1980. Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc. Natl. Acad. Sci. USA 77:10631067.   \n9. Lobner-Olesen, A., O. Skovgaard, and M. G. Marinus. 2005. Dam methylation: coordinating cellular processes. Curr. Opin. Microbiol. 8:154160.   \n10. Marinus, M. G. 2000. Recombination is essential for viability of an Escherichia coli dam (DNA adenine methyltransferase) mutant. J. Bacteriol. 182:   \n463468.   \n11. McGraw, B. R., and M. G. Marinus. 1980. Isolation and characterization of $\\mathrm { D a m } ^ { + }$ revertants and suppressor mutations that modify secondary phenotypes of dam-3 strains of Escherichia coli K-12. Mol. Gen. Genet. 178:309   \n315. P.P. A. S. Lu ad G. C. Walke. 8. Ienfi characterization of the mutL and mutS gene products of Salmonella typhimurium LT2. J. Bacteriol. 163:10071015.   \n1. Peterson, K. R., and D. W. Mount. 1993. Analysis of the genetic requirements for viability of Escherichia coli K-12 DNA adenine methylase (dam) mutants. J. Bacteriol. 175:75057508.   \n14. Schofield, M. J., and P. Hsieh. 2003. DNA mismatch repair: molecular mechanisms and biological function. Annu. Rev. Microbiol. 57:579608.   \n15. Skarstad, K., H. B. Steen, and E. Boye. 1985. Escherichia coli DNA distributions measured by flow cytometry and compared with theoretical computer simulations. J. Bacteriol. 163:661668. Veaute, X., S. Delmas, M. Selva, J. Jeuset, E. LeCam, I. Matic, F. Fabre, and M. A. Petit. 2005. UvrD helicase, unlike Rep helicase, dismantles RecA nucleoprotein filaments in Escherichia coli. EMBO J. 24:180189.   \n17. Wang, T.-C. V., and K. C. Smith. 1986. Inviability of dam recA and dam recB cells of Escherichia coli is correlated with their inability to repair DNA double-strand breaks produced by mismatch repair. J. Bacteriol. 165:1023   \n1025. ",
+        "bbox": [
+            514,
+            200,
+            924,
+            698
+        ],
+        "page_idx": 3
+    }
+]

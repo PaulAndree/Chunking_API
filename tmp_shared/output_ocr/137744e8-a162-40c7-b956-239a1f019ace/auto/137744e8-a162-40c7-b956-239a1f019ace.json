@@ -1,0 +1,316 @@
+[
+    {
+        "type": "text",
+        "text": "LeTTER to tHe EdItoR ",
+        "text_level": 1,
+        "bbox": [
+            387,
+            101,
+            631,
+            119
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mismatch Repair of Deaminated 5-Methyl-cytosine ",
+        "text_level": 1,
+        "bbox": [
+            171,
+            140,
+            838,
+            163
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deamination of 5-methyl-cytosine in double-stranded DNA produces a $\\mathbf { G } \\cdot \\mathbf { T }$ mismatch. Heteroduplexes of bacteriophage lambda DNA containing a $\\mathrm { G } \\cdot \\mathrm { T }$ mismatch at the site of a $\\mathbf { G } \\cdot \\mathbf { 5 } \\mathbf { - m e C }$ base-pair in one of the parental phages were constructed and used to transfect Escherichia coli cells. Genetic analysis of the progeny phages derived from such heteroduplexes suggests that, in $E$ . coli, mismatches resulting from the deamination of 5-methyl-cytosine are repaired by a system requiring the $E$ coli dcm methylase and some, but not all, of the functions of the $\\dot { \\pmb { { \\cal E } } }$ . coli methyl-directed mismatch repair system. The repair appears to act only on the $\\mathbf { G } \\cdot \\mathbf { T }$ mismatch and acts specifically to restore the cytosine methylation sequence. ",
+        "bbox": [
+            156,
+            183,
+            855,
+            305
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methylation of cytosine residues to form 5-methyl-cytosine $\\mathrm { ( 5 - m e C ) } \\dagger$ is the most common form of DNA modification (Razin $\\&$ Riggs, 1980). Unlike cytosine, which deaminates to uracil, a nonDNA base removed from DNA by a specific $N$ -glycosylase (Lindahl, 1982), 5-meC deaminates to thymine, resulting in a ${ \\bf G } \\cdot { \\bf T }$ mismatch whenever deamination occurs in double-stranded DNA. $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches produced by the deamination of 5-meC in Escherichia coli DNA should, in general, be refractory to repair by the $E$ coli mismatch repair system because the system does not opcrate in regions of DNA that are fully adenine methylated (for a review, see Radman & Wagner, 1980), (adenine methylation in $E$ .coli occurs in GATC sequences) and all of the DNA of $E$ coli is thought to be fully adenine methylated except for a short region of the newly synthesized strands immediately behind the replication fork (Marinus, 1976; Lyons $\\&$ Schendel, 1984). To determine if there is repair of $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches produced by the deamination of 5-meC, we have constructed heteroduplexes of bacteriophage lambda DNA that are fully adenine methylated and have a $\\mathbf { G } \\cdot \\mathbf { T }$ mismatch at the site of a $\\mathrm { G } \\cdot 5 \\mathrm { - m e C }$ base-pair in the DNA of one of the parental phages (Fig. 1). Analysis of the progeny phages derived from such heteroduplexes following their transfection into $E$ coli cells indicates that repair of $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches produced by the deamination of 5-meC does occur in $E$ . coli and that the repair requires the $E$ . coli cytosine methylase and some, but not all, of the functions of the $E$ coli methyl-directed mismatch repair system. ",
+        "bbox": [
+            93,
+            347,
+            489,
+            804
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cytosine methylation in $E$ . coli occurs at the second cytosine of the $\\mathrm { C C } ( \\mathbf { A } / \\mathbf { T } ) \\mathbf { G } \\mathbf { G }$ sequence (May & Hattman, 1975). Because the sequence is not symmetrical, deamination can produce either a $5 ^ { \\prime }$ CTAGG or a $5 ^ { \\prime }$ CTTGG sequence. Heteroduplexes were prepared between each of these sequences and the corresponding methylation sequence $\\mathbf { 3 ^ { \\prime } }$ GGTCC and $3 ^ { \\prime }$ GGACC, respectively), to create $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches (Fig. 1). The heteroduplexes were prepared from separated strands of bacteriophage lambda DNA as described (Dohet et al., 1985). The mismatches were in the cI (repressor) gene and were formed between the DNAs of wild-type and sequenced mutant phages (see Table 1). In addition to the mismatches mimicking the results of deamination (positions 89 and 100 in the cI gene), control heteroduplexes were also prepared with $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches at the center base-pair of the methylation sequence (position 101) and one basepair outside the methylation sequence (position 98). Heteroduplexes with the conjugate $\\mathrm { A } \\cdot \\mathrm { C }$ mismatches at each site were also prepared. Heteroduplexes were prepared either fully adenine methylated (phages grown in adenine methylase overproducer bacteria) or unmethylated with respect to adenine methylation (phages grown in dam bacteria, deficient in adenine methylation). The heteroduplexes were introduced into $E$ coli cells by calcium-mediated transfection (Mandel & Higa, 1970). The transfected cells were plated before lysis to form infective centers in which all the phages are derived from a single heteroduplex molecule (Dohet et al., 1985). The genotypes of the phages in the infective centers were determined by replating (Dohet et al., 1985). ",
+        "bbox": [
+            93,
+            805,
+            489,
+            897
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            350,
+            916,
+            724
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The results are presented in Table 1. In wild-type bacteria, $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches in unmethylated DNA (lines 2, 4 and 6) are well repaired, i.e. give a small fraction of mixed infective centers (mixed infective centers are those containing phages of both parental genotypes). The conjugate $\\mathbf { A } \\cdot \\mathbf { C }$ mismatches (lines 9, 11 and 13) are repaired, but to a lesser extent. Full adenine methylation reduces the repair of all $\\mathbf { A } \\cdot \\mathbf { C }$ mismatches and of the $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches at positions 98 and 101, but not of the $\\mathrm { G } \\cdot \\mathrm { T }$ mismatches at positions 89 and 100, suggesting the operation of some methyl-independent repair system on mismatches equivalent to those produced by deamination of 5-meC. ",
+        "bbox": [
+            519,
+            725,
+            916,
+            765
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/628a203e3fae1c7e6e769b24ab581b939cc6919b19f2b5b907c0f99e1cbfd20b.jpg",
+        "image_caption": [
+            "Figure 1. Production and repair of mismatches produced by the deamination of 5-methyl-cytosine in $E$ coli. Bold letters signify sites of these two events. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            545,
+            777,
+            894,
+            903
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9ac1974b6e84d832226af949dc656bf3131162a6d231f01046a9724a77bfd5d.jpg",
+        "table_caption": [
+            "20 "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            439,
+            106,
+            907,
+            932
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b2fb6702adb74fbaeadc1f0ac4509db758ad59f04bed1890e1811de8fdc99e3c.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "2 20 20 20 20 20 20 20 "
+        ],
+        "bbox": [
+            97,
+            107,
+            569,
+            928
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            99,
+            484,
+            246
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This repair system appears to operate on both deamination sites; it does not appear to be affected by the orientation of the neighboring $\\mathbf { A } \\cdot \\mathbf { T }$ basepair. The repair is specific for the ${ \\bf G } \\cdot { \\bf T }$ mismatch; the $\\mathbf { A } \\cdot \\mathbf { C }$ mismatch is not well repaired in fully methylated DNA at any of the four sites (lines 8, 10, 12 and 14). The distribution of pure infective centers, i.e. those containing phages of a single genotype, reveals a strong bias in favor of the G-containing strand, indicating that repair involves replacement of thymine by cytosine to restore the methylation sequence (although the possibility that repair occurs preferentially on the R strand cannot be eliminated by these data). ",
+        "bbox": [
+            90,
+            247,
+            486,
+            433
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Thus, methyl-independent repair appears to be: (1) sequence specific, i.e. occurs only in the dcm methylation sequence $\\mathrm { C C } ( \\mathbf { A } / \\mathbf { T } ) \\mathrm { G G }$ ; (2) site specific, i.e. occurs only at the two sites of $\\mathrm { G } \\cdot 5$ -meC basepairs in the methylation sequence; (3) mismatch specific, i.e. repairs only $\\mathbf { G } \\cdot \\mathbf { T }$ mismatches, and (4) base specific, i.e. replaces only thymines. Among the components of the methyl-directed mismatch repair system, mutL and mutS gene products appear to be required for methyl-independent repair, whereas mutH and mutU gene products apparently are not (compare fractions of mixed infective centers $( { \\bf c } / { \\bf c } ^ { + } )$ from transfections of mutL, mutH, mutS and mutU bacteria). In addition, methylindependent repair requires the presence of a functional dcm gene, which codes for the $E$ .coli cytosine methylase (May & Hattman, 1975). ",
+        "bbox": [
+            90,
+            435,
+            484,
+            663
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This methyl-independent repair appears to be the repair proposed by Lieb (1983, 1985) to account for the results of recombination studies involving markers within the cI gene of bacteriophage lambda. The results of her studies indicate that the process does not involve long excision tracts, as it rarely extends ten bases from the susceptible mismatch. Transfection studies using heteroduplexes with two mismatches confirm that excision is not extensive (M. Jones, R. Wagner & M. Radman, unpublished results). The repair process has been called very short patch (vsp) repair (Lieb, 1983). ",
+        "bbox": [
+            88,
+            663,
+            484,
+            834
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Although vsp repair requires a functional dcm methylase, the finding of M. Lieb, E. Allen & D. Read (unpublished results) that mutants at the first position of CAGG sequences are subject to vsp repair indicates that cytosine methylation is not required. It may be that the methylase functions in vsp repair in a manner analogous to that of the mutH or mutU protein in methyl-directed repair. The mutU protein has been identified as DNA helicase II (Kumura & Sekiguchi, 1984) and has been postulated to be required for the removal of a single-stranded fragment during methyl-directed repair (Radman & Wagner, 1986). Presumably, vsp repair would not require such a function, since any single-stranded fragment produced would normally be shorter than one turn of the helix. It has been suggested that the mutH gene product may be a GATC-recognizing protein (Kramer et al., 1984) and may nick DNA at GATC sequences flanking, or on one side of, a mismatch (Lu et al., 1984; for a review, see Radman $\\&$ Wagner, 1986). The dcm gene product may function similarly to recognize or protect the CAGG sequence or to activate the mutI and mutS gene products such that they are able to recognize the $\\mathbf { G } \\cdot \\mathbf { T }$ mismatch and/or introduce nicks into the DNA at or near the mismatched thymine. Alternatively, the dcm protein itself may nick the DNA or modify the mismatched thymine to facilitate its removal, perhaps by some glycosylase. The results of transfections with an ung mutant indicate that ura- $N$ -glycosylase is not involved in this repair (data not shown). ",
+        "bbox": [
+            88,
+            836,
+            482,
+            942
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            100,
+            911,
+            420
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Because vsp repair acts only in cytosine methylation sequences (and a tetranucleotide derivative of it), acts only on the thymine of a $\\boldsymbol { \\mathrm { ~ G ~ } } \\cdot \\boldsymbol { \\mathsf { T } }$ mismatch, and is independent of adenine methylation, it is very likely that vsp functions to reduce mutations arising from the deamination of 5-meC to form thymine. However, it has been reported that all three 5-meC sites in the lacI gene are hotspots for $\\mathbf { 5 } { \\cdot } \\mathbf { m e C }  \\mathbf { T }$ transitions (Coulondre et al., 1978). It may be that these hot spots would be even \"hotter\" in the absence of mismatch repair. However. the lacI studies were conducted with F-lac episomes and it may be that the number of mismatch repair enzymes in $E$ . coli cells is small enough that nonchromosomal DNA is not efficiently repaired. (An estimate from lacZ gene fusion experiments is that there are only 10 to 20 mismatch repair enzyme molecules per cell (A. Brandenburger, J. D. Franssen & M. Radman, unpublished results).) This idea is supported by the findings that mutH and mutS affect spontaneous mutagenesis of the F-lac episome less strongly than that of the $\\mathcal { k }$ . coli chromosome (Leong et al., 1986), and that sequeneing of unselected spontaneous chromosomal lacl mutants revealed no obvious 5-meC mutational hotspots (Schaaper et al., 1986). ",
+        "bbox": [
+            515,
+            423,
+            909,
+            769
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The presence of considerable amounts of 5-meC in mammalian cells (Razin & Riggs, 1980) and the high rate of spontaneous deamination of 5-meC to form thymine suggest the need for a eukaryotic repair system analogous to the $E$ . coli vsp repair system. ",
+        "bbox": [
+            513,
+            770,
+            907,
+            849
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank Drs R. Wood, F. Hutchinson (Yale University) and M. Lieb (U.S.C. Los Angeles) for mutant phage strains. M.J. was supported by fellowships from I.R.S.I.A. (Belgium) and C.N.R.S. (France). R.W. is a senior fellow of the A.R.C. (France). This work was supported by grants from C.N.R.S. and A.R.C. ",
+        "bbox": [
+            513,
+            869,
+            907,
+            942
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Madeleine Jones Robert Wagner Miroslav Radman ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            101,
+            222,
+            137
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Institut Jacques Monod   \nCentre National de la Recherche Scientifique   \nUniversité Paris 7, Tour 43   \n2 Place Jussieu   \n75251 Paris Cedex 05, France ",
+        "bbox": [
+            90,
+            144,
+            402,
+            205
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Received 22 October 1986 ",
+        "bbox": [
+            93,
+            217,
+            274,
+            228
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            248,
+            252,
+            335,
+            266
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Coulondre. C.. Miller. J. H., Farabaugh, P. J. & Gilbert, W. (1978). Nature (London), 274, 775780.   \nDohet, C., Wagner, R. & Radman, M. (1985). Proc. Nat. Acad. Sci., U.S.A. 82, 503505.   \nDohet, C.. Wagner, R. & Radman, M. (1986). Proc. Nat. Acad. Sci., U.S.A. 83, 33953397.   \nDohet, C.. Dzidic, S.. Wagner, R. & Radman, M. (1987). Mol. Gen. Genet. 206, 181184.   \nHermann, G. E. & Modrich, P. (1981). J. Bacteriol. 145, 644646.   \nKramer, B., Kramer, W. & Fritz, H. J. (1984). Cell, 38, 879887.   \nKumura, K. & Sekiguchi, M. (1984). J. Biol. Chem. 259, 15601565.   \nLeong, P. M., Hsia, H. C. & Miller, J. H. (1986). J. Bacteriol. 168, 412416.   \nLieb, M. (1983). Mol. Gen. Genet. 191, 118-125.   \nLieb, M. (1985). Mol. Gen. Genet. 199, 465470.   \nLindahl, T. (1982). Annu. Rev. Biochem. 51, 6187.   \nLu, A. L., Welsh, K., Su, S. J. & Modrich, P. (1984). Cold Spring Harbor Symp. Quant. Biol. 49, 589--596.   \nLyons, S. M. & Schendel, P. F. (1984). J. Bacteriol. 159, 421423.   \nMandel, M. & Higa, A. (1970). J. Mol. Biol. 53, 159162.   \nMarinus, M. G. (1976). Mol. Gen. Genet. 128, 853-854.   \nMarinus. M. G. & Morris, N. R. (1975). Mutat. Res. 28, 1526.   \nMay, M. S. & Hattman, S. (1975). J. Bacteriol. 122, 129- 138.   \nRadman, M. & Wagner, R. (1986). Annu. Rev. Genet. 20, 523538.   \nRazin, A. & Riggs, A. (1980). Science, 210, 604610.   \nSchaaper, R. M., Danforth, B. N. & Glickman, B. W. (1986). J. Mol. Biol. 189, 273284. ",
+        "bbox": [
+            92,
+            272,
+            489,
+            394
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            100,
+            916,
+            394
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Edited by S. Brenner ",
+        "text_level": 1,
+        "bbox": [
+            425,
+            419,
+            581,
+            432
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Note added in proof. R. Zell & H.-J. Fritz (personal communication) have independently reached similar conclusions about vsp repair from transfection experiments with M13 phage heteroduplex DNA. ",
+        "bbox": [
+            154,
+            468,
+            854,
+            506
+        ],
+        "page_idx": 4
+    }
+]

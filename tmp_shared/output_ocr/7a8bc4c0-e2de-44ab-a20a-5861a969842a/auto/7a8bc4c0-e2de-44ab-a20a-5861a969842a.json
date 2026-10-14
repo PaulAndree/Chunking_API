@@ -1,0 +1,897 @@
+[
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangement and carcinogenesis ",
+        "text_level": 1,
+        "bbox": [
+            185,
+            213,
+            805,
+            236
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman \\*, Penny Jeggo \\*\\* and Robert Wagner ",
+        "bbox": [
+            183,
+            251,
+            803,
+            273
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Département de Biologie Moléculaire, Université Libre de Bruxelles, 67 rue des Chevaux, 1640 Rhode-St-Genèse (Belgium) ",
+        "bbox": [
+            164,
+            277,
+            831,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Received 25 August 1981) (Accepted 18 December 1981) ",
+        "bbox": [
+            384,
+            313,
+            604,
+            341
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            377,
+            198,
+            394
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All carcinogens that have been thoroughly tested have been found to induce some kind of chromosomal rearrangement. Chromosomal rearrangements are associated with a variety of human and rodent cancers and are associated, with in vitro cell transformation. The DNA from non-malignant cells can transform other non-malignant cells under conditions that may involve chromosomal rearrangement. These findings support the view that chromosomal rearrangement can be a step in carcinogenesis. Available evidence indicates that carcinogens can act to induce chromosomal rearrangement by creating or revealing sites on DNA for recombination, or by inducing or activating cellular systems resulting in a stimulation of recombination. Chromosomal rearrangement may affect carcinogenesis by altering gene expression, perhaps by allowing the activation of cellular cancer genes. ",
+        "bbox": [
+            111,
+            413,
+            880,
+            603
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            639,
+            226,
+            655
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The log/log plot of lung cancer incidence among smokers as a function of exposure time has a slope greater than one; the same may be true for the $\\scriptstyle \\log / \\log $ plot of incidence as a function of dose [41]. These findings and similar findings from studies of the incidence of induced tumors in mice and rats [40,14] indicate that carcinogenesis is a multi-step process. ",
+        "bbox": [
+            115,
+            673,
+            884,
+            761
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has been widely assumed that mutation represents at least one step in carcinogenesis. The evidence supporting this idea is that mutagens are carcinogens [34] and, for at least some compounds, mutagenic potency is closely correlated with carcinogenic potency [36]. However, mutagens and certain non-mutagenic carcinogens have also been found to induce chromosomal rearrangement [24,57]. In this paper, we examine the possibility that chromosomal rearrangement may be involved in carcinogenesis [5,26,27]. ",
+        "bbox": [
+            115,
+            761,
+            882,
+            845
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            106,
+            92,
+            886,
+            127
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Carcinogens and chromosomal rearrangements ",
+        "text_level": 1,
+        "bbox": [
+            108,
+            163,
+            534,
+            180
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The finding that most carcinogenic agents induce base substitution and frameshift in bacterial DNA [34] has led to the development of a number of test systems designed to screen compounds for carcinogenic potency [23,32], many of which are based on genetic alterations quite distinct from base substitution and frameshift. Each test system gives positive results for some carcinogens, but not for others, and some carcinogens are positive in some tests, but not in others, suggesting that carcinogens may differ with respect to the types of genetic alteration they induce. Because test systems exist that detect only one or a few specific genetic alterations, the pattern of response of different systems to different carcinogens may reveal which specific types or classes of genetic alteration are involved in carcinogenesis. ",
+        "bbox": [
+            108,
+            198,
+            884,
+            251
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c48cac8ccd88ff6b0e68d6eb2f8b302b5c0fc70ec6d04b4417a7cb54d95fac0b.jpg",
+        "table_caption": [
+            "TABLE I PROCESSES OF GENETIC ALTERATION "
+        ],
+        "table_footnote": [
+            "a All these test systems are described in ref. 32. cOnly quadriradials involving homologous sites on homologous chromosomes. dExcluding quadriradials involving homologous sites on homologous chromosomes. Except ouabain resistance. "
+        ],
+        "bbox": [
+            104,
+            329,
+            867,
+            799
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            91,
+            878,
+            213
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The purpose of this paper is to examine the role in carcinogenesis of those genetic alterations involving chromosomal rearrangement. We define chromosomal rearrangement as any process of chromosomal alteration that produces either a change in nuclear DNA content or the physical exchange or reordering of pre-existing DNA sequences. Sequence alteration resulting from the insertion, deletion or substitution of nucleotides during DNA synthesis (e.g., frameshift) is not considered to be chromosomal rearrangement. Of the mechanisms of genetic alteration involving processes capable of producing altered DNA content or sequence, only two, base substitution and frameshift, are not mechanisms of chromosomal rearrangement (Table 1). The remaining mechanisms, all mechanisms of chromosomal rearrangement, have been grouped into three classes based on specific characteristics of the processes involved. The three classes are described below. (Note. Because most processes of chromosomal rearrangement can involve sequence alteration, they would be classified as mutagenic by most definitions of mutation. However, homologous recombination and programmed rearrangements, such as yeast mating-type switch [20] and Salmonella flagellar antigen switch [49], are not usually thought to be mutagenic. To avoid this confusion, we have deliberately not attempted to characterize the processes of chromosomal rearrangement with respect to their ability to cause mutation.) ",
+        "bbox": [
+            108,
+            213,
+            880,
+            539
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Homologous recombination. Homologous recombination involves the processes of reciprocal recombination, gene conversion, and sister-chromatid exchange (SCE), which are always dependent on extensive DNA homology, need not cause sequence alteration, and never involve any reordering of genes. Although these processes may be initiated within regions of limited homology flanked by non-homologous regions or within regions of repeated DNA sequences, they are considered to be processes of homologous recombination only when they act at homologous sites on homologous chromatids or chromosomes. ",
+        "bbox": [
+            111,
+            540,
+            880,
+            676
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Non-homologous recombination. Non-homologous recombination involves processes of physical exchange or reordering of pre-existing DNA sequences that do not depend on extensive sequence homology. All processes of non-homologous recombination, including reciprocal translocation, transposition, deletion, insertion and inversion, necessarily cause sequence alteration. Some transpositions, inversions and deletions appear to be programmed in that they involve the action of specific enzymic systems on specific DNA sequences and may lead to specific changes in gene expression. Some examples of these programmed rearrangements are yeast mating-type switch [20],-Salmonella flagellar antigen switch [46], G-loop inversion in bacteriophage Mu [52], and immunoglobulin gene maturation [11]. ",
+        "bbox": [
+            113,
+            678,
+            882,
+            848
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ploidy change. Ploidy change involves processes, such as mitotic non-disjunction, chromosomal endoreduplication, and nuclear fusion, that result in the gain or loss of entire chromosomes. ",
+        "bbox": [
+            130,
+            849,
+            880,
+            865
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b415ac31fcf3282a3897500ecf9903e287fa0fe166afde377740dd701f1059c.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [],
+        "bbox": [
+            376,
+            92,
+            910,
+            869
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba6be1e6b07ad98f53f33cd0abb16f76505586e9fd97f9ef56d58949dc019add.jpg",
+        "table_caption": [
+            "20 20 "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            85,
+            91,
+            628,
+            882
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            106,
+            92,
+            882,
+            125
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The classification scheme for processes of genetic alteration presented in Table 1 can also be used to classify the so-called 'mutagenicity' test systems. By considering only the type of alteration to which they are sensitive, it is possible to divide the test systems into five groups (Table 1), four of which correspond to the four classes of processes of genetic alteration. Test systems in these four groups are primarily sensitive to a specific class of genetic alteration or, in some cases, to a specific type of alteration within the class. The fifth, non-specific class consists of test systems that are sensitive to genetic alterations of more than one type and, in particular, may respond to both chromosomal rearranging and non-chromosomal rearranging alterations. (Some test systems in this class are not presented in the Table.) ",
+        "bbox": [
+            108,
+            128,
+            884,
+            300
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We shall use this classification of genetic alterations and mutagenicity test systems, together with the results of tests with known carcinogens, to examine the relationship between carcinogenicity and the ability to induce particular genetic alterations. The first step of this analysis is a test of the hypothesis that the ability to induce base substitution or frameshift is a general property of carcinogens. Results of the Ames/Salmonella test, the most widely used of all the test systems, will be used as an estimate of a carcinogen's ability to induce base substitution or frameshift. McCann et al. [34] have tested 174 carcinogens in Ames tests and report that $10 \\%$ of them are negative. Rinkus and Legator [44] have examined the test results of 277 carcinogens that have been tested in Ames tests and report that $23 \\%$ are negative. To our knowledge, no other test system specifically sensitive to base substitution or frameshift (e.g., ouabain resistance in mammalian cells) gives positive results for carcinogens that are negative in Ames tests. Therefore, although the possibilities cannot be excluded that the carcinogens that were negative in Ames tests were negative because they had not been properly activated or because they induce specific base changes not detected by Ames strains, it appears that the ability to induce base substitution or frameshift is not a general property of carcinogens. ",
+        "bbox": [
+            108,
+            303,
+            884,
+            596
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To determine whether the ability to induce chromosomal rearrangement is a general property of carcinogens, we shall consider those carcinogens (excluding metals) selected for review by Hollstein et al. [23] on the basis of their having been examined in several different test systems. Of those tests specifically sensitive to chromosomal rearrangements, Hollstein et al. have included results from SCE tests, chromosomal aberration tests and micronucleus tests. To make the analysis as complete as possible, we examined recent literature for test results on those compounds that Hollstein et al. indicated had not been tested in a given test system. The carcinogens and relevant test systems are presented in Table 2. For our analysis we are particularly interested in positive results, because only if a compound has been thoroughly tested in systems sensitive to all types of chromosomal rearrangement, and found to be negative in all tests, can it reasonably be concluded that the compound is unable to induce chromosomal rearrangement. ",
+        "bbox": [
+            108,
+            599,
+            884,
+            821
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In Table 2, of the 61 carcinogens presented, 45 are Ames test-positive and 16 are Ames test-negative. Of the 45 Ames test-positive compounds, 34 are also positive in at least one of the chromosomal rearrangement tests; 1l, to the best of our knowledge, have not been tested in any of the specific chromosomal rearrangement tests; and 1 has been tested and found to be negative in only one of the tests. Of the 16 Ames test-negative compounds, 10 are positive in at least one of the chromosomal rearrangement tests; 4 have not been tested; and 2 are negative in only one of the tests. ",
+        "bbox": [
+            108,
+            822,
+            880,
+            872
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            91,
+            878,
+            180
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although still incomplete, the data support the hypothesis that the ability to induce chromosomal rearrangement is correlated with carcinogenicity. Particularly encouraging is the finding that every carcinogen that has been thoroughly tested in systems specifically sensitive to chromosomal rearrangement has been found to be positive in at least one test. The incompleteness of the data makes it impossible to ask whether carcinogens share a common ability to induce a specific type or class of chromosomal rearrangement and, because an insufficient number of non-carcinogens has been thoroughly tested in test systems sensitive to chromosomal rearrangement, it is not possible to say that all compounds that induce chromosomal rearrangement will have some effect on carcinogenesis. ",
+        "bbox": [
+            108,
+            181,
+            878,
+            354
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangement associated with carcinogenesis ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            389,
+            649,
+            407
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangements, principally deletions, translocations, and the gain or loss of entire chromosomes, are associated with a variety of human cancers. These rearrangements tend to be specific, sometimes to the extent that a particular rearrangement may be diagnostic of a particular type of cancer. Some examples of human cancers with associated chromosomal rearrangements are the following: ",
+        "bbox": [
+            108,
+            424,
+            880,
+            512
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cervical carcinoma; increased ploidy [50]; (2) Chronic myeloid leukemia, terminal deletion of chromosome 22 (Philadelphia chromosome), often associated with a translocation to chromosome 9 [38]; (3) Lymphoma; reciprocal 8/14 translocation [56]; Retinoblastoma; 13qD deletion [19,29]; (5) Meningiomas; loss or deletion of chromosome 22 [33]. ",
+        "bbox": [
+            111,
+            512,
+            880,
+            618
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although the finding of chromosomal rearrangement associated with human cancers does support the hypothesis that chromosomal rearrangement is a step in carcinogenesis, the failure to find such an association in all cancers cannot be taken as evidence against the hypothesis, because a rearrangement must involve in the order of $1 0 ^ { 6 }$ base pairs to be detectable by current methods. Cancer cells that do not appear to have suffered any chromosomal rearrangement may have undergone either a rearrangement too small to be detected or a rearrangement of the homologous recombination variety. ",
+        "bbox": [
+            111,
+            618,
+            880,
+            755
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangements have also been found to be associated with induced tumors in rodents. These rearrangements appear to be characteristic of the type of tumor and the particular compound or treatment used to induce carcinogenesis [31]. In addition, chromosomal rearrangement, particularly ploidy change, appears to be associated, in vitro, with cell transformation [10,45]. ",
+        "bbox": [
+            115,
+            756,
+            882,
+            841
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although it is consistent with the idea that chromosomal rearrangement is involved in carcinogenesis, the evidence presented in this section does not prove the hypothesis as the data are equally consistent with the possibility that chromosomal rearrangements are a symptom of cancer rather than a cause. ",
+        "bbox": [
+            111,
+            842,
+            882,
+            875
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            104,
+            91,
+            884,
+            125
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangements in human cancer-prone syndromes ",
+        "text_level": 1,
+        "bbox": [
+            108,
+            161,
+            696,
+            177
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Perhaps more direct evidence for the involvement of chromosomal rearrangement in carcinogenesis comes from the finding that the non-malignant somatic cells of patients with certain cancer-prone syndromes exhibit an increased incidence of chromosomal rearrangement. The three best-characterized syndromes of this type are Bloom's syndrome, Fanconi's anemia, and ataxia telangiectasia. The type of chromosomal rearrangement found in cells of patients with each of these syndromes is characteristic (and diagnostic) of the syndrome and is found in all patients with the syndrome. ",
+        "bbox": [
+            106,
+            194,
+            882,
+            334
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bloom's syndrome is associated with enhanced homologous recombination. Cells of patients with Bloom's syndrome show increased mitotic recombination, detected as quadriradials involving homologous chromosomes (chiasmata) and an elevated frequency of SCEs [7,37]. Non-homologous recombination is also somewhat elevated, but much less than homologous. ",
+        "bbox": [
+            108,
+            336,
+            882,
+            422
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fanconi's anemia is associated with enhanced non-homologous recombination. Cells of patients with Fanconi's anemia show increased reciprocal translocation, detected as quadriradials involving non-homologous chromosomes or homologous chromosomes with exchanges at non-homologous sites [8,37,48,53]. ",
+        "bbox": [
+            108,
+            422,
+            882,
+            492
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Cells of some patients with ataxia telangiectasia show a high frequency of chromosomal 'gaps', breaks [8], translocations and dicentrics. ",
+        "bbox": [
+            106,
+            492,
+            880,
+            526
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pernicious anemia is another case in which spontaneous chromosomal breakage is associated with an increased likelihood of cancer. However, in this anemia, only those cells that are the target cells for malignancy (i.e., bone-marrow cells) show increased chromosomal rearrangements, predominantly chromosomal breaks [47]. The defect in patients with pernicious anemia can be alleviated by treatment with vitamin B12 and/or folic acid, a treatment which also reduces the incidence of chromosome breaks in the lymphocytes. ",
+        "bbox": [
+            108,
+            527,
+            882,
+            648
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There are two human cancer-prone syndromes, xeroderma pigmentosum and retinoblastoma, that do not appear to be associated with an increased incidence of chromosomal rearrangements. However, cells of patients with xeroderma pigmentosum, which are defective in the repair of UV-induced pyrimidine dimers, do show increased UV-induced chromosomal rearrangements [55], and cells of patients with familial retinoblastoma frequently have an inherited deletion in one of their chromosomes [29]. Thus, the characteristics of these syndromes are certainly consistent with the hypothesis that chromosomal rearrangement is involved in carcinogenesis [27], although the finding of cancer-prone syndromes not associated with chromosomal rearrangement might not be surprising in view of the multi-step nature of carcinogenesis. Such syndromes might simply represent alterations in some step not involving chromosomal rearrangement. ",
+        "bbox": [
+            108,
+            649,
+            882,
+            852
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "If chromosomal rearrangement is a step in carcinogenesis, it may be that the specific rearrangements observed in human cancer-prone syndromes are the rearrangements that lead to the malignant state. However, it may be that the observed rearrangements are simply rare products of a system of programmed rearrangement, the predominant products of which are not cytologically detectable. An analogous situation has been reported for the yeast mating-type switch system, which normally involves specific intrachromosomal gene conversion-like events, but which, with low frequency, produces gross chromosomal changes involving deletion and translocation [18]. ",
+        "bbox": [
+            106,
+            854,
+            884,
+            871
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            91,
+            878,
+            231
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The chromosomal rearrangements associated with human cancer-prone syndromes are clearly not a result of malignancy. However, the evidence is not sufficient to allow the conclusion that chromosomal rearrangement is a step in carcinogenesis, because the possibility that chromosomal rearrangement might simply be a byproduct of an early step in carcinogenesis cannot be eliminated. ",
+        "bbox": [
+            108,
+            233,
+            878,
+            319
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Carcinogenic chromosomal rearrangement ",
+        "text_level": 1,
+        "bbox": [
+            108,
+            356,
+            489,
+            371
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The most direct evidence that chromosomal rearrangement can be carcinogenic comes from transfection experiments involving artificially created chromosomal rearrangements. DNA isolated from non-malignant cells and used to transfect other non-malignant cells caused the latter to undergo transformation, but only if the DNA had first been fragmented (sonication was used in the experiments) [9]. E. coli and salmon sperm DNA did not cause transformation under similar conditions, so that the transformation is not due to some non-specific effect of DNA fragments. High-molecular-weight DNA isolated from cells transformed with fragmented DNA was able to transform other cells without fragmentation, indicating that some chromosomal rearrangement had taken place in the course of transformation. ",
+        "bbox": [
+            108,
+            390,
+            878,
+            562
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Summary of the arguments for chromosomal rearrangement as a step in carcinogenesis ",
+        "bbox": [
+            106,
+            599,
+            878,
+            632
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The correlation of mutagenicity with carcinogenicity has been widely taken as evidence that mutation is one step in carcinogenesis. Data from the study of various carcinogens in different mutagenicity test systems suggest that the ability to induce chromosomal rearrangement correlates better with carcinogenicity than does the ability to induce base substitution or frameshift. It may be that the correlation is perfect, although the data currently available do not allow such a conclusion because many carcinogens have not been adequately tested in systems sensitive only to chromosomal rearrangement. Nonetheless, the considerable correlation between the ability to induce chromosomal rearrangement and carcinogenicity may be taken as evidence that chromosomal rearrangement is a step in carcinogenesis. However, there are alternative possibilities, among them the following. (1) It may be that the correlation is completely fortuitous and, therefore, implies nothing about the mechanism of carcinogenesis. (2) It may be that the ability to induce chromosomal rearrangement is still not the best correlate with carcinogenicity and that a better correlation may be found with some other process or alteration. (3) It may be that there is more than one pathway to cancer such that there is no one obligatory step in carcinogenesis. If so, chromosomal rearrangement may be a step of one or more pathways but not necessarily a step of all pathways. ",
+        "bbox": [
+            111,
+            650,
+            880,
+            874
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            90,
+            882,
+            177
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Further support for the idea that chromosomal rearrangement is a step in carcinogenesis is the association of chromosomal rearrangement with human and rodent cancers and with human cancer-prone syndromes. Also suggestive is the finding that DNA from non-malignant cells can transform other non-malignant cells, under conditions that may involve chromosomal rearrangement. ",
+        "bbox": [
+            108,
+            178,
+            884,
+            264
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Considered in its entirety, the currently available evidence argues that chromosomal rearrangement can be a step in carcinogenesis. ",
+        "bbox": [
+            108,
+            266,
+            884,
+            298
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Induction of chromosomal rearrangement ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            336,
+            487,
+            351
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "If chromosomal rearrangements can be a step in carcinogenesis, an understanding of the mechanism of their induction by carcinogens may be of considerable importance to an understanding of cancer. Carcinogen action leading to the induction of chromosomal rearrangement might occur at two levels. At the level of substrate, a carcinogen might act to increase the number of sites on the DNA susceptible to the action of recombination enzymes already present in the cell. Alternatively, a carcinogen might act to induce or activate various enzymes whose activities stimulate recombination. ",
+        "bbox": [
+            111,
+            369,
+            886,
+            506
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "There is considerable evidence suggesting that some DNA lesions can act as preferential sites for the initiation of DNA exchange [42]. In addition, the results of several experiments suggest that carcinogens, at least radiation, can act epigenetically to induce recombination activity. In the fungus, Ustilago maydis, radiationinduced recombination appears to require protein synthesis de novo, as it is completely blocked by cyclohexamide [21]. Recombination among undamaged yeast chromosomes can be increased by fusing the cell with another cell that has been treated with $\\mathbf { x }$ -rays or UV-irradiation [16]. ",
+        "bbox": [
+            111,
+            509,
+            886,
+            646
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The mechanism by which radiation induces recombinational activity in Ustilago and yeast is not known. However, in corn (maize), it appears that chromosomal breakage alone is adequate to induce a genetic transposition system. Chromosomal instability similar to that induced by ionizing radiations [39] was found to be permanently induced as an apparent consequence of the breaking of dicentric chromosomes in the course of mitotic division [35]. ",
+        "bbox": [
+            113,
+            648,
+            886,
+            749
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In Drosophila, male recombination factors are usually latent; genetic recombination is not normally detected in male Drosophila. However, male recombination factors can be activated by mating different species or distant populations of the same species [51]. The cells of both the male and female progeny of such matings have increased levels of homologous and non-homologous recombination, which suggests that the recombination system is under genetic control and may be induced without DNA damage. A somewhat related finding is that progeny from interspecies crosses of some fish are at much greater risk from cancer than are their parents [2], although it is not known whether their cells have an increased frequency of chromosomal rearrangements. ",
+        "bbox": [
+            115,
+            751,
+            888,
+            869
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            91,
+            878,
+            143
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Thus it appears that carcinogens can act to induce chromosomal rearrangement by creating or revealing sites on the DNA for recombination or by inducing or activating cellular systems resulting in a stimulation of recombination. ",
+        "bbox": [
+            108,
+            144,
+            878,
+            195
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Role of chromosomal rearrangement in carcinogenesis ",
+        "text_level": 1,
+        "bbox": [
+            108,
+            231,
+            600,
+            248
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Having considered the evidence that chromosomal rearrangement may be involved in carcinogenesis and the means by which chromosomal rearrangement may be induced, we now consider the role of chromosomal rearrangement in carcinogenesis, i.e., how chromosomal rearrangement might accomplish a step towards malignancy. ",
+        "bbox": [
+            108,
+            266,
+            878,
+            351
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "It is probably safe to assume that the uncontrolled cell growth characteristic of the malignant state results either from the amplification of control factors that stimulate growth or from the loss of control factors that inhibit growth. These changes in control might result from changes in DNA sequences or from changes in RNA or protein synthesis or processing. If in the process of carcinogenesis, chromosomal rearrangements play a role in altering these controls, then the carcinogenic change must take place at the level of the DNA. ",
+        "bbox": [
+            108,
+            354,
+            878,
+            473
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "There are at least four mechanisms by which the non-homologous recombination class of chromosomal rearrangements might affect gene expression: (1) gene inactivation involving sequence alteration of the gene itself (e., deletion, insertion or inversion); (2) gene activation or inactivation involving transposition of a gene into a region of different transcriptional activity; (3) gene activation or inactivation involving transposition of a transcriptional control element into the vicinity of the gene in question; and (4) gene amplification involving translocation, transposition or unequal crossing-over to produce an increased number of copies of a given gene. In bacteria [6], yeast [17,28], and corn [35] transposable elements are known to alter gene expression by each of the mechanisms (1), (2) and (3). In addition, mammalian immunoglobulin gene maturation involves chromosomal rearrangement [11]. ",
+        "bbox": [
+            108,
+            474,
+            878,
+            665
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The homologous recombination class of chromosomal rearrangements might affect carcinogenesis in at least two ways: (1) by allowing the expression of recessive genes by making them homozygous as a result of mitotic recombination, or (2) by affecting the pattern of DNA methylation and thus altering gene expression. The pattern of DNA methylation is known to affect gene expression [43]. If SCEs occur v a proces similar to that thought to operate inmitoticrecombination, then thy would presumably involve the formation of hybrid or heteroduplex DNA, i.e., duplex DNA with one strand derived from each of two different parent molecules. Thus, SCEs involving newly synthesized DNA strands, which are known to be transiently undermethylated [1], could produce regions of duplex DNA with both strands unmethylated, a condition that might be permanent and, therefore, hereditary [22]. ",
+        "bbox": [
+            108,
+            666,
+            878,
+            871
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The ploidy-change class of chromosomal rearrangements can allow either the amplification of genes, by increasing ploidy, or the expression of recessive genes, by decreasing ploidy. Thus all classes of chromosomal rearrangement (Table 1) may affect gene expression and, therefore, carcinogenesis. ",
+        "bbox": [
+            108,
+            90,
+            882,
+            158
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mechanism of carcinogenesis ",
+        "text_level": 1,
+        "bbox": [
+            111,
+            195,
+            378,
+            211
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "We shall conclude this paper with a proposal concerning some of the steps in carcinogenesis, intended to account for many of the findings to date, in particular the involvement of chromosomal rearrangement, and to provide some testable predictions to help guide future work. The basis of this proposal is the idea that malignancy may be a result of the expression of cellular 'cancer genes' which are either not expressed or insufficiently expressed in normal cells because they are linked with a poorly transcribing control region. ",
+        "bbox": [
+            108,
+            228,
+            884,
+            350
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The existence of cancer genes with control regions is suggested by the results of the transfection experiments described above, in which the need for fragmenting DNA from normal cells may reflect the need to separate the cancer gene from its control region. In cells transformed by the fragmented DNA, the cancer gene is presumably associated with actively transcribing DNA, because the DNA of these cells is able to transform without being fragmented [9]. ",
+        "bbox": [
+            111,
+            350,
+            886,
+            454
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangements of the non-homologous recombination class may cause activation of cancer genes either by transposing the cancer gene to a location with a transcribing control region or by inserting a transcribing control region into the cancer gene control region (or between the cancer gene and its control region) or by causing amplification of the cancer gene. If DNA methylation is involved in the control of cancer genes, then chromosomal rearrangements of the homologous recombination class may affect expression by altering the pattern of methylation, as discussed above. It may also be possible to activate cancer genes by sequence alteration confined totally within the control region, which could be accomplished either by chromosomal rearrangement or by base substitution or frameshift. However, if the control region is necessary for transcription of the cancer gene, i.e., contains a promoter, such a sequence alteration may not be possible or else may need to be so specific as to make its occurrence unlikely. Any activation of cancer genes involving chromosomal rearrangement may require the induction of cellular recombination systems. Such induction would represent additional steps in the process of carcinogenesis. ",
+        "bbox": [
+            111,
+            456,
+            886,
+            731
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Viral carcinogenesis may involve the activation or amplification of cellular cancer genes by virus-mediated chromosomal rearrangement. Some RNA and DNA tumor viruses carry genes of cellular origin [15]. If a virus carries a cellular cancer gene, the gene may be expressed in a host cell as a result of being integrated near an active promoter or as a result of being associated with a promoter in the viral genome. ",
+        "bbox": [
+            115,
+            732,
+            888,
+            818
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The DNA from most transformed cells that have been examined cannot cause transformation without being fragmented [9,46], indicating that there must be a pathway of carcinogenesis not involving the linking of cancer genes with transcribing control regions. It may be that the control region is a binding site for a repressor. If so, there must be repressor genes in the cell. In such a case, an alternative, and clearly multi-step, pathway of carcinogenesis would be inactivation of repressor genes. Inactivation of a gene could presumably be accomplished by base substitution, frameshift, integration of a virus, or any from the non-homologous recombination class of chromosomal rearrangements. If one copy of a repressor gene is inactivated, homologous recombination or ploidy change should be able to make the cell homo- or hemizygous for the mutant allele and, after the dilution or inactivation of any repressor molecules remaining in the cell, allow activation of the cancer gene. ",
+        "bbox": [
+            115,
+            818,
+            888,
+            868
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            92,
+            878,
+            251
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "It may be that one of the effects of tumor promoters (e.g., TPA) and viral gene products necessary for the maintenance of the transformed state (e.g., RSV src and SV40 and polyoma 'T' proteins) is to act as antagonists of the repressor, either by inactivating it more rapidly than it can be synthesized or by repressing the repressor genes. Such action could account for the reversible nature of the effects of some promoters and viral-transforming proteins [4,54]. In the absence of functional repressor genes, effects on the repressor would not be reversible, but would hasten the appearance of the malignant state. There may be species- or tissue-specific differences in repressor stability or in the number of repressor molecules per cell. Such differences could account for differences in 'expression time' observed in the transformation of human and rodent cells treated with carcinogens [25]. The differences in expression time may not be related to differences in frequencies of chromosomal rearrangement, which, for detectable chromosomal rearrangements, appear to be similar in the two types of cell [12]. ",
+        "bbox": [
+            111,
+            253,
+            880,
+            493
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "If cancer genes and repressor genes are involved in carcinogenesis, then: (1) it may be possible to isolate a repressor protein from cell nuclei, perhaps as a DNA-binding protein or protein binding TPA or modified (e.g., cleaved or phosphorylated) as a result of TPA or src protein action, or as a protein present in nuclei of normal cells but missing from nuclei of transformed cells (the repressor protein may be present in the nuclei of those cells whose DNA can transform without fragmentation); (2) it may be possible to identify cancer genes by DNA fractionation and transfection; and (3) it may be possible to identify repressor genes by using DNA from normal cells to transfect tumor cells (of those tumors whose DNA cannot transform without first being fragmented) and then selecting or screening for reversion of the transformed phenotype. ",
+        "bbox": [
+            111,
+            496,
+            880,
+            685
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            721,
+            277,
+            736
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Too many people to list here have helped us by providing advice and criticism during the preparation of this paper; we thank them for their help. Some of the ideas presented in this paper originated during discussions at the Seventh Armand Hammer Cancer Workshop. P.J. was supported by an EMBO fellowship. This work was supported by a grant from Euratom. ",
+        "bbox": [
+            113,
+            755,
+            882,
+            839
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            92,
+            211,
+            107
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "1 Adams, R.L.P., Newy synIneSizea DNA IS nOI meLyatu, DIocHm. DiUpys. ACta, JJ (171)   \n365373.   \n2Ahuja, M.R., and F. Anders, A genetic concept of the origin of cancer, based in part upon studies of neoplasms in fishes, Progr. Exp. Tumor Res., 20 (1976) 380397.   \n3 Athanasiou, K., and S.A. Kyrtopoulos, Induction of sister chromatid exchanges by non-mutagenic carcinogens, in: E. Seeberg (Ed.), Chromosome Damage and Repair, Plenum, New York, in press. Bissell, M.J., C. Hatie and M.Calvin, Is the product of the r gene a promoter? Proc. Natl. Acad.Sci. (U.S.A.), 76 (1979) 348352.   \n5 Cairns, J., The origin of human cancers, Nature (London), 289 (1981) 353357.   \n6 Calos, M.P., and J.H. Miller, Transposable elements, Cell, 20 (1980) 579595.   \n7 Chaganti, R.S.K., S. Schonberg and J. German, A manyfold increase in sister chromatid exchanges in Bloom's syndrome lymphocytes, Proc. Natl. Acad. Sci. (U.S.A.), 71 (1974) 4508-4512.   \n8 Cohen, M.M., M. Shaham, J. Dagan, E. Shmueli and G. Kohn, Cytogenetic investigations in families with ataxia telangiectasia, Cytogenet. Cell Genet., 15 (1975) 338356.   \n9 Cooper, G.M., S. Okenquist and L. Silverman, Transforming activity of DNA of chemically transformed and normal cells, Nature (London), 284 (1980) 418421.   \n10 Cowell, J.K., and C.B. Wigley, Changes in DNA content during in vitro transformation of mouse salivary gland epithelium, J. Natl. Cancer Inst., 64 (1980) 14431448   \n11 Davis, M.M., S.K. Kim and L. Hood, Immunoglobulin class switching; Developmentally regulated DNA rearrangements during differentiation, Cell, 22 (1980) 1-2.   \n12De Boer, P., P.P.W. Van Buul, R. Van Beek, F.A. Van Der Hoeven and A.T. Natarajan, Chromosomal radiosensitivity and karyotype in mice using cultured peripheral blood lymphocytes, and comparison with this system in man, Mutation Res., 42 (1977) 379394.   \n1De Serres, F., and J. Ashby (Eds.), Short-term tests for carcinogenesis; Report of the International Collaborative Program, Elsevier/North-Holland, New York, 1981.   \n14 Druckrey, H., Quantitative aspects in chemical carcinogenesis, in: Potential Carcinogenic Hazards from Drugs, UICC Monograph Series, vol. 7, Springer, Berlin, 1967, pp. 6087.   \n15 Duesberg, P.H., Transforming genes of retroviruses, Cold Spring Harbor Symp. Quant. Biol., 44 (1979) 1329.   \n16 Fabre, F., and H. Roman, Genetic evidence for inducibility of recombination competence in yeast, Proc. Natl. Acad. Sci. (U.S.A.), 74 (1977) 1667-1671.   \n17 Greer, H., and G. Fink, Unstable transpositions of his4 in yeast, Proc. Natl. Acad. Sci. (U.S.A.), 76 (1979) 40064010.   \n18 Haber, J.E., D.T. Rogers and J.H. McCusker, Homothallic conversions of yeast mating-type genes occur by intrachromosomal recombination, Cell, 22 (1980) 277289.   \n19 Hashem, N., and S. Khalifa, Retinoblastoma: A model of hereditary fragile chromosomal regions, Hum. Heredit., 25 (1975) 3549.   \n2Hicks, J., J.N. Strathern and A.J.S. Klar, Transposable mating type genes in Saccharomyces cerevisiae, Nature (London), 282 (1979) 478483.   \n21 Holliday, R., Further evidence for an inducible recombination repair system in Ustilago maydis, Mutation Res., 29 (1975) 149153.   \n22 Holliday, R., A new theory of carcinogenesis, Br. J. Cancer, 40 (1979) 513522.   \n23 Hollstein, M., J. McCann, F.A. Angelosanto and W.W. Nichols, Short-term tests for carcinogens and mutagens, Mutation Res., 65 (1979) 133226.   \n4 Ishidate, M. Jr., and S. Odashima, Chromosome tests with 134 compounds on Chinese hamster cells in vitro; A screening for chemical carcinogens, Mutation Res., 48 (1977) 337354.   \n25 Kakunaga, T., The transformation of human diploid cell by chemical carcinogens, in: H.H. Hiatt, J.D. Watson and J.A. Winsten (Eds.), Origins of Human Cancer, Cold Spring Harbor Lab., New York, 1977, pp. 15371548.   \n26 Kinsella, A.R., and M. Radman, Tumor promoter induces sister chromatid exchanges; Relevance to mechanisms of carcinogenesis, Proc. Natl. Acad. Sci. (U.S.A.), 75 (1978) 61496153.   \n2/ Kinsella, A.K., and M. Kadman, Inhibition of carcinogen-induced chromosomal aberrations by an anticarcinogenic protease inhibitor, Proc. Natl. Acad. Sci. (U.S.A.), 77 (1980) 35443547.   \n28 Klar, A.J.S., J. McIndoo, J.N. Strathern and J.B. Hicks, Evidence for a physical interaction between the non he usi qu drmat ye nosiyease (1980) 291298.   \n29 Knudson, A.G. Jr., A.T. Meadows, W.W. Nichols and R. Hil, Chromosomal deletion and retinoblastoma, New Engl. J. Med., 295 (1976) 11201123.   \n30 Larizza, L., G. Simoni, F. Tredici and L. De Carli, Griseofulvin; A potential agent of chromosomal segregation in cultured cells, Mutation Res., 25 (1974) 123130.   \n31 Levan, A., G. Levan and F. Mitelman, Chromosomes and cancer, Hereditas, 86 (1977) 1530.   \n32 Long and Short Term Screening Assays for Carcinogens: A Critical Appraisal, IARC Monographs, Suppl. 2, IARC, Lyon, 1980.   \nark JLev nd Mitelan Ientcat ecc   croe si human meningomas, Hereditas, 71 (1972) 163168.   \n34 McCann, J., E. Choi, E. Yamasaki and B.N. Ames, Detection of carcinogens as mutagens in the Salmonella/microsome test; Assay of 300 chemicals, Proc. Natl. Acad. Sci. (U.S.A.). 72 (1975) 51355139.   \n35McClintock, B., The origin and behavior of mutable loci in maize, Proc. Natl. Acad. Sci. (U.S.A.), 36 (1950) 344355.   \n36 Meselson, M., and K. Russell, Comparison of carcinogenic and mutagenic potency, in: H.H. Hiatt, J.D. Watson and J.A. Winsten (Eds.), Origins of Human Cancer, Cold Spring Harbor Laboratory, New York, 1977, pp. 14731481.   \n37 Meyer Kuhn, E., Mitotic chiasmata and other quadriradials in mitomycin C-treated Bloom's syndrome lymphocytes, Chromosoma, 66 (1978) 287297.   \n38 Mitelman, F., and G. Levan, Clustering of aberrations to specific chromosomes in human neoplasms, III. Incidence and geographic distribution of chromosome aberrations in 856 cases, Hereditas, 89 (1978) 207232.   \n39 Peterson, P.A., The plae green mutable system in maize, Genetics, 45 (1960) 115126.   \n40 Peto, R., F.J.C. Roe, P.N. Lee, L. Levy and J. Clack, Cancer and ageing in mice and men, Br. J. Cancer, 32 (1975) 411.   \n41 Peto, R., Epidemiology, multistage models, and short-term mutagenicity tests, in: H.H. Hiatt, J.D. Watson and J.A. Winsten (Eds.), Origins of Human Cancer, Cold Spring Harbor Laboratory, New York, 1977, pp. 14031428.   \n42 Radding, C.M., Genetic recombination; Strand transfer and mismatch repair, Annu. Rev. Biochem., 47 (1978) 847880.   \n43 Razin, A., and A.D. Riggs, DNA methylation and gene function, Science, 210 (1980) 604610.   \n44 Rinkus, S.J., and M.S. Legator, Chemical characterization of 465 known or suspected carcinogens and their correlation with mutagenic activity in the Salmonella typhimurium system, Cancer Res., 39 (1979) 32893318.   \n45Saxholm, H.J., and V. Digernes, Progressive loss of DNA and lowering of the chromosomal mode in chemically transformed C3H/10T1/2 cells during development of their oncogenic potential, Cancer Res., 40 (1980) 42544260.   \n4 Shih, C., B.-Z. Shilo, M.P. Goldfarb, A. Dannenberg and R.A. Weinberg, Passage of phenotypes of chemically transformed cells via transfection of DNA and chromatin, Proc. Natl. Acad. Sci. (U.S.A.), 76 (1979) 57145718.   \n47 Schroeder, T.M., and R. Kurth, Spontaneous chromosomal breakage and high incidence of leukemia in inherited disease, Blood, 37 (1971) 96112.   \n48 Schroeder, T.M., and J. German, Bloom's syndrome and Fanconi's anemia: Demonstration of two distinctive patterns of chromosome disruption and rearrangement, Humangenetik, 25 (1974) 299306.   \n49Silverman, M., J. Zieg, M. Hilmen and M. Simon, Phase variation in Salmonella; Genetic analysis of a recombination switch, Proc. Natl. Acad. Sci. (U.S.A.), 76 (1979) 391395.   \n50Spriggs, A.I, Cytogenetics of cancer and precancerous states of the cervix uteri, in: J. German (Ed.), Chromosomes and Cancer Wilev. New York. 1974. pD. 423450.   \n51 Thompson, J.N., and R.C. Woodruff Mutator genes, pacemakers of evolution, Nature (London), 274 (1978) 317321.   \n52 Van de Putte, P., S. Cramer and M. Giphart-Gassler, Invertible DNA determines host specificity of bacteriophage Mu, Nature (London), 286 (1980) 218222.   \n3 Vogel, F., and T.M. Schroeder, The internal order of the interphase nucleus, Humangenetik, 25 (1974) 265297.   \n54 Weinstein, I.B., Cell culture systems for studying multifactor interactions in carcinogenesis, in: B. Holmstedt, R. Lauwerys, M. Mercier and M. Roberfroid (Eds.), Mechanisms of Toxicity and Hazard Evaluation, Elsevier/North-Holland, Amsterdam, 1980, pp. 149164.   \n55 Wolff, S., Relation between DNA repair, chromosome aberrations, and sister chromatid exchanges, in: P.D. Hanawalt, E.C. Friedberg and C.F. Fox (Eds.), DNA Repair Mechanisms, Academic Press, New York, 1978, pp. 751760.   \n56 Zech, L., U. Haglund, K. Nilsson and G. Klein, Characteristic chromosomal abnormalities in biopsies and lymphoid-cellines from patients with Burkitt and non-Burkitt lymphomas, Int. J. Cancer, 17 (1976) 4756.   \n57 Zimmermann, F.K., Induction of mitotic gene conversion by mutagens, Mutation Res., 11 (1971) 327337. ",
+        "bbox": [
+            111,
+            130,
+            886,
+            859
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            108,
+            100,
+            880,
+            858
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            106,
+            87,
+            888,
+            337
+        ],
+        "page_idx": 15
+    }
+]

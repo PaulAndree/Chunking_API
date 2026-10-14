@@ -1,0 +1,485 @@
+[
+    {
+        "type": "text",
+        "text": "findings may be useful in developing a theory of diversity which, like the diversity problem itself, is trans-scalar in nature (Fig. 1). ",
+        "bbox": [
+            648,
+            62,
+            911,
+            102
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In practice, although Enquist and colleagues’ scaling relationships are detectable within trees and in smaller plant units, even down to the cell 2 , the significance of energetics in regulating diversity at the local scale (for example, 0.1 hectare) is often undetectable, being obscured by other variables whose measurable heterogeneity occurs at local to landscape scales. The significance of variation in usable energy becomes evident, however, at the macro-scale, at which O’Brien’s Interim General Model6 describes the CPR as a linear function of liquid water and a parabolic function of energy. Liquid water is also fundamental, not just as a vital ingredient in the process of photosynthesis, but also to the development of allometric models, as energy and nutrients are moved into and through plants in solution3 . ",
+        "bbox": [
+            648,
+            103,
+            913,
+            358
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/84fd72b9a97e6cac851364a2d77114862be8bd361b2acadfb01f72679adde755.jpg",
+        "image_caption": [
+            "Figure 1 Macroecological insights into plant diversity. Differential range overlap produces geographical pattern (for example, latitudinal gradients) in diversity, wherein the species capable of persisting through time in a region are those able to optimize energy use1 . Climate determines the capacity for richness, consistent with richness at the macroscale being monotonically related to increasing usable energy (that is, productivity) and parabolically related to climatic energy6 . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            83,
+            65,
+            620,
+            462
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "So these scaling laws seem to provide a basis for the development of ecological theories that are trans-scalar in geographical space, something with which traditional branches of ecology have struggled. In separating the wood from the trees — at least in terms of correcting for density variations — Enquist et al. have shown the vitality of the emerging field of macroecology2,7,8. ■ shade-tolerant species, insect- and animalpollinated species, species adapted to differing soil conditions and so forth. In tropical forests, these and other traits occur in many different combinations, such that reduction of variation onto a single successional axis — pioneer to ‘climax’ — has proven impractical4 . Similarly, no satisfactory general theory to explain variation in diversity has emerged from the study of these traits and related processes. ",
+        "bbox": [
+            648,
+            359,
+            911,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            546,
+            344,
+            693
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enquist et al.1 have shown, however, that when variation in wood density (itself an important trait reflecting differences in the allocation of metabolic energy) is taken into account, the data fit the theoretical power relation demanded by their model remarkably well. What this means is that usable energy is being deployed in a variety of growth-form, life-history and wood-density strategies that each amount to varying ways of attaining the same optimal use of energy. In other words, there is energy equivalence across species (see also ref. 5). ",
+        "bbox": [
+            81,
+            694,
+            346,
+            867
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Within this seeming evolutionary constraint, there are interspecific differences in energy allocation over the lifespan. These take the form of differing rates of volume increment, differing lifespan and varying reproductive strategies, which together underpin the diversity of these tropical forests. The key point in relation to diversity is that, in the large block of forest studied, there is clear evidence that energetics are crucial to the persistence of the diversity of species present, otherwise their growth in biomass would not exhibit such a consistent scaling relationship. Hence systems with more usable energy should allow for a greater subdivision of energy into more distinct plant niches. This ties in with another fundamental relationship, recently reported by E. M. O’Brien in the Journal of Biogeogra$p \\dot { h } y ^ { \\mathrm { 6 } }$ — a capacity rule describing the climatic potential for richness (CPR). Both sets of ",
+        "bbox": [
+            81,
+            869,
+            344,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            362,
+            546,
+            629,
+            719
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robert J. Whittaker is in the School of Geography, University of Oxford, Mansfield Road, Oxford OX1 3TB, UK. e-mail: Robert.Whittaker@geog.ox.ac.uk ",
+        "bbox": [
+            648,
+            479,
+            898,
+            533
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Enquist, B. J., West, G. B., Charnov, E. L. & Brown, J. H. Nature 401, 907–911 (1999).   \n2. Brown, J. H. & West, G. B. (eds) Scaling in Biology (Oxford Univ. Press, 1999).   \n3. West, G. B. et al. Nature 400, 664–667 (1999).   \n4. Brown, N. D. & Jennings, S. in Dynamics of Tropical Communities (eds Newbery, D. M., Prins, H. T. & Brown, N. D.) 79–94 (Blackwell Science, Oxford, 1998).   \n5. Damuth, J. D. Nature 395, 115–116 (1998).   \n6. O’Brien, E. M. J. Biogeogr. 25, 379–398 (1998).   \n7. Brown, J. H. Macroecology (Univ. Chicago Press, 1995).   \n8. Maurer, B. A. Untangling Ecological Complexity: The Macroscopic Perspective. (Univ. Chicago Press, 1999).   \n9. O’Brien, E. M. J. Biogeogr. 20, 181–198 (1993).   \n10. Stevens, G. C. & Enquist, B. J. in Ecology and Biogeography of Pinu (ed. D. M. Richardson) 183–190 (Cambridge Univ. Press, 1998).   \n11. Enquist, B. J. et al. Evol. Ecol. 9, 586–604 (1995). ",
+        "bbox": [
+            647,
+            535,
+            905,
+            719
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mutation ",
+        "text_level": 1,
+        "bbox": [
+            364,
+            748,
+            416,
+            759
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enzymes of evolutionary change ",
+        "text_level": 1,
+        "bbox": [
+            366,
+            767,
+            869,
+            797
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman ",
+        "bbox": [
+            364,
+            800,
+            496,
+            814
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "he future is unpredictable. Survival therefore depends on the generation of a large repertoire of biological diversity —   \nthe evolutionary equivalent of buying a large   \nnumber of lottery tickets. Natural selection   \ncan be compared with drawing the lottery, in   \nthat a strong selection event reduces diversity   \nbecause it allows only a small fraction of the   \noriginal population to survive (the winners). ",
+        "bbox": [
+            362,
+            841,
+            629,
+            962
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diversity then needs to be restored to allow future selections to be faced. In other words, genetic diversification needs to be a continuous process, and reports in Proceedings of the National Academy of Sciences 1 , Molecular $C e l l ^ { 2 }$ and the Journal of Biological Chemistry3 show how this might be done. ",
+        "bbox": [
+            647,
+            841,
+            911,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genetic diversity is generated by mutagenesis, which causes changes in the DNA sequence. A classic example of the generation of genetic diversity is the interaction between infectious agents and the immune system. Viruses and bacteria mutate extensively in an attempt to generate rare variants that can escape the host’s immune system. In turn, the immune system mutates to try to create antibodies that recognize these new variants. Similarly, presumptive tumour cells must accumulate mutations in several genes in order to evade the systems that monitor and block unrestrained cell growth. Clearly, these and similar adaptive processes are limited by the supply of mutations (Fig. 1). ",
+        "bbox": [
+            647,
+            936,
+            911,
+            961
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            83,
+            62,
+            349,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most newly arising mutations either have no apparent effect or they are harmful. So mutagenesis has traditionally been viewed as an unavoidable consequence of imperfections in the processes of DNA replication and repair. But if diversity is essential to survival, and if mutagenesis is required to generate such diversity, perhaps mutagenesis has been positively selected for throughout evolution. The pioneering work of Nelson and colleagues4,5, along with the new papers 1–3, supports this idea with the identification of several enzymes designed to generate mutations. ",
+        "bbox": [
+            83,
+            264,
+            348,
+            438
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These enzymes — let’s call them DNA mutases — all belong to a special group of DNA-synthesizing enzymes, the DNA polymerases. Unlike the replicative DNA polymerases, which faithfully copy DNA sequences, mutases produce errors at high rates. I predicted the existence of such mutases more than a quarter of a century $\\mathrm { { a g o } ^ { 6 } }$ , as a key element of the SOS system. This inducible, genetically programmed process allows individual cells to mutate when their survival is threatened, thereby increasing the genetic diversity and adaptability (fitness) of the endangered population6 . But Evelyn M. Witkin was first to imagine that messy polymerases could be mutagenic7 . ",
+        "bbox": [
+            83,
+            439,
+            349,
+            652
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There seem to be several varieties of DNA mutase, including the Escherichia coli UmuCD8 (DNA polymerase V) 1,3 and DinB (DNA polymerase IV) 2 proteins, and the yeast REV1 (ref. 4), REV3/7 (DNA polymerase $\\zeta ) ^ { 5 }$ and RAD30 (DNA polymerase $\\eta ) ^ { \\nu }$ . Bacterial DNA polymerase V (and the eukaryotic DNA polymerases $\\zeta$ and $\\boldsymbol { \\eta }$ ) can copy damaged DNA, allowing it to be replicated and the cell to survive. But DNA polymerase IV presumably acts on undamaged DNA, producing apparently ‘gratuitous’ mutations (Fig. 2). Both enzymes are inducible components of the SOS system. ",
+        "bbox": [
+            83,
+            654,
+            349,
+            841
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All of these mutases are part of stressinducible processes which allow them to function only when high mutation rates are advantageous6 . This minimizes their genetic cost relative to ‘constitutive’ mutators — that is, mutants with defects in DNA repair or biosynthesis, or in error-correction by mismatch repair9 . A hypothetical mechanism for limiting the mutagenic activity of DNA polymerase V to damaged sites in DNA is shown in Fig. 2. ",
+        "bbox": [
+            83,
+            842,
+            349,
+            962
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            367,
+            62,
+            632,
+            89
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This mechanism involves the formation of a nucleoprotein filament between singlestranded DNA and the recombination protein $\\mathrm { R e c A } ^ { * }$ . The work of Tang et al. 1 and Bacher Reuven et al. 3 indicates that such a nucleoprotein filament may be a poor substrate for elongation by the real chromosomal replicase — the DNA polymerase III holoenzyme. Moreover, the ${ \\mathrm { R e c A } } ^ { * }$ filament seems to be the sole substrate for the DNA polymerase V mutase; only in the presence of RecA\\* can this polymerase copy a damaged DNA template 1,3. But once the gap has been filled in, the RecA\\* filament vanishes and the new DNA chain is again elongated by DNA polymerase III. ",
+        "bbox": [
+            367,
+            90,
+            632,
+            303
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The role of DNA polymerase IV (DinB) in mutagenesis is less clear. The only known effect of dinB mutants is a reduction in viral mutagenesis, normally observed when a virus infects a bacterial host in which the SOS response has been induced (‘untargeted mutagenesis’)10. Because untargeted mutations appear initially as genuine mispaired or unpaired bases2,11, DNA polymerase IV is the leading candidate for a genuine, genomewide mutase acting under a variety of meta",
+        "bbox": [
+            367,
+            305,
+            630,
+            451
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1bd3f25bc7786b9389159b97aed50f5edc656c706f0e955c4f1747ce79153a2.jpg",
+        "image_caption": [
+            "Figure 1 Mutation rates and genetic adaptability (fitness). Although the optimal mutation rate for a perfectly adapted clonal population is close to zero, with no mutations the population could not adapt to environmental changes. Conversely, a high mutation rate is optimal for a population under strong selective pressure, but too many mutations would cause a genetic breakdown. In a bacterial population, the global mutation rate can be influenced by the variable fraction of genetic mutators, which are individually in the red zone13. The newly identified mutases1–5, present in all cells, produce mutations only when a genetic or metabolic stress triggers their induction and activation. The rare, specific mutations that they create, which save the organism in times of stress, are adaptive mutations. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            369,
+            471,
+            622,
+            730
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "bolic stresses9,12,13. ",
+        "bbox": [
+            650,
+            61,
+            758,
+            75
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A common characteristic of both E. coli mutases is that they are inefficient DNA polymerases both in vitro1–3 and in vivo (where they require the help of other polymerases)14,15. The precision of the replicative DNA polymerases results largely from their inability to extend mismatched DNA ends — once they have made a mistake they abandon the DNA. These mismatched ends then become substrates for a polymerase-associated ‘proofreading’ activity, which removes the misincorporated nucleotide and allows the polymerase to continue extending the DNA. But in times of stress, or at sites of DNA damage, these termini may be extended by the DNA mutases. The mutases fix the mutation and recreate a good substrate for the replicative polymerase2,14. In other words, mutases may cause mutations not by incorporating the wrong bases, but by rescuing molecules that already contain these misincorporated bases. ",
+        "bbox": [
+            650,
+            76,
+            915,
+            369
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inducible transient mutator activity goes a long way towards reducing the genetic cost ",
+        "bbox": [
+            650,
+            372,
+            915,
+            398
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a85719d126bc3c1ff0a1c2c4801fb7be65d9cf36ae6743622fe41c661666c016.jpg",
+        "image_caption": [
+            "Figure 2 Possible mechanisms for controlling mutase activity in Escherichia coli. Persisting single-stranded DNA (here caused by damage in the DNA template) is rapidly covered by RecA (green), which searches for similar sequences to patch up the gap by recombination. When this cannot occur, the RecA filament changes and becomes a co-protease $( \\mathrm { R e c A } ^ { * }$ ; red), which activates the SOS system and induces the expression of over 20 life-saving genes. These include umuC and umuD (which encode the DNA polymerase V mutase) and dinB (which encodes the DNA polymerase IV mutase). The activated DNA polymerase V complex $\\mathbf { ( U m u C D _ { 2 } ^ { \\prime } ) }$ ) can copy non-coding damage in the template only in the presence of RecA\\*, producing mutations (M) that are ‘targeted’ to the damaged region. But, once induced, DNA polymerase IV does not require $\\mathbf { R e c A } ^ { * 1 0 }$ , so it can act on apparently intact DNA to produce ‘untargeted’ mutations (m). This scheme is supported by the observed correction of untargeted (but not of targeted) mutations by the mismatch-repair system11. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            650,
+            414,
+            913,
+            634
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quantum mechanics ",
+        "bbox": [
+            367,
+            62,
+            488,
+            74
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Putting an electron to rest ",
+        "text_level": 1,
+        "bbox": [
+            367,
+            83,
+            776,
+            112
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "P. Meystre ",
+        "text_level": 1,
+        "bbox": [
+            367,
+            115,
+            446,
+            129
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of a dangerous process like mutagenesis. But this cost could be further reduced if mutases could be targeted to genes under selective pressure — a bit of Lamarckism in the midst of Darwinian evolution. An example of such targeting might be the ‘contingency genes’ in some parasitic bacteria and protozoa. These genes encode surface antigens that are recognized by a host’s immune system. Some of these antigens contain simple, repeated sequences (microsatellites), which are preferential sites for polymerase ‘slippage’ mistakes. In this way, the contingency genes have a higher mutation rate than surrounding sequences16 and can keep one step ahead of the immune system. DNA polymerase IV mainly produces such slippage mutations2 . ",
+        "bbox": [
+            83,
+            62,
+            349,
+            290
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The evolutionary advantage of inducible mutases in microorganisms seems clear. But the genomes of complex eukaryotes — including humans — also contain sequences that resemble the DNA polymerase IV and DNA polymerase V mutases17. If such genes are active and cause mutagenesis, the somatic (non-reproductive) cells of, say, mice knocked out for such genes will be more sensitive than normal cells to the killing effects of radiation and chemical carcinogens because they will lack the mutagenic polymerases to replicate past DNA damage. But these cells will be resistant to the mutagenic and carcinogenic effects of DNA damage, because they will die rather than mutate. If this is the case, maybe people exposed to DNA-damaging radiation and chemicals (by, for example, cancer therapies, accidents and wars) could one day be protected by inhibiting mutase activity. Alternatively, if some mammalian mutases act in a targeted fashion only, or mainly, on immunoglobulin genes, they could be the long-sought key to generating the immense diversity of antibodies. ■ ",
+        "bbox": [
+            83,
+            292,
+            349,
+            625
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman is at the Faculté de Médecine Necker-Enfants Malades, Université R. Descartes, 156 rue de Vaugirard, 75730 Paris Cedex 15, France. ",
+        "bbox": [
+            84,
+            627,
+            333,
+            679
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "e-mail: radman@necker.fr ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            681,
+            218,
+            693
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "he first cyclotron — developed by E. O. T Lawrence at Berkeley in the 1930s — was designed to accelerate charged particles as they orbit with a circular motion in a magnetic field. Large cyclotrons built according to Lawrence’s design became the first useful particle accelerators. Less familiar is the use of small, single-electron cyclotron accelerators for high-precision measurements of certain fundamental constants of nature. For example, measurements of the electron magnetic moment and the fine structure constant have provided some of the most accurate tests of quantum electrodynamics (QED) — the modern theory of how electrons and photons interact. In an experiment reported in Physical Review Letters1 , S. Peil and G. Gabrielse of Harvard University study the fundamental quantum limit of the cyclotron motion of a single electron successfully isolated from its surroundings. The ability to control this cyclotron motion offers increased accuracy in measuring the electron magnetic moment. ",
+        "bbox": [
+            367,
+            156,
+            632,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Uhlenbeck and Goudsmit first proposed in 1925 that the electron has an intrinsic angular momentum, or spin, with an associated magnetic moment. In Dirac’s relativistic theory of the electron, this magnetic moment is given by $g \\mu _ { B } s ,$ where $s$ is the electron spin with possible values of $\\pm 1 / 2$ and $g$ is the so-called gyromagnetic ratio precisely equal to two. Here $\\mu _ { B } = e \\hbar / 2 m$ is the Bohr magneton, with $\\hbar$ being the rationalized Planck’s constant, $m$ the electron mass and $e$ the fundamental charge. But Dirac’s theory ignored the fact that a moving electron emits an electromagnetic field that feeds back on its motion. QED predicts that as a result of this back-action $g$ is actually slightly larger than two. Accurate calculations and measurements of $g { - 2 }$ provide an extremely stringent test of QED, resulting in it being the best-tested theory in physics. ",
+        "bbox": [
+            367,
+            479,
+            632,
+            625
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            650,
+            157,
+            915,
+            277
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Precision measurements using trapped electrons have a long history2 , leading to more and more accurate results for $g { - 2 }$ . But a few years ago, experimental progress was interrupted by the recognition that the electromagnetic vacuum surrounding the trapped electron was substantially different from its value in free space, for which $g$ was computed. This resulted in uncontrolled cavity shifts that could not be accounted for by theory. To avoid this problem, Gabrielse and colleagues developed a new type of electron cavity, a cylindrical Penning trap, which is an almost ideal cylindrical resonator with wellunderstood electromagnetic modes3 . In particular, these traps significantly reduce energy lost from the electron by spontaneous emission of radiation4,5. The trap used by Peil and Gabrielse1 reduces spontaneous emission by a factor of 140. This feat, together with the cooling of the cyclotron to eliminate excitation by background photons, promises a new generation of precise measurements of $g - 2$ . ",
+        "bbox": [
+            650,
+            278,
+            915,
+            585
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the cylindrical Penning trap the cyclotron motion of the electron is, to an excellent degree of approximation, harmon",
+        "bbox": [
+            650,
+            586,
+            915,
+            626
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7e613bcce499169de3a0268703b0d731602d77a8d020103138d3141b92d1eb9d.jpg",
+        "image_caption": [
+            "Figure 1 Time record of the quantum jumps between the lowest-energy quantized states of motion of a trapped electron observed by Peil and Gabrielse1 . As the temperature of the Penning trap is increased, so is the frequency of jumps. Whereas at low temperatures only jumps between the Fock states $| 0 \\rangle$ and $| 1 \\rangle$ are observed, jumps to higher-energy states become apparent at higher temperatures. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            367,
+            645,
+            906,
+            904
+        ],
+        "page_idx": 2
+    }
+]

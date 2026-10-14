@@ -1,0 +1,904 @@
+[
+    {
+        "type": "text",
+        "text": "Libertad de la ciudad ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            460,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La «Libertad de la ciudad» (o del Municipio en algunas partes del Reino Unido) es un honor otorgado por una municipalidad a un miembro valioso de la comunidad, o a una celebridad o dignatario visitante. Esta práctica tiene sus raíces en la tradición medieval de conceder a ciudadanos respetados la libertad de la servidumbre, y aún persiste en países como Estados Unidos, Reino Unido, Irlanda, Australia, Canadá, Sudáfrica y Nueva Zelanda, aunque hoy en día el título de «ciudadano libre» no confiere privilegios especiales. La Libertad de la Ciudad también puede ser concedida por las autoridades municipales a unidades militares que se han ganado la confianza de la ciudad; en este contexto, a veces se denomina «Libertad de Entrada». Esto les permite desfilar por la ciudad y representa una afirmación del vínculo entre el regimiento y la ciudadanía. ",
+        "bbox": [
+            70,
+            138,
+            578,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El honor solía ir acompañado de una «caja de libertad», una pequeña caja de oro inscrita para conmemorar la ocasión; hoy en día, esto no es habitual. En algunos países, como Estados Unidos, los residentes y visitantes distinguidos pueden recibir la Llave de la Ciudad, un honor simbólico similar. Otras ciudades estadounidenses otorgan la ciudadanía honoraria, que suele estar acompañada de un certificado. ",
+        "bbox": [
+            70,
+            439,
+            578,
+            570
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/dfe61369c669bbcc97078dbc334d37fdd03c1fa916ba482126e28fc82124d557.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            147,
+            924,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Condecoración a Sir Robert Hadfield por la Ciudad de Sheffield, 1939 (Sala Hadfield, Universidad de Sheffield). ",
+        "bbox": [
+            608,
+            554,
+            915,
+            604
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Privilegio militar ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            605,
+            292,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La libertad de la ciudad es un antiguo honor concedido a las organizaciones marciales, que les permite el privilegio de marchar hacia la ciudad «con los tambores sonando, los colores ondeando y las bayonetas caladas». 1 ",
+        "bbox": [
+            70,
+            647,
+            576,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Este honor se remonta a la antigua Roma, que consideraba sagrado el «pomerium», el límite de la ciudad. Promagistrados y generales tenían prohibido entrar en él, y renunciaban a su imperium inmediatamente después de cruzarlo. Se hacía una excepción para las celebraciones de victoria (llamadas triunfos), durante las cuales se permitía entrar al general victorioso durante un solo día. Bajo la República, los soldados también perdían su estatus al entrar, convirtiéndose en ciudadanos: así, los soldados que asistían al triunfo de su general vestían de paisano. Las armas también estaban prohibidas dentro del pomerium por razones religiosas y tradicionales. (El asesinato de Julio César ocurrió fuera de este límite). ",
+        "bbox": [
+            70,
+            739,
+            576,
+            888
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/9c42779adc7874d97a493ea7abfee10d10f4a0747572447d884be8ac30f5dd2c.jpg",
+        "image_caption": [
+            "Caja de oro de la Libertad de la Ciudad de Nueva York presentada al Comodoro Daniel Patterson, hecha por Jonathan Wilmarth, John L. Moffat y Joseph Curtis, 1832. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            638,
+            922,
+            792
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            463,
+            155
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Leyes similares fueron aprobadas por otras ciudades europeas a lo largo de la época medieval, para proteger la seguridad pública y los derechos cívicos, incluso contra las tropas de su propio rey. Como consecuencia, los soldados se veían obligados a acampar fuera de las murallas de la ciudad durante los meses de invierno. La libertad de la ciudad era un honor que sólo se concedía a las tropas que se habían ganado la confianza de la población local, ya fuera por alguna acción valerosa o simplemente por ser una presencia familiar. 1 ",
+        "bbox": [
+            70,
+            172,
+            463,
+            399
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hoy en día, la libertad marcial de la ciudad es un honor totalmente ceremonial, que suele concederse a una unidad con lazos históricos con la zona, como muestra de agradecimiento por su largo y dedicado servicio. La concesión de la Libertad suele ir acompañada de un desfile de celebración por la ciudad. ",
+        "bbox": [
+            70,
+            414,
+            463,
+            546
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/da43a8344f18573ef095cf119500957bd916735ec2f686e697d3cde54d3ec197.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            529,
+            55,
+            919,
+            445
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "«Fernando recibe las llaves de la ciudad de manos de la Virgen de Gante», grabado según una pintura realizada por Antoon van den Heuvel para la entrada gozosa del Cardenal-Infante Fernando en Gante en 1635. ",
+        "bbox": [
+            494,
+            452,
+            921,
+            517
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Derecho a los privilegios civiles ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            581,
+            473,
+            605
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b596ab30167b00919150c0dcd65c89537ed7e751f56942ca5d8e47d907f342fe.jpg",
+        "image_caption": [
+            "Miembros del Escuadrón $\\mathsf { n } ^ { \\mathsf { o } } \\mathsf { \\ 2 8 }$ de la RAAF marchando por el centro de Canberra durante el desfile de la unidad por la Libertad de la Ciudad en agosto de 2013. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            630,
+            393,
+            799
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Una libertad de la ciudad algo más común está relacionada con el concepto medieval de «estado libre», cuando los estatutos de las ciudades y pueblos establecían una distinción entre los hombres libres y los vasallos de un señor feudal. Como tales, los ciudadanos libres son anteriores a los municipios modernos. Las primeras ceremonias de libertad de los burgos tenían gran importancia para afirmar que el beneficiario gozaba de privilegios como el derecho a comerciar y poseer propiedades, y protección dentro de la ciudad. ",
+        "bbox": [
+            423,
+            622,
+            931,
+            809
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la sociedad moderna, la concesión de la libertad honoraria de la ciudad o municipio tiende a ser totalmente ceremonial, otorgada por el gobierno local en muchos pueblos y ciudades a aquellos que han servido en alguna capacidad excepcional, o a cualquiera a quien la ciudad desee conceder un honor. ",
+        "bbox": [
+            423,
+            826,
+            931,
+            920
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reino Unido ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            211,
+            62
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ad5378e329ed64ee105d807894cbc45bee19b119acc0af0470dacb70d4e4241d.jpg",
+        "image_caption": [
+            "Un galardonado con la Libertad de la Ciudad de Londres, Nigel Cumberland, tras su ceremonia "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            78,
+            393,
+            239
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Antes de la reforma parlamentaria de 1832, la libertad de la ciudad o pueblo confería el derecho a votar en los boroughs parlamentarios a los diputados. Hasta la Ley de Corporaciones Municipales de 1835, los freemen eran el electorado exclusivo de algunos de los boroughs. Estas dos leyes limitan el poder de los freemen y amplían el derecho de sufragio a todos los «propietarios» (definidos como contribuyentes locales, es decir, propietarios de bienes inmuebles). La propiedad privada perteneciente al conjunto de los freemen se mantiene. Los freemen de York, Oxford y Newcastle upon Tyne siguen siendo propietarios de zonas considerables dentro de sus ciudades, aunque los ingresos se destinan a fines benéficos. La Ley de Gobierno Local de 1972 preservó específicamente los derechos de los freemen. La Ley de Democracia Local, Desarrollo Económico y Construcción de 2009 eliminó cualquier restricción que permitiera ser freemen únicamente a los hombres. ",
+        "bbox": [
+            423,
+            71,
+            931,
+            334
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            337,
+            931,
+            374
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En la actualidad, la concesión de la libertad honoraria en el Reino Unido se rige por la Ley de Administración Local de 1972 (modificada por la Ley de Democracia Local, Desarrollo Económico y Construcción de 2009). La Ley de 1972 permitía a los ayuntamientos de las ciudades, de los royal boroughs, de los boroughs y de las parroquias (o, en Gales, de las comunidades) con estatuto de royal town conceder la condición de libre honorario a «personas distinguidas y a personas que, en opinión del ayuntamiento, hayan prestado servicios eminentes» a la localidad. La Ley de 2009 amplía la capacidad de conceder la condición de miembro honorario a cualquier consejo de condado, ciudad, distrito, municipio, pueblo, parroquia o comunidad (eliminando así el requisito de que la ciudad tenga estatus «real», y permitiendo también a los consejos de condado conceder el honor). Una reunión especial del consejo puede conceder el honor mediante la aprobación de una resolución con una mayoría de dos tercios. ",
+        "bbox": [
+            70,
+            389,
+            932,
+            578
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Los requisitos exactos para acceder a la libertad de burgo difieren de una ciudad a otra, pero en general se dividen en dos categorías: «patrimonio» (herencia) y «servidumbre» (aprendizaje). Por ejemplo, en Chester, sólo pueden solicitar la admisión los hijos o nietos de hombres libres. En York, esto se extiende a los bisnietos y tataranietos, y el aprendizaje de un hombre libre de la ciudad también permite la admisión. En Great Grimsby, la viuda de un hombre libre transmite sus derechos a su segundo marido, que conserva el privilegio tras el divorcio o la muerte de la viuda. La libertad borough es más fuerte en York, Chester, Newcastle upon Tyne y Coventry; en Coventry, la libertad se cualifica por haber servido como aprendiz. Durham y Northampton han ampliado sus criterios de admisión a quienes hayan servido como aprendices sin haber sido «vinculados» (formados) directamente por un freeman. Los libertos de Newcastle upon Tyne tienen derecho a apacentar el ganado en el páramo de la ciudad. 2 ",
+        "bbox": [
+            70,
+            593,
+            932,
+            783
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Libertad de la ciudad de Belfast ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            812,
+            428,
+            832
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Entre los galardonados figuran la atleta Mary Peters,3 el actor Kenneth Branagh, el diplomático John Jordan, el industrial Andrew Carnegie, el armador Thomas Henry Ismay y el primer ministro Winston Churchill. ",
+        "bbox": [
+            70,
+            839,
+            931,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Libertad de la Ciudad de Londres ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            447,
+            62
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b6fa16001b5fe1dcf7fe2c68c2962b7aeb160734d8014db81ece5d3379f52137.jpg",
+        "image_caption": [
+            "El certificado que Lord Nelson recibió tras convertirse en Freeman de la Ciudad de Londres, que demuestra que tiene la Libertad "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            79,
+            393,
+            238
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "En Inglaterra, la libertad municipal más arraigada es la que confiere la Libertad de la Ciudad de Londres, registrada por primera vez en 1237. Esta libertad está estrechamente vinculada a la función y el estatus de las compañías de librea. Desde 1835, la libertad «sin la intervención de una compañía de librea» ha sido otorgada por una resolución general del Common Council, mediante «redención» (compra), en un tiempo por una suma onerosa. Ahora la Libertad puede obtenerse por servidumbre, por patrimonio, por nominación, o por presentación a través de una Compañía Librea. La libertad por nominación de dos patrocinadores puede obtenerse por una cuota (conocida como «multa») de 100 libras, pero es gratuita para quienes figuren en el censo electoral de la   \nciudad. ",
+        "bbox": [
+            423,
+            71,
+            931,
+            350
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/509890fb4ed5fc10f338b083d02f227d4be8aca415e748b65be9d58bfc169588.jpg",
+        "image_caption": [
+            "Certificado de Libertad de la Ciudad de Londres de Ari Norman "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            344,
+            391,
+            472
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e6a8186a20725080bae9eff6308b6ee6355544a9b0eb0e3fddc39e571319928.jpg",
+        "image_caption": [
+            "Sir Tim Berners-Lee recibiendo la libertad de la Ciudad de Londres en 2014. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            344,
+            922,
+            513
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Los nuevos freemen se inscriben en una ceremonia en Guildhall, en la que reciben una guía para llevar una vida honorable y un certificado sellado. Los hijos de los freemen tienen preferencia de admisión en la City of London Freemen's School. Hay una serie de derechos tradicional pero apócrifamente asociados a los freemen: el derecho a conducir ovejas y ganado por el Puente de Londres; a una soga de seda, en caso de ser ahorcado; a llevar una espada desnuda en público; o que si la policía de la ciudad de Londres encuentra a un freeman borracho e incapaz, lo meta en un taxi y lo envíe a casa en lugar de meterlo en una celda. Aunque los Freemen han conducido ocasionalmente ovejas por el puente de Londres en ocasiones especiales, estos privilegios son ahora simbólicos. El derecho a pastorear ovejas y ganado a través de los cuatro puentes de Londres ya no tiene relevancia económica, puesto que no hay mercados de ganado en la ciudad.4 No obstante, este derecho se ha ejercido, o la ciudad ha concedido permiso, en varias ocasiones en tiempos modernos: ",
+        "bbox": [
+            70,
+            534,
+            576,
+            589
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            591,
+            931,
+            761
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El 19 de agosto de 1999, Jef Smith, un hombre libre de Londres, paseó dos ovejas por el Puente de la Torre para llamar la atención sobre los derechos de los ciudadanos mayores. 4 El 17 de junio de 2006, un rebaño de unas treinta ovejas atravesó el Puente del Milenio para marcar el inicio de la Semana de la Arquitectura de Londres. 5 El 31 de agosto de 2008, Amanda Cottrell, ex sheriff de Kent, paseó seis carneros por el Puente de Londres para promover la recaudación de fondos para la restauración de la catedral de Canterbury y \"un plan de apoyo a la producción local de alimentos\". 6 ",
+        "bbox": [
+            75,
+            776,
+            934,
+            922
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            100,
+            43,
+            831,
+            61
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El 17 de septiembre de 2008, el alcalde de Londres, David Lewis, y unos 500 hombres libres condujeron un rebaño de ovejas Romney en relevos a través del Puente de Londres para recaudar fondos para las organizaciones benéficas del alcalde (Orbis y Bienestar de la Mujer). 7 ",
+        "bbox": [
+            82,
+            71,
+            931,
+            140
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El 7 de abril de 2013, el actor y presentador Stephen Fry condujo a Grace, una oveja de un año, por el Puente de Londres para un documental sobre cómo convertirse en freeman, Stephen Fry's Key To The City. ",
+        "bbox": [
+            82,
+            152,
+            931,
+            201
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El 27 de abril de 2019, la freeman de la ciudad Simone Lakmaker condujo a Mark, un carnero de la granja Spitalfields City Farm, sobre el Puente de Londres como parte de las celebraciones de su 80 cumpleaños y para concienciar sobre su organización benéfica Speaking Out Forum. ",
+        "bbox": [
+            82,
+            212,
+            931,
+            277
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "En 2015, la conducción de ovejas a través del puente se había convertido en un evento anual, organizado por la compañía de librea Worshipful Company of Woolmen, normalmente para recaudar fondos para el Lord Mayor's Appeal y la Worshipful Company of Woolmen. 8 ",
+        "bbox": [
+            82,
+            289,
+            931,
+            357
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Libertad de la ciudad de York ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            387,
+            352,
+            403
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "York tiene una larga historia de freemen que se remonta al periodo anglosajón, con registros que datan de 1272. Los freemen pueden reclamar sus derechos a través del patronazgo (remontándose hasta su tatarabuelo, hay registros de mujeres admitidas en York en la época medieval, un derecho olvidado durante un tiempo hasta finales de la década de 1970, cuando el gremio llevó a cabo una investigación y lo redescubrió) o el aprendizaje. Una vez juramentados, los freemen pueden ingresar en la Cofradía (ortografía arcaica utilizada) de Freemen, que sigue interesándose por los asuntos de la ciudad. Las nuevas admisiones se realizan cada año (normalmente en octubre) tras una ceremonia de admisión con el Lord Mayor en el Guildhall. El Príncipe Andrés, Duque de York, recibió el honor en 1986, pero una votación de los concejales le despojó del título tras hacerse públicas las acusaciones de abusos sexuales. 9 ",
+        "bbox": [
+            70,
+            410,
+            576,
+            617
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/6680ebf20a2000510b486654f4dd8c1f2cebe28d1dfafe8abc26efc66768be4b.jpg",
+        "image_caption": [
+            "Un pequeño número de ovejas son arreadas a través del puente de Southwark por el Lord Mayor y la Pastora de Yorkshire, entre otros, Londres 2021. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            366,
+            924,
+            519
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            619,
+            931,
+            676
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "República de Irlanda ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            704,
+            270,
+            722
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "En Irlanda, el título de «borough freedom of the city» suele concederse a notables dignatarios extranjeros y nacionales, y la lista rara vez supera unas pocas docenas. Al igual que en el Reino Unido, el título suele ir acompañado de diversos privilegios antiguos: por ejemplo, los freemen de Dublín tienen derecho a votar en determinadas elecciones, a introducir mercancías para su venta en la ciudad sin aduanas y a pastorear ovejas en terrenos comunes como College Green y St. Stephen's Green. 10 ",
+        "bbox": [
+            70,
+            728,
+            932,
+            823
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Canadá ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            851,
+            146,
+            866
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La libertad de la ciudad es un privilegio concedido a unidades individuales de las Fuerzas Canadienses. Muchas unidades ejercen este privilegio junto con conmemoraciones anuales significativas. Los Calgary Highlanders conmemoran la Batalla de Kitcheners' Wood con un desfile anual por la libertad de la ",
+        "bbox": [
+            70,
+            874,
+            931,
+            929
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ciudad.11 ",
+        "bbox": [
+            70,
+            42,
+            149,
+            60
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Llave de la ciudad ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            90,
+            275,
+            110
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En algunos países, como Estados Unidos, se entrega una llave ornamental —la «llave de la ciudad»— a visitantes estimados, residentes u otras personas a las que la ciudad desea honrar. Esta práctica es una variación de la tradición de la libertad de la ciudad, y tiene un significado simbólico similar: evocando las ciudades amuralladas medievales, cuyas puertas estaban vigiladas durante el día y cerradas por la noche, la llave simboliza la libertad del destinatario para entrar y salir de la ciudad a voluntad, como amigo de confianza de los residentes de la ciudad. 12 ",
+        "bbox": [
+            70,
+            118,
+            578,
+            306
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En algunas ciudades de los Países Bajos, Bélgica y Alemania, la llave de la ciudad se entrega al llamado «prins carnaval $[ n l ] \\gg$ , que dirige los carnavales que se celebran la semana anterior a Septuagésima. Según la tradición, el alcalde cesa ",
+        "bbox": [
+            70,
+            324,
+            576,
+            397
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/055c253c4da08e2a1a8468c8db729654e5e052f941ac3a5bb6624ebccbf3e71d.jpg",
+        "image_caption": [
+            "Príncipe Andrés, Duque de York. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            52,
+            924,
+            370
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/67e5d887c2e09fccc16b09a240df6fa245d5c388b7d56d473c2ecaf7b14d09a6.jpg",
+        "image_caption": [
+            "Entonces Alcalde de Río de Janeiro Marcelo Crivella entrega la llave de la ciudad al Rey Momo en el inicio del Carnaval 2018. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            422,
+            393,
+            572
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "durante este periodo y el poder se transfiere al príncipe carnaval, que devuelve la llave al final del Martes de Carnaval. Hoy en día, la entrega de la llave es sobre todo simbólica y marca el comienzo y el final del carnaval. ",
+        "bbox": [
+            421,
+            402,
+            579,
+            663
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/eb6b79b17ab6acfbe78dbaea7c9f188aa54296aec00eec5d8cf7beecc7cff017.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            423,
+            922,
+            590
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Luego Presidenta de Bolivia Jeanine Áñez recibe la llave de la ciudad de Reyes. ",
+        "bbox": [
+            608,
+            593,
+            885,
+            643
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Una tradición similar existe en algunas fiestas de América Latina (como en el Carnaval de Río), donde el Rey Momo de la fiesta recibe la llave de la ciudad al comienzo de los festejos. 13 ",
+        "bbox": [
+            70,
+            680,
+            578,
+            755
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En Canadá, grandes ciudades como Toronto, Vancouver y Montreal pueden conceder la llave de la ciudad a influyentes empresarios, músicos y líderes políticos. En 2016, el artista canadiense Drake recibió una llave de la ciudad de Toronto de manos del alcalde John Tory. En una tradición local, Calgary ha optado por conceder a los visitantes estimados un ",
+        "bbox": [
+            70,
+            770,
+            578,
+            883
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/91439e4a9140795ab6970265f43cdf6595d07723afaf19d409f08f49b08294cb.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            676,
+            922,
+            826
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "El entonces Presidente ruso Dmitri Medvédev recibe la Llave de Oro de la Ciudad de Madrid durante una visita de Estado. ",
+        "bbox": [
+            608,
+            831,
+            905,
+            895
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "simbólico sombrero de vaquero en lugar de una llave; esto suele ir seguido de la recitación de uno de los dos juramentos (uno formal, el otro más tonto) para convertirse en calgarianos honorarios. 14 ",
+        "bbox": [
+            65,
+            42,
+            932,
+            80
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            117,
+            223,
+            138
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. «Canadian Navy: Canadian Naval Centennial - Background Information» (https://web.archiv e.org/web/20120912185755/http://www.navy.forces.gc.ca/centennial/0/0-c_eng.asp?categor y=86). web.archive.org. 12 de septiembre de 2012. Archivado desde el original (http://www.n avy.forces.gc.ca/centennial/0/0-c_eng.asp?category=86) el 12 de septiembre de 2012. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            77,
+            160,
+            931,
+            241
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2. «The Freemen of Newcastle upon Tyne» (https://web.archive.org/web/20131008171423/htt p://www.freemenofnewcastle.com/themoorhistory.html). web.archive.org. 8 de octubre de 2013. Archivado desde el original (http://www.freemenofnewcastle.com/themoorhistory.html) el 8 de octubre de 2013. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            75,
+            244,
+            932,
+            308
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. «Dame Mary Peters granted freedom of Belfast» (https://www.bbc.com/news/uk-northern-irel and-20182389). BBC News (en inglés británico). 2 de noviembre de 2012. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            77,
+            312,
+            932,
+            361
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. «BBC News | UK | Protest Freeman herds sheep over Tower Bridge» (http://news.bbc.co.uk/ 2/hi/uk_news/425364.stm). news.bbc.co.uk. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            80,
+            364,
+            931,
+            396
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. «Sheep flock driven through city» (http://news.bbc.co.uk/2/hi/uk_news/england/london/5085 214.stm) (en inglés británico). 17 de junio de 2006. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            78,
+            399,
+            929,
+            432
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6. «Sheep marched over London Bridge» (http://news.bbc.co.uk/2/hi/uk_news/england/759034 6.stm) (en inglés británico). 31 de agosto de 2008. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            78,
+            434,
+            927,
+            467
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7. «Sheep march over bridge for money» (http://news.bbc.co.uk/2/hi/uk_news/england/london/ 7623267.stm) (en inglés británico). 19 de septiembre de 2008. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            77,
+            471,
+            932,
+            519
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "8. «Alan Titchmarsh herds sheep over London Bridge» (https://www.bbc.com/news/uk-england -london-45699161). BBC News (en inglés británico). 30 de septiembre de 2018. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            75,
+            523,
+            932,
+            571
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9. «El príncipe Andrés pierde un título honorífico de la ciudad de York» (https://www.infobae.co m/america/agencias/2022/04/27/el-principe-andres-pierde-un-titulo-honorifico-de-la-ciudad-d e-york/). infobae. 27 de abril de 2022. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            72,
+            573,
+            931,
+            622
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10. Fitzgerald, Cormac (7 de febrero de 2017). «Why are Bono and The Edge grazing sheep in Stephen's Green in 2000? It's their right as Freemen of the City» (https://www.thejournal.ie/fr eedom-of-the-city-3-3226054-Feb2017/). TheJournal.ie (en inglés). Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            67,
+            625,
+            932,
+            691
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "11. «Sobre el regimiento» (https://calgaryhighlanders.com/about-the-regiment/). ",
+        "bbox": [
+            67,
+            693,
+            783,
+            711
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12. «Commission for the United Nations, Consular Corps and Protocol» (https://web.archive.org/ web/20111114110402/http://www.nyc.gov/html/unccp/html/protocol/key.shtml). web.archive.org. 14 de noviembre de 2011. Archivado desde el original (http://www.nyc.gov/ html/unccp/html/protocol/key.shtml) el 14 de noviembre de 2011. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            65,
+            712,
+            932,
+            794
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. «Rey Momo recibe las llaves de Río y da comienzo al carnaval Comienza el carnaval de Río de Janeiro» (https://www.bbc.com/mundo/ultimas_noticias/2013/02/130208_ultnot_cultura_b rasil_rio_festival_tsb). BBC News Mundo. 8 de febrero de 2013. Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            65,
+            796,
+            932,
+            862
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "14. «Calgary White Hat Awards | Tourism Calgary» (https://www.visitcalgary.com/white-hat). www.visitcalgary.com (en inglés). Consultado el 25 de enero de 2024. ",
+        "bbox": [
+            67,
+            864,
+            924,
+            897
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Welcome (http://www.guild-freemen-london.co.uk), Guild of Freemen of the City of London   \nFreedom of the City of London (https://www.cityoflondon.gov.uk/about-the-city/history/Page s/freedom-of-the-city.aspx) Archivado (https://web.archive.org/web/20180727214043/https:// www.cityoflondon.gov.uk/about-the-city/history/Pages/freedom-of-the-city.aspx) el 27 de julio de 2018 en Wayback Machine.   \nThe Gild of Freemen of the City of York (http://www.freemenofyork.com) Archivado (https://w eb.archive.org/web/20131017165637/http://www.freemenofyork.com/) el 17 de octubre de 2013 en Wayback Machine. Freemen of the City of Liverpool (https://web.archive.org/web/20130413005908/http://www.c ivichalls.liverpool.gov.uk/townhall/history/freemen/index.asp) ",
+        "bbox": [
+            77,
+            106,
+            932,
+            280
+        ],
+        "page_idx": 7
+    }
+]

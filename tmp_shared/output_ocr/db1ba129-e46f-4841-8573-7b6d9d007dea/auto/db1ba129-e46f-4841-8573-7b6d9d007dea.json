@@ -1,0 +1,680 @@
+[
+    {
+        "type": "text",
+        "text": "A. A. Roush $\\cdot$ M. Suarez $\\cdot$ E. C. Friedberg M. Radman $\\cdot$ W. Siede ",
+        "bbox": [
+            78,
+            150,
+            389,
+            178
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deletion of the Saccharomyces cerevisiae gene RAD30 encoding an Escherichia coli DinB homolog confers UV radiation sensitivity and altered mutability ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            184,
+            842,
+            258
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 30 June 1997 / Accepted: 23 October 1997 ",
+        "bbox": [
+            80,
+            301,
+            402,
+            313
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract The dinB gene of Escherichia coli is an SOSinducible gene of unknown function. Its mode of regulation and the amino acid sequence similarity of the predicted DinB protein to the UmuC protein of $E$ . coli both suggest a role in cellular responses to DNA damage and probably in error-prone repair. Proteins with sequence similarity to DinB have been predicted from genes cloned from various prokaryotic and eukaryotic organisms, including Caenorhabditis elegans. Here we present the phenotypic characterization of a haploid Saccharomyces cerevisiae strain deleted for the ORF YDR419W, encoding a yeast DinB homolog. The deletion mutant is viable but is moderately sensitive to killing following exposure to ultraviolet (UV) radiation. Hence, we have named the gene RAD30. Steady-state levels of RAD30 transcripts are increased following UV irradiation. UV-induced locus-speci®c reversion of an ochre allele (arg4-17) is reduced in the rad30 deletion mutant. However, enhanced mutability was observed following treatment with the alkylating agent methylmethanesulfonate (MMS). Spontaneous mutability was also slightly increased. We conclude that RAD30 encodes an accessory function involved in DNA repair and mutagenesis. We speculate that the relatively weak phenotype and the opposite eects on mutability as a function of the type of DNA damage involved may derive from a functional redundancy of yeast proteins which facilitate replicative bypass of non-coding DNA lesions. ",
+        "bbox": [
+            80,
+            345,
+            488,
+            589
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            345,
+            916,
+            517
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words DNA repair $\\cdot$ Mutagenesis $\\cdot$ Ultraviolet light $\\cdot$ Alkylating agents $\\cdot$ Yeast ",
+        "bbox": [
+            506,
+            533,
+            885,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            589,
+            595,
+            603
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In $E$ . coli and related bacteria the mutability of cells treated with DNA-damaging agents such as ultraviolet (UV) radiation or various base-modifying chemicals is dependent on the induction of a complex regulon of genes termed the SOS system (Walker 1984; Walker 1991; Friedberg et al. 1995). UV radiation-induced mutagenesis in $E$ . coli requires the expression of at least three known SOS-controlled genes designated umu $C ^ { + }$ and $u m u D ^ { + }$ , which are part of the same operon, and $r e c A ^ { + }$ (Friedberg et al. 1995; Woodgate and Levine 1996). The umuD ${ \\bar { \\jmath } } ^ { + } C ^ { + }$ operon is exclusively associated with DNA damage-induced mutagenesis. RecA protein participates in other cellular responses to DNA damage, notably during strand exchange reactions associated with homologous recombination (Friedberg et al. 1995). Under SOS-inducing conditions RecA protein participates in the cleavage of the LexA repressor protein, resulting in transcriptional induction of the $\\overline { { u m u D } } ^ { + } { C } ^ { + }$ operon. In a related reaction UmuD protein is cleaved by RecA near the N-terminus, generating a form designated UmuD¢ that is active in damage-induced mutagenesis (Nohmi et al. 1988). ",
+        "bbox": [
+            508,
+            619,
+            916,
+            936
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The precise biochemical activities of these (and possibly other) proteins that are essential for damage-induced mutagenesis are still unknown. It is assumed that the RecA, UmuC and UmuD¢ proteins facilitate the replicative bypass of non-coding DNA lesions such as UV-induced pyrimidine dimers, which normally result in stalling of the replicative DNA polymerase (Woodgate and Levine 1996). Such bypass, or trans-lesion, DNA synthesis, transpires at the risk of inserting mispaired bases, thereby causing the ®xation of mutations in the genome opposite DNA damage ± so-called targeted mutations. Replicative bypass of sites of base loss (abasic sites) has been observed in an in vitro system consisting of puri®ed DNA polymerase III and the RecA, UmuD¢ and UmuC proteins (Rajagopalan et al. 1992). $E$ . coli UmuC protein has been puri®ed in a soluble form and shown to associate with UmuD¢, forming a $\\mathrm { \\Delta U m u D } _ { 2 } ^ { \\prime }$ C complex which binds cooperatively to long stretches of single-stranded DNA (Bruck et al. 1996; Woodgate and Levine 1996). It has been suggested that the $\\mathrm { \\Delta U m u D } _ { 2 } ^ { \\prime }$ C complex interacts with ",
+        "bbox": [
+            80,
+            84,
+            488,
+            373
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RecA ®laments formed on single-stranded DNA, to target these proteins to sites where DNA polymerase is stalled by base damage (Woodgate and Levine 1996). ",
+        "bbox": [
+            508,
+            84,
+            917,
+            127
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Additional SOS-inducible genes of unknown function (termed din for damage-inducible) have been identi®ed in $E$ . coli using bacteriophage Mudl-mediated transcriptional fusion of random genes with a reporter gene (Kenyon and Walker 1980). One of these $( d i n B ^ { + } )$ has recently been independently isolated and called $d i n P ^ { + }$ (Ohmori et al. 1995; H. Ohmori, cited in Kulaeva et al. 1996). The $d i n B ^ { + } / d i n P ^ { + }$ gene (which we will henceforth refer to exclusively as $d i n B ^ { + }$ ) is of special interest because of its remarkable conservation throughout prokaryotic and eukaryotic evolution. Homologs have been identi®ed in various bacteria (Bacillus subtilis, Mycobacterium tuberculosis, Mycoplasma genitalium and even the archeon Sulfolobus solfataricus), as well as in the higher multicellular eukaryote Caenorhabditis elegans (Fig. 1) (Kulaeva et al. 1996). We (W. Siede, E.C. Friedberg and M. Radman, unpublished) and others (Kulaeva et al. 1996) identi®ed a structural homolog of DinB in the yeast $S$ . cerevisiae in a BLAST search of amino acid sequence databases (Fig. 1). The SOS inducibility of $d i n B ^ { + }$ and the predicted sequence similarity of its product to UmuC protein (Fig. 1) (Kulaeva et al. 1996) suggest a role in cellular responses to DNA damage in general and in DNA damage-induced mutagenesis in particular. Additionally, $E$ . coli dinB mutants have been shown to be de®cient in the induction of mutations in unirradiated phage $\\lambda$ following UV irradiation of the host cells (untargeted mutations) (Brotcorne-Lannoye and Maenhaut-Michel 1986). The role of $d i n B ^ { + }$ in UV radiation-induced mutagenesis is apparently not a major one, since it has been convincingly demonstrated that besides $r e c A ^ { + }$ , only the umu $C ^ { + }$ and umu $D ^ { + }$ genes are absolutely required for this process in $E$ . coli (Friedberg et al. 1995). ",
+        "bbox": [
+            508,
+            129,
+            917,
+            503
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1ffb816eab313802d7c6145464a859aa20bb3b07ec94cee87d82d4c162496455.jpg",
+        "image_caption": [
+            "Fig. 1 Comparison of the amino acid sequences of $E$ . coli UmuC (SwissProt accession number P04152) and DinB $( = \\mathrm { D i n P }$ , Q47155), the $C$ . elegans DinB homolog F22B7.6 (P34409), S. cerevisiae Rev1 (P12689), and the predicted product of $S$ . cerevisiae ORF YDR419W, termed Rad30 as explained in the text. Identical residues are indicated. The complete sequences of $E$ . coli DinB, C. elegans F22B7.6 and S. cerevisiae Rad30 have been aligned (with inserted gaps marked by dashes), whereas only selected regions of UmuC and Rev1 are shown ",
+            "F22B7.6 MLTFNDNKAGMNGLDKEKITKVIEENTSASYSSFSKKQQSRIEEKVLEIKNRLQTATREERQKSEILMENLEMK-IESSRDE 1-81 Rad30 MSKFTWKELIQLGSPSKAYESS--L1-23 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            545,
+            919,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            84,
+            488,
+            200
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this paper we present the characterization of a deletion mutant that lacks the yeast DinB homolog, with special emphasis on a possible role(s) in mutagenesis. As in $E .$ coli, UV radiation-induced mutagenesis in yeast is under active cellular control, since speci®c mutants have been identi®ed with defects in this process (Lawrence 1982; Friedberg et al. 1995; Lawrence and Hinkle 1996). Some of these, such as rev3 and rev7, completely abolish damage-induced mutagenesis, regardless of the DNAdamaging agent used or the type of mutation scored. These mutants manifest moderately increased sensitivity to killing by these agents (Lemontt 1971). Other mutants such as rev1 have a more restricted phenotype, showing a diminished frequency of induced mutations for certain agents or certain mutational systems (Lawrence 1982). Puri®ed Rev3 protein has been shown to manifest DNA polymerase activity when complexed with Rev7 protein, and this activity (termed polymerase $\\zeta ,$ ) can bypass pyrimidine dimers in the template strand in vitro with a frequency of $\\sim 1 0 \\%$ , much greater than observed with any other yeast DNA polymerase (Lawrence and Hinkle 1996; Nelson et al. 1996b). Genes homologous to yeast $R E V 3$ have recently been identi®ed in multicellular eukaryotes (Lawrence and Hinkle 1996; A. Pastink, cited in Lehmann et al. 1996; Z. Wang, personal communication). ",
+        "bbox": [
+            80,
+            202,
+            488,
+            575
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rev1 protein is of special interest in the context of the present study since it shows sequence similarity to the UmuC polypeptide, suggesting a relationship to the DinB family of proteins (Fig. 1) (Larimer et al. 1989; Kulaeva et al. 1996). Cluster analysis based on multiple amino acid sequence alignments indicates distinctions between the UmuC, DinB and Rev1 families of proteins, with Rad30 being most closely related to Rev1 protein (Kulaeva et al. 1996). Rev1 protein possesses deoxycytidyl transferase activity, i.e., the protein catalyzes the transfer of a dCMP residue from dCTP to the $3 ^ { \\prime }$ end of a DNA primer in a template-dependent reaction (Nelson et al. 1996a). Approximately $20 \\%$ transfer was reported opposite template abasic sites. The resulting $3 ^ { \\prime }$ terminus can be eciently extended by DNA polymerase $\\zeta$ . However, no transferase activity was found in the presence of pyrimidine dimers (the major UV radiation photoproduct in DNA) in the template strand (Nelson et al. 1996a). Hence, the role of Rev1 protein in UV radiation-induced mutagenesis remains unclear. ",
+        "bbox": [
+            80,
+            577,
+            488,
+            877
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The identi®cation of Rev3 homologs in multicellular eukaryotes and the existence of the Rev1/UmuC/DinB family of proteins seems to hint at a conservation of mutational mechanisms among eukaryotic cells and at a relationship with prokaryotic functions. Indeed, additional studies in Xenopus and yeast have indicated that eukaryotic cells are susceptible to the activity of prokaryotic mutation-promoting proteins (Potter et al. 1984; Oda et al. 1996). ",
+        "bbox": [
+            78,
+            880,
+            489,
+            922
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            84,
+            917,
+            170
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            202,
+            674,
+            217
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Yeast strains and mutational markers ",
+        "bbox": [
+            510,
+            231,
+            741,
+            243
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For all genetic experiments we used the haploid strain WS3005/2 (MATa ade2-1 arg4-17 his3-D200 trpl-289 ura3-52). The combination of the two ochre alleles ade2-1 and arg4-17 is frequently used to facilitate the detection of locus-speci®c reversion events. Translational suppression of arg4-17 is likely also to suppress the ade2-1 marker (Hawthorne and Leupold 1974), generating white colonies on arginine drop-out medium. In contrast, locus-speci®c reversion of arg4-17 results in an arginine-prototrophic colony which retains the ade2 marker, generating red pigment. For RNA analysis we used strain SX46A (MATa ade2 his3-532 trp1-289 ura3-52). ",
+        "bbox": [
+            508,
+            256,
+            917,
+            384
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal deletion of the yeast ORF YDR419W ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            410,
+            835,
+            422
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We constructed a complete chromosomal deletion of the yeast ORF YDR419W (GENBANK D9461-8) by microhomology-mediated gene transplacement (Manivasakam et al. 1995). Using plasmid pRS303 (a gift from P. Hieter, Johns Hopkins University) (Sikorski and Hieter 1989) we ampli®ed the selectable marker HIS3 by PCR as described (Morrow et al. 1995), using the primers ",
+        "bbox": [
+            508,
+            434,
+            917,
+            504
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ATTTTTGAACGGCTTTGATAAAACAAGACAAAGCGCA TCAGAGCAGATTGTACTGAGAGTGCAC ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            510,
+            907,
+            535
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "and ",
+        "bbox": [
+            528,
+            542,
+            553,
+            552
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "AGTTGCTGAAGCCATATAATTGTCTATTTGGAATAGG CCTTACGCATCTGTGCGGTATTTCACACCG. ",
+        "text_level": 1,
+        "bbox": [
+            511,
+            559,
+            907,
+            583
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The underlined $5 ^ { \\prime }$ portion is derived from the genomic region immediately upstream and downstream of YDR419W. The yeast strain WS3005/2 was transformed with the resulting PCR product using a modi®ed lithium acetate procedure (Gietz et al. 1995). Successful transplacement was veri®ed by PCR analysis of chromosomal DNA prepared as described (Rose 1987). ",
+        "bbox": [
+            508,
+            589,
+            917,
+            672
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conditions of radiation and chemical treatment ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            699,
+            803,
+            710
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Stationary-phase cells were harvested after $4 8 \\mathrm { ~ h ~ }$ of growth in YPD medium at $\\mathrm { { \\bar { 3 0 } ^ { \\circ } C } }$ , logarithmic-phase cells were grown up to a titer $2 \\times 1 0 ^ { 7 } ~ \\mathrm { c e l l s / m l }$ . Synchronization in G1 was accomplished by incubation with $\\alpha$ -factor as described (Siede et al. 1994). Media recipes are provided elsewhere (Kaiser et al. 1994). All cultures were brie¯y sonicated before treatment. For UV radiation exposure, cells were spread on synthetic media and irradiated with a germicidal lamp $( 2 5 4 \\ \\mathrm { n m } \\ \\mathrm { U V - C } )$ . For $\\gamma$ -radiation treatments, cells were irradiated in suspension (at $5 \\times \\mathrm { ^ { ' } 1 0 ^ { 7 } \\ c e l l s / m l ) }$ with a 137Cs c-ray source at $3 . 5 ~ \\mathrm { G y / m i n }$ . Methylmethane sulfonate (MMS) (Sigma) or a stock solution of 4-nitroquinoline-N-oxide (4-NQO) (Sigma) in acetone/ethanol (1:8) was added to the cell suspension (in $5 0 ~ \\mathrm { m M }$ sodium phosphate buer, $\\mathrm { p H } ~ 7 . 0 $ . After incubation at $3 0 ^ { \\circ } \\mathbf { C }$ for $3 0 ~ \\mathrm { m i n }$ (MMS) or $6 0 ~ \\mathrm { { m i n } }$ (4-NQO), cells were washed and plated. Mutation frequencies were measured by spreading $1 \\times 1 0 ^ { 7 }$ cells on synthetic medium lacking arginine. Colonies were counted after 5 days of incubation at $3 0 ^ { \\circ } \\mathrm { C }$ . ",
+        "bbox": [
+            508,
+            722,
+            917,
+            921
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine spontaneous mutation rates in a ¯uctuation assay (Von Borstel 1978) $2 0 ~ 5 – \\mathrm { m l }$ cultures in YPD were each inoculated with 200 cells and grown to stationary phase. From each culture, a sample of $1 ~ \\mathrm { m l }$ was withdrawn, washed and plated on an arginine drop-out plate. The titer of viable cells was determined on argininecontaining plates. ",
+        "bbox": [
+            78,
+            109,
+            488,
+            179
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Northern blot analysis ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            202,
+            219,
+            215
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Logarithmic-phase cells of strain SX46A (culture titer $1 \\times 1 0 ^ { 7 }$ cells/ ml) were UV-irradiated in $1 5 ~ \\mathrm { m l }$ of water in a petri dish with constant stirring at a density of $2 . 5 \\times 1 0 ^ { 7 } \\mathrm { c e l l s / m l } .$ , or mock treated. Note that in terms of cell killing, the UV dose of $8 0 ~ \\mathrm { J / m } ^ { 2 }$ used for irradiation of cell suspensions is equivalent to $\\scriptstyle \\sim 3 0 \\mathrm { ~ J } / \\mathrm { m } ^ { 2 }$ administered to cells on plates. Cells were resuspended in YPD medium at a titer of $1 \\times 1 0 ^ { 7 } \\mathrm { { \\dot { c e l l s } } / \\mathrm { { m l } } }$ . Samples of $\\mathord { \\sim } \\boldsymbol { 5 } ^ { \\circ } \\times 1 0 ^ { 7 }$ cells were withdrawn during incubation at $3 0 ^ { \\circ } \\mathbf { C }$ , washed and quickly frozen. After completion of the incubation period, all cell samples were thawed and resuspended in $0 . 4 ~ \\mathrm { m l }$ of RNA Isolator (Genosys). Zirconium beads (Biospec Products) were added and cells were lysed by fast vortexing ( $3 \\times 1$ min.). Further manipulations were as recommended by Genosys. Equal amounts of total RNA (as determined spectrophotometrically) were fractionated on formaldehyde-containing agarose gels and blotted to Genescreen Plus membranes (New England Nuclear). Blotting, hybridization and washing conditions were as suggested by the membrane manufacturer. As hybridization probes, we used a $3 . 4 { \\mathrm { - k b } }$ probe covering the YDR419W ORF and a $1 . 3 { \\cdot } \\mathrm { k b }$ probe speci®c for the PDA1 transcript encoding a subunit of pyruvate dehydrogenase (Wenzel et al. 1995), used as a non-¯uctuating control. These probes were generated from yeast chromosomal DNA by PCR with appropriate primers and radioactively labeled using a commercial random primer labeling kit (Boehringer Mannheim) and $[ ^ { 3 2 } \\mathbf { P } ]$ dCTP. Autoradiograms were analyzed on a BioRad Phosphorimager GS 525 using Molecular Analyst software. ",
+        "bbox": [
+            78,
+            225,
+            488,
+            531
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            560,
+            244,
+            575
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Construction and characterization of a deletion of YDR419W $( = R A D 3 0 )$ ) ",
+        "bbox": [
+            78,
+            591,
+            431,
+            619
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The existence of a family of prokaryotic and eukaryotic gene products (DinB homologs) structurally related to $E$ . coli UmuC, a protein which is required for damageinduced mutagenesis, prompted us to investigate the phenotype conferred by inactivation of the homologous yeast Rad30 protein, with emphasis on responses to DNA damage. In a haploid wild-type yeast strain, we generated a complete transplacement of the coding sequence of a predicted yeast dinB homolog (YDR419W, $1 . 9 \\mathrm { \\ k b }$ ) by a selectable marker (HIS3) using microhomology-mediated recombination (Manivasakam et al. 1995; Morrow et al. 1995). Transformants that were moderately sensitive to UV radiation were detected in semiquantitative streak tests. Successful transplacement was subsequently demonstrated by PCR analysis using chromosomal DNA and primers ¯anking the YDR419W ORF. ",
+        "bbox": [
+            80,
+            634,
+            488,
+            877
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In untreated cells, growth characteristics of the deletion mutant were indistinguishable from the isogenic wild type, and thermosensitivity was not enhanced. However, quantitative assays con®rmed an increased ",
+        "bbox": [
+            78,
+            880,
+            488,
+            936
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UV radiation sensitivity of colony-forming cells in stationary phase and, to a lesser extent, also in logarithmic phase (Fig. 2A). The level of sensitivity is much less than that observed in yeast mutants defective in the nucleotide excision repair pathway or that in rad6 mutants, defective in both postreplication repair and damage-induced mutagenesis (Friedberg et al. 1995). However, the level of sensitivity of the mutant to UV radiation is comparable to that of mutants speci®cally aected in damage-induced mutagenesis, such as rev1 (Larimer et al. 1989). We conclude that the deleted yeast gene is required for normal resistance to UV radiation in yeast, and in keeping with established nomenclature we have named the locus RAD30. ",
+        "bbox": [
+            508,
+            84,
+            917,
+            200
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cb8863a8b5e0ecfd93c080f3f0155090ee4ee6cabc9274b1760577300a09a3b4.jpg",
+        "image_caption": [
+            "Fig. 2A±F Survival of colony-forming cells (A±D) and induced arg4- $1 7  A R G ^ { + }$ revertant frequencies (E, F) of the wild-type strain $( \\mathrm { W S 3 0 0 2 } / 5 , \\mathrm { O D } )$ and an isogenic deletion mutant of ORF YDR419W $( = r a d 3 0 \\Delta , \\bullet \\mathbf { u } )$ plotted against mutagen dose. Stationary-phase $( \\bigcirc \\bullet )$ or logarithmic-phase cells $\\mathbb  ( \\Gamma \\breve { \\mathbf { U } } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot } \\mathbf { \\cdot }$ dashed lines) were treated with $2 5 4 ~ \\mathrm { n m }$ UV (A, $\\mathbf { E } )$ , 4-NQO (B), $^ { 1 3 7 } C s \\ \\gamma$ -irradiation $\\mathbf { \\delta } ( \\mathbf { B } )$ or MMS (C, F). Data shown represent the average of three independent experiments "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            510,
+            225,
+            912,
+            852
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            84,
+            488,
+            170
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Deletion of the RAD30 gene also confers a very moderate sensitivity to the UV-mimetic chemical 4-NQO in stationary-phase cells but no increase is detectable in logarithmic-phase cells (Fig. 2B). Within the dose range that can be studied by using a $^ { 1 3 7 } \\mathrm { C s }$ irradiator, we did not ®nd any signi®cant sensitization to cradiation in stationary- or logarithmic-phase cells (Fig. 2C). In contrast to inactivation with UV or 4-NQO, deletion of $R A D 3 0$ confers sensitivity to the alkylating agent MMS in logarithmic-phase but not in stationary-phase cells (Fig. 2D). Inactivation of the mutant by oxidative agents, such as $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ and paraquat, was within the wild-type range (data not shown). ",
+        "bbox": [
+            78,
+            171,
+            488,
+            357
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mutant is not defective in cell-cycle arrest responses following radiation treatments (data not shown). Comparable accumulation of cells in G2 was observed following treatment of asynchronously growing cells with c-rays or UV radiation in both wild type and rad30 mutant. Correlating with the increased UV sensitivity, a somewhat extended period of G2 arrest was observed following UV treatment of the mutant. As determined by measuring budding delay in G1-synchronized cells, G1 arrests in UV-treated wild-type and mutant cells were similar. ",
+        "bbox": [
+            78,
+            359,
+            488,
+            517
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Role of RAD30 in mutagenesis ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            546,
+            310,
+            561
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In stationary-phase cells, we investigated the mutational response of the rad30D mutant to UV radiation and MMS using the well characterized arg4-17 ochre reversion system (Lemontt 1971; Hawthorne and Leupold 1974; Cassier-Chauvat and Fabre 1991). Suppressor mutants comprise most of the spontaneous background. On selection medium, these mutants form slow-growing $A R G ^ { + }$ colonies that are white due to translational suppression of the arg4 and the ade2 alleles. Locusspeci®c revertants of arg4-17 form red colonies and a signi®cant number of these events is only detectable following treatment with DNA-damaging agents (Lemontt 1971). Hence, the system is highly speci®c for locus reversion. Only red colonies were scored in UV radiation and MMS experiments. ",
+        "bbox": [
+            78,
+            575,
+            488,
+            792
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "With respect to locus-speci®c arg4-17 reversion following UV irradiation, the rad30D mutant exhibited a slightly (2 to 5-fold) but reproducibly lower induced mutant frequency than that observed in the isogenic wild-type strain (Fig. 2E). In contrast, treatment with the alkylating agent MMS resulted in a signi®cantly enhanced mutant frequency (Fig. 2F). We also analyzed spontaneous mutation rates in both the parent and mutant strains using ¯uctuation assays (here, all colonies were scored, irrespective of color). We detected a modest, reproducible enhancement of the spontaneous mutation rate ( 2-fold; data not shown). ",
+        "bbox": [
+            80,
+            793,
+            488,
+            936
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            506,
+            85,
+            916,
+            113
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The weak phenotype of the RAD30 deletion mutant precludes de®nitive conclusions as to the function of Rad30 protein. Complex channeling eects aecting error-prone and error-free repair pathways can be invoked to explain the surprising phenotype of opposing eects on induced mutagenesis dependent on the type of DNA damage. However, another possible explanation derives from the observation that Rad30 shares homology with Rev1 (Fig. 1) (Kulaeva et al. 1996), a known template-dependent terminal transferase that can facilitate polymerase $\\zeta .$ -dependent bypass replication (Nelson et al. 1996a). We suggest that several yeast proteins (such as Rev1 and Rad30) may exhibit related activities in bypassing DNA lesions but dierent speci®cities regarding template preference and nucleotide insertion preference. If one of these proteins is inactivated, another member may compensate to a certain extent only (as observed in UV-treated rad30D cells). The weak phenotype of rad30D may thus result from redundancy among proteins with somewhat overlapping functions. If this interpretation is correct, the surprising increase in mutation frequencies found spontaneously or following MMS treatment in the mutant may indicate that the compensating bypass protein(s) can also increase mutagenic misinsertion frequencies if dierent types of base damage are encountered. ",
+        "bbox": [
+            508,
+            115,
+            917,
+            486
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "During preparation of this manuscript, we learned of a similar independent study addressing the phenotype of a RAD30 deletion (McDonald et al. 1997). In terms of UV survival, the authors show epistasis with $R A D \\theta$ and RAD18 but not with REV3 or REV1. In contrast to our data, no eect on UV mutagenesis was found in a rad30 deletion mutant using a dierent reversion system. Consequently, the authors suggest the involvement of $R A D 3 0$ in an error-free postreplicational repair process. Clearly, the eect of RAD30 on induced mutagenesis will require further characterization using additional mutational markers, such as frame-shift alleles or forward mutation systems. Considering the role of $E$ coli DinB in untargeted mutagenesis, a study of the in¯uence of $R A D 3 0$ on similar events in yeast is of special interest. The occurence of untargeted mutation in yeast has indeed been demonstrated following mating of an unirradiated strain with a UV-irradiated partner (Lawrence and Christensen 1982). ",
+        "bbox": [
+            508,
+            489,
+            917,
+            763
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Regulation of RAD30 transcription ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            792,
+            768,
+            806
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In yeast, the existence of an inducible mutagenic repair system formally analogous to the E. coli SOS system has not been unequivocally demonstrated (Friedberg et al. 1995). On the contrary, transformation experiments using de®ned photoproducts in plasmid substrates indicate that, in contrast to the situation in $E .$ . coli errorprone bypass frequency is not increased if these substrates are introduced into preirradiated yeast cells compared to untreated cells (Lawrence et al. 1993). The regulation of genes in the $R A D 6 / R E V 3$ group involved in postreplication repair and/or mutagenesis (and thus possibly related to RAD30) is not uniform. Whereas RAD6 and RAD18 transcript levels are clearly UV inducible (Madura et al. 1990; Jones and Prakash 1991) $R E V 3$ transcript levels are at best marginally increased (Singhal et al. 1992) and there is no evidence for UV inducibility of REV1 (Larimer et al. 1989). ",
+        "bbox": [
+            508,
+            821,
+            917,
+            936
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/47e8be7ae9db443997c9dfcc4324364fb75eaf9617b1fc16875320b830a57d30.jpg",
+        "image_caption": [
+            "Fig. 3A, B Steady-state levels of RAD30 and PDA1 mRNAs following UV irradiation as detected by Northern blotting (A) Following quantitation by phosphorimaging, $R A D 3 0 ~ \\mathbf { \\Omega } \\mathbf { m } \\mathbf { R } \\mathbf { \\bar { N } } \\mathbf { A }$ levels were normalized relative to PDA1 mRNA levels (set to 1 at $^ { \\mathrm { ~ 0 ~ h ~ } }$ incubation) and compared to normalized mRNA levels detected in the unirradiated portion of the same culture (B) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            85,
+            468,
+            425
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            533,
+            488,
+            662
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We studied the steady-state levels of $R A D 3 0 ~ \\mathrm { m R N A }$ following irradiation of asynchronously dividing logarithmic-phase cells. Compared to unirradiated cells or to the concentration of a non-inducible control transcript $( P D A I \\ \\mathrm { \\ m R N A } )$ in irradiated cells (Fig. 3A), we observed increased levels of $R A D 3 0 ~ \\mathrm { \\ m R N A }$ following treatment of cells with UV radiation. We determined an induction ratio of 3±4 following quantitation by phosphorimaging analysis and normalization for $P D A I$ transcript levels (Fig. 3B). The ratio and kinetics of induction of RAD30 resemble those of other UV radiation-inducible yeast transcripts (see e.g. Aboussekhra et al. 1996). ",
+        "bbox": [
+            80,
+            663,
+            488,
+            849
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thus, we conclude that the yeast DinB homolog RAD30 is inducible by UV light, as is DinB in $E .$ . coli. Although there is no clear evidence for a single SOS-like inducible system of genes in yeast, there are two main arguments in favor of co-regulation of a large number of damage-responsive genes. First, inducibility of many of these genes depends on the cell cycle checkpoint gene RAD9 (Aboussekhra et al. 1996). Second, as pointed out by several authors, some of the characterized promoter motifs that confer UV inducibility in various yeast genes share sequence similarity (Siede and Friedberg 1992; Xiao et al. 1993; Friedberg et al. 1995). Sequence-speci®c binding of the single-strand binding protein complex Rpa to one of these elements has been demonstrated in vitro (Singh and Samson 1995). A number of sequences within the RAD30 promoter region could potentially fall into this category. Four motifs were identi®ed that are similar in sequence not only to each other but also to a repressor element in the MAG1 gene (encoding methyladenine glycosylase) involved in damage-inducibility (Fig. 4A) (Xiao et al. 1993). Two more elements of similar sequence resemble UV-responsive upstream activating sequences found in the promoters of RAD23 and RAD2 $( = D R E 2 )$ ) (Fig. 4B) (Siede et al. 1989; Jones and Prakash 1991; Siede and Friedberg 1992). Thus, it can be argued that $R A D 3 0$ may indeed be a member of a large family of co-regulated damage-responsive genes in yeast that resemble the bacterial SOS system. Clearly, additional studies are required to further characterize RAD30 regulation and to de®ne relevant promoter elements. ",
+        "bbox": [
+            78,
+            850,
+            489,
+            937
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f304d542a822fbe8186bce8b283faa3b414187a685e4919f4a6e577fb08405d0.jpg",
+        "image_caption": [
+            "Fig. 4A, B Sequence similarity between sequences in the RAD30 promoter region and a damage-responsive repressor sequence of MAG1 (A) or upstream activating sequences of RAD2 and $R A D 2 3$ (B). The position of the ®rst residue in relation to the translational start site in given "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            563,
+            86,
+            862,
+            256
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            350,
+            917,
+            709
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements We thank John McDonald and Roger Woodgate for extensive discussions and for communicating results prior to publication. We appreciate the technical help of Michael Trotman. These studies were supported in part by the Winship Cancer Center of Emory University (WS) and by grants CA12428 (ECF) and GM55381 (WS) from the United States Public Health Service. ",
+        "bbox": [
+            508,
+            726,
+            917,
+            807
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            506,
+            836,
+            587,
+            850
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Aboussekhra A, Vialard JE, Morrison DE, de la Torre-Ruiz MA, CernaÂ kovaÂ L, Fabre F, Lowndes NF (1996) A novel role for the budding yeast RAD9 checkpoint gene in DNA damage-dependent transcription. EMBO J15:3912±3922   \nBrotcorne-Lannoye A, Maenhaut-Michel G (1986) Role of RecA protein in untargeted UV mutagenesis of bacteriophage k: eviUSA 83:3904±3908   \nBruck I, Woodgate R, McEntee K, Goodman MF (1996) Puri®- cation of a soluble UmuD'C complex from Escherichia coli: cooperative binding of UmuD'C to single-stranded DNA. J Biol Chem 271:10767±10774   \nCassier-Chauvat C, Fabre F (1991) A similar defect in UV-induced mutagenesis conferred by the rad6 and rad18 mutations of Saccharomyces cerevisiae. Mutation Res 254:247±253   \nFriedberg EC, Walker GC, Siede W (1995) DNA repair and mutagenesis. American Society of Microbiology Press, Washington, DC   \nGietz RD, Schiestl RH, Willems AR, Woods RA (1995) Studies on the transformation of intact yeast cells by the LiAc/SS-DNA/ PEG procedure. Yeast 11:355±360   \nHawthorne DC, Leupold U (1974) Suppressor mutation in yeast. Curr Topics Microbiol Immunol 64:1±47   \nJones JS, Prakash L (1991) Transcript levels of the Saccharomyces cerevisiae DNA repair gene RAD18 increase in UV irradiated cells and during meiosis but not during the mitotic cell cycle. Nucleic Acids Res 19:893±898   \nKaiser C, Michaelis S, Mitchell A (1994) Methods in yeast genetics. Cold Spring Harbor Laboratory Press, Cold Spring Harbor, New York   \nKenyon CJ, Walker GC (1980) DNA-damaging agents stimulate gene expression at speci®c loci in Escherichia coli. Proc Natl Acad Sci USA 77:2819±2823   \nKulaeva OI, Koonin EV, McDonald JP, Randall SK, Rabinovich N, Connaughton JF, Levine AS, Woodgate R (1996) Identi®- cation of a DinB/UmuC homolog in the archeon Sulfolobus solfataricus. Mutation Res 357:245±253   \nLarimer FW, Perry JR, Hardigree AA (1989) The REV1 gene of Saccharomyces cerevisiae: isolation, sequence and functional analysis. J Bacteriol 171:230±237   \nLawrence CW (1982) Mutagenesis in Saccharomyces cerevisiae. Adv Genet 21:173±254   \nLawrence CW, Christensen RB (1982) The mechanism of untargeted mutagenesis in UV-irradiated yeast. Mol Gen Genet 186:1±9   \nLawrence CW, Hinkle DC (1996) DNA polymerase $\\zeta$ and the control of DNA damage-induced mutagenesis in eukaryotes. Cancer Surv 28:21±31   \nLawrence CW, Gibbs PEM, Borden A, Horsfall MJ, Kilbey BJ (1993) Mutagenesis induced by single UV photoproducts in E. coli and yeast. Mutation Res 299:157±164   \nLehmann AR, Bridges BA, Hanawalt PC, Johnson RT, Kanaar R, Kyrtopoulos S, Lambert B, Melton DW, Moustacchi E, Natarajan AT, Radman M, Sarasin A, Seeberg E, Smerdon MJ, Smith CA, Smith PJ, Thacker J, Thomale J, Water R, Weeda G, West SC, Van Zeeland AA, Zdzienicka MZ (1996) Workshop on processing of DNA damage. Mutation Res 364:245±270   \nLemontt JF (1971) Mutants of yeast defective in mutation induction by ultraviolet light. Genetics 68:21±33   \nMadura K, Prakash S, Prakash L (1990) Expression of the Saccharomyces cerevisiae DNA repair gene RAD6 that encodes a ubiquitin conjugating enzyme, increases in response to DNA damage and in meiosis but remains constant during the mitotic cell cycle. Nucleic Acids Res 18:771±778   \nManivasakam P, Weber SC, McElver J, Schiestl R (1995) Microhomology mediated PCR targeting in Saccharomyces cerevisiae. Nucleic Acids Res 23:2799±2800   \nMcDonald JP, Levine A, Woodgate R (1997) The Saccharomyces cerevisiae RAD30 gene, a homologue of Escherichia coli dinB and umuC, is DNA damage inducible and functions in a novel error-free postreplication repair mechanism. Genetics:147: 1557±1568   \nMorrow DM, Tagle DA, Shiloh Y, Collins FS, Hieter P (1995) TEL1, an S. cerevisiae homolog of the human gene mutated in ataxia telangiectasia, is functionally related to the yeast checkM FC1. Cel1 82:831840   \nNelson JR, Lawrence CW, Hinkle DC (1996a) Deoxycytidyl transferase activity of the yeast REV1 protein. Nature 382:729± 731   \nNelson JR, Lawrence CW, Hinkle DC (1996b) Thymine-thymine dimer bypass by yeast DNA polymerase $\\zeta$ . Science 272:1646± 1649   \nNohmi T, Battista JR, Dodson LA, Walker GC (1988) RecA-mediated cleavage activates UmuD for mutagenesis: mechanistic relationship between transcriptional derepression and posttranslational activation. Proc Natl Acad Sci USA 85:1816±1820   \nOda N, Levin JD, Spoonde AY, Frank EG, Levine AS, Woodgate R, Ackerman EJ (1996) Arrested DNA replication in Xenopus and release by Escherichia coli mutagenesis proteins. Science 272:1644±1646   \nOhmori H, Hatada E, Qiao Y, Tsuji M, Fukuda R (1995) dinP, a new gene in Escherichia coli, whose product shows similarities to UmuC and its homologues. Mutation Res 347:1±7   \nPotter AA, Nestmann ER, Iyer VN (1984) Introduction of the plasmid pKM101-associated muc genes in Saccharomyces cerevisiae. Mutation Res 131:197±204   \nRajagopalan M, Lu C, Woodgate R, O'Donnell M, Goodman MF, Echols H (1992) Activity of the puri®ed mutagenesis proteins UmuC, UmuD¢, and RecA in replicative bypass of an abasic DNA lesion by DNA polymerase III. Proc Natl Acad Sci USA 89:10777±10781   \nRose MD (1987) Isolation of genes by complementation in yeast. In: Berger SL, Kimmel AR (eds) Guide to molecular cloning techniques. Academic Press, San Diego, pp 481±504   \nSiede W, Friedberg EC (1992) Regulation of the yeast RAD2 gene: DNA damage-dependent induction correlates with protein binding to regulatory sequences and their deletion in¯uences survival. Mol Gen Genet 232:247±256   \nSiede W, Robinson GW, Kalainov D, Malley T, Friedberg EC (1989) Regulation of the RAD2 gene of Saccharomyces cerevisiae. Mol Microbiol 3:1697±1707   \nSiede W, Friedberg AS, Dianova, I. Friedberg EC (1994) Characterization of G1 checkpoint control in the yeast Saccharomyces cerevisiae following exposure to DNA-damaging agents. Genetics 138:271±281   \nSikorski RS, Hieter P (1989) A system of shuttle vectors and yeast host strains designed for ecient manipulation of DNA in Saccharomyces cerevisiae. Genetics 122:19±27   \nSingh KK, Samson L (1995) Replication protein A binds to regulatory elements in yeast DNA repair and DNA metabolism genes. Proc Natl Acad Sci USA 92:4907±4911   \nSinghal RK, Hinkle DC, Lawrence CW (1992) The REV3 gene of Saccharomyces cerevisiae is transcriptionally regulated more like a repair gene than one encoding a DNA polymerase. Mol Gen Genet 236:17±24   \nVon Borstel RC (1978) Measuring spontaneous mutation rates in yeast. Methods Cell Biol 20:1±24   \nWalker GC (1984) Mutagenesis and inducible responses to deoxyribonucleic acid damage in Escherichia coli. Microbiol Rev 48:60±93   \nWalker GC (1991) The SOS response of Escherichia coli. In: Neidhardt FC Ingraham JL, Low KB, Magasanik B, Schacchter M, Umbarger HE (eds) Escherichia coli and Salmonella typhimurium: cellular and molecular biology. American Society for Microbiology, Washington, DC, pp 1346±1357   \nWenzel TJ, Teunissen AWRH, Steensma HY (1995) PDA1 mRNA: a standard for quantitation of mRNA in Saccharomyces cerevisiae superior to ACT1 mRNA. Nucleic Acids Res 23:883±884   \nWoodgate R, Levine AS (1996) Damage-inducible mutagenesis: recent insights into the activities of the UmuC family of mutagenesis proteins. Cancer Surv 28:117±139   \nXiao W, Singh KK, Chen B, Samson L (1993) A common element involved in transcriptional regulation of two DNA alkylation repair genes (MAG and MGT1) of Saccharomyces cerevisiae. Mol Cell Biol 13:7213±7221 ",
+        "bbox": [
+            508,
+            866,
+            917,
+            936
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            77,
+            95,
+            489,
+            912
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            506,
+            91,
+            917,
+            904
+        ],
+        "page_idx": 6
+    }
+]

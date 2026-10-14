@@ -1,0 +1,1129 @@
+[
+    {
+        "type": "text",
+        "text": "Classics in DNA Repair ",
+        "text_level": 1,
+        "bbox": [
+            394,
+            157,
+            591,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Error-prone DNA repair and translesion DNA synthesis II: The inducible SOS hypothesis ",
+        "text_level": 1,
+        "bbox": [
+            176,
+            183,
+            810,
+            230
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bryn A. Bridges ∗ ",
+        "bbox": [
+            408,
+            241,
+            564,
+            260
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted 16 December 2004   \nAvailable online 7 March 2005 ",
+        "bbox": [
+            410,
+            278,
+            576,
+            301
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            335,
+            126,
+            347
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evelyn Witkin hypothesized in 1967 that bacterial cell division is controlled by a repressor which, like the lambda repressor, is inactivated by a complex process that starts with the presence of replication-blocking lesions in the DNA. She further suggested that this might not be the only cellular function to show induction by DNA damage. Three years later, Miroslav Radman, in a privately circulated note, proposed that one such function might be an inaccurate (mutation-prone) DNA polymerase under the control of the recA and lexA genes. Thus was born the SOS hypothesis. ",
+        "bbox": [
+            70,
+            362,
+            915,
+            430
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ ©$ 2005 Published by Elsevier B.V. ",
+        "bbox": [
+            70,
+            431,
+            280,
+            444
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "By the end of the 1960s, the phenomenology of ultraviolet (UV) light mutagenesis had begun to evolve into a partial understanding. We knew that DNA polymerization stopped when a pyrimidine dimer was encountered by the replication fork [1] resulting in discontinuities in newly synthesized DNA. We also knew that there was a pathway under genetic control that was needed to generate mutations presumed to arise at or close to the replication fork. Witkin had shown that bacteria carrying lexA (at that time known as exrA) were not mutable by UV light [2] and Kondo and his colleagues had made a similar observation with recA bacteria [3]. Our laboratory had shown that the lexA-dependence also applied to the other mutagenic treatments that gave rise to DNA ends [4]. ",
+        "bbox": [
+            70,
+            508,
+            472,
+            717
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The next step, almost a paradigm shift, was suggested in one of the Classics in DNA Repair featured below which is unusual in that it was not peer reviewed or formally published. Miroslav Radman circulated it privately in 1970 to a few chosen colleagues around the world. Since few of those who subsequently worked on the SOS system have ever seen the original paper which was its genesis, it is reproduced here in facsimile. ",
+        "bbox": [
+            70,
+            719,
+            472,
+            837
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Private circulation of a mould-breaking idea, while uncommon, is not without precedent. Perhaps the most famous example in the modern era is Francis Crick’s note to the 21 ",
+        "bbox": [
+            68,
+            840,
+            472,
+            882
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Club putting forward the idea of adaptor RNA; this was never published formally. Nevertheless everyone knows that it was Crick’s idea, just as everyone knows that the SOS hypothesis was Radman’s. ",
+        "bbox": [
+            510,
+            507,
+            914,
+            566
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Radman’s proposal was that there exists an inducible replication system that is responsible for UV radiation-induced mutations both in bacteria and in lambda phage. In the latter, it had been shown by Weigle that irradiated phage plated on irradiated bacteria survived much better and had more induced mutations than phage plated on unirradiated bacteria. The first statement by Radman in the published literature was in a relatively obscure book published in 1974 [5], by which time it had already been the subject of several investigations by others, notably Witkin [6]. ",
+        "bbox": [
+            512,
+            568,
+            915,
+            717
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Radman did not, however, dwell on the mechanisms of induction of this new replication system. For this aspect of the SOS story, we have to go back to a 1967 paper (another classic also featured here) in which Witkin had suggested that the filament formation and prophage induction after UV radiation were mediated by the same or a similar process which was triggered by just a handful of UV photoproducts in the whole genome [7]. Noting that the primary event in prophage induction is the derepression of an operon, she considered that it would be premature to consider that such UV radiationsensitive repressors are found only in association with the episomes and never with the normal bacterial proteins. Her proposal was that a similar UV radiation-sensitive repressor controls a cell division inhibitor. ",
+        "bbox": [
+            512,
+            719,
+            915,
+            882
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            82,
+            84,
+            485,
+            127
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Subsequently, it became clear that there are many genes controlled by the lexA repressor, including that for filamentation, and that these and the gene repressed by the lambda phage repressor are part of a somewhat larger family of repressors that are cleaved in the presence of activated RecA protein. Thus was born the concept of SOS responses. ",
+        "bbox": [
+            84,
+            129,
+            485,
+            232
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The first real evidence, as distinct from speculation, that UV radiation-induced mutagenesis in Escherichia coli involved an inducible process came from Witkin’s experiments with strains deficient in DNA polymerase I [6]. She presented this with her customary enthusiasm in 1972 at a meeting in Bethesda where, as she noted later, “it made not a dent on the audience”. Further research with tif-1 bacteria had rather more impact [8]. ",
+        "bbox": [
+            84,
+            234,
+            487,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has to be recorded that my own laboratory did not immediately jump aboard the SOS bandwagon. We had good data showing that in excision-proficient bacteria, in contrast to excision-deficient bacteria, newly UV radiation-induced mutations could be fixed (i.e., lose their photoreversibility) even when the protein synthesis needed for inducibility was inhibited by chloramphenicol [9,10]. It took us 20 years to find a satisfactory explanation for that paradox [11]. ",
+        "bbox": [
+            526,
+            84,
+            929,
+            204
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            526,
+            234,
+            665,
+            248
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The facsimile of the Radman paper is reproduced (using the clearest pages) from a copy of an original held by Evelyn Witkin and a copy re-acquired by Radman, who had mislaid his own copy (something that will not come as a great surprise to those who know Miroslav). I am grateful to these workers for making them available. ",
+        "bbox": [
+            526,
+            264,
+            929,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reprinted from the Proceedings of the National Academy of Sciences Vol. 57, No. 5, pp1275-1279. May 1967 ",
+        "bbox": [
+            188,
+            85,
+            598,
+            114
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "THE RADIATION SENSITIVITY OF ESCHERICHIA COLI B: A HYPOTHESIS RELATING FILAMENT FORMATION AND PROPHAGE INDUCTION ",
+        "text_level": 1,
+        "bbox": [
+            193,
+            129,
+            791,
+            188
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "By Evelyn M. Witkin ",
+        "bbox": [
+            394,
+            198,
+            588,
+            216
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "STATE UNIVERSITY OF NEW YORK, DOWNSTATE MEDICAL CENTER, BROOKLYN ",
+        "bbox": [
+            211,
+            224,
+            769,
+            239
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Communicated by Barbara McClintock, March 13, 1967 ",
+        "bbox": [
+            324,
+            244,
+            655,
+            258
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli B is unusually sensitive to ultraviolet light (UV), compared to other wild-type strains and to its own radiation-resistant derivatives such as $\\mathbf { B } / \\mathbf { r } . ^ { 1 }$ Despite the large difference in survival after exposure to the same dose of UV, strains B and $\\mathbf { B } / \\mathbf { r }$ differ little, or not at all, in:(1) number of thymine-containing dimers produced in the DNA, (2) rate at which thymine-containing dimers are excised from the DNA,2 (3) ability to promote \"host-cell reactivation\" of irradiated bacteriophages, and (4) recovery time and rate of synthesis of DNA after irradiation.4 Sensitivity to UV in strain B, unlike that in certain other UV-sensitive strains isolated from both B and $\\mathbf { B } / \\mathbf { r } ,$ is not associated with reduced ability to repair pyrimidine dimers or other kinds of UV damage that block DNA replication. ",
+        "bbox": [
+            215,
+            285,
+            776,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The most striking difference between strains $\\mathbf { B }$ and $\\mathbf { B } / \\mathbf { r }$ is the failure of cell division in the sensitive strain after exposure to very low doses of UV, resulting in the formation of greatly elongated filamentous cells upon subsequent incubation.' Survivors and nonsurvivors alike form filaments, the survivors ultimately regaining the ability to divide. Agents other than UV (e.g., crystal violet5 and nitrosoguanidine6) also cause filamentous growth in B but not in $\\mathbf { B } / \\mathbf { r }$ , and similar \"snakes\" are frequently observed in untreated cultures of the sensitive strain. Strains B and $\\mathbf { B } / \\mathbf { r }$ differ mainly in the vulnerability of the cell division mechanism, which in strain B is readily deranged by a variety of initiating stimuli. In $\\mathrm { { B / r } }$ given the same treatments, inhibition of the cell division mechanism either is not initiated or is promptly and invariably reversed. ",
+        "bbox": [
+            213,
+            424,
+            774,
+            574
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Impressive similarities have been noted, 8 between filament formation in strain B and prophage induction in lysogenic strains such as K12 (λ), some of which are summarized below: (1) Both filament formation and prophage induction are mass effects, occurring in virtually every member of a population exposed to low doses of UV. (2) Both effects can be initiated by a variety of agents other than UV, all having in common the ability to produce damaging changes in DNA. Although no systematic comparison has been made to determine whether the same agents invariably produce both effects, strain B is more sensitive than strain $\\mathbf { B } / \\mathbf { r }$ to many of the agents known to cause prophage induction (X rays, 1 mitomycin $\\mathrm { C } , { \\mathfrak { s } }$ and nitrogen mustard). (3) Both filament formation in B and prophage induction in K12(λ) occur occasionally in untreated cultures, and especially in ${ } ^ { \\mathfrak { s } } \\circ \\mathbf { l } \\mathbf { d } ^ { \\prime \\prime }$ cultures.6 (4) UV-initiated filament formation is photoreversible, 11 as is prophage induction;12 that is, both are greatly reduced by post-UV exposure to visible light. In strain B, efficient photoreactivation is obtained when wavelengths of light responsible for indirect effects are excluded, and most of this photoreactivation can be ascribed to the enzymatic splitting of pyrimidine dimers.13 The same appears to be true of prophage induction in K12(λ).6 This indicates that both effects when produced by UV depend upon the presence in the DNA of pyrimidine dimers. The doses of ",
+        "bbox": [
+            213,
+            575,
+            773,
+            822
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UV that are effective in provoking filament formation\"1 or prophage induction14 are far too low, however, to permit the assumption that either effect requires the presence of one or more pyrimidine dimers in a particular gene, or in a particular operon. Doses producing only about 10-20 dimers per bacterium can cause filament formation or prophage induction in most of the exposed cells. This suggests that both effects are provoked by the presence anywhere in the DNA (or, at least, anywhere within a relatively large segment of it) of a small number of pyrimidine dimers. (5) Both filament formation and prophage induction are partially or wholly prevented by a number of pre-UV or post-UV treatments (e.g., chloramphenicol posttreatment15,16 or pre-UV exposure to \"photoprotecting\" light17,18) having in common the ability to inhibit or reduce the rate of protein synthesis. (6) Certain posttreatments (caffeine and acriflavine), having in common the ability to inhibit the repair of UV-irradiated DNA, markedly increase both the induction of prophage in $\\mathrm { K 1 2 } ( \\lambda ) ^ { 1 9 }$ and the UV sensitivity of strain B.6 ",
+        "bbox": [
+            200,
+            85,
+            815,
+            297
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Consideration of these parallels has led to the proposal that UV sensitivity in B may be due to the detachment of an integrated episome' or to the induction of a defective prophage.8 Although there is every reason to seek a common mechanism underlying the UV sensitivity of strain B and prophage induction, it should be borne in mind that the primary event in prophage induction is the derepression of an operon.20 Subsequent events (vegetative growth of phage, and lysis) are dictated by the potentialities of the particular operon that is derepressed, and it may be quite irrelevant to the comparison with UV sensitivity in B that this operon happens to be part of the prophage genome rather than of the bacterial gcnome proper. ",
+        "bbox": [
+            200,
+            298,
+            815,
+            433
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The extraordinary feature of prophage induction is the sensitivity of the repressor responsible for the maintenance of the lysogenic state in $\\mathrm { K } 1 2 ( \\lambda )$ to relatively slight impairment of the integrity of the DNA. The lambda repressor is not directly inactivated by UV, but loses its activity only after the occurrence of a complex biochemical process that includes postirradiation protein synthesis.14 Although the nature of this process is still obscure, the direct photoreversibility of prophage induction indicates that the repressor is inactivated after UV irradiation only if pyrimidine dimers remain in the DNA for some time. This suggests that blockage of DNA replication plays an essential role in the inactivation of lambda repressor, perhaps by permitting the accumulation of a DNA precursor that participates in the inactivation process.21 Although repressors exhibiting this sensitivity to the state of the DNA are probably rare (as indicated by the failure of prophage-inducing agents to induce the synthesis of certain inducible enzymes22, 23) they may not be associated uniquely with prophages. Colicin production, which is mediated by another kind of episome, can also be induced by UV.24 It would be premature, however, to assume that such repressors are found only in association with episomes and never with normal bacterial operons. They are more likely to be detected if the consequences of induction are lethal or otherwise dramatically evident, and such drastic effects are probably unusual after induction of native bactcrial genes. Repressors that are inactivated when DNA replication stops could, theoretically, play an important part in regulation of cellular activities normally geared to the cycle of cell division, especially in organisms charactcrized by a distinct pause between rounds of DNA synthesis. ",
+        "bbox": [
+            198,
+            435,
+            816,
+            778
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The following hypothesis is offered to explain UV sensitivity and filament formation in strain B: (1) Strain B contains a repressor which, like the repressor of bacteriophage lambda, is inactivated by a complex process that starts with the presence of replication-blocking lesions, such as pyrimidine dimers, in the DNA. (2) This repressor (repressor B) is inactivated after UV only if protein synthesis occurs before the repair of pyrimidine dimers in the DNA is accomplished. (3) The inactivation of repressor B induces an operon (operon B), which may be part of an integrated episome or part of the bacterial genome proper. A product of operon B (presumably a protein) is an inhibitor of cell division or can lead indirectly to the production of such an inhibitor. (4) After UV induction, repression of operon B is restored when the repair of pyrimidine dimers in the DNA is completed. (5) Filamentous growth results from $( a )$ induction of operon B and (b) synthesis of a sufficient quantity of the inhibitory product of operon B to cause persistent inhibition of cell division, even after DNA repair is accomplished and repression of operon B is restored. (6) Whether or not a filament will recover the ability to divide, and will thereby survive, depends upon the amount of inhibitor that accumulates in the cell while operon B is in the derepressed state (i.e., between the time the repressor is inactivated and the time DNA repair is completed). A filament survives only if the amount of inhibitor synthesized during this time is small enough to be diluted below a threshold concentration, as the filament elongates, before it reaches a \"critical length\"25 beyond which recovery is no longer possible. ",
+        "bbox": [
+            211,
+            779,
+            813,
+            794
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            184,
+            85,
+            801,
+            387
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "According to this hypothesis, the fate of irradiated B depends upon the relation between two postirradiation processes: (1) the rate of protein synthesis, and (2) the rate of DNA repair (in strain B, this coincides with the rate of excision of thymine-containing dimers from the DNA).4 The effects of posttreatments known to increase or decrease survival in B (as compared to its survival when plated immediately after UV on nutrient agar and incubated at $3 7 ^ { \\circ } \\mathrm { ~ C ~ }$ are readily explained on this basis. Posttreatment with chloramphenicol, which inhibits protein synthesis but allows normal excision of thymine-containing dimers,4 completely suppresses filament formation in $\\mathbf { B ^ { 6 } }$ and raises B survival to the same level as that of $\\mathbf { B } / \\mathbf { r }$ 15 Under these conditions, DNA repair is probably completed before any protein synthesis occurs, in which case repressor B should not be inactivated and strain B should exhibit the same UV sensitivity as $\\mathbf { B } / \\mathbf { r }$ Another posttreatment that converts strain B into a phenocopy of $\\mathbf { B } / \\mathbf { r }$ is incubation at $4 5 ^ { \\circ } \\mathrm { C }$ 26 At this temperature protein is synthesized at about the same rate as at $3 7 ^ { \\circ } \\mathrm { C }$ , but indirect evidence indicates that the rate of dimer excision is greatly accelerated.6 Faster repair of DNA should reduce the period during which operon B remains derepressed, resulting in restoration of repression in every cell before a lethal quantity of inhibitor can accumulate. ",
+        "bbox": [
+            183,
+            387,
+            800,
+            658
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Another kind of posttreatment that increases the survival of irradiated B, although never all the way to the level of $\\mathbf { B } / \\mathbf { r } ,$ , is incubation in nonnutrient liquid medium before plating. This \"liquid holding\"' does not permit protein synthesis, but does allow dimer excision, albeit at a considerably reduced rate.4 Since DNA repair is probably not completed during liquid holding, induction of operon B should occur upon subsequent plating. The head start in DNA repair provided by the incubation in liquid should hasten the restoration of repression, thereby reducing the amount of inhibitor produced. Thus, a larger fraction of the population should recover the ability to divide before reaching the point of no return. Neither liquidholding recovery²8 nor heat reactivation® occurs to any great extent in strains lacking the ability to excise pyrimidine dimers. ",
+        "bbox": [
+            183,
+            659,
+            798,
+            794
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            198,
+            85,
+            813,
+            114
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acriflavine, which inhibits dimer excision,9 reduces B survival after UV as would be expected if its effect on protein synthesis were less drastic. 30. 31 Caffeine, which delays DNA synthesis after UV with relatively little effect on protein synthesis, 32 also lowers the survival of irradiated B.6 Any posttreatment having the net effect of reducing the amount of protein synthesized before DNA repair is completed should increase B survival; any posttreatment permitting more protein synthesis before DNA is repaired should decrease B survival. The relation between DNA repair and protein synthesis should similarly determine the fate of $\\mathrm { K } 1 2 ( \\lambda )$ after UV induction. In both systems, protein synthesis before DNA repair would promote a lethal outcome in two distinct ways: (1) by permitting inactivation of a repressor, and (2) by permitting translation of a potentially lethal message coded by the operon thereby induced. Protein synthesis after DNA repair would be necessary for the production of active repressor, and thus for the restoration of repression, unless the inactivation of repressor after UV is a reversible process. ",
+        "bbox": [
+            198,
+            115,
+            815,
+            326
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "This hypothesis does not bear directly on the mechanism of inhibition of cell division that is promoted by the induction of operon B. Conceivably, such inhibition could be quite indirect; for example, operon B might contain a regulator gene coding a repressor (repressor X) for another operon (operon X). If operon X codes a product essential for septum formation, the induction of operon B would inhibit cell division by causing repression of the synthesis of this essential substance. A division-promoting agent present in $\\mathcal { E }$ . coli extracts³3 could be such a product. According to this model, a filament could recover its ability to divide by producing a large enough number of DNA replicas to bind all units of repressor X synthesized while operon B was in the active state. Only after all accumulated units of repressor X are bound to DNA can the filament produce a DNA replica containing an active operon X and cell division resume (unless so much repressor X has accumulated that the \"critical length\" is reached before this point). This could account for the observation³4 that \"multinucleate\" B filaments appear to contribute genetic information from only one DNA molecule to the clones descended from them. ",
+        "bbox": [
+            198,
+            328,
+            813,
+            551
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In this laboratory, filament formation in $E$ . coli B and prophage induction in $\\mathrm { K 1 2 } ( \\lambda )$ are being compared under a variety of conditions designed to test this hypothesis. In addition, an effort is under way to demonstrate transfer of the postulated inhibitor of cell division during conjugation between irradiated and unirradiated bacteria. ",
+        "bbox": [
+            200,
+            554,
+            815,
+            628
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10Bryson, V., J. Bacteriol., 56, 423 (1948).   \n11 Deering, R. A., J. Bacteriol., 76, 123 (1958).   \n12 Jacob, F., Compt. Rend. Acad. Sci., 231, 1585 (1950).   \n13 Jagger, J., and R. S. Stafford, Biophys. J., 5, 75 (1965).   \n14 Tomizawa, J.-I., and T. Ogawa, J. Mol. Biol., 23, 247 (1967).   \n15 Alper, T., and N. E. Gillies, J. Gen. Microbiol., 22, 113 (1960).   \n16 Levine, M., and E. Cox, Bacteriol. Proc., 163 (1961).   \n17 Weatherwax, R. S., J. Bacteriol., 72, 124 (1956).   \n18 Miki, K., Nippon Saikingaku Zasshi, 11, 803 (1956).   \n19 Lieb, M., Virology, 23, 381 (1964).   \n20 Jacob, F., and J. Monod, J. Mol. Biol., 3, 318 (1961).   \n21Hertman, I., and S. E. Luria, J. Mol. Biol., 23, 117 (1967).   \n22 Yarmolinsky, M., and H. Wiesmeyer, these ProcEEDINGs, 46, 1626 (1960).   \n23 Melechen, N. E., Virology, 23, 333 (1964).   \n24 Jacob, F., L. Siminovitch, and E. L. Wollman, Ann. Inst. Pasteur, 83, 295 (1952).   \n25 Kantor, G. J., and R. A. Deering, J. Bacteriol., 92, 1062 (1966).   \n2 Harm, W., and W. Stein, Naturwissenschaften, 39, 212 (1952).   \n27 Roberts, R. B., and E. Aldous, J. Bacteriol., 57, 363 (1949).   \n28 Harm, W., Photochem. Photobiol., 5, 747 (1966).   \n2Setlow, R. B., J. Cellular Comp. Physiol., 64 (Suppl. 1), 135 (1964).   \n30 Alper, T., Nature, 200, 534 (1963).   \n31 Doudney, C. O., B. F. White, and B. J. Bruce, Biochem. Biophys. Res. Commun., 15, 70 (1964).   \n32 Lieb, M., Genetics, 47, 967 (1962).   \nAdler, H. I., W. D. Fisher, A. A. Hardigree, and G. E. Stapleton, J. Bacteriol., 91, 737 (1966).   \nWitkin, E. M. Genes and Mutations, Cold Spring Harbor Symposia on Quantitative Biology,   \nol. 16 (1951), p. 357. ",
+        "bbox": [
+            200,
+            84,
+            805,
+            414
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "SOS Replication: A Distinct DNA Replication Mechanism which is Induced by DNA-damaging Treatments? ",
+        "bbox": [
+            208,
+            85,
+            791,
+            141
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "[By Miroslav Radman, circulated privately in 1970] ",
+        "bbox": [
+            206,
+            162,
+            796,
+            198
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "I. A Working Hypothesis ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            227,
+            384,
+            244
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "This discussion will be focused mostly on phenomena which probably occur after completion of the excision repair i.e. phenomena involved in recovery of DNA replication following UV irradiation. Two E. coli functions we shall be dealing with, recA and lex, are supposed to have no important influence on the excision repair system per se (but see Gross et al 197l and Monk et al 197l). ",
+        "bbox": [
+            156,
+            260,
+            872,
+            374
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The principal idea: In addition to normal \"vegetative\" DNA replication, there exists an inducible DNA replication mechanism which differs from the vegetative replication and requires some specific functions. ",
+        "bbox": [
+            156,
+            381,
+            872,
+            445
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(A) \"Vegetative\" DNA replication is one we normally refer to. It is a highly accurate, mutation-proof process. This replication complex is unable to replicate DNA containing structural damage. It is a UV sensitive replication. For example, in repair-deficient E. coli uvr\" recA mutants, DNA synthesis is completely blocked following very small UV-doses (Howard-Flanders, 1968; Horii & Suzuki, i970). This effect is not primarily related to DNA degradation (to be discussed later on). Apparently,\"vegetative\" DNA replication in E. coli does not depend on recA, lex and polA functions. ",
+        "bbox": [
+            110,
+            471,
+            897,
+            634
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(B) \"Sos-replication\" mechanism can be induced by variety of mutagenic treatments which also cause inhibition of \"vegetative\" DNA replication and induction of lysogenic bacteria. This replication mechanism is an inaccurate, mutation-prone process; it can replicate DNA which contains damages, however the continuity of the parental DNA strands is a probable structural requirement. SOS-replication is \"UV-resistant\". \"SOS-replication\" necessitates recA and lex functions. It is plausible that primarily this type of replication often leaves gaps opposite pyrimidine dimers (Rupp & Howard-Flanders, 1968). ",
+        "bbox": [
+            110,
+            658,
+            902,
+            822
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Phenomena such as: UV-reactivation (Weigle, 1953), UV-mutagenesis, \"Sex-replication\" during bacterial mating, fast rate growth (i.e. replication) and prophage induction seem to be directly or indirectly related to postulated \"sos-replication\". ",
+        "bbox": [
+            136,
+            96,
+            843,
+            162
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Both recA and lex mutants which are unable to sos-replicate fail to be induced by UV when lysogenic for phage λ. When induced but not excised prophage λ can provoke replication of host DNA in the neighbourhood of the prophage, but not when defective in O and P functions. ",
+        "bbox": [
+            132,
+            170,
+            830,
+            251
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DNA repair in mammalian cells: UV induced unscheduled DNA Synthesis. (see review by Painter, 1970) will not be discussed here. ",
+        "bbox": [
+            132,
+            268,
+            860,
+            319
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "II. Some experimental data supporting the idea of the existence of two (or more?) distinct DNA replication mechanisms. ",
+        "bbox": [
+            85,
+            374,
+            806,
+            406
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(A) Sex-replication versus vegetative replication: divergencies. ",
+        "bbox": [
+            87,
+            430,
+            820,
+            445
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "\"Sex-replication\"during bacterial mating and vegetative replication are separate mechanisms. Sex-replication of a F-factor occurs normally at restrictive temperature when both male and female carry chromosomal DNA-ts mutations (Marinus & Adelberg, 1970). Similar seems to hold for Hfr transfer (Bresler et al, 1968). Sex factors possess a repression system of their replication, therefore it is plausible that \"sex-replication\" is an inducible mechanism. ",
+        "bbox": [
+            126,
+            453,
+            843,
+            584
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "(B) \"Sos-replication\" versus sex-replication: similarities. ",
+        "bbox": [
+            84,
+            600,
+            751,
+            615
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1) Sex-replication (transfer) of F-lac is a very UV-resistant process even when bacterium carries chromosomal mutations for UV-sensitivity (uvr\", recA) (George & Devoret, priv. comm.). The same is true for the sex-replication in Hfr x F- crosses when both male and female are recA\" and Uv irradiated (Greenberg et al, 1970). In this case, transfer replication is not blocked and the DNA is therefore not degraded. ",
+        "bbox": [
+            131,
+            624,
+            897,
+            738
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2) UV-irradiated (derepressed?) F-lac factor causes UV-reactivation (Radman; George; Devoret, unpubl.) and prophage induction (Boreck & Ryan, 1958) in the recipient cell. Some sex factors may carry inducible functions which are to some degree analogous to recA (Moody & Hayes, 1970) and lex (Kondo ",
+        "bbox": [
+            131,
+            754,
+            857,
+            836
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Although other necessary inducible functions may exist as well. \"Donor stimulation\" in matings by inducing Uv doses was noticed by Hayes (1953). ",
+        "bbox": [
+            179,
+            84,
+            895,
+            133
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "(c) \"Sos-replication\" versus vegetative replication: divergencies. ",
+        "bbox": [
+            97,
+            149,
+            857,
+            166
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1) Allready some early works indicate that the \"Uv-resistant\" DNA replication is an inducible mechanism (Drakulié & Errera. 1959). De novo protein synthesis is required for: Recovery of DNA replication following UV, UV-reactivation, UV-mutagenesis and prophage induction. ",
+        "bbox": [
+            146,
+            182,
+            904,
+            263
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "2) Recovery of the DNA replicating capacity following UV depends on recA and lex functions. Following UV, DNA synthesis ceases in recA\" and lex\" mutants companied by DNA degradation (see Witkin, 1969). POl $\\tt { \\tt A } ^ { - }$ mutants behave in a similar way (Boyle and Setlow, 1970). ",
+        "bbox": [
+            146,
+            280,
+            873,
+            360
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "3) Lex is probably an Uv induced function. uv'd λ phage shows identical survivals on lex+ and lex bacteria, but only UV irradiated lex² hosts give rise to increased λ phage survival (UV-R).(Defais et al, 197l). RecA function influences survival of Uv'd λ also when the host cell is not irradiated indicating that recA is not only involved in Sos-replication (which is UV induced) but also in some other type of constitutive repair. ",
+        "bbox": [
+            144,
+            377,
+            892,
+            489
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "4) Some E.coli DNA ts mutants can resume DNA synthesis at high temperature when UV-irradiated (Kohiyama, 1968; Radman, unpubl., Only if DNA ts uvr- mutant will show the same effect at lower UV dose and if both DNA ts recA\" and DNA ts lex\" will fail to resume DNA synthesis under UV $^ +$ 41° treatment, the observation above will be one of direct evidences for Sos-replication. ",
+        "bbox": [
+            141,
+            507,
+            895,
+            603
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5) uv'd λ phage survives much better when assayed on hosts irradiated with \"indicing doses\" (UV-R, Weigle. 1953). UV-R requires host's recA and lex functions (Tomizawa et al, 1968; Defais et al, l97l). I suggest that UV-R is identical to SOS-replication (see Appendix). ",
+        "bbox": [
+            142,
+            619,
+            870,
+            700
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6) All treatments inducing \"aberant\" reinitiation of DNA replication such as UV, X-rays, thymineless conditions, N-mustards etc. (Hewitt & Billen, 1964; Billen et al, 1965; Pitchard & Lark, 1964) also induce UV-R (Weigle 1953, Hart & Ellison, 1970), mutagenesis (review, Witkin, 1969) and prophage induction. RecA- and lex mutants are Uv-R\", non-mutable by Uv and noninducible for prophage λ. ",
+        "bbox": [
+            142,
+            716,
+            909,
+            833
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Reinitiations of DNA replication caused by temperature shifts with an E. coli DNA ts mutant, also depend on recA function Worcel, 1970). ",
+        "bbox": [
+            168,
+            83,
+            865,
+            133
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(D) DNA degradation takes place when DNA replication is abruptly blocked,like in : ",
+        "bbox": [
+            85,
+            156,
+            818,
+            190
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(a) DNA ts (elongation-ts) mutants at $4 2 ^ { \\circ }$ , (b) recA following UV (c) lex- following UV (d) polA\" following UV ",
+        "bbox": [
+            136,
+            197,
+            610,
+            216
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            137,
+            221,
+            388,
+            240
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            137,
+            246,
+            388,
+            264
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            137,
+            270,
+            388,
+            289
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(e) wild type following Uv in the absence of de novo protein synthesis ",
+        "bbox": [
+            132,
+            294,
+            823,
+            328
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "(f) X-rays etc. ",
+        "bbox": [
+            137,
+            335,
+            314,
+            352
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX ",
+        "text_level": 1,
+        "bbox": [
+            369,
+            384,
+            463,
+            399
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "III. Weigle phenomenon: a general inducible replication repair process in E. coli? ",
+        "bbox": [
+            77,
+            418,
+            798,
+            449
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "By Weigle phenomenon or Weigle effect.I mean here UV-reactivation (UV-R) in order to avoid very frequent confusion and mixing up of very different phenomena and functions such as UVR, uvr, UVr. In addition,Weigle effect can be observed not only with Uv-treated phage and can be induced by various mutagenic treatments of host cells (Weigie 1953; Hart & Ellison, 1970). Weigle's phenomenon (as discovered and defined by Weigle, l953) is a host-dependent Uv inducec increase in survival of infecting Uv damaged phage. It is a very efficient repair process. ",
+        "bbox": [
+            134,
+            465,
+            905,
+            608
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "A simple question can be asked: Does this repair process operate also on bacterial (host) DNA? ",
+        "bbox": [
+            132,
+            624,
+            863,
+            657
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We know only two mutations\\* of E. coli which do not show Weigle phenomenon : recA and lex (or exr). RecA mutation abolishes pleiotropically Weigle phenomenon,UV-mutagenesis andrecombination capacity, while lex mutants are deficient in both Weigle effect and uv mutagenesis but are still rect. ",
+        "bbox": [
+            136,
+            664,
+            873,
+            746
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "I will try to deduce the existence of the Weigle phenomenon in the uninfected E. coli cells from the known discrepancies between the lethality of pyrimidine dimers (Py-Py) in bacterial DNA and in λ DNA. One letHal hit (e-1 survival) in wild type E. coli is caused by 1-3 x l03 PyPy, while for λ phage in the wild type ",
+        "bbox": [
+            136,
+            763,
+            873,
+            847
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\\*polA is $\\mathrm { U V } { \\mathrm { - } } \\mathbb { R } +$ (Errera's group) ",
+        "bbox": [
+            137,
+            863,
+            500,
+            880
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "combination approx. 40 PyPy per genome are sufficient for killing. Maurice Fox (personal commun.) first noticed that under optimal conditions for Weigle phenomenon $\\lambda$ requires up to about $\\boldsymbol { \\underline { { 1 0 } } ^ { 3 } }$ PyPy for one lethal hit, which is close to the number of PyPy causing one lethal hit in W.T. E. coli. If we relate survival of $\\lambda$ and E. coli to three repair systems, then the known discrepancy between the PyPy lethality in $\\gimel$ DNA and E. coli DNA practically disappears: ",
+        "bbox": [
+            104,
+            85,
+            848,
+            217
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "$\\begin{array} { l c l } { { \\mathrm {  ~ { \\sf ~ S } ~ } ( { \\mathrm {  ~ { \\cal ~ E } ~ } } , { \\mathrm {  ~ \\ c o l . i } } ) } } & { { = } } & { { \\mathrm {  ~ { \\cal ~ f } ~ } ( { \\mathrm {  ~ { \\cal ~ E } ~ } } , { \\mathrm {  ~ { \\cal ~ R } ~ } } , \\mathrm {  ~ { \\cal ~ W } } ) \\mathrm {  ~ { \\qquad ~ } } \\mathrm { ~  ~ { \\ e ^ { - 1 } ~ } } \\sim 1 0 ^ { 3 } \\mathrm {  ~ { \\cal ~ P } \\mathrm {  ~ { \\cal ~ P } ~ } } \\mathrm {  ~ { \\Sigma } ~ } } } \\\\ { { \\mathrm {  ~ { \\cal ~ S } ~ } ( { \\mathrm {  ~ { \\cal ~ \\wedge } ~ } } \\mathrm { o n ~ {  ~ U V ^ { \\scriptstyle ~ { \\scriptstyle \\Psi } } d ~ } } \\mathrm {  ~ { \\ h o s t } } ) } } & { { = } } & { { \\mathrm {  ~ { \\cal ~ f } ~ } ( { \\mathrm {  ~ { \\cal ~ E } ~ } } , { \\mathrm {  ~ { \\cal ~ R } ~ } } , \\mathrm {  ~ { \\cal ~ W } } ) \\mathrm {  ~ { ~ \\qquad ~ } } \\mathrm { ~  ~ { \\ e ^ { - 1 } ~ } } \\sim 1 0 ^ { 3 } \\mathrm {  ~ { \\cal ~ P } \\mathrm {  ~ { \\cal ~ P } ~ } } \\mathrm {  ~ { \\Sigma } ~ } } } \\\\ { { \\mathrm {  ~ { \\cal ~ S } ~ } ( { \\mathrm {  ~ { \\cal ~ \\wedge } ~ } } ) } } & { { = } } & { { \\mathrm {  ~ { \\cal ~ f } ~ } ( { \\mathrm {  ~ { \\cal ~ E } ~ } } , { \\mathrm {  ~ { \\cal ~ R } ~ } } ) \\mathrm {  ~ { ~ \\qquad ~ } } \\mathrm { ~  ~ { \\ e ^ { - 1 } ~ } } \\sim 4 0 \\mathrm {  ~ { \\cal ~ P } \\mathrm {  ~ { \\cal ~ P } ~ } \\mathrm {  ~ { \\cal ~ P } ~ } } \\mathrm {  ~ { \\Sigma } ~ } } } \\\\   \\mathrm {  ~ { \\cal ~ S } ~ } (  \\mathrm   ~  \\ \\end{array}$ $\\{ \\underline { { \\mathsf { S } } } \\ =$ survival, f means \"the function of..\" $\\Xi =$ excision repair, R $=$ recombination repair, $\\bar { \\boldsymbol { \\mathsf { W } } } \\boldsymbol { \\mathsf { \\Lambda } } =$ Weigle phenomenon ",
+        "bbox": [
+            73,
+            224,
+            914,
+            371
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Calculations of PyPy lethalities in all available genetic combinations of $\\lambda / \\texttt { E }$ . coli system did agree with the proposed scheme. The existence of a third (inducible)dark repair system in E. coli could explain why we could theoretically derive survival functions for λ phage taking into account only E and R, but the same computer program did not work for E. coli (Fornili et al, 197l) where probably at least W should additionally be taken into account. ",
+        "bbox": [
+            102,
+            400,
+            910,
+            516
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "I would like to suggest a provisory scheme for repair processes occuring in E. coli following UV irradiation: ",
+        "bbox": [
+            100,
+            522,
+            818,
+            556
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/43e6a1374769465ec7a4dc67130a59e69e0ff62382ecc01ad1d27c2818fc8da4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            92,
+            570,
+            895,
+            750
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This scheme predicts that the Uv sensitivity of recA- single mutant should be similar, to Uv sensitivities of double mutants: recB lex, recA recB-\\*, recA lex. ",
+        "bbox": [
+            102,
+            85,
+            815,
+            136
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "RecA mutation is supposed to abolish pleiotropically both recombination repair and Weigle phenomenon; recB or  mutations should abolish rec-repair only while lex\" mutation should be deficient in Weigle phenomenon but still capable of rec-repair. ",
+        "bbox": [
+            100,
+            149,
+            838,
+            215
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This could explain the extreme Uv sensitivity of recA mutants. Further implication is that the \"recombination repair\" observed by Rupp & Howard-Flanders (with lex rect bacteria) is composed of both rec-repair and uv-R. ",
+        "bbox": [
+            100,
+            222,
+            820,
+            288
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "What kind of repair reflects Weigle effect? I would like to suggest that it is a replication repair: \"Sos-replication\". By replicating damaged DNA by the SOS-replication, some incorrect bases are necessarily expected to be built in the new chain opposit Py-Py dimer, which would account for (l) the majority UV induced mutations in E. coli being single base substitutions (Witkin, 1969), (2) the extensive mutagenesis of λ phage under conditions of Weigle phenomenon. Thus \"SOs replication\" can be responsible for the recovery of DNA synthesis, repair (i.e. increased survival) and for one type of mutagenesis. These phenomena are Uv induced and require the same specific functions. ",
+        "bbox": [
+            100,
+            303,
+            843,
+            483
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "image",
+        "img_path": "images/6dacdea5f160ffec3eb0bc381560d7a9ae0d6a63633f0405eef35dae124a56c8.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            70,
+            501,
+            378,
+            890
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Looking at the simplest scheme of SOs-replication one prediction would be that when Uy'd $\\lambda$ infects a non irradiated host cell incapable of excision repair most phage recovered from such cells will be unreplicated thus containing Py-Py (I), but when the host cell is UV irradiated as well (and recA, lext, most bursting phage will be multiply replicated thus without Py-Py dimers in their DNA but with a high mutation rate. This is exactly what can be observed when previously Uv'd phage $\\gimel$ are recovered from uv'd and non UV'd hosts and plated on wild type bacteria,on recA- uvrA and on hosts with and without suppressors (for detecting amber mutations).(Radman, unpublished). The presence of Py-Py dimers in DNA is used as label for parental, non replicated DNA. ",
+        "bbox": [
+            401,
+            506,
+            912,
+            836
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "PyPy dimer mutation ",
+        "bbox": [
+            428,
+            842,
+            618,
+            886
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The fact that newly transfered uv'd F factor does not undergo Weigle effect (Devoret, priv. comm.), Sex-replication being UV-resistant, is a further indication for similarity or identity of Sex-replication and Sos-replication (see page 2 ). ",
+        "bbox": [
+            188,
+            83,
+            840,
+            144
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The following scheme illustrates two plausible non-exclusive mechanisms for reconstitution of functional DNA molecule(s) by SOS-replicating Py-Py dimer containing DNA. The scheme is based only on currently accepted model of gap-forming replication (Rupp & Howard-Flanders, l968) based on limited experimental data. If the postulated SOS-replication is responsible for Weigle effect and indeed occurs by gap-formation and gapfilling, then the gap-formation and gap-filling in the newly replicated DNA of a Uv'd phage should occur only in UV'd (induced) hosts possessing recA\\*, lex+,(polA+?)etc. functions. ",
+        "bbox": [
+            186,
+            153,
+            850,
+            307
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "image",
+        "img_path": "images/619d6d8049ae06a469c51aa4195eefd26c1e3f0c7a52aadbb20fcc48118fbc6a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            137,
+            356,
+            887,
+            658
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "No extensive mutagenesis ",
+        "bbox": [
+            631,
+            639,
+            890,
+            670
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "At this stage excision repair of the PyPy dimers could be effective, which is not true for the DNA structures at right. Further recombination between the above two molecules, similar to that design on the right side, can be expected as well. ",
+        "bbox": [
+            94,
+            662,
+            492,
+            770
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "equation",
+        "img_path": "images/85b813c4066d7d0c3e0f97f8952f72f66e2338b928a2dcf2659591dcfe2ce7fa.jpg",
+        "text": "$$\n\\Bigg \\downarrow\n$$",
+        "text_format": "latex",
+        "bbox": [
+            667,
+            677,
+            689,
+            724
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This may be the case of \"indirect UV-reactivation\" (caused by UV'd F factor) where UV-R factor is at least 4-5 and where no significant increase of $\\lambda$ λviv mutations is observed (Radman and Devoret, to be published). ",
+        "bbox": [
+            507,
+            731,
+            941,
+            822
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This may be the case of   \nnormal \"direct\" UV-R where UV-R   \nfactor is $2 0 - 5 0 +$ extensive λ λviv mutagenesis. ",
+        "bbox": [
+            94,
+            812,
+            465,
+            874
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            84,
+            149,
+            98
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "[1] W.D. Rupp, P. Howard-Flanders, Discontinuities in the DNA synthesized in an excision-defective strain of Escherichia coli following ultraviolet irradiation, J. Mol. Biol. 31 (1968) 291– 304.   \n[2] E.M. Witkin, Mutation-proof and mutation-prone modes of survival in derivatives of Escherichia coli B differing in sensitivity to ultraviolet light, Brookhaven Symp. Biol. 20 (1967) 17–55.   \n[3] S. Kondo, H. Ichikawa, K. Iwo, T. Kato, Base-change mutagenesis and prophage induction in strains of Escherichia coli with different DNA repair capacities, Genetics 66 (1970) 187–217.   \n[4] B.A. Bridges, J. Law, R.J. Munson, Mutagenesis in E. coli. II. Evidence for a common pathway for mutagenesis by ultraviolet light, ionizing radiation and thymine deprivation, Mol. Gen. Genet. 103 (1968) 266–273.   \n[5] M. Radman, Phenomenology of an inducible mutagenic DNA repair pathway in Escherichia coli: SOS repair hypothesis, in: P.L.F. Sherman, M. Miller, C. Lawrence, W.H. Tabor (Eds.), Molecular and Environmental Aspects of Mutagenesis, Charles C. Thomas, Springfield, Ill., 1974, pp. 128–142.   \n[6] E.M. Witkin, D.L. George, Ultraviolet mutagenesis in polA and uvrA polA derivatives of Escherichia coli $\\mathbf { B } / \\mathbf { r } .$ : evidence for an inducible error-prone repair system, Genetics 73 (Suppl.) (1973) 91– 108.   \n[7] E.M. Witkin, The radiation sensitivity of Escherichia coli B: a hypothesis relating filament formation and prophage induction, Proc. Natl. Acad. Sci. U.S.A. 57 (1967) 1275–1279.   \n[8] E. Witkin, Thermal enhancement of ultraviolet mutability in a tif-1 uvrA derivative of Escherichia coli: evidence that ultraviolet mutagenesis depends upon an inducible function, Proc. Natl. Acad. Sci. U.S.A. 71 (1974) 1930–1934.   \n[9] B.A. Bridges, R.P. Mottershead, RecA+dependent mutagenesis occurring before DNA replication in UV- and gamma-irradiated Escherichia coli, Mutat. Res. 13 (1971) 1–8.   \n[10] B.A. Bridges, R.P. Mottershead, Mutagenic repair in $E .$ . coli. VII Constitutive and inducible manifestations, Mutat. Res. 52 (1978) 151–159.   \n[11] B.A. Bridges, G.M. Brown, Mutagenic DNA repair in Escherichia coli XXI. A stable SOS-inducing signal persisting after excision repair of ultraviolet damage, Mutat. Res. 270 (1992) 135–144. ",
+        "bbox": [
+            73,
+            112,
+            473,
+            400
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            85,
+            915,
+            285
+        ],
+        "page_idx": 14
+    }
+]

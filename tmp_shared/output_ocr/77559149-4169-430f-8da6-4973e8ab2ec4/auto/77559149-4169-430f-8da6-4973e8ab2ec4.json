@@ -1,0 +1,576 @@
+[
+    {
+        "type": "text",
+        "text": "Interspecies Recombination and Mismatch Repair ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            211,
+            870,
+            238
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Generation of Mosaic Genes and Genomes ",
+        "bbox": [
+            97,
+            260,
+            641,
+            282
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ivan Matic, François Taddei, and Miroslav Radman ",
+        "bbox": [
+            94,
+            306,
+            715,
+            327
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            365,
+            275,
+            386
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The efficiency of homologous genetic recombination depends on the length and degree of DNA sequence identity shared by the two parental molecules, and on the cellular enzymatic systems involved in genetic recombination and its editing. Crosses between different bacterial species show that recombination frequency decreases exponentially with increasing sequence divergence (1). Recombination between DNAs differing by large blocks of heterology is quite efficient, whereas recombination between DNAs differing by well-spaced point mutations is reduced or inhibited (2). These observations suggest that the main determinant of genetic isolation between genomes of closely related bacterial species is neutral sequence divergence caused by point mutations, rather than large heterologies. ",
+        "bbox": [
+            94,
+            391,
+            905,
+            618
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The extent and degree of homology determine the activities of the enzymes that control the fidelity of recombination (2). The initiation of recombination in bacteria depends on the activity of the RecA protein, the level of which is controled by the SOS system (3). The SOS system is a set of physiological responses that is induced by exposure of bacterial cells to a variety of conditions that damage DNA and/or interfere with its replication (ref). This inducible genetic system has two features that favor the survival of stressed bacterial populations: it enhances the capacity for DNA repair and it increases genetic variation $( 3 a )$ . The induction of the SOS system increases RecA concentration, as well as the frequency of recombination (see Note 1). RecA is highly selective for sequence identity only at the initial stage of the strand exchange process, which requires a minimum length of homology or Minimum Efficient Processing Segment (MEPS), below which recombination becomes inefficient (4). In Escherichia coli, MEPS is about 23–27 bp. Divergence between recombination substrates reduces recombination by reducing the number of available MEPSs. However, once initiated, RecA-mediated strand exchange can occur in spite of large numbers of mismatches and large heterologies, as demonstrated in vitro (5,6). During this stage of genetic recombination, the fidelity is controled by the methyl-directed mismatch repair (MMR) system. Mismatch recognizing and binding protein, MutS, recognizes mispaired and unpaired bases in the joint heteroduplex regions and blocks RecA-catalyzed strand transfer (7). Even a very low divergence is sufficient to impede recombination. The increased concentration of RecA protein does not prevent MMR editing activity (3). The activity of RuvAB proteins, which can also catalyze branch migration across mismatched regions, appears not to be subject to such editing. The RuvAB-catalyzed heteroduplexes are either too long to be edited or RuvABC protein-mediated resolution is too fast for MutS and MutL to act. ",
+        "bbox": [
+            92,
+            620,
+            905,
+            845
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            98,
+            905,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The concentration of MutS and MutL proteins alters the apparent length of the segment of sequence identity needed for successful recombination $( I )$ . Thus, MMR is a potent inhibitor of recombination between genomes of related bacterial species and between non-identical DNA sequences in general (3). The inactivation of mutS or mutL genes results in $1 0 ^ { 3 }$ -fold increase in conjugational and $1 0 ^ { 2 }$ -fold increase in transductional recombination between $E$ . coli and Salmonella typhimurium, whose chromosomes are about $16 \\%$ divergent at the DNA sequence level (8). Transductional recombination between S. typhimurium and Salmonella typhi, whose genomes differ only $1 - 2 \\%$ at DNA sequence level, increase $1 0 ^ { 2 } – 1 0 ^ { 3 }$ -fold in MMR-deficient genetic background (9). Conversely, overproduction of MutS and MutL proteins severely reduces recombination frequency even between bacterial strains with very low genomic divergence $( I )$ . ",
+        "bbox": [
+            94,
+            429,
+            905,
+            694
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The current understanding of the molecular mechanisms controlling genetic exchange among bacteria involves two key enzymatic components: the MMR and SOS system (1,8,10). By modifying their activities, it is possible to disrupt or establish genetic barriers between different bacterial species. One of the major problems with recombination in MMR proficient background is that DNA sequence divergence restricts recombination events to the genomic regions of highest sequence similarity. Consequently, the majority of recombinants are highly unstable merodiploids, often generated by an unequal crossover between rrn operons, which are usually almost identical between related bacterial species. The inactivation of MMR allows, not only higher yield of interspecies recombinants, but also higher diversity and higher stability of hybrids $( I I )$ (see Note 2). ",
+        "bbox": [
+            94,
+            697,
+            905,
+            944
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The potential applications of this strategy, that allows creation of interspecific mosaic genomes, are multiple in fundamental research, biotechnology, genetic engineering, and medicine. By allowing recombination of entire genomes, the mosaic genomes with new combinations of genes and operons, or even with mosaic genes and operons can be obtained (see Notes 3–6). For example, this approach can facilitate modifications and improvement of very complex metabolic networks. Another possible application is creation of attenuated live vaccines by recombining pathogenic bacteria and their nonpathogenic counterparts, in order to create nonpathogenic hybrids that retain the immunogenicity of the parental strains. ",
+        "bbox": [
+            94,
+            96,
+            905,
+            302
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this chapter, the strategies that allow maximal yield of interstrain and interspecies recombinants are described. The conjugation provides the best mean of gene transfer because of large host range of conjugative plasmids, as well as the relative immunity of effective conjugational DNA transfer to host modification-restriction systems and host nucleases (see Note 3). The manipulation of the molecular mechanisms that controls recombination between divergent DNAs, particularly the two key components: MMR and SOS systems are described. ",
+        "bbox": [
+            94,
+            305,
+            905,
+            467
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Materials ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            488,
+            238,
+            507
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1. Bacterial Stains ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            511,
+            344,
+            532
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.1. Donor Strains ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            540,
+            319,
+            559
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The most commonly used conjugative plasmid is F, which can replicate and express its conjugation system in $E$ . coli and many other bacterial species. The sets of $E .$ . coli Hfr and $\\Gamma ^ { \\prime }$ derivatives, as well Hfr and $\\Gamma ^ { \\prime }$ strains with a Tn10 insertions that provide easily selectable donor markers, are available from $E .$ . coli Genetic Stock Center, Yale University, New Haven, CT (http://cgsc. biology.yale.edu). Those strains can transfer any $E .$ . coli chromosomal loci (see Notes 3 and 7). However, the F plasmid cannot be used for all bacterial species. In such cases, conjugative plasmids, belonging to IncP alpha group, like RP4 can be used. These plasmids are remarkable for their broad host range and can mobilize chromosomal markers from any point of origin. ",
+        "bbox": [
+            94,
+            570,
+            905,
+            775
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.1.2. Recipient Strain Genotype ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            794,
+            458,
+            815
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The alleles and their phenotypes described are $E$ . coli derivatives. For the majority of other bacterial species, similar genetic backgrounds are not available. Therefore, if not otherwise possible (see Notes 1–4), $E .$ . coli strains with appropriate genetic background should be used as recipients. The highest frequency of interspecies recombination can be obtained using $E .$ . coli recipient strain with following alleles (1,3,8). ",
+        "bbox": [
+            94,
+            820,
+            905,
+            944
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. mutS-: MutS protein is the mismatch recognizing and binding component of $E$ . coli MMR. Inactivation of this gene increases, up to $1 0 ^ { 3 }$ -fold, the frequency of recombination between diverged DNA sequences (8) (see Note 2). ",
+        "bbox": [
+            111,
+            96,
+            902,
+            154
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. recAoc: This allele constitutively increases RecA protein concentration, thus stimulating conjugational intra- and interspecies recombination (3). The mutation in the operator of recA gene prevents its repression by the LexA repressor. An increase in RecA concentration appears to increase the total length of DNA available for recombination $( I )$ (see Note 1). ",
+        "bbox": [
+            111,
+            155,
+            905,
+            248
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. recD-: The inactivation of this gene results in small increase of conjugational recombination (3). The effect is not as strong as during transduction because the size of transferred DNA and the high number of Chi sequences attenuate RecBCD exonuclease, thus rendering donor DNA relatively immune to degradation by the RecBCD exonuclease (see Note 3). ",
+        "bbox": [
+            111,
+            251,
+            900,
+            344
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. hsdR-: This gene encodes $E .$ . coli type I restriction endonuclease, whose inactivation results in a small increase of conjugational recombination (3) (see Note 4). ",
+        "bbox": [
+            106,
+            346,
+            900,
+            383
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.2. Media ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            400,
+            222,
+            421
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. LB rich medium: $1 0 \\mathrm { g } / \\mathrm { L }$ bacto tryptone (Difco), $5 \\mathrm { g } / \\mathrm { L }$ bacto yeast extract (Difco), $1 0 ~ \\mathrm { g / L }$ NaCl, deionized $\\mathrm { H } _ { 2 } \\mathrm { O }$ to $1 \\mathrm { ~ L ~ }$ . Adjust $\\mathrm { p H }$ to 7.0 with $1 \\ M \\ N a { \\mathrm { O H } }$ . ",
+        "bbox": [
+            108,
+            429,
+            898,
+            467
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. M63 minimal medium: $1 3 . 6 ~ \\mathrm { g / L }$ ${ \\mathrm { K H } } _ { 2 } { \\mathrm { P O } } _ { 4 }$ , $2 \\ \\mathrm { g / L }$ $\\mathrm { ( N H } _ { 4 } ) _ { 2 } \\mathrm { S O } _ { 4 }$ , $0 . 5 \\mathrm { \\ m g / L \\ F e S O _ { 4 } }$ $\\mathrm { 7 H } _ { 2 } \\mathrm { O }$ , deionized $\\mathrm { H } _ { 2 } \\mathrm { O }$ 1 L. Adjust $\\mathrm { p H }$ to 7.0 with KOH. After autoclaving, add $1 ~ \\mathrm { m L }$ of $1 ~ M ~ \\mathrm { M g } \\mathrm { S O } _ { 4 } { \\cdot } 7 ~ \\mathrm { H } _ { 2 } \\mathrm { O }$ , and $1 0 ~ \\mathrm { m L }$ of $20 \\%$ solution of carbon source per liter. Vitamins, such as B1, are added to a final concentration of $1 ~ \\mu \\mathrm { g / m L }$ and amino acids at $8 0 ~ \\mu \\mathrm { g / m L }$ . ",
+        "bbox": [
+            111,
+            467,
+            902,
+            562
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If media are used in plates, add $1 5 \\mathrm { g }$ agar (Difco) per liter. All media should be sterilized by autoclaving for $3 0 \\mathrm { { m i n } }$ at $1 2 0 \\mathrm { { } ^ { \\circ } C }$ . Antibiotics are always added after autoclaving. Stock solution of nalidixic acid is $1 0 0 ~ \\mathrm { m g / m L }$ in $1 \\ N \\ N a \\mathrm { O H }$ . Stock solution of streptomycin is $1 0 0 ~ \\mathrm { m g / m L }$ in $\\mathrm { H } _ { 2 } \\mathrm { O }$ . Stocks of antibiotics should be sterilized by filtration and kept at $- 2 0 ^ { \\circ } \\mathrm { C }$ . ",
+        "bbox": [
+            94,
+            575,
+            905,
+            677
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Methods ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            696,
+            231,
+            717
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1. Growth of Cells Prior to Conjugation ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            723,
+            597,
+            744
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The condition of donor cells in conjugation is much more crucial than that of recipient strain. In order to obtain the donor cells in physiological state optimal for conjugation (12,13). ",
+        "bbox": [
+            94,
+            753,
+            902,
+            815
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Dilute the overnight culture 50-fold into fresh LB medium and grow with gentle shaking (about $1 5 0 \\ \\mathrm { r p m }$ ). Pregrowth in rich medium, such as LB, results in much higher efficiencies of conjugation than growth in minimal medium. Pregrowth should be at $3 7 ^ { \\circ } \\mathrm { C }$ , because donors that are pregrown, for example, at $3 3 ^ { \\circ } \\mathrm { C }$ , produce very few F pili and the mating efficiency is only $10 \\%$ of those at $3 7 ^ { \\circ } \\mathrm { C }$ . ",
+        "bbox": [
+            111,
+            828,
+            905,
+            942
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. The cultures of donor and recipient strains should reach $\\mathrm { O D } _ { 6 0 0 } 0 . 3 – 0 . 4$ $( 2 - 3 \\times 1 0 ^ { 8 }$ cells/mL). Cultures that are at a higher density mate less efficiently. At this stage, donor and recipient cells can be kept on ice for several hours before starting the cross. ",
+        "bbox": [
+            108,
+            96,
+            902,
+            154
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2. Conjugational Crosses ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            171,
+            430,
+            193
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The conjugation on solid support is much more efficient than conjugation in liquid medium. ",
+        "bbox": [
+            97,
+            200,
+            902,
+            240
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Mating mixtures are prepared by mixing together Hfr (donor) and $\\mathrm { F ^ { - } }$ (recipient) bacteria in a 1:1 ratio. Usually, $1 \\mathrm { m L }$ of donor cells is mixed with $1 \\mathrm { m L }$ of recipient cells, however, this can be scaled up if required. This mixture is filtered through a sterile $0 . 4 5 \\mathrm { - } \\mu M$ pore-size nitrocellulose filter (2.5-cm diameter), using vacuum filtration equipment (Millipore). It is very difficult to put more than about $5 \\times 1 0 ^ { 8 }$ cells per filter because such cellular mass prevents further filtration.   \n2. The filters with mating mixtures are incubated on fresh LB agar plate, which are prewarmed at $3 7 ^ { \\circ } \\mathrm { C }$ . Conjugation efficiency is highest at this temperature and falls off sharply at temperatures below $3 0 \\mathrm { { } ^ { \\circ } C }$ or above $4 0 ^ { \\circ } \\mathrm { C }$ .   \n3. After incubation for the required period of time, mating pairs are resuspended in $1 0 ^ { - 2 } M \\mathrm { M g } \\mathrm { S O } _ { 4 }$ and separated by vigorous vortexing. If matings must be stopped quickly, nalidixic acid or streptomycin can be added to $1 0 ^ { - 2 } M \\mathrm { M g } \\mathrm { S O } _ { 4 }$ at concentrations of $5 0 ~ \\mu \\mathrm { g / m L }$ and $1 0 0 ~ \\mu \\mathrm { g / m L }$ , respectively. At this stage, donor and recipient cells can be kept on ice for several hours before plating. The incubation time used in this step is dependent on the marker being transferred. The speed of transfer is approx $4 7 ~ \\mathrm { k b / m i n }$ . The whole $E$ . coli chromosome (approx $4 . 7 \\ : \\mathrm { M b }$ ) is expected to be transferred in $1 0 0 ~ \\mathrm { { m i n } }$ . Therefore, if a given marker is $4 7 0 ~ \\mathrm { k b }$ from the origin of transfer, then mating is carried out for $1 5 \\mathrm { { m i n } }$ in order to ensure that this particular marker is transferred. The position of the origin of transfer varies with different Hfr stains, therefore the time of conjugation of a given marker will vary from strain to strain. ",
+        "bbox": [
+            106,
+            251,
+            905,
+            651
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3. The Selection of Recombinants ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            669,
+            534,
+            689
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The mating mixtures are subsequently plated on medium that selects for the desired recombinants and counterselects both donor and recipient parental strains. Interspecies recombinants often grow slower than parental strains and intraspecies recombinants. When minimal medium is used for selection, up to $^ \\textrm { \\scriptsize 4 d }$ of incubation is necessary to obtain maximal yield of recombinants. The markers that can be used for selection and/or counterselection after conjugation are sensitivity or resistance to antibiotics, auxotrophic growth requirements, sensitivity or resistance to bacteriophage infection, and temperature- or cold-sensitive growth (see Notes 8 and 9). ",
+        "bbox": [
+            94,
+            696,
+            905,
+            880
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The best recipient markers used for counterselection against donor cells are nalidixic acid or streptomycin resistance. The level of spontaneous resistance to these antibiotics is very low, about $5 \\times 1 0 ^ { - 1 0 }$ for streptomycin and about $1 0 ^ { - 9 }$ for nalidixic acid. Nalidixic acid stops matings quickly and prevents remating on plates. Streptomycin does not stop the mating quickly and matings can continue on selective plates. Those two antibiotics are used at concentrations of $1 0 0 \\mu \\mathrm { g / m L }$ or $5 0 \\mu \\mathrm { g / m L }$ , respectively. Both antibiotics can be used in rich and minimal media. It is necessary to avoid the transfer of chromosomal regions carrying genes whose mutations render cells resistant to the antibiotic used to counterselect donor cells. Resistance to streptomycin is encoded by the modified rpsL gene and nalidixic acid by the modified gyrA gene, at $7 8 . 4 \\ \\mathrm { m i n }$ and 50.3 min of $E$ . coli genetic map, respectively. ",
+        "bbox": [
+            94,
+            882,
+            902,
+            944
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            96,
+            905,
+            281
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Notes ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            298,
+            199,
+            317
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. The induction of the SOS system was detected during conjugation between different enterobacterial species, and the level of induction increases with the increase of DNA sequence divergence [Matic, I., unpublished data and (3)]. Genetic characterization of the SOS induction during $E .$ . coli $\\mathbf { \\nabla } \\times \\mathbf { } S$ . typhimurium matings suggested that the strong and persistent activation of RecA is probably caused by the reduced efficiency of early RecA-catalyzed recombination steps as a consequence of DNA divergence. The SOS induction is necessary for efficient intra- and interspecies recombination. Therefore, if DNA divergence is low, the recipient strains can be UV irradiated in order to induce SOS system prior to conjugation, thus increasing concentration of RecA, RuvA, and RuvB proteins and alleviating host-restriction systems. Concentration of RecA protein can also be increased by using plasmid carrying recA gene under control of arabinose or tac-inducible promoters. Using such plasmids, concentration of RecA protein can vary, in the recA background, from 0 to 10,000 molecules per cell. This might be particularly important for stabilization of interspecies hybrids by preventing further RecA-dependent rearrangements. ",
+        "bbox": [
+            108,
+            325,
+            905,
+            631
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. The efficiency of the MMR can be decreased as a result of titration of the mismatch repair proteins. MMR is saturated in cells that are treated with DNA damaging agents introducing DNA lesions recognized by MutS protein. This is probably why the frequency of interspecies transductional recombination can be increased by treating recipient cells with MNNG (17). MutS protein can also be titrated in cells containing mismatches in retron-encoded multicopy singlestranded DNA (18). Overexpression of such molecules results in increased mutagenesis and frequency of interspecies recombination. The advantage of transient saturation of MMR is that, after recombination, hybrid cells do not have constitutively high mutation rates because of inactivation of MMR genes. This strategy can be particularly appropriate for bacterial species whose mismatch repair deficient mutants is difficult to construct. ",
+        "bbox": [
+            108,
+            632,
+            905,
+            860
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. The choice of DNA transfer method depends on the length of DNA that should be involved in recombination, as well as on bacterial DNA species that serve as a recipient. Conjugative plasmids mobilise megabases of donor DNA. Transducing phages transfer tens to hundreds of kilobases. Segments of transforming DNA are several kilobases long. When transduction is used as the mean of genetic exchange, inactivation of recD gene is necessary for efficient interspecies recombination $( I 4 )$ . By degrading donor DNA, RecBCD exonuclease reduces the frequency of transductional recombination between S. typhimurium and S. typhi by $1 0 ^ { 1 } – 1 0 ^ { 2 }$ -fold compared to the frequency observed in recD- genetic background (14). ",
+        "bbox": [
+            111,
+            861,
+            902,
+            936
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            138,
+            96,
+            902,
+            192
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. The restriction of donor DNA can stimulate recombination, because DNA ends generated by restriction enzymes are recombinogenic. The restriction systems in E. coli can influence the pattern of DNA fragments incorporated into the recipient chromosome, creating mosaics of short sequences. However, if the size of transferred donor DNA is small or if restriction fragments are small, they can be completely degraded by exonucleases. Hence, inactivation of hsdR gene in recipient strain strongly stimulates transductional recombination. The activity of most of restriction endonucleases in $E$ . coli, and other bacterial species can be alleviated upon exposure of cells to UV light, heat, organic solvents, pH shifts, or detergents (15,16). Restriction enzymes can be titrated by large amounts of donor DNA introduced during prolonged conjugation. ",
+        "bbox": [
+            108,
+            193,
+            907,
+            402
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. The strategy for recombining diverged genomes described in this chapter can be applied as well to recombined cloned diverged genes. For example, when 405 bp DNA segments with $89 \\%$ of sequence identity, cloned in lambda phage and pBR322 plasmid, were recombined, the frequency of recombination was 15-fold higher in mutS deficient that in the wild-type background (19). Using this approach, it would be possible to combine functional domains from different existing enzymes and incorporate them in the same molecule in order to generate the proteins and enzymes with novel functions and properties. This can be particularly successful with enzymes that have modular structure, as it has been already demonstrated by in vitro manipulation of polyketide-synthase enzymes (20). ",
+        "bbox": [
+            108,
+            403,
+            905,
+            593
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "6. Recombining genes cloned in plasmid or phage vectors without flanking homology has the advantage that recombination takes place entirely within defined DNA sequences. The genes should be cloned in inverted orientation in order to allow multiple rounds of reciprocal crossover. However, at a high-sequence divergence between recombining genes, no recombination initiation site (MEPS) would be present. Therefore, such highly diverged genes would be cloned along with 50–100 bp of sequence identity to provide for initiation of RecA-catalyzed strand exchange which, under MMR deficiency conditions, would extend into the diverged region. ",
+        "bbox": [
+            108,
+            594,
+            905,
+            764
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "7. Many Hfr strains are unstable for Hfr character and accumulate a substantial proportion of $\\mathrm { F ^ { + } }$ revertants. Similarly, $\\Gamma ^ { \\prime }$ factors are frequently lost from their host upon storage. Therefore, it is necessary to occasionally check the stability of donor strains and repurify the old stocks (13). ",
+        "bbox": [
+            111,
+            766,
+            902,
+            841
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "8. The choice of selective and counterselective markers can influence the background growth resulting from a bacterial cross. Both leakiness and reversion contribute to the background growth. In general, vitamin markers are much leakier than amino acid or sugar markers. Crossfeeding and inactivation of antibiotic or other inhibitors can also affect background growth. ",
+        "bbox": [
+            111,
+            842,
+            902,
+            936
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9. Antibiotics can be used as markers for selection after conjugation, but many antibiotic resistance alleles are recessive and several generations of growth would be required to allow segregation of, for example, rifampicin-resistant recombinants. Because it is more convenient to plate mating mixtures out directly, it is preferable to use those markers that allow selection following direct plating. ",
+        "bbox": [
+            108,
+            96,
+            905,
+            192
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            211,
+            236,
+            230
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "1. Vulic, M., Dionisio, F., Taddei, F., and Radman, M. (1997) Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria. Proc. Natl. Acad. Sci. USA 94, 9763–9767.   \n2. Radman, M. and Wagner R. (1993) Mismatch recognition in chromosomal interactions and speciation. Chromosoma 102, 369–373.   \n3. Matic, I., Rayssiguier C., and Radman M. (1995) Interspecies gene exchange in bacteria: the role of SOS and mismatch repair systems in evolution of species. Cell 80, 507–515.   \n3a. Friedberg, E. C., Walker, G. C., and Siede, A. (1995) DNA Repair and Mutagenesis, ASM Press, Washington, DC.   \n4. Shen, P. and Huang, H. V. (1986) Homologous recombination in Escherichia coli: dependence on substrate length and homology. Genetics 112, 441–457.   \n5. DasGupta, C. and Radding, C. M. (1982) Polar branch migration promoted by RecA protein: effect of mismatched base pairs. Proc. Natl. Acad. Sci. USA 79, 762–766.   \n6. Bianchi, M. E. and Radding, C. M. (1983) Insertions, deletions, and mismatches in heteroduplex DNA made by RecA protein. Cell 35, 511–520.   \n7. Worth, Jr., L., Clark, S., Radman, M., and Modrich, P. (1994) Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs. Proc. Natl. Acad. Sci. USA 91, 3238–3241.   \n8. Rayssiguier, C., Thaler, D. S., and Radman, M. (1989) The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342, 396–401.   \n9. Zahrt, T. C., Mora, G. C., and Maloy, S. (1994) Inactivation of mismatch repair overcomes the barrier to transduction between Salmonella typhimurium and Salmonella typhi. J. Bacteriol. 176, 1527–1529.   \n10. Matic, I., Taddei, F., and Radman, M. (1996) Genetic barriers among bacteria. Trends Microbiol. 4, 69–73.   \n11. Matic, I., Radman, M., and Rayssiguier, C. (1994) Structure of recombinants from conjugational crosses between Escherichia coli donor and mismatch-repair deficient Salmonella typhimurium recipients. Genetics 136, 17–26.   \n12. Miller, J. H. (1992) A Short Course in Bacterial Genetics. A Laboratory Manual for Escherichia coli and Related Bacteria, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY.   \n13. Low, K. B. (1991) Conjugational methods for mapping with Hfr and F-prime strains, in Bacterial Genetic Systems (Miller, J. H., ed.), Academic, San Diego, CA, pp. 43–62.   \n14. Zahrt, T. C. and Maloy, S. (1997) Barriers to recombination between closely related bacteria: MutS and RecBCD inhibit recombination between Salmonella typhimurium and Salmonella typhi. Proc. Natl. Acad. Sci. USA 94, 9786–9791.   \n15. Schafer, A., Kalinowski, J., and Puhler, A. (1994) Increased fertility of Corynebacterium glutamicum recipients in intergeneric matings with Escherichia coli after stress exposure. Appl. Environ. Microbiol. 60, 756–759.   \n16. Kelleher, J. E. and Raleigh, E. A. (1994) Response to UV damage by four Escherichia coli K-2 restriction systems. J. Bacteriol. 176, 5888–5896.   \n17. Mergeay, M. and Gerits, J. (1983) Transduction of Escherichia coli trp genes in Salmonella typhimurium and effect of N-methyl-N'-nitro-N-nitrosoguanidine on transduction with heterogenotic DNA. J. Gen. Microbiol. 129, 321–335.   \n18. Maas, W. K., Wang, C., Lima, T., et al. (1996) Multicopy single-stranded DNA of Escherichia coli enhances mutation and recombination frequencies by titrating MutS protein. Mol. Microbiol. 19, 505–509.   \n19. Shen, P. and Huang, H. (1989) Effect of base pair mismatches on recombination via the RecBCD pathway. Mol. Gen. Genet. 218, 358–360.   \n20. Oliynyk, M., Brown, M. J., Cortes, J., et al. (1996) A hybrid modular polyketide synthase obtained by domain swapping. Chem. Biol. 3, 833–839. ",
+        "bbox": [
+            101,
+            232,
+            902,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            92,
+            96,
+            905,
+            441
+        ],
+        "page_idx": 8
+    }
+]

@@ -1,0 +1,746 @@
+[
+    {
+        "type": "text",
+        "text": "Induction Kinetics of Mutagenic DNA Repair Activity in $E .$ coli Following Ultraviolet Irradiation ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            208,
+            617,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Martine Defais1, Perrine Caillet-Fauquet1, Maurice S. Fox2, and Miroslav Radman1 ",
+        "bbox": [
+            93,
+            273,
+            712,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1Département de Biologie Moléculaire, Université Libre de Bruxelles, B 1640 Rhode St Genèse (Belgium   \n2 Biology Department, Massachusetts Institute of Technology, Cambridge, Mass. 02139 (U.S.A.) ",
+        "bbox": [
+            93,
+            295,
+            715,
+            322
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. Ultraviolet mutagenesis of phage $\\lambda$ is produced by host functions which are inducible by ultraviolet irradiation of the host cell. Induction kinetics and the half life of the inducible mutagenic DNA repair (SOS-repair) in $E$ coli have been determined using phage $\\lambda$ assays. At $3 7 ^ { \\circ } \\mathrm { C }$ , both mutagenic and repair activities are maximal approximately 30 min following irradiation and decay with a half life of approximately $3 0 \\mathrm { { m i n } }$ . The presence of $1 0 0 ~ \\mathrm { \\mu g / m l }$ chloramphenicol during the first $4 0 \\mathrm { { m i n } }$ after irradiation completely abolishes induction of repair and mutagenesis. The ultraviolet induction pattern of SOS repair very much resembles that of $\\lambda$ prophage in lysogenic induction (Monk and Kinross, 1975). ",
+        "bbox": [
+            96,
+            351,
+            481,
+            564
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            601,
+            183,
+            615
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An hypothesis (Defais et al., 1971; Radman, 1974), proposing that ultraviolet (UV) induced mutagenesis in $E .$ coli depends upon induction of an error-prone DNA repair (SOS repair), has recently received substantial support (George et al., 1974; Witkin, 1974; Castellazzi et al., 1972; Sedgwick, 1975a, b; Gudas and Pardee, 1975; Morse and Pauling, 1975; Radman et al., 1976). Mutants affecting this inducible mechanism have been isolated: (1) non-mutable mutants deficient in SOS repair $( r e c A ^ { - }$ and $l e x A ^ { - }$ and (2) contitutive (STS mutant, D. Mount, 1976) or conditional constitutive mutants, such as tif (Witkin, 1974; Castellazzi et al., 1972; George et al., 1975; Witkin, 1975b), dnaB (Witkin, 1975a), and lig ts (Morse and Pauling, 1975) which at $4 2 ^ { \\circ } \\mathrm { C }$ produce both repair and mutagenic activities in the absence of mutagens. Furthermore, new protein bands have been observed in SDS-gel electrophoresis following UV irradiation, which are absent in $r e c A ^ { - }$ and $\\mathit { l e x A } ^ { - }$ mutants (Sedgwick, 1975; Gudas and Pardee, 1975). ",
+        "bbox": [
+            96,
+            624,
+            483,
+            926
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The SOS repair hypothesis accounts for the failure of DNA lesions themselves to provoke mutagenesis. For example, UV irradiation of phage $\\lambda$ (Defais et al., 1971or $\\varnothing \\mathrm { X } 1 7 4$ (Bleichrodt and Verheij, 1974) does not cause an increase in the phage mutation frequency. ",
+        "bbox": [
+            122,
+            928,
+            484,
+            941
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            351,
+            897,
+            426
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, UV lesions in $E .$ coli DNA (Weigle, 1953) or in the DNA of an $\\mathrm { F }$ episome (George et al., 1974) are mutagenic, even for phage DNA. The SOS hypothesis also provides an interpretation of the so-called \"double irradiation technique\", i.e., irradiation of both phage and host (Weigle, 1953), which has been used as a tool to isolate the majority of phage λ mutants (e.g. Campbell, 1961). Not only is phage mutagenesis triggered by many different mutagenic treatments of the host cell, but survival of the irradiated phage is increased as well (Weigle, 1953). We will refer to the latter, socalled UV-reactivation phenomenon (Weigle, 1953), as Weigle (W) reactivation (Radman, 1974). ",
+        "bbox": [
+            515,
+            428,
+            899,
+            639
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The experiments reported here were designed to determine the kinetics of induction of SOS repair activity in E. coli following UV irradiation. Both induced repair and mutagenesis were assayed using UV irradiated phage λ. Phage survival was a measure of cellular repair capacity and the frequency of clear plaque mutants was a measure of the cellular mutagenic activity. The phage assay has the advantage that it measures repair and mutagenic capacity of the total cellular population, independently of cell killing (Defais et al., 1971; Radman, 1974). ",
+        "bbox": [
+            516,
+            640,
+            901,
+            806
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Induction kinetics for both repair and mutagenic activities following UV irradiation (Fig. 4) very much resemble the kinetics of $\\lambda$ prophage induction described by Monk and Kinross (1975). This finding was not unexpected, in view of the striking similarities in both genetic and physiological requirements for mutagenesis, repair and lysogenic induction (Defais et al., 1971; Radman, 1974) that have been observed. The inhibition of \"SOS induction\" in the presence of chloramphenicol (Fig. 4) provides additional support for the proposal that the synthesis of new protein is required. ",
+        "bbox": [
+            516,
+            808,
+            901,
+            941
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            100,
+            104,
+            484,
+            149
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            177,
+            264,
+            192
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phage and Bacterial Strains ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            201,
+            260,
+            214
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phage was wild type $\\lambda$ (Thomas, 1966). Wild type E.coli AB1157 and its derivatives AB1886uvrA6, AB2494 lexA1, AB2474 uvrA6 lexA1, AB2480 uvrA6 recA13, all polyauxotrophic, have been described (Howard-Flanders and Boyce, 1966; Howard-Flanders and Theriot, 1966). ",
+        "bbox": [
+            100,
+            217,
+            483,
+            280
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            292,
+            137,
+            304
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Broth contained $0 . 5 \\%$ NaCl and $1 \\%$ tryptone. Bottom and top agar contained $0 . 2 5 \\%$ NaCl and respectively $0 . 8 \\%$ and $1 \\%$ tryptone and $1 . 2 \\%$ and $0 . 7 \\%$ agar. Bacteria to be infected with phage λ were grown in tryptone broth supplemented with $0 . 0 1 \\mathrm { ~ M ~ M g S O _ { 4 } }$ and $0 . 2 5 \\%$ maltose. Chloramphenicol (Sigma) was added to a final concentration of $1 0 0 ~ \\mathrm { \\mu g / m l }$ . ",
+        "bbox": [
+            98,
+            309,
+            483,
+            384
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV Irradiation ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            397,
+            183,
+            408
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The source of UV light was a Mineralight lamp with maximum energy output at a wavelength of $2 5 3 7 \\mathrm { ~ \\bar { A } }$ Doses were measured with a Latarjet dosimeter. Phage were irradiated in Tris buffer $0 . 0 1 \\mathrm { ~ M ~ } ( \\mathfrak { p H } 7 . 4 ) ; 0 . 0 1 \\mathrm { ~ M ~ } \\mathrm { M g S O } _ { 4 }$ at concentrations of $1 0 ^ { 8 }$ to $1 0 ^ { 9 }$ particles per ml. ",
+        "bbox": [
+            96,
+            415,
+            481,
+            477
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacteria were irradiated in 0.01 M $\\mathrm { { M g S O _ { 4 } } }$ at maximum concentration ${ \\cal 5 } \\times 1 0 ^ { 8 }$ per ml in a $\\mathrm { ~ \\AA ~ m m }$ thin layer. When chloramphenicol, which absorbs UV light, was present during irradiation, the dose was increased to produce adequate exposure (see legend to Figure 4). ",
+        "bbox": [
+            98,
+            477,
+            481,
+            540
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Observation of λ Clear Plaque Mutants ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            552,
+            322,
+            564
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To count $\\lambda$ clear plaque mutants, plates were filled with bottom agar almost to the top and moderately dried. The most efficient concentration range to count clear mutants was 3 to 5 thousand plaques per plate. Each plate was inspected independently by two persons. ",
+        "bbox": [
+            96,
+            571,
+            481,
+            634
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental Procedure. ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            647,
+            239,
+            659
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "E.coli host cells were grown exponentially in the supplemented tryptone broth up to $4 \\times 1 0 ^ { 8 }$ per ml, harvested by centrifugation and resuspended in cold 0.01 M $\\mathrm { M g S O } _ { 4 }$ Following UV irradiation, cells were pelleted by centrifugation, resuspended in tryptone broth and incubated at $3 7 ^ { \\circ } \\mathrm { ~ C ~ }$ with vigorous aeration. Aliquots were withdrawn from 0 to $1 2 0 ~ \\mathrm { { m i n } }$ of post-irradiation incubation and used for infection with appropriate dilution of UV irradiated $\\lambda$ phage to count both phage survival and clear plaque mutants. After adsorption (10 min at $3 7 ^ { \\circ } \\mathrm { ~ C ~ }$ ,m.o.i. $\\le 0 . 0 1 $ , non-irradiated $E$ coli AB2480 uvrA6 recA13 mutant was added as the indicator to avoid rescuing of unadsorbed phage (Defais et al., 1971). When chloramphenicol was used, $1 0 0 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ were added $1 5 ~ \\mathrm { { m i n } }$ before UV irradiation. Bacteria were resuspended, irradiated and reincubated in the presence of chloramphenicol. Before phage adsorption bacteria were recentrifuged and resuspended in $0 . 0 1 \\mathrm { ~ M ~ M g S O _ { 4 } }$ to remove the chloramphenicol. ",
+        "bbox": [
+            98,
+            664,
+            481,
+            861
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Each experiment was performed at least 3 times and single representative complete experiments are shown. Although the qualitative patterns are readily reproducible, the extent of induced repair and mutagenesis exhibits substantial variability from one experiment to another. A comparison of Figures 1, 2 and 3 shows such typical variations. ",
+        "bbox": [
+            98,
+            862,
+            483,
+            935
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            105,
+            568,
+            119
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A lexA Mutation is Deficient in SOS Repair of Phage λ ",
+        "bbox": [
+            516,
+            137,
+            832,
+            166
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 1 illustrates the effect of the inducible SOS repair on survival of irradiated $\\lambda$ phage. It shows UV survival curves of phage $\\lambda$ plated on intact and UV irradiated wild type $E .$ coli AB1157 and its $l e x A ^ { - }$ derivative AB2494 (Defais et al., 1971). One can see that the lex genotype has no effect on $\\lambda$ survival unless the host cells have been irradiated. When $\\mathit { l e x } ^ { + }$ host cells are optimally irradiated there is a significant increase in the survival of irradiated phage $\\lambda$ (W-reactivation). Irradiation of $l e x A ^ { - }$ host cells diminishes λ survival. No UV induced λ mutations can be produced in the lexA mutant (Defais et al., 1971). The presence of a recA mutation also results in the abolition of UV induced repair and mutagenesis (Miura and Tomizawa, 1968). ",
+        "bbox": [
+            515,
+            182,
+            897,
+            408
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Kinetics of UV Induction of the SOS Repair in E. coli Mutants ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            434,
+            829,
+            464
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacteria irradiated with optimal inducing doses (Defais et al., 1971) were incubated for various lengths of time prior to infection with phage λ. The UV doses are lower for the uvrA mutant deficient in excision repair than for wild type E. coli (see legend to Fig. 2). Phage $\\lambda$ was also irradiated with different UV doses in order to obtain survival at which W-reactivation is most prominent (Defais et al., 1971). Only results with irradiated phage are shown since no significant variation is observed in the titre of unirradiated λ in the course of post-irradiation incubation of $E _ { \\ast }$ coli host cells. ",
+        "bbox": [
+            515,
+            481,
+            899,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/98f39ac4a6179ea6ff1c2d70742675aa35841ae713e302f9f3f020451a85f5da.jpg",
+        "image_caption": [
+            "Fig. 1. Survival curves of UV irradiated phage $\\lambda$ plated on AB1157 wild type host (closed symbols) and $\\mathbf { A B } 2 4 9 4 \\ l e x A$ , derivative (open symbols), with (circles) and without (triangles) irradiation. UV dose to host cells was $3 0 \\mathrm { ~ J . m } ^ { - 2 }$ .Multiplicity of infection is always less than 0.1 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            513,
+            542,
+            882,
+            871
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/0b0a0a97d5aa9023484324901f2d3a0d6bbb646dc292aa5c50c13cada0764500.jpg",
+        "image_caption": [
+            "Fig. 2. Survival of UV irradiated $\\lambda$ in UV irradiated $E$ coli mutants versus post-irradiation incubation time of the host cells prior to infection. Assay conditions are described in Methods and legend to Figure 4. UV doses to both λ and host cells were chosen to yield maximum induced reactivation effect. Tryptone broth medium was used for post-irradiation incubation at $3 7 ^ { \\circ } \\mathrm { C }$ before infection and plating. a) $( \\bullet - \\bullet )$ wild type E. coli AB1157 was irradiated with a dose of $7 0 \\ \\mathrm { J . m } ^ { - 2 }$ and infected with λ irradiated with $2 0 0 \\mathrm { J . m } ^ { - 2 }$ . Infective centres on the ordinate are multiplied by $1 0 ^ { - 6 }$ b) $( \\bullet - \\bullet )$ excision repair deficient A $\\mathrm { B } 1 8 8 6 u v r A ^ { - }$ was given UV dose of $7 \\ \\mathrm { J } . \\mathfrak { m } ^ { - 2 }$ ,infected with $\\lambda$ irradiated with $5 0 \\mathrm { ~ J . m } ^ { - 2 }$ . Infective centres on the ordinate are multiplied by $1 0 ^ { - 4 }$ c) $( \\equiv - \\equiv )$ double mutant $\\Delta \\mathrm { B } 2 4 7 4 u v r { A ^ { - } } l e x A ^ { - }$ and the infecting phage received the same doses as in (b) and the ordinate values are as in (b). Final points on each curve correspond to the number of infective centres assayed on non-irradiated respective hosts "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            108,
+            369,
+            374
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b914ec9579a1a400fdfd8a7022254786f725e6b236f92a435363c211f78f78a1.jpg",
+        "image_caption": [
+            "Fig. 3. Induction kinetics of induced repair versus UV dose to both phage and $E .$ coli. The protocol is as in Figure 2. AB1886 $u v r A ^ { - }$ host was used. UV doses given to bacteria and to phage λ respectively are indicated in the brackets. The extent of induced repair is expressed as W-reactivation factor which is the ratio of infective centres obtained with UV irradiated host to infective centres obtained with non-irradiated hosts. — host cells $( 3 \\mathrm { ~ J . m } ^ { - 2 } )$ , $\\vec { \\iota } \\ ( 2 0 \\ \\mathrm { J . m } ^ { - 2 } )$ . $m - \\overline { { { \\bf { \\Lambda } } } }$ host cells $( 3 \\ \\mathrm { J . m } ^ { - 2 } )$ , $\\lambda$ $( 5 0 \\mathrm { J } . \\mathrm { m } ^ { - 2 } )$ . $\\triangle - \\triangle$ host cells $( 7 ~ \\mathrm { J . m } ^ { - 2 } )$ λ $( 2 0 \\mathrm { J . m } ^ { - 2 } )$ . $\\pmb { \\triangle } - \\pmb { \\triangle } $ host cells $( 7 ~ \\mathrm { J . m } ^ { - 2 } ) ,$ , $\\lambda$ $\\cdot \\left( 5 0 \\mathrm { J . m } ^ { - 2 } \\right.$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            513,
+            107,
+            794,
+            431
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            98,
+            610,
+            484,
+            745
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows that both wild type E.coli and $u v r A ^ { - }$ mutant show an induction of the W-reactivation of phage λ. Our \"zero time\" point corresponds to the \"classical\" W-reactivation experiments (Weigle, 1953) where irradiated phage are directly adsorbed to irradiated host and plated. Yet, when we allow $2 0 { - } 5 0 \\mathrm { m i n }$ post-irradiation incubation in a rich medium before infection, the yield of surviving phage is further increased. The peak of induced repair activity occurs at about $3 0 \\mathrm { { m i n } }$ for the $u v r A ^ { - }$ mutant (see also Fig. 4) and at about $5 0 ~ \\mathrm { m i n }$ for the uur+ strain (Fig. 2). The $l e x A ^ { - }$ derivative exhibit no induced phage reactivation (Defais et al., 1971; ",
+        "bbox": [
+            98,
+            746,
+            484,
+            941
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1) and therefore no induction (Fig. 2). The induced phage repair is relatively short-lived: two hours of incubation results in total loss of the induced repair capacity. ",
+        "bbox": [
+            515,
+            610,
+            901,
+            670
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SOS Repair is Mutagenic ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            700,
+            700,
+            715
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If the assumption that UV induced mutagenesis is the result of induced SOS repair activity (Radman, 1974) is correct and if W-reactivation is a measure of SOS repair, then we would expect the induction kinetics to be similar for both $\\lambda$ survival and $\\lambda$ mutagenesis. Figure 4 shows that this expectation is realized. The kinetics of enhancement and decline of both survival and mutation frequency $\\mathrm { ( c / c ^ { + } }$ , i.e. clear/ turbid plaques) are indistinguishable (Fig. 4). As in the case with W-reactivation, also for UV-mutagenesis two hours of incubation in a rich medium makes the cells \"forget\" that they have been irradiated. It appears that all UV induced mutagenesis depends upon the induction of SOS repair. ",
+        "bbox": [
+            516,
+            732,
+            901,
+            941
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5bfd83d22ca97b5d6897e7c6a0b4094c498b95632a275ddd749fc4e69a4fc10a.jpg",
+        "image_caption": [
+            "Fig. 4. Kinetics of UV induction of SOS repair and mutagenesis in $E$ coli assayed with phage $\\lambda$ and inhibition of the induction by chloramphenicol. $E$ coli K12 AB1886 was grown intryptone broth at $3 7 ^ { \\circ } \\mathrm { ~ C ~ }$ up to $3 \\times 1 0 ^ { 8 }$ bacteria per ml, half of the culture received $1 0 0 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ chloramphenicol $1 5 { - } 2 0 ~ \\mathrm { m i n }$ before harvesting and were resuspended in $1 0 ^ { - 2 } ~ \\mathrm { M g S O } _ { 4 }$ with or without $1 0 0 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ chloramphenicol. The suspensions with and without chloramphenicol were irradiated with UV doses of $9 ~ \\mathrm { J } . \\mathrm { m } ^ { - 2 }$ and $7 ~ \\mathrm { J } . \\mathrm { m } ^ { - 2 }$ respectively to compensate for UV shielding by the drug. The reharvested irradiated bacteria were resuspended in tryptone broth medium, with or without drug, incubated at $3 7 ^ { \\circ } \\mathrm { C }$ from 0 to $1 2 0 ~ \\mathrm { m i n }$ , washed in $1 0 ^ { - 2 } \\mathrm { ~ M ~ M g S O } _ { 4 }$ and infected with irradiated $( 5 0 \\mathrm { J } . \\mathrm { m } ^ { - 2 } )$ or nonirradiated phage $\\lambda$ at different time intervals. After adsorption unirradiated AB2480 uurA6 rec13 was added as the indicator on drug free plates. Appropriate phage dilutions were made to determine total infective centres and the yield of $\\lambda$ clear mutations. Only results for irradiated phage λ are shown since infective centre formation with unirradiated $\\lambda$ is not sensitive to the bacterial treatment(s) described. Symbols: (1), without chloramphenicol: infective centres $( \\mathbf { \\triangle } - \\mathbf { \\triangle } )$ , frequency of clear mutations $( \\bullet - \\underline { { \\underline { { \\mathbf { \\Pi } } } } } )$ ; (2) chloramphenicol present up to the given time-point: infective centres $( \\triangle - \\triangle )$ , frequency of clear mutations $( \\sqsubseteq - \\sqcup )$ . Asterix $( ^ { * } )$ indicates respective values for infective centres and clear mutations without irradiation of the host cells "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            98,
+            108,
+            483,
+            565
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chloramphenicol Inhibits Induction of SOS Repair ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            890,
+            456,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If the effects seen in Figures 1-4 are due to UV induction, i.e. de novo synthesis, of one or more enzymes (Radman, 1974), the presence of chloramphenicol, a drug which inhibits synthesis of many proteins, might be expected to be inhibitory. Indeed, when present for $1 5 \\mathrm { { m i n } }$ before irradiation, during irradiation, and for at least $3 0 ~ \\mathrm { { m i n } }$ during incubation after irradiation, $1 0 0 ~ \\mu \\mathrm { g / m l }$ chloramphenicol totally abolished both induced repair and mutagenesis of $\\lambda$ (Fig. 4). Each point in Figure 4 concerning chloramphenicol indicates time when chloramphenicol was diluted away and phage $\\lambda$ infection initiated. ",
+        "bbox": [
+            100,
+            910,
+            483,
+            940
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            107,
+            897,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Residual activities are seen when chloramphenicol was present for less than 30 minutes. The fact that the zero-point with chloramphenicol shows almost normal SOS repair activity is consistent with a fast reversibility of the chloramphenicol effect in our experiments. If so, then the points reflect the time course of the de novo protein synthesis required for the SOS repair. ",
+        "bbox": [
+            513,
+            259,
+            896,
+            379
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            400,
+            588,
+            414
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The experiments described show a characteristic induction pattern of mutagenic DNA repair activity in $E .$ coli following UV irradiation. It seems likely that the duration of the assay which involves a complete cycle of growth of phage $\\lambda$ is sufficient to account for the fact (Figs. 13) that the \"zero point\" (i.e. immediate plating of irradiated phage following UV irradiation of $E . c o l i )$ is not zero. In fact, the duration of the lytic cycle of phage $\\lambda$ irradiated with UV doses used in this study is twice as long as for intact phage (P. Caillet-Fauquet, M. Defais: unpublished results). The observation of an increase in phage survival due to post-irradiation incubation of the host cells indicates either that damaged phage DNA does not persist long enough when infection follows host irradiation immediately to be optimally repaired by the SOS repair or that infection interferes with its induction. ",
+        "bbox": [
+            513,
+            417,
+            897,
+            691
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A trivial interpretation of our data would be the variation in adsorption efficiency of the irradiated phage, i.e., UV irradiation could induce an increased capacity of cellular membrane receptors to adsorb irradiated phage. We have tested this possibility with labeled radioactive phage. No important variability in adsorption of either intact or irradiated phage $\\lambda$ was observed in the course of postirradiation incubation (results not shown). Furthermore, since the repair activity is paralleled by mutagenic activity (Fig. 4) expressed as the ratio clear/turbid plaques, such objections cannot be applied. ",
+        "bbox": [
+            515,
+            692,
+            897,
+            871
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SOS Repair, Mutagenesis and Prophage Induction ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            889,
+            876,
+            903
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The central point in the elaboration of the SOS hypothesis (Radman, 1974) was our earlier finding (Defais et al., 1971) that the physiological conditions and genetic elements required for induction of bacteria lysogenic for $\\lambda$ are also required for both induced repair and mutagenesis. Supporting features of coupling of prophage induction and the inducibility of repair and mutagenesis have been examined in mutants of E. coli which are temperature-inducible for $\\lambda$ prophage (Witkin, 1974; Castellazzi et al., 1972; Morse and Pauling, 1975; Witkin, 1975). Only one exception to the rule was found: UV-irradiated Hfr donors and restricted UV irradiated F-lac DNA can produce indirect Wreactivation and phage mutagenesis but not detectable indirect prophage induction (George et al., 1974). This is not understood. ",
+        "bbox": [
+            515,
+            909,
+            899,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            95,
+            107,
+            481,
+            318
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Yet, the similarities between the dose-response curves for induced repair and mutagenesis are striking (Defais et al., 1971): the requirement for de novo protein synthesis (Fig. 4), the inducibility by three temperature-sensitive mutants (Witkin, 1974; Castellazzi et al., 1972; Morse and Pauling, 1975; George et al., 1975; Witkin, 1975a, b; P. Caillet-Fauquet and M. Defais, unpublished results) and the requirement of the recA and lexA functions (Defais et al., 1971; Radman, 1974; Miura and Tomizawa, 1968) is an impressive coincidence. Figure 4 shows one more similarity between induced repair and mutagenesis: their expression-in-time after UV irradiation coincides. These induction kinetics resemble the UV induction pattern of prophage $\\lambda$ determined by Monk and Kinross (1975). As to the question of wether the mutagenesis of phage $\\lambda$ occurs by the same mechanism as cellular mutagenesis, several authors have recently measured the kinetics of ultraviolet mutagenesis of cellular genes in three different approaches (Roozen and J. Bockrath, unpublished; Witkin, $1 9 7 5 \\mathrm { b }$ ,and D. Kanazir, unpublished). All are in agreement with the interpretation of the kinetics shown in Figure 4. We conclude here, that it is likely that the hypothetical inducer\" results in inactivation of both the λ repressor and some cellular repressors including one(s) repressing the \"SOS repair genes\". The \"inducer\" can be produced by a variety of chemical and physical stresses which therefore lead to mutagenesis and to induction of lysogenic bacteria (see review, Witkin, 1976). ",
+        "bbox": [
+            98,
+            322,
+            483,
+            791
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A Transient Induction Pattern ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            822,
+            314,
+            835
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "\"SOS-induction\" results in a high level of mutagenesis (Table 1); therefore persistent mutagenic activity would be likely to constitute a liability to a bacterium. The actual induction pattern (Fig. 4) shows a transient activity. Judging from the chloramphenicol inhibition, de novo synthesis (or more precisely the chloramphenicol-sensitive synthesis) of protein(s) responsible for SOS repair takes place for at least about 30 to $4 0 \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ following UV irradiation (Fig. 4). Infection at this time also results in peak levels of repair and mutagenis, followed by an abrupt decay of these activities. The half life is approximately $3 0 ~ \\mathrm { m i n }$ Whatever is produced in a chloramphenicolsensitive process, which results in repair and mutagenesis, can be produced only during the first $3 0 { \\mathrm { - } } 4 0 \\operatorname* { m i n }$ following UV irradiation. This time is a minimum estimate, since the assay itself requires some time e.g. the delay between infection and phage DNA replication, which under our experimental conditions is about $1 0 ~ \\mathrm { m i n }$ (J. Delafonteyne, private communication). In fact there is a discrepancy of about $1 0 \\mathrm { m i n }$ between the post-irradiation time of peak phage reactivation and the minimum post-irradiation time necessary for complete abolition of SOS repair by chloramphenicol. ",
+        "bbox": [
+            98,
+            852,
+            483,
+            941
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/948932c3859dfc8187999a456736d20cebbfb08b0ea5e96b80a80868d1120375.jpg",
+        "table_caption": [
+            "Table 1. SOS repair and mutagenesis of phage $\\lambda$ by UV irradiation "
+        ],
+        "table_footnote": [
+            "a \"SOS\" refers to conditions where host cells were irradiated with an optimum UV dose and incubated for 30 minutes b See text "
+        ],
+        "bbox": [
+            515,
+            124,
+            897,
+            345
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            410,
+            899,
+            699
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "How Mutagenic is SOS Repair? ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            731,
+            747,
+            745
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This question cannot be answered directly. There is no way by which we can count base changes in the total DNA of a population of cells exposed to a mutagen. ",
+        "bbox": [
+            516,
+            761,
+            901,
+            821
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We shall try to make a rough estimate of mutagenecity per pyrimidine dimer during an optimal SOS repair activity. Since we were looking for forward mutations in λ leading to the clear plaque morphology (i.e., to a defect in the lysogenic pathway), we must first get an estimate of the efficiency with which random base changes produce detectable phenotypic changes. Such an estimate was made by comparing the suppressibility by different suppressors (i.e., amino acid replacements) of numerous UV induced amber mutations in the gene coding for the lac repressor (J. Miller, personal communication) and in the total genome of phage Mu (Faelen and Toussaint, 1973). The great majority of amber mutations are suppressed by all three or four suppressors and rough estimates are made that only between 1 and 5 percent of base changes would lead to a phenotypic mutation. Assuming also (1) randomness of pyrimidine dimers through the gene size units of $\\lambda$ DNA, (2) the fraction of the $\\lambda$ genome which can yield clear plaque mutations to be $1 / 2 0$ to $1 / 1 0$ , then the efficiency of the SOS repair to produce phenotypic (clear) mutation is approximately 1 percent. Thus, it could be that nearly every pyrimidine dimer results in a base change in the course of SOS repair (Table 1). ",
+        "bbox": [
+            516,
+            822,
+            901,
+            942
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            98,
+            105,
+            483,
+            363
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mechanism of prophage induction by UV irradiation remains completely obscure. It has been shown that in the process of induction by UV or mitomycin C, the λ repressor is finally inactivated by an unknown protease (Roberts and Roberts, 1975). What is the SOS signal? Something produced at the blocked replication fork or just single stranded gaps in the DNA to which a hypothetical SOS repressor binds more tightly than to its operator, or a change in the level of DNA precursors or of cyclic nucleotides (M. Defais, P. Caillet-Fauquet, M. Radman, unpublished results). These and other possibilities are currently under study in our laboratory. ",
+        "bbox": [
+            98,
+            364,
+            483,
+            561
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements. This work was carried out under contract Euratom — U.L.B. 099-72-IBIAB with a agreement between the Belgian Government and Université Libre de Bruxelles concerning priority action for collective basic research and with the help of the \" Fonds de la Recherche Fondamentale Collective\". Some of the preliminary work was supported by N.I.H. Grant number AI-05388 to M.S. Fox. ",
+        "bbox": [
+            98,
+            580,
+            483,
+            667
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            703,
+            175,
+            717
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bleichrodt, J.F., Verheij, W.S.D. : Mutagenesis by ultraviolet radiation in bacteriophage $\\varnothing \\mathbf { X } 1 7 4$ : on the mutation stimulating processes induced by ultraviolet radiation in the host bacterium. Molec. gen. Genet. 135, 1927 (1974)   \nCampbell, A.: Sensitive mutants of bacteriophage λ. Virology 14, 2232 (1961)   \nCastellazzi, M., George, J., Buttin, G.: Prophage induction and cell division in E.coli. I Further characterization of a thermosensitive mutation tif-1 whose expression mimics the effect of UV-irradiation. Molec. gen. Genet. 119, 139152 (1972)   \nDefais, M., Fauquet, P., Radman, M., Errera, M.: Ultraviolet reaction and ultraviolet mutagenesis of $\\lambda$ in different genetic systems. Virology 43, 495503 (1971)   \nFaelen, M., Toussaint, A.: Isolation of conditional defective mutants of temperate phage Mu-l and deletion mapping of the Mu prophage. Virology 54, 117124 (1973)   \nGeorge, J., Castellazzi, M., Buttin, G.: Prophage induction and cell division in E.col. I Mutation  and i restore ivision in  and lon strain and permit the expression o mutaor properties of tif. Molec. gen. Genet. 140, 309332 (1975)   \nGeorge, J, Devoret, R., Radman, M.: Indirect ultraviolet reactivation of phage λ. Proc. nat. Acad. Sci. (Wash.) 71, 144147 (1974)   \nGudas, L.J., Pardee, A.B.: A model for the regulation of $E$ coli DNA repair functions. Proc. nat. Acad. Sci. (Wash.)7, 330 2334 (1975)   \nHoward-Flanders, P., Boyce, R.P.: DNA repair and genetic recombination; studies on mutants of E.coli defective in these processes. Radiat. Res. 6 (Suppl.) 156184 (1966)   \nMiura, A., Tomizawa, I.: Studies on radiation sensitive mutants of E. coli. II Participation of the rec system in induction of mutation by ultraviolet irradiation. Molec. gen. Genet. 103, 1-10 (1968)   \nMonk M. Kiross, J. The kinetics of derepression of prophage following ultraviolet irradiation of lysogenic cells. Molec. gen. Genet. 137, 263268 (1975)   \nMorse, L.S., Pauling, C.C.: Induction of error-prone repair as a consequence of DNA ligase deficiency in E.coli. Proc. nat. Acad. Sci. (Wash.) 72, 46454649 (1975)   \nMount, D.W.: A method for the isolation of phage mutants altered in their response to lysogenic induction. Molec. gen. Genet. 145, 165167 (1976)   \nRadman, M.: Phenomenology of an inducible mutagenic DNA repair pathway in $E$ coli. SOS repair hypothesis. In: Molecular and environmental aspects of mutagenesis (L. Prakash, F. Sherman, M. Miller, C. Lawrence, H.W. Tabor, eds.), pp. 129142. Springfield, Illinois: C.C. Thomas Publishing Co. 1974   \nRadman, M., Caillet-Fauquet, P., Defais, M., Villani, G.: The molecular mechanism of induced mutation and an in vitro biochemical assay for mutagenesis. In: Montesano, R., Bartsch, H. and Tomatis, L. eds., Screening test in chemical carcinogeneis, pp. 543545, IARC Scientific Publications No. 12, Lyon, 1976   \nRoberts, J.W., Roberts, C.W.: Proteolytic cleavage of bacteriophage λ repressor in induction. Proc. nat. Acad. Sci. (Wash.) 72, 147151 (1975)   \nSedgwick, S.G.: Evidence for inducible error-prone repair in E. coli. Proc. nat. Acad. Sci. (Wash.) 72, 27532757 (1975a)   \nSedgwick, S.G. : Ultraviolet inducible protein associated with errorprone repair in E. coli B. Nature (Lond.) 255, 349350 (1975b)   \nThomas, R.: Control of development in temperate bacteriophage. I Induction of prophage gene following hetero-immune superinfection. J. molec. Biol. 22, 7995 (1966)   \nWitkin, E.M.: Thermal enhancement of ultraviolet mutability in a tif-1 uvrA derivative of $E$ coli $\\mathtt { B / r }$ : evidence that ultraviolet mutagenesis depends upon an inducible function. Proc. nat. Acad. Sci. (Wash.) 71, 19301934 (1974)   \nWitkin, E.M.: Thermal enhancement of ultraviolet mutability in a dnaB uvrA derivative of $E$ coli $\\scriptstyle \\mathbf { B } / \\mathbf { r }$ : evidence for inducible error-prone repair. In: Molecular mechanisms for the repair of DNA (P. Hanawalt and R.B. Setlow, eds.), pp. 369-378. New York: Plenum press 1975a   \nWitkin, E.M.: Persistence and decay of thermoinducible errorprone repair activity in nonfilamentous derivatives of $T _ { i f - 1 }$ E. coli $\\mathrm { B / r }$ : the timing of some critical events in ultraviolet mutagenesis. Molec. gen. Genet. 142, 87103 (1975b)   \nWitkin, E.M.: Ultraviolet mutagenesis and inducible DNA repair in Escherichia coli. Bact. Rev. (in press) ",
+        "bbox": [
+            98,
+            728,
+            483,
+            938
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            85,
+            899,
+            875
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Communicated by E. Witkin ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            889,
+            725,
+            903
+        ],
+        "page_idx": 5
+    }
+]

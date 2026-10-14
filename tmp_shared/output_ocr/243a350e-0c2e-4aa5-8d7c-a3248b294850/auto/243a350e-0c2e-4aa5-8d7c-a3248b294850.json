@@ -1,0 +1,482 @@
+[
+    {
+        "type": "text",
+        "text": "39. We thank H. Kitayama and M. Noda for providing the Rap-1 (Krev) and Rap1-63E plasmids, D. McKean and R. Abraham for providing the IL-2—luciferase plasmid, T. Roberts and R. Narsimhan for helpful suggestions on the GTP and GDP binding assays, D. Tenen for assistance with the luciferase assays, and ",
+        "bbox": [
+            55,
+            58,
+            339,
+            115
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Counteraction by MutT Protein of Transcriptional Errors Caused by Oxidative Damage ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            141,
+            635,
+            182
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "F. Taddei,\\*\\* H. Hayakawa, M.-F. Bouton, A.-M. Cirinesi, I. Matic, M. Sekiguchi, M. Radman ",
+        "bbox": [
+            92,
+            189,
+            605,
+            221
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Oxidized guanine (8-oxo-7,8-dihydroguanine; 8-oxo- $\\mathcal { \\mathrm { G } }$ ) is a potent mutagen because of its ambiguous pairing with cytosine and adenine. The Escherichia coli MutT protein specifically hydrolyzes both 8-oxo-deoxyguanosine triphosphate (8-oxo-dGTP) and 8- oxo-guanosine triphosphate (8-oxo-rGTP), which are otherwise incorporated in DNA and RNA opposite template A. In vivo, this cleaning of the nucleotide pools decreases both DNA replication and transcription errors. The effect of mutT mutation on transcription fidelity was shown to depend on oxidative metabolism. Such control of transcriptional fidelity by the ubiquitous MutT function has implications for evolution of RNA-based life, phenotypic expression, adaptive mutagenesis, and functional maintenance of nondividing cells. ",
+        "bbox": [
+            57,
+            230,
+            642,
+            357
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MutT protein is known to hydrolyze some ribonucleotide analogs, such as 8-bromorGTP, albeit with low efficiency (9). If MutT protein can hydrolyze other ribonucleotide analogs such as 8-oxo-rGTP as well as it hydrolyzes 8-oxo-dGTP, it may have an important role in controlling the fidelity of information transfer from DNA to protein. ",
+        "bbox": [
+            660,
+            55,
+            946,
+            167
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To examine the effect of mutT deficiency on the fidelity of these processes in vivo, we used P1-mediated transduction to introduce a mutT mutation into the $\\mathrm { L a c Z ^ { - } }$ strains used to measure leakiness (i.e., partial phenotypic suppression). A 30-fold increase in leakiness in the strain requiring template A to pair with G (namely, A:T to C:G transversion strain) was observed; the other mutant strains were unaffected (Table 1). ",
+        "bbox": [
+            662,
+            169,
+            946,
+            305
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Spontaneous errors in DNA, RNA, and protein synthesis, all of which can influence protein activity, occur at rates of about $^ { 1 0 ^ { - 9 } , ~ 1 0 ^ { - 5 } }$ and $1 0 ^ { - 4 }$ per residue, respectively (1). Errors in DNA synthesis can produce mutant genes, which lead to alteration of proteins derived from those genes in the mutant cell clone. However, the higher error rates of transcription and translation produce a wider variety and, in general, a greater number of error-containing proteins. Erroneous proteins may have altered functions that trigger an error propagation process (2) resulting in functional defects and, ultimately, cell death, possibly by error catastrophe (3). ",
+        "bbox": [
+            57,
+            392,
+            341,
+            595
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The specific increase in $\\beta$ -galactosidase activities in the A:T to C:G tester strains in a mutT- background cannot easily be explained solely by generation of ${ \\mathrm { L a c } } ^ { + }$ bacteria. The following formula helps to consider the contribution of revertants to the $\\beta$ -galactosidase activity of the population, $M ( \\mathrm { p o p } )$ , measured in Miller units: $\\bar { \\mathrm { M } } ( \\mathrm { p o p } ) = \\mathrm { M } ( \\mathrm { l a c ^ { + } } ) f ( \\mathrm { l a c ^ { + } } ) \\ +$ $M ( \\mathrm { l a c ^ { - } } ) f ( \\mathrm { l a c ^ { - } } )$ where $M ( \\mathrm { l a c } ^ { + } )$ and $M ( \\mathrm { l a c } ^ { - } )$ are $\\beta$ -galactosidase activities of ${ \\mathrm { L a c } } ^ { + }$ and Lac- cells, and $f ( \\mathrm { l a c } ^ { + } )$ and $f ( \\mathrm { l a c } ^ { - } )$ their respective frequencies. ",
+        "bbox": [
+            662,
+            307,
+            946,
+            457
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To examine the cellular controls of the fidelity of information transfer from DNA to protein, we have used six $E$ coli strains, each containing a different single base substitution in codon 461, which encodes glutamic acid in the wild-type (WT) LacZ protein (4). The lowest levels of residual $\\beta$ -galactosidase activity (leakiness) were observed in the strains used to measure the mutations A:T to C:G and A:T to G:C (about 0.013 Miller unit). At the DNA level, A:T to C:G mutations are greatly increased in mutT-deficient bacteria. MutT protein hydrolyzes 8-oxo-dGTP, a major oxidation product, to 8-oxo-deoxyguanosine monophosphate (8-oxo-dGMP). 8-Oxo-dGTP is a potent mutagen in that it is readily incorporated into DNA and is inserted with equal frequency opposite template C or A (5). By removing 8-oxo-dGTP from the triphosphate pool, MutT protein reduces spontaneous mutations by a factor of 1000 (68). ",
+        "bbox": [
+            57,
+            596,
+            341,
+            746
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            359,
+            395,
+            643,
+            532
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "8-Oxo-dGTP is produced by oxidation of dGTP mediated by free radicals. It is likely that oxygen free radicals oxidize ribonucleotides and deoxyribonucleotides with similar efficiencies and that the resulting molecules are structurally similar. ",
+        "bbox": [
+            359,
+            533,
+            643,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This formula can be applied to an overnight liquid culture where the frequency of $\\mathrm { L a c } ^ { - }$ is close to 1 and the frequency of A:T to $\\mathrm { { C } : \\mathrm { { G } \\ l a c ^ { + } } }$ revertants is less than $1 0 ^ { - 5 }$ in a $m u t T ^ { - }$ context (4, 10). Cultures containing more Lac+ were discarded from the analysis. Appropriate reconstruction experiments were carried out that have validated these assumptions (10). Thus, if the increase in $\\beta$ -galactosidase concentration as a result of the mutT mutation (from 0.013 to 0.39) were due only to ",
+        "bbox": [
+            662,
+            458,
+            946,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Table 1. MutT protein counteracts the effect of oxidative metabolism on the residual $\\beta$ -galactosidase aviy leakess) of an coli l mutant. For clariy, on the valusobtaie or the A:T t C:G reversion mutation strain are shown. For tester strains representing all ther possible base-pair changes, under both aerobic and anaerobic conditions, the mutT/WT ratio of $\\beta$ -galactosidase activities varied between 0.7 and 1.3, thus showing the specificity of mut effect. Bacterial strais were constructed by transferring CC101-106 (4) episomes to NR3835 [∆(pro-lac) ara thi trpE9777], which had previously been cured from its episome by treatment with acridine orange. A mutT mutation was introduced in the six strains by P1-mediated cotransduction with leu:Tn10. Liquid cultures were grown in rich 869 medium (5 g of NaCl per liter, $1 0 { \\mathfrak { g } }$ of Bactotryptone per liter, 5 g of yeast extract per liter agar per liter) under aerobic or anaerobic conditions (the latter were obtained by using Generbox). $\\beta$ -Galactosidase activities were measured and are expressed as described by Miller $( 1 7 )$ . To measure low levels of $\\beta$ -galactosidase activities, longer incubation times were necessary (up to 1 day, always controlling for spontaneous hydrolysis of $O$ -nitrophenyl- $\\cdot \\beta$ -D-galactoside). Each value is the average $\\pm$ standard error of at least four experiments. The relatively high variation in the mutT- background remains to be explained (one might want to invoke the role of secondary mutations or some kind of error propagation). Reconstruction experiments show that this variation is not due to errors associated with measurements of low levels of $\\beta$ -galactosidase activity. ",
+        "bbox": [
+            359,
+            625,
+            947,
+            808
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/b44f2ddbae0e7406e631fa1b211237dcd2edbc55ef471599eee94088880ebb20.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            359,
+            815,
+            949,
+            869
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "reversion mutations, each revertant would need to produce $3 . 8 \\times 1 0 ^ { 4 } \\ : \\beta$ -galactosidase Miller units, which is at least 10-fold greater than the value obtained for a fully induced WT lacZ gene (10, 11). One might also suggest that there is up to 1 ${ \\mathrm { L a c } } ^ { + }$ per 10,000 total cells and that most are not able to grow on lactose plates. This would be an interesting phenomenon, for which no evidence has been found. ",
+        "bbox": [
+            55,
+            55,
+            339,
+            180
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Alternatively, if the increase in leakiness in the mutT- mutant is not due to 8-oxo-dGTP-mediated mutations (12), then it may be caused by the lack of some unknown activity of the MutT protein (e.g., an unknown repair process or hydrolysis of some other damaged nucleotides). Such activity appears to counteract the effect of oxygen (13), because in cultures grown anaerobically the effect of the mutT mutation on $\\beta$ -galactosidase activity was reduced to twofold (Table 1), which was not the case for the mutations (13). ",
+        "bbox": [
+            55,
+            182,
+            339,
+            344
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We cannot rule out the possibility that MutT has some unknown activities that are responsible for the increased biosynthetic errors. Given the known biochemical activities of this enzyme and the effect of oxygen, a likely candidate is elimination of the oxidized ribonucleotide 8-oxorGTP. This would explain the specificity of the mutT- mutation effect, as misincorporation of 8-oxo-rGMP in the mRNA opposite template A in the mutant codon would then lead to a precise reversion at the protein level (Fig. 1). If this hypothesis is correct, then two biochemical predictions should be verified: MutT protein should specifically hydrolyze 8-oxo-rGTP, and 8-oxo-rGMP should be misincorporated in RNA opposite DNA template A. ",
+        "bbox": [
+            57,
+            345,
+            339,
+            570
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MutT protein isolated from E. coli was tested for its ability to hydrolyze 8-oxodGTP, 8-oxo-rGTP, dGTP, and rGTP (Fig. 2). The results show that MutT hydrolyzes 8-oxo-rGTP at least as well as 8-oxo-dGTP, but that it has no effect on either rGTP or dGTP. ",
+        "bbox": [
+            57,
+            571,
+            341,
+            595
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            356,
+            55,
+            642,
+            117
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To test whether 8-oxo-rGMP can be incorporated into RNA, in vitro transcription assay was carried out with E. coli RNA polymerase in the presence of $\\alpha$ ${ } ^ { 3 2 } \\mathrm { P }$ -labeled 8-oxo-rGTP. With E. coli DNA used as the template, the rate of misincorporation of 8-oxo-rGMP into the transcript was $1 / 1 0 \\mathrm { { t h } }$ that of GMP (Fig. 3A). Next, we used poly(dA-dT) as a template to determine whether 8-oxo-rGMP was incorporated opposite adenine residues. 8-Oxo-rGMP was incorporated into polynucleotides at a rate 1/5th that of uridine monophosphate (rUMP) and at a much greater rate than was observed for rGMP with this template (Fig. 3B). ",
+        "bbox": [
+            357,
+            119,
+            640,
+            319
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "tions have been verified, the role of 8-oxorGTP in specific transcription errors is the most likely explanation, even if we cannot rule out the implication of other mechanisms. Therefore, the data presented support the idea that, in addition to its effect on DNA replication fidelity, the mutT mutation also affects transcriptional fidelity, which is compromised by oxidative damage. MutT protein appears to ensure this fidelity by removing 8-oxo-rGTP from the ribonucleotide triphosphate pool, which is otherwise misincorporated by the RNA polymerase opposite template A. ",
+        "bbox": [
+            660,
+            55,
+            944,
+            230
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because the two biochemical predic",
+        "bbox": [
+            378,
+            319,
+            640,
+            332
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These results are likely to be relevant to other organisms because MutT homologs have been identified in several mammalian species (14-17). Furthermore, MutT homolog protein purified from mouse cells catalyzes hydrolysis of 8-oxorGTP (18), and human Jurkat cell extracts have been found to contain an activity ",
+        "bbox": [
+            660,
+            232,
+            944,
+            332
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/826b85931fcbec5b9c7a33abb9bd8fdfcc4dceaf40b6d7ca8048f7f7f7a0ff03.jpg",
+        "image_caption": [
+            "Fig. 2. Specific hydrolysis of 8-oxo-dGTP and 8-oxo-rGTP by the E. coli MutT protein. The MutT protein was titrated in a nucleoside triphosphatase assay with four substrates [8-oxo-rGTP $\\left( \\bigcirc \\right)$ 8-0xo-dGTP $( \\bullet )$ , ",
+            "rGTP $( \\triangle )$ , and dGTP $( \\pmb { \\Delta } ) ]$ and the production of nucleoside monophosphates was analyzed by thin-layer chromatography. A homogeneous preparation of $E ,$ coli MutT protein was used. The elution profiles of the activities against $8 \\mathrm { - } \\mathsf { O } \\mathsf { \\times } \\mathsf { O }$ -rGTP and $8 – 0 { \\times } 0 – 0 G T P$ were essentially the same. [α-32P]8-oxo-rGTP and other $\\alpha$ $\\tt x ^ { \\mathrm { - } 3 2 } \\mathsf { P } ^ { \\mathrm { - } }$ -labeled nucleoside triphosphates were prepared and purified as described (14). The MutT protein was overproduced in $E ,$ coli MK602 (mutT-) harboring pMA106 and purified to physical homogeneity as described (28). Protein concentration of MutT preparation was determined by the method of Bradford (29) with bovine serum albumin (BSA) as a standard. Labeled nucleotides (200 pmol) were incubated with 9 ng (A) or varied amounts (B) of MutT protein in a reaction mixture $( 1 0 ~ \\mu | )$ containing 4 mM ${ \\mathsf { M g C l } } _ { 2 }$ , 40 mM NaCI, BSA $( 8 0 \\mu \\mathrm { g } / \\mathrm { m } \\ l )$ , 8 mM dithiothreitol (DTT), $10 \\%$ (v/v) glycerol and $2 0 \\mathsf { m } \\mathsf { M }$ tris-HCI $\\left( \\mathsf { p H 8 . O } \\right)$ . The reaction was run at $3 0 ^ { \\circ } \\mathrm { C }$ and terminated at the indicated times (A) or after 30 min (B) by adding $2 . 5 ~ \\mu \\up$ of $5 0 ~ \\mathsf { m M }$ EDTA. The production of nucleoside monophosphates was followed by thin-layer chromatography (TLC) (PEI-cellulose plate; Merck) with 1 M LiCI and the autoradiogram was processed with a Fujix 2000 Bio-Image analyzer. (C) A purified MutT protein was applied to a Superdex X75 column, and the protein was eluted with a buffer containing 1 mM EDTA, $0 . 1 \\mathsf { m M }$ DTT, $5 \\%$ (v/V) glycerol, 0.15 M NaCI, and $2 0 \\mathsf { m } \\mathsf { M }$ tris-HCI (pH 7.5). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            517,
+            361,
+            942,
+            453
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/90cce168c397d81523aed9bfc096dd06c53d686c0d9429be21ae1329d4179c2e.jpg",
+        "image_caption": [
+            "Fig. 1. Partial phenotypic suppression by 8-oxorG $( \\mathsf { G } ^ { \\circ } )$ . 8-oxo-rG can be incorporated by the RNA polymerase opposite DNA template A during RNA synthesis. The ATC trinucleotide in the transcribed strand of the mutant would then be copied to 8-oxo-GAG (which would pair with CUC glutamic acid anticodon) rather than to a UAG stop codon. Thus, this RNA transcript would code for a WT $\\beta$ -galactosidase, whereas the vast majority of mRNAs code for truncated proteins (the cell would then have intermediate levels of $\\beta$ -galactosidase activity). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            72,
+            611,
+            321,
+            728
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/448ede506974cc7deda715940b07b502273d501dd28eb7699e3088bd8b3c2901.jpg",
+        "image_caption": [
+            "Fig. 3. Misincorporation of 8-oxo-rGMP by E. coli RNA polymerase. (A) In vitro transcription with E. coli DNA as a template. The reaction was carried out with $E .$ coli RNA polymerase $( 0 . 1 2 \\ u \\mathrm { n i t / \\mu l } )$ (Sigma) in 0.1 M tris-HCI $\\left( \\mathsf { p H } 7 . 8 \\right)$ , 5mM ${ \\sf M g C l } _ { 2 } ,$ 2 mM $\\mathsf { M n C l } _ { 2 }$ , 0.2 mM DTT, E. coli DNA $( \\bar { 0 } . 5 ~ \\mu \\mathrm { g } /$ $\\lvert \\mu \\rvert )$ 0.1 mM cytidine triphosphate (rCTP), 0.1 mM adenosine triphosphate (rATP), $0 . 1 \\mathsf { m M }$ uridine triphosphate (rUTP), and 5 $\\mu \\mathsf { M } \\left[ \\alpha ^ { - 3 2 } \\mathsf { P } \\right] \\mathsf { r G T P } \\left( \\triangle \\right) ,$ or [α-32P]8-oxo-rGTP "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            616,
+            657,
+            944,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$( \\bigcirc )$ After incubation at $3 7 ^ { \\circ } \\mathrm { C }$ for the times indicated, the reaction was terminated by addition of an equal volume of $5 0 \\mathsf { m } \\mathsf { M }$ EDTA and analyzed by TLC as described in Fig. 2. To confirm that the incorporated material is 8-oxo-rGMP, the acid-insoluble material was digested with P1 nuclease and analyzed by HPLC with a C18 reverse-phase column. The labeled material was coeluted with 8-oxo-rGMP added as amarker, and no radiactivity was found in the rGMP fraction (data not shown). ) Invitro transrion with poly(dA-dT) as a template. The reaction was performed as described above, except that $0 . 1 \\mathsf { m M }$ poly(A-dT) was used as a template and $0 . 1 \\mathsf { m M }$ rATP and $0 . 1 \\mathsf { m M }$ [α-32P]rUTP $( \\boxed { \\begin{array} { r l } \\end{array} }$ , $\\{ \\alpha ^ { - 3 2 } \\mathsf { P J } \\mathsf { r G T P } ( \\triangle$ . or $[ \\alpha ^ { - 3 2 } \\mathsf { P } ] 8 \\mathsf { - O } \\mathsf { X } 0$ -rGTP $( \\bigcirc )$ were used as ribonucleotide substrate. ",
+        "bbox": [
+            359,
+            779,
+            947,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "that degrades 8-oxo-rGTP (19). ",
+        "bbox": [
+            53,
+            57,
+            272,
+            69
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This effect of a well-known DNA replication fidelity enzyme on transcriptional fidelity may be the tip of the iceberg. The rNTP and dNTP pools and single-stranded RNA are probably more susceptible than double-stranded DNA to free radical attack and other chemical modifications, a proposition used to explain why the DNA world has replaced the RNA world (20). The fidelity of RNA, a molecule that can be viewed as the disposable soma of genetic information—whereas DNA would be the heritable germ line—has been much less studied than that of DNA. So far, the only other example of a mutant affecting transcriptional fidelity is an RNA polymerase mutant that results in a three- to fourfold decrease in fidelity (21). There may be RNA repair activities still undiscovered. Such RNA repair activities might affect other important RNA transactions such as editing and splicing. ",
+        "bbox": [
+            53,
+            69,
+            336,
+            344
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The enhanced variability of RNA and the consequent effect on proteins may provide an increased spectrum of enzymatic activities available to a given genome and, perhaps, facilitate adaptive mutagenesis (2225). Possible reverse transcription of RNA errors into DNA, or generation of transient mutators (26, 27), could be a significant source of variations in DNAbased genomes, whereas a change in RNA fidelity could influence the evolution of RNA viruses. Although DNA fidelity may be most important in avoiding malignant cell transformation in dividing cells, RNA fidelity may be essential for the functional maintenance of cells, and in particular of nondividing cells such as heart muscle, neurons, and other predominantly quiescent $\\mathrm { ~ \\cal ~ G ~ } _ { 1 } / \\mathrm { \\cal ~ G } _ { 0 }$ phase) cells. ",
+        "bbox": [
+            55,
+            345,
+            337,
+            584
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES AND NOTES ",
+        "text_level": 1,
+        "bbox": [
+            104,
+            595,
+            290,
+            607
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ute to the observed leakiness. However, the formula could be modified to estimate the effect of ${ \\mathsf { S e r } } ^ { 4 6 1 }$ mutants: $M ( \\mathrm { p o p } ) = M ( \\mathrm { S e r } ) f ( \\mathrm { S e r } ) + M ( \\mathrm { l a c } ^ { - } ) f ( \\mathrm { l a c } ^ { - } ) ,$ . where M(Ser) and $f$ (Ser) are the Miller units and frequencies of $S { \\in } \\mathsf { r } ^ { 4 6 1 }$ mutants. $f \\left( { \\mathrm { S } } { \\mathrm { \\Theta } } \\right)$ would need to constitute $> 1 \\%$ of each liquid culture to account for the increase in $\\beta$ -galactosidase concentration. Such a high mutation frequency at a single site seems highly unlikely. By the same basic logic, mutations induced by lack of MutT activity cannot easily explain the extent of the observed increase in leakiness. However, it is difficult to eliminate the possibility that a variety of mutants are responsible for some of the observed effects, especially if such mutants are not colony forming. ",
+        "bbox": [
+            374,
+            57,
+            638,
+            207
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "13. This is different from the effect of the mutT mutation on frequencies of mutation, which are similar in rich medium under anaerobiosis and aerobiosis [R. G. Fowler, J. A. Erickson, R. J. Isbell, J. Bacteriol. 176, 7727 (1994); F. Taddei et al., unpublished observations]. The fact that, under anaerobiosis, we can separate the effect of MutT on DNA and RNA fidelity is consistent with the idea that mutT--mediated mutations are not responsible for the observed increase in $\\beta$ -galactosidase activity in a mutT- aerobic culture. ",
+        "bbox": [
+            356,
+            209,
+            638,
+            304
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "14. J. Y. Mo, H. Maki, M. Sekiguchi, Proc. Natl. Acad. Sci. U.S.A. 89, 11021 (1992).   \n15. K. Sakumi et al., J. Biol. Chem. 268, 23524 (1993).   \n16. T. Kakuma, J. Nishida, T. Tsuzuki, M. Sekiguchi, ibid.   \n270, 25942 (1995).   \n17. J.-P. Cai, T. Kakuma, T. Tsuzuki, M. Sekiguchi, Carcinogenesis 16, 2343 (1995).   \n18. H. Hayakawa and M. Sekiguchi, unpublished observation (1997).   \n19. H. Hayakawa, A. Taketomi, K. Sakumi, M. Kuwano, M. Sekiguchi, Biochemistry 34, 89 (1995).   \n20. M. Radman, J. Rommelaere, M. Errera, in Physicochemical Properties of Nucleic Acids, J. Duchesne, Ed. (Academic Press, London, 1973), vol. 3, p. 161.   \n21. A. Blank, J. A. Gallant, R. R. Burgess, L. A. Loeb, Biochemistry 25, 5920 (1986).   \nJ. Cairns, J. Overbaugh, S. Miller, Nature 335, 12 (1988).   \n. B. A. Bridges, ibid. 375, 741 (1995).   \n24. T. Galitski and J. R. Roth, Genetics 143, 645 (1996).   \n25. F. Stahl, Nature 335, 112 (1988).   \n2 J. Ninio, Genetics 129, 957 (1991).   \n27. J. H. Miller, Annu. Rev. Microbiol. 50, 625 (1996).   \n. M. Akiyama, H. Maki, M. Sekiguchi, T. Horiuchi, Proc. NatI. Acad. Sci. U.S.A. 86, 3949 (1989).   \n29. M. M. Bradford, Anal. Biochem. 72, 248 (1976).   \n30. We thank D. Touati and S. Stambuk for providing strains, R. Wagner for rewriting the initial manuscript, and R. D'Ari for revising the final version. Supported by grants from the Ministry of Education, Science and Culture of Japan and from the French agencies Association de la Recherche contre le Cancer and Actions Concertées Coordonnées Sciences du Vivant du Ministère de I'Enseignement Supérieur et de la Recherche and Groupement de Recherche et d'Etudes sur les Génomes. ",
+        "bbox": [
+            356,
+            305,
+            638,
+            370
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            655,
+            55,
+            941,
+            348
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9 April 1997; accepted 7 August 1997 ",
+        "bbox": [
+            680,
+            359,
+            873,
+            369
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Functional Dynamics of GABAergic Inhibition in the Thalamus ",
+        "text_level": 1,
+        "bbox": [
+            374,
+            392,
+            922,
+            432
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Uhnoh Kim, Maria V. Sanchez-Vives, David A. McCormick\\* ",
+        "bbox": [
+            383,
+            439,
+            917,
+            455
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The inhibitory $\\gamma$ -aminobutyric acid-containing (GABAergic) neurons of the thalamic reticular and perigeniculate nuclei are involved in the generation of normal and abnormal synchronized activity in thalamocortical networks. An important factor controlling the generation of activity in this system is the amplitude and duration of inhibitory postsynaptic potentials (IPSPs) in thalamocortical cells, which depend on the pattern of activity generated in thalamic reticular and perigeniculate cells. Activation of single ferret perigeniculate neurons generated three distinct patterns of GABAergic IPSPs in thalamocortical neurons of the dorsal lateral geniculate nucleus: Low-frequency tonic discharge resulted in small-amplitude IPSPs mediated by $\\mathsf { G A B A } _ { \\mathsf { A } }$ receptors, burst firing resulted in large-amplitude $\\mathsf { G A B A } _ { \\mathsf { A } }$ IPSPs, and prolonged burst firing activated IPSPs mediated by $\\mathsf { G A B A } _ { \\mathsf { A } }$ and $\\mathsf { G A B A } _ { \\mathsf { B } }$ receptors. These functional properties of GABAergic inhibition can reconfigure the operations of thalamocortical networks into patterns of activity associated with waking, slow-wave sleep, and generalized seizures. ",
+        "bbox": [
+            357,
+            470,
+            942,
+            632
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "GABAergic neurons are the major inhibitory cell type in the mammalian brain and exhibit a wide variety of morphological and physiological properties (1). The activation of GABAergic neurons can inhibit postsynaptic target cells through increases in $\\mathrm { C l ^ { - } }$ conductance, mediated by the $\\mathrm { G A B A _ { A } }$ receptor, and increases in $\\mathrm { K } ^ { + }$ conductance, mediated by the $\\mathrm { G A B A _ { B } }$ receptor (2), although it remains unclear whether these different receptors are activated by the same or different subgroups of GABAergic neurons (3-5). In addition, some types of GABAergic neuron can generate high-frequency burst discharges, and the functional influence of these on the postsynaptic GABA response has not yet been determined (6, 7). The functional properties of IPSPs mediated by the $\\mathrm { G A B A _ { A } }$ and $\\mathrm { G A B A _ { B } }$ receptors are intimately involved in the operation of thalamic and cortical networks (8). ",
+        "bbox": [
+            357,
+            667,
+            640,
+            808
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            660,
+            670,
+            944,
+            807
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thalamocortical neurons in the dorsal lateral geniculate nucleus (LGNd) are densely innervated by the GABAergic neurons of the perigeniculate nucleus (PGN) (9) in a manner that is equivalent to the ",
+        "bbox": [
+            660,
+            808,
+            944,
+            870
+        ],
+        "page_idx": 2
+    }
+]

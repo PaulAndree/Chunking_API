@@ -1,0 +1,439 @@
+[
+    {
+        "type": "text",
+        "text": "Survival versus maintenance of genetic stability: a conflict of priorities during stress ",
+        "text_level": 1,
+        "bbox": [
+            220,
+            204,
+            774,
+            249
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ivan Matic ∗, François Taddei, Miroslav Radman ",
+        "bbox": [
+            284,
+            264,
+            710,
+            282
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "NSERM U571, Faculté de Médecine Necker-Enfants Malades, Université Paris V, 156 rue de Vaugirard, 75730 Paris Cedex 15, France ",
+        "bbox": [
+            142,
+            296,
+            862,
+            307
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 18 September 2003; accepted 20 January 200 ",
+        "bbox": [
+            344,
+            313,
+            647,
+            324
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Available online 19 March 2004 ",
+        "bbox": [
+            413,
+            330,
+            586,
+            339
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This article is dedicated to the memory of our good friend and colleague Michel Blot ",
+        "bbox": [
+            268,
+            346,
+            726,
+            357
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            396,
+            132,
+            407
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacteria are constantly facing many different environmental assaults, which may be of such severity that numerous survivors have important alterations in their genetic material. Some genetic systems induced in response to such stresses, for example the SOS system and the $\\sigma ^ { S }$ regulon, actively participate in the generation of genetic alterations. The key priority of those genetic systems during stress is to ensure survival. Therefore, the repair of lethal DNA lesions is an absolute necessity, while perfect restoration of original genetic information is not. Furthermore, the nature of DNA lesions might render error-free repair too costly, or even impossible for stressed bacterial cells. Although the majority of these genetic alterations are deleterious, the rare advantageous alterations may have long-term evolutionary consequences independently of whether the selection of molecular mechanisms involved in their generation is linked to survival strategies or not. ",
+        "bbox": [
+            75,
+            414,
+            921,
+            504
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\textcircled { \\mathbb { C } } 2 0 0 4$ Elsevier SAS. All rights reserved. ",
+        "bbox": [
+            77,
+            505,
+            327,
+            517
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Stress; Sos response; $\\sigma ^ { S }$ Regulon; Mutagenesis; Evolution ",
+        "bbox": [
+            78,
+            528,
+            447,
+            541
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            595,
+            188,
+            608
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The capacity to maintain functional homeostasis in everchanging environments is essential for survival of all organisms. Any disturbance of functional homeostasis that reduces the fitness of an organism can be defined as stressful, and the formidable evolutionary success of bacteria relies greatly on the capacity to detect and appropriately respond to different stresses. Bacteria possess a variety of strategies to deal with the negative impact of stress on growth and survival [36]. Certain stress responses are induced by specific stresses, e.g., the SOS system is induced by DNA damage, while the heat-shock response is induced by protein denaturation. In general, these responses are responsible for the repair or elimination of damaged macromolecules. Other responses, such as induction of the $\\sigma ^ { S }$ (RpoS) regulon by many different stresses, result in the expression of a very complex network of functionally unlinked genes, which increase the cellular capacity to resist a wide variety of stresses. These responses are more involved in protection and prevention than in repair. ",
+        "bbox": [
+            75,
+            627,
+            478,
+            855
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            595,
+            921,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Protection and repair of different types of macromolecules do not have the same constraints because the consequences of their damage are different. The damage to proteins, RNA and DNA is potentially deleterious or lethal over the short-term, whereas only some DNA damage can have long-term evolutionary consequences through heritable alterations of genetic information. Because a small fraction of these stress-induced mutations can be advantageous, by favoring those mutations, natural selection can also indirectly select for the molecular mechanisms responsible for their generation. The linkage between selected mutations and the alleles responsible for their generation is particularly high in bacteria because their gene transfer and recombination rates are generally low. Based on these premises, it has been argued that bacteria possess molecular mechanisms capable of generating genetic variability under stressful environmental conditions because this may increase the probability of generation of adaptive variants, hence the “natural genetic engineer” hypothesis [35]. Molecular mechanisms that actively participate in the generation of genetic modifications during stress do exist, but the question remains as to whether their primary role is to ensure survival or to increase genetic variability. In this review we will address this question by analyzing the activity of two major Escherichia coli stress-response regulons, the SOS and $\\sigma ^ { S }$ systems, that are implicated in the maintenance of genetic integrity. ",
+        "bbox": [
+            517,
+            636,
+            921,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            110,
+            478,
+            209
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. The SOS regulon ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            237,
+            220,
+            251
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SOS response is a set of cellular responses induced by exposure of bacterial cells to a variety of genotoxic or metabolic stresses that damage DNA or interfere with DNA replication [39]. The regulation of the SOS system is mediated by the LexA and RecA proteins. LexA acts as a repressor of at least 40 unlinked genes [7], including recA and lexA, by binding to the regulatory sequence in the operator region (termed the SOS box) of SOS genes. Most SOS-regulated loci are expressed at a basal level in uninduced cells. The SOS inducing signal is single-stranded DNA, to which the RecA binds and becomes activated as a co-protease. Activated RecA promotes proteolytic selfcleavage of the LexA repressor, thus derepressing the SOS regulon. The timing of expression of different SOS genes is controlled by the affinity of the LexA repressor for the SOS boxes of those genes. The level and length of the induction depends on the amount and persistence of the single-stranded DNA in the cell. Once DNA lesions are repaired and replication restored, SOS functions are again repressed. The SOS system, as well as its mode of regulation (LexA/RecA couple), is widely distributed among both Gram-negative and Gram-positive bacteria. ",
+        "bbox": [
+            75,
+            266,
+            478,
+            577
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most SOS functions are implicated in DNA repair activity, which can be loosely grouped into two categories: elimination (e.g., nucleotide excision repair) and tolerance (e.g., translesion synthesis) of DNA lesions. Their activity can restore the original genetic information or generate genetic variability. For example, SOS induction increases recombination efficiency mostly by overproducing the RecA, RecN and RuvAB proteins. Such high recombination capacity allows efficient repair of double-strand breaks and daughter-strand gaps, but it can also result in the generation of chromosomal rearrangements (e.g., through recombination between partially homologous rhsA and rhsB sequences [8]). Furthermore, this SOS-induced elevated recombination capacity also increases the efficiency of conjugational and transductional recombination, consequently facilitating acquisition of foreign DNA via horizontal gene transfer [24]. Horizontal gene transfer can also be stimulated by the SOS-dependent alleviation of restriction and inhibition of double-strand exonuclease (ExoV) activity, thus protecting the incoming foreign DNA [15,29]. ",
+        "bbox": [
+            75,
+            579,
+            478,
+            862
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Another important SOS activity is the translesion synthesis catalyzed by SOS polymerases that can either restore the original genetic information or generate genetic variability [11]. E. coli possesses three SOS polymerases [39]: PolIV and PolV (encoded by the umuCD operon and dinB gene, respectively) belonging to the Y family and PolII belonging to the B-family (encoded by polB gene). PolIV and PolV are so different from the five previously identified polymerase families that their functions have been identified only recently, even though E. coli genes coding for these proteins and some of their phenotypes have been known for decades. These enzymes are capable of bypassing the DNA lesions which block chain elongation by the replicative DNA polymerases. Translesion synthesis is often performed with high fidelity, but SOS polymerases exhibit much reduced fidelity when they operate on undamaged DNA or on DNA lesions that are not their cognate substrates, thus introducing mutations at a high rate. ",
+        "bbox": [
+            75,
+            863,
+            478,
+            904
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            110,
+            921,
+            321
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In light of their mutagenic potential, control and regulation of the activity of the SOS polymerases is important for maintaining genomic stability. The best example is PolV, which is regulated both transcriptionally and posttranslationally, and in addition needs other proteins in order to perform translesion synthesis [39]. PolV is a protein complex composed of three subunits: UmuC and two truncated UmuD proteins. The transcriptional induction of the umuDC operon and the synthesis of the UmuC and UmuD proteins do not result in the production of an active lesion bypass DNA polymerase. Rather, the UmuD protein must first undergo an activated RecA facilitated self-cleavage (mechanistically similar to that undergone by LexA) which removes the Nterminal 24 residues and yields a derivative named UmuD- . UmuD and $\\mathrm { U m u D } ^ { \\prime }$ each form homodimers and, in addition, interact with each other to form a heterodimer that is more stable than either of the homodimers. All three classes of dimers interact with UmuC and greatly influence its action. Despite the fact that UmuC contains catalytic DNA polymerase activity, the protein has a strict requirement for the presence of $\\mathrm { U m u D } ^ { \\prime }$ to function as a polymerase on damaged DNA. Thus, E. coli possess different mechanisms of control in order to ensure that active DNA PolV is only present in cells that have suffered DNA damage. In addition, PolV also requires RecA, SSB and the beta processivity clamp of the PolIII proteins for translesion synthesis. ",
+        "bbox": [
+            517,
+            325,
+            921,
+            691
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Several arguments have been used to support the theory that the role of the SOS polymerases is to increase genetic variability. For example, inactivation of some of these genes, e.g., dinB, has no significant effect on survival upon treatment with DNA damaging agents; however, its absence reduces mutagenesis [25]. Another example is the existence and predominance (over SOS polymerases) of error-free DNA repair pathways that efficiently remove non-coding lesions from DNA (e.g., recombination, base and nucleotide excision repair) [3]. Indeed, some bacteria which do not possess SOS polymerases, e.g., Deinococcus radiodurans, are nevertheless extremely resistant to the lethal and mutagenic effects of radiation and chemical DNA damaging agents [23]. Finally, the role of the SOS polymerases in the generation of genetic variability is illustrated by the implication of their human homologs in somatic hypermutation in immunoglobulin genes that provides strong selective advantage, e.g., resistance to infectious parasites [9]. However, another plausible hypothesis postulates that the SOS polymerases have evolved as DNA lesion tolerance enzymes, while the increased mutagenesis is a price to be paid in order to avoid cell death resulting from replication blockage. Therefore, the primary role of these enzymes is not yet clear, but their ubiquity and evolutionary conservation (eubacteria, archea and eukaryotes) [11] suggest that there is strong selective pressure for the maintenance of their function and specificity [4]. ",
+        "bbox": [
+            517,
+            693,
+            921,
+            903
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            110,
+            478,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Some SOS phenomena than are not involved in DNA repair can also increase genetic variability in stressed bacterial populations. For example: the increase in the transposition frequency of Tn5 and $\\mathrm { T n } I O$ , and the induction of temperate bacteriophages such as lambda, 434, 21, P22, f80 and coliphage 186 [19,21,30]. Induction of bacteriophages results in cell lysis, but they can transfer host genes to new recipient cells. Some conjugative plasmids carry genes encoding SOS polymerases that are even more active than those of the host cell and therefore can confer increased cellular resistance to genotoxic agents, as well as induced mutagenesis [32,34]. However, these phenomena seem to be consequences of selfish behavior of mobile genetic elements. ",
+        "bbox": [
+            75,
+            281,
+            478,
+            464
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. The $\\mathbf { \\sigma } ^ { \\mathbf { { S } } }$ regulon: general stress response ",
+        "text_level": 1,
+        "bbox": [
+            77,
+            492,
+            381,
+            507
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In $E$ . coli, many different stresses, including transition to stationary phase, starvation, high osmolarity, high and low temperature, and low $\\mathrm { p H }$ trigger the general stress response controlled by the transcription factor $\\sigma ^ { S }$ , which is encoded by the rpoS gene [13]. $\\sigma ^ { \\mathrm { S } }$ controls the expression of over 50 genes, acting predominantly as a positive effector, but it does have a negative regulatory effect on some genes. Rapidly growing cells contain very little $\\sigma ^ { \\mathrm { S } }$ , while exposure to stress conditions results in a rapid and strong increase in $\\sigma ^ { \\mathrm { S } }$ concentration. The synthesis and accumulation of $\\sigma ^ { S }$ are controlled by mechanisms affecting transcription, translation and proteolysis. $\\sigma ^ { \\mathrm { S } }$ and vegetative $\\sigma ^ { 7 0 }$ factors are structurally and functionally very similar, and basically recognize the same promoter sequences; yet they clearly control different genes. Under various stress conditions, σ factor specificity at stress-activated promoters is affected by the interplay of the two RNA polymerase holoenzymes, along with additional regulatory factors, such as H-NS, Lrp, CRP, IHF or Fis, that differentially affect transcription initiation by $\\sigma ^ { \\mathrm { S } }$ or $\\sigma ^ { 7 0 }$ in a promoter-specific manner [14]. Translation of rpoS mRNA is controlled by a cascade of interacting factors, including Hfq, H-NS, dsrA RNA, LeuO, and oxyS RNA, that modulate the stability of secondary structure in the ribosome-binding region of the rpoS mRNA. Various stress conditions differentially affect these mechanisms of $\\sigma ^ { \\mathrm { S } }$ control. Thus, a reduced growth rate results in increased rpoS transcription whereas high osmolarity, low temperature, acidic $\\mathrm { p H }$ , and some late-log-phase signals stimulate the translation of already present rpoS mRNA. The transcription factor $\\sigma ^ { S }$ is sensitive to proteolysis by ClpPX in a reaction that is promoted by RssB and inhibited by the chaperone DnaK. Exposure to stresses results in stabilization of $\\bar { \\sigma ^ { \\mathrm { { S } } } }$ , which, under nonstress conditions, is very rapidly degraded. This strategy of stress-response is shared by other bacteria as suggested by the presence of $\\sigma ^ { S }$ homologs in many species. ",
+        "bbox": [
+            75,
+            523,
+            478,
+            904
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            110,
+            921,
+            237
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As most of our knowledge of the biological role of this stress response is based on the analysis of cells during stationary phase [12], we will discuss the consequence of its induction on the genomic stability of starved stationary phase cells. Starvation is a physiological state resulting from an insufficiency of nutrients, and consequently in shortage of energy for growth. E. coli regularly encounters such stress in natural environments. In its primary environment, the gut of warm-blooded animals, competition for nutrients with other members of intestinal flora may reduce nutrient availability. In other host niches, pathogens are also often exposed to starvation. In secondary environments, like water or soil, bacteria may wait days or even months under starvation conditions before re-infecting a new host. $E .$ . coli is a non-sporulating bacterium and its survival under those conditions depends upon activation of the $\\sigma ^ { S }$ regulon. The resulting structural and morphological modifications, as well as increased stress resistance (e.g., resistance to UV, heath shock, oxidative stress and extreme osmolarity) increase its chances for survival [18]. For example, genomic DNA is protected by Dps-mediated condensation, which restricts the diffusion of DNA damaging agents [27]. However, the protection of genetic information is not fully ensured. For example, the $\\bar { \\sigma } ^ { \\mathrm { { S } } }$ regulon has been implicated in stationary phase mutagenesis in $E .$ . coli and in Pseudomonas putida [5,33]. Furthermore, $\\sigma ^ { S }$ stimulates transposition of the $P .$ putida transposon $\\mathrm { T n } 4 6 5$ during stationary phase [17]. The overproduction of the $\\sigma ^ { \\mathrm { S } }$ -regulated hha gene increases the frequency of transposition of insertion elements within the $E .$ . coli chromosome as well [26]. While the increased mobility of transposons is probably the consequence of the selfish behavior of mobile genetic elements, as in the case of SOS induction, the question remains as to whether the $\\sigma ^ { \\mathrm { S } }$ -mediated increase in genetic variability is the product of a “genetic engineer” strategy, or the byproduct of a “survival-at-any-price” strategy. ",
+        "bbox": [
+            517,
+            238,
+            921,
+            748
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A possible answer is provided by our study of mutagenesis in aging colonies (MAC) of $E$ . coli [5]. We showed that MAC increases as a consequence of carbon source starvation and oxidative metabolism and that MAC is controlled by the $\\sigma ^ { S }$ and cAMP regulons. Genetic analysis showed that MAC also depends on two SOS genes, recA and polB, and on the activity of the methyl-directed mismatch-repair system (MRS). The RecA protein probably detects DNA lesions, while PolII participates in their processing in an error-prone manner. Other SOS polymerases have also been observed to be involved in the generation of stationary phase mutations, e.g., PolIV during carbon source starvation in $E$ . coli and YqjH ( $E .$ . coli PolIV homologue) in Bacillus subtilis stationary phase mutagenesis [37]. The link between the $\\sigma ^ { S }$ regulon and the involvement of the SOS polymerases in stationary phase mutagenesis in $E .$ . coli is provided by the observation that $\\sigma ^ { S }$ mediates the increase in the levels of PolIV in late stationary phase [20]. In addition, the maximal induction of dinB gene under these conditions requires functional $\\sigma ^ { S }$ and is only partially LexA-dependent. Similarly, MAC mutagenesis is $\\sigma ^ { \\mathrm { S } }$ -dependent and it is not dependent on lexA function [5]. Such non-canonical regulation of DNA repair genes may help the cells to survive certain damage frequently inflicted on the genome during prolonged stationary phase without new protein synthesis. This may be particularly important under conditions where the synthesis of the translation apparatus is inhibited and the number of ribosomes and rRNA gene expression decrease, resulting in a reduction in the rate of global protein synthesis [16]. ",
+        "bbox": [
+            517,
+            750,
+            921,
+            904
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            110,
+            478,
+            364
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Another observation that implicates $\\sigma ^ { \\mathrm { S } }$ in stationary phase mutagenesis is that this sigma factor regulates activity of the MRS [38]. The mutS gene transcript and MutS (mismatch recognizing and binding protein) both decrease to undetectable levels in starving cells via a $\\sigma ^ { \\mathrm { S } }$ - and Hfqdependent mechanism. The same phenomenon was observed for the mutH gene encoding an endonuclease required for strand discrimination during mismatch repair activity. Consequently, the MRS is practically non-functional during stationary phase [6]. Overproduction of the MutS protein significantly decreased MAC [5], hence suggesting that the majority of MAC mutations arise during DNA synthesis. The downregulation of MRS activity during stationary phase seems to be a common feature of $E$ . coli species, as it has also been observed among natural isolates [5]. What would be the benefit for cells to inactivate the MRS, a major contributor to DNA replication and recombination fidelity in growing cells? Inactivation of MRS genes increases mutation rates $\\bar { 1 } 0 ^ { 2 } – 1 0 ^ { 3 }$ -fold [10], while the frequency of genome rearrangements and gene conversions increases 10- and $1 0 ^ { 3 }$ -fold, respectively [1,28]. Once again, there are two possibilities; either the downregulation of MRS activity contributes to survival or it is selected for because it facilitates adaptation via the beneficial mutations it generates, as is the case for MRS mutants. Currently, we have no definite answer, but the most likely hypothesis is that the contribution to survival of the downregulation of MRS activity may be as simple as the energy saved by not expressing these repair functions when nutrients are limited. Furthermore, the primary role of the MRS seems to be to control the fidelity of DNA synthesis, which is nearly non-existent during starvation. Consequently, when the processing of DNA lesions in starving bacteria requires DNA synthesis, the absence of MRS surveillance results in increased mutagenesis. The fitness cost of the resulting deleterious mutations is probably much less important than that incurred by energy “exhaustion” due to the production of “useless” proteins under starvation conditions. ",
+        "bbox": [
+            75,
+            365,
+            478,
+            907
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Evolutionary implications of stress-induced mutagenesis ",
+        "text_level": 1,
+        "bbox": [
+            517,
+            110,
+            850,
+            137
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To date, the characterization of the genetic control of stress-induced mutagenesis has not provided any strong evidence confirming the “natural genetic engineer” hypothesis. All of the described molecular mechanisms primarily participate in the protection and/or repair of cellular macromolecules, thus increasing the capacity to survive under stress. The regulation of such genetic systems seems to be very variable in nature, as suggested by the remarkable variability of MAC among $E$ . coli natural isolates [5]. Indeed, it has been reported that rpoS genes from $E .$ . coli natural isolates possess a high degree of allelic variation [2,31]. The observed consequences of rpoS gene polymorphism are variations in the capacity to resist oxidative shock, low pH and high hydrostatic pressure. Another example is the observed variability of stationary-phase specific depletion of MutS protein among $E$ . coli strains [22]. Such variability is probably the consequence of the specific selective conditions in the recent evolutionary past of different bacterial strains. For example, host diet and bacterial lifestyle (commensal or pathogen) is largely responsible for observed MAC variability [5]. Computer simulation has suggested that the variations in selective pressures could result in such polymorphism [5]. The strength of the stress-induced mutagenesis was found to be correlated positively with the strength of selection and negatively with the frequency of stresses. Therefore, understanding the variability of the stress-responses in different ecotypes should help us to understand how such pleiotropic gene networks are modulated in order to optimize the survival strategies in different ecological niches. ",
+        "bbox": [
+            517,
+            153,
+            921,
+            562
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The survival strategy requires that the repair of lethal DNA lesions is the key priority during stress, but perfect restoration of the original genetic information is not an absolute necessity. Consequently, genetic variability increases under stress. This resulting genetic variability then serves as a substrate for natural selection. Most genetic modifications are deleterious and therefore counter-selected, whereas the very rare beneficial mutations are expected to be selected for. Do such beneficial mutations generated during stress contribute to the evolution of bacterial strains? Computer simulations show that stress-induced mutations may have an important impact on the adaptation of bacterial populations. The indication that mutations generated during stress may have contributed to the evolution of bacterial strains also comes from the observation of the negative correlation between constitutive mutagenesis and MAC among natural isolates. Simulations show that such phenomena may be explained by the second order competition between different mutator systems. This analysis implies that stress-induced mutagenesis can increase the adaptation rate of bacterial populations in certain environments and thus participate in the adaptive evolution of bacteria, independently of whether the selection of molecular mechanisms involved in this mutagenesis is linked to survival strategies or not. ",
+        "bbox": [
+            517,
+            565,
+            921,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            110,
+            215,
+            123
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our work was supported by a grant from the Indo-French Center for the Promotion of Advanced Research (IFCPAR). ",
+        "bbox": [
+            75,
+            138,
+            478,
+            166
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            188,
+            154,
+            201
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] F. Abdulkarim, D. Hughes, Homologous recombination between the tuf genes of Salmonella typhimurium, J. Mol. Biol. 260 (1996) 506– 522.   \n[2] T. Atlung, H.V. Nielsen, F.G. Hansen, Characterisation of the allelic variation in the rpoS gene in thirteen K12 and six other non-pathogenic Escherichia coli strains, Mol. Genet. Genomics 266 (2002) 873–881. [3] A. Berdichevsky, L. Izhar, Z. Livneh, Error-free recombinational repair predominates over mutagenic translesion replication in $E$ . coli, Mol. Cell 10 (2002) 917–924.   \n[4] I. Bjedov, G. Lecointre, O. Tenaillon, C. Vaury, M. Radman, F. Taddei, E. Denamur, I. Matic, Polymorphism of genes encoding SOS polymerases in natural populations of Escherichia coli, DNA Repair 2 (2003) 417–426.   \n[5] I. Bjedov, O. Tenaillon, B. Gérard, V. Souza, E. Denamur, M. Radman, F. Taddei, I. Matic, Stress-induced mutagenesis in bacteria, Science 300 (2003) 1404–1409. [6] D. Brégeon, I. Matic, M. Radman, F. Taddei, Inefficient mismatch repair: Genetic defects and down regulation, J. Genet. 78 (1999) 21– 28. [7] J. Courcelle, A. Khodursky, B. Peter, P.O. Brown, P.C. Hanawalt, Comparative gene expression profiles following UV exposure in wildtype and SOS-deficient Escherichia coli, Genetics 158 (2001) 41–64. [8] J. Dimpfl, H. Echols, Duplication mutation as an SOS response in Escherichia coli: Enhanced duplication formation by a constitutively activated RecA, Genetics 123 (1989) 255–260. [9] E.C. Friedberg, R. Wagner, M. Radman, Specialized DNA polymerases, cellular survival, and the genesis of mutations, Science 296 (2002) 1627–1630.   \n[10] E.C. Friedberg, G.C. Walker, W. Siede, DNA Repair and Mutagenesis, American Society of Microbiology, Washington, DC, 1995.   \n[11] M.F. Goodman, Error-prone repair DNA polymerases in prokaryotes and eukaryotes, Annu. Rev. Biochem. 71 (2002) 17–50.   \n[12] R. Hengge-Aronis, Regulation of gene expression during entry into stationary phase, in: F.C. Neidhardt, R. Curtiss III, J.L. Ingraham, E.C.C. Lin, K.B. Low, B. Magasanik, W.S. Reznikoff, M. Riley, M. Schaechter, H.E. Umbarger (Eds.), Escherichia coli and Salmonella: Cellular and Molecular Biology, American Society of Microbiology, Washington, DC, 1996, pp. 1497–1512.   \n[13] R. Hengge-Aronis, The general stress response in Escherichia coli, in: G. Storz, R. Hengge-Aronis (Eds.), Bacterial Stress Responses, American Society of Microbiology, Washington, DC, 2000, pp. 161– 178.   \n[14] R. Hengge-Aronis, Signal transduction and regulatory mechanisms involved in control of the sigma(S) (RpoS) subunit of RNA polymerase, Microbiol. Mol. Biol. Rev. 66 (2002) 373–395.   \n[15] K.J. Hiom, S.G. Sedgwick, Alleviation of EcoK DNA restriction in Escherichia coli and involvement of umuDC activity, Mol. Gen. Genet. 231 (1992) 265–275.   \n[16] G.W. Huisman, D.A. Siegele, M.M. Zambrano, R. Kolter, Morphological and physiological changes during stationary phase, in: F.C. Neidhart, R. Curtiss III, J.L. Ingraham, E.C.C. Lin, K.B. Low, B. Magasanik, W.S. Reznikoff, M. Riley, M. Schaechter, H.E. Umbarger (Eds.), Escherichia coli and Salmonella: Cellular and Molecular Biology, American Society of Microbiology, Washington, DC, 1996, pp. 1672–1682.   \n[17] H. Ilves, R. Horak, M. Kivisaar, Involvement of sigma S in starvationinduced transposition of Pseudomonas putida transposon Tn4652, J. Bacteriol. 183 (2001) 5445–5448.   \n[19] C.T. Kuan, S.K. Liu, I. Tessman, Excision and transposition of Tn5 as an SOS activity in Escherichia coli, Genetics 128 (1991) 45–57.   \n[20] J.C. Layton, P.L. Foster, Error-prone DNA polymerase IV is controlled by the stress-response sigma factor, RpoS, in Escherichia coli, Mol. Microbiol. 50 (2003) 549–561.   \n[21] M.S. Levy, E. Balbinder, R. Nagel, Effects of mutations in SOS genes on UV-induced precise excision of $\\mathrm { T n } I O$ in E. coli, Mutat. Res. 293 (1993) 241–247.   \n[22] B. Li, H.C. Tsui, J.E. LeClerc, M. Dey, M.E. Winkler, T.A. Cebula, Molecular analysis of mutS expression and mutation in natural isolates of pathogenic Escherichia coli, Microbiology 149 (2003) 1323–3131.   \n[23] K.S. Makarova, L. Aravind, Y.I. Wolf, R.L. Tatusov, K.W. Minton, E.V. Koonin, M.J. Daly, Genome of the extremely radiation-resistant bacterium Deinococcus radiodurans viewed from the perspective of comparative genomics, Microbiol. Mol. Biol. Rev. 65 (2001) 44–79.   \n[24] I. Matic, C. Rayssiguier, M. Radman, Interspecies gene exchange in bacteria: The role of SOS and mismatch repair systems in evolution of species, Cell 80 (1995) 507–515.   \n[25] G.J. McKenzie, P.L. Lee, M.J. Lombardo, P.J. Hastings, S.M. Rosenberg, SOS mutator DNA polymerase IV functions in adaptive mutation and not adaptive amplification, Mol. Cell 7 (2001) 571–579.   \n[26] A.V. Mikulskis, G.R. Cornelis, A new class of proteins regulating gene expression in enterobacteria, Mol. Microbiol. 11 (1994) 77–86.   \n[27] A. Minsky, Structural aspects of DNA repair: The role of restricted diffusion, Mol. Microbiol. (2003), in press.   \n[28] M.A. Petit, J. Dimpfl, M. Radman, H. Echols, Control of chromosomal rearrangements in E. coli by the mismatch repair system, Genetics 129 (1991) 327–332.   \n[29] R. Rinken, W. Wackernagel, Inhibition of the RecBCD-dependent activation of Chi recombinational hot spots in SOS-induced cells of Escherichia coli, J. Bacteriol. 174 (1992) 1172–1178.   \n[30] J.W. Roberts, R. Devoret, Lysogenic induction, in: R.W. Hendrix, J.W. Roberts, F.W. Stahl, R.A. Weisberg (Eds.), Lambda II, Cold Spring Harbor Laboratory, Cold Spring Harbor, 1983, pp. 123–144.   \n[31] M. Robey, A. Benito, R.H. Hutson, C. Pascual, S.F. Park, B.M. Mackey, Variation in resistance to high hydrostatic pressure and rpoS heterogeneity in natural isolates of Escherichia coli O157:H7, Appl. Environ. Microbiol. 67 (2001) 4901–4907.   \n[32] L.J. Runyen-Janecky, M. Hong, S.M. Payne, The virulence plasmidencoded impCAB operon enhances survival and induced mutagenesis in Shigella flexneri after exposure to UV radiation, Infect. Immun. 67 (3) (1999) 1415–1423.   \n[33] S. Saumaa, A. Tover, L. Kasak, M. Kivisaar, Different spectra of stationary-phase mutations in early-arising versus late-arising mutants of Pseudomonas putida: Involvement of the DNA repair enzyme MutY and the stationary-phase sigma factor RpoS, J. Bacteriol. 184 (2002) 6957–6965.   \n[34] S.G. Sedgwick, P.A. Goodwin, Differences in mutagenic and recombinational DNA repair in enterobacteria, Proc. Natl. Acad. Sci. USA 82 (1985) 4172–4176.   \n[35] J.A. Shapiro, Natural genetic engineering in evolution, Genetica 86 (1992) 99–111.   \n[36] G. Storz, R. Hengge-Aronis (Eds.), Bacterial Stress Responses, American Society of Microbiology, Washington, DC, 2000.   \n[37] H.M. Sung, G. Yeamans, C.A. Ross, R.E. Yasbin, Roles of YqjH and YqjW, homologs of the Escherichia coli UmuC/DinB or Y superfamily of DNA polymerases, in stationary-phase mutagenesis and UV-induced mutagenesis of Bacillus subtilis, J. Bacteriol. 185 (2003) 2153–2160.   \n[38] H.-C.T. Tsui, G. Feng, M.E. Winkler, Negative regulation of mutS and mutH repair gene expression by the Hfq and RpoS global regulators of Escherichia coli K-12, J. Bacteriol. 179 (1997) 7476–7487.   \n[39] G.C. Walker, B.T. Smith, M.D. Sutton, The SOS response to DNA damage, in: G. Storz, R. Hengge-Aronis (Eds.), Bacterial Stress Responses, American Society of Microbiology, Washington, DC, 2000, pp. 131–144. ",
+        "bbox": [
+            75,
+            206,
+            480,
+            901
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            121,
+            922,
+            899
+        ],
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,544 @@
+[
+    {
+        "type": "text",
+        "text": "Control of Large Chromosomal Duplications in Escherichia coli by the Mismatch Repair System ",
+        "text_level": 1,
+        "bbox": [
+            108,
+            95,
+            889,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Marie-Agnès Petit,\\* Joan Dimpfl,\\* Miroslav Radman† and Harrison Echols\\* ",
+        "bbox": [
+            159,
+            155,
+            832,
+            174
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BB F-75251 Paris-Cedex 05, France Manuscript received May 23, 1991 Accepted for publication July 2, 1991 ",
+        "bbox": [
+            72,
+            180,
+            925,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            454,
+            258,
+            544,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Excessive recombination between repeated, interspersed, and diverged DNA sequences is a potential source of genomic instability. We have investigated the possibility that a mechanism exists to suppress genetic exchange between these quasi-homologous (homeologous) sequences. We examined the role of the general mismatch repair system of Escherichia coli because previous work has shown that the mismatch repair pathway functions as a barrier to interspecies recombination between $E$ coli and Salmonella typhimurium. The formation of large duplications by homeologous recombination in E. coli was increased some tenfold by mutations in the mutL and mutS genes that encode the mismatch recognition proteins. These findings indicate that the mismatch recognition proteins act to prevent excessive intrachromosomal exchanges. We conclude that mismatch repair proteins serve as general controllers of the fidelity of genetic inheritance, acting to suppress chromosomal rearrangements as well as point mutations. ",
+        "bbox": [
+            152,
+            273,
+            845,
+            422
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ESCHERICHIA frequencies that can be as high as $1 0 ^ { - 4 }$ of a bacterial population (ANDERsON and RoTH 1977; PETES and HILL 1988). These duplications are thought to arise by an unequal recombination event between homologous sequences dispersed in the genome. Two examples of such \"gene families\" are the rrn operons for ribosomal RNA and the rhs sequences (ANDERSON and RoTH 1977; PETES and HILL 1988). Seven rrn loci are present in the $E$ coli chromosome. More recently, up to five rhs loci have been described in $E$ . coli; the rhs sequences lack a known genetic function (SADOsKY et al. 1989; FEULNER et al. 1990). In addition to duplication, rrn operons have been defined as sites for inversion, deletion, and transposition of chromosomal segments (HILL et al. 1977; HILL and HARNISH 1981, 1982). ",
+        "bbox": [
+            72,
+            446,
+            479,
+            710
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangements, especially duplications, can serve as valuable sources for environmental or evolutionary adaptation. For example, duplication in Salmonella appears to aid growth on limiting carbon source, probably by a gene dosage effect (SoNTI and RoTH 1989). However, some genetic rearrangements, especially deletions, can be highly deleterious. Recent work has shown that the frequency of large duplications in E. coli increases tenfold when the SOS response is constitutively activated (DIMPFL and EcHoLs 1989). This observation indicates that duplication formation might be subject to some form of cellular regulation; the SOS response might allow more frequent rearrangements as a source of increased genetic variation for an endangered bacterial population (DIMPFL and EcHOLs 1989). Based on the SOS work, we were led to explore mechanisms that might normally suppress formation of large duplications and other chromosomal rearrangements. ",
+        "bbox": [
+            71,
+            714,
+            477,
+            918
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            446,
+            925,
+            519
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A property of the rrn and rhs gene families is a slight divergence in DNA sequence (homeologous sequences) (HILL, HARvEY and GRAY 1990). We were intrigued with the possible regulatory significance of this property because the recombinational barrier between the homeologous DNA sequences of $E$ coli and S. typhimurium can be largely eliminated by mutations in the mismatch repair system (RAYssIGuIER, THALER and RADMAn 1989). Thus, mismatch repair proteins might function as part of a general mechanism to limit intrachromosomal as well as interchromosomal recombination between duplicated, diverged DNA sequences. ",
+        "bbox": [
+            520,
+            521,
+            925,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To study the recombination events leading to duplication, we have used a bacterial strain that allows quantitative measurement of duplications between the rhsA and rhsB sequences some $\\mathbf { \\bar { l } 4 0 \\ k b p }$ apart in the genome (LIN, CAPAGE and HILL 1984). The rhsA and rhsB sequences share a 3.7-kbp region of substantial homology, as judged by hybridization data, but differ by 22 mismatches among the 990 bp already available for sequence comparison (SADosky et al. 1989; FEULNER et al. 1990; C. W. HILL, personal communication). The formation of large duplications was increased some tenfold by mutations inactivating the mutL and mutS genes of the mismatch repair pathway. Thus, mismatch repair proteins are likely to function in limiting intrachromosomal exchanges. Additional experiments indicate that the recombination events inhibited by the MutL and MutS mismatch proteins are RecBC-dependent. ",
+        "bbox": [
+            518,
+            714,
+            925,
+            919
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/cab6250b27ae66aee6285e03f4707fcd9611683a071ca07f3c28f9efd351f058.jpg",
+        "image_caption": [
+            "FIGUre 1.—Chromosome map of strains used to detect duplication events. The structure of the duplicated chromosome is depicted on the right side of the figure, with the arrows representing the rhsA and rhsB sequences. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            87,
+            90,
+            467,
+            193
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            259,
+            478,
+            319
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            157,
+            336,
+            392,
+            350
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strains: Bacterial strains are listed in Table 1 with their genotypes. New strains were prepared using transduction by phage P1 of transposon insertions in the gene of interest. ",
+        "bbox": [
+            72,
+            358,
+            478,
+            408
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Assay of $\\pmb { \\mathrm { g } } \\pmb { l } \\pmb { \\mathrm { y } } \\pmb { \\mathrm { s } } _ { \\pmb { L } }$ duplications: The genetic test allowing the detection of duplications has been previously described (LIN, CAPAGE and HILL 1984; DIMPFL and ECHOls 1989). The duplication assay relies on the $\\phantom { } _ { g l y S _ { L } }$ cold-sensitive mutant allele of the glycyl-tRNA synthetase gene, in conjunction with $t r \\pmb { \\phi } A \\Im 6 g l y \\pmb { U } ( s u p )$ The trpA36 mutation is effectively suppressed by the $\\pmb { \\mathrm { g } } l \\pmb { \\mathrm { y } } U ( s \\pmb { u } \\pmb { \\phi } )$ allele at $3 7 ^ { \\circ }$ However, at $2 0 ^ { \\circ }$ suppression of trpA36 is inefficient because of poor charging of the suppressor tRNA, leading to poor growth in the absence of tryptophan. In a $g l y S _ { \\mathrm { L } } ^ { \\mathrm { ^ { - } } }$ duplication, the glycineinserting missense suppressors are charged more efficiently because of a gene dosage effect, leading to better growth and large colony formation in the absence of tryptophan. Southern hybridization has shown that this selection is specific for duplication of the rhsA-rhsB region, which includes the $\\phantom { } _ { g l y s _ { L } }$ gene (LIN, CAPAGE and HILL 1984). Duplication frequency was deduced from the ratio of large colonies over total colonies (20 plates scored per experiment). As mismatch-deficient strains are known to favor transposon excision (LuNDBLAD and KLECKNER 1984), several large colonies from each experiment were checked for the antibiotic marker linked with the mismatch mutation; 45 among 45 had retained the antibiotic-resistant phenotype. ",
+        "bbox": [
+            72,
+            408,
+            477,
+            691
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Segregation analysis of duplications: These measurements were based on techniques developed for Salmonella (ANDERSON, MILLER and RoTH 1976). To remove selective pressure favoring $\\phantom { } _ { g l y S _ { L } }$ duplications, individual large colonies were grown at $3 7 ^ { \\circ }$ in LB broth for 10 to 15 generations, and then plated on the original selective medium without tryptophan at $\\bf { 2 0 ^ { \\circ } }$ for 4 days. If segregation occurred, a mixed population of large and small colonies could be detected, among which the proportion of small colonies represented the proportion of segregants. ",
+        "bbox": [
+            71,
+            691,
+            477,
+            814
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            831,
+            311,
+            845
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Effect of mismatch repair mutations on duplication formation: In the duplication test strain CH1504, duplications of the rhsA-rhsB region containing the $\\phantom { } _ { g l y S _ { L } }$ gene are recognized as large colonies after growth under low temperature conditions (see ",
+        "bbox": [
+            69,
+            855,
+            477,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODs for details). A schematic map of the CH1504 chromosome, before and after duplication, is presented in Figure 1. Duplication frequency was measured in strain CH1504 and its derivatives harboring a mutL, mutS, mutH or uurD mutation. Each of these mutations inactivates the general mismatch repair pathway (MoDRICH 1989; RADMAN 1989). The results of duplication assays are presented in Table 2. In a mut\\* context, the duplication frequency was $1 . 1 \\times 1 0 ^ { - 4 }$ , which agrees with previously reported data (LIN, CAPAGE and HILL 1984; DIMPFL and EcHoLs 1989). In the absence of an active mutL or mutS gene product, duplication frequency was $^ { 1 0 - }$ 15-fold higher (Table 2, lines 2 and 3). In contrast, the mutH and uurD mutants did not show an increase in duplication frequency (Table 2, lines 4 and 5). ",
+        "bbox": [
+            519,
+            95,
+            923,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To verify the presence of a duplication in the large colonies, a segregation experiment was performed on several purified colonies. Duplication mutations are distinguished by their instability when the selective pressure for them is removed, presumably because of homologous recombination within the duplicated region (CAMPBELL 1965; ANDERSON and RoTH 1977). The results of the segregation analysis are presented in Table 3. Among 1 1 large colonies tested for each strain, the mutL, mutS and mutH strains were found to give $1 0 0 \\%$ with unstable phenotype. In addition, the percentage of segregation was indistinguishable between the wild type and the mutL or mutS derivatives. This observation indicates that the frequency of homologous recombination between duplicated regions responsible for segregation was approximately the same for the three strains. Thus the enhanced duplication formation in the mismatch-defective mutants appears to be specific for mismatched DNA sequences (although our experiments do not demonstrate that the same sequences are recombined in the mismatch mutants and wild-type strains). The uurD strain gave $0 / 1 1$ unstable phenotypes; therefore, duplication frequency might be overestimated in the uurD strain. ",
+        "bbox": [
+            517,
+            334,
+            922,
+            705
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "From the data of Table 2 and Table 3, we infer that the MutL and MutS proteins are likely to have an active role in limiting the frequency of large duplications. The MutL and MutS proteins are involved in the initial recognition of mismatched heteroduplex DNA (GRILLEY et al. 1989; MODRICH 1989). MutS binds to the mismatch, and MutL associates with MutS. The MutH protein nicks at an unmodified GATC methylation sequence, and the UvrD helicase (helicase II) presumably evicts the unwanted DNA strand (MoDRICH 1989). Our data indicate a special role for the mismatch recognition proteins. ",
+        "bbox": [
+            516,
+            706,
+            922,
+            882
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The genetic analysis reported in Table 2 reflects two processes: the formation of duplications by homeologous recombination and the resolution of duplications by homologous recombination. Thus the MutL and MutS proteins might destabilize the duplicated state rather than inhibit duplication formation. ",
+        "bbox": [
+            516,
+            884,
+            922,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/107886d3d05253ee510d12a5e1106d57dcd40d09002fcc834ed56d5f140cfdaf.jpg",
+        "table_caption": [
+            "TABLE 1 E. coli K-12 strains "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            67,
+            131,
+            907,
+            856
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            876,
+            481,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "If this alternative were true, segregation frequency should be significantly reduced in mutL or mutS mutants compared to wild type. The data in Table 3 show that the segregation frequency was not reduced for mutL or mutS strains compared to wild type. We believe therefore that this alternative explanation is unlikely. We conclude that the MutL and MutS proteins probably act to reduce formation of large duplications. ",
+        "bbox": [
+            518,
+            877,
+            925,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6b8531db2ce98e9f00f6614883aa5fc7401891e09ab63012452bd5587dd71321.jpg",
+        "table_caption": [
+            "TABLE 2 Effect of the mismatch repair genes on the duplication of the rhsA-rhsB region "
+        ],
+        "table_footnote": [
+            "\" Average and standard deviation are given for three separate experiments. "
+        ],
+        "bbox": [
+            76,
+            148,
+            485,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/68e3fa546a16dd2c51d5a53008694adfa55ceafb45065c7a4c6716b990648871.jpg",
+        "table_caption": [
+            "TABLE 4 Effect of recombination mutations on duplication frequency "
+        ],
+        "table_footnote": [
+            "\" Average and standard deviation are given from three or four separate experiments. "
+        ],
+        "bbox": [
+            74,
+            335,
+            483,
+            484
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            74,
+            520,
+            482,
+            608
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recombination genes affecting enhanced duplication formation: We wanted to determine which recombination pathway of $E .$ coli was stimulated by the mutL and mutS mutations. For this purpose, we introduced additional mutations inactivating the RecBC or RecF pathways (CLARk 1973; SmITH 1987) (Table 4). Duplication formation in mutL and mutS strains was reduced by a factor of 10 when a recB mutation was introduced. Therefore, mutL and mutS gene products seem to interfere with a recombination event promoted by the RecBC pathway of E. coli. In contrast, introduction of a recF mutation did not reduce duplication formation in mutL and mutS strains. ",
+        "bbox": [
+            74,
+            610,
+            482,
+            814
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our data on the RecBC pathway indicate that this recombinational route is highly efficient for intrachromosomal exchanges in the absence of intervention by the mismatch proteins. Thus, genomic stability may depend on the ability of the mismatch repair system to exert a negative control on the activity of the RecBC pathway in homeologous exchanges. ",
+        "bbox": [
+            73,
+            815,
+            480,
+            916
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Additivity with SOS-enhanced duplication frequency: In a recent study, another route to enhanced duplication formation was described; the same duplication studied here became some tenfold more frequent when the SOS regulon was derepressed by an SOS-constitutive mutant of recA (DiMPFL and EcHOLs 1989). We investigated the combined effect of a mutL or mutS defect and SOS constitutive expression (Table 5); the resultant strains exhibited a 25-30-fold increase in duplication frequency. Therefore, the two mutational routes to enhanced duplication formation appear to be additive. In additional experiments, we found that the mutL mutation conferred a ten-fold increase in duplication formation in a strain carrying a noninducible allele of the LexA repressor of SOS (data not shown). The SOS pathway to induced duplication depends on both RecF and RecBC (DIMPFL and EcHoLs 1989; and our unpublished data). This dependence on RecF indicates that SOS-inducible duplications involve at least some differences in mechanism from those stimulated by a defect in mismatch repair. ",
+        "bbox": [
+            89,
+            918,
+            478,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/5d60867a2cb0bb809be2aad35bd3af2dc5c792331d4675e6a8a0e3f524dfa960.jpg",
+        "table_caption": [
+            "TABLE 3 Segregation of rhsA-rhsB duplications "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            522,
+            138,
+            932,
+            250
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/d0ab296ba8ea6846d78d6c488452f3b5a930c8ef32333b6c72eb06c03f27a78b.jpg",
+        "table_caption": [
+            "TABLE 5 Additive effect on duplication frequency of mismatch repair deficiency and SOS activation "
+        ],
+        "table_footnote": [
+            "\" Average and standard deviation are given from three separate experiments. "
+        ],
+        "bbox": [
+            522,
+            314,
+            930,
+            391
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            423,
+            926,
+            732
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            674,
+            748,
+            774,
+            762
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Role of mismatch recognition proteins in homeologous recombination: From the data reported in this paper, we conclude that the mismatch recognition proteins MutS and MutL act to prevent excessive intrachromosomal recombination between duplicated, diverged (homeologous) DNA sequences. Interestingly, our data on mismatch repair mutants are highly similar to those obtained in E. coli-S. typhimurium crosses, in which mutS and mutL mutations were by far the most effective in stimulating recombination (RaySSiguiER, THALER and RaDMAN 1989). SHEN and ",
+        "bbox": [
+            521,
+            771,
+            926,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "HuANG (1989) have previously found that a mutS mutation increased recombination involving homeologous sequences between $\\lambda$ phage and a plasmid. FeINsTEIN and Low (1986) have noted that mutations in the mismatch repair genes confer increased recombination in Hfr $\\times \\ \\mathbf { F } ^ { - }$ crosses; in these experiments involving highly homologous sequences, the major effect was noted for a mutant uurD gene. These results indicate that a somewhat different, but mismatchrelated mechanism can limit recombination in the case of very limited sequence divergence (the two point mutations in the hisF gene studied in the cross). ",
+        "bbox": [
+            72,
+            93,
+            478,
+            270
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The intervention of the MutL and MutS proteins in the recombination process might occur immediately after the RecA-promoted strand exchange between rhsA and rhsB. As judged by experiments in vitro, RecA will catalyze heteroduplex formation through small sequence heterologies (Das GuPTA and RADDING 1982). The consecutive mismatches would offer a target for the MutL and MutS proteins, whose activity could result in elimination of the heteroduplex intermediate, hence preventing its resolution in duplication. The ability of the MutL and MutS proteins to detect a mispaired region of a chromosome seems to be utilized in at least two ways. As shown previously, the general mismatch repair pathway contributes to replicational fidelity through repair of errors by DNA polymerase (MoDRICH 1989; RADMAN 1989). Mismatch repair proteins also contribute to recombinational fidelity, by preventing the introduction of heterologous sequences by horizontal transfer between species (RAYSSIGUIER, THALER and RADMAN 1989) and by limiting the introduction of vertical divergence by large rearrangements (this work). ",
+        "bbox": [
+            72,
+            273,
+            479,
+            598
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Importance of controlled homeologous recombination between gene families: Recombination between members of the rrn gene family is another known possibility for making large rearrangements of the $E ,$ coli chromosome (HILL, HARvEY and GRAY 1990). The rrn operons are known to contain sequence divergence that could appear as mismatch protein targets in the course of the recombination process (JINKs-ROBERTSON and NoMURA 1987); for example, about $1 \\%$ divergence was observed in a sequence comparison between 16S RNA of rrnG and rrnB (SHEN, SQUIRES and SQUIREs 1982). In addition, the spacer tRNA sequences might serve as targets for a special recognition system. For the single rearrangement investigated in this study, the occurrence can be as high as $0 . 1 \\%$ in the absence of mutL or mutS gene products; under these conditions, the cumulated probability of a rearrangement between any two members of a gene family could reach $5 \\%$ Thus, we presume that long-term genomic stability requires a general mechanism for negative control of intrachromosomal recombination and unequal crossing over between homologous chromosomes. The likelihood of such a recombination-limiting system has also been inferred from another point of view: the much lower frequency of duplication by homeologous recombination compared to the frequency of segregation by homologous recombination (HILL, HARVEY and GRAY 1990). Our experiments define the mismatch recognition proteins as likely components of this recombinational fidelity system. Eukaryotic cells appear to carry a general mismatch repair system similar to that found in E. coli (HoLMEs, CLARK and MODRICH 1990; THomAs, RoBerTS and KunkeL 1991). This mismatch pathway might also prevent aberrant recombination (RAYSSIgUiER, THALER and RADMAN 1989; BAILIs and ROTHSTEIN 1990). ",
+        "bbox": [
+            72,
+            601,
+            479,
+            927
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            92,
+            922,
+            312
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For eukaryotic organisms, recombination between homologous chromosomes is almost exclusively limited to meiosis. The recombinational fidelity mechanism proposed here might participate in this limitation on mitotic recombination. The frequent occurrence of homeologous sequences in eukaryotes could trigger the mismatch-directed system to abort attempted mitotic recombination between homologous chromosomes; suppression of this pathway would then be a component of meiotic development. The mismatch system could be the regulatory balance limiting recombination to the proper meiotic pathway. ",
+        "bbox": [
+            518,
+            315,
+            923,
+            490
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thank CHARLEs HILL for unpublished information, RICHARD EIsNer for editorial help, Marcie RoseNBerG and MaLinI RAJAGOPALAN for advice about the manuscript, and GRAHAM WALKER, Nancy Kleckner, Robert Lloyd and Margaret Lieb for strains. This work was supported by a grant from the National Institutes of Health (CA41655). ",
+        "bbox": [
+            518,
+            500,
+            923,
+            574
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "LITERATURE CITED ",
+        "text_level": 1,
+        "bbox": [
+            638,
+            589,
+            805,
+            601
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ANDERSON, R. P., C. G. MILLER and J. R. RoTH, 1976 Tandem duplications of the histidine operon observed following generalized transduction in Salmonella typhimurium. J. Mol. Biol. 105: 201218.   \nANDERsON, R. P., and J. R. RoTH, 1977 Tandem gene duplications in phage and bacteria. Annu. Rev. Microbiol. 31: 473- 505.   \nBAILIS, A. M., and R. RoTHsTEIN, 1990 A defect in mismatch repair in Saccharomyces cerevisiae stimulates ectopic recombination between homeologous genes by an excision repair dependent process. Genetics 126: 535547.   \nCAMpBELL, A., 1965 The steric effect in lysogenization by bacteriophage lambda. I. Lysogenization of a partially diploid strain of Escherichia coli K12. Virology 27: 329-339.   \nCLARk, A. J., 1973 Recombination deficient mutants of $E$ coli and other bacteria. Annu. Rev. Genet. 7: 6786.   \nDAs GuPTA, C., and C. M. RADDING, 1982 Lower fidelity of RecA protein catalysed homologous pairing with a super helical substrate. Nature 295: 7173.   \nDIMPFL, J., and H. EcHOLs, 1989 Duplication mutagenesis as an SOS response in E. coli: enhanced duplication formation by a constitutively-activated RecA. Genetics 123: 255-260.   \nFEINSTEIN, S. I., and K. B. Low, 1986 Hyper-recombining recipient strains in bacterial conjugation. Genetics 113: 1333.   \nFEULNER, G., J. A. GRay, J. A. KirscHMaN, A. F. LEHnER, A. B. Sadosky, D. A. Vlazny, J. Zhang, S. ZHao and C. W. Hill, 1990 Structure of the rhsA locus from Escherichia coli K-12 and comparison of rhsA with other members of the rhs multigene family. J. Bacteriol. 172: 446-456.   \nGRILIEY, M., K. M. WELCH, S. S. SU aNd P. MODRICH, 1989 Isolation and characterization of the Escherichia coli mutL gene product. J. Biol. Chem. 264: 10001004.   \nHILL, C. W., and B. W. HarnisH, 1981 Inversions between ribosomal RNA genes of Escherichia coli. Proc. Natl. Acad. Sci. USA 78: 70697072.   \nHILI, C. W., and B. W. HaRNIsH, 1982 Transposition of a chromosonal segment bounded by redundant rRNA genes into other rRNA genes in Escherichia coli. J. Bacteriol. 149: 449- 457.   \nHILL, C. W., S. HARvEY and J. A. GRAY, 1990 Recombination between rRNA genes in Escherichia coli and Salmonella typhimurium, pp. 335-340 in The Bacterial Chromosome, edited by K. Drlica and M. Riley. American Society for Microbiology, Washington, DC.   \nH HILI., C. W., R. H. GrAfstrOm, B. W. HarnIsH and B. S. HiLLMaN, 1977 Tandem duplications resulting from recombination between ribosomal RNA genes in Escherichia coli. J. Mol. Biol. 116: 407428.   \nHOIMEs, J., S. CLARK and P. MoDRICH, 1990 Strand-specific mismatch correction in nuclear extracts of human and Drosophila melanogaster cell lines. Proc. Natl. Acad. Sci. USA 87: 5837 5841.   \nJINKs-RoBERTSON, S., and M. NOMURA, 1987 Ribosomes and tRNA, pp. 13581385 in Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology, edited by F. C. NEIDHARDT. American Society for Microbiology, Washington, D.C.   \nL.IN, R. J., M. CAPAGE and C. W. HILL, 1984 A repetitive DNA sequence, rhs, responsible for duplications within the Escherichia coli K12 chromosome. J. Mol. Biol. 177: 118.   \nI.IOYD, R. G., C. BUCKMAN and F. E. BENSON, 1987 Genetic analysis of conjugational recombination in Escherichia coli K12 strains deficient in RecBCD enzyme. J. Gen. Microbiol. 133: 25312538.   \nLUNDBLAD, V., and N. KLECKNER, 1984 Mismatch repair mutations of Escherichia coli K12 enhance transposon excision. Genetics 109: 3-19.   \nMoDRICH, P., 1989 Methyl-directed DNA mismatch correction. J. Biol. Chem. 264: 65976600.   \nPANG, P. P., A. S. LUNDBERG and G. C. WALKER, 1985 Identification and characterization of the mutL and mutS gene products of Salmonella typhimurium LT2. J. Bacteriol. 163: 10071015.   \nPETEs, P. D., and C. W. HI1L, 1988 Recombination between repeated genes in microorganisms. Annu. Rev. Genet. 22: 147 168.   \nRADMaN, M., 1989 Mismatch repair and genetic recombination, pp. 169192 in Genetic Recombination, edited by R. KuCHERLAPATI and G. R. SMITH. American Society of Microbiology, Washington, D.C.   \nRAYSSIGUIER, C., D. S. THALER and M. RADMAN, 1989 The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342: 396401.   \nSADOSKY, A. B., A. DAvIDSON, R. J. LIN and C. W. HILI., 1989 rhs gene family of Escherichia coli K-12. J. Bacteriol. 171: 636- 642.   \nSHEN, P., and H. V. HuANG, 1989 Effect of base pair mismatches on recombination via the RecBCD pathway. Mol. Gen. Genet. 218: 358360.   \nSHEN, W. F., C. SQUIRES and C. L. SQUIRES, 1982 Nucleotide sequence of the rrnG ribosomal RNA promoter region of Escherichia coli. Nucleic Acids Res. 10: 3303-3313.   \nSmITH, G. R., 1987 Mechanism and control of homologous recombination in Escherichia coli. Annu. Rev. Genet. 21: 179-201.   \nSoNTI, R. V., and J. R. RoTH, 1989 Role of gene duplications in the adaptation of Salmonella typhimurium to growth on limiting carbon sources. Genetics 123: 1928.   \nTHOMAS, D. C., J. D. ROBERTS and T. A. KUNKEL, 1 991 Heteroduplex repair in extracts of human HeLa cells. J. Biol. Chem. 266: 37443751. ",
+        "bbox": [
+            518,
+            609,
+            923,
+            928
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            90,
+            482,
+            557
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            90,
+            926,
+            541
+        ],
+        "page_idx": 5
+    }
+]

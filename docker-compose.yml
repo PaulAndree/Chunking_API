@@ -1,0 +1,28 @@
+services:
+  chunker:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chunker
+    networks:
+      - n8n-net
+    restart: unless-stopped
+    ports:
+      # Solo localhost. n8n lo alcanza por n8n-net con el nombre del contenedor;
+      # el puerto publicado es para curl desde el host. Estaba en 0.0.0.0 y
+      # ademas expuesto por nginx, asi que cualquiera podia mandarle trabajo.
+      - "127.0.0.1:8085:8084"
+    volumes:
+      - /srv/iarag/services/chunking/tmp_shared/output_ocr:/tmp/output_ocr
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    runtime: nvidia
+    
+networks:
+  n8n-net:
+    external: true 
+    

@@ -1,0 +1,1351 @@
+[
+    {
+        "type": "text",
+        "text": "Phenotypic and Genetic Consequences of Protein Damage ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            69,
+            812,
+            125
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anita Krisko1 , Miroslav Radman1,2\\* ",
+        "bbox": [
+            94,
+            134,
+            369,
+            151
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Mediterranean Institute for Life Sciences, Split, Croatia, 2 INSERM U1001, Faculte´ de Me´decine, Universite´ R. Descartes Paris-5, Paris, France ",
+        "bbox": [
+            93,
+            156,
+            779,
+            168
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            193,
+            186,
+            206
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although the genome contains all the information necessary for maintenance and perpetuation of life, it is the proteome that repairs, duplicates and expresses the genome and actually performs most cellular functions. Here we reveal strong phenotypes of physiological oxidative proteome damage at the functional and genomic levels. Genome-wide mutations rates and biosynthetic capacity were monitored in real time, in single Escherichia coli cells with identical levels of reactive oxygen species and oxidative DNA damage, but with different levels of irreversible oxidative proteome damage (carbonylation). Increased protein carbonylation correlates with a mutator phenotype, whereas reducing it below wild type level produces an anti-mutator phenotype identifying proteome damage as the leading cause of spontaneous mutations. Proteome oxidation elevates also UV-light induced mutagenesis and impairs cellular biosynthesis. In conclusion, protein damage reduces the efficacy and precision of vital cellular processes resulting in high mutation rates and functional degeneracy akin to cellular aging. ",
+        "bbox": [
+            117,
+            212,
+            882,
+            339
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Citation: Krisko A, Radman M (2013) Phenotypic and Genetic Consequences of Protein Damage. PLoS Genet 9(9): e1003810. doi:10.1371/journal.pgen.1003810 ",
+        "bbox": [
+            111,
+            356,
+            887,
+            373
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editor: Patrick H. Viollier, University of Geneva Medical School, Switzerland ",
+        "bbox": [
+            106,
+            373,
+            477,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received April 27, 2013; Accepted August 6, 2013; Published September 19, 2013 ",
+        "bbox": [
+            106,
+            388,
+            526,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Copyright: $\\circledcirc$ 2013 Krisko, Radman. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited. ",
+        "bbox": [
+            102,
+            405,
+            880,
+            426
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Funding: The study was funded by the Mediterranean Institute for Life Sciences (Croatia) and INSERM (France). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript. ",
+        "bbox": [
+            104,
+            430,
+            882,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Competing Interests: The authors have declared that no competing interests exist. ",
+        "bbox": [
+            107,
+            456,
+            524,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* E-mail: miroslav.radman@inserm.fr ",
+        "bbox": [
+            107,
+            473,
+            282,
+            483
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            511,
+            191,
+            525
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Proteome activity sustains life, whereas genome assures perpetuation of life by ongoing renewal of the proteome, granted the capacity of the proteome to repair, replicate and express the genome. Dedicated proteins determine mutation rates via the precision of the DNA replication machinery and the efficacy and precision of DNA repair systems such as DNA base pair mismatch and damage repair. Since errors in protein biosynthesis are $1 0 ^ { 5 }$ times more frequent than mutations [1], it would seem reasonable to expect that these errors should, when affecting key proteins, have a cascading effect by allowing additional errors in both DNA replication, causing mutations, and protein biosynthesis, causing further errors. Leslie Orgel has proposed just such a vicious circle of biosynthetic errors as a primary cause of aging [2]. ",
+        "bbox": [
+            93,
+            537,
+            485,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "High fidelity performance of key cellular proteins is achieved through selective kinetic proofreading steps in the course of DNA, RNA and protein biosynthesis [3,4] and by the molecular repair, error correction and maintenance (e.g., selective turnover) systems. Therefore, the quality of the proteome is expected to affect the quality of the genome as well as the catalytic activities, the precision of protein interactions and the control of gene expression. Here we investigate the effects of physiological oxidative damage, inflicted specifically to proteins, on cellular biosynthetic systems at both the genome and proteome levels. We test the prediction that proteome damage should affect cell fate - mutagenesis and survival - more than does the inflicted reparable genome damage. ",
+        "bbox": [
+            93,
+            713,
+            485,
+            887
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Studies of induced mutagenesis typically measure DNA damage inflicted by the mutagenic agent, ignoring the fact that DNA damaging treatments also produce oxidative damage to proteins and other cellular components. Induced mutations arise by the processing of residual (unrepaired) DNA damage, therefore the efficacy of relevant repair and replication proteins should determine also the frequency of induced mutations. We have measured major oxidative damage to proteins (irreversible protein carbonylation, PC) and DNA (reparable 8-oxoguanine) and found a remarkable correlation between PC and both spontaneous and UVC light-induced mutagenesis, as well as reduced DNA repair activity. ",
+        "bbox": [
+            93,
+            888,
+            485,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            511,
+            905,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Our results lend support to Orgel’s error catastrophe hypothesis by showing that protein damage can lead to, or even directly produce, DNA mutations. However, unanticipated by Orgel is our finding that errors in protein biosynthesis and folding predispose proteins to irreversible oxidative damage that ultimately alters or destroys their function. ",
+        "bbox": [
+            513,
+            632,
+            905,
+            712
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            726,
+            692,
+            741
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Negative correlation between cellular biosynthetic capacity and proteome oxidation ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            750,
+            864,
+            779
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Biological effects of oxidative stress are difficult to interpret because oxidative processes mediated by reactive oxygen and nitrogen species (ROS and RNS) damage all classes of biological molecules. To study specifically the biological consequences of irreversible oxidative damage to proteins (protein carbonylation, PC), we produced changes in intracellular PC levels, at constant levels of ROS and oxidative damage to DNA. To increase or decrease the susceptibility of proteins to carbonylation, we made use of the observations that conditions increasing errors in protein biosynthesis and folding lead to increased PC [5–7]. ",
+        "bbox": [
+            514,
+            782,
+            905,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author Summary ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            78,
+            245,
+            93
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cellular life is maintained by the activities of proteins that, together, prevent molecular damage from occurring in the first place and repair damaged DNA, proteins and other damaged cellular components. Cellular fitness decreases due to the fact that these proteins are themselves subject to damage, leading to the progressive degeneracy of cellular functions due to diminishing protein activity and decreased precision. The ultimate liability to protein function is the irreversible oxidative protein modification, protein carbonylation. In our study, we have altered the intrinsic susceptibility of proteins to oxidative damage via alterations of translation fidelity and the accuracy of protein folding. We have found that the increased quality of proteome leads to an improved biosynthetic capacity of cells, as well as to decreased mutation rates. Since cellular aging can be defined as a progressive loss of nearly all vital cellular functions and an increase in mutation rates, this work suggests that oxidative proteome damage may be the most likely cause of aging and age-related diseases. ",
+        "bbox": [
+            107,
+            101,
+            470,
+            341
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We have focused on ribosome-associated chaperone, the trigger factor (Tig, a functional homologue of the eukaryotic RAC/NAC) [8,9] as well as chaperonin GroEL/ES and chaperone DnaK/ DnaJ complexes (homologues of eukaryotic Hsp60/Hsp10 and Hsp70/Hsp40 complexes, respectively). Tig acts during the nascent polypeptide synthesis, to prevent premature folding, i.e., misfolding, of proteins exiting the ribosomal tunnel. After their release from the Tig, some proteins fold without any further assistance but, depending on their size and domain complexity, populations of ‘‘client’’ proteins are delivered either to the GroEL/ ES or to the DnaK/DnaJ complex [8,10]. ",
+        "bbox": [
+            93,
+            368,
+            485,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Using ribosomal fidelity mutants (rpsL141 and rpsD14) and deletion or overexpression of three classes of chaperones (Tig, DnaK/DnaJ and GroES/EL), we show that the increase or decrease of errors in protein synthesis and folding elevates or reduces PC at constant ROS (Figure 1A and 2B). Since the accuracy in protein biosynthesis and folding affects also the saturating levels of PC upon UVC irradiation (details below), it appears that the deviation from the native structure determines protein ‘‘target size’’ (a subpopulation of proteins sensitive to carbonylation) for oxidative damage in a cell. These results relate to the early proposal of Kurland [11]: the decreased cellular fitness via decreased translational accuracy may be a consequence of the impact of mis-sense errors on the structures of proteins as well as on the growth of cells. ",
+        "bbox": [
+            93,
+            515,
+            485,
+            700
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To quantify the effect of proteome oxidation on overall cellular biosynthetic capacity, we used a validated genetic method - the number of $\\gimel$ phages produced by individual $E$ . coli cells (single burst size) - that has revealed a strong correlation between the radiation-induced PC and the single burst size [12]. Bacteriophage $\\lambda$ requires and diverts host cell transcription, translation and DNA replication machineries for its own reproduction. In Figure 1A and 1B, we show the cellular PC before infection (absorbance range 0.16 to 0.51) and the single burst size (range 3 to 90) after infection by a single viral particle. There is a robust negative linear correlation $( \\mathrm { R } ^ { 2 } = 0 . 7 5 )$ ) between the $\\gimel$ single burst size and physiological host cell PC (Figure 1C). The level of ROS was identical in all studied strains (Figure 2B), and the infecting viral genome was undamaged, suggesting that the large differences in $\\gimel$ burst size are due to large differences in the host cell PC and/or some other parallel oxidative protein damage. Moreover, the antioxidant treatment with $1 \\ \\mathrm { m M }$ water-soluble vitamin E (trolox) ",
+        "bbox": [
+            93,
+            702,
+            485,
+            926
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "- present only before infection - greatly improved $\\lambda$ production in all tested strains in proportion to the antioxidant effect on PC (Figure 1, Table S1), suggesting that PC, rather than misfolding alone, precludes biosynthesis in E. coli. ",
+        "bbox": [
+            511,
+            74,
+            905,
+            126
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Double mutant DtigDlon, lacking the ribosome-associated chaperone and the main protease accumulates large amounts of carbonylated proteins, is unable to form colonies and produces only 3–5 phages per cell (Figure 1B). However, it forms colonies on plates with trolox and produces about 30 phages per cell when grown in the presence of trolox prior to infection (compare 17 and 18 in Figure 1B). ",
+        "bbox": [
+            513,
+            127,
+            905,
+            220
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spontaneous mutation rates correlate with proteome oxidation ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            235,
+            885,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Support for the idea that proteome alterations should lead to genome alterations (mutations) came from the observation that two mutator (high mutation rate phenotype) loci mutA and mutC encode altered tRNAs - key elements in protein biosynthesis [13]. Here we address the question: can we detect genetic consequences of proteome damage? To determine the global genomic mutation rates in growing E.coli (strains listed in Figure 1D and Table S2), we used a unique method that detects every genomic mutation (each seen as a fluorescent MutL-CFP focus) emerging in the last DNA replication round - in single cells and in real time - providing directly the numbers for genome-wide mutation rates [14]. Functional MutL protein tagged with a fluorescent protein (CFP) forms persistent foci only on unrepaired mismatches that are the emerging new mutations [14]. Only the mismatch-recognizing protein MutS is required for the formation of MutL foci at unrepaired mismatches [14]. In mutH mutants, deficient in the late stage of mismatch repair, all replication errors remain in the newly synthesized DNA forming MutL-CFP foci such that the mutation rate corresponds to the frequency of DNA replication errors. ",
+        "bbox": [
+            514,
+            264,
+            905,
+            516
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We found that in both wild type and in mutH cells, high-fidelity ribosomal mutation $( r p s L I 4 I )$ and over-expression of Tig, GroEL/ ES and DnaK chaperones decrease the mutation rate to create the most potent anti-mutator effect ever observed (in average, 10-fold in mutH and 3-fold in wild type, Figure 2A). The frequency of cells with a MutL-CFP focus is reduced from $0 . 3 \\%$ in the wild type (corresponding to the genetic estimates [15]) to $0 . 0 9 \\%$ or below. The 3-fold anti-mutator effect $( \\mathrm { p } { < } 0 . 0 0 0 1 )$ ) in the wild type is mirrored by an average of 9-fold mutator effect in strains with lowfidelity ribosome $( r p s D I 4 )$ or deletions of $t i g$ and dnaK (groEL/ES deletion is lethal) exhibiting around $3 \\%$ of cells bearing a MutLCFP focus (Figure 2A). The ROS levels and the levels of 8- oxoguanine, the most mutagenic oxidative DNA damage, remain equal in all strains (Figure 2B). This massive change in mutation rates is not due to changing amounts of the mismatch-binding MutS protein (Figure S1) and a standard genetic method measuring rifampicin resistant colonies [14] (Figure S2A) shows a robust correlation with the microscopic method [14], Figure S2B, Figure S3). ",
+        "bbox": [
+            513,
+            516,
+            905,
+            768
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Damage to DNA replication, mismatch repair and other proteins assuring low mutation rates (e.g., dNTP pool biosynthesis and sanitation systems) is expected to cause elevated mutagenesis. Indeed, spontaneous mutation rates correlate well with constitutive PC (Figure 2C). Doubling PC correlates with over 100-fold increase in mutation rate. ",
+        "bbox": [
+            513,
+            769,
+            905,
+            846
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Eliminating mismatch repair by a mutH gene deletion increases the frequency of cells bearing MutL-CFP foci to $\\sim 3 0 \\%$ (Figure 2A) – a 100-fold mutator effect. However, over-expressing Tig, GroEL/ES and DnaK chaperones in mutH mutant reduces emerging mutations to only $2 \\mathrm { - } 5 \\%$ of the cells, presumably by the improved DNA replication fidelity. Deletions of tig and dnaK in the mutH mutant increase further the mutation rate: $\\sim 5 0 \\%$ of cell population bears at least one new mutation as the result of reduced replication fidelity. ",
+        "bbox": [
+            513,
+            849,
+            905,
+            927
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d3ad7b38df98c36712afcbefc835d56a5f470fadd776a6e347fb3300f1d7abfd.jpg",
+        "image_caption": [
+            "Figure 1. Proteome carbonylation correlates with cellular biosynthetic capacity. Exponentially growing E.coli strains with different levels of chaperone activity and translation errors show different levels of (a) protein carbonylation and (b) bacteriophage $\\lambda$ single burst size. (c) $( \\chi )$ There is a negative correlation between total proteome carbonylation and biosynthetic capacity measured as single burst size of bacteriophage $\\lambda$ Strain identity corresponding to the numbers is listed in (d). Results are means of 3 measurements, each in triplicate. The error bars represent the standard deviation. $\\mathsf { R } ^ { 2 }$ value of the linear fit is indicated in panel (c). $\" 0 \\in \"$ stands for over-expression. doi:10.1371/journal.pgen.1003810.g001 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            74,
+            774,
+            649
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            93,
+            755,
+            485,
+            794
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "An antioxidant reduces protein oxidation and mutation rates ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            817,
+            480,
+            846
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A key question imposes itself: are the error-bearing and misfolded proteins immediately nonfunctional or malfunctional, and their oxidation is just an epiphenomenon or a tag for proteolysis, or can the misfolded proteins still function and their activity be rescued (e.g., by chaperones) unless oxidized while in the misfolded state? Only in the latter case do we expect antioxidants to rescue protein function and only if PC (and/or some other parallel oxidative damage) is the cause of mutations do we expect a decrease in mutation rates by antioxidant treatment. We found a striking parallelism between the decrease by $1 \\ \\mathrm { m M }$ trolox of both constitutive PC and mutation rates $( \\mathrm { p } { < } 0 . 0 0 0 1 )$ ) in the three strains (Figure 3). The level of suppression of intracellular ROS production (about $4 0 \\%$ , Figure 2B) by trolox corresponds to the decrease in both PC and mutation rates (Table S1). ",
+        "bbox": [
+            93,
+            848,
+            485,
+            926
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            755,
+            905,
+            860
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results in Figures 2 and 3 identify, for the first time, the principal cause of spontaneous mutations in bacterial cells. A decrease in spontaneous mutation rates is possible only by diminishing the dominant source of mutations, if there is a single one. The anti-mutator effect of reduced PC (at constant ROS and ",
+        "bbox": [
+            514,
+            862,
+            905,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e926fd524097357bd98b728ae1b77083abc0fa81b0663179720fe6a5eca3fad.jpg",
+        "image_caption": [
+            "Figure 2. Mutation rate correlates with total proteome carbonylation. (a) The fraction of cells with a MutL-CFP focus (mutation rate) decreases with increasing chaperone activity and translation accuracy in wild type (white bars) and MutH deficient E.coli (black bars). (b) 8-oxoguanine and ROS (DHR123 fluorescence) levels in each strain, in the absence and presence of 1 mM trolox, (c) Correlation between the fraction of cells with MutL-CFP foci and total proteome carbonylation. Strain identity corresponding to the numbers is listed in Figure 1D. Results are given as mean of 3 measurements, each in triplicate. Error bars represent the standard deviation. $\" 0 \\in \"$ stands for over-expression. doi:10.1371/journal.pgen.1003810.g002 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            74,
+            903,
+            265
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa2b0cb9c75f957ac1c7aacb158b0fc7011cf064f5219b0dc846f0696e55f3bf.jpg",
+        "image_caption": [
+            "Figure 3. Trolox reduces the amount of protein carbonylation and the mutation rates. Parallel decrease in mutation rate (white and black circle) (fraction of cells with a MutL-CFP focus) and in constitutive protein carbonylation (white and black square) in the presence of 1 mM trolox (black symbols) relative to no trolox controls (white symbols). The results are given as mean of 3 measurements, each in triplicate. Error bars represent the standard deviation. doi:10.1371/journal.pgen.1003810.g003 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            386,
+            656,
+            853
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA damage levels) by two means (chaperone overproduction and trolox) identifies oxidative proteome damage as the principal determinant of spontaneous mutation rates. ",
+        "bbox": [
+            93,
+            74,
+            485,
+            115
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Genomic polymorphism and proteome oxidation ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            131,
+            436,
+            145
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Clearly, perturbations in the native structure, probably exposing sensitive amino acid (Lys, Arg, Pro, Thr) side chains [16], predispose proteins to oxidation. Since only a small number of carbonylated proteins can be detected on 2D western blots in $E$ . coli [5,6] and human cells [17], it seems that most native proteins have an evolved oxidation-resistant structure. Consistent observation of significantly higher PC levels in the mutH than in its wild type ancestor (Figure 1A) can be due to either some ongoing reversible effect of the mutH mutation or to the irreversible accumulation of mutations during propagation of mutH cells (at its mutator rate of 0.3 mutations per cell generation) that include oxidation-prone protein variants. Introduction of the mutH+ copy of the gene on a plasmid (pBAD) restored the wild type mutation rate but did not decrease the PC level (not shown) suggesting that the accumulated genomic mutations (polymorphism) are the likely cause of elevated PC. ",
+        "bbox": [
+            93,
+            148,
+            485,
+            348
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The detection of PC increase due to mutational protein polymorphism in mutH above the 100 times higher background of translation errors can be explained by the ‘‘monoclonality’’ of mutant proteins in the cell, while each random translation error affects only a single protein molecule. Given the small fraction of the $E$ . coli proteome that is susceptible to carbonylation, a strong predisposition to carbonylation of few mutant high copy number proteins could increase the global PC level. ",
+        "bbox": [
+            93,
+            349,
+            485,
+            456
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Only those polymorphic protein changes that are neutral to cell fitness, or became neutral because of the buffering effect of chaperones [18], will persist in a growing liquid culture. Indeed, the excess PC (over the wild type level) in the mutH mutator strain is subject to larger effects of chaperone deletions and over-expressions than in the wild type strain (Figure 1A). Hence, by measuring PC, we can detect the consequences of random protein imperfections occurring during their biosynthesis and folding, as well as of recurrent specific protein imperfections encoded by mutant genes. ",
+        "bbox": [
+            93,
+            458,
+            485,
+            578
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "UVC light-induced mutagenesis correlates with proteome carbonylation ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            75,
+            839,
+            105
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "UV light is probably the most ubiquitous extracellular source of mutagenic activity in nature generating high amounts of ROS (Insert to Figure S4A). Highly mutagenic and cytotoxic UVC light is a model mutagen that we chose to test in strains with different chaperone activities and protein oxidation levels. ",
+        "bbox": [
+            513,
+            106,
+            905,
+            172
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Deletions of tig or dnaK increase the maximal PC levels (Figure S4A) whereas over-expression of either Tig, DnaK or GroEL/ES chaperone complex results in lower levels of PC at saturation than in wild type cells (Figure S4B). If PC were also the key determinant of induced mutation rates, then the plateaus of PC at saturation by UVC light in different strains (Figure S4) should coincide with plateaus of UVC-induced mutation frequencies. ",
+        "bbox": [
+            513,
+            173,
+            905,
+            267
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since all damage-bearing mutational intermediates are not well recognized by mismatch repair proteins [14], we exploited the high potency of UVC light in inducing mutations towards rifampicin resistance (Figure 4A). UVC-induced mutation frequencies reach saturation at UVC doses that saturate also PC (between 250 and $3 0 0 \\mathrm { J / m ^ { 2 } }$ , Figure S4). E.coli with low fidelity ribosomal mutation $r \\phi s D I 4$ and those deficient in Tig or DnaK reach a plateau at one order of magnitude higher mutation frequency $( 1 0 ^ { - 3 } )$ relative to the wild type $( 1 0 ^ { - 4 } )$ . Strains bearing high ribosomal fidelity rpsL141 mutation or over-expressing Tig, DnaK or GroEL/ES saturate at mutation frequencies of $1 0 ^ { - 6 } -$ $1 0 ^ { - 5 }$ . Chaperone deletions increase the susceptibility to UVCinduced mutations at all UVC doses tested, while chaperone overexpression causes a decrease in UVC-induced mutagenesis. ",
+        "bbox": [
+            514,
+            268,
+            905,
+            455
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similarly to correlations of PC (Figure 4B, zero UV) with spontaneous mutation rates (Figure 4A, zero UV) in all studied strains, UVC-induced mutation frequencies extend from spontaneous mutation frequencies as parallel curves along the UVC dose range (Figure 4A). It appears that the spontaneous oxidative proteome damage sensitizes cells to UVC-mutagenesis proportionally to the level of PC before irradiation (Figure 4A). Plotting spontaneous and UVC-induced mutation frequencies versus PC in Figure 4C shows a positive correlation extending from spontaneous into UVC-induced mutation frequencies that saturate at the same UVC dose as PC in each strain. ",
+        "bbox": [
+            513,
+            458,
+            905,
+            578
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a4a62de54780cb10e11ee6a3140a4390d955c51437468ee5fba856dead7de09.jpg",
+        "image_caption": [
+            "Figure 4. UV-induced mutation frequencies correlate with total proteome carbonylation. (a) Dose response of UVC induced mutation frequency in E.coli strains with increasing chaperone activity and translation accuracy. (b) Protein carbonylation at the end of the recovery period correlates with the UVC radiation dose. (c) Correlation between the UVC induced mutation frequency and protein carbonylation measured immediately after irradiation. Spontaneous mutation frequencies for each strain are labelled with an X. The results of mutation frequencies are given as median of 3 measurements, each in triplicate. Protein carbonylation measurements are presented as mean of 3 measurement, each in triplicate. Error bars represent the standard deviation. $\" 0 \\in \"$ stands for over-expression. doi:10.1371/journal.pgen.1003810.g004 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            608,
+            898,
+            832
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            74,
+            485,
+            100
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UVC-induced mutagenesis depends upon SOS response that induces synthesis of proteins required for the fixation of induced mutations, e.g., the RecA and DNA polymerase V [19]. The correlation between UVC-induced mutagenesis and PC does not appear to involve the SOS system because (i) the non-inducible SOS repressor mutation lexA1 precludes UVC mutagenesis but does not alter significantly the UVC-induced PC (Figure S5) and (ii) SOS induction (measured by the expression of the sulA gene) in DnaK deletion or over-expression strains cannot account for the observed differences in mutagenesis (Table S3). This means that SOS system does not control induced mutagenesis by controlling protein damage and that protein damage does not control SOS induction at UVC doses tested. However, the correlation between PC and UVC mutagenesis can be accounted for by the effect of PC on residual, unrepaired, DNA damage - the substrate for UV induced mutagenesis (Figure 4 and 5). In other words, UVCinduced mutagenesis correlates with PC because PC reduces repair efficiency of mutagenic DNA damage (below). ",
+        "bbox": [
+            93,
+            102,
+            485,
+            339
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UVC light-induced mutagenesis versus oxidative DNA and protein damage: Protein damage reduces DNA repair ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            354,
+            465,
+            397
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The spectra of sequenced mutations show that unrepaired DNA damage is the ultimate mutagenic intermediate in induced mutagenesis [20]. To evaluate the amount of UVC-induced oxidative DNA damage, we have measured 8-oxoguanine - one of the most mutagenic DNA lesions - in the eight strains, at several UVC doses, immediately after irradiation and after a dosedependent post-irradiation recovery period. In contrast to both PC and mutation frequency patterns (above), (i) 8-oxoguanine level in DNA measured immediately after irradiation increases linearly with UVC dose and does not saturate in the dose range applied (Figure 5A) and (ii) the UVC-induction of 8-oxoguanine in DNA is identical for all strains regardless of their chaperone activity and translational fidelity. Clearly, the induced mutation frequencies do not correlate with the DNA damage inflicted by UVC light. After the recovery period, 8-oxoguanine level decreases in all strains as the consequence of DNA repair (Figure 5B). However, the extent of decrease varies: the rpsL141 mutant and strains over-expressing the chaperones display a larger decrease in the 8-oxoguanine levels, i.e., more efficient repair, whereas rpsD14 mutant and strains with chaperone deficiencies show less repair of 8- oxoguanine than the wild type (Figure 5B). ",
+        "bbox": [
+            93,
+            398,
+            485,
+            675
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To establish the relationship between the acute protein damage (before and after exposure to UVC) and the efficacy of the postirradiation DNA repair, we have correlated the amount of unrepaired 8-oxoguanine to the level of PC present immediately after irradiation (Figure 5C). Low initial levels of PC (rpsL141 and chaperone over-expressions) incurred by radiation correlate with efficient removal of the 8-oxoguanine during the post-irradiation recovery. Moreover, high constitutive levels of PC (rpsD14 and chaperone deletions) correlate with reduced post-irradiation repair of the 8-oxoguanine. ",
+        "bbox": [
+            93,
+            677,
+            485,
+            808
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since the unrepaired damage matters for survival and mutagenesis, we also sought for correlations between the residual 8-oxoguanine level and the residual PC level after the recovery period. Figure 5D displays the relationship between these two parameters: lower levels of the residual (post-incubation) PC correlate with more efficient repair of the UVC-induced DNA damage leaving less residual 8-oxoguanine in the DNA of the ribosomal rpsL141 mutant and in the strains over-expressing chaperones than in wild type. High levels of residual PC (in rpsD14 mutant and the strains with chaperone deficiencies) correlate with high levels of 8-oxoguanine remaining in the genome reflecting reduced DNA repair resulting in elevated UVC-induced mutation frequencies. ",
+        "bbox": [
+            93,
+            810,
+            485,
+            927
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            74,
+            903,
+            127
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We conclude that whereas induced mutation frequencies do not correlate with the initial DNA damage inflicted by UVC, they do correlate with the residual, unrepaired, DNA damage resulting from PC related reduction in DNA repair. Hence the observed positive correlation between the cumulative (spontaneous and UVC induced) PC and induced mutagenesis. ",
+        "bbox": [
+            514,
+            129,
+            905,
+            207
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Conclusions and implications ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            222,
+            717,
+            236
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have discovered potent phenotypic effects of the damaged proteome - including mutator and anti-mutator phenotypes - by manipulating exclusively the oxidative damage to proteins. Our finding that spontaneous mutation rates and UVC light-induced mutation frequencies are determined by the level of oxidative proteome damage - rather than by incurred DNA damage - is apparently paradigm breaking. However, only unrepaired copy errors (measured here in vivo at single cell level) and DNA damages are mutagenic, and we show that oxidative protein damage severely limits the efficacy of DNA repair proteome. ",
+        "bbox": [
+            514,
+            237,
+            905,
+            369
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since reducing the physiological oxidative proteome damage by chaperone overproduction, or by antioxidant treatment, reduces spontaneous mutation rates below the wild type level, we identify oxidative proteome damage as the principal cause of spontaneous mutations in dividing bacteria. The correlation between mutation rates and protein oxidation, in the absence of mismatch repair, suggests that the precision of the DNA replication machinery is also governed by its oxidative damage. Furthermore, the frequency of induced mutations is determined by the cumulative (spontaneous and UVC light-induced) protein damage that appears as a bottleneck in the repair of UVC-inflicted DNA damage. ",
+        "bbox": [
+            514,
+            370,
+            905,
+            530
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The accumulated oxidative protein damage, whether caused by radiation-induced ROS [12] or by increased susceptibility to ROS [5–7, this work], is shown here to decrease the efficacy and precision of vital biosynthetic processes (Figure 1) including DNA replication and repair (Figure 5), resulting in high mutation rates (Figures 2–4), cellular morbidity (Figure 1) and bacterial [12,21,22] and animal [23] cell death. Therefore the present work may be relevant to the elucidation of the still obscure basic mechanisms of natural and drug-induced killing of bacteria [24] and tumor cells [25]. ",
+        "bbox": [
+            514,
+            531,
+            905,
+            663
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Progressive loss of many vital cellular functions and increased mutation rates are the characteristics of aging human cells that accumulate PC exponentially with person’s age [26] similarly to the increase in the rates of age-related diseases and death. This raises an intriguing conceptual question: Since the phenotypes of oxidative proteome damage mimic aging, is aging the phenotype of increasing proteome damage? Whereas PC is the best available biomarker of aging [26], our work suggests that PC and other protein damage might be its most likely cause. It is conceivable that the described functional and mutagenic consequences of PC apply also to human cells. In that case, the oxidative proteome damage becomes a lead candidate for a common, preventable, underlying cause of aging and age-related diseases. ",
+        "bbox": [
+            513,
+            664,
+            905,
+            835
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            849,
+            696,
+            864
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strains, growth conditions, and irradiation ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            873,
+            869,
+            887
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "All strains used are listed in the Table S2. They were derived from the sequenced wild-type $E .$ . coli MG1655 by P1 transduction and/or transformation. For all experiments, bacteria were grown in LB broth at $3 7 ^ { \\circ } \\mathrm { C }$ to the exponential phase $( \\mathrm { O D 6 0 0 = 0 . 2 – 0 . 3 } )$ . It should be emphasized at this point that the double deletion mutants of E.coli were characterized by compromised growth and abundance of protein aggregates that prevented us from reliable determination of the mutation rates by the microscopic method we used. ",
+        "bbox": [
+            513,
+            888,
+            903,
+            927
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/500208546cc532ed775dbe1aada160a9203ede9ced9951670fd0d0311559029e.jpg",
+        "image_caption": [
+            "Figure 5. Protein damage reduces the efficiency of DNA repair. The level of 8-oxo-guanine in DNA (a) immediately after irradiation and (b) at the end of the recovery period when it increases differently with the UVC radiation depending on the fidelity of protein biosynthesis and chaperone activity. (c) 8-oxo-guanine level correlates with the protein carbonylation level immediately after irradiation. (d) 8-oxo-guanine level after postirradiation incubation correlates with protein carbonylation. 8-oxo-guanine and protein carbonylation levels prior to irradiation are labeled with an X. The results are given as mean of 2 measurements, each in triplicate. Error bars represent the standard deviation. $\\mathsf { R } ^ { 2 }$ value of the linear fit is indicated in panel (a). $\" 0 \\in \"$ stands for over-expression. doi:10.1371/journal.pgen.1003810.g005 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            78,
+            764,
+            710
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            93,
+            845,
+            485,
+            926
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UVC irradiation ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            846,
+            619,
+            860
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bacteria were grown in LB broth at $3 7 ^ { \\circ } \\mathrm { C }$ to the exponential phase $\\mathrm { ( O D 6 0 0 = 0 . 2 - 0 . 3 ) }$ , washed in 0.01 M $\\mathrm { M g S O _ { 4 } }$ , and concentrated five times. All radiation experiments were performed on ice at the dose rate of $4 . 5 \\ : \\mathrm { J / m ^ { 2 } { \\cdot } s ^ { - 1 } }$ and $2 5 4 ~ \\mathrm { n m }$ . Viable cell counts were estimated by plating serial dilutions on LB plates (overnight at $3 7 ^ { \\circ } \\mathrm { C }$ ). In order to prevent photoreactivation, after UV treatment, all irradiated cells we kept in dark at $4 ^ { \\circ } \\mathrm { C }$ until they were further processed. ",
+        "bbox": [
+            513,
+            862,
+            905,
+            927
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            74,
+            485,
+            113
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "When necessary, a post-irradiation incubation was performed with its duration depending on the irradiation dose in the following manner: 110 minutes for $1 2 0 \\mathrm { J / m ^ { 2 } }$ , 248 minutes for $2 7 0 \\mathrm { J / m } ^ { 2 }$ and 330 minutes for $3 6 0 \\ : \\mathrm { J / m ^ { 2 } }$ . ",
+        "bbox": [
+            93,
+            115,
+            485,
+            168
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Antioxidant treatment by Trolox ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            183,
+            318,
+            196
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Overnight E.coli cultures were diluted 200-fold in LB medium supplemented with $1 \\ \\mathrm { m M }$ trolox (final concentration) and grown to the mid-log phase $\\mathrm { ( O D ~ 0 . 2 ) }$ . According to the following experiment (UV irradiation, single burst size, mutation rate determination), the cells were appropriately prepared (described elsewhere in the Materials and Methods section). It is important to note that for irradiation experiments, the cells were prepared as described above, such that trolox was not present in the medium at the time of irradiation. ",
+        "bbox": [
+            93,
+            198,
+            485,
+            316
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Protein extracts and protein carbonylation measurement ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            332,
+            485,
+            345
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "E. coli cells, exponentially growing in a rich medium and irradiated, were pelleted by centrifugation immediately after irradiation and resuspended in the $1 0 ~ \\mathrm { m M }$ PBS, $\\mathrm { p H } ~ 7 . 4$ , supplemented with a mixture of protease inhibitors containing aprotinin bestatin, leupeptin, pepstatin A, E-64 and AEBSFxHCL, EDTA-free (Pierce). Resuspended cells were frozen immediately in liquid nitrogen. Cells were broken by using a mechanical homogenizer and centrifuged $2 0 ~ \\mathrm { m i n }$ at $1 2 { , } 0 0 0 \\times \\mathrm { g }$ . Samples were then supplemented with $1 0 ~ \\mathrm { m g / l 0 0 ~ \\mu l }$ lipid removal agent (Sigma 13360-U), kept $1 \\ \\mathrm { h r }$ at room temperature with shaking and centrifuged $1 5 ~ \\mathrm { m i n }$ at $1 0 { , } 0 0 0 \\mathrm { { \\times g } }$ . The amount of protein in the supernatant was measured by the Lowry method [27]. Protein extracts diluted to $1 0 ~ \\mu \\mathrm { g / m L }$ were loaded into wells (Maxisorp, Nunc) and incubated over night at $4 ^ { \\circ } \\mathrm { C }$ to allow proteins to adsorb to the surface, followed by DHR derivatization of adsorbed proteins and detection of derivatized dinitrophenol (DNP)- carbonyl by a mouse DNP specific monoclonal antibody conjugated to HRP. Subsequent incubation with enzyme substrate ${ } ^ { 3 , 3 ^ { \\prime } , 5 , 5 ^ { \\prime } }$ -tetramethylbenzidine resulted in a colored product that was quantified using a microplate reader with maximum absorbance at $4 5 0 ~ \\mathrm { n m }$ . ",
+        "bbox": [
+            93,
+            345,
+            485,
+            626
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Isolation of genomic DNA and 8-oxoguanine measurement ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            641,
+            405,
+            670
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Genomic DNA was isolated from E.coli strains by using Qiagen Genomic DNA Purification kit. $1 0 0 ~ \\mu \\mathrm { L }$ of genomic DNA was loaded onto the Maxisorp (Nunc) wells at the concentration of $1 ~ \\mu \\mathrm { g } / \\mathrm { m L }$ and incubated overnight at $4 ^ { \\circ } \\mathrm { C }$ . This step was followed by an 1 hour incubation with the primary antibody mouse anti-8- deoxy-guanine and goat anti-mouse the secondary antibody conjugated to HRP. Subsequent incubation with enzyme substrate ${ } ^ { 3 , 3 ^ { \\prime } , 5 , 5 ^ { \\prime } }$ -tetramethylbenzidine (TMB) resulted in a colored product that was quantified using a microplate reader with maximum absorbance at $4 5 0 ~ \\mathrm { n m }$ . ",
+        "bbox": [
+            93,
+            672,
+            485,
+            805
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Western blot determination of the MutS protein ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            820,
+            428,
+            832
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Protein extracts were prepared as described above and a total of $1 0 ~ \\mathrm { u g }$ of protein extracted from wild type $E$ . coli MG1655 and isogenic Dtig, DdnaK, over-expression of GroEL/ES, Tig and DnaK strains were loaded on two SDS-PAGE gels with a $5 \\%$ stacking and a $1 0 \\%$ resolving gel. One gel was silver-stained. From the second gel, proteins were transferred onto a nitrocellulose membrane and visualized by using Amersham ECL Advance chemiluminescence detection system for imaging on autoradiographic film. Anti-MutS rabbit primary antibody (courtesy of Dr. Robert Wagner, Genecheck, USA) was used with a goat-antirabbit secondary antibody with horse-radish peroxidase. ",
+        "bbox": [
+            93,
+            835,
+            485,
+            927
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            74,
+            903,
+            127
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Measurement of ROS production ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            143,
+            743,
+            155
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "E. coli strains were labeled with $2 5 ~ \\mu \\mathrm { M }$ dihydrorhodamin-123 at indicated growth stage, as well as during UV irradiation. Cells were washed in minimal medium, and their fluorescence was measured (Victor 3, Perkin Elmer) with excitation at $5 0 0 ~ \\mathrm { n m }$ and emission at $5 3 0 ~ \\mathrm { n m }$ . ",
+        "bbox": [
+            513,
+            158,
+            905,
+            222
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Phage $\\gimel$ production: Single burst size ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            239,
+            774,
+            253
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$E$ . coli strains were grown to the mid-log phase $( \\mathrm { O D 6 0 0 = 0 . 2 } $ ) in the presence of $1 \\%$ maltose (to induce high levels of $\\gimel$ receptor), pelleted and resuspended in $1 ~ \\mathrm { m L }$ of LB broth supplemented with $3 0 ~ \\mathrm { m M }$ $\\mathrm { M g S O _ { 4 } }$ , $1 5 \\ \\mathrm { m M } \\ \\mathrm { C a C l _ { 2 } }$ , and $1 \\%$ maltose (final concentrations). To count the number of phages produced per single infected cell, cells were infected at multiplicity of infection of 0.3 and diluted to obtain one cell per three tubes that were incubated in $0 . 4 ~ \\mathrm { m L }$ LB for $6 0 ~ \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathrm { C }$ . A drop of chloroform was added to help release eventual intracellular viruses. The content of each tube was mixed with $0 . 7 \\%$ top agar supplemented with overnight culture of $E$ . coli MG1655 wild type, 30 mM MgSO $^ 4$ , $1 5 ~ \\mathrm { m M }$ $\\mathrm { C a C l _ { 2 } }$ and $1 \\%$ maltose. Plaques were counted after overnight incubation at $3 7 ^ { \\circ } \\mathrm { C }$ . ",
+        "bbox": [
+            514,
+            254,
+            905,
+            425
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The experiment was repeated three times. Individual numbers of phage particles obtained in each of the three repetitions were pooled together and a single mean was calculated with a standard deviation, for each of the studied strains. The ranges of single burst size from each of the three experiments are summarized in Table S4. ",
+        "bbox": [
+            513,
+            427,
+            905,
+            506
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Microscopy: Strain construction and media ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            521,
+            810,
+            535
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Strains studied by fluorescence microscopy are listed in Figure 1D. All strains were derived from the sequenced wild-type E. coli MG1655 by P1 transduction and transformation. Cells were grown on standard M9 minimal medium supplemented by $2 ~ \\mathrm { m M }$ $\\mathrm { M g S O _ { 4 } }$ , $0 . 0 0 3 \\%$ vitamin B1, $0 . 0 0 1 \\%$ uracil, $0 . 2 \\%$ casamino acids, $0 . 0 1 \\%$ glycerol and the required antibiotic, depending on the selection ",
+        "bbox": [
+            513,
+            537,
+            905,
+            629
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Live cell imaging and image analysis for counting genome-wide mutation rates ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            644,
+            861,
+            673
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Overnight cultures of strains expressing fluorescent proteins were grown in supplemented minimal medium (see above) diluted 250-fold and re-grown to early exponential phase. Cells were concentrated and spread on agar with supplemented minimal medium, in a cavity slide to obtain a cell monolayer, as described previously [28]. The slide was mounted on Metamorph software (Universal Imaging) driven temperature-controlled (Life Imaging Services) Zeiss 200M inverted microscope. Images were recorded at 630-fold magnification using CoolSNAP HQ camera (Princeton Instruments), in phase contrast and in fluorescence $5 0 \\%$ neutral density filter on a 100 W Fluo-Arc Hg-vapor lamp (Zeiss) regulated to $1 0 0 \\%$ power) at wavelength of $5 0 0 ~ \\mathrm { n m }$ during 20 seconds of exposure time. The images were analyzed by using Image J public domain software. The number of cells with MutLCFP foci was counted manually. A total of 5000–6000 cells were examined for the wild type and MutH deficient E.coli in the absence of Tig and DnaK chaperones. 10.000 cells were examined for wild type and MutH deficient E.coli over-expressing Tig, GroEL/ES and DnaK. ",
+        "bbox": [
+            514,
+            675,
+            905,
+            926
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rifampicin-resistance mutation frequencies ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            75,
+            392,
+            88
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In order to determine the spontaneous mutation frequency, strains expressing fluorescent reporter CFP fused to wild-type MutL were grown overnight in supplemented minimal medium (see above). The overnight cultures were then diluted $1 0 ^ { 7 }$ -fold and grown to saturation. Dilutions of overnight cultures were plated on selective medium (LB containing $1 0 0 ~ \\mu \\mathrm { g / m l }$ rifampicin) to select rifampicin-resistant $( \\mathrm { R i f } ^ { \\mathbf { R } } )$ colonies, and on LB to determine the total number of colony forming units. Colonies were scored after $2 4 \\ \\mathrm { h }$ incubation at $3 7 ^ { \\circ } \\mathrm { C }$ . The median of the mutation frequency of each strain was determined from nine independent experiments, each in triplicate. ",
+        "bbox": [
+            93,
+            91,
+            485,
+            234
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For the determination of UV-induced mutation frequencies, E.coli strains were grown overnight in LB medium. The overnight cultures were then diluted 200-fold until the culture reached an $\\mathrm { O D ~ 0 . 2 }$ . Cells were then irradiated with 120, 270 and $3 6 0 \\ : \\mathrm { J / m ^ { 2 } }$ After irradiation, cells were transferred into the LB medium and incubated at $3 7 ^ { \\circ } \\mathrm { C }$ with shaking (details described elsewhere in Methods). Dilutions were plated on selective medium (LB containing $1 0 0 ~ \\mu \\mathrm { g / m l }$ rifampicin) to select rifampicin-resistant $( \\mathrm { R i f } ^ { \\mathrm { R } } )$ colonies, and on LB to determine the total number of colony forming units. Colonies were scored after $2 4 \\ \\mathrm { h }$ incubation at $3 7 ^ { \\circ } \\mathrm { C }$ . The median of the mutation frequency of each strain was determined from three independent experiments, each in triplicate. ",
+        "bbox": [
+            93,
+            235,
+            485,
+            406
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "$\\beta$ -galactosidase assay ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            421,
+            243,
+            435
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "E.coli strains (wild type, bearing a deletion and an overexpression of the DnaK chaperone) containing a fusion of sulA and lac $\\boldsymbol { \\zeta }$ gene (encoding $\\beta$ -galactosidase) were grown until $\\mathrm { O D } _ { 6 0 0 } 0 . 3$ . An aliquot of cells was exposed to chloroform in the presence of $\\beta$ - merkaptoethanol and incubated for 5 minutes at room temperature. Ortho-Nitrophenyl- $\\beta$ -galactoside (ONPG) was added (final concentration $0 . 6 ~ \\mathrm { m g / m L }$ ) and the reaction mixture was mixed by shaking for few seconds. The reaction was stopped by adding $\\mathrm { N a _ { 2 } C O _ { 3 } }$ (final concentration 0.5M). Tubes were centrifuged at $^ { 1 6 , 0 0 0 } \\mathrm { ~ g ~ }$ for 10 minutes. OD420 was recorded in the supernatant and the units of $\\beta$ -galactosidase were calculated according to the formula: ",
+        "bbox": [
+            93,
+            436,
+            485,
+            581
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "equation",
+        "img_path": "images/feb500d8ae2b77bc630e9ecdf6b9b50ebb54fb0c48bbab6c2cc1bfef3a351575.jpg",
+        "text": "$$\n( 1 0 0 0 \\times \\mathrm { O D } _ { 4 2 0 } ) / ( \\mathrm { t i m e } _ { \\mathrm { m i n } } \\times \\mathrm { v o l u m e \\ c e l l s _ { \\mathrm { m L } } \\times O D } _ { 6 0 0 } )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            127,
+            600,
+            450,
+            615
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "by the genetic method of ${ \\mathrm { R i f } } ^ { \\mathbf { R } }$ mutation frequency. Error bars represent the standard deviation. ",
+        "bbox": [
+            513,
+            73,
+            905,
+            100
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure S3 Examples of MutL-CFP foci in different strains of E.coli (as indicated on the images). Arrows point into the direction of foci in the wt MG1655 panel.   \n(TIF) Figure S4 Total protein carbonylation increases with UV dose and reaches saturation at (a) higher and (b) lower levels of PC for E.coli strains displaying lower and higher proteome quality, respectively. Insert to Figure S4A: Intracellular fluorescence of DHR increases linearly with dose of UVC radiation. Straight line denotes the linear fit. The results represent mean of 3 measurements, each in triplicate. Error bars represent the standard deviation.   \n(TIF) ",
+        "bbox": [
+            511,
+            120,
+            906,
+            174
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            181,
+            906,
+            300
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure S5 The increase in protein carbonylation immediately after irradiation and upon post-irradiation incubation in LexA non-inducible mutant of E.coli. Error bars represent the standard deviation of three measurements, each in triplicate. (TIFF) ",
+        "bbox": [
+            513,
+            306,
+            905,
+            373
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table S1 A summary of the effect of 1 mM trolox on reduction of reactive oxygen species (ROS) level, protein carbonylation (PC) amount, single burst size and the mutation rate in terms of the fraction of cells with at least one MutL-CFP focus. (DOC) ",
+        "bbox": [
+            513,
+            379,
+            905,
+            445
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table S2 A complete list of E. coli strains used in this study, their genotype and source.   \n(DOC) ",
+        "bbox": [
+            513,
+            451,
+            905,
+            492
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table S3 Activity of $\\beta$ -galactosidase in GC4415 strain of E.coli with the deletion and overexpression of the DnaK chaperone, without and after UV induction of the SOS response. (DOC) ",
+        "bbox": [
+            513,
+            498,
+            905,
+            553
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Table S4 Single burst size of bacteriophage lambda. Summary of ranges in which the value of the single burst size varies over three repetitions of the same experiment.   \n(DOC) ",
+        "bbox": [
+            511,
+            558,
+            905,
+            612
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supporting Information ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            651,
+            281,
+            667
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure S1 (a) Silver stained SDS-PAGE gel of E.coli cells, as indicated. (b)Western blot analysis of MutS levels in strains of E.coli. Oe stands for overexpression.   \n(TIF) ",
+        "bbox": [
+            91,
+            673,
+            486,
+            727
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Figure S2 (a) ${ \\mathrm { R i f } } ^ { \\mathrm { R } }$ mutation frequency decreases with increasing chaperone activity in wild type (white circles) and MutH deficient (black squares) E.coli. Legend for strain numbers is listed in Figure 1D. Results are shown as mean of 9 measurements, each in triplicate. (b) Fraction of cells with at least one MutL-CFP focus displays a positive correlation with mutation frequency determined ",
+        "bbox": [
+            91,
+            731,
+            485,
+            812
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            626,
+            658,
+            641
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "M.R. thanks Jean-Noe¨l Thorel for his support and R. E. Wagner for improving the manuscript. Some of the strains listed in Table S2 were obtained from Keio Collection NBRP-E.coli at NIG Kyoto Japan. Special thanks go to Marina Elez for providing the MutL-CFP fusion strain, to Bertil Gummesson from Thomas Nystrom lab for the gift of $E . c o l i$ strains used to construct AK strains and Susan M. Rosenberg for the ingredients of the $\\beta$ -galactosidase assay. We thank Ms. Tea Copic for technical assistance and Mr. Mikula Radman with his assistance with the graphics. ",
+        "bbox": [
+            513,
+            648,
+            905,
+            741
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            756,
+            684,
+            770
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conceived and designed the experiments: AK MR. Performed the experiments: AK. Analyzed the data: AK MR. Contributed reagents/ materials/analysis tools: AK MR. Wrote the paper: AK MR. ",
+        "bbox": [
+            513,
+            777,
+            905,
+            811
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            826,
+            179,
+            840
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. Ninio J (1991) Connections between translation, transcription and replication error-rates. Biochimie 73: 1517–1523.   \n2. Orgel LE (1963) The maintenance of the accuracy of protein synthesis and its relevance to aging. Proc Natl Acad Sci USA 49: 517–521.   \n3. Hopfield JJ (1974) Kinetic Proofreading: A new mechanism for reducing errors in biosynthetic processes requiring high specificity. Proc Natl Acad Sci USA 71: 4135–4139.   \n4. Ninio J (1975) Kinetic amplification of enzyme discrimination. Biochimie 57: 587–595.   \n5. Dukan S, Farewell A, Ballesteros M, Taddei F, Radman M, et al (2000) Protein oxidation in response to increased transcriptional or translational errors. Proc Natl Acad Sci U S A 97: 5746–5749.   \n6. Fredriksson A, Ballesteros M, Dukan S, Nystro¨m T (2005) Defense against protein carbonylation by DnaK/DnaJ and proteases of the heat shock regulon. J Bacteriol 187: 4207–4213.   \n7. Fredriksson A, Ballesteros M, Peterson CN, Persson O, Silhavy TJ, et al (2007) Decline in ribosomal fidelity contributes to the accumulation and stabilization of the master stress response regulator sigmaS upon carbon starvation. Genes Dev 21: 862–874.   \n8. Hoffmann A, Bukau B, Kramer G (2010) Structure and function of the molecular chaperone Trigger Factor. Biochim Biophys Acta 1803: 650–661.   \n9. Maier T, Ferbitz L, Deuerling E, Ban N (2005) A cradle for new proteins: trigger factor at the ribosome. Curr Opin Struct Biol 15: 204–212.   \n10. Buchberger A, Bukau B, and Sommer T (2010) Protein quality control in the cytosol and the endoplasmic reticulum: brothers in arms. Mol Cell 40: 238–252.   \n11. Kurland CG (1992) Translational accuracy and the fitness of bacteria. Annu Rev Genet 26: 29–50.   \n12. Krisko A, Radman M (2010) Protein damage and death by radiation in Escherichia coli and Deinococcus radiodurans. Proc Natl Acad Sci USA 107: 14373– 14377.   \n13. Slupska MM, Baikalov C, Lloyd R, Miller JH (1996) Mutator tRNAs are encoded by the Escherichia coli mutator genes mutA and mutC: A novel pathway for mutagenesis. Proc Acad Nat Sci USA 93: 4380–4385.   \n14. Elez M, Murray AW, Bi LJ, Zhang XE, Matic I, et al (2010) Seeing mutations in living cells. Curr Biol 20: 1432–1437.   \n15. Drake JW (1991) A constant rate of spontaneous mutation in DNA-based microbes. Proc Natl Acad Sci USA 88: 7160–7164.   \n16. Nystrom T (2005) Role of oxidative carbonylation in protein quality control and senescence. EMBO J 24:1311–1317.   \n17. Ahmed EK, Rogowska-Wrzesinska A, Roepstorff P, Bulteau AL, and Friguet B (2010) Protein modification and replicative senescence of WI-38 human embryonic fibroblasts. Aging Cell 9: 252–272.   \n18. Rutherford SL, Lindquist S (1998) Hsp90 as a capacitor for morphological evolution. Nature 396: 336–342.   \n19. Schlacher K, Cox MM, Woodgate R, Goodman MF (2006) RecA acts in trans to allow replication of damaged DNA by DNA polymerase V. Nature 442: 883– 887.   \n20. Friedberg EC, McDaniel LD, Schultz RA (2004) The role of endogenous and exogenous DNA damage in mutagenesis. Curr Opin Genet Dev 14: 5–10.   \n21. Daly MJ, Gaidamakova EK, Matrosova VY, Vasilenko A, Zhai M et al. (2007) Protein oxidation implicated as the primary determinant of bacterial radioresistance. Plos Biol 5: e92.   \n22. Daly MJ (2009) A new perspective on radiation resistance based on Deinococcus radiodurans. Nat Rev Microbiol 7: 237–245.   \n23. Krisko A, Leroy M, Radman M, Meselson M (2012) Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers. Proc Natl Acad Sci USA 109: 2354–2357.   \n24. Kohanski MA, Dwyer DJ, Hayete B, Lawrence CA, Collins JJ (2007) A common mechanism of cellular death induced by bactericidal antibiotics. Cell 130: 797– 810.   \n25. Watson J (2013) Oxidants, antioxidants and the current incurability of metastatic cancers. Open Biol 3: 120144.   \n26. Oliver CN, Ahn BW, Moerman EJ, Goldstein S, Stadtman ER (1987) Agerelated changes in oxidized proteins. J Biol Chem 262: 5488–5491.   \n27. Lowry OH, Rosebrough NJ, Farr AL, Randall RJ (1951) Protein measurement with the Folin phenol reagent. J Biol Chem 193: 265–275.   \n28. Stewart EJ, Madden R, Paul G, Taddei F (2005) Aging and death in an organism that reproduces by morphologically symmetric division. Plos Biol 3: e45. ",
+        "bbox": [
+            98,
+            846,
+            486,
+            920
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            846,
+            905,
+            920
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            93,
+            73,
+            486,
+            345
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            72,
+            906,
+            345
+        ],
+        "page_idx": 9
+    }
+]

@@ -1,0 +1,3103 @@
+[
+    {
+        "type": "text",
+        "text": "Fútbol en España ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            85,
+            317,
+            111
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El fútbol o balompié es el deporte más popular en España. En el Informe Global 2013 sobre Consumo de Contenidos Deportivos en España, entre los aficionados al deporte, el fútbol dominaba respecto al resto de deportes (el $64 \\%$ de los adultos eran aficionados al fútbol, y a continuación el $4 7 \\ \\%$ eran aficionados a la Fórmula $_ { 1 \\textrm { y } }$ el $4 1 \\ \\%$ al tenis).1 2 Además, el fútbol es el deporte que cuenta con más jugadores federados (un total de 942 674, de los cuales 898 551 son hombres y 44 123 mujeres) y más clubes inscritos (un total de 20 ",
+        "bbox": [
+            68,
+            118,
+            776,
+            193
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "588) entre todas las federaciones deportivas españolas, según los datos publicados por el Consejo Superior de Deportes (CSD) en el año $2 0 1 6 . { ^ 3 } \\mathrm { E n }$ una encuesta de hábitos deportivos de la población española realizada en 2010, el fútbol se situó como el segundo deporte recreativo más practicado por la población $( 1 7 { , } 9 \\ \\% )$ . El $^ { 7 5 , 9 \\ \\% }$ de las personas afirmó haber comprado entradas para asistir a un partido de fútbol. Además, un $^ { 6 7 , 3 \\% }$ de las personas dijeron haber visto todos, casi todos, muchos o algunos de los partidos de fútbol retransmitidos por televisión.4 El $67 \\%$ de la población dijo que era aficionado o sentía simpatía por un club en particular. Además, el $^ { 7 4 , 9 } \\%$ dijo que veía, siempre que era posible, los partidos transmitidos por televisión sobre sus equipos favoritos; y el $^ { 4 2 , 4 ~ \\% }$ tenía, banderas, escudos u objetos de sus equipos favoritos. Los datos de esta encuesta confirman la impresión generalizada de que la mayoría de los españoles son aficionados del Real Madrid $( 3 2 , 4 \\ \\% )$ ) o del FC Barcelona $( 2 4 , 7 ~ \\% )$ , y los otros equipos tienen menos seguidores a nivel nacional, como Atlético de Madrid $( 1 6 , 1 ~ \\% )$ ), Valencia CF $^ { ( 3 , 5 ~ \\% ) }$ , Athletic Club $^ { ( 3 , 3 \\% ) }$ o Sevilla FC $( 3 , 2 \\% )$ .5 ",
+        "bbox": [
+            68,
+            194,
+            657,
+            403
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c4ce90d2114487cab7c6d3993b7ec3368c567e248d2a5283455a109881679fba.jpg",
+        "image_caption": [
+            "Uno de los primeros balones existentes de football (1924). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            680,
+            200,
+            927,
+            332
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Es el tercer deporte más practicado de forma recreativa habitual —en 2017 lo practicaba el $6 { , } 5 \\%$ de los españoles por detrás de correr y el aeróbic— según un estudio de la Asociación para la Investigación de Medios de Comunicación (AIMC),4  superando a otros deportes como yoga, y las actividades cardiovasculares y de musculación de los gimnasios. ",
+        "bbox": [
+            67,
+            416,
+            934,
+            461
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En una encuesta realizada por el Centro de Investigaciones Sociológicas (CIS) en 2010, un $7 5 { , } 9 \\%$ de las personas encuestadas dijeron que alguna vez habían comprado entradas para asistir a un partido de fútbol.6 Los resultados indicaron que el fútbol seguía siendo el deporte que más interesaba a la mayoría de españoles con un $6 4 , 6 \\%$ aficionados o con simpatía por un equipo en particular. Además, el $^ { 4 6 , 1 \\ \\% }$ dijo que observaban balompié en la televisión, seguido del baloncesto; y un $9 \\%$ habían comprado algún artículo relacionado con ellos en el último año. A fecha de mayo de 2017 la misma encuesta de la AIMC estableció que la mayoría de la población española era simpatizante del Real Madrid Club de Fútbol $( 3 0 { , } 2 \\ \\% )$ o del Fútbol Club Barcelona $( 2 4 , 7 \\% ) ;$ ,4 y los aficionados y simpatizantes de otros equipos, como el Atlético de Madrid $( 7 , 1 \\% )$ , el Valencia Club de Fútbol $( 4 , 1 \\% )$ , el Athletic Club $( 3 , 9 \\%$ ) o el Real Betis $^ { ( 3 , 2 \\% ) }$ , Real Zaragoza $( 2 , 2 \\% )$ ) eran minoritarios a nivel nacional.7 En cuánto al número de seguidores de los clubes de fútbol españoles en las redes sociales suman más de 450 millones de seguidores: Real Madrid Club de Fútbol 214,5 millones, Fútbol Club Barcelona tiene 211,3 millones, Atlético de Madrid 22,4 millones, Athletic Club 3,6 millones, Valencia Club de Fútbol 3,3 millones, Sevilla FC 3,3 millones, Real Betis 2,7 millones, Real Sociedad 1,9 millones, Málaga CF 1,8 millones, Villarreal CF 1,7 millones, y el resto con cifras inferiores al millón de seguidores.5 ",
+        "bbox": [
+            67,
+            472,
+            936,
+            654
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Historia ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            682,
+            152,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El fútbol se introduce en España a través de trabajadores inmigrantes, especialmente británicos, hacia finales del siglo XIX. Fueron los ingleses asentados en las Minas de Riotinto (Huelva), y en la propia capital los que disputaron los primeros partidos hacia $1 8 7 0 . { \\overset { 8 } { - } } { \\overset { 9 } { - } } { \\overset { 1 0 } { - } }$ Pero también fue introducido en el ámbito educativo, al igual que el tenis, por medio de un tipo de educación privada no oficial cuya pedagogía innovadora no descuidaba la formación conjunta de cuerpo y espíritu en varones y féminas, y así se ha documentado el uso del deporte, y más en concreto el fútbol y el tenis, para la educación física de los alumnos de la anglófila Institución Libre de Enseñanza (1876- 1936), como parte de la pedagogía del krausismo. 11 El 16 de agosto de 1873 se jugó el primer partido de fútbol en España, aunque no fue reglado. Tuvo lugar en las minas de Riotinto cuando los trabajadores británicos de la compañía Rio Tinto Company Limited organizaron un encuentro durante las fiestas patronales en honor a San Roque disputado en tierra roja.12 Sin embargo, en abril de 2024 la Biblioteca Nacional digitalizó un periódico, el Gibraltar Chronicle, en cuya edición del 22 de febrero de ",
+        "bbox": [
+            68,
+            713,
+            628,
+            925
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/c672a2eb78ee4bea974ef4ee8fff184136139a40e803ba8c21c7cae980967702.jpg",
+        "image_caption": [
+            "El Real Club Recreativo de Huelva, club decano vigente del fútbol español (1889). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            650,
+            719,
+            927,
+            863
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1869 aparecía una reseña de un partido disputado en Jerez de la Frontera el 13 de febrero de 1869 entre miembros del Jerez Cricket Club y marineros del buque británico Endymion. El resultado fue de 0-1 para los marineros, pero hay que tener en cuenta que fue un encuentro de fútbol no reglado.13 ",
+        "bbox": [
+            70,
+            42,
+            932,
+            86
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Surgen en 1876 y 1878 los que fueron los primeros «protoclubes» españoles: el Río Tinto Foot-Ball Club. Estas sociedades, sin embargo, no fueron inscritas en ningún registro oficial por lo que no ha quedado constancia legal de su existencia. El primer club de fútbol español legalmente establecido fue el Cricket y Foot-Ball (Club) de Madrid, en 1879, y que parece que inició leves actividades también en 1878. A posteriori, surge el Huelva Recreation Club, actual Real Club Recreativo de Huelva, que fue establecido el 18 de diciembre de 1889,14 15  siendo el equipo Decano del futbol español, a ser el club más antiguo con existencia ininterrumpida de España. ",
+        "bbox": [
+            68,
+            98,
+            934,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Con la llegada del siglo XX los clubes de fútbol (foot-ball en la época) empezaron a proliferar por todo el país. Estas primeras sociedades eran casi siempre fundadas por extranjeros. ",
+        "bbox": [
+            68,
+            185,
+            934,
+            216
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El rápido crecimiento de entusiastas y entidades impulsa la creación de las primeras asociaciones encargadas de su regulación. La primera de ellas fue la Foot-Ball Associació establecida en Cataluña el 11 de noviembre de 1900. También se organizaron las primeras competiciones, como la Copa Macaya creada el 6 de enero del siguiente año por el Hispania Athletic Club. Esta competición fue predecesora del que sería también uno de los primeros campeonatos oficiales de fútbol disputados en España, el Campeonato de Cataluña de Football, 16  que surgió unos días después que el homónimo Campeonato de Madrid de Foot-Ball Association. 17 ",
+        "bbox": [
+            68,
+            226,
+            934,
+            302
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El aún poco organizado deporte encontraba aún bastantes detractores que trabaron una mayor expansión,18 pues era considerado en sus primeros años como peligroso.19 En 1902 se organizó la primera competición a nivel nacional, el Concurso Madrid de Foot-Ball Association o popularmente Copa de la Coronación, organizada por el Madrid Foot-Ball Club, que fue el embrión de la actual Copa del Rey debido a su éxito y que en sus orígenes fue denominada como Campeonato de España. ",
+        "bbox": [
+            68,
+            313,
+            934,
+            375
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hasta 1909 no se vio por primera vez una asociación a nivel nacional que rigiese este deporte. Esta nació el 14 de octubre bajo el nombre de Federación Española de Clubs de Football, y también se creó una Unión Española de Clubs de Foot-ball debido a diferencias entre los clubes. Tras adoptar un consenso en 1910 y quedar todos los clubes asociados a la primera, surgieron nuevas discrepancias años después y así surgió la Real Unión Española de Clubs de Foot-ball. Ambas reclamaban su oficialidad estatal y organizaron campeonatos paralelos de la Copa del Rey. Finalmente, y tras la negativa de la Federación Internacional de Fútbol Asociación (FIFA), máxima autoridad futbolística internacional, al ingreso de España como asociada por no aceptar la coexistencia de dos federaciones nacionales, ambas firman la paz y su unión el 30 de julio de 1913.20 Así, el 29 de septiembre nació oficialmente la actual Real Federación Española de Fútbol, después de haber otorgado el rey Alfonso XIII la distinción real. La selección española masculina se creó en 1920 con motivo de la disputa de los Juegos Olímpicos de Amberes. ",
+        "bbox": [
+            67,
+            385,
+            934,
+            521
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El primer gran cambio en el balompié español llega en 1926 cuando, tras un largo proceso de debate iniciado en 1924,21  los clubes aprueban el Primer Reglamento del Fútbol Profesional español el 30 de junio.21 Siguiendo el modelo británico se daba así el paso hacia el profesionalismo, sentando las bases para el nacimiento de un Campeonato Nacional de Liga Profesional, cuya primera edición se disputó en 1929. Previamente hubo un primer intento de organizar un campeonato que se desdobló en dos torneos y que no llegaron a concluir por las discrepancias entre clubes y federaciones ya que entraba en conflicto con las fechas de las hasta entonces únicas competiciones: los correspondientes campeonatos de cada federación regional, y el ya citado Campeonato de España de Copa.22 23 ",
+        "bbox": [
+            68,
+            533,
+            934,
+            623
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El fútbol contaba con una gran afición y continuó su crecimiento hasta la guerra civil española (del 18 de julio de 1936 al 1 de abril de 1939). Como consecuencia del conflicto bélico hubo una interrupción de las competiciones de fútbol de ámbito estatal, que se reanudaron al finalizar la guerra. Una vez establecida la dictadura de Franco se impusieron cambios como la obligación de tener sus nombres en castellano, alterando así los nombres originales de algunos equipos que usaban el inglés o alguna otra lengua peninsular (Athletic Club pasó a denominarse Atlético de Bilbao, y Football Club Barcelona como Club de Fútbol Barcelona, por citar dos ejemplos). Dicha imposición se mantuvo hasta 1972, pudiendo los equipos que lo desearan incluir anglicismos en su denominación, así como regresar a sus nombres originales.24 Durante la dictadura de Franco el fútbol actuó como medio de control social y un mecanismo de nacionalización y propaganda mediante la apropiación franquista de las victorias del fútbol español y en la promoción de una identidad colectiva de los españoles.25 ",
+        "bbox": [
+            68,
+            635,
+            934,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la temporada 1948-49 todos los equipos utilizaron dorsales en sus uniformes,26  introducidos en el territorio la temporada anterior por el Real Madrid27 a semejanza del fútbol inglés.28 En el año 1965 se autorizó un cambio por equipo, además de la sustitución del portero en caso de lesión (que ya se había autorizado en la temporada 1929-30), y a partir de la temporada 1969-70 se amplió a dos cambios.26 ",
+        "bbox": [
+            68,
+            782,
+            934,
+            842
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la temporada 1970-71 se empezaron a utilizar las tarjetas, y en un principio las tarjetas amarillas actuales eran blancas. $\\xlongequal { 2 6 } \\mathrm { E n } 1 9 7 2$ se denunció el caso de los falsos oriundos que destapó el fraude documental de jugadores sudamericanos que no tenían ascendencia española.29 Después del fracaso de la selección española en el Mundial de 1962 la Real Federación Española de Fútbol prohibió la contratación de futbolistas extranjeros, y solo permitió la contratación de jugadores con ascendencia española si no eran Internacionales en sus países de origen. Sin embargo, fueron contratados un gran número de jugadores sudamericanos que incumplían la normativa federativa y cuya documentación era falsa, e incluso algunos de estos jugadores habían jugado de forma irregular partidos en la selección.30 En 1973 la RFEF admitió la inclusión de balompedistas extranjeros en las competiciones españolas.26 El 4 de marzo de 1979 se convocó la primera huelga de futbolistas, que fue un éxito. Las principales reivindicaciones fueron la abolición del derecho de retención y su inclusión en la Seguridad social. 26 En 1981 la RFEF autorizó la publicidad en las camisetas.26 ",
+        "bbox": [
+            68,
+            856,
+            934,
+            932
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            42,
+            934,
+            103
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La XII Copa Mundial de Fútbol tuvo lugar en España en 1982, que por primera vez se jugó con 24 equipos de selecciones nacionales.31 ",
+        "bbox": [
+            65,
+            115,
+            931,
+            143
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La importancia que adquirió el campeonato de Liga —desbancando como competición más importante en el territorio a la Copa— hizo que en el año 1984 se crease la Liga Nacional de Fútbol Profesional, anteriormente conocida por las siglas LFP y desde 2023 con la marca comercial LALIGA, asociación que estaba integrada por los clubes y las sociedades anónimas deportivas que participaban en las diferentes categorías profesionales de la liga española de fútbol.n 1 Desde entonces dicho organismo se ha encargado de la regulación de las ligas de Primera y Segunda División \"A\" en coordinación con la Real Federación Española de Fútbol. ",
+        "bbox": [
+            68,
+            156,
+            934,
+            232
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En la temporada 1995-96 se autorizó el dorsal fijo para los jugadores, los tres cambios de jugadores durante el partido, y la asignación de 3 puntos por victoria.26 ",
+        "bbox": [
+            65,
+            243,
+            931,
+            271
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A partir de los años 1990 el balompié español vivió una segunda revolución con la conversión de los clubes deportivos en sociedades anónimas deportivas, los ingresos por las retransmisiones televisivas, los fichajes millonarios y la globalización futbolística a raíz de la sentencia Bosman dan origen a la llamada «Liga de las Estrellas».32 Circunstancias todas que fueron en detrimento de los jugadores españoles que vieron como cada vez más llegaban jugadores de diversas nacionalidades. Dicho suceso vio su punto más alto cuando por primera vez un equipo alineó en su equipo inicial a once jugadores de nacionalidad distinta, en el partido entre el Granada Club de Fútbol —el implicado— y el Real Betis Balompié, en el partido correspondiente a la jornada 23 de la temporada 2016-17. n 2 33 El mismo club formó también con un once sin españoles, al igual que el Atlético de Madrid en 2008,34 o el Sevilla Fútbol Club en 2016 por citar algunos.35 Para paliar dichas circunstancias, también acaecidas en otros países como Italia,n 3  la UEFA comenzó a mediados de los años 2000 a establecer una serie de normativas a cumplir para disputar las competiciones continentales, como la de que un equipo debe inscribir sine qua non a al menos cuatro jugadores formados en el país de origen del club, y que al menos dos hayan estado formados en sus respectivas categorías inferiores,36  incrementando posteriormente las cifras a ocho jugadores en total, y al menos cuatro de la propia cantera.37 ",
+        "bbox": [
+            67,
+            285,
+            934,
+            469
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Selecciones españolas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            496,
+            287,
+            515
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Masculina absoluta ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            545,
+            240,
+            560
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La Selección de fútbol de España, está regida en sus distintas categorías por la Real Federación Española de Fútbol. ",
+        "bbox": [
+            68,
+            566,
+            606,
+            596
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El combinado español disputó su primer partido oficial el 28 de agosto de 1920, en Bruselas, ante la selección danesa, con motivo de los Juegos Olímpicos de Amberes. 38 En esta competición los españoles, que participaron con un equipo amateur, ya que el profesionalismo aún no estaba implantado en el país, lograron la medalla de plata, siendo el mayor logro internacional hasta que en 2010 se proclamase vencedora de la Copa del Mundo. ",
+        "bbox": [
+            68,
+            606,
+            608,
+            697
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La selección ha participado en las siguientes ediciones de las competiciones organizadas por la FIFA o la UEFA: ",
+        "bbox": [
+            67,
+            709,
+            606,
+            738
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "dieciséis de las veintidós ediciones de la Copa del Mundo de la FIFA organizada por la FIFA. once de las veintiséis ediciones del Torneo Olímpico de Fútbol organizado por la FIFA en colaboración con el Comité Olímpico Internacional. doce de las dieciséis ediciones de la Eurocopa organizada por la UEFA. dos de las ocho ediciones de la Copa FIFA Confederaciones organizada por la FIFA. dos de las tres ediciones de la Liga de Naciones de la UEFA organizada por la UEFA. ",
+        "bbox": [
+            77,
+            749,
+            705,
+            851
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b075bb959d75e92da49cdbb3d0c6eec4b3ecd3f8ba0ac02d4562e2c6c5fa0428.jpg",
+        "image_caption": [
+            "La selección nacional celebra su primera Copa del Mundo en Madrid. 12 de julio de 2010. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            630,
+            573,
+            927,
+            731
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La selección ha ganado siete campeonatos en los torneos de selecciones organizados por la FIFA o la UEFA: ",
+        "bbox": [
+            68,
+            855,
+            766,
+            869
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "el campeonato de la Eurocopa 1964 que se celebró en España, y cuya final se disputó en el estadio Santiago Bernabéu de Madrid, ganando a la selección de la Unión Soviética por 2-1, con tantos de Jesús María Pereda y Marcelino Martínez. ",
+        "bbox": [
+            72,
+            881,
+            939,
+            921
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "el campeonato del Torneo Olímpico de Fútbol en los Juegos Olímpicos de Barcelona 1992, cuya final se disputó en el estadio Camp Nou de Barcelona, ganando a la selección de Polonia por 3-2, con dos goles de Kiko Narváez y uno de Abelardo Fernández.   \nel campeonato de la Eurocopa 2008 que se realizó en Austria y Suiza, y cuya final se disputó en el estadio Ernst Happel de Viena, tras vencer a la selección de Alemania por 1-0, con un tanto de Fernando Torres. el campeonato de la Copa Mundial de Fútbol 2010 que se celebró en Sudáfrica, y cuya final se disputó en el estadio Soccer City de Johannesburgo, ganando a la selección de los Países Bajos por 1-0, con un gol de Andrés Iniesta en la prórroga.   \nel campeonato de la Eurocopa 2012 que se realizó en Polonia y Ucrania, y cuya final se disputó en el Estadio Olímpico de Kiev, tras vencer a la selección de Italia por 4-0, con goles de David Silva, Jordi Alba, Fernando Torres, y Juan Mata. Tras este triunfo, la selección de España fue la primera selección que revalidó el título de campeón de la Eurocopa y la primera que consiguió la triple corona con tres campeonatos consecutivos (Eurocopa 2008, Copa Mundial de Fútbol 2010, y Eurocopa 2012). Con este tercer título se convierte junto con Alemania en la más laureada de la competición.39 40   \nel campeonato de la Eurocopa 2024 disputado en Alemania, y cuya final se jugó en el Estadio Olímpico de Berlín, tras vencer a la selección de Inglaterra por 2-1, con goles de Nico Williams y Mikel Oyarzabal. Tras este triunfo, la selección de España se convirtió en la primera que ganó los siete partidos de la fase final de una Eurocopa y la máxima goleadora histórica con 15 tantos. Con este cuarto título se convierte en la más laureada de la competición.41   \nel campeonato de la Liga de Naciones de la UEFA 2022-23 que se realizó en Róterdam y Enschede, y cuya final se disputó en el estadio De Kuip de Róterdam, venciendo en la tanda de penaltis a la selección de Croacia.   \nel campeonato del Torneo Olímpico de Fútbol en los Juegos Olímpicos de Paris 2024, cuya final se disputó en el estadio parque de los Príncipes de París, ganando a la selección de Francia por 3-5, con dos goles de Fermín López, dos goles de Sergio Camello y uno de Álex Baena. ",
+        "bbox": [
+            70,
+            42,
+            936,
+            355
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La selección ha obtenido los siguientes premios y distinciones: ",
+        "bbox": [
+            68,
+            359,
+            475,
+            372
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Premio al mejor equipo del año FIFA: 2008, 2009, 2010, 2011, 2012, 2013.   \nPremio Príncipe de Asturias de los Deportes: 2010.   \nPremio Laureus al mejor equipo internacional: 2011. Premio FIFA al Juego Limpio (FIFA Fair Play): Copa Mundial de Fútbol de 2006, Copa Mundial de Fútbol de 2010, y Copa Mundial de Fútbol de 2018. ",
+        "bbox": [
+            75,
+            384,
+            934,
+            458
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Masculina amateur ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            480,
+            236,
+            495
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La selección amateur española, desaparecida hoy, tiene como mayor logro el haberse proclamado campeón de Europa en 1970 en la competición reservada a selecciones amateur, la Copa de la UEFA Amateur. ",
+        "bbox": [
+            62,
+            502,
+            936,
+            532
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Masculinas inferiores ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            553,
+            258,
+            568
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Las selecciones de fútbol de España en sus categorías inferiores han logrado múltiples títulos internacionales, entre los que destacan: ",
+        "bbox": [
+            72,
+            574,
+            910,
+            589
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Campeonato de Europa Sub-21: 5 títulos (1986, 1998, 2011, 2013, 2019). Récord. Campeonato de la Copa Mundial Sub-20: 1 título (1999). Campeonato de Europa Sub-19: 12 títulos (1952, 1954, 1995, 2002, 2004, 2006, 2007, 2011, 2012, 2015, 2019, 2024). Récord. Campeonato de Europa Sub-17: 9 títulos (1986, 1988, 1991, 1997, 1999, 2001, 2007, 2008, 2017). Récord. Meridian Cup: 3 títulos (1999, 2001, 2003). Récord. ",
+        "bbox": [
+            75,
+            599,
+            934,
+            688
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La Real Federación Española de Fútbol ha sido premiada por los resultados de las categorías inferiores de la selección de fútbol con los siguientes premios y distinciones: ",
+        "bbox": [
+            60,
+            693,
+            936,
+            723
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Premio UEFA Maurice Burlaz: 1994, 1996, 1998, 2002, 2004, 2006, 2007, 2011. Récord. ",
+        "bbox": [
+            72,
+            733,
+            719,
+            749
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Asimismo, en el Torneo Olímpico de Fútbol de los Juegos Olímpicos, en el que participan jugadores menores de 23 años, la selección de fútbol sub-23 ha logrado: ",
+        "bbox": [
+            65,
+            754,
+            932,
+            782
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "la medalla de oro en los Juegos Olímpicos de Barcelona 1992 y París 2024.   \nla medalla de plata en los Juegos Olímpicos de Sídney 2000 y de Tokio 2020. ",
+        "bbox": [
+            72,
+            793,
+            650,
+            824
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "También consiguió la medalla de plata en los Juegos Olímpicos de Amberes 1920 en la que participaron los jugadores de la selección sénior. ",
+        "bbox": [
+            63,
+            828,
+            929,
+            856
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "En el torneo de fútbol de los Juegos Mediterráneos, en el que participan jugadores menores de 20 años, la selección ha conseguido: ",
+        "bbox": [
+            67,
+            869,
+            910,
+            884
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 medallas de oro: 2005, 2009, 2018.   \n1 medalla de plata: 1995. ",
+        "bbox": [
+            75,
+            895,
+            366,
+            925
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2 medallas de bronce: 1963, y 1967. ",
+        "bbox": [
+            77,
+            42,
+            359,
+            55
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Femeninas ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            79,
+            168,
+            95
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La selección femenina42 debutó en 1971. Desde entonces ha participado en tres fases finales de la Copa del Mundo: 2015, 2019 y 2023; proclamándose campeona en la edición de 2023. Ha participado en cinco ediciones de la Eurocopa Femenina (1997, 2013, 2017, 2022 y 2025 —en la que fue finalista—). ",
+        "bbox": [
+            68,
+            102,
+            937,
+            146
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La selecciones femeninas, en la categoría absoluta y en las categorías inferiores, han conseguido los siguientes títulos: ",
+        "bbox": [
+            65,
+            156,
+            816,
+            172
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Campeonato Mundial Femenino: 1 título (2023).   \nCopa de las naciones femenina: 1 título (2023-24). Récord.   \nCampeonato Mundial Femenino Sub-20: 1 título (2022).   \nCampeonato Europeo Sub-19: 6 títulos (2004, 2017, 2018, 2022, 2023, 2024). Récord.   \nCampeonato Mundial Femenino Sub-17: 2 títulos (2018, 43 2022). Récord.   \nCampeonato Europeo Sub-17: 4 títulos (2010, 2011, 2015, 2018). ",
+        "bbox": [
+            77,
+            182,
+            707,
+            277
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Autonómicas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            300,
+            186,
+            315
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Véase también: Anexo:Historial de partidos de las selecciones autonómicas de España de fútbol ",
+        "bbox": [
+            89,
+            319,
+            690,
+            333
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Las selecciones autonómicas son los combinados representativos de las distintas federaciones territoriales y sus comunidades autónomas. En estos equipos participan jugadores profesionales nacidos en las respectivas autonomías. Estas selecciones solo pueden disputar encuentros amistosos, ya que no forman parte de la FIFA ni la UEFA. Sin embargo, los gobiernos autonómicos y diversos sectores sociales de las comunidades históricas (en especial Cataluña y País Vasco) prefieren usar el término selección nacional para referirse a sus selecciones autonómicas,44  al tiempo que reivindican su oficialidad para poder participar en torneos internacionales.45 ",
+        "bbox": [
+            68,
+            338,
+            934,
+            413
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Se da la circunstancia que algunas de las federaciones territoriales de España fueron creadas antes que la Federación Española, por lo que sus selecciones representativas nacieron antes que la selección española. Este fue el caso de la selección de Cataluña y la Selección Norte, que representaba a la extinta Federación Norte (País Vasco y Cantabria). ",
+        "bbox": [
+            68,
+            425,
+            934,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Durante el gobierno franquista, estos combinados regionales dejaron prácticamente de existir. Resurgieron a mediados de los años 1980 y, sobre todo, en los años 1990. Desde entonces es habitual que varias de las selecciones autonómicas disputen anualmente partidos amistosos de carácter internacional, coincidiendo con las fechas navideñas. ",
+        "bbox": [
+            68,
+            480,
+            934,
+            526
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Además, bienalmente se disputa la fase española de la Copa Regiones de la UEFA, con las selecciones no profesionales de las diferentes comunidades autónomas, siendo el de hoy el torneo más importante a nivel autonómico de España. ",
+        "bbox": [
+            65,
+            536,
+            932,
+            566
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "En categorías inferiores tenemos el Campeonato de España de selecciones autonómicas de fútbol que se disputa anualmente. ",
+        "bbox": [
+            63,
+            578,
+            860,
+            592
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Clubes españoles ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            619,
+            242,
+            638
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El primer club, legalmente establecido en España, fue el Cricket y Foot-Ball (Club) de Madrid fundado en 1879 pero desapareció años después,46 El 18 de diciembre de 1889 se constituyó el Real Club Recreativo de Huelva —bajo la denominación de Huelva Recreation Club— y actualmente es la entidad más antigua de todos los clubes de fútbol españoles, por lo que es denominado el «Decano del fútbol español». 15 47 Desde la entrada en vigor de la Ley 10/1990, la práctica totalidad de los clubes que compiten de forma profesional en España son, en realidad, empresas, bajo la forma jurídica de sociedades anónimas deportivas, cuya propiedad está en manos de sus accionistas. Solo cuatro clubes profesionales, Athletic Club, Fútbol Club Barcelona, Real Madrid Club de Fútbol y Club Atlético Osasuna mantienen su estructura original como sociedades deportivas controladas directamente por sus socios.48 ",
+        "bbox": [
+            68,
+            650,
+            934,
+            757
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "En cuanto a enfrentamientos, los partidos disputados entre el Real Madrid Club de Fútbol y el Fútbol Club Barcelona ostentan el honor de ser el encuentro que más veces se ha repetido en partidos oficiales en la historia del balompié español,n 4 que a su vez es la rivalidad futbolística más relevante entre clubes, y cada partido que disputan es conocido entre los medios de comunicación y los aficionados como «el Clásico», siendo uno de los encuentros entre equipos de fútbol con mayor seguimiento mundial.49 ",
+        "bbox": [
+            68,
+            768,
+            934,
+            830
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Competiciones oficiales nacionales ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            851,
+            381,
+            868
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A nivel nacional la Real Federación Española de Fútbol se encarga en la mayoría de los casos de organizar las diferentes competiciones de clubes tanto a nivel masculino, como femenino, en diversas categorías. Otras, son organizadas por diferentes federaciones regionales en el caso de categorías inferiores o de formación, mientras que algunas de máximo nivel son organizadas conjuntamente con otros estamentos privados. De igual manera se establece en categoría femenina, mientras que existen diversos colectivos como la Asociación de Futbolistas Españoles que velan por sus intereses frente a las citadas asociaciones. ",
+        "bbox": [
+            68,
+            874,
+            934,
+            918
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            42,
+            932,
+            71
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Es el caso de los Campeonatos de Liga, disputados anualmente desde que nacieran en 1929 y que son considerados como las principales competiciones del país. Son divididas por su carácter profesional o amateur, hasta concluir con las divisiones regionales y territoriales establecidas en cada zona del país. Es uno de los torneos vigentes, junto con los Campeonatos de España de Copa —también con categoría masculina y femenina—, y la Supercopa. Históricamente existieron otras competiciones de diversa índole que completaban un calendario que abarca en España desde el mes de agosto hasta el mes de junio, ambos inclusive, con un breve parón durante el período navideño. ",
+        "bbox": [
+            68,
+            83,
+            934,
+            171
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hasta un total de quince equipos han conseguido proclamarse vencedores de alguna de las competiciones oficiales de España de máximo nivel masculino: Fútbol Club Barcelona —que es el más laureado con setenta y siete títulos nacionales, y además lidera el palmarés del Campeonato de Copa con treinta y un títulos y el de la Supercopa de España con catorce títulos—, el Real Madrid Club de Fútbol —dominador del palmarés de la principal competición del Campeonato de Liga con treinta y cinco títulos para sesenta y nueve trofeos nacionales—, el Athletic Club —que completa la terna de los clubes históricos por historia y palmarés junto a los dos ya citados con treinta y cinco títulos—, el Club Atlético de Madrid —cuarto y último club en poseer más de una treintena de trofeos—, el Valencia Club de Fútbol, el Sevilla Fútbol Club, el Real Zaragoza, el Real Club Deportivo de La Coruña, la Real Sociedad de Fútbol, el Real Club Deportivo Español, el Real Unión Club, el Real Betis Balompié, el Real Club Deportivo Mallorca, el Arenas Club y el Real Valladolid Club de Fútbol. Dichas entidades acaparan los más 250 trofeos disputados en la historia del fútbol español en máxima categoría. ",
+        "bbox": [
+            67,
+            184,
+            934,
+            332
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dichas competiciones son: el Campeonato Nacional de Liga, el Campeonato de España de Copa, la Supercopa, y las extintas Copa de la Liga, Copa Eva Duarte y Copa Presidente de la Federación Española de Fútbol. ",
+        "bbox": [
+            67,
+            344,
+            932,
+            372
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Otras ciento ochenta entidades completan el palmarés del resto de competiciones nacionales en divisiones inferiores. ",
+        "bbox": [
+            67,
+            384,
+            806,
+            399
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Competiciones oficiales internacionales ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            420,
+            423,
+            437
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Los clubes españoles han registrado algunos de los mejores resultados en las competiciones internacionales de clubes. En ellas el más laureado es el Real Madrid Club de Fútbol con 35 títulos,50  siendo el mejor registro a nivel mundial, seguido de los 22 logrados por el Fútbol Club Barcelona. Mismo registro se establece en las competiciones UEFA, siendo de nuevo el equipo madrileño el más laureado con 23 títulos, seguido por los 14 títulos del F. C. Barcelona. ",
+        "bbox": [
+            68,
+            442,
+            934,
+            502
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Los madrileños son nuevamente quienes acumulan más títulos de nivel mundial con nueve.n 5 En cuanto al más prestigioso título a nivel europeo, la Liga de Campeones, el Real Madrid C. F. domina también el palmarés con quince campeonatos, mientras que en la segunda competición, la Liga Europa, es el Sevilla Fútbol Club la entidad que más veces la ha ganado con siete títulos. Ambos ostentan el récord de campeonatos consecutivos de cada una de ellas con cinco y tres respectivamente. La consecución del título de alguna de estas dos competiciones da acceso a disputar la Supercopa de Europa, donde el Real Madrid C. F. es el más laureado con seis títulos, cinco tiene el F. C. Barcelona, quien además encabeza el palmarés de las extintas Recopa de Europa (4) y Copa de Ciudades en Feria (3), la cual pese a surgir como una competición para selecciones regionales acabó por ser adoptada entre las competiciones de clubes. Esta última no se encuentra recogida en el ámbito de las competiciones UEFA, pero sí en el cómputo de competiciones oficiales internacionales al estar formado el comité de la competición por miembros de la FIFA.51 ",
+        "bbox": [
+            67,
+            514,
+            934,
+            649
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En total, los equipos españoles han ganado 85 títulos internacionales. ",
+        "bbox": [
+            68,
+            660,
+            507,
+            674
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Títulos en las competiciones internacionales actuales: ",
+        "bbox": [
+            70,
+            687,
+            408,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8 Copas Mundiales de Clubes de la FIFA (cinco del Real Madrid y tres del FC Barcelona). Récord.   \n1 Copa Intercontinental de la FIFA (Real Madrid). Récord.   \n20 Copas de Europa / Ligas de Campeones (quince del Real Madrid y cinco del FC Barcelona). Récord.   \n14 Copas de la UEFA / Ligas Europeas de la UEFA (siete del Sevilla FC, tres del Atlético de Madrid, dos del Real Madrid, una del Valencia CF y Villarreal C. F.). Récord.   \n17 Supercopas de Europa de la UEFA (seis del Real Madrid, cinco del FC Barcelona, tres del Atlético de Madrid, dos del Valencia CF, y una del Sevilla FC). Récord. ",
+        "bbox": [
+            75,
+            712,
+            936,
+            813
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Títulos en las competiciones internacionales extintas: ",
+        "bbox": [
+            70,
+            819,
+            408,
+            832
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4 Copas Intercontinentales (tres del Real Madrid (récord) y una del Atlético de Madrid).   \n7 Recopas (cuatro del FC Barcelona (récord), una del Valencia CF, una del Real Zaragoza y una del Atlético de Madrid).   \n6 Copas de Ferias (tres del FC Barcelona, dos del Valencia CF y una del Real Zaragoza). Récord.   \n5 Copas Intertoto (dos del Villarreal CF (récord), una del Valencia CF, una del Celta de Vigo y una del Málaga CF).   \n4 Copas Latinas (dos del Real Madrid y dos del FC Barcelona). Récord.   \n1 Copa Iberoamericana (Real Madrid). Récord. ",
+        "bbox": [
+            75,
+            845,
+            932,
+            935
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Instalaciones deportivas ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            99,
+            314,
+            118
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Véase también: Estadios de fútbol de España ",
+        "bbox": [
+            94,
+            129,
+            369,
+            143
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "El estadio de fútbol más antiguo de España es el Molinón, propiedad del Real Sporting de Gijón, que empezó a construirse en 1908, y en el que el primer partido se disputó en 1913. El estadio más moderno es el nuevo estadio Wanda Metropolitano, propiedad del Atlético de Madrid, que fue inaugurado en 2017 y sustituyó al antiguo estadio del Calderón.52 Como consecuencia del envejecimiento de las instalaciones y de la necesidad de buscar nuevas fórmulas de explotación, 8 de los 20 clubes de Primera División han anunciado que remodelarán sus estadios o construirán uno nuevo en los próximos años.53 ",
+        "bbox": [
+            68,
+            149,
+            657,
+            254
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "El estadio con mayor capacidad de España y de Europa es el Camp Nou, propiedad del FC Barcelona, con un aforo de 99.354 espectadores, y ha sido sede de diversos acontecimientos como el partido inaugural del Campeonato del Mundo de fútbol de 1982, y también de la final del torneo de fútbol en los Juegos Olímpicos de Barcelona de 1992. El estadio con menor capacidad es el de Ipurúa, propiedad de la Sociedad Deportiva Eibar con una capacidad de 6.267 espectadores. Sin embargo, el estadio Manuel Martínez Valero, propiedad del Elche Club de Fútbol, es el que cuenta con el terreno de juego más grande cuyas medidas son de $1 0 8 \\mathrm { ~ x ~ } 7 0$ metros. En contraposición, el campo de fútbol de Vallecas, propiedad del Rayo Vallecano de Madrid, es el estadio que tiene el terreno de juego más pequeño ( $1 0 0 \\mathrm { ~ x ~ } 6 5$ metros).54 ",
+        "bbox": [
+            70,
+            266,
+            665,
+            324
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/423f9587917bff25a37453f70cc971875806b93d04a99a7724a944a6dcd69710.jpg",
+        "image_caption": [
+            "Estadio del FC Barcelona: Camp Nou; el estadio de mayor capacidad en Europa. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            678,
+            155,
+            929,
+            269
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            67,
+            326,
+            936,
+            385
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Actualmente hay 12 estadios de fútbol de España de categoría 4, el máximo otorgado por la UEFA, que son: el estadio Camp Nou, el estadio Santiago Bernabéu, el Estadio Benito Villamarín, el estadio Olímpico de la Cartuja, el estadio Olímpico Lluís Companys, el estadio de San Mamés, el estadio de Mestalla, el estadio Ramón Sánchez-Pizjuán, el estadio Cornellà-El Prat, el estadio de Anoeta, el estadio de La Rosaleda y el estadio Metropolitano. ",
+        "bbox": [
+            68,
+            396,
+            934,
+            456
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Economía ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            484,
+            171,
+            502
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "En términos económicos, durante el año 2013, el balompié profesional generó más de 7.600 millones de euros contabilizando los efectos directos, indirectos e inducidos, lo que representó un $0 { , } 7 5 \\%$ del PIB español. El impacto directo del fútbol profesional alcanzó más de 3.600 millones de euros, de los cuales más del $7 5 \\%$ fueron resultado del gasto de los aficionados en productos y servicios asociados al mismo. La contribución indirecta del fútbol profesional al PIB español alcanzó los 2.995 millones de euros siendo los sectores más beneficiados los de actividades culturales, recreativas y deportivas, telecomunicaciones, construcción e inmobiliarias y restauración entre otros. Además, 943 millones de euros fueron generados como consecuencia de los efectos inducidos asociados al gasto privado de las personas empleadas indirectamente por el fútbol profesional en España.55 Sin embargo, los clubes de fútbol españoles presentan cada vez más diferencias en términos económicos y de resultados, y tienen una precaria situación de solvencia financiera. Los clubes españoles de Primera División en la temporada 2011-2012 se enfrentaron a una deuda de 3.300 millones de euros.56 Por este motivo la comisión delegada de la Liga Nacional de Fútbol Profesional elaboró, en colaboración con CSD, y aprobó en 2013 una nueva normativa de control económico financiero para garantizar la sostenibilidad económica-financiera del fútbol profesional.57 ",
+        "bbox": [
+            67,
+            514,
+            934,
+            694
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Según los datos de la Liga de Fútbol y el Consejo Superior de Deportes, en el último trimestre de 2016 la deuda de los clubes de fútbol ascendía a 230 millones de euros con la Agencia Tributaria y a 18 millones con la Seguridad Social. De los casi cuarenta equipos de ambas divisiones, seis (Atlético de Madrid, Español, Valladolid, Zaragoza, Elche y Mallorca) concentraron el $7 0 \\ \\%$ de la deuda. En enero de 2013 la deuda de los clubes con la Agencia Tributaria ascendió a 650 millones y desde entonces se redujo de forma paulatina. En el primer trimestre de 2017 el Congreso aprobó solicitar al Tribunal de Cuentas la fiscalización de la deuda que los clubes de fútbol de primera y segunda división mantienen con Hacienda y con la Seguridad Social.58 ",
+        "bbox": [
+            68,
+            707,
+            934,
+            796
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "La COVID-19 causó un gran impacto en la economía de los clubes del fútbol español. Según datos presentado por LaLiga, los ingresos se redujeron 2.013 millones de euros entre los equipos de Primera y Segunda División en las temporadas 2019-20 y 2020-21, 1.030 millones netos con la reducción de gastos en 984 millones.59 Con la finalidad de conseguir recursos financieros para paliar la grave situación económica de los clubes, en una asamblea general extraordinaria de LaLiga se aprobó el acuerdo con el fondo de capital riesgo CVC Capital Partners, que ofreció 2.100 millones de euros a cambio de la adquisición de alrededor de un $1 1 \\ \\%$ del negocio audiovisual de la competición durante un período de 50 años. Sin embargo, el acuerdo no fue unánime dado que 38 clubes la validaron, pero Athletic Club, FC Barcelona, Real Madrid, y Real Oviedo no se sumaron al acuerdo.60 Las normas para la inversión de estos fondos financieros se aplicaran con la siguiente distribución: $1 5 \\%$ para refinanciar la deuda contraída a causa de la Covid-19 (364,5 millones de euros), otro $1 5 \\%$ para mejorar el límite salarial (364,5 millones), con opción a fraccionarlo en tres temporadas, y un $7 0 \\%$ (1.701 millones de euros) para financiar infraestructuras o desarrollo de nuevos negocios. ",
+        "bbox": [
+            68,
+            808,
+            934,
+            914
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            42,
+            932,
+            86
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Arbitraje ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            114,
+            166,
+            133
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Fútbol femenino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            161,
+            236,
+            179
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A diferencia del fútbol masculino, el balompié femenino ha sido un deporte amateur en España, ya que los estatutos de la RFEF no contemplan la existencia de licencias profesionales para las mujeres.61 62 Sin embargo, en la temporada 2021-22 la creación de la Liga Ellas, una competición con la participación de 16 equipos que está inspirada en el modelo de la liga masculina, inicia el proceso de profesionalización del fútbol femenino.63 Existen tres competiciones de ámbito nacional, la Primera División Femenina, 64  la Copa de la Reina, y la Supercopa de España femenina, en las que participan clubes con estructura semiprofesional. ",
+        "bbox": [
+            67,
+            193,
+            934,
+            268
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "La primera referencia del fútbol femenino en España fue un partido que se jugó en Barcelona el 31 de mayo de 1914.65 El Spanish girl's club, fue el primer equipo femenino de fútbol en España.66 67 68 69 70 ",
+        "bbox": [
+            65,
+            281,
+            936,
+            311
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Los primeros equipos y las primeras competiciones oficiosas de fútbol femenino en España surgieron en la década de 1970.65 El 8 de mayo de 1971 se inició el I Campeonato Regional de Cataluña de Fútbol Femenino, una competición de liga a doble vuelta que finalizó el 5 de marzo de 1972.65 Sin embargo, el fútbol femenino no fue reconocido oficialmente por la Real Federación Española de Fútbol hasta 1980, con la creación del Comité Nacional de Fútbol Femenino.65 Tras el reconocimiento federativo, la primera competición nacional oficial fue el Campeonato de España (Copa de la Reina), creado en 1983. La Liga nacional femenina comenzó a disputarse la temporada 1988-89, y actualmente se conoce como Primera Iberdrola.71 ",
+        "bbox": [
+            67,
+            323,
+            934,
+            415
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A principios de los años 2000 el fútbol femenino en España vivió uno de los momentos de mayor desarrollo y popularidad, gracias a la creación de la Superliga, la progresiva implicación de los equipos profesionales masculinos y la llegada de jugadoras mediáticas. Muestra de este hecho, la temporada 2002-03 el Athletic Club logró proclamarse campeón de liga en el estadio de San Mamés ante 35.000 espectadores.72 En abril de 2017, el derbi entre Valencia y Levante Unión Deportiva se disputó en el Estadio de Mestalla ante 17.000 espectadores.73 En enero de 2019 el partido de la Copa de la Reina entre los equipos femeninos del Athletic Club y el Atlético de Madrid congregó a 48.121 asistentes.74 En el partido de Liga disputado en el estadio Wanda Metropolitano entre el Atlético de Madrid y el FC Barcelona en marzo de 2019, asistieron 60.739 espectadores, que fue un récord histórico de mayor asistencia en un encuentro de clubes femeninos de fútbol en Europa.75 76 77 ",
+        "bbox": [
+            67,
+            427,
+            934,
+            549
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Licencias de fútbol femenino por comunidad autónoma y año ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            42,
+            610,
+            59
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e786231d1e7c8ebf530bdf10ead041d9a57d973ee0b3bab6e3c90d11869bcc4.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "$^ *$ Solo contabiliza las licencias femeninas de categoría absoluta $^ { * * }$ Suma de las licencias de los años 2012 y 2013 Población potencial como el número de mujeres con edades comprendidas entre los 5 y los 40 años "
+        ],
+        "bbox": [
+            68,
+            66,
+            942,
+            730
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fútbol sala ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            808,
+            183,
+            826
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "El fútbol sala es una de las disciplinas deportivas más practicadas en España. Según un estudio del CIS por encargo del Consejo Superior de Deportes (CSD), el $^ { 9 , 6 \\% }$ de las personas (1.907.520) entre 7 y 64 años que practican deporte en España juegan al fútbol sala. Después del fútbol es uno de los deportes favoritos y más practicados por los escolares españoles.87 ",
+        "bbox": [
+            68,
+            839,
+            934,
+            885
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "El fútbol sala se introdujo en España en la década de los años 70 del siglo pasado. En 1977, se jugó por primera vez, con carácter semioficial, el Campeonato de Castilla de Clubes de fútbol sala. El Consejo Superior de Deportes (CSD), decidió que dependiera del Comité Nacional de Fútbol Aficionado, de la Real Federación Española de Fútbol (RFEF). Al principio de los años 80 se iniciaron las primeras competiciones nacionales a pesar de las dificultades y polémicas. En 1982 se creó la Federación Española de fútbol sala (FEFS), que se separó de la RFEF. Posteriormente, los equipos de fútbol sala de la máxima categoría de la FEFS y de la RFEF crearon en 1989 la Liga Nacional de Fútbol Sala (LNFS), reconocida por la RFEF en el año 1990.88 La organización de la competición de liga del fútbol sala en España está integrado por un sistema piramidal de ligas (divisiones) interconectadas entre sí. La Primera División y la Segunda División son organizadas por la Liga Nacional de fútbol sala siendo estas 2 categorías profesionales. El tercer nivel, Segunda División B, es gestionado por el Comité Nacional de fútbol sala (CNFS) de la Real Federación Española de Fútbol. La Tercera División es una categoría nacional pero gestionada por las federaciones territoriales al igual que las divisiones regionales. ",
+        "bbox": [
+            67,
+            41,
+            934,
+            191
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Actualmente, la LNFS es una de las ligas más importantes del mundo en cuanto a su modelo de funcionamiento en materia de competición, éxito deportivo, formación, marketing y comunicación.89 90 Sin embargo, también ha sido cuestionado este modelo porque como consecuencia de la crisis económica, que ha repercutido en una disminución de los ingresos de las empresas patrocinadoras, y de la mala gestión se ha complicado la viabilidad de negocio de algunas entidades de larga trayectoria que han desaparecido.91 Por otra parte, en cuanto a los éxitos deportivos, los equipos de los clubes de fútbol sala de la LNFS han obtenido diversos títulos internacionales como la Liga de Campeones de la UEFA de fútbol sala (Inter Fútbol Sala 5 títulos, FC Barcelona 4 títulos y Playas de Castellón Fútbol Sala 2 títulos), la Recopa de Europa de Fútbol Sala (Inter Fútbol Sala 1 título, ElPozo Murcia 1 título, Prone Lugo Asociación Deportiva 1 título, Santiago Futsal 1 título) y la Copa Intercontinental de fútbol sala (Inter Fútbol Sala 5 títulos, Caja Segovia Fútbol Sala 1 título). ",
+        "bbox": [
+            67,
+            203,
+            934,
+            338
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Además de la competición de liga hay otras competiciones oficiales de los clubes de fútbol sala. La Copa de España de fútbol sala es organizada por la LNFS desde el año 1990, y es disputada por los ocho primeros equipos clasificados al terminar la primera ronda de liga. La Copa del Rey de fútbol sala es una competición organizada desde el año 2010 entre la LNFS y la RFEF, representada a través del CNFS, que disputan todos los clubes de Primera y Segunda División, excluyendo a los filiales, y además se invitan a equipos de la Segunda División B. La Supercopa de fútbol sala es un torneo organizado por la LNFS desde el año 1990 que actualmente enfrenta al campeón de la Primera División de la Liga con el campeón de la Copa del Rey. ",
+        "bbox": [
+            68,
+            350,
+            934,
+            439
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "La Selección de fútbol sala de España ha participado en las nueve ediciones disputadas de la Copa Mundial de fútbol sala de la FIFA, y ha sido dos veces campeona $( 2 0 0 0 \\mathrm { ~ y ~ } 2 0 0 4 )$ ) y tres veces subcampeona (1996, 2008 y 2012). También ha participado en las doce ediciones disputadas de la Eurocopa de Fútbol Sala, siendo campeona siete veces (1996, 2001, 2005, 2007, 2010, 2012, y 2016), y dos veces subcampeona (1999, 2018). España fue la organizadora de la edición de la Copa Mundial de fútbol sala de la FIFA de 1996, de la Eurocopa de fútbol sala de 1996 y de la Eurocopa de fútbol sala de 1999. ",
+        "bbox": [
+            67,
+            450,
+            934,
+            524
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fútbol playa ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            552,
+            198,
+            571
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "En España el fútbol playa se inició en 1996 como un espectáculo de divertimento en partidos de exhibición en los que participaban jugadores de fútbol retirados, como Lobo Carrasco, que junto a jóvenes como Ramiro Amarelle fueron los pioneros que ayudaron a expandir esta modalidad. Estos exfutbolistas integraron la primera selección española de fútbol playa masculina, y posteriormente surgieron jóvenes jugadores con nuevos conceptos técnicos y tácticos que impulsaron el desarrollo del fútbol playa en España. Desde entonces la selección española masculina ha conseguido varios éxitos, y en su palmarés tiene cuatro Copas de Europa de fútbol playa (1999, 2008, 2009, 2014), cinco Euro Beach Soccer League (1999, 2000, 2001,2003, 2006) un Mundialito (2013), y tres subcampeonatos de la Copa Mundial de fútbol playa (2003, 2004, y 2013).92 La selección femenina también ha conseguido una Copa de Europa de fútbol playa. ",
+        "bbox": [
+            67,
+            583,
+            934,
+            703
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Las competiciones de fútbol playa organizadas por la RFEF tanto en categoría masculina como femenina, son el Campeonato de España de Selecciones Autonómicas absolutas,93  la Liga Nacional de Fútbol Playa,94  y la Copa RFEF. 95 ",
+        "bbox": [
+            65,
+            714,
+            932,
+            745
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Medios de comunicación ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            771,
+            319,
+            790
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "La configuración del fútbol español como fenómeno social y espectáculo deportivo se ha fundamentado en una amplia cobertura informativa en los medios de comunicación (periódicos, radio, televisión, internet y redes sociales).96 Además, un aspecto característico, y diferencial respecto a otros países, es el predominio de las noticias sobre fútbol en los medios de comunicación españoles en detrimento del resto de noticias deportivas, como consecuencia de factores culturales y económicos.97 ",
+        "bbox": [
+            68,
+            804,
+            932,
+            864
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "El 1 de noviembre de 1870 el periódico jerezano El progreso publicó en su sección local una noticia que es la primera referencia escrita sobre el fútbol en España.98 Sin embargo, la primera crónica periodística de un partido jugado en España corresponde a un encuentro que se disputó con fines benéficos en Bilbao el 29 de junio de 1889 por dos equipos ingleses: el Barmston Rangers y un equipo formado por marineros de los buques Abydos, Nina, Dawdon y Harven. La crónica fue publicada en el Sunderland Daily Echo and Shipping Gazette, y enumeraba las dos alineaciones, refería la hora de inicio del encuentro, el resultado, la recaudación y el público asistente.99 ",
+        "bbox": [
+            68,
+            876,
+            934,
+            922
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            936,
+            72
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Inicialmente la información balompédica, como otras de carácter deportivo, se empezó a publicar en la 'prensa escrita española' por influencia del periodismo anglosajón y francés. A finales del siglo x ix y principios del x x surgieron varias publicaciones especializadas en deportes de periodicidad quincenal o semanal con noticias de varios deportes incluidas las que hacían referencia al fútbol, y la única que todavía se continua publicando es el Mundo Deportivo, que comenzó en 1906 como una publicación semanal y en 1929 se convirtió en diaria.100 101 Durante el siglo x x la información de fútbol en la prensa escrita española apareció tanto en la sección de deportes de los diarios de información general, como en los diarios deportivos especializados (Mundo Deportivo, Gol, Marca, Dicen, As, Sport), en la Hoja del Lunes, y en las revistas gráficas especializadas (Don Balón,Tanteador, Azul y Blanco, Guía Helmántica, La Gaceta del Quinielista).100 101 ",
+        "bbox": [
+            67,
+            83,
+            934,
+            204
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Actualmente se publican varios diarios deportivos, que tienen ediciones en papel y también digitales, como Mundo Deportivo, Marca, As, Sport, Superdeporte, L'Esportiu, Estadio Deportivo, El Decano Deportivo, DxT Campeón, 102 y el fútbol es el tema principal y más destacado.103 104 Además de los diarios deportivos, y suplementos de los periódicos de información general, también hay multitud de medios digitales que aportan una gran cantidad de información sobre fútbol como DonBalon, Noticias de fútbol 90min, Futbolistadigital, Laligaennumeros, Panenka, La Futbolteca, Fútbol en la TV, Goal España, Defensa Central, Diario Bernabeu Digital, Salmon Palangana, Deportes y Finanzas, Abierto 24 horas, Futbolitis, Wanderers Fútbol, El Enganche, Ecos del balón, FC Barcelona noticias, Weloba, Los otros 18, La libreta de Van Gaal, Merca Fútbol, Rayo Herald, Mi Rondo, Marcador Internacional, Me gusta el fútbol, El Apunte, Blog Uría, Underground Football, Revista Libero y otros.105 106 ",
+        "bbox": [
+            68,
+            216,
+            934,
+            337
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Según la Encuesta General de Medios (EGM) (octubre de 2017 a mayo de 2018) de la Asociación para la Investigación de Medios de Comunicación (AIMC) el diario Marca era el que tenía más lectores diarios (1.773.000) de todos los diarios de información general y deportivos especializados. Otros diarios deportivos especializados también tenían un elevado número de lectores diarios como As (872.000), El Mundo Deportivo (407.000) y Sport (393.000).107 ",
+        "bbox": [
+            68,
+            349,
+            934,
+            409
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "El 15 de mayo de 1927 se realizó la primera 'retransmisión radiofónica' de un partido de fútbol en España, y fue la final de Copa disputada entre el Real Unión de Irún y el Club Arenas de Getxo. El partido fue emitido por Unión Radio.108 La afición al balompié también creció gracias a la radio.109 El fragmento más conocido de la historia de la radio deportiva en España fue el gol de Zarra en el encuentro entre la selección de España y la de Inglaterra disputado en la Copa Mundial de Fútbol de 1950 que retransmitió Matias Prats. 110 ",
+        "bbox": [
+            68,
+            420,
+            934,
+            496
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "El género de 'programas radiofónicos deportivos en España', cuyo contenido principal trata de fútbol, se divide esquemáticamente entre los programas deportivos diarios de medianoche y los programas deportivos del fin de semana.111 Esta división en la radio española se produce en la década de los 50, cuando nace además el primer programa deportivo del fin de semana. El 12 de octubre de 1952 comenzó a emitirse Carrusel Deportivo que fue un programa pionero y actualmente decano radiofónico deportivo del fin de semana. Entre los programas deportivos diarios de medianoche cabe destacar Supergarcía que se emitió desde 1982 hasta 2002, y El larguero que comenzó sus emisiones en 1989 y sigue todavía en antena. Como figuras emblemáticas de la radiodifusión deportiva destacan Matias Prats, Vicente Marco, José Ramón de la Morena, José María García entre otros. En la actualidad, junto a los programas radiofónicos deportivos ya comentados existe una oferta muy variada de programas como Tiempo de juego, Radioestadio, Tablero deportivo, Al primer toque, El transistor, El Marcador, El partidazo de COPE entre otros.112 Además, Radio Marca es una radio especiaiizada en deportes, que ofrece abundante información sobre fútbol.113 ",
+        "bbox": [
+            67,
+            509,
+            934,
+            660
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "El mayor impacto del fútbol en España está en la 'television' donde consigue audiencias enormes: el 15 por ciento de la población sigue de manera habitual el balompié cada Jornada, cifra que se eleva a 20 por ciento cuando se trata de partidos de la Eurocopa.114 El primer partido televisado en España fue el 24 de octubre de 1954 en una etapa de pruebas realizado por Televisión Española (TVE), y fue un partido disputado entre el Real Madrid y el Racing de Santander. Sin embargo, el primer partido de fútbol televisado por TVE para toda la audiencia fue el 15 de febrero de 1959, y fue un partido disputado por el Real Madrid y el Fútbol Club Barcelona.115 116 117 ",
+        "bbox": [
+            68,
+            671,
+            934,
+            761
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Desde el inicio ya se plantearon discusiones sobre los efectos de la televisión en el desarrollo organizativo del fútbol, y especialmente en la asistencia de espectadores a los estadios. Finalmente en 1962 se estableció un acuerdo entre TVE, los clubes de fútbol y la Real Federación Española de Fútbol (RFEF), de modo que TVE podía transmitir un partido en directo del Campeonato de Liga.118 El número de encuentros por temporada se pactaba previamente y los partidos se retransmitían cuando el resto de la jornada había finalizado para no perjudicar la asistencia de otros campos de juego. De esta manera, el Campeonato de Liga y TVE fueron los primeros organismos europeos en acordar la emisión regular de partidos de liga semanalmente. Este acuerdo se revisaba anualmente y establecía el número máximo de partidos que la televisión podía emitir y obligaba a que los partidos televisados se debían programar al finalizar la jornada.118 ",
+        "bbox": [
+            67,
+            774,
+            934,
+            894
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "En 1983 con la aparición de las televisiones autonómicas aparecieron las primeras disputas por los derechos de retransmisión del fútbol, y en 1987 estas consiguieron un contrato que les permitía compartir los derechos con TVE.119 En 1988 se aprobó la Ley de la Televisión Privada,120 y en 1989 finalizó el monopolio de la televisión pública y se inició el período de la competencia televisiva de las retransmisiones futbolísticas. En 1990 las televisiones autonómicas a través de la FORTA y la cadena de pago Canal Plus llegaron a un acuerdo durante un período de 8 años para compartir los derechos televisivos de la Liga.118 Las televisiones autonómicas retransmitían un partido los sábados, y la cadena de pago un partido los domingos con la señal codificada. Sin embargo, la lucha por los derechos del fútbol se agravó con la aparición de la televisión digital por satélite, y la pugna entre los dos principales operadores que eran Canal Satélite Digital y Vía Digital. En 1997 se aprobó la Ley reguladora en las emisiones y retransmisiones de competiciones y acontecimientos deportivos, también conocida como la “Ley del Fútbol”, por la que el fútbol era considerado un acontecimiento de «interés general» e imponía la emisión televisiva en abierto y gratis de un partido de Liga por jornada.121 En 1997 se creó la sociedad Audiovisual Sport, una agrupación de ambas operadoras junto con Televisió de Catalunya (TV3), que adquirió los derechos de la Liga de primera y segunda división, y de la Copa desde la temporada 1998/99 hasta la temporada 2002/03.118 En 2006 Mediapro se incorporó a la compra de los derechos televisivos del fútbol, y esto condicionó su integración a Audiovisual Sport.118 No obstante, en 2007 Audiovisual Sport demandó a Mediapro por incumplimiento de las normas de contrato que firmó con Sogecable. En 2009 Mediapro y Sogecable acordaron compartir los derechos de la Liga durante 3 años, pero persistieron los conflictos. En 2010 se aprobó la Ley General de la Comunicación Audiovisual que por primera vez regulaba el período de tiempo y la forma de gestión de los derechos futbolísticos.118 La intensa disputa por los derechos de retransmisión de la Liga Nacional de Fútbol Profesional refleja la pugna entre grupos mediáticos con elevados intereses económicos, junto a intervenciones políticas. Este continuo conflicto por los derechos televisivos demuestra la enorme importancia del fútbol como elemento estratégico en la programación de las cadenas de televisión españolas consecuencia de su atractivo para las audiencias y de su relevancia como contenido de entretenimiento de alta impacto social118 El coste total para los operadores por emitir todo el fútbol de pago en la temporada 2018/19 asciende a 1.310 millones de euros.122 Actualmente Movistar tiene los derechos de la Liga y la Copa hasta el año 2019, y La Liga sacará a concurso el trienio de 2019-2020 entre los diferentes operadores.123 ",
+        "bbox": [
+            67,
+            42,
+            934,
+            393
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Además de la retransmisión de los partidos de fútbol, también se han emitido programas de resúmenes futbolísticos en televisión. En 1972 se inició el programa pionero Estudio estadio que presentaba un resumen de los partidos de la Liga, que fue emitido por TVE hasta 2005, y se reanudó de nuevo en 2009. En 1990 empezó a emitirse El día después en Canal $^ +$ (España) que también repasaba la jornada futbolística pero con un tono desenfadado, y centrándose en situacions curiosas.124 ",
+        "bbox": [
+            68,
+            404,
+            934,
+            464
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Actualmente la oferta de programas de televisión, tanto de la televisión en abierto como la de pago, sobre fútbol es muy numerosa con resúmenes de la jornada futbolística, análisis de los partidos, actualidad de los clubes, fichajes, controversias y polémicas, como Estudio estadio, Fiebre Maldini, Directo GOL entre otros. Además, también existen canales deportivos específicos de fútbol como Movistar Fútbol o Bein LaLiga y canales de televisión oficiales de los clubes, como Barça TV y Real Madrid TV. 125 ",
+        "bbox": [
+            68,
+            476,
+            934,
+            536
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Además, en los últimos años la cobertura informativa del balompié entre los seguidores también se ha extendido a Internet a través de los ordenadores personales, el móvil, y las redes sociales, y han restado protagonismo a los medios convencionales. Los clubes de fútbol cada vez tienen más presencia en Google+, YouTube, Instagram, Facebook, o Twitter, con un gran número de seguidores.126 Aproximadamente 6 de cada 10 españoles afirma utilizar las redes sociales para informarse sobre deporte y entre los interesados en fútbol el $56 \\%$ de los usuarios utilizan internet a través de ordenadores personales, el $3 9 \\%$ de las redes sociales, y el $3 4 \\%$ del móvil.127 En el conjunto de las redes sociales en el entorno digital el FC Barcelona es el club con un mayor número de seguidores.128 129 130 131 ",
+        "bbox": [
+            68,
+            547,
+            932,
+            640
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            667,
+            216,
+            685
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Portal:Fútbol en Europa. Contenido relacionado con Fútbol en Europa. Portal:Deporte en España. Contenido relacionado con Deporte en España.   \nCampeonato Nacional de Selecciones Autonómicas   \nAnexo:Clubes de fútbol de España por palmarés ",
+        "bbox": [
+            75,
+            700,
+            650,
+            762
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Notas ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            780,
+            129,
+            796
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. Siendo éstos los campeonatos de Primera y Segunda División de España.   \n2. Alineó a los siguientes jugadores: Ochoa (México), Adrián Ramos (Colombia), Ingason (Islandia), Gastón Silva (Uruguay), Hongla (Camerún), Wakaso (Ghana), Andreas Pereira (Brasil), Foulquier (Francia), Uche Agbo (Nigeria) y Carcela (Marruecos).   \n3. En 2016 el F. C. Internazionale Milano (club que ya había incurrido en el caso con anterioridad), y el Udinese Calcio jugaron de inicio con once jugadores no nacidos en el país (http://www.marca.com/futbol/liga-italiana/2016/04/24/571c0 77fca4741e53d8b4599.html), Italia, siendo la primera vez en la historia del campeonato transalpino que ninguno de los 22 jugadores era nacional.   \n4. Por delante de los Real Madrid-Athletic Club y los Real Madrid-Atlético de Madrid. ",
+        "bbox": [
+            67,
+            813,
+            937,
+            937
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. «Consumo de contenidos deportivos en España. Los diez deportes más seguidos» (http://ww w.expansion.com/2013/10/03/entorn o/1380799150.html). ",
+        "bbox": [
+            73,
+            117,
+            349,
+            180
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Expansión.com. 13 de marzo de 2015. Consultado el 22 de junio de 2017. ",
+        "bbox": [
+            89,
+            181,
+            347,
+            217
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2. «Hábitos de consumo de contenidos deportivos» (https://web. archive.org/web/20170923193759/h ttp://www.diesl.com/2013/10/04/habi tos-de-consumo-de-contenidos-dep ortivos/). diesl.com. Archivado desde el original (http://www.diesl.c om/2013/10/04/habitos-de-consumo -de-contenidos-deportivos/) el 23 de septiembre de 2017. Consultado el 22 de junio de 2017. ",
+        "bbox": [
+            73,
+            220,
+            347,
+            359
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "3. «Memoria 2016. Licencias y clubes» (https://web.archive.org/we b/20170923193711/http://www.csd. gob.es/csd/asociaciones/1fedagclu b/03Lic/). Consejo Superior de Deportes (CSD). Archivado desde el original (http://www.csd.gob.es/csd/ asociaciones/1fedagclub/03Lic/) el 23 de septiembre de 2017. Consultado el 23 de septiembre de 2017. ",
+        "bbox": [
+            73,
+            362,
+            349,
+            500
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "4. Asociación para la Investigación de Medios de Comunicación (ed.). «El Real Madrid: líder en afición y venta de productos» (https://web.archive.o rg/web/20170519213745/http://ww w.aimc.es/El-Real-Madrid-lider-en-a ficion-y.html#). Archivado desde el original (http://www.aimc.es/El-RealMadrid-lider-en-aficion-y.html) el 19 de mayo de 2017. Consultado el 20 de mayo de 2017. ",
+        "bbox": [
+            73,
+            500,
+            349,
+            640
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "5. Consultora Kpmg. Diario La República, ed. «El Real Madrid es el equipo de fútbol que tiene más hinchas en sus redes sociales» (htt ps://www.larepublica.co/internet-eco nomy/el-real-madrid-es-el-equipo-d e-futbol-que-tiene-mas-hinchas-en-s us-redes-sociales-2820572). Consultado el 1 de julio de 2019. ",
+        "bbox": [
+            72,
+            644,
+            349,
+            755
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "6. Centro de Investigaciones Sociológicas (CIS) (ed.). «Hábitos deportivos IV. Estudio número 2.833. Marzo-abril 2010» (https://w ww.cis.es/cis/export/sites/default/-Ar chivos/Marginales/2820_2839/2833/ Es2833.pdf). Consultado el 23 de agosto de 2015. ",
+        "bbox": [
+            73,
+            760,
+            349,
+            859
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7. JotDown Cultural Magazine (ed.). «Mapa de las aficiones del fútbol español» (http://www.jotdown.es/20 14/09/mapa-de-las-aficiones-del-fut bol-espanol/). Consultado el 23 de agosto de 2015. ",
+        "bbox": [
+            73,
+            863,
+            349,
+            913
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            381,
+            109,
+            640,
+            134
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "8. Nespereira, Mario (16 de diciembre de 2018). «El fútbol llegó primero a Vigo» (https://www.abc.es/espana/g alicia/abci-futbol-llego-primero-vigo201812160045_noticia.html). ABC (Diario ABC). Consultado el 20 de diciembre de 2018. ",
+        "bbox": [
+            366,
+            137,
+            640,
+            225
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "9. Rodríguez, Salvador (6 de julio de 2012). «Vigo, cuna del fútbol español» (https://www.farodevigo.e s/deportes/2012/07/05/vigo-cuna-fut bol-espanol/662956.html). El Faro de Vigo (Prensa Ibérica). Consultado el 22 de diciembre de 2018. ",
+        "bbox": [
+            364,
+            228,
+            640,
+            328
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "10. Allegue Martínez, Ramón (17 de febrero de 2019). «El Relleno, la cuna del \"foot ball\" » (https://www.fa rodevigo.es/celta-de-vigo/2019/02/1 7/relleno-cuna-foot-ball/2053134.ht ml). El Faro de Vigo (Prensa Ibérica). Consultado el 18 de febrero de 2019. ",
+        "bbox": [
+            357,
+            331,
+            640,
+            431
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "11. Luis Palacios Bañuelos, \"Principios educativos de la ILE en educación\", en La España soñada. José Castillejo, un regenerador desde la Institución Libre de Enseñanza. Ciudad Real: Diputación provincial, 2019, p. 196. ",
+        "bbox": [
+            357,
+            434,
+            640,
+            522
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "12. «La tierra en la que se jugó por primera vez al fútbol en España está en el Museo» (https://rfef.es/e s/noticias/tierra-que-se-jugo-primera -vez-al-futbol-espana-esta-museo). RFEF. 19 de septiembre de 2014. Consultado el 26 de junio de 2024. ",
+        "bbox": [
+            357,
+            526,
+            640,
+            612
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13. Florido, Eduardo (16 de abril de 2024). «Historia y controversia: Aparece una reseña de un primer partido de fútbol en Jerez en 1869». Diario de Sevilla (Grupo Joly). ",
+        "bbox": [
+            357,
+            616,
+            640,
+            678
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "14. Página oficial de la LFP (ed.). «Año fundación del Recreativo de Huelva.» (https://web.archive.org/w eb/20080418072641/http://www.lfp. es/competiciones/2007-08/primera/ equipo.asp?equ=rhu). Archivado desde el original (http://www.lfp.es/c ompeticiones/2007-08/primera/equi po.asp?equ=rhu) el 18 de abril de 2008. Consultado el 17 de diciembre de 2007. ",
+        "bbox": [
+            357,
+            680,
+            640,
+            818
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "15. cihefe.es (ed.). «La oficialización del “Huelva Recreation Club” en 1889: Decano del fútbol español» (http://w ww.cihefe.es/cuadernosdefutbol/201 0/01/la-oficializacion-del-huelva-recr eation-club-en-1889-decano-del-fut bol-espanol/). Consultado el 25 de agosto de 2018. ",
+        "bbox": [
+            356,
+            823,
+            640,
+            922
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "16. fcf.cat. «Federació Catalana de Futbol. Historia/ Presidentes» (htt p://fcf.cat/es/historia). Consultado el 17 de agosto de 2018. ",
+        "bbox": [
+            648,
+            109,
+            932,
+            161
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "17. The Rec.Sport.Soccer Statistics Foundation. «Campeonato Regional Centro 1902-03» (http://www.rsssf.c om/tabless/span-centrchamp.html#1 903). Consultado el 18 de agosto de 2017. ",
+        "bbox": [
+            650,
+            163,
+            932,
+            238
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "18. Diario El Imparcial (ed.). «El football, un deporte grosero y peligroso» (http://hemerotecadigital. bne.es/issue.vm?id=0026769474&p age=19&search=football&lang=es). Consultado el 23 de marzo de 2016. ",
+        "bbox": [
+            650,
+            242,
+            932,
+            317
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "19. Diario El País (ed.). «Peligros del football en Inglaterra» (http://hemer otecadigital.bne.es/issue.vm?id=000 1758136&page $\\Xi \\mathrm { { } }$ 2&search=football& lang=es). p. 2. Consultado el 23 de marzo de 2016. ",
+        "bbox": [
+            648,
+            320,
+            932,
+            395
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "20. «Historias de fútbol. La Federación Española de fútbol (I)» (http://lafutb olteca.com/la-federacion-espanolade-futbol-i/). La Futbolteca.com Enciclopedia del Fútbol Español. Consultado el 19 de mayo de 2016. ",
+        "bbox": [
+            648,
+            397,
+            932,
+            473
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "21. Xavier Pujadas y Carles Santacana, 2001, p. 163. ",
+        "bbox": [
+            648,
+            476,
+            932,
+            502
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "22. Félix Martialay, 1996. ",
+        "bbox": [
+            648,
+            504,
+            825,
+            516
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "23. Diario ABC (ed.). «Así nació la Liga de fútbol que hoy mueve miles de millones de euros» (http://www.abc. es/archivo/20131123/abci-origenes-l iga-futbol-espana-201311231428.ht ml). Consultado el 5 de diciembre de 2017. ",
+        "bbox": [
+            650,
+            520,
+            932,
+            606
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "24. elmundo.es (ed.). «El Athletic, otra vez Athletic» (https://www.elmundo. es/pais-vasco/2016/05/30/574b1419 e2704e93708b4575.html). Consultado el 18 de diciembre de 2018. ",
+        "bbox": [
+            650,
+            610,
+            932,
+            685
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "25. elconfidencial.com (ed.). «La “fúria española”: así utilizó Franco el fútbol y así le respondieron los nacionalistas» (https://www.elconfid encial.com/alma-corazon-vida/2016- 02-22/futbol-espanol-furia-espanolafranco-dictadura-antifranquismo-nac ionalistas_1155164/). Consultado el 25 de agosto de 2018. ",
+        "bbox": [
+            650,
+            687,
+            932,
+            800
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "26. cihefe.es (ed.). «Los Guiness de la historia de la Liga» (http://www.cihef e.es/cuadernosdefutbol/2015/05/los -guiness-de-la-historia-de-la-liga/). Consultado el 20 de agosto de 2018. ",
+        "bbox": [
+            650,
+            804,
+            932,
+            878
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "27. «Entradas Real Madrid» (https://tick et-time.es/). ",
+        "bbox": [
+            650,
+            882,
+            932,
+            908
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "28. Portal digital Goal (ed.). «Real Madrid, pionero en lucir dorsales en ",
+        "bbox": [
+            650,
+            910,
+            932,
+            935
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "España» (http://www.goal.com/es/n ews/27/laliga-santander/2012/11/23/ 3549048/real-madrid-pionero-en-luc ir-dorsales-en-espa%C3%B1a). Consultado el 17 de mayo de 2017. ",
+        "bbox": [
+            90,
+            41,
+            347,
+            104
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "29. elpais.com (ed.). «La picaresca de los fasos oriundos» (https://elpais.c om/diario/2001/02/12/deportes/9819 32415_850215.html). Consultado el 24 de agosto de 2018. ",
+        "bbox": [
+            63,
+            108,
+            349,
+            169
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "30. elpais.com (ed.). «Roca Junyent, azote de falsos oriundos» (https://el pais.com/deportes/2015/02/01/actu alidad/1422824592_320740.html). Consultado el 24 de agosto de 2018. ",
+        "bbox": [
+            65,
+            173,
+            349,
+            248
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "31. «Copa Mundial de la FIFA 1982 en España. Informe de la FIFA. Edición española» (https://web.archive.org/ web/20160610235453/http://resourc es.fifa.com/mm/document/afdevelop ing/technicaldevp/50/09/28/fwc_spai n_1982_sp_part1_300.pdf). ",
+        "bbox": [
+            65,
+            251,
+            347,
+            338
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Fédération Internationalle de Football Association. Archivado desde el original (http://resources.fif a.com/mm/document/afdeveloping/t echnicaldevp/50/09/28/fwc_spain_1 982_sp_part1_300.pdf) el 10 de junio de 2016. Consultado el 19 de mayo de 2016. ",
+        "bbox": [
+            90,
+            339,
+            349,
+            439
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "32. «La Liga 1996/1997: la Liga de las estrellas» (http://colgadosporelfutbo l.com/la-liga-199697-la-liga-de-las-e strellas/). colgadosporelfutbol.com. Consultado el 19 de mayo de 2016. ",
+        "bbox": [
+            65,
+            441,
+            347,
+            504
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "33. Diario Marca (ed.). «Histórico Granada: 11 jugadores y 11 nacionalidades distintas» (http://ww w.marca.com/futbol/granada/2017/0 2/17/58a7648c46163f497e8b4673.h tml). Consultado el 17 de febrero de 2017. ",
+        "bbox": [
+            65,
+            508,
+            349,
+            595
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "34. Levante EMV (ed.). «Atlético: 11 jugadores no españoles» (http://ww w.levante-emv.com/deportes/2008/0 9/01/atletico-madrid-espanoles-bate -malaga-flojo-defensa/489335.html). Consultado el 17 de febrero de 2017. ",
+        "bbox": [
+            65,
+            598,
+            347,
+            685
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "35. Diario El Mundo Deportivo (ed.). «Sevilla: 11 jugadores no españoles» (http://www.mundodepo rtivo.com/futbol/sevilla/20160918/41 400089087/sevilla-once-sin-espanol es-sampaoli.html). Consultado el 17 de febrero de 2017. ",
+        "bbox": [
+            65,
+            690,
+            347,
+            776
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "36. Diario ABC (ed.). «La UEFA impone cuatro canteranos por club a partir de la campaña 06-07» (http://www.a bc.es/hemeroteca/historico-04-02-2 005/abc/Deportes/la-uefa-impone-c uatro-canteranos-por-club-a-partir-d e-la-campa%C3%B1a-06-07_20391 630768.html#). Consultado el 17 de febrero de 2017. ",
+        "bbox": [
+            65,
+            780,
+            349,
+            893
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "37. Diario As (ed.). «La normativa de la UEFA obliga a la españolización» (h ttp://futbol.as.com/futbol/2010/07/1 ",
+        "bbox": [
+            63,
+            895,
+            349,
+            933
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "5/mas_futbol/1279175242_850215. html). Consultado el 17 de febrero de 2017. ",
+        "bbox": [
+            381,
+            41,
+            640,
+            78
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "38. Torneo Olímpico de Fútbol Amberes 1920. Primera ronda: Dinamarca - España (https://web.archive.org/we b/20120717004220/http://es.fifa.co m/tournaments/archive/tournamen t%3D512/edition%3D197008/match es/match%3D32273/report.html) ",
+        "bbox": [
+            356,
+            81,
+            640,
+            169
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "39. www.uefa.com (1 de julio de 2012). «España se hace eterna en Kiev» (http://es.uefa.com/uefaeuro/season =2012/matches/round=15175/match =2003351/postmatch/report/index.ht ml#espana+hace+eterna+kiev). Consultado el 1 de julio de 2012. ",
+        "bbox": [
+            357,
+            173,
+            640,
+            261
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "40. www.fifa.com (1 de julio de 2012). «España reconquista Europa» (http s://web.archive.org/web/201409160 60735/http://es.fifa.com/confederati onscup/news/newsid=1658379/inde x.html?intcmp=newsreader_news_c aption). Archivado desde el original (http://es.fifa.com/confederationscu p/news/newsid=1658379/index.htm l?intcmp=newsreader_news_captio n) el 16 de septiembre de 2014. Consultado el 1 de julio de 2012. ",
+        "bbox": [
+            357,
+            263,
+            640,
+            414
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "41. www.uefa.com (15 de julio de 2024). https://www.uefa.com/euro2024/new s/028f-1b5e5c2b7b67- d5faab9be20b-1000--spain-2-1- england-late-oyarzabal-winnerearns-la-roja-reco/ (https://www.uef a.com/euro2024/news/028f-1b5e5c 2b7b67-d5faab9be20b-1000--spain2-1-england-late-oyarzabal-winner-e arns-la-roja-reco/). Consultado el 15 de julio de 2024. Falta el |título $=$ (ayuda) ",
+        "bbox": [
+            357,
+            416,
+            640,
+            584
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "42. «Historia de la Selección española de fútbol femenino» (https://web.arc hive.org/web/20190325182028/http s://ligaiberdrola.es/seleccion-espan ola-futbol-femenino/). Liga Iberdrola. 30 de enero de 2019. Archivado desde el original (https://ligaiberdrol a.es/seleccion-espanola-futbol-feme nino/) el 25 de marzo de 2019. Consultado el 25 de marzo de 2019. ",
+        "bbox": [
+            356,
+            585,
+            640,
+            711
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "43. «2-1. España gana ante México su primer Mundial femenino Sub'17» (h ttps://www.mundodeportivo.com/futb ol/20181202/453268636718/espana -gana-su-primer-titulo-en-el-mundial -sub17-femenino.html). Consultado el 2 de diciembre de 2018. ",
+        "bbox": [
+            356,
+            714,
+            640,
+            801
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "44. Yahoo! Eurosport. «Euskadi, Cataluña y Galicia acuerdan fomentar sus \"selecciones nacionales\" » (http://es.eurosport.ya hoo.com/29122007/21/euskadi-catal una-galicia-acuerdan-fomentar-sele cciones-nacionales.html). ",
+        "bbox": [
+            356,
+            805,
+            640,
+            893
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "45. El correo digital. «Miles de personas reclaman en Bilbao la oficialidad de las selecciones vascas» (https://we b.archive.org/web/2008010210174 7/http://www.elcorreodigital.com/vizc aya/20071229/deportes/mas-deport e/euskadi-cataluna-galicia-firman-20 0712291429.html). Archivado desde el original (http://www.elcorreodigita l.com/vizcaya/20071229/deportes/m as-deporte/euskadi-cataluna-galiciafirman-200712291429.html) el 2 de enero de 2008. Consultado el 29 de marzo de 2008. ",
+        "bbox": [
+            356,
+            895,
+            640,
+            933
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            673,
+            41,
+            932,
+            179
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "46. CIHEFE. Cuadernos de Fútbol (ed.). «La aguja del pajar: el origen del fútbol en Madrid» (http://www.cih efe.es/cuadernosdefutbol/2013/10/l a-aguja-del-pajar-el-origen-del-futbo l-en-madrid/). Consultado el 3 de marzo de 2016. ",
+        "bbox": [
+            650,
+            182,
+            932,
+            270
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "47. lafutbolteca.com (ed.). «Recreativo» (http://lafutbolteca.com/real-club-rec reativo-de-huelva-s-a-d/). Consultado el 24 de agosto de 2018. ",
+        "bbox": [
+            648,
+            273,
+            932,
+            334
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "48. Diario El Mundo, ed. (6 de marzo de 2009). « 'Madrid y Barça deben ser S.A.D para competir en igualdad' » (http://www.elmundo.es/elmundode porte/2009/03/05/futbol/123628536 2.html). Consultado el 23 de septiembre de 2010. ",
+        "bbox": [
+            648,
+            339,
+            932,
+            426
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "49. Diario El Mundo Deportivo (ed.). «El Clásico Barça-Madrid» (https://www. mundodeportivo.com/futbol/el-clasic o-barca-real-madrid). Consultado el 18 de agosto de 2018. ",
+        "bbox": [
+            648,
+            429,
+            932,
+            492
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "50. «Real Madrid - Los éxitos se repiten en la vida Merengue» (https://web.a rchive.org/web/20110927010142/htt p://es.fifa.com/classicfootball/clubs/c lub=366/index.html). fifa.com. Archivado desde el original (http://e s.fifa.com/classicfootball/clubs/club= 366/index.html) el 27 de septiembre de 2011. Consultado el 3 de junio de 2011. ",
+        "bbox": [
+            648,
+            495,
+            932,
+            621
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "51. wordpress.com (ed.). «Europa en juego. La historia de las competiciones europeas de clubes de fútbol. Copa de Ferias» (https://e uropaenjuego.wordpress.com/histori a-de-la-copa-de-ferias/). Consultado el 6 de septiembre de 2018. ",
+        "bbox": [
+            650,
+            623,
+            932,
+            711
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "52. «España en 10 campos de fútbol» (https://www.guiarepsol.com/es/viaj ar/top-de-turismo/espana-en-10-ca mpos-de-futbol/). guiarepsol.com. Consultado el 3 de mayo de 2022. ",
+        "bbox": [
+            648,
+            714,
+            932,
+            776
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "53. «Los estadios de fútbol envejecen en España» (http://www.diariogol.co m/es/notices/2015/10/los-estadios-d e-futbol-envejecen-en-espana-5410 7.php). Lluís Regàs. Diariogol.com. 11 de octubre de 2015. Consultado el 22 de mayo de 2016. ",
+        "bbox": [
+            650,
+            780,
+            932,
+            866
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "54. «¿Cuál es el campo más grande de la Liga?» (http://www.marca.com/20 14/01/01/futbol/1adivision/13885777 83.html). Marca.com. 1 de enero de ",
+        "bbox": [
+            648,
+            870,
+            932,
+            921
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "2014. Consultado el 22 de mayo de   \n2016. ",
+        "bbox": [
+            89,
+            41,
+            347,
+            66
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "55. «Impacto socio-económico del fútbol profesional en España» (htt p://www.kpmg.com/ES/es/Actualida dyNovedades/ArticulosyPublicacion es/Documents/impacto-socio-econo mico-futbol-profesional-espana.pdf). KPMG Asesores S.L. Consultado el 19 de mayo de 2016. ",
+        "bbox": [
+            65,
+            70,
+            349,
+            169
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "56. «¿El fútbol está en crisis?» (http://d eportes.elpais.com/deportes/2013/1 2/24/actualidad/1387905845_79298 3.html). Jaume García, Plácido Rodríguez, Stefan Szymanski. 24 de diciembre de 2013. Consultado el 22 de mayo de 2016. ",
+        "bbox": [
+            65,
+            173,
+            347,
+            260
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "57. «La LFP aprueba el nuevo reglamento de control económico elaborado en coordinación con el CSD» (https://web.archive.org/web/ 20140507084952/http://www.iuspor t.es/php2/index.php?option=com_co ntent&task=view&id=2504&Itemid=6 0). iusport.com. 30 de enero de 2013. Archivado desde el original (h ttp://www.iusport.es/php2/index.ph p?option=com_content&task=view&i d=2504&Itemid=60) el 7 de mayo de 2014. Consultado el 22 de mayo de 2016. ",
+        "bbox": [
+            63,
+            263,
+            349,
+            439
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "58. «El Congreso aprueba fiscalizar la deuda de los clubes de futbol» (htt p://cadenaser.com/ser/2017/02/08/p olitica/1486593819_600189.html). cadenaser.com. 9 de febrero de 2017. Consultado el 9 de julio de 2017. ",
+        "bbox": [
+            65,
+            441,
+            349,
+            529
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "59. «La Covid-19 ahoga al fútbol español» (https://www.lavanguardia. com/deportes/futbol/20210302/6262 334/laliga-ingresos-tebas-publico.ht ml). lavanguardia.com. 2 de marzo de 2021. Consultado el 18 de abril de 2021. ",
+        "bbox": [
+            65,
+            533,
+            347,
+            619
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "60. «‘Fumata blanca’ a LaLiga Impulso: salva el acuerdo con CVC tras dejar al margen a Barça y Madrid» (http s://www.2playbook.com/competicion es/fumata-blanca-laliga-impulso-cla ves-entender-entrada-cvc-en-futbolespanol_4740_102.html). 2playbook.com. 12 de agosto de 2021. Consultado el 13 de agosto de 2021. ",
+        "bbox": [
+            63,
+            623,
+            349,
+            748
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "61. «Público.es - Las futbolistas exigen su derecho a ser profesionales» (htt ps://web.archive.org/web/20100923 150610/http://www.publico.es/deport es/210162/futbolistas/exigen/derech o/profesionales). Archivado desde el original (http://www.publico.es/depor tes/210162/futbolistas/exigen/derec ho/profesionales) el 23 de septiembre de 2010. Consultado el 2009. ",
+        "bbox": [
+            65,
+            751,
+            349,
+            889
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "62. «Público.es - La excepción, el baloncesto y el fútbol masculino» (h ttps://web.archive.org/web/2009032 ",
+        "bbox": [
+            63,
+            893,
+            349,
+            931
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "0113804/http://www.publico.es/depo rtes/210198/excepcion/baloncesto/f utbol/masculino). Archivado desde el original (http://www.publico.es/de portes/210198/excepcion/baloncest o/futbol/masculino) el 20 de marzo de 2009. Consultado el 2009. ",
+        "bbox": [
+            381,
+            41,
+            640,
+            129
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "63. palco23.com. «La Primera Iberdrola dejará paso a la Liga Ellas como parte del proceso de profesionalización del fútbol femenino tutelado por el Consejo Superior de Deportes los próximos tres años» (https://www.palco23.co m/competiciones/el-futbol-femeninoavanza-en-su-profesionalizacion-co n-la-creacion-de-la-liga-ellas.html). Consultado el 24 de mayo de 2021. ",
+        "bbox": [
+            357,
+            133,
+            640,
+            270
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "64. «LIGA IBERDROLA | Liga Iberdrola | La actualidad del futfem» (https://w eb.archive.org/web/2019062703490 4/https://ligaiberdrola.es/). Liga Iberdrola. Archivado desde el original (https://ligaiberdrola.es/) el 27 de junio de 2019. Consultado el 25 de marzo de 2019. ",
+        "bbox": [
+            357,
+            273,
+            640,
+            372
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "65. Vicente Martínez Calatrava. Cuadernos de Fútbol. «Los primeros pasos del fútbol femenino en España» (http://www.cihefe.es/c uadernosdefutbol/2011/04/los-prime ros-pasos-del-futbol-femenino-en-es pana/). Consultado el 30 de julio de 2018. ",
+        "bbox": [
+            356,
+            376,
+            640,
+            477
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "66. Guiomar Huguet Pané. Historia. National Geographic. «Spanish girl's club, el primer equipo de fútbol de mujeres de españa» (https://histori a.nationalgeographic.com.es/a/span ish-girls-club-el-primer-equipo-de-fut bol-de-mujeres-de-espana_16419). Consultado el 23 de agosto de 2023. ",
+        "bbox": [
+            356,
+            480,
+            640,
+            592
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "67. Miguel ángel Ortiz. Panenka. «Las Spanish Girl’s Club» (https://www.pa nenka.org/pasaportes/10816/). Consultado el 23 de agosto de 2023. ",
+        "bbox": [
+            356,
+            595,
+            640,
+            659
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "68. Anónimo. KodroMagazine. «Spanish Girl's club, el primer club de fútbol femenino en España» (http s://www.kodromagazine.com/spanis h-girls-club/). Consultado el 23 de agosto de 2023. ",
+        "bbox": [
+            356,
+            661,
+            640,
+            736
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "69. Borja Cuñado Daparte. Reinas del Balón. «Spanish girl´s club»: club pionero en el fútbol femenino español» (https://reinasdelbalon.co m/spanish-girls-club-club-pionero-e n-el-futbol-femenino-espanol/). Consultado el 23 de agosto de 2023. ",
+        "bbox": [
+            356,
+            739,
+            640,
+            839
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "70. Fernando Arrechea y Eugen Scheinherr. Cuadernos de fútbol. Revista oficial de CIHEFE. «El “Spanish girl’s club“ de Barcelona. Las pioneras del fútbol femenino español» (https://www.cihefe.es/cua dernosdefutbol/2015/06/el-spanishgirls-club-de-barcelona-las-pioneras -del-futbol-femenino-espanol/). Consultado el 23 de agosto de 2023. ",
+        "bbox": [
+            357,
+            843,
+            640,
+            931
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            673,
+            41,
+            931,
+            91
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "71. «Web oficial de Primera Iberdrola» (https://web.archive.org/web/202110 19074950/https://primeraiberdrola.e s/). Archivado desde el original (http s://primeraiberdrola.es/) el 19 de octubre de 2021. Consultado el 17 de febrero de 2020. ",
+        "bbox": [
+            650,
+            95,
+            932,
+            181
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "72. http://hemerotecapaginas.elmundodeportivo.es/EMD02/ ",
+        "bbox": [
+            648,
+            185,
+            942,
+            211
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "73. Puro espectáculo en Mestalla (htt p://www.levante-emv.com/valencia-c f/2017/04/23/gran-fiesta-futbol-feme nino-invade/1557480.html) Cayetano Ros, Levante-EMV, 23 de abril de 2017 ",
+        "bbox": [
+            650,
+            213,
+            932,
+            288
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "74. Europa Press. El diarionorte.es. «Récord de asistencia a un partido de fútbol femenino en España: más de 48.000 espectadores en San Mamés» (https://web.archive.org/we b/20190404012721/https://www.eldi ario.es/norte/Record-Espana-espect adores-San-Mames_0_862664744. html). Archivado desde el original (h ttps://www.eldiario.es/norte/RecordEspana-espectadores-San-Mames 0_862664744.html/) el 4 de abril de 2019. Consultado el 30 de marzo de 2019. ",
+        "bbox": [
+            650,
+            292,
+            932,
+            466
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "75. Xavier Muñoz. Mundodeportivo.com. «0-2: El barça revive la Liga ante 60.739 espectadores, récord histórico» (htt ps://www.mundodeportivo.com/futbo l/fc-barcelona/20190317/461077512 904/0-2-el-barca-revive-la-liga-ante60739-espectadores-record-historic o.html/). Consultado el 30 de marzo de 2019. ",
+        "bbox": [
+            648,
+            470,
+            932,
+            595
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "76. Daniel Gómez. Elpais.com. «Un fenómeno múndial» (https://elpais.c om/deportes/2019/03/17/actualidad/ 1552823257_626220.html). Consultado el 30 de marzo de 2019. ",
+        "bbox": [
+            650,
+            598,
+            932,
+            660
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "77. cnn.com. «Atlético de Madrid vs Barcelona: récord mundial para un partido femenino de clubes» (http s://edition.cnn.com/videos/spanish/2 019/03/18/atletico-de-madrid-vs-bar celona-record-mundial-para-un-parti do-femenino-de-clubes.cnn). Consultado el 30 de marzo de 2019. ",
+        "bbox": [
+            650,
+            663,
+            931,
+            763
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "78. «Licencias y clubes 2013 (CSD) y tendencia respecto a 2012» (https:// web.archive.org/web/201502130658 12/http://www.csd.gob.es/csd/estatic os/asoc-fed/licenciasyclubes-2013.p df). Archivado desde el original (htt p://www.csd.gob.es/csd/estaticos/as oc-fed/licenciasyclubes-2013.pdf) el 13 de febrero de 2015. Consultado el 3 de diciembre de 2018. ",
+        "bbox": [
+            650,
+            767,
+            932,
+            893
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "79. «Licencias y clubes 2014 (CSD)» (h ttps://web.archive.org/web/2015071 3170920/http://www.csd.gob.es/csd/ estaticos/asoc-fed/licenciasyclubes2014.pdf). Archivado desde el original (http://www.csd.gob.es/csd/ estaticos/asoc-fed/licenciasyclubes2014.pdf) el 13 de julio de 2015. Consultado el 13 de julio de 2015. ",
+        "bbox": [
+            650,
+            895,
+            931,
+            933
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            41,
+            349,
+            117
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "80. http://www.csd.gob.es/csd/estaticos/asoc-ala-crisis-seleccion-espanola-europ fed/LicenciasyClubes2015.pdf eo-oro-1308857/0/). 20minutos. 16 Archivado (https://web.archive.org/w de febrero de 2012. Consultado el eb/20160610054230/http://www.cs 21 de mayo de 2016. ",
+        "bbox": [
+            67,
+            121,
+            640,
+            171
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "a/LNFS-crea-Academias-Internacio nales-48103022012.html). lnfs. Consultado el 22 de mayo de 2016. ",
+        "bbox": [
+            381,
+            41,
+            640,
+            79
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "91. «No es oro todo lo que reluce en el fútbol sala español» (http://www.20 minutos.es/deportes/noticia/futbol-s fed/LicenciasyClubes-2016.pdf Archivado (https://web.archive.org/w eb/20170712223204/http://www.cs d.gob.es/csd/estaticos/asoc-fed/Lice nciasyClubes-2016.pdf) el 12 de julio de 2017 en Wayback Machine. Licencias y clubes 2016 (CSD)] ",
+        "bbox": [
+            356,
+            83,
+            640,
+            119
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            65,
+            236,
+            349,
+            323
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "fed/licencias_y_clubes_2017.pdf Archivado (https://web.archive.org/w eb/20180717100018/http://www.cs d.gob.es/csd/estaticos/asoc-fed/lice ncias_y_clubes_2017.pdf) el 17 de julio de 2018 en Wayback Machine. Licencias y clubes 2017 (CSD)] ",
+        "bbox": [
+            63,
+            326,
+            352,
+            427
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "84. https://www.csd.gob.es/sites/default/files/media/files/2020- 210711/http://www.rfef.es/noticias/fu 08/Licencias_y_Clubes_2019.pdf tbol-playa-finales). Archivado desde Licencias y clubes 2019 (CSD)] el original (http://www.rfef.es/noticia ",
+        "bbox": [
+            67,
+            470,
+            643,
+            508
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "83. https://www.csd.gob.es/sites/default/files/media/files/2019- 95. ffcv.es (ed.). «La Copa RFEF se 07/Licencias_y_Clubes_2018_0.pdf queda en las playas de Melilla» (htt Licencias y clubes 2018 (CSD)] ps://web.archive.org/web/20180813 ",
+        "bbox": [
+            62,
+            429,
+            677,
+            470
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "86. Mujeres de edades comprendidas entre los 5 y los 40 años ",
+        "bbox": [
+            63,
+            551,
+            349,
+            576
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "85. https://www.csd.gob.es/sites/default/files/media/files/2021-s/futbol-playa-finales) el 13 de 07/Licencias%20y%20Clubes%202020.pdf agosto de 2018. Consultado el 8 de Licencias y clubes 2019 (CSD)] agosto de 2018. ",
+        "bbox": [
+            67,
+            509,
+            640,
+            547
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "92. pressreader.com (ed.). «La historia del fútbol playa» (https://www.pressr eader.com/spain/magazine-futbol-ta ctico/20151201/282707636031054). ",
+        "bbox": [
+            356,
+            173,
+            640,
+            233
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "81. http://www.csd.gob.es/csd/estaticos/asoc-Consultado el 8 de agosto de 2018. ",
+        "bbox": [
+            60,
+            223,
+            630,
+            235
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "87. «El Fútbol Sala es uno de los deportes más practicados por los escolares españoles según un estudio promovido por el CSD» (htt p://www.lnfs.es/noticias/gabinete-pr ensa/Futbol-Sala-deportes-practica dos-44903112011.html). lnfs. Consultado el 20 de mayo de 2016. ",
+        "bbox": [
+            63,
+            578,
+            349,
+            679
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "82. http://www.csd.gob.es/csd/estaticos/asoc-2018. Consultado el 8 de agosto de 2018. ",
+        "bbox": [
+            68,
+            326,
+            652,
+            351
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "88. « \"Patrimonio histórico español del juego y del deporte\": Federación Española de futbol sala» (http://mus eodeljuego.org/wp-content/uploads/ contenidos_0000001449_docu1.pd f). PHEJD: Federación Española de Fútbol Sala. Consultado el 20 de mayo de 2016. ",
+        "bbox": [
+            63,
+            682,
+            349,
+            781
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "93. lnfpl.es (ed.). «Andalucía se lleva su séptimo campeonato de España en los penaltis» (https://web.archive.or g/web/20180813213106/http://www.l nfpl.es/archivos/714). Archivado desde el original (http://www.lnfpl.e s/archivos/714) el 13 de agosto d ",
+        "bbox": [
+            356,
+            238,
+            642,
+            321
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "89. «Una delegación de China visita la LNFS para conocer de primera mano la organización del Futsal español» (http://www.lnfs.es/noticia s/gabinete-prensa/delegacion-China -visita-LNFS-81542092015.html). lnfs. Consultado el 22 de mayo de 2016. ",
+        "bbox": [
+            65,
+            785,
+            349,
+            884
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "94. ffcv.es (ed.). «Levante UD, brillante Campeón de la Liga Nacional de Fútbol Playa» (http://www.ffcv.es/w p/levante-campeon-liga-futbol-play a/). Consultado el 8 de agosto de 2018. ",
+        "bbox": [
+            356,
+            353,
+            640,
+            428
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "96. efdeportes.es (ed.). «La configuración del fútbol español como deporte espectáculo» (http://w ww.efdeportes.com/efd66/espect.ht m). Consultado el 5 de agosto de 2018. ",
+        "bbox": [
+            356,
+            548,
+            642,
+            623
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "97. dukes.edu (ed.). «La cultura del fútbol en España» (https://sites.duk e.edu/wcwp/2016/04/14/la-cultura-d e-futbol-en-espana/). Consultado el 10 de septiembre de 2018. ",
+        "bbox": [
+            356,
+            627,
+            642,
+            688
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "98. cihefe.es (ed.). «La primera referencia al fútbol en España» (htt p://www.cihefe.es/cuadernosdefutbo l/2010/01/la-primera-referencia-al-fu tbol-en-espana/). Consultado el 17 de agosto de 2018. ",
+        "bbox": [
+            356,
+            692,
+            640,
+            767
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "90. «La LNFS crea las Academias Internacionales RED BLUE» (http:// www.lnfs.es/noticias/gabinete-prens ",
+        "bbox": [
+            63,
+            889,
+            349,
+            927
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "99. cihefe.es (ed.). «Primera crónica periodística de un partido de fútbol jugado en España» (http://www.cihe fe.es/cuadernosdefutbol/2013/01/pri mera-cronica-periodistica-de-un-par tido-de-futbol-jugado-en-espana/). Consultado el 17 de agosto de 2018. ",
+        "bbox": [
+            356,
+            769,
+            640,
+            871
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "82137/https://telos.fundaciontelefoni ca.com/telos/anteriores/num_038/cu aderno_central5.html). Archivado desde el original (https://telos.funda ciontelefonica.com/telos/anteriores/ num_038/cuaderno_central5.html) el 18 de agosto de 2018. Consultado el 17 de agosto de 2018. ",
+        "bbox": [
+            675,
+            41,
+            932,
+            155
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "102. prensaescrita.com (ed.). «Prensa Escrita. Periódicos Diarios Deportivos» (http://www.prensaescri ta.com/deportes.php). Consultado el 18 de agosto de 2018. ",
+        "bbox": [
+            642,
+            248,
+            932,
+            311
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "100. telos.fundaciontelefonica.com (ed.). «Medios de comunicación deportivos. La situación espanyola en el contexto internacional» (http s://web.archive.org/web/201808181 e 103. Universidad de Málaga (ed.). «Tratamiento de la información deportiva en la prensa: la crònica como género prevalente. El caso de los encuentros de fútbol entre Real Madrid y F.C. Barcelona» (https://riu ma.uma.es/xmlui/bitstream/handle/1 0630/4848/TDR_NARANJO_ARCO S.pdf?sequence=6). Consultado el 18 de agosto de 2018. ",
+        "bbox": [
+            351,
+            874,
+            643,
+            937
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            638,
+            313,
+            932,
+            439
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "104. Universidad de Sevilla (ed.). «Análisis del funcionamiento y tratamiento de la información en los medios deportivos» (https://idus.us. es/xmlui/bitstream/handle/11441/43 987/Francisco%20Viru%C3%A9s% 20Azaustre%20TFG.pdf?sequence =1). Consultado el 18 de agosto de 2018. ",
+        "bbox": [
+            650,
+            441,
+            932,
+            553
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "105. Overblog.com (ed.). «Las mejores revistas de fútbol de España» (http s://es.over-blog.com/Las_mejores_r evistas_de_futbol_de_Espana-1228 321799-art298264.html). Consultado el 18 de agosto de 2018. ",
+        "bbox": [
+            645,
+            558,
+            932,
+            646
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "106. sports.bwin.com (ed.). «Los 30 blogs sobre fútbol en España que debes conocer» (https://sports.bwin. es/es/news/futbol/los-30-blogs-sobr e-futbol-en-espana-que-debes-cono cer). Consultado el 18 de agosto de 2018. ",
+        "bbox": [
+            643,
+            648,
+            932,
+            736
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "107. aimc.es (ed.). «AIMC Octubre 2017 a Mayo 2018 Resumen General» (h ttps://www.aimc.es/a1mc-c0nt3nt/up loads/2018/06/resumegm218.pdf). ",
+        "bbox": [
+            642,
+            739,
+            932,
+            788
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "108. diariovasco.com (ed.). «El primer partido radiado del fútbol español» (https://www.diariovasco.com/deport es/futbol/201705/13/primer-partido-r adiado-futbol-20170513074159.htm l). Consultado el 17 de agosto de 2018. ",
+        "bbox": [
+            643,
+            817,
+            932,
+            904
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "109. abc.es (ed.). «Aquellos domingos de fútbol y radio» (https://www.abc.e s/20110918/medios-redes/abci-futb ol-radio-201109181119.html). ",
+        "bbox": [
+            643,
+            908,
+            932,
+            933
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            41,
+            341,
+            66
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Consultado el 19 de agosto de 1 2018. ",
+        "bbox": [
+            89,
+            67,
+            357,
+            91
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "110. cadenaser.com (ed.). «Premios Ondas: Matías Prats la voz de una época» (http://cadenaser.com/progr ama/2013/11/07/audios/138379402 9_660215.html). Consultado el 19 de agosto de 2018. ",
+        "bbox": [
+            60,
+            95,
+            349,
+            169
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "111. revistalatinacs.org (ed.). «La locución de los narradores deportivos radiofónicos en España» (http://www.revistalatinacs.org/09/ar t/874_Salamanca/75_101_Herrero. html). Consultado el 19 de agosto de 2018. ",
+        "bbox": [
+            57,
+            173,
+            349,
+            260
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "112. radioydeporte.blogspot.org (ed.). «Radio y Deporte» (http://radioydep orte.blogspot.com/2009/10/la-radiodeportiva-en-espana-un-repaso.htm l). Consultado el 19 de agosto de 2018. ",
+        "bbox": [
+            57,
+            263,
+            349,
+            339
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "113. marca.com (ed.). «Radio Marca fechaacceso=19 de agosto de 2018» (http://www.marca.com/radio. html). ",
+        "bbox": [
+            57,
+            342,
+            349,
+            391
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "114. mediotiempo.com (ed.). «El fútbol en España es algo más que un espectáculo de masas» (http://www. mediotiempo.com/negocios/noticias/ 2011/04/25/el-futbol-en-espana-esalgo-mas-que-un-espectaculo-de-m asas). Consultado el 24 de agosto de 2018. ",
+        "bbox": [
+            57,
+            395,
+            349,
+            495
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "115. intrafutbol.com (ed.). «El primer partido de fútbol televisado» (http://i ntrafutbol.com/2016/09/21/el-primer -partido-de-futbol-televisado/). Consultado el 17 de agosto de 2018. ",
+        "bbox": [
+            57,
+            498,
+            349,
+            573
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "116. revistagq.com (ed.). «¿Cuál fue el primer partido televisado en España?» (https://www.revistagq.co m/noticias/deporte/articulos/la-caja-t onta-y-el-futbol/21132). Consultado el 17 de agosto de 2018. ",
+        "bbox": [
+            57,
+            577,
+            349,
+            652
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "117. defensacentral.com (ed.). «¿Cuál fue el primer partido de fútbol que se pudo ver por televisión en España?» (https://www.defensacent ral.com/ustedpregunta/categoria/de porte/cual-fue-el-primer-partido-de-f utbol-que-se-pudo-ver-por-television -en-espana/). Consultado el 17 de 1 agosto de 2018. ",
+        "bbox": [
+            60,
+            655,
+            349,
+            742
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            381,
+            41,
+            647,
+            66
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "18. unav.es (ed.). «El eterno problema del futbol televisado en España: una perspectiva histórica de la lucha por los derechos de retransmisión de la Liga de Fútbol Profesional (LFP)» (h ttps://www.unav.es/fcom/communica tion-society/es/articulo.php?art_id=3 63). Consultado el 23 de agosto de 2018. ",
+        "bbox": [
+            354,
+            70,
+            640,
+            182
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "119. unirioja.es (ed.). «Derechos de retransmisión del fútbol en España» (https://dialnet.unirioja.es/descarga/ articulo/5582674.pdf). Consultado el 23 de agosto de 2018. ",
+        "bbox": [
+            352,
+            185,
+            640,
+            248
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "120. noticias.juridicas.es (ed.). «Ley 10/1988, de 3 de mayo, de Televisión Privada» (http://noticias.j uridicas.com/base_datos/Admin/l10- 1988.html). Consultado el 23 de agosto de 2018. ",
+        "bbox": [
+            351,
+            251,
+            640,
+            326
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "121. as.com (ed.). «Cascos impuso por Ley el fútbolen abierto en 1997» (htt ps://as.com/futbol/2011/03/23/mas_f utbol/1300865241_850215.html). Consultado el 23 de agosto de 2018. ",
+        "bbox": [
+            351,
+            328,
+            640,
+            403
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "122. elpais.com (ed.). «¿Quién paga la astronómica factura del fútbol en televisión» (https://elpais.com/econo mia/2018/08/17/actualidad/1534528 912_551740.html). Consultado el 23 de agosto de 2018. ",
+        "bbox": [
+            352,
+            407,
+            640,
+            482
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "123. sport.es (ed.). «Así están los derechos de TV en España» (http s://www.sport.es/es/noticias/laliga/a si-estan-los-derechos-espana-6660 786). Consultado el 23 de agosto de 2018. ",
+        "bbox": [
+            351,
+            485,
+            642,
+            560
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "124. diario.es (ed.). «La evolución de los programes de fútbol en televisión» (http://vertele.eldiario.es/historiasdel futbol/evolucion-programas-futbol-te levision_7_1220647924.html). Consultado el 21 de agosto de 2018. ",
+        "bbox": [
+            351,
+            562,
+            640,
+            652
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "125. diario.es (ed.). «¿Amante del fútbol? Una liga de programas como nunca en TV» (http://vertele.eldiario. es/noticias/amante-futbol-liga-progr amas-como-nunca-TV_0_19900009 94.html). Consultado el 21 de agosto de 2018. ",
+        "bbox": [
+            352,
+            654,
+            642,
+            742
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "26. ucm.es (ed.). «Fútbol y redes sociales. Análisis de la gestión de Relaciones Públicas 2.0 por los clubes de fútbol» (http://revistas.uc m.es/index.php/ESMP/article/view/5 2592). Consultado el 1 de septiembre de 2018. ",
+        "bbox": [
+            648,
+            42,
+            932,
+            130
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "127. nielsen.com (ed.). «Fútbol y social media, un equipo ganador. Repercusión del fútbol en las redes sociales» (https://web.archive.org/w eb/20180904231943/http://www.niel sen.com/content/dam/nielsenglobal/ eu/docs/reports/Football%20plays% 20on%20social%20networks.pdf). ",
+        "bbox": [
+            643,
+            134,
+            932,
+            232
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Archivado desde el original (http://w ww.nielsen.com/content/dam/nielse nglobal/eu/docs/reports/Football%2 0plays%20on%20social%20network s.pdf) el 4 de septiembre de 2018. Consultado el 1 de septiembre de 2018. ",
+        "bbox": [
+            673,
+            235,
+            932,
+            321
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "128. lajugadafinanciera.com (ed.). «El FC Barcelona triunfa en las redes sociales: ¡180 millones de interacciones en el mes de enero!» (http://lajugadafinanciera.com/fc-bar celona-engagement-redes-sociale s/). Consultado el 1 de septiembre de 2018. ",
+        "bbox": [
+            638,
+            324,
+            934,
+            425
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "129. mundodeportivo.com (ed.). «El FC Barcelona, líder mundial en las redes sociales» (https://www.mundo deportivo.com/futbol/fc-barcelona/2 0180222/44979890105/barca-manc hester-redes-sociales-facebook-inst agram-twitter-madrid-manchesteruni ted.html). Consultado el 1 de septiembre de 2018. ",
+        "bbox": [
+            642,
+            427,
+            934,
+            541
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "130. europapress.com (ed.). «El FC Barcelona, líder de influencia en redes sociales por delante del Real Madrid» (http://www.europapress.e s/madrid/noticia-fc-barcelona-lider-i nfluencia-redes-sociales-delante-re al-madrid-20120605121738.html). Consultado el 1 de septiembre de 2018. ",
+        "bbox": [
+            640,
+            545,
+            932,
+            656
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "131. vavel.com (ed.). «El FC Barcelona domina las redes sociales» (https:// www.vavel.com/es/futbol/2018/02/2 3/fc-barcelona/883463-el-fc-barcelo na-domina-las-redes-sociales.html). Consultado el 1 de septiembre de 2018. ",
+        "bbox": [
+            647,
+            660,
+            932,
+            748
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Bibliografía ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            770,
+            191,
+            789
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Br aul io Cal l ej a (1996). La guerra «incivil» del fútbol. Plaza & Janés. p. 208. ISBN 9788401390593.   \nFél ix Mar t ial ay (1996). La implantación del profesionalismo en el fútbol español y el nacimiento accidentado del torneo de liga. Real Federación Española de Fútbol. p. 343. ISBN 84-921097-1-8.   \nJu an An t o n io Simó n San j u r j o (2011). Universidad Carlos III de Madrid, ed. La mercantilización del fútbol español en los años veinte: de la implantación del profesionalismo al nacimiento del campeonato nacional de liga. p. 30.   \nLuís Mal var (2005). Alhambra Longman SA, ed. La radio deportiva en España 1927-2004. p. 330. ISBN 978-84-205-4629-2.   \nVic en t e Mar t ín ez Cal at r ava (2003). Historia y estadística del fútbol español: De los juegos de Amberes a la Guerra Civil 1920-1939. Fundación Zerumuga. p. 760. ISBN 978-84-607-5767-2.   \nXav ier Pu j ad as y Car l es San t ac an a (2001). La mercantilización del ocio deportivo en España. El caso del fútbol 1900- 1928. Fundacion Instituto de Historia Social. pp. 147-167. ISSN 0214-2570 (https://portal.issn.org/resource/issn/0214-2570).   \nAribau, Bonaventura Carles (1820, 24 y 25 de julio): “De la gimnástica y de las artes mecánicas consideradas como parte de la educación”. Diario Constitucional, político y mercantil de Barcelona.   \nArnal Duran, Mario (1899, 1 de febrero): “Gimnástica, Música y Baile”. Los Deportes, Barcelona, p. 39-41.   \nArranz Albó, Javier (2014): “Las aportaciones de la colonia industrial escocesa en la génesis del fútbol en Cataluña $1 8 8 0 { - } 1 9 0 6 ^ { \\prime \\prime }$ . En: Materiales para la historia del deporte, $\\mathsf { n } ^ { \\mathsf { o } } 1 2$ , Universidad Pablo de Olavide, Sevilla. Martínez Patón, Víctor (2011, 1 de febrero): “Sociedades y equipos: criterios para un análisis histórico”. En: Cuadernos de Fútbol, $\\mathsf { n } ^ { \\mathsf { o } } 1 8$ , CIHEFE. Torrebadella Flix, Xavier (2014c): “Regeneracionismo e impacto de la crisis de 1898 en la educación física y el deporte español”. En: Arbor, vol. 190, $\\boldsymbol { \\mathrm { n } } ^ { \\circ } 7 6 9$ . Torrebadella Flix, Xavier (2012c): “Orígenes del fútbol en Barcelona (1892-1903)”. En: RICYDE. Revista Internacional de Ciencias del Deporte, $\\mathsf { n } ^ { \\mathsf { o } } 2 7$ , p. 80-102. Martialay, Félix ; Martínez Patón, Víctor; Balmont, Antonio (2007): “La verdad sobre el football sevillano entre 1890 y 1893. Aclaraciones a los historiadores colaboradores del Sevilla F. C.”. En: Onuba, Huelva. ",
+        "bbox": [
+            75,
+            805,
+            936,
+            918
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            41,
+            936,
+            260
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            276,
+            240,
+            294
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Wikimedia Commons alberga una categoría multimedia sobre Fútbol en España. Wikinoticias tiene noticias relacionadas con Fútbol en España.   \nCentro de investigaciones de historia y estadística del fútbol español. CIHEFE - Cuadernos de Fútbol El Huelva Recreation Club y el fútbol entre 1884 y 1889 (http://www.cihefe.es/cuadernosdefutbol/2010/11/el-huelva-recreation-clu b-y-el-football-entre-1884-y-1889/) Centro de investigaciones de historia y estadística del fútbol español. CIHEFE - Cuadernos de Fútbol La aguja del pajar: el origen del fútbol en Madrid (http://www.cihefe.es/cuadernosdefutbol/2013/10/la-aguja-del-pajar-el-origen-del-fu tbol-en-madrid/) Centro de investigaciones de historia y estadística del fútbol español. CIHEFE - Cuadernos de Fútbol ¿Cuándo se creó el Sevilla F. C.? (http://www.cihefe.es/cuadernosdefutbol/2013/03/%C2%BFcuando-se-creo-el-sevilla-fc/) Centro de investigaciones de historia y estadística del fútbol español. CIHEFE - Cuadernos de Fútbol ¿En qué siglo se fundó el Real Madrid? (http://www.cihefe.es/cuadernosdefutbol/2013/12/%C2%BFen-que-siglo-se-fundo-el-real-madri d/)   \nCentro de investigaciones de historia y estadística del fútbol español. CIHEFE - Cuadernos de Fútbol Orígenes, nacimiento y consolidación del FC Barcelona (1875-1903) (http://www.cihefe.es/cuadernosdefutbol/2015/11/origenes-n acimiento-y-consolidacion-del-fc-barcelona-1875-1903/)   \nHistóricos del balompié (TVE) (https://www.rtve.es/play/videos/historicos-del-balompie/)   \nWeb LaLiga (http://www.lfp.es/)   \nWeb LNFS (http://www.lnfs.es/)   \nLa Futbolteca.com. Enciclopedia del Fútbol Español (http://lafutbolteca.com/)   \nBDFutbol (http://www.bdfutbol.com/es/index.html/) Statista. El portal de estadísticas. El fútbol en España - datos estadísticos (https://es.statista.com/temas/2864/el-futbolen-espana) ",
+        "bbox": [
+            73,
+            309,
+            936,
+            674
+        ],
+        "page_idx": 17
+    }
+]

@@ -1,0 +1,485 @@
+[
+    {
+        "type": "text",
+        "text": "Spontaneous and UV-Induced Mutations in Escherichia coli K-12 Strains with Altered or Absent DNA Polymerase I ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            116,
+            874,
+            161
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HELEN BATES,1 SANDRA K. RANDALL,2 CHRISTIANE RAYSSIGUIER,3 BRYN A. BRIDGES,1\\* myron F. goodman,² and M. Radman3 Medical ResearchCouncil Cell MutationUnit, University f ussex, Falmer, Brighton, Sussex BN RR, Engand; Ahmanson CenterorBioloical Research, Universiy  SoutheCalifornia, LosAngele, alira09-1340 a Institut Jacques Monod, Université Paris VII, Tour 43, 2 Place Jussieu, 75251 Paris Cedex 05, France ",
+        "bbox": [
+            89,
+            167,
+            892,
+            239
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 8 September 1988/Accepted 6 February 1989 ",
+        "bbox": [
+            326,
+            247,
+            643,
+            260
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The induction of mutations to valine resistance and to rifampin resistance occurs after UV irradiation in bacteria carrying a deletion through the polA gene (∆polA), showing that DNA polymerase I (PolI) is not an essential enzyme or this process.The Po deletion strain showed ato10-fold-higher spontaneous mutation frequency than the wild type. The presence in the deletion strain of the ${ \\pmb 5 } ^ { \\prime }  { \\pmb 3 } ^ { \\prime }$ exonuclease fragment on an $\\mathbf { F ^ { \\prime } }$ episome caused an additional 10-fold increase in spontaneous mutation frequency, resulting in mutation frequencies on the order of 50- to 100-fold greater than wild type. The mutator effect associated with the $\\pmb { 5 } ^ { \\prime } $ ${ \\pmb 3 } ^ { \\prime }$ exonuclease gene fragment together with much of theefct attributable to the pol deletion was blockedin bacteria carrying a umuC mutation. The mutator activity therefore appears to reflect constitutive SOS incion.Excison-roicint po deletion strains xhibited ncrese ensitiviyhe lehal ef which was only partially ameliorated by the presence of $\\pmb { p o l A } ^ { + }$ on an $\\mathbf { { F } ^ { \\prime } }$ episome. The UV-induced mutation rate to rifampin resistance was marginally lower in ApolA bacteria than in bacteria carrying the $\\pmb { p o l A } ^ { + }$ allele. This effect is unlikely to be caused by the existence of a PolI-dependent mutagenic pathway and is probably an u e (ubacterin excision-deiient pol deletinstra possessed Usensiivi milrothat an strain carrying $\\pmb { p o l A } ^ { + }$ on an $\\mathbf { F ^ { \\prime } }$ episome, showing that none of the functions of Poll are needed for postreplication repair in the absence of excision repair. Our data provide no evidence for a pathway of UV mutagenesis dependent on Pol, although it remains an open question whether Pol is able to participate when it is present. ",
+        "bbox": [
+            138,
+            275,
+            834,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA polymerase I (PolI) is believed to be involved in both normal DNA replication and DNA repair, but its role, if any, in targeted SOS mutagenesis in Escherichia coli has not been resolved. In the earliest studies (10, 27), the induction of point mutations by UV light was similar in wild-type strains and those carrying polA amber alleles (res-l and polAl), although the polA strains were considerably more sensitive to killing by UV than wild-type $E$ coli. Subsequently, Witkin and George (26) found that at low intensities of UV light, polAl bacteria were considerably more UV mutable than $p o l A ^ { + }$ bacteria, a result which they attributed to induction of the SOS system at lower UV doses in the polA strain. Elevated induction of deletion mutations has also been reported for polA bacteria (8). ",
+        "bbox": [
+            83,
+            544,
+            472,
+            719
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "None of these earlier studies suggested a requirement for PolI in UV mutagenesis. However, Lackey et al. (12, 13) have reported a smaller form of Poll that may appear in response to SOS induction. To investigate whether Poll plays an essential role in UV mutagenesis, it is necessary to study the process in bacteria that carry a deletion of the polA gene, because polA point mutants may still contain measurable levels of PolI (15). A strain of $E$ coli containing a deletion of the gene coding for PolI together with additional strains carrying $\\mathbf { F ^ { \\prime } }$ episomes containing wild-type PolI, Klenow fragment (PolI lacking the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease activity), and the fragment containing just the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease activity were constructed by Joyce and Grindley (9). We used these strains to investigate how the absence of Poll affects UV-induced mutagenesis. ",
+        "bbox": [
+            83,
+            722,
+            472,
+            882
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            500,
+            542,
+            892,
+            569
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            593,
+            593,
+            799,
+            607
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strains. The strains used are shown in Table 1. ",
+        "bbox": [
+            513,
+            621,
+            887,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental procedures. For experiments involving UV sensitivity and rifampin resistance mutagenesis determinations (first series), overnight cultures grown in L broth were diluted 50-fold and grown to a density of $2 \\times 1 0 ^ { 8 }$ bacteria per ml in a shaking incubator. Cultures were centrifuged and suspended in phage buffer (la) for irradiation at room temperature. Samples were diluted and plated on L agar immediately after irradiation. The remainder of each sample was centrifuged, suspended in L broth, and grown overnight. The following morning, each culture was plated to count viable cells on L agar and to count mutants on $\\mathbf { L }$ agar plates containing rifampin $( 1 0 0 ~ \\mu \\mathrm { g / m l } )$ . In a second series of determinations of UV mutability, overnight cultures in L broth containing kanamycin $( 4 0 ~ \\mu \\mathrm { g / m l } )$ or ampicillin $( 1 0 0 ~ \\mu \\mathbf { g } / \\mathbf { m l } )$ or both, as appropriate, were concentrated 10-fold by centrifugation and suspended in minimal medium 63 (17). A portion was plated on rifampin $( 1 0 0 ~ \\mu \\mathbf { g } / \\mathbf { m } \\updownarrow )$ plates to determine the preexisting mutation frequency. The remainder was diluted 200-fold in minimal medium and irradiated with shaking at room temperature. After each dose of UV, 1-ml portions were added to $4 ~ \\mathrm { m l }$ of $\\mathbf { L }$ broth and grown overnight in the dark. The cultures were diluted or concentrated as appropriate and plated on $\\mathbf { L }$ agar with and without rifampin (100 $\\mu \\mathbf { g } / \\mathbf { m l } )$ . Incubation temperatures were $3 7 \\mathrm { { ^ \\circ C } }$ throughout, except for strain CJ278 umuC, which was grown at $3 0 \\mathrm { { ^ \\circ C } }$ Viable cells were counted after $^ { 2 4 \\mathrm { ~ h ~ } }$ , and mutants were counted after $4 8 \\ \\mathrm { h }$ . ",
+        "bbox": [
+            501,
+            633,
+            892,
+            921
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/9896efda05dddcff6b23258eddef07a02124854426227da9ffe483094300b3d7.jpg",
+        "table_caption": [
+            "TABLE 1. Strains of bacteria "
+        ],
+        "table_footnote": [
+            "Exo, Exonuclease III fragment. "
+        ],
+        "bbox": [
+            106,
+            102,
+            923,
+            268
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            107,
+            306,
+            500,
+            357
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For determination of spontaneous mutation rates, 10 tubes each containing $5 \\mathrm { \\ m l }$ of Davis minimal medium (supplemented with $5 \\mu \\mathbf { g }$ of thiamine per liter) were grown overnight at $3 7 \\mathrm { { ^ \\circ C } }$ in a shaking incubator and plated for viability counts on Davis minimal plates (supplemented as above) and for mutant counts on the same medium supplemented with valine $( 4 0 ~ \\mu \\mathrm { g / m l } )$ . Viable cells were counted after $^ { 2 4 \\mathrm { ~ h ~ } }$ and mutants were counted after $4 8 \\ \\mathbf { h }$ at $3 7 \\mathrm { } \\mathrm { } ^ { \\circ } \\mathbf { C }$ . ",
+        "bbox": [
+            109,
+            358,
+            500,
+            458
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV-induced mutagenesis to valine resistance was measured similarly except that the bacteria were exposed to UV before inoculation of the 10 overnight cultures. ",
+        "bbox": [
+            107,
+            459,
+            500,
+            496
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV irradiation. UV light of predominantly $2 5 4 \\mathrm { - n m }$ wavelength was used at an incidence fluence of 0.5 or $1 \\ : \\mathrm { J } / \\mathrm { m } ^ { 2 }$ per s. ",
+        "bbox": [
+            107,
+            497,
+            500,
+            534
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/80a7856a3558a616343a96e99b87d77f1b2f917737a5ba5e901447adb85c5604.jpg",
+        "image_caption": [
+            "FIG. 1. Survival following UV irradiation of CM4722 (wild type, $\\bigcirc \\bigcirc$ , CJ278 (∆polA, ), CJ225 (∆polA $\\mathbf { F ^ { \\prime } } p o l A ^ { + }$ , $\\bullet )$ , CJ229 (∆polA $\\mathbf { F ^ { \\prime } }$ $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease, $\\triangle$ ), and CJ233 (∆polA $\\mathbf { F ^ { \\prime } }$ Klenow, $\\blacktriangle )$ Values are means of three experiments. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            205,
+            559,
+            400,
+            871
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            691,
+            306,
+            759,
+            319
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Survival curves for five strains of $E$ coli irradiated with UV light are shown in Fig. 1. $E$ coli CJ278 carrying a polA deletion (∆polA) was significantly more sensitive to the lethal effect of UV than the wild-type parent. The presence of a wild-type polA gene on an $\\mathbf { F ^ { \\prime } }$ episome reduced the sensitivity conferred by the deletion but did not eliminate it. The presence of $\\mathbf { F ^ { \\prime } }$ episomes carrying either the Klenow or the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease gene fragment did not result in any increase in UV resistance compared with CJ278 (∆polA). The data in Fig. 1 are for cells grown in rich medium. For cells grown in minimal medium, a similar pattern was shown by CJ261 (∆polA), the wild-type strain, and the deletion strain carrying an $\\mathbf { F ^ { \\prime } }$ with the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease gene fragment, except that all the strains were somewhat more sensitive to inactivation by UV light (data not shown). ",
+        "bbox": [
+            529,
+            328,
+            923,
+            518
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For the induction of mutations to valine resistance or to rifampin resistance following exposure to UV, induced frequencies were observed in the ΔpolA strains comparable to those in the $p o l A ^ { + }$ strain and in the ΔpolA strains carrying the various $\\mathbf { F }$ primes (Table 2). The results show that the presence of PolI is not required for UV mutagenesis. It may be noted that the larger standard errors for the induced mutation frequencies in CJ229 (∆polA F $\" 5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease) reflect the greater difficulty in accurately determining induced mutation frequencies in a strain with a high spontaneous mutation frequency. The ΔpolA strain CJ278 umuC showed no increase in the frequency of rifampin-resistant mutations after exposure to UV light even though it was highly sensitive to the lethal effect of UV. As in $p o l A ^ { + }$ strains, therefore, UV mutagenesis in ΔpolA bacteria is umuC dependent. ",
+        "bbox": [
+            529,
+            520,
+            923,
+            720
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The data in Table 2 show that the induced frequencies of rifampin-resistant mutants in ΔpolA bacteria were actually marginally lower than in bacteria carrying the $p o l A ^ { + }$ allele, whether chromosomally or on an $\\mathbf { F ^ { \\prime } }$ . This was also observed at several other doses and appeared to be more marked at higher doses, at which survival of the ΔpolA strain was extremely low (data not shown). While such an effect might be construed as being consistent with a small PolI-dependent component of UV mutagenesis, a more likely explanation is that the disturbance of excision repair associated with the absence of PolI indirectly affects the probability of a lesion's being processed by umuC-dependent error-prone repair. Such an interpretation is supported by the fact that there was no deficit in UV mutagenesis associated with the polA deletion in excision-defective bacteria (Fig. 2). ",
+        "bbox": [
+            531,
+            722,
+            923,
+            909
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the absence of UV light, the PolI deletion mutants ",
+        "bbox": [
+            542,
+            910,
+            923,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/eec45a4d6b9e57d81da4fe759eccf240f177fdb447266b79120a1f2e52462d5e.jpg",
+        "table_caption": [
+            "TABLE 2. UV-induced and spontaneous mutagenesis for wild-type $E$ coli and strains deleted for DNA Poll "
+        ],
+        "table_footnote": [
+            "\" Means of 10 determinations. b Exo, Exonuclease III fragment. c Means of at least six determinations (see Materials and Methods). d Means of at least three determinations. eOne determination only. "
+        ],
+        "bbox": [
+            70,
+            106,
+            883,
+            334
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CJ261 and CJ278 had moderate mutator phenotypes. Their spontaneous mutation frequencies were 7- to 10-fold greater than wild-type rates in both mutagenesis assays (Table 2). The PolI deletion strain CJ229, containing the $5 ^ { \\prime }  3 ^ { \\prime }$ PolI-associated exonuclease on the $\\mathbf { F ^ { \\prime } }$ episome, had a powerful spontaneous mutator activity, with roughly 50- to 100-fold-higher mutation rates than the wild type. The mutator activity associated with the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease activity was not apparent, however, in the absence of the umuC gene product (strain CM1225, Table 2). ",
+        "bbox": [
+            73,
+            411,
+            464,
+            539
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although the data in Table 2 are not formal determinations of mutation rate, they do accurately reflect the relative rates of spontaneous mutation in the cultures used in the UV irradiation experiments. We verified this point in an experiment shown in Table 3, in which we determined the spontaneous rates for mutation to valine resistance. The inocula for the cultures were very small (less than 10 bacteria per tube), and the mutation rate $\\mathbf { \\Pi } ( \\alpha )$ could therefore be calculated by the method of Lea and Coulson (14). The exceptionally high mutator activity in the deletion strain with the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease fragment on the $\\mathbf { F ^ { \\prime } }$ is clearly evident, as is the 10-fold increase in the deletion strain itself, consistent with the data in Table 2. ",
+        "bbox": [
+            73,
+            540,
+            464,
+            627
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b9d5c65452bdaa03e9e442d0af9f9995e8f4a83c84ae6ca5d87e2d51b6136d4.jpg",
+        "image_caption": [
+            "FIG. 2. Survival and induction of rifampin-resistant mutations following UV irradiation of excision-defective strains CM1223 $( \\Delta p o l A ~ \\mathrm { F ^ { \\prime } } ~ p o l A ^ { + } , \\bullet$ $\\bullet )$ and CM1224 (∆polA, $\\bigcirc \\bigcirc$ Values are means of three experiments. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            76,
+            657,
+            459,
+            875
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            490,
+            411,
+            882,
+            488
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            640,
+            502,
+            730,
+            515
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The primary objective of these experiments was to determine whether SOS-induced targeted mutagenesis can occur in the absence of DNA PolI. It is clear from the data in Table 2 and Fig. 2 that significant UV-induced mutagenesis occurs in strains of $E$ coli containing no Poll. Previous data also showing SOS mutagenesis in polA mutants left open the possibility that small amounts of PolI might still be present in the point mutants (15) to carry out mutagenesis. Utilization of strains lacking the enzyme eliminates this possibility. ",
+        "bbox": [
+            491,
+            521,
+            882,
+            636
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The marginal deficit in UV mutability to rifampin resistance of the ΔpolA excision-proficient strain is probably a consequence of interference in the pattern of excision repair, since it was not observed in an excision-defective background. Neither was any UV sensitivity conferred in a uvrA background by the polA deletion, compared with a similar strain with $p o l A ^ { + }$ on an $\\mathbf { F ^ { \\prime } }$ episome. A similar lack of effect has been noted previously with the polA1 mutation (19). The present result shows that no function of PolI is required for postreplication repair in the absence of excision repair, consistent with biochemical evidence showing that DNA polymerase III can replace PolI in daughter strand gap filling (23). ",
+        "bbox": [
+            491,
+            636,
+            882,
+            799
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three of the strains studied here have high spontaneous mutation frequencies. The two Poll deletion strains have a moderate mutator phenotype, characterized by a 7- to 10- fold increase in spontaneous mutation frequency. The deletion strain carrying the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease fragment is a stronger mutator, having about a 50-fold-higher spontaneous mutation frequency than the wild type. This exonuclease is thought to be responsible for removal of RNA primers on Okazaki fragments (see Kornberg [11]), and one may speculate that when it is present in excess, or when the polymerase function is absent, large DNA gaps may be present downstream from the replication fork: If the newly synthesized DNA becomes methylated before the gaps are filled, then the methylation-directed mismatch correction system might be unable to operate efficiently, so that errors introduced during gap filling by DNA polymerase II or III might persist. The principal cause of the mutator activity, however, appears to be the expression of constitutive SOS activity, presumably arising from the postulated large singlestranded regions of DNA. Spontaneous SOS mutagenesis in bacteria is known to depend on UmuC protein (7) and is believed to reflect error-prone \"repair\" of cryptic lesions, such as abasic sites (18, 22). The mutator activity associated with the $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease function was completely blocked by a Mu d lac fuion in umuC, as was much of the mutator activity associated with the polA deletion, the latter result being entirely consistent with the original suggestion of Witkin and George (26). It is interesting that the mutator activity of the $\\mathbf { F ^ { \\prime } } \\ \\mathsf { \\pmb { 5 } } ^ { \\prime }  \\ \\mathsf { \\pmb { 3 } } ^ { \\prime }$ exonuclease fragment is not apparent in the presence of the wild-type polA + allele (Bates and Bridges, unpublished data). ",
+        "bbox": [
+            491,
+            799,
+            883,
+            924
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/685f83440d8aedb56d839b9578f4a0c939768181d14ed22ebd982f8981380a9a.jpg",
+        "table_caption": [
+            "TABLE 3. Spontaneous mutation to valine resistance "
+        ],
+        "table_footnote": [
+            "xo Exonucease  ag "
+        ],
+        "bbox": [
+            102,
+            108,
+            929,
+            489
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            535,
+            501,
+            801
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "There remain a number of fundamental genetic and biochemical questions directly relevant to SOS-induced mutagenesis which need to be resolved. umuC and umuD gene products appear to be directly involved in SOS-induced mutagenesis, but their precise roles in the formation and fixation of errors are not known (for reviews, see references 21 and 25). The role of RecA protein in abetting cleavage of LexA repressor and UmuD protein is well documented (see reviews cited above plus references 6, 20, and 24). It is not known, however, what other role RecA protein might play in its interaction with DNA or the polymerase replication complex. It has been suggested that it might stimulate lesion bypass by inhibiting polymerase proofreading activity (4, 16), but there is other evidence arguing against this hypothesis (2). ",
+        "bbox": [
+            112,
+            803,
+            503,
+            926
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            535,
+            924,
+            599
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally, it is not completely clear to what degree each of the polymerases in E. coli might be involved in nucleotide incorporation opposite a noncoding template lesion and subsequent bypass. There are data suggesting the involvement of polymerase III in SOS-induced mutagenesis (3, 5). Recent data of Bonner et al. (1) show that polymerase III is induced approximately twofold by the SOS system, while the activity of polymerase II is increased sevenfold. The observation that these two polymerases are under control of the LexA repressor suggests roles for the two enzymes, but the biochemical nature of their roles during insertion and bypass of a lesion remains an entirely open question. While the data in this paper can be used to demonstrate that PolI is not required for UV mutagenesis, we cannot rule out the possibility that it participates in the process when it is present. ",
+        "bbox": [
+            532,
+            601,
+            926,
+            808
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            656,
+            833,
+            802,
+            844
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank Michael Green for statistical assistance and C. M. Joyce, N. D. F. Grindley, G. Walker, and R. Deonier for bacterial strains. ",
+        "bbox": [
+            532,
+            856,
+            926,
+            890
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work was supported in part by Public Health Service grant GM21422 to M.F.G. from the National Institutes of Health and by an EEC Radiation Protection Programme contract to C.R. and M.R. ",
+        "bbox": [
+            532,
+            891,
+            926,
+            925
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "LITERATURE CITED ",
+        "text_level": 1,
+        "bbox": [
+            200,
+            92,
+            334,
+            103
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Bonner, C. A., S. K. Randall, C. Rayssiguier, M. Radman, R. Eritja, B. E. Kaplan, K. McEntee, and M. F. Goodman. 1988. Purification and characterization of an inducible Escherichia coli DNA polymerase capable of insertion and bypass at abasic lesions in DNA. J. Biol. Chem. 263:1894618952.   \n1a.Boyle, J. M., and N. Symonds. 1969. Radiation sensitive mutants of T4D. I. T4y: a new radiation sensitive mutant, effect of the mutation on radiation survival growth and recombination. Mutat. Res. 8:431459.   \n.Bridges, B. A., C. Kelly, U. Hübscher, and S. G. Sedgwick. 1988. Possible roles of RecA protein and DNA polymerase III holenzyme in Escherichia coli, p. 277283. In R. E. Moses and W. C. Summers (ed.), DNA replication and mutagenesis. American Society for Microbiology, Washington, D.C.   \n3. Bridges, B. A., R. P. Mottershead, and S. G. Sedgwick. 1976. Mutagenic repair in Escherichia coli. III. Requirement for a function of DNA polymerase III in ultraviolet light mutagenesis. Mol. Gen. Genet. 144:5358.   \n4. Bridges, B. A., and R. Woodgate. 1985. Mutagenic repair in Escherichia coli: products of the recA gene and of the umuD and umuC genes act at different steps in UV-induced mutagenesis. Proc. Natl. Acad. Sci. USA 82:41934197.   \n5. Brotcorne-Lannoye, A., G. Maenhaut-Michel, and M. Radman. 1985. Involvement of DNA polymerase III in UV-induced mutagenesis of bacteriophage lambda. Mol. Gen. Genet. 199: 6469.   \n6. Burckhardt, S. E., R. Woodgate, R. H. Scheuermann, and H. Echols. 1988. UmuD mutagenesis protein of Escherichia coli: overproduction, purification, and cleavage by RecA. Proc. Natl. Acad. Sci. USA 85:18111815.   \n7. Ciesla, Z. 1982. Plasmid pKM101-mediated mutagenesis in Escherichia coli is inducible. Mol. Gen. Genet. 186:298300.   \n8. Ishii, Y., and S. Kondo. 1972. Spontaneous and radiationinduced deletion mutations in Escherichia coli strains with different DNA repair capacities. Mutat. Res. 16:1325.   \nJoyce, C. M., and N. D. F. Grindley. 1984. Method for determining whether a gene of Escherichia coli is essential: application to the polA gene. J. Bacteriol. 158:636643.   \nKondo, S., H. Ichikawa, K. Iwo, and T. Kato. 1970. Base-change mutagenesis and prophage induction in strains of Escherichia coli with different DNA repair capacities. Genetics 66:187217.   \nI1Kornberg, A. 1980. DNA replication. Freeman Publications, San Francisco.   \n[2. Lackey, D., S. W. Krauss, and S. Linn. 1982. Isolation of an altered form of DNA polymerase I from Escherichia coli cells induced for recA/lexA functions. Proc. Natl. Acad. Sci. USA 79:330334.   \n.Lackey, D., S. W. Krauss, and S. Linn. 1985. Characterisation of DNA polymerase $\\mathbf { I } ^ { * }$ , a form of DNA polymerase I found in Escherichia coli expressing SOS functions. J. Biol. Chem. 260:31783184.   \n14. Lea, D. E., and C. A. Coulson. 1949. The distribution of numbers of mutants in bacterial populations. J. Genet. 49: 264285.   \n1. Lehman, I. R., and J. Chien. 1973. Persistence of deoxyribonucleic acid polymerase I and its $5 ^ { \\prime }  3 ^ { \\prime }$ exonuclease activity in polA mutants of Escherichia coli K12. J. Biol. Chem. 248: 77177723.   \n16. Lu, C., R. H. Scheuermann, and H. Echols. 1986. Capacity of RecA protein to bind preferentially to UV lesions and inhibit the editing subunit of DNA polymerase III: a possible mechanism for SOS-induced targeted mutagenesis. Proc. Natl. Acad. Sci. USA 83:619623.   \n17. Miller, J. H. 1972. Experiments in molecular genetics. Cold Spring Harbor Laboratory, Cold Spring Harbor, N.Y.   \n18. Miller, J. H., and K. B. Low. 1984. Specificity of mutagenesis resulting from the induction of the SOS system in the absence of mutagenic treatment. Cell 36:675682.   \n1 Monk, M., M. Peacy, and J. D. Gross. 1971. Repair of damage induced by ultraviolet light in DNA polymerase-defective Escherichia coli cells. J. Mol. Biol. 58:623630.   \n20Nohmi, T., J. R. Battista, L. A. Dodson, and G. C. Walker. 1988. RecA-mediated cleavage activates UmuD for mutagenesis: mechanistic relationship between transcriptional derepression and posttranslational activation. Proc. Natl. Acad. Sci. USA 85:18161820.   \nPeterson, K. R., N. Ossanna, A. T. Thliveris, D. G. Ennis, and D. W. Mount. 1988. Derepression of specific genes promotes DNA repair and mutagenesis in Escherichia coli. J. Bacteriol. 170:1-4.   \n22. Schaaper, R. M., B. W. Glickman, and L. A. Loeb. 1982. Mutagenesis resulting from depurination is an SOS process. Mutat. Res. 106:19.   \nSedgwick, S. G., and B. A. Bridges. 1974. Requirement for either DNA polymerase I or DNA polymerase III in postreplication repair in excision-proficient Escherichia coli. Nature (London) 249:348349.   \nShinagawa, H., H. Iwasaki, T. Kato, and A. Nakata. 1988. RecA protein-dependent cleavage of UmuD protein and SOS mutagenesis. Proc. Natl. Acad. Sci. USA 85:18061810.   \n25. Walker, G. C. 1984. Mutagenesis and inducible responses to deoxyribonucleic acid damage in Escherichia coli. Microbiol. Rev. 48:6093.   \nWitkin, E. M., and D. L. George. 1973. Ultraviolet mutagenesis in polA and uvrA polA derivatives of Escherichia coli $\\mathbf { B } / \\mathbf { r }$ evidence for an inducible error-prone repair system. Genetics (Suppl.) 73:91108.   \n2Witkin, E. M. 1970. Ultraviolet mutagenesis in strains of $E$ coli deficient in DNA polymerase. Nature (London) New Biol. 229:8182. ",
+        "bbox": [
+            78,
+            107,
+            465,
+            681
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            490,
+            87,
+            885,
+            680
+        ],
+        "page_idx": 4
+    }
+]

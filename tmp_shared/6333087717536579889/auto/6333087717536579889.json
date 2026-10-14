@@ -1,0 +1,745 @@
+[
+    {
+        "type": "text",
+        "text": "Yahoo! Mail, o Correo Yahoo! en Latinoamérica, es el servicio de correo electrónico gratuito de Yahoo!. Es uno de los mayores proveedores de correo electrónico de Internet, que sirve a millones de usuarios. Entre los mayores competidores de Correo Yahoo! destacan Outlook.com, Gmail y AOL Mail. ",
+        "bbox": [
+            70,
+            140,
+            497,
+            271
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Según un informe de 2012 Yahoo! Mail continúa siendo el con mayor cantidad de usuarios en Estados Unidos aunque en estrecha competencia con Gmail y Outlook.com. A nivel mundial este es el tercero con mayor usuarios detrás de Gmail y Outlook.com. ",
+        "bbox": [
+            70,
+            288,
+            497,
+            399
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Desde 2015, Yahoo escanea el contenido de los correos de sus usuarios y cuando encuentra ciertas cadenas de caracteres reenvía los mensajes a la NSA y al FBI. 1 ",
+        "bbox": [
+            70,
+            416,
+            497,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El 26 de agosto de 2007, la versión AJAX de Correo Yahoo! se consideró completada. Reemplaza la versión clásica y llega a ser la interfaz predeterminada para Correo Yahoo!. El desarrollo de la nueva interfaz comenzó en julio de 2004, aunque previamente se desarrollaron otros prototipos. Actualmente es compatible con Internet ",
+        "bbox": [
+            70,
+            507,
+            497,
+            638
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/55e404d342c3e9e79d8573260221f26f293789a8182cc09a93e9ae4916152545.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            517,
+            143,
+            926,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/ef2c182d6b0af871f5e0d5768c0dc7c30a35e386b274d4be14d5d4e0815ffb15.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            393,
+            924,
+            619
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Explorer, Google Chrome, (y otros navegadores basados en Chromium, como el nuevo Microsoft Edge, Opera, Yandex Browser, etc.) Mozilla Firefox, Camino (y otros navegadores basados en Gecko como parte del plan de Yahoo! de actualizar todos sus sitios para que fueran compatibles con Firefox). Aunque es utilizable desde Safari, hay algunos problemas visuales con respecto a la disposición del contenido. ",
+        "bbox": [
+            70,
+            641,
+            932,
+            716
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correo Yahoo! Clásico ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            750,
+            363,
+            774
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correo Clásico es, desde el lanzamiento del nuevo Correo Yahoo!, una interfaz de usuario secundaria opcional. Aunque la interfaz AJAX es la predeterminada, Clásico está disponible para los usuarios que no pueden o prefieren usar el estilo antiguo. Actualmente, también se incluye la función de Mensajería desde Correo Clásico, con la que los usuarios pueden agregar tanto usuarios de Yahoo! como de Windows Live Messenger a su lista de contactos. ",
+        "bbox": [
+            68,
+            790,
+            931,
+            884
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correo Yahoo! tiene las siguientes características: ",
+        "bbox": [
+            70,
+            104,
+            475,
+            121
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Versión de pago ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            149,
+            255,
+            169
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Un terabyte de almacenamiento.   \n5GB de archivos adjuntos.   \nProtección contra correo no deseado y virus. (DomainKeys) Soporte POP3 en algunos países (no en Estados Unidos). Sin embargo, el soporte de SMTP requiere actualizarse a una cuenta Plus. Las cuentas no utilizadas durante cuatro meses se desactivan (La cuenta puede ser reactivada pero todos los datos almacenados se pierden). A principios de 2006, Correo Yahoo! introduce alias en su repertorio de características. Los usuarios pueden añadir un simple alias de nombre de usuario conteniendo un punto para una cuenta preexistente.   \nLa versión china de Correo Yahoo! ofrece una cuota de 3.5 GB y 20 MB para archivos adjuntos. ",
+        "bbox": [
+            78,
+            182,
+            932,
+            396
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Los usuarios pueden saltarse la restricción de acceso del navegador utilizando software que simula un servidor POP3 a la que una aplicación de correo conecta. YPOPs! y FreePOPS son ejemplos de aplicaciones software libre que permiten a los clientes de correo acceder a los servicios correo electrónico (incluyendo Correo Yahoo!) a través de POP3. ",
+        "bbox": [
+            70,
+            403,
+            931,
+            478
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Versión normal ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            505,
+            243,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Yahoo! Business E-mail (Correo electrónico empresarial) es una combinación de todos sus servicios de correo con 10 cuentas, cada una de las cuales con las mismas características que la versión plus, dominio personalizado y dirección de correo. Las cuentas pueden manejarse con un administrador. Yahoo aparentemente sigue trabajando para permitir a sus clientes de correo business acceder a sus cuentas de correo desde algunos teléfonos móvil, teléfonos inteligentes y Asistentes Personales (PDAs en inglés). De acuerdo con el sitio de Yahoo, por el momento, se puede acceder al correo empresarial sólo desde una BlackBerry. Los planes de Yahoo son hacer compatible este servicio con más dispositivos en el futuro. ",
+        "bbox": [
+            70,
+            535,
+            931,
+            666
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Entre otras características destacan: ",
+        "bbox": [
+            72,
+            682,
+            359,
+            698
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Almacenamiento de correo ilimitado.   \n10 MB de cuota por correo.   \nAdicionalmente, mediante pago, un usuario puede disponer de cinco direcciones de correo personalizadas y un nombre de dominio. Correo Yahoo! subraya las direcciones y números de teléfono en el correo y permite al usuario añadirlos a la libreta de direcciones . ",
+        "bbox": [
+            80,
+            716,
+            932,
+            824
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La historia de Correo Yahoo! comenzó con Geoff Ralston en noviembre de 1997, quien trataba con cada adquisición de Yahoo! desde que fue creada. Solía decir que \"Nadie conoce tu negocio como tus empleados\". Según él, la cuestión principal era considerar siempre si \"construir, comprar o alquilar\". La respuesta realmente dependía del crecimiento de la competencia y de la posición actual de la compañía. La razón principal para comprar cosas fue ganar velocidad al mercado. ",
+        "bbox": [
+            70,
+            103,
+            931,
+            195
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El crecimiento del número de usuarios de Internet relanzó la tecnología del correo electrónico, pero creó un ambiente muy competitivo donde el ganador sería la primera compañía en lanzar un servicio de correo electrónico con éxito que atrajera a usuarios potenciales. El correo electrónico llegó a ser una de las características más importantes de una compañía Web ya que significaría visitas regulares de los usuarios a su sitio web. ",
+        "bbox": [
+            70,
+            212,
+            931,
+            306
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cuando Hotmail y Mirabilis estaban buscando un comprador, Yahoo! fue la primera compañía en interesarse por ambas ofertas. Sin embargo, se retractó debido a que eran demasiado caras en aquel momento. Al final, Microsoft terminó comprando Hotmail por 400 millones de dólares y AOL compró Mirabilis por 288 millones de dólares. ",
+        "bbox": [
+            70,
+            321,
+            931,
+            395
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Más tarde hubo otra batalla por adquirir la compañía de comunicaciones en línea Four11. Yahoo! hizo un trato con la compañía. El motivo real por el que se realizó la adquisición de Four11 fue que en marzo de 1997, la compañía lanzó Rocketmail, un sistema correo electrónico que podría ser ofrecido a los usuarios. Al final, Yahoo! hizo un trato con Four11 por 96 millones de dólares y anunció la adquisición2 el 8 de octubre de 1997, muy cerca de la época en la que Correo Yahoo! fue lanzado.3 Correo Yahoo! fue el resultado de una adquisición más que de un desarrollo interno porque, según palabras de Healy \"Hotmail estaba creciendo a un ritmo de cientos y cientos de usuarios por semana. Hicimos un análisis. Para nosotros, el desarrollo nos hubiera llevado cuatro o seis meses, y para ellos, muchos usuarios habrían creado una cuenta de correo. La velocidad del mercado era crítica\". ",
+        "bbox": [
+            70,
+            412,
+            931,
+            584
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inicialmente, para muchos usuarios de Rocketmail, la transición a Correo Yahoo! no fue sencilla. Yahoo! liberó varias páginas de ayuda para intentar ayudar a estos usuarios. Poco después, el 21 de marzo de 2002, Yahoo! cortó el acceso gratuito imponiendo un coste económico de $2 9 . 9 9 \\$ $ por año. La portavoz de Yahoo!, Mary Osako, dijo a CNET, \"Los servicios de pago en Yahoo!, originalmente lanzados en febrero de 1999, han experimentado una gran aceptación en nuestra base de usuarios registrados, y esperamos que esta adopción continúe creciendo\". ",
+        "bbox": [
+            70,
+            599,
+            931,
+            712
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Durante el verano de 2002, la red Yahoo! fue rediseñada gradualmente. El 2 de julio, Yahoo.com fue rediseñado y se anunció que otros servicios como Correo Yahoo! entrarían en el mismo proceso. Junto con este nuevo diseño, se implementarían nuevas características, incluyendo nuevas herramientas de navegación, como menús en DHTML, diferentes categorías y un esquema de colores personalizable por el usuario. ",
+        "bbox": [
+            70,
+            728,
+            931,
+            820
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En noviembre del mismo año, Yahoo! lanzó otro servicio de pago: Yahoo! Mail Plus que incluía las siguientes características: ",
+        "bbox": [
+            72,
+            837,
+            931,
+            874
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 gigabytes de almacenamiento de correo   \n20-megabyte de límite por mensaje ",
+        "bbox": [
+            80,
+            889,
+            482,
+            927
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Habilidad para enviar hasta 10 adjuntos por correo   \nAcceso POP3 y Reenvío   \nArchivo de mensajes de correo en el disco duro para acceso offline   \nHabilidad para enviar mensajes desde Correo Yahoo! usando otros dominios de correo   \n200 direcciones bloqueadas y 50 filtros   \nAusencia de tags promocionales en los mensajes   \nNo expiración de la cuenta ",
+        "bbox": [
+            80,
+            42,
+            887,
+            176
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Geoff Ralston, vicepresidente de Yahoo! Network Services, y creador de la tecnología original de Correo Yahoo! en 1997 dijo: ",
+        "bbox": [
+            70,
+            185,
+            929,
+            219
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "\"El lanzamiento de Yahoo! Mail Plus es parte de la estrategia de Yahoo! de ofrecer servicios premium que proporcionan innovación, fiabilidad y relevancia para los consumidores. En solo cinco años, Correo Yahoo! ha crecido desde un millón a diez millones de usuarios, ilustrando cómo los consumidores han hecho del correo electrónico una parte esencial de su vida diaria. A través de Yahoo! Mail Plus, Yahoo! continua demostrando liderazgo e innovación ofreciendo a los consumidores la solución de correo electrónico más poderosa y completa de la industria.\" ",
+        "bbox": [
+            156,
+            239,
+            843,
+            346
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El 1 de abril de 2004, Google anunció un correo electrónico gratuito con un gigabyte de almacenamiento. Aunque el servicio de correo electrónico de Google realmente ofrecía una capacidad de almacenamiento importante, sus cuentas para \"sólo invitados\" mantenían a otros servicios correo electrónico por delante. La mayoría de los proveedores correo electrónico como Correo Yahoo!, Hotmail y AOL siguieron a Google incrementando su capacidad considerablemente. Yahoo! fue el primer proveedor en anunciar 100 MB de almacenamiento para cuentas básicas y 2 GB de almacenamiento para usuarios prémium. Le siguió Hotmail ofreciendo 250 MB, sólo 150 MB más que Correo Yahoo!, pero aún 750 MB por debajo de Google. Tras registrarse en Hotmail, los usuarios inicialmente disponían de 25 MB durante los 30 primeros días, tras lo cual, la cuota aumentaba a $2 5 0 ~ \\mathrm { M B }$ . Determinado a no perder clientes, Correo Yahoo! aumentó la cuota de almacenamiento para sus cuentas de correo electrónico gratuitas a 1 GB. ",
+        "bbox": [
+            70,
+            365,
+            931,
+            554
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El 9 de julio de 2004, Yahoo! adquirió Oddpost, un robusto correo electrónico que simulaba un cliente de correo de escritorio como Microsoft Outlook. Oddpost tenía unas características innovadoras tales como soporte drag-and-drop, menús contextuales, feeds RSS y un panel de previsualización. Pero también tenía una increíble velocidad, usando caché de correo para acortar el tiempo de respuesta y muchas de estas características fueron incorporadas en un servicio actualizado de Correo Yahoo!. ",
+        "bbox": [
+            70,
+            570,
+            931,
+            663
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El 30 de agosto de 2007, Walter Mossber escribió en The Wall Street Journal que Yahoo! liberaría la nueva versión en las próximas semanas. ",
+        "bbox": [
+            72,
+            679,
+            931,
+            716
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Código abierto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            744,
+            240,
+            764
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A finales de 2006, se anunció que Correo Yahoo! sería código abierto.4 ",
+        "bbox": [
+            70,
+            773,
+            647,
+            790
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Política de correo no deseado ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            826,
+            448,
+            849
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Como la mayoría de los proveedores de correo electrónico web gratuito, Correo Yahoo! se usaba a menudo por remitentes de correo no deseado para proporcionar una dirección de correo de rápida eliminación. Estas direcciones se usaban frecuentemente con el propósito expreso de verificar la ",
+        "bbox": [
+            70,
+            866,
+            929,
+            922
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "dirección de un destinatario. Sin embargo, Yahoo! no tolera esta práctica. Cancela cuentas que tienen conexión con actividades relacionadas con correo no deseado sin aviso y sus remitentes pierden acceso a cualquier otro servicio de Yahoo!. ",
+        "bbox": [
+            72,
+            42,
+            931,
+            98
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Filtros ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            135,
+            159,
+            156
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "En 2002, para prevenir el abuso, Correo Yahoo! tenía filtros que alteraban ciertas palabras (que podían disparar eventos Javascript no deseados). ",
+        "bbox": [
+            72,
+            174,
+            931,
+            211
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cuando se le preguntó acerca de estos cambios, Yahoo! explicó que las palabras cambiadas eran términos comunes utilizados en Web scripting, y estaban en lista negra para impedir a los piratas enviar comandos dañinos a través de funciones HTML del programa. ",
+        "bbox": [
+            72,
+            226,
+            929,
+            281
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El viernes, 8 de junio de 2007, los filtros de Correo Yahoo! dejan de sustituir ciertas palabras por otras. Aunque el cambio podría haber ocurrido antes de esta fecha, ahora antepone un \"_\" (Guion bajo) a ciertas palabras sospechosas. ",
+        "bbox": [
+            70,
+            298,
+            929,
+            352
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enviando un correo de prueba desde una cuenta ajena a Yahoo! a una cuenta de Correo Yahoo!, con las palabras \"Mocha\", \"eval\", \"Javascript\", y \"expression\" en una línea hace que los filtros de Correo Yahoo! antepongan un guion bajo a esas palabras, resultando en \"_Mocha\", \"_eval\", \"_Javascript\" y \"_expression\". ",
+        "bbox": [
+            70,
+            369,
+            931,
+            444
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Esta acción elimina el trato de estas palabras como comandos a través de las funciones HTML del programa renderizándolas como no-comandos o comandos no reconocibles. ",
+        "bbox": [
+            68,
+            460,
+            931,
+            495
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El 9 de junio de 2006, sólo en los términos \"expression\" y \"javascript\" se anteponía el guion bajo. ",
+        "bbox": [
+            68,
+            511,
+            862,
+            529
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "También se ofrecía un filtro anti correo no deseado llamado SpamGuard y la habilidad para configurar filtros personalizables. Un problema que había es que el filtro anti correo no deseado se aplicaba antes de cualquier filtro personalizado creado. Esto provocaba que algunos correos que se deseaba redirigir a la carpeta de entrada u otra carpeta se enviaban a la carpeta \"Bulk\". La única manera de tratar con este bug era monitorizar constantemente la carpeta \"Correo masivo\". ",
+        "bbox": [
+            70,
+            545,
+            931,
+            638
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Certificación del correo ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            673,
+            378,
+            697
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "En febrero de 2006, Yahoo! anunció su decisión (junto con AOL) de proporcionar a algunas organizaciones la opción de \"certificar\" el correo, pagando un céntimo por cada mensaje enviado, permitiendo que el correo en cuestión se saltara los filtros de correo no deseado de Yahoo y AOL. ",
+        "bbox": [
+            70,
+            714,
+            929,
+            769
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Greylisting ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            806,
+            218,
+            831
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El correo entrante de Yahoo! puede marcarse como Greylisting (\"marcado en lista gris\") como parte de los controles de spam. Esto puede retrasar el procesamiento del correo enviado a direcciones de Yahoo! sin que el emisor o el receptor sean conscientes de ello. El aplazamiento normalmente es de corta ",
+        "bbox": [
+            72,
+            846,
+            929,
+            902
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "duración, pero puede extenderse a varias horas. Yahoo! no documenta esta política en detalle, aunque hay alguna información disponible.5 ",
+        "bbox": [
+            65,
+            42,
+            931,
+            80
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bloqueo a nombres de usuario ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            116,
+            465,
+            140
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "El 20 de febrero de 2006 se reveló que Correo Yahoo! estaba bloqueando la palabra \"Allah\" en el nombre de usuario de las cuentas, tanto por separado como parte del propio nombre como por ejemplo linda.callahan. Poco después de que este hecho tuviera eco mediático, fue eliminado el 23 de febrero de 2006. Junto con esta acción, Yahoo! también hizo el siguiente anuncio: ",
+        "bbox": [
+            72,
+            156,
+            927,
+            230
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Constantemente evaluamos patrones de abuso en los nombres de usuario registrados para prevenir el spam, fraude y otros comportamientos inapropiados. Un pequeño número de personas se registran usando términos específicos con el solo propósito de promover odio, y luego usaron esas cuentas para enviar contenido dañino para otros, violando los términos del servicio de Yahoo! ",
+        "bbox": [
+            157,
+            251,
+            843,
+            326
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "'Allah' era una palabra utilizada para estos propósitos, con instancias que utilizaban un lenguaje difamatorio. Tomamos los pasos necesarios para ayudar a proteger a nuestros usuarios prohibiendo el uso de dicho término en los nombres de usuario de Yahoo!. Recientemente hemos reevaluado el término 'Allah' y los usuarios pueden registrarse con esta palabra porque ya no es objetivo de abuso. Regularmente evaluamos este tipo de actividad y continuaremos haciendo ajustes para que el proceso de registro ayude a adoptar una experiencia positiva para el usuario. ",
+        "bbox": [
+            157,
+            342,
+            843,
+            448
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Eliminar la cuenta de correo por fallecimiento ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            486,
+            667,
+            510
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Para poder eliminar una cuenta de correo de Yahoo por fallecimiento del usuario es necesario seguir una serie de pasos legales establecidos en las políticas de uso de Yahoo. Se debe enviar la documentación que acredite el fallecimiento a las oficinas de Yahoo. Si el usuario es de Latinoamérica debe enviar la documentación por correo a las oficinas de Miami, si el usuario es de Europa deberá enviar a las oficinas de Irlanda. ",
+        "bbox": [
+            70,
+            527,
+            931,
+            621
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            657,
+            262,
+            680
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Correo electrónico   \nCliente de correo electrónico   \nAnexo:Clientes de correo electrónico   \nWebmail ",
+        "bbox": [
+            80,
+            700,
+            436,
+            777
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            799,
+            223,
+            821
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. «Yahoo espió los correos electrónicos de sus clientes a petición del FBI y la NSA» (http://int ernacional.elpais.com/internacional/2016/10/04/estados_unidos/1475604843_616991.html). El País. Reuters. 5 de octubre de 2016. Consultado el 5 de octubre de 2016. ",
+        "bbox": [
+            77,
+            843,
+            931,
+            891
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Yahoo! Completa la adquisición de Four11 (http://docs.yahoo.com/docs/pr/release128.html) Archivado (https://web.archive.org/web/20070712045932/http://docs.yahoo.com/docs/pr/rele ",
+        "bbox": [
+            77,
+            895,
+            929,
+            927
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ase128.html) el 12 de julio de 2007 en Wayback Machine. ",
+        "bbox": [
+            95,
+            40,
+            618,
+            58
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3. Yahoo! expande los servicios de la comunidad con correo electrónico gratuito (http://docs.ya hoo.com/docs/pr/release124.html) Archivado (https://web.archive.org/web/20070712045957/ http://docs.yahoo.com/docs/pr/release124.html) el 12 de julio de 2007 en Wayback Machine. ",
+        "bbox": [
+            77,
+            61,
+            932,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Correo Yahoo! se convierte en Código Abierto (http://www.betanews.com/article/Yahoo_Ope n_Up_Mail_Source_Code/1159799969) ",
+        "bbox": [
+            78,
+            112,
+            931,
+            146
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5. «¿Por qué estoy obteniendo los errores “451 Message temporarily deferred” o \"421 Message from x.x.x.x temporarily deferred\" al enviar correo a Yahoo!?» (http://help.yahoo.co m/help/us/mail/defer/defer-06.html). Yahoo!. 2007. Consultado el 27 de junio de 2007. ",
+        "bbox": [
+            77,
+            148,
+            931,
+            198
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            226,
+            289,
+            248
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Correo Yahoo! (en inglés) (https://mail.yahoo.com/) Correo Yahoo! (en español) (https://login.yahoo.com/m?.intl=es&.src=ym) Descripción general de Correo Yahoo! de Argentina (http://ar.overview.mail.yahoo.com/) Descripción general de Correo Yahoo! en Castellano (http://e1.overview.mail.yahoo.com/) Descripción general de Correo Yahoo! México (http://mx.overview.mail.yahoo.com/) Grupo oficial de usuarios de Correo Yahoo! (en inglés) (http://groups.yahoo.com/group/Y-Ma il/)   \nBitácora del Equipo de Correo Yahoo! (en inglés) (http://www.ymailupdates.com/)   \nCorreo Yahoo! FAQ (en inglés) (http://help.yahoo.com/help/us/mail/) Tutoriales Correo Yahoo! (en inglés) (http://help.yahoo.com/l/us/yahoo/mail/original/tutorials _index.html) Como crear una cuenta de correo en Yahoo (https://web.archive.org/web/20160920170142/ http://aprendeacreartucorreo.com/#como_crear_un_correo_yahoo) Twitter oficial de Correo Yahoo! para Latinoamérica (https://x.com/yahoocorreo) en X (antes Twitter) ",
+        "bbox": [
+            78,
+            269,
+            936,
+            551
+        ],
+        "page_idx": 6
+    }
+]

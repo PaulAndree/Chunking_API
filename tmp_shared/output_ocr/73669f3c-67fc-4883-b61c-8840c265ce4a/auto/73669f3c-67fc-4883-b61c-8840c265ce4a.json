@@ -1,0 +1,483 @@
+[
+    {
+        "type": "text",
+        "text": "Reassembly of shattered chromosomes in Deinococcus radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            155,
+            745,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "en ZahradkaDea Slade Adriana Bailone Suzane Soer, DietricAverbeck, Mirjana etra Ariel B. Lindner1 & Miroslav Radman1,5 ",
+        "bbox": [
+            75,
+            231,
+            900,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dehydration or desiccation is one of the most frequent and severe challenges to living cells'. The bacterium Deinococcus radiodurans is the best known extremophile among the few organisms that can survive extremely high exposures to desiccation and ionizing radiation, which shatter its genome into hundreds of short DNA fragments25. Remarkably, these fragments are readily reassembled into a functional 3.28-megabase genome. Here we describe the relevant two-stage DNA repair process, which involves a previously unknown molecular mechanism for fragment reassembly called 'extended synthesis-dependent strand annealing' (ESDSA), followed and completed by crossovers. At least two genome copies and random DNA breakage are requirements for effective ESDSA. In ESDSA, chromosomal fragments with overlapping homologies are used both as primers and as templates for massive synthesis of complementary single strands, as occurs in a single-round multiplex polymerase chain reaction. This synthesis depends on DNA polymerase I and incorporates more nucleotides than does normal replication in intact cells. Newly synthesized complementary single-stranded extensions become 'sticky ends' that anneal with high precision, joining together contiguous DNA fragments into long, linear, double-stranded intermediates. These intermediates require RecA-dependent crossovers to mature into circular chromosomes that comprise double-stranded patchworks of numerous DNA blocks synthesized before radiation, connected by DNA blocks synthesized after radiation. ",
+        "bbox": [
+            68,
+            303,
+            482,
+            643
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Both desiccation and radiation cause DNA double-strand breaks (DSBs)4, the most severe form of genomic damage6,7. Deinococcus radiodurans survives exposures to ionizing radiation that produces over a thousand DSBs in each cell containing at least two genome copies, owing to a DNA repair process that accomplishes an efficient and precise reassembly of hundreds of short DNA fragments2,3,8. The mechanism underlying this molecular transaction, formally akin to the computer-assisted contig assembly of shotgunsequenced random genomic fragments, has remained a mystery for 50 yr (refs 915). ",
+        "bbox": [
+            68,
+            645,
+            480,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "At least six mechanisms are known that could, either alone or in some combination, rejoin hundreds of partially overlapping chromosomal fragments (see Supplementary Information): non-homologous end-joining; homologous recombination at the fragment ends; intraand interchromosomal single-strand annealing (SSA); synthesisdependent-strand annealing (SDSA); break-induced replication; and copy choice (the switching of DNA replication from fragment to fragment). None of these mechanisms has been previously ruled out, but all are excluded by this study. ",
+        "bbox": [
+            68,
+            779,
+            480,
+            895
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The requirement or involvement ofDNA synthesis can be diagnostic for the above DNA repair mechanisms (Supplementary Information). We therefore measured, in parallel, the kinetics of DNA fragment joining by pulsed-field gel electrophoresis (PFGE) and the rate of DNA synthesis by incorporation of $[ ^ { 3 } \\mathrm { H } ]$ thymidine during a 15-min pulse. After applying $7 \\mathrm { k G y }$ of $\\gamma$ -radiation, which shattered chromosomal DNA to fragments of about $2 0 { - } 3 0 \\mathrm { k b }$ (Fig. la), we observed a coincidence of DNA fragment assembly and massive DNA synthesis (Fig. 1a, b). This repair synthesis occurred before cell division at a rate much higher than that of DNA replication in the growing unirradiated cell cultures (Fig. 1b), and was absent in a polA strain (Fig. 1d) that showed no evidence of DNA repair (Fig. 1c). Neither repair nor synthesis was visible for $1 . 5 \\mathrm { h }$ after irradiation but, in the following $1 . 5 \\mathrm { h }$ ,chromosomal DNA appeared fully reassembled (Fig. 1a, b) at $8 0 { - } 9 0 \\%$ survival. ",
+        "bbox": [
+            81,
+            896,
+            482,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            303,
+            916,
+            486
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This largely RecA-independent fragment assembly16 (Fig. 1e) was accompanied by substantial DNA synthesis (Fig. 1f), but it did not produce complete chromosomes even after $2 4 \\mathrm { h }$ (Fig. le). These experiments establish a correlation between PolA-dependent (but not RecA-dependent) DNA synthesis and the reassembly of shattered D. radiodurans chromosomes that favours repair mechanisms that may (SSA and SDSA) or must (break-induced replication and copy choice) involve extensive DNA synthesis, rather than non-homologous endjoining and homologous recombination. RecA is clearly required for the appearance of full-size chromosomes (Fig. 1e), defining its key role in the late-stage process of maturation of circular chromosomes (see below). ",
+        "bbox": [
+            503,
+            487,
+            916,
+            643
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "How can small DNA fragments (Fig. la) sustain a rate of DNA synthesis that is much higher than that in normal DNA replication (Fig. 1b), and why is such synthesis correlated with fragment assembly (Fig. 1c, d)? To address these questions, the repair of the D. radiodurans DNA shattered by ionizing radiation was analysed by an adaptation of the classical Meselson—Stahl experiment17 —that is, by DNA density labelling and analysis of its buoyant density by ultracentrifugation in caesium chloride equilibrium density gradients. The extent and pattern of DNA repair synthesis was monitored by the incorporation of a heavy analogue of thymidine, 5-bromodeoxyuridine (BrdU). Whereas DNA replication in unirradiated D. radiodurans was semiconservative, the repair replication in irradiated cells generated a 'distributive'17 pattern of DNA replication (Fig. 4 in Supplementary Data). The repaired chromosomes were fine patchworks (at both the double-strand and single-strand level) of DNA fragments synthesized before irradiation, interconnected by DNA blocks synthesized after irradiation. The old and new DNA blocks in the repaired chromosomes were of comparable size $( \\sim 2 0 { - } 3 0 \\mathrm { k b } )$ . ",
+        "bbox": [
+            503,
+            645,
+            916,
+            895
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unlike natural bases, BrdU is highly photosensitive; therefore, the postulated old-Thy/new-BrdU patchwork structure of the repaired chromosomes could be tested by intracellular DNA photolysis. Only BrdU-substituted strands are sensitized to ultraviolet light, such that one-strand substitution in DNA duplex causes single-strand breaks, and two-strand substitution causes both single- and double-strand breaks18,19. Whereas one-strand BrdU substitution of unirradiated $D$ radiodurans chromosomes did not significantly sensitize DNA to double-strand breakage by ultraviolet photolysis (data not shown), two-strand BrdU substitution resulted in extensive DNA photolysis (Fig. 2b). In $\\gamma$ -irradiated cells, ultraviolet photolysis degraded DNA by double-strand breakage, only when the DNA was repaired in BrdU medium, to fragment sizes similar to those seen immediately after $\\gamma$ -irradiation (Fig. 2a). As predicted by the ultraviolet insensitivity of old-Thy DNA, the ultraviolet-induced fragmentation of $\\gamma$ -irradiated chromosomal DNA repaired in BrdU medium did not increase beyond a saturating dose of $2 5 0 { - } 5 0 0 \\mathrm { J m } ^ { - 2 }$ ,whereas it did for fully BrdU-substituted DNA (Fig. 2b). The pattern of ultraviolet photolysis suggested that most, perhaps all, reassembled DNA fragments were linked together by double-stranded blocks of newly synthesized DNA. The efficiency of ultraviolet photolysis suggested the presence of large sizes of newly synthesized double-stranded DNÅ patches in reconstituted chromosomes (see Supplementary Information). ",
+        "bbox": [
+            517,
+            896,
+            916,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            77,
+            467,
+            287
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/46b23d90f568fcfbc2b4ea5abed9e52d95438661c1c5fb65ed3c6cbd950a9fa1.jpg",
+        "image_caption": [
+            "Figure 1 | DNA repair and synthesis after 7-kGy $\\gamma$ -irradiation of D. radiodurans. a, c, e, Kinetics of DNA repair in wild-type, polA and recA strains, respectively. $\\mathbf { \\vec { C } } _ { } ^ { \\prime }$ indicates PFGE NotI restriction pattern of DNA from unirradiated cells; $ { \\mathbf { \\ell } } ^ { \\mathsf { c } } ( 0 ^ { \\mathsf { \\prime } }$ indicates cells immediately after irradiation; other numbers indicate duration of cell growth after irradiation; $\\mathbf { \\boldsymbol { s } } _ { \\mathbf { \\boldsymbol { s } } } ^ { \\prime }$ indicates S. cerevisiae chromosomes used as molecular mass standards. b, d, f, Respective rates of DNA synthesis. Incorporation of $[ ^ { 3 } \\mathrm { H } ]$ thymidine during $1 5 \\mathrm { - m i n }$ pulse labelling measures the global rate of DNA synthesis in irradiated (filled symbols) and unirradiated (open symbols) cultures. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            76,
+            319,
+            444,
+            842
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            488,
+            77,
+            901,
+            169
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To test the possibility that $D _ { * }$ radiodurans DNA repair involves initial extensive synthesis of single-stranded DNA, as in SDSA-related mechanisms, we developed an immunofluorescence microscopy method to detect and measure, in single cells, the newly synthesized single- and double-stranded DNA. The method is based on the specificity of monoclonal antibodies to BrdU that bind the BrdU moiety in singlebut not in double-stranded DNA. Similar to the experiment in Fig. 1b, newly synthesized DNA was labelled by 10-min BrdU pulses. Under native conditions, which revealed only the newly synthesized single-stranded DNA, unirradiated cells showed a low fluorescent background (Fig. 3a, c). After DNA denaturation, the antibody detected all newly synthesized DNA, and the intensity of fluorescent foci reflected the amount of BrdU incorporation during normal DNA replication (Fig. 3b, d). ",
+        "bbox": [
+            490,
+            170,
+            901,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In $7 { \\cdot } \\mathrm { k G y } \\gamma$ -irradiated cell cultures, under native conditions, BrdU pulses at different time periods caused the emergence of fluorescent foci only after a $1 . 5 – \\mathrm { h }$ incubation corresponding to the onset of global DNA synthesis (Fig. 1b). Their frequency and intensity peaked at $^ { 3 \\mathrm { h } }$ (Fig. 3a, c), and then both started to decrease and the foci disappeared by $^ { 6 \\mathrm { h } }$ (Fig. 3a). Under denaturing conditions (Fig. 3b, d), the foci peaked at the same time as under native conditions, after which the rate started decreasing to that of normal DNA replication (see Fig. 1b). At the peak intensity, the fluorescence reflecting newly synthesized single-stranded DNA was about $1 5 \\%$ of that reflecting all newly synthesized DNA. Thus, a considerable fraction, perhaps all, of ",
+        "bbox": [
+            490,
+            354,
+            901,
+            500
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/345793e0ce5725904fe617921a85e7eea9131961ce55c36048b2387e4ed050b8.jpg",
+        "image_caption": [
+            "Figure 2 | Photolytic fragmentation of shattered D. radiodurans chromosomes reassembled in the presence of BrdU. a, PFGE NotI restriction pattern of $D _ { * }$ radiodurans DNA (lanes 16) and S. cerevisiae molecular mass standards (S). Shown is DNA from unirradiated cells (lane 1), irradiated cells (lane 2), irradiated cells incubated for $^ { 3 \\mathbf { h } }$ in TGY medium before (lane 3) or after (lane 4) exposure to $1 , 0 0 0 { \\ J } \\mathbf { m } ^ { - 2 }$ of ultraviolet light, and irradiated cells repaired in BrdU-supplemented TGY medium before (lane 5) or after (lane 6) exposure to $1 , \\bar { 0 0 0 } { ] } \\mathbf { m } ^ { - 2 }$ of ultraviolet light. b, Unlimited photolysis of fully BrdU-substituted DNA (lanes 15) versus limited photolysis of DNA repaired in BrdU (lanes 610). Shown is DNA from cells grown for 4.5 generations in BrdU-supplemented TGY medium before (lane 1) or after exposure to $1 0 0 { \\ J } { \\bf m } ^ { - 2 }$ (lane 2), $2 5 0 \\mathrm { J m } ^ { - 2 }$ (lane 3), $5 0 0 \\mathrm { J } \\mathrm { m } ^ { - 2 }$ (lane 4) or $1 , 0 0 0 { \\mathrm { J } } \\mathbf { m } ^ { - 2 }$ (lane 5), and from irradiated cells repaired in BrdU-supplemented TGY medium (6) and then exposed to $1 0 0 { \\bar { \\mathrm { J } } } { \\bar { \\mathrm { m } } } ^ { - 2 }$ (lane 7), $2 5 0 \\mathrm { J } \\mathrm { m } ^ { - 2 }$ (lane 8), $5 0 0 { \\mathrm { J } } { \\mathrm { m } } ^ { - 2 }$ (lane 9) or $1 , 0 \\bar { 0 } 0 { \\mathrm { J } } { \\mathrm { m } } ^ { - 2 }$ (lane 10) of ultraviolet light. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            490,
+            532,
+            900,
+            760
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA synthesis triggered by DNA fragmentation initially produced single-stranded DNA that was rapidly converted to double-stranded DNA. ",
+        "bbox": [
+            66,
+            77,
+            480,
+            116
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We interpret our results as evidence that the capacity of D. radiodurans to reassemble hundreds of DNA fragments into intact circular chromosomes is due to a two-stage process (Fig. 4). The first stage involves a PolA-dependent mechanism that accomplishes most of fragment reassembly and that we call 'extended synthesisdependent strand annealing' (ESDSA; Fig. 4a), as suggested by Meselson. The second, late-stage process of maturation of circular chromosomes seems to involve RecA-dependent crossovers (Fig. 4b). ESDSA differs from the standard 'limited' SDSA as described in the legend to Fig. 4. The apparent rapidity by which single strands are converted to double strands (Fig. 3a, b) suggests that the synthesis of complementary single strands often coincides in space and time. Such a coincidence can occur when two priming fragments, separated by a large gap, are bridged by a third fragment sharing overlapping homology and acting as a template for synthesis of the missing sequence. If the sequences of the two priming fragments were ABCD and GHIJ, and that of the bridging template fragment were DEFG, then the complete sequence of the assembled contigs would be ABCDEFGHIJ with the newly synthesized $E F$ sequence. ",
+        "bbox": [
+            68,
+            117,
+            482,
+            380
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The distinct features of the ESDSA model are that, first, it requires at least two chromosomal copies that are broken at different positions, and second; it involves a single-round multiplex polymerase chain reaction (PCR)-like step (Fig. 4, steps 2 and 3), resulting in long, newly synthesized, single-stranded overhangs that facilitate accurate annealing (Fig. 4, steps 4 and 5). The DNA repair pattern seen in PFGE (Fig. 1a, e) and in optical mapping experiments20 shows that most DNA fragments 'grow' progressively and that most are used up in the chromosomal assembly process (Fig. 1). One can therefore imagine ESDSA 'chain reactions' involving numerous 'nucleation' points in each cell producing growing linear double-stranded DNA repair intermediates20. To become full-size chromosomes, such long, linear DNAs, either shorter or longer than the respective chromosome, require RecA-dependent intermolecular or intramolecular crossovers to produce unit-size circular chromosomes (Figs le and 4b). Although the polA mutant is deficient in ESDSA repair (Fig. 1), we cannot exclude the possibility that PolA initiates a DNA polymeraseIII-catalysed single-strand elongation or contributes only to the maintenance of fragments undergoing PolA-dependent base excision repair of the damage caused by oxygen free radicals21,22. Many details of the ESDSA mechanism have not been clarified, such as the priming step in DNA strand elongation, but the principal alternatives have been ruled out (see Supplementary Information). ",
+        "bbox": [
+            68,
+            381,
+            480,
+            512
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/37d5a3a58afcffb0720ae537ac8f620c70ad5351bcbf67ec9af8e0cd6c77001e.jpg",
+        "image_caption": [
+            "Figure 3 | Single-cell detection of repair-associated newly synthesized single-stranded DNA by immunofluorescence microscopy. D. radiodurans $t h y ^ { - }$ unirradiated (UNIR) and irradiated (IR; 7 kGy) cells were pulse-labelled with BrdU at different time points and examined by immunofluorescence under native $( \\bar { \\mathbf { a } } , \\pmb { \\mathsf { c } } )$ and DNA denaturing $( \\boldsymbol { \\mathbf { b } } , \\boldsymbol { \\mathbf { d } } )$ conditions. Unirradiated cells were labelled in the exponential growth phase. Error bars represent the s.e.m. Asterisks denote a statistically significant difference when compared with unirradiated exponential cells (t-test, $P < { 1 0 } ^ { - 2 }$ ). c, d, Representative images (fluorescence images adjusted to the same intensity scale and phasecontrast images) of cells before (UNIR) and after (IR) irradiation. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            547,
+            473,
+            833
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            77,
+            916,
+            247
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Can ESDSA account for the apparent fidelity of DNA contig assembly in $D$ radiodurans? Generally, the larger the number of DNA fragments, the higher the precision required for avoiding their incorrect assembly and the longer the homology required. If there is an unusually large number of DSBs, then an unusually long homology, and thus single-strand exposure, is required for an accurate reassembly. Unusually long overhangs are newly synthesized in the course of ESDSA (Fig. 4a). However, all types of homologybased fragment reassembly raise the issue of accuracy when DNA fragments contain repetitive sequences. This accuracy could be maintained if the tails of the fragments were much longer than the longest repetitive sequences. Annealing only a limited repeated sequence block within two long non-complementary single-stranded overhangs could not readily link the two fragments. Aberrant DNA associations through partially annealed structures are promptly dissociated by DNA helicases. Our experiments suggest that the size of newly synthesized overhangs is about $2 0 { - } 3 0 \\mathrm { k b }$ ,which is much longer than the longest repetitive sequences (insertion sequences of ${ \\sim } 1 \\mathrm { k b } ) ^ { 9 , 2 3 }$ in $D$ radiodurans (see also Supplementary Information). ",
+        "bbox": [
+            503,
+            250,
+            916,
+            301
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/10a80c8d1872396ca70761126b581f8a2efe324687e7e3178a7353a77b072005.jpg",
+        "image_caption": [
+            "Figure 4 | Two-stage process of reconstitution of shattered chromosomes. a, Two alternative strand annealing models for reassembly of small chromosomal fragments into long linear intermediates. Several genomic copies of D. radiodurans undergo random DNA double-strand breakage, producing numerous fragments. After $5 ^ { \\prime }$ $3 ^ { \\prime }$ end recession (step 1), DNA fragments can rejoin directly through the annealing of complementary single-stranded overhangs of overlapping fragments belonging to different chromosomal copies (step 4, interchromosomal SSA pathway); the gaps are repaired by synthesis and strand excess is trimmed by nucleases (step 5). In the ESDSA pathway, the end-recessed fragments (step 1) prime synthesis using the homologous regions of partially overlapping fragments as a template (step 2), presumably through a moving D-loop (bracketed intermediate). The strand extension can run to the end of the template, producing fragments with long, newly synthesized (red) singlestranded overhangs (step 3) that can a priori engage in several rounds of extension until they find a complementary partner strand (steps 4 and 5 are the same in ESDSA and SSA). Hydrogen bonds are indicated only for interfragment associations. b, To mature into unit-size circular chromosomes, the overlapping, long, linear fragments, or linear intermediates longer than the chromosome, require crossovers (X) by means of RecA-dependent homologous recombination (HR). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            545,
+            338,
+            872,
+            699
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            77,
+            467,
+            287
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A high-fidelity ESDSA process requires that all overhangs of a fragment must be extended by copying fragments that are contiguous in the intact chromosome. We can think of four strategies for assuring the fidelity of both synthesis priming and strand annealing: first, homologous pairing of recessed double-stranded DNA fragments before the initiation of D-loops, perhaps by the peculiar deinococcal RecA12; second, editing the pairing process by mismatch repair proteins24,25; third, repeat-binding proteins preventing sequence repeats from becoming single stranded or from annealing; and fourth, stable secondary structures (hairpins) of repetitive sequences23 preventing annealing with the same repeat in a noncomplementary single-stranded partner. ",
+        "bbox": [
+            53,
+            289,
+            467,
+            446
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The robustness of $D _ { \\circ }$ radiodurans has presumably evolved under harsh non-reproductive conditions such as those present in arid desert environments26. Extreme desiccation accompanied by extensive DNA breakage4, as in our irradiation experiments, leads to the 'clinical death' of deinococcal cells. On supply of water and ions, however, the dead bacterium 'resurrects' by reconstituting its shattered genome27. D. radiodurans can be seen as a bacterial model of long-lived non-dividing neurons. Thus, exploring mechanisms of deinococcal robustness could inspire approaches in anti-ageing research and regenerative medicine. Reproducing in vitro the DNA recombination repair of $D$ radiodurans under low-fidelity conditions could provide a tool for the shuffling of genomic fragments from the whole biosphere. ",
+        "bbox": [
+            53,
+            446,
+            468,
+            617
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "METHODS ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            636,
+            125,
+            647
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "See Supplementary Information for a full description of the methods used. ",
+        "bbox": [
+            53,
+            650,
+            447,
+            661
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Strains. $D _ { * }$ radiodurans strains R1 wild type28 and a $t h y ^ { - }$ derivative (this work), GY10922 $\\Delta ( c i n A  – r e c A ) _ { 1 } { : : } \\mathrm { k a n } ^ { 2 9 }$ and IRS501 polA (J. R. Battista) were used. Bacteria were grown in TGY medium at $3 0 ^ { \\circ } \\mathrm { C }$ to the late exponential phase and exposed to 7 kGy $\\gamma$ -irradiation, resulting in $8 0 { - } 9 0 \\%$ survival of the wildtype strain. ",
+        "bbox": [
+            53,
+            662,
+            467,
+            720
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Measurement of DNA size, density and synthesis. The kinetics of DNA fragment joining was measured by PFGE. Irradiated cells were embedded in agarose plugs, lysed and treated with NotI restriction enzyme4. The plugs were subjected to pulsed electric field in $0 . 5 \\times$ TBE buffer using a CHEF-DR III electrophoresis system (Bio-Rad) at $6 \\mathrm { V c m } ^ { - 2 }$ for $2 0 \\mathrm { h }$ at $1 4 ^ { \\circ } \\mathrm { C } ,$ with a linear pulse ramp of 5090 s and a switching angle of $1 2 0 ^ { \\circ }$ . ",
+        "bbox": [
+            53,
+            722,
+            467,
+            792
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The rate of DNA synthesis was measured by pulse labelling $0 . 5 { - } \\mathrm { m l }$ samples of exponential cultures with $[ ^ { 3 } \\mathrm { H } ]$ thymidine for $1 5 \\mathrm { { m i n } }$ .Pulses were terminated by addition of ice-cold $1 0 \\%$ trichloracetic acid and the precipitated counts measured. For DNA density gradient analysis, $D _ { * }$ radiodurans thy  cells were radioactively and density labelled during growth in the presence of $[ ^ { 3 } \\mathrm { H } ]$ thymidine and BrdU, respectively. The DNA was isolated and its buoyant density was analysed by ultracentrifugation in CsCl density gradients. ",
+        "bbox": [
+            53,
+            795,
+            467,
+            877
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Intracellular photolysis of BrdU-substituted DNA. For DNA photolysis, irradiated $t h y ^ { - }$ cells were grown in BrdU-supplemented TGY medium for $^ { 3 \\mathrm { h } , }$ then starved in buffer, ice cooled, exposed in a thin layer to the indicated doses of $2 5 4 \\mathrm { - n m }$ ultraviolet light and embedded in agarose plugs for PFGE analysis of DNA. ",
+        "bbox": [
+            53,
+            878,
+            467,
+            936
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Detection of single-strand DNA synthesis at the single cell level. The newly synthesized DNA was detected and measured by immunofluorescence microscopy. Exponentially grown $t h y ^ { - }$ cell suspensions were exposed to $1 0 { \\cdot } \\mathrm { m i n }$ BrdU pulses, fixed in methanol, rendered permeable for antibodies, and then treated with primary antibodies to BrdU, followed by fluorescence-tagged secondary antibodies. Fluorescence was analysed by microscopy. Image analysis was done with Metamorph software. ",
+        "bbox": [
+            52,
+            938,
+            467,
+            960
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            488,
+            77,
+            901,
+            136
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Received 24 May; accepted 9 August 2006. Published online 27 September 2006. ",
+        "text_level": 1,
+        "bbox": [
+            490,
+            146,
+            707,
+            167
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1Potts, M. Desiccation tolerance: a simple process? Trends Microbiol. 9, 553-559 (2001).   \n2. Minton, K. W. DNA repair in the extremely radioresistant bacterium Deinococcus radiodurans. Mol. Microbiol. 13, 9-15 (1994).   \n3. Ba, JR ar A . & rk . . Wh  De resistant to ionizing radiation? Trends Microbiol. 7, 362-365 (1999).   \n4. Mattimore, V. & Battista, J. R. Radioresistance of Deinococcus radiodurans: functions necessary to survive ionizing radiation are also necessary to survive prolonged desiccation. J. Bacteriol. 178, 633-637 (1996).   \n5. Saders, S. W. & Maxcy, R. B. Isolation f radiation-resistant bacteria witout exposure to radiation. Appl. Environ. Microbiol. 38, 436-439 (1979).   \n6. Krasin, F. & Hutchinson, F. Repair of DNA double-strand breaks in Escherichia n eupli  Mo Biol. 116, 8198 (1977).   \n7. Fujimori, A. et al. Rad52 partially substitutes for Rad51 paralog XRCC3 in maintaining chromosomal integrity in vertebrate cells. EMBO J. 20, 5513-5520 (2001).   \n8. Dean, C. J., Feldschreiber, P. & Lett, J. T. Repair of $\\textsf { X }$ -ray damage to the deoxyribonucleic acid in Micrococcus radiodurans. Nature 209, 49-52 (1966).   \n9. White, O. et al. Genome sequence of the radioresistant bacterium Deinococcus radiodurans. Science 286, 15711577 (1999).   \nFerreira, A. C. et al. Characterization and radiation resistance of new isolates of Rubrobacter radiotolerans and Rubrobacter xylanophilus. Extremophiles 3, 235238 (1999).   \n11. Nar Inldti anis:a  . Trends Microbiol. 1, 422425 (2003).   \n12. Cox, M. M. & Battista, J. R. Deinococcus radiodurans—the consummate survivor. Nature Rev. Microbiol. 3, 882892 (2005).   \n13. Harsojo. Kitayama, S. & Matsuyama, A. Genome multiplicity and radiation resistance in Micrococcus radiodurans. J. Biochem. 90, 877-880 (1981).   \n14. Levin-Zaidman, S. et al. Ringlike structure of the Deinococcus radiodurans genome: a key to radioresistance? Science 299, 254-256 (2003).   \nZimmerman, J. M. & Battista, J. R. A ring-like nucleoid is not necessary for radioresistance in Deinococcaceae. BMC Microbiol. 5, 17-27 (2005).   \nDaly, M. J. & Minton, K. W. An alternative pathway of recombination of chromosomal fragments precedes recA-dependent recombination in the radioresistant bacterium Deinococcus radiodurans. J. Bacteriol. 178, 4461-4471 (1996).   \nMeselson, M. & Stahl, F. W. The replication of DNA. Cold Spring Harb. Symp. Quant. Biol. 23, 912 (1958).   \n18.Lion, M. B. Search for a mechanism for the increased sensitivity of 5-bromouracil-substituted DNA to ultraviolet radiation. II. Single-strand breaks in the DNA of irradiated 5-bromouracil-substituted T3 coliphage. Biochim. Biophys. Acta 209, 2433 (1970).   \nLohman, P. H. M., Bootsma, D. & Hey, A. H. The influence of 5-bromodeoxyuridine on the induction of breaks in deoxyribonucleic acid of cultivated human cells by X-irradiation and ultraviolet light. Radiat. Res. 52, 627641 (1972).   \nLin, J. et al. Whole-genome shotgun optical mapping of Deinococcus radiodurans. Science 285, 15581562 (1999).   \n2 Milligan, J. R. et al. DNA strand-break yield after incubation with base excision repair endonucleases implicate hydroxyl radical pairs in double-strand break formation. Int. J. Radiat. Biol. 76, 14751483 (2000).   \n2Lindahl, T. DNA repair enzymes. Annu. Rev. Biochem. 51, 6187 (1982).   \nMakarova, K. S. t al. Genome of the extremely radiation-resistant bacterium Deinococcus radiodurans viewed from the perspective of comparative genomics. Microbiol. Mol. Biol. Rev. 65, 44-79 (2001).   \nRayssiguier, C., Thaler, D. S. & Radman, M. The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatchrepair mutants. Nature 342, 396-401 (1989).   \nensures fidelity of replication and recombination in the radioresistant organism Deinococcus radiodurans. Mol. Genet. Genomics 272, 460-469 (2004).   \nRainey, F. A. et al. Extensive diversity of ionizing-radiation-resistant bacteria recovered from Sonoran Desert soil and description of nine new species of the genus Deinococcus from a single soil sample. Appl. Environ. Microbiol. 71, 52255235 (2005).   \nHarris, D. R. et al. Preserving genome integrity: the DdrA protein of Deinococcus radiodurans R1. PLoS Biol. 2, 1629-1639 (2004).   \nAnderson, A. W., Nordon, H. C., Cain, R. F., Parrish, G. & Duggan, D. Studies on a radio-resistant micrococcus. I. Isolation, morphology, cultural characteristics and resistance to $\\gamma$ radiation. Food Technol. 10, 575578 (1956).   \n29 Bonacossa de Almeida C. Coste G Sommer S & Bailone A Ouantification ",
+        "bbox": [
+            488,
+            160,
+            901,
+            958
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "of RecA protein in Deinococcus radiodurans reveals involvement of RecA, but not LexA, in its regulation. Mol. Genet. Genomics 268, 28-41 (2002). ",
+        "bbox": [
+            89,
+            75,
+            464,
+            97
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supplementary Information is linked to the online version of the paper at www.nature.com/nature. ",
+        "bbox": [
+            68,
+            108,
+            444,
+            130
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements We thank J. Battista for initial help with Deinococcus and for the polA mutant; M. Meselson, B. Wagner, A. Stark, D. Zahradka and members of the M.R. lab for reading this manuscript and/or providing advice; M. Blazevic for technical assistance on $\\gamma$ irradiation; and Mikula Radman for illustrations. K.Z. held a fellowship from the Necker Institute during work in M.R.'s laboratory. D.S. holds a Boehringer Ingelheim Foundation predoctoral fellowship and A.B.L. is a Marie Curie fellow. The laboratory in the Université de Paris-Descartes was funded by INSERM and the Necker Institute (Mixis/PLIVA contract); that in the Institut de Génétique et Microbiologie by EDF-France and CNRS (GEOMEX); ",
+        "bbox": [
+            66,
+            137,
+            480,
+            234
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "that in the Institut Curie by EDF-France; and that in the Ruder Boskovic Institute by the Croatian Ministry of Science, Education and Sports. ",
+        "bbox": [
+            503,
+            75,
+            913,
+            98
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Author Contributions Experiments in Figs 1 and 2 and Supplementary Fig. 4 were carried out by K.Z.; those in Fig. 3 by D.S. A.B.L. provided expertise in microscopy; and the global experimental design was by M.R. The results of Fig. 1b, f, were obtained in, and with the scientific and material support of, the Institut de Génétique et Microbiologie; those of Fig. 1a, e, in the Institut Curie; those of Figs 1c, d, 2 and Supplementary Fig. 4 in the Ruder Boskovic Institute, and those of Fig. 3 in the Université de Paris-Descartes. ",
+        "bbox": [
+            503,
+            106,
+            905,
+            183
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Author Information Reprints and permissions information is available at www.nature.com/reprints. The authors declare no competing financial interests. Correspondence and requests for materials should be addressed to M.R. (radman@necker.fr). ",
+        "bbox": [
+            501,
+            190,
+            915,
+            233
+        ],
+        "page_idx": 4
+    }
+]

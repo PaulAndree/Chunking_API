@@ -1,0 +1,455 @@
+[
+    {
+        "type": "text",
+        "text": "Some restriction endonucleases tolerate single mismatches of the pyrimidine· purine type ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            94,
+            918,
+            147
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M.Petranovi12\\*, D.Petranovi², C.Dohet1, P.Brooks1 and M.Radman1   \n1nstitut Jacques Monod, T43, 2 place Jussieu, 75251 Paris Cedex 05, France and Ruder Bokovi   \nInstitute, PO Box 1016, 41001 Zagreb, Yugoslavia ",
+        "bbox": [
+            90,
+            166,
+            914,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received October 31, 1989; Revised and Accepted February 5, 1990 ",
+        "bbox": [
+            89,
+            247,
+            570,
+            261
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            300,
+            176,
+            314
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNAs from phage mutants M13mp18 and M13mp18/MP-1 were used to construct two closed circular heteroduplexes. One of them carried the sequence $\\bar { \\mathbf { 5 ^ { \\prime } } }$ -CCTGGG $\\bullet ^ { \\prime }$ $\\pmb { 3 } ^ { \\prime }$ -GGGCCC $\\bullet ^ { \\prime }$ with a T.G mismatch at the position 6248. The other carried the sequence $\\bar { \\mathbf { 5 } } ^ { \\prime }$ -CCCGGG $\\bullet \\bullet$ $\\pmb { 3 } ^ { \\prime } \\cdot$ GGACCC $\\bullet ^ { \\prime }$ with a $\\mathbf { c } \\cdot \\mathbf { A }$ mismatch at the same position. Heteroduplexes were exposed to 7 restriction endonucleases having recognition sites within the sequence $\\bar { \\mathbf { s } } ^ { \\prime }$ -CCCGGG-3' $\\pmb { 3 } ^ { \\prime }$ -GGGCCC-5' and to 1 restriction endonuclease having a recognition site within the sequence $\\bar { \\mathbf { 5 ^ { \\prime } } }$ -CCTGGG-3' $\\pmb { 3 } ^ { \\prime }$ -GGACCC-5'. All tested enzymes cleaved at least one mismatch-containing sequence although with reduced efficiency. Smal and Xmal tolerated both mismatchcontaining sequences. Aval, Hpall, Mspl, Ncil and Nspll were able to tolerate only the T G containing sequence, while BstNl was able to tolerate only the C · A containing sequence. It is inferred that the tolerance displayed by Smal and Xmal depends on the presence of either the original purines or the original pyrimidines in mismatches of both the T · G and C · A type and that all other tested enzymes require the presence of the original purines in mismaches of both types. ",
+        "bbox": [
+            89,
+            320,
+            488,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            646,
+            211,
+            659
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Type I restriction enzymes recognize only certain sites in double stranded DNA and produce endonuclease cuts within or, very rarely, near them. Recognition sites are highly specific sequences, usually of dual symmetry and 4 to 6 base pairs long. They can be modified in different ways and used for the analysis of recognition. One possible way to modify these sites is to introduce defined mismatched base pairs into them. This approach has recently been exploited by Jiricny and Martin' and by Shenoy et al.2 Their results offer some insights into the problem of recognition and open some questions about it. (1) A significant number of restriction endonucleases (5 out of 9) are capable of cleaving heteroduplex DNA at recognition sites containing one mismatch of the purine · pyrimidine type. (2) Cleavage depends on the exact positions of single mismatches within recognition sites. For example, when a mismatch occupied the marginal position in the recognition site for the enzyme Sall, its presence did not inhibit the enzyme. However, when the same mismatch was located close to the centre of the same recognition site, Sall was completely inhibited. The interaction of SstI and its modified recognition site gives an other example. SstI was active when a mismatch was at the margin and was inactive when the same mismatch was close to the centre. (3) Some restriction endonucleases recognize sites that consist not only of constant base pairs but also of one or more variable ones. HindII is in this group of enzymes. When its recognition site contained a mismatch at the position of one of two variable base pairs, the enzyme remained active. One may ask whether the presence of a mismatch at such positions is irrelevant to the recognition. (4) The next question is also concerned with the recognition sites consisting of both constant and variable base pairs. The question is whether a mismatch situation at the position of a constant base pair could prevent the recognition. The results with the enzymes AccI and HincII suggest such a possibility. (5) In all cases in which the enzymes HindII, SalI, SmaI and SstI were not inhibited by single mismatches, the original purine was present in each mismatch. The question therefore arises whether the presence of original purine in mismatches is essential for the recognition. ",
+        "bbox": [
+            92,
+            668,
+            489,
+            864
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            323,
+            920,
+            613
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The experiments reported here were done in an attempt to answer these questions. We constructed two DNA heteroduplexes. One contained a $\\mathbf { T } \\cdot \\mathbf { G }$ mismatch in the sequence ${ \\pmb 5 ^ { \\prime } }$ -CCTGGG- $\\cdot 3 ^ { \\prime }$ $_ { 3 ^ { \\prime } }$ -GGGCCC- $. 5 ^ { \\prime }$ while the other contained a $\\mathbf { C } - \\mathbf { A }$ mismatch in the sequence ${ \\pmb 5 ^ { \\prime } }$ -CCCGGG- $. 3 ^ { \\prime }$ $_ { 3 ^ { \\prime } }$ -GGACCC- $. 5 ^ { \\prime }$ . Both heteroduplexes were treated with each of the 8 restriction endonucleases having their recognition sites within these sequences. Recognition sites for 4 enzymes, those for HpalI, MspI, SmaI and XmaI, consist of constant base pairs. Recognition sites for the other 4 enzymes, those for Aval, BstNI, Ncil and NspIII, consist of both constant and variable base pairs. When heteroduplexes were used in combination with AvaI or NspIII, mismatches found themselves at the position of one constant base pair. In the case of BstNI and NciI, mismatches occupied the position of one variable base pair. Finally, in a total of 16 reactions involving 8 enzymes and 2 heteroduplexes, there were 8 recognition sites that contained a mismatch with the original purine and 8 recognition sites that contained a mismatch with the original pyrimidine. ",
+        "bbox": [
+            518,
+            613,
+            920,
+            864
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            86,
+            311,
+            101
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial and phage strains Bacterial strains used in this study were: $E .$ coli JM101 supE, thi, del (lac-proAB), /F' traD36, proAB, lacl9Z delM15/ and E. coli JM110 rpsL, thr, leu, thi, lacY, galK, galT, ara, tonA, tsx, dam, dcm, supE 44, del(lac$p r o A B )$ , $/ \\mathbf { F ^ { \\prime } }$ , traD36, proAB, laclI9Z delM15/3. Phage mutants were: $\\mathbf { M } 1 3 \\mathbf { m p } 1 8 ^ { 3 }$ and M13mp18/MP-1 (this work). ",
+        "bbox": [
+            93,
+            108,
+            494,
+            188
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Growth and platings of bacteria and phage Infections of liquid bacterial cultures, preparations of phage stocks and platings for colonies and plaques were done as described by Messing4. ",
+        "bbox": [
+            95,
+            201,
+            494,
+            240
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA preparations $( + )$ strand phage DNA (circular singlestranded DNA from phage particles) and replicative form (RF) phage DNA(closed circular double-stranded DNA from infected cells) were isolated according to Messing4. The procedure used for making minipreparations of RF phage DNA was that of Kado and Liu5. ",
+        "bbox": [
+            95,
+            254,
+            496,
+            332
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Construction of the phage mutant M13mp18/MP-1 To construct M13mp18/MP-1, the method of Mandecki6 for oligonucleotidedirected mutagenesis was somewhat modified and applied to $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ . The method is based on the observation that a doublestrand break in plasmid DNA is efficiently repaired in the presence of an oligonucleotide, the sequence of which is complementary with one strand of plasmid DNA on both sides of the double-strand break. If the sequence of oligonucleotide contains a defined change at a defined position, this change can direct the formation of predictable mutation type at the predictable position in the repaired plasmid molecule. ",
+        "bbox": [
+            95,
+            346,
+            494,
+            492
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ is a derivative of the phage M13. It serves as a cloning vector and for this reason a synthetic polylinker region has been inserted into its DNA. In double-stranded form this region carries the sequence ${ \\pmb 5 ^ { \\prime } }$ -CCCGGG- $. 3 ^ { \\prime }$ ${ \\mathfrak { z } } ^ { \\prime }$ -GGGCCC- ${ \\cdot } 5 ^ { \\prime }$ . This sequence is unique for the whole molecule and is recognized by SmaI endonuclease. The central $\\mathbf { { c } } { \\cdot } \\mathbf { { G } }$ pair within the recognition site for SmaI endonuclease (the position 6248 in phage DNA) was chosen as a target for the oligonucleotide-directed mutagenesis. Mutations formed at the position 6248 were detected by measuring resistance to Smal (see below). ",
+        "bbox": [
+            95,
+            492,
+            494,
+            624
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutagenic oligonucleotide was synthesized by Dr. L.D'Auriol. Its 21 bases, except for the middle one, were complementary with a part of the $( + )$ strand of $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ DNA. The noncomplementary base was adenine. It was used to direct the substitution of the ${ \\bf { T } } \\cdot { \\bf { A } }$ pair for the $\\mathbf { c } { \\cdot } \\mathbf { G }$ pair at the position 6248. ",
+        "bbox": [
+            93,
+            626,
+            494,
+            691
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Double-strand breaks at unique sites in RF phage DNA were produced by the action of SmaI endonuclease. Linear phage DNA thus obtained was mixed with the mutagenic oligonucleotide at the molar ratio 1:50. This mixture was heated for 3 minutes at $9 0 ^ { \\circ } \\mathbf { C }$ and cooled for 4 hours to room temperature. In this way phage DNA was denaturated and its $( + )$ strand was probably circularized by annealing with the oligonucleotide. This was the first (non-enzymatic) step in double-strand break repair. Other steps were performed in vivo. Hybrid molecules were transfected into competent JM101 cells. Competence was induced by $\\mathbf { C a C l } _ { 2 }$ -treatment. Transfectants were plated for plaques and their clones taken from central areas of 50 individual plaques were cultivated in small volumes of the liquid medium. Minipreparations of RF phage DNA clones were used for screening phage mutants containing a ${ \\bf { T } } \\cdot { \\bf { A } }$ base pair at the position 6248 within the recognition site for Smal. Screening was done by measuring SmaI-resistance (see below). According to this cirterion almost all DNAs contained the desired mutation. One of them was recloned and further characterized by sequencing (see below). This DNA was proved to have the ${ \\bf { T } } \\cdot { \\bf { A } }$ base pair at the position 6248 and no other changes in the sequence interval between the position 6210 and 6300. Phage mutant bearing this was named $\\bf { M } 1 3 m p 1 8 / M P - 1$ . ",
+        "bbox": [
+            95,
+            692,
+            494,
+            913
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            84,
+            928,
+            164
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA was sequenced by the dideoxy method of Sanger et al.7 $( - 4 0 )$ M13mp18 primer (New England Biolabs) was used as specified by the manufacturer. DNA was labelled with $[ \\alpha ^ { \\mathbf { \\alpha } , 3 2 } \\mathbf { P } ]$ dATP $1 0 0 0 ~ \\mu \\mathrm { C i } / \\mathrm { m m o l }$ ; Amersham). ",
+        "bbox": [
+            527,
+            165,
+            928,
+            218
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Construction of closed circular DNA heteroduplexes Phage mutants $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ and $\\mathbf { M } 1 3 \\mathbf { m p } 1 8 / \\mathbf { M P } { - } 1$ were used as starting materials for two DNA heteroduplexes, one with a $\\mathbf { T } { \\cdot } \\mathbf { G }$ mismatch at the position 6248 and the other with a $\\mathbf { C } { \\cdot } \\mathbf { A }$ mismatch at the same position. To avoid any methylation in phage DNA, the mutants were propagated in $E$ coli JM110 dam, dcm for at least two cycles of infection. ",
+        "bbox": [
+            529,
+            234,
+            928,
+            326
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Heteroduplexes were constructed according to the procedure described by Lu et al.8 RF DNA of $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ and $( + )$ strand DNA of $\\mathbf { M } 1 3 \\mathbf { m p } 1 8 / \\mathbf { M P - } 1$ were employed for the construction of heteroduplex containing a $\\mathbf { T } { \\cdot } \\mathbf { G }$ mismatch. For the construction of other heteroduplex, that containing a $\\mathbf { { C } } { \\cdot } { \\mathbf { { A } } }$ mismatch, RF DNA of M13mp18/MP-1 and $( + )$ strand DNA of $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ were used. In both cases RF DNA was linearized by HindIII, denatured and annealed with 10 mole-equivalents of $( + )$ strand DNA. Excess of single-stranded DNA was adsorbed on BA85 nitrocellulose filters (Schleicher and Schuell) in the presence of $5 0 0 ~ \\mathrm { m M }$ NaCl and $2 0 0 ~ \\mathrm { m M }$ EDTA. After dialysis against 10 mM Tris HCl, $\\tt p H 7 . 4$ , plus $1 \\mathrm { m M }$ EDTA, DNA was precipitated by ethanol. Precipitate consisting mostly of open circular DNA was resuspended, heated for 10 minutes at $6 5 ^ { \\circ } \\mathrm { C }$ and exposed to the action of $E _ { \\mathrm { { \\ell } } }$ coli DNA ligase $( \\mathbf { 0 . 5 \\ U / \\mu g }$ DNA for 2 hours at $2 0 ^ { \\circ } \\mathbf { C }$ . In this way closed circular DNA was formed. It was isolated by equilibrium centrifugation in caesium chlorideethidium bromide gradients9. Each step in the procedure was followed by agarose-gel electrophoresis (see below). ",
+        "bbox": [
+            529,
+            328,
+            928,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Restriction enzyme reactions Restriction enzymes were used as recommended by manufacturers (New England Biolabs, Pharmacia). Their activity is expressed in units, 1 unit being the amount needed to digest completely $1 \\mu \\mathbf { g }$ linear DNA in 1 hour under recommended conditions. Since restriction enzymes were less active on closed circular DNA, the amount of each of them was adjusted to catalyze complete digestion of RF DNAs of $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ and $\\mathbf { M } 1 3 \\mathbf { m p } 1 8 / \\mathbf { M P } - 1$ .These amounts were used in experiments with DNA heteroduplexes. Standard reaction mixture contained $2 5 0 ~ \\mathrm { { n g } }$ DNA in a total volume of $2 5 \\ \\mu \\mathrm { l }$ .Reaction products were analyzed by agarose or polyacrylamide gelelectrophoresis (see below). ",
+        "bbox": [
+            527,
+            595,
+            926,
+            753
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Gel-electrophoresis Phage DNA and its large fragments were separated on agarose gels. Routinely used gels contained $1 \\%$ agarose in Tris-acetate-EDTA buffer with $5 0 0 ~ \\mathrm { { n g / m l } }$ ethidium bromide9. DNA bands visualized by UV-induced fluorescence of ethidium bromide were photographed and the negatives were used for densitometry. The amount of DNA in a band was estimated by comparing the density of the band with those of the bands produced by a series of DNA standards. ",
+        "bbox": [
+            527,
+            770,
+            926,
+            874
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phage DNA cut up into several fragments of different sizes by the enzymes BstNI, HpalI or MspI was analyzed by polyacrylamide gel-electrophoresis. Fragments were labelled by using the Klenow fragment of DNA polymerase I (New England Biolabs) to fill their recessed $_ { 3 ^ { \\prime } }$ -ends in the presence of $[ \\alpha ^ { - 3 2 } \\mathbf { P } ]$ dNTP (Amersham). For labelling HpaII and MspI fragments, $[ \\alpha ^ { \\beta 2 } \\mathsf { P } ]$ dCTP $\\mathrm { ( 3 0 0 0 ~ C i / m m o l ) }$ was used. BstNI fragments were labelled by using a cocktail of $[ \\alpha ^ { \\mathbf { \\alpha } , 3 2 } \\mathbf { P } ]$ dATP $\\mathrm { ( 3 0 0 0 ~ C i / m m o l ) }$ and $[ \\alpha ^ { - 3 2 } \\dot { \\bf P } ]$ TTP $\\mathrm { ( 3 0 0 0 ~ C i / m m o l ) }$ After electrophoresis through $5 \\%$ polyacrylamide gels, the samples were autoradiographed. The autoradiographs were used to quantitate relative amounts of DNA in bands of particular interest. This was done by comparing the densities of these bands with the densities of the nearest bands. ",
+        "bbox": [
+            526,
+            875,
+            925,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7b91925803ccee5b2a797fa885aa202720b88377e29a53cbc40a93a29c677d8.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [
+            "Cee used. Undetectable levels of cleavage are presented as zero values. cHomoduplexes refer to closed circular DNAs of M13mp18 (column 5) and M13mp18/MP-1 (column 6). $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ homoduplex had a $\\mathbf { { c } } { \\cdot } \\mathbf { { G } }$ pair at the position 6248. At the same position $\\mathbf { M } 1 3 \\mathbf { m p } 1 8 / \\mathbf { M P } { - } 1$ homoduplex had a ${ \\boldsymbol { \\mathsf { T } } } \\cdot { \\boldsymbol { \\mathsf { A } } }$ pair. $( + )$ strand from $\\mathbf { M } 1 3 \\mathbf { m p l 8 } / \\mathbf { M P - } 1$ and $( - )$ ndo mp1. a $\\boldsymbol { \\mathsf { T } } { \\cdot } \\boldsymbol { \\mathsf { G } }$ mispair at the position 6248. The other (column 8) was made of $( + )$ strand from $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ and $( - )$ strand from M13mp18/MP-1. It contained a $\\mathbf { C } { \\cdot } \\mathbf { A }$ mispair at the position 6248. "
+        ],
+        "bbox": [
+            81,
+            94,
+            909,
+            369
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            486,
+            483,
+            618
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            651,
+            302,
+            665
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two DNA heteroduplexes were constructed, one by combining $( + )$ strand from $\\mathbf { \\bar { M } } 1 3 \\mathbf { m p } 1 8 / \\mathbf { M P } - 1$ with $( - )$ strand from M13mp18 and the other by combining $( + )$ strand from M13mp18 with $( - )$ strand from $\\mathbf { M } 1 3 \\mathbf { m p } 1 8 / \\mathbf { M P } { - } 1$ . One heteroduplex contained a unique $\\mathbf { T } \\cdot \\mathbf { G }$ mismatch at the position 6248 and the other contained a unique $\\mathbf { C } { \\cdot } \\mathbf { A }$ mismatch at the same position. Both mismatches were located close to or in the centres of recognition sites for several restriction enzymes. Interactions of each of these enzymes with the so modified and unmodified recognition sites were investigated in the same experiments. DNA homoduplexes of $\\mathbf { M } 1 3 \\mathbf { m p } 1 8$ and M13mp18/MP-1 were used as carriers for the unmodified recognition sites. ",
+        "bbox": [
+            87,
+            673,
+            486,
+            829
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results are recorded in Table 1. As shown in columns 5 and 6, the enzymes were capable of completely cleaving their unmodified recognition sites under the conditions used. When the $\\mathbf { { c } } { \\cdot } \\mathbf { { G } }$ base pair at the position 6248 was exchanged for the ${ \\bf \\delta T } \\cdot { \\bf A }$ base pair or when these base pairs were exchanged in the opposite direction, recognition sites bearing such a type of modification were, as expected, completely resistant to the cleavage. ",
+        "bbox": [
+            87,
+            832,
+            488,
+            909
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            486,
+            917,
+            512
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results with recognition sites modified by the presence of the $\\mathbf { T } \\cdot \\mathbf { G }$ or $\\mathbf { C } { \\cdot } \\mathbf { A }$ mismatched base pair at the position 6248 are shown in columns 7 and 8, respectively. The most interesting observation was that all tested enzymes (8 out of 8) were able to cut one, the other or both types of mismatch-containing recognition sites. These results and those of Jiricny and Martin' and Shenoy et al.2 show that a remarkable number of tested restriction enzymes (12 out of 16) can tolerate the presence of single mismatches within recognition sites. The tolerance is not absolute however. The levels of cleavage were always reduced and in our experiments they varied between 6 and $52 \\%$ , depending on the enzyme used and the type of mismatch present in its recognition site. ",
+        "bbox": [
+            515,
+            513,
+            918,
+            685
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In modified recognition sites for HpaII, MspI, SmaI and Xmal single mismatches of one or the other type occupied a place of one constant base pair and were surrounded by constant base pairs. Recognition sites for AvaI and NspIII consist of 4 constant and 2 variable base pairs. The sites were modified by the subsitution of one or the other mismatch for one constant base pair. BstNI and Ncil have recognition sites 5 base pairs long, one of them being variable. When modified, the sites contained either of the two mismatches instead of the variable base pair. In spite of these differences, all these enzymes were found to tolerate at least one type of mismatch in their recognition sites (columns 7 and 8). From this we infer that it does not matter whether a mismatch substitutes for a constant or variable base pair. ",
+        "bbox": [
+            516,
+            685,
+            918,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As is also evident from columns 7 and 8, the majority of restriction enzymes discriminated recognition sites containing single $\\mathbf { T } \\cdot \\mathbf { G }$ mismatches from those containing single $\\mathbf { C \\cdot A }$ mismatches. Only SmaI and XmaI tolerated both modifications in their recognition sites. AvaI, HpaII, MspI, NciI and NspIII cut the recognition sites with single T · G mismatches but not those with single C·A mismatches. Conversely, BstNI cut the recognition site with a C· A mismatch but not that with a T·G mismatch. Based on these results restriction endonucleases are divided into two groups. The enzymes in the first group tolerate single mismatches having either the original purines or the original pyrimidines (Smal and XmaI; cf. columns 2, 7 and 8). The other 6 enzymes (AvaI, BstNI, HpaⅡI, MspI, NciI and NspIII) make up the second group. Enzymes from this group tolerate only those single mismatches which have the original purines (cf. columns 2, 7 and 8). ",
+        "bbox": [
+            518,
+            868,
+            920,
+            907
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            93,
+            85,
+            494,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our experiments shed some light on the problem of how the restriction enzymes from both groups tolerate single mismatches of the pyrimidine · purine type. Table 1 shows that the enzymes from the first group cleave (although with reduced efficiency) the recognition sites containing an original base mispaired with a wrong base but not those containing a wrong base perfectly paired with another wrong base. From this observation we infer that the enzymes from the first group need the presence of one original base in mismatches to complete the process of recognition and cleavage. The inference implies that these enzymes are not very sensitive to the mismatch-induced changes in DNA conformation. (Such changes were analyzed in detail in references 10 and 11.) Also implied is the assumption that the interactions of these enzymes with the recognition sites having single mismatched base pairs are not essentially different from those with the recognition sites having single modified bases. (Some interactions of the latter type were described in references 1215.) ",
+        "bbox": [
+            95,
+            259,
+            496,
+            495
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Almost all what is said above for the enzymes from the first group may be applied to the enzymes from the second group. The only difference is that the enzymes from the second group require the presence of the original purines in mismatches (Table 1). To explain this requirement in the simplest way, we propose that the enzymes from the second group recognize only the purine moieties of some base pairs. According to this proposal, an enzyme from the second group cannot recognize its recognition site, if the site is modified by the presence of a wrong purine facing an original but unrecognizable pyrimidine. The proposal is based on the $\\mathbf { x } .$ -ray analysis of the cocrystalline complex between EcoRI, the most extensively studied restriction endonuclease, and its recognition site16. This analysis shows that EcoRI physically interacts with purines but not with pyrimidines in the recognition site. If EcoRI is not an exception, then other restriction enzymes exist that recognize only purines in some base pairs within recognition sites. ",
+        "bbox": [
+            93,
+            496,
+            494,
+            722
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            776,
+            273,
+            790
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We thank Luc D'Auriol for oligonucleotide synthesis. Work in Paris was supported by the Centre National de la Recherche Scientifique, by grants to M.R. from the Lique National Franise contre le Cancer (LNFCC) and the Association pour la Recherche sur le Cancer (ARC), by fellowships to M.P. from ARC and LNFCC and by a fellowship to P.B. from the Foundation Philippe. Work in Zagreb was supported by the Fund for Scientific Work of the Socialistic Republic Croatia. ",
+        "bbox": [
+            92,
+            797,
+            492,
+            902
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            527,
+            86,
+            632,
+            101
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Jiricny,J. and Martin,D. (1986) Nucl. Acids Res. 14, 1943 1949.   \n2.Shenoy,S., Diagle,K., Ehrlich,K.C., Gehrke,C.W. and Ehrlich,M. (1986) Nucl. Acids Res. 14, 44074420.   \n3. Yanisch-Perron,C., Vieira,J. and Messing,J. (1985) Gene 33, 103119.   \n4. Messing,J. (1983) Meth. Enzymol. 101, 2089.   \n5. Kado,C.I. and Liu,S.-T. (1981) J. Bacteriol. 145, 13651373.   \n6. Mandecki,W. (1986) Proc. Natl. Acad. Sci. USA 83, 71777181.   \n7. Sanger,F., Nicklen,S. and Coulson,A.R. (1977) Proc. Natl. Acad. Sci. USA 80, 54635467.   \n8. Lu,A.-L., Clark,S. and Modrich,P. (1983) Proc. Natl. Acad. Sci. USA 80, 46394643.   \n9Maniatis,T., Fritsch,E.F. and Sambrook,J. (1982) Molecular Cloning: A Laboratory Manual, Cold Spring Harbor Laboratory, N.Y.   \n10. Hunter,W.N., Brown,T., Anand,N.N. and Kennard,O. (1986) Nature 320, 552555.   \n11. Hunter,W.N., Brown,T., Kneale,G., Anand,N.N., Rabinovich,D. and Kennard,O. (1987) J. Biol. Chem. 262, 99629970.   \n12. Bodnar,J.W., Zempsky,W., Warder,D., Bergson,C. and Ward,D.C. (1983) J. Biol. Chem. 258, 1520615213.   \n13. Ono,A.,Sato,M., Ohtani,Y. and Ueda,T. (1984) Nucl. Acids Res. 12, 8939-8949.   \n14. Yolov,A.A., Vinogradova,M.N., Gromova,E.S., Rosenthal,A., Cech,D., Veiko,V.P., Metelev,V.G., Kosykh,V.G., Buryanov,Ya.I., Bayev,A.A. and Shabarova,Z.A. (1985) Nucl. Acids Res. 13, 89838998.   \n15.Fliess,A., Wolfes,H., Rosenthal,A., Schwellnus,K., Blöcker,H., Frank,R. and Pingoud,A. (1986) Nucl. Acids Res. 14, 34633474.   \n16. McClarin,J.A., Frederick,C.A., Wang,B.-C., Greene,P., Boyer,H.W., Grable,J. and Rosenberg,J.M. (1986) Science 234, 15261541. ",
+        "bbox": [
+            529,
+            107,
+            928,
+            413
+        ],
+        "page_idx": 3
+    }
+]

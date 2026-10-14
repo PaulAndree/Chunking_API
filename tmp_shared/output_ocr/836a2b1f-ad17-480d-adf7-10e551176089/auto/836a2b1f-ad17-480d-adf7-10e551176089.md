@@ -1,0 +1,52 @@
+# DIAGNOSTIC MUSIC FOR A REDUCED HYBRID PIANO: Quantum music for quantum medicine?
+
+(proposed by Miro and Dana Radman)
+
+# Premisses:
+
+Complete genomic DNA sequence of about 3 billion ATGC sequence is known for a small number of individuals because only about $1 . 5 \%$ of human sequence codes for biological function (proteins), therefore relevant to health. The rest of the sequence is the graveyard of past genetic parasites that “rest in peace” and are not of prime interest for sequencing. There is only about 22000 of different protein species in humans. That includes proteins which chemically modify and un-modify other proteins - such that there is about a million of protein variants (proteoforms) that run the life of each human. Proteins are made of 20 amino acids whose sequence and number determine the specific structure and function of each protein. Only gene mutations that change amino acid sequence matter for function and health! Therefore, here, we are interested only in the sequence of amino acids in proteins (and not in entire DNA)!
+
+# Idea/Project:
+
+No human being is a perfect human. Such human would be a person who possesses only the best versions of each of human proteins present now in the population of 7 billion individuals. Because of massive human DNA sequencing around the world, we can reconstruct such “best human” (that does not exist) and use the sequence as the standard to compare against real individuals. Like this:
+
+(1) Transform protein-coding DNA sequence (“exome” of about 20 milllion ATGC) of each sequenced individual into the amino acid sequence (about 7 million amino acids - because 3 DNA letters code for one amino acid) in a fixed order of 22000 proteins   
+(2) Line-up the sequences of individuals “horizontally” under each other   
+(3) Read each of lined-up 7 million amino acid positions “vertically” and select the most frequent one-by-one throughout the proteome:   
+(4) You will get the best “standard human” proteome   
+(5) Connect two hybrid pianos - reduced to only 20 keys each corresponding to one specific amino acid (methionine, histidine, arginine, lysine, etc)   
+(6) One reduced hybrid piano plays always the “standard” human proteome, the other plays simultaneously (in frame with standard) a particular individual   
+(7) While playing, each non-identity will be heard and labelled by sound or light   
+(8) Since each protein sequence is an independent and unique composition, the sequence of proteins played is of little importance (just like the order of compositions played in a concert). It just has to be fixed for this particular purpose.
+
+# What do we learn from, and do with, this?
+
+First, we’ll hear the music: each protein is an independent unique composition and biological function! Each protein has unique, characteristic structure (modules, like alpha-helix regions, beta-sheet regions and unstructured regions, unique to that
+
+protein). Maybe that we can distinctly hear the music of these three structural elements because the amino acid sequence determines them, physically! This is purely academic.
+
+Enter the medicine! What do we do with the diagnostic of one person’s deviation from the best standard proteome? We have also ethnic “standards” (see $" 2 1$ and me” company) to compare the music of one person’s proteome to his/her ethnic standard. This avoids “academic” differences not relevant (so far?) to health. It will be curious to see whether supercentenarian proteomes are closer to global and ethnic “standard” than the average person’s proteome.   
+Now comes the future part on which MedILS works: first, we should be able to recognize “benign” amino acid differences from “bad news” differences!   
+Optimistically, this may be just a couple of years away! (Adam, MH, MedILS). When we diagnose “bad news” differences, this means that such differences are personal “weak links” - genetic (inborn, personal) predispositions to particular disease that will emerge with advanced age (ARD: age-related disease like cancer, neurodegeneration, cardio-vascular, autoimmune, etc. diseases).   
+Soon (if scientists and money are available), we shall have in the refrigerators molecules which are correctors and protectors against molecular fragility caused by the bad-news mutation in the protein.   
+This would be the beginning of a new “Proteo-medicine” which is a phenotypic treatment by small molecules called chemical chaperones.   
+By the way, this would be first human intervention into human destiny
+
+Incidentally, if the best “standard human” existed now, how long she/he would live? I guess not more than 130 years (not far from Jeanne Calmant’s 122 years, or supercentenarian’s longevity). Living beyond that age must proceed by educated changes in the basic biology of today’s humans.
+
+OK friends, let’s play the music of human life! (And compare it to other species’ music.)
+
+A QUESTION: Who sees how to pixelize amino acid sequences (a lot of pixels!) and make a two dimensional “pointillism” $1 9 ^ { \mathrm { t h } }$ century art movement) to have also visual impressions of human diversity?
+
+This could be the first original MedILS’ ArtScience product!
+
+# Some previous work on “DNA sonification”:
+
+https://www.nature.com/articles/435280a   
+https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1632-x   
+https://theconversation.com/what-does-dna-sound-like-using-music-to-unlock-the-secrets  
+of-genetic-code-78767   
+http://blogs.biomedcentral.com/bmcseriesblog/2017/05/22/sounding-out-the-properties  
+of-dna/   
+https://www.yourdnasong.com/   
+https://www.youtube.com/watch?v=RjUPU-9ECJ0

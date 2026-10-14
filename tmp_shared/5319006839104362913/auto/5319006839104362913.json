@@ -1,0 +1,148 @@
+[
+    {
+        "type": "text",
+        "text": "El Old Course de St Andrews es uno de los campos de golf más antiguos del mundo y probablemente el más antiguo de los que existen en Escocia. El Old Course es un recorrido de carácter público situado en el pueblo de St Andrews, en el condado de Fife, $1 6 ~ \\mathrm { k m }$ al sureste de la ciudad de Dundee y $5 0 ~ \\mathrm { ~ k m }$ al noreste de la ciudad de Edimburgo. El campo es dirigido por una entidad llamada \"The St Andrews Links Trust\" bajo supervisión del Parlamento escocés. La casa-club del Royal and Ancient Golf Club of St Andrews (R&A) está situada junto a la salida del hoyo 1, y aunque pareciera que el campo pertenece al club, lo cierto es que existen varios clubes que disfrutan del privilegio de jugar en ese campo. ",
+        "bbox": [
+            70,
+            138,
+            497,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "No hay constancia de cuándo se empezó a jugar al golf en los terrenos que hoy forman el Old Course. ",
+        "bbox": [
+            70,
+            440,
+            495,
+            476
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/47e93823ee910fa3f16b5e914d29217b9c6722afe3df8acda68034a98370bc81.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            522,
+            146,
+            922,
+            461
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El primer documento escrito que se tiene es una licencia concedida en 1552 que permitía a la comunidad criar conejos en los links y \"jugar al golf, futball, schuteing... y otros tipos de pasatiempos\". El primer registro del juego del golf en el Old Course data de 1574, lo que convertiría este campo en el quinto links más antiguo de los situados en Escocia.[1] (http://www.scottishgolfhistory.net/oldest_golf_sites.htm) Archivado (https://web.archive.org/web/20110825091332/http://www.scottishgolfhistory.net/oldest_golf_ sites.htm) el 25 de agosto de 2011 en Wayback Machine.. Sin embargo, documentos datados durante el reinado de Jacobo IV de Escocia demuestran que compró terrenos en St. Andrews en 1506, sólo cuatro años después de que adquiriera otros terrenos en Perth, lo que indicaría que el Old Course es significativamente más antiguo de lo que las pruebas escritas demuestran[2] (http://www.scottishgolfhisto ry.net/st_andrews_oldest_golf_course.htm) Archivado (https://web.archive.org/web/20061230055623/htt p://www.scottishgolfhistory.net/st_andrews_oldest_golf_course.htm) el 30 de diciembre de 2006 en Wayback Machine.. El recorrido ha evolucionado a lo largo del tiempo. Originalmente, se jugaba sobre el mismo terreno que tenía un número pequeño de hoyos. Al tiempo que se incrementaba el interés en este deporte, el campo se fue ampliando mediante un segundo recorrido, al igual que se aumentaba el tamaño de los greens y se acortaban dos hoyos. ",
+        "bbox": [
+            68,
+            478,
+            932,
+            761
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Una de las características principales del Old Course son sus inmensos greens dobles, donde siete de ellos son compartidos por dos hoyos distintos; de hecho, solamente los hoyos 1, 9, 17 y 18 tienen un green único. Otra característica única es que el recorrido puede hacerse en el sentido de las agujas del reloj, o en sentido contrario. Actualmente, el método usual de juego es en sentido contrario a las agujas del reloj, aunque un día al año se permite jugar en el otro sentido. Originalmente, el sentido de juego se cambiaba cada semana para permitir que la hierba se recuperara mejor. Otro elemento diferenciador del Old Course es que se cierra los domingos para permitir que el campo \"descanse\"; de hecho, el recorrido se transforma los domingos en un enorme parque para el disfrute de los habitantes del pueblo, donde pueden pasear, ir de pícnic o simplemente, contemplar el paisaje. Como norma general, sólo está permitido jugar al golf dos domingos al año: ",
+        "bbox": [
+            70,
+            776,
+            932,
+            909
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            931,
+            98
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El último día del Dunhill Links Championship, un evento anual organizado por el European Tour. El día final del Abierto Británico (siempre que se organice en el Old Course, es decir, cada cinco años aproximadamente). Si ganar el Abierto Británico es un gran éxito para cualquier golfista, ganarlo en St. Andrews eleva ese éxito a su máximo nivel, debido sobre todo a la larga tradición del campo. Algunos de los mejores golfistas de la historia han ganado en St. Andrews: Tiger Woods (dos veces), John Daly, Nick Faldo, Severiano Ballesteros o Jack Nicklaus (dos veces) han sido algunos de ellos. ",
+        "bbox": [
+            80,
+            114,
+            931,
+            247
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Los partidos en domingo también pueden jugarse cuando el Old Course alberga otro torneo como, por ejemplo, en agosto de 2007, cuando fue la sede del Abierto Británico femenino por primera vez en su historia (ganado por Lorena Ochoa). ",
+        "bbox": [
+            70,
+            254,
+            931,
+            309
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En sus comienzos, el Old Course tenía 12 hoyos, 10 de los cuales eran jugados en ambos sentidos, haciendo por tanto que el campo tuviera un total de 22 hoyos. En 1764, los primeros cuatro hoyos se juntaron para formar sólo dos, dejando el número final de hoyos en 18. Con el tiempo, este se ha convertido en el número estándar de hoyos de un campo de golf. La actual configuración del campo data de 1863, cuando Tom Morris, Sr. separó el hoyo 1 del hoyo 17, quedando con la actual configuración de 7 hoyos dobles. ",
+        "bbox": [
+            70,
+            325,
+            931,
+            438
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 2005, el Old Course fue considerado el mejor recorrido fuera de los Estados Unidos por la revista especializada Golf Digest. ",
+        "bbox": [
+            70,
+            453,
+            931,
+            491
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            527,
+            289,
+            548
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "St. Andrews Links Trust (http://www.standrews.org.uk/) (en inglés) The Old Course Hotel, Golf Resort & Spa (http://www.oldcoursehotel.co.uk/) (en inglés) Royal and Ancient Golf Club of St. Andrews (http://www.randa.org) (en inglés) St Andrews Open (http://www.standrewsopen.com/) (en inglés) Fotos del Old Course (http://golfcourseportal.com/db_all/Scotland) Archivado (https://web.ar chive.org/web/20140810031854/http://golfcourseportal.com/db_all/Scotland) el 10 de agosto de 2014 en Wayback Machine. ",
+        "bbox": [
+            78,
+            568,
+            932,
+            698
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "{{#coordinates:}}: no puede tener más de una etiqueta principal por página ",
+        "bbox": [
+            72,
+            705,
+            682,
+            723
+        ],
+        "page_idx": 1
+    }
+]

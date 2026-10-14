@@ -1,0 +1,229 @@
+[
+    {
+        "type": "text",
+        "text": "Creating New Genes by Plasmid Recombination in Escherichia coli and Bacillus subtilis ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            114,
+            926,
+            159
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ana Gomez,2 Tatjana Galic, $^ { 2 } \\dag$ Jean-François Mariet,2 Ivan Matic,1 Miroslav Radman,1 and Marie-Agnès Petit1\\*   \nU571 INSERM Faculté de Médecine, Necker-Enfants Malades, 156 rue de Vaugirard, 75015 Paris, France,1 and Eucodis GmbH, Brunner Strasse 59, A-1230 Wien, Austria2 ",
+        "bbox": [
+            141,
+            164,
+            852,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 10 May 2005/Accepted 16 June 2005 ",
+        "bbox": [
+            360,
+            240,
+            635,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gene shufling is a way of creating proteins with interesting new characteristics, starting from diverged sequences. We tested an alternative to gene shufling based on plasmid recombination and found that Bacillus subtilis efficiently recombines sequences with $4 \\%$ divergence, and Escherichia coli mutS is more appropriate for sequences with $22 \\%$ divergence. ",
+        "bbox": [
+            133,
+            266,
+            864,
+            318
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The technique of gene shuffling is presently essentially based on PCR (10, 12), which creates an enormous waste of useless sequences containing deletions or nonsense mutations. Much less waste is expected in vivo, since the recombination proteins are designed to promote in-register exchanges, without deletions, and since the rate of mutagenesis is lower than that of the PCR polymerases. We therefore decided to test the efficiency of creating new genes by plasmid recombination in vivo. ",
+        "bbox": [
+            71,
+            340,
+            483,
+            452
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experiments were conducted with two distantly related bacterial hosts, Escherichia coli and Bacillus subtilis, in which the mechanisms of homologous recombination are well known. Recombination efficiencies were measured as a function of DNA divergence $( 0 \\% , 4 \\%$ , and $2 2 \\%$ divergence) and plasmid vector type (symmetrical, theta replication versus asymmetrical, rolling-circle replication). The recombination substrates were three 800-bp-long OXA genes, the OXA-7, OXA-11, and OXA-5 genes, encoding related beta-lactamases differing from the OXA-7 beta-lactamase at the nucleotide level by $0 \\%$ , $4 \\%$ , and $2 2 \\%$ , respectively. They were cloned into two plasmids: pACYC184, a plasmid of $E$ coli that cannot replicate in $B _ { \\cdot }$ . subtilis, and pIL253, a plasmid of $B .$ subtilis that cannot replicate in $E _ { \\ast }$ coli. In each bacterial host, experiments were conducted so as to maximize recombination efficiency. For $E _ { \\ast }$ coli electrotransformations, DNA was UV irradiated at a dose of $2 0 0 \\ \\mathrm { J } / \\mathrm { m } ^ { 2 }$ so that the yield of recombinants was 10-fold higher than that of nonirradiated DNA. Transformation in $B .$ subtilis is a natural process, involving the cutting of double-strand DNA and the degradation of one strand, so that DNA enters as single-strand linear DNA. In both species, recipient strains for the transformation experiments harbored a replicative plasmid sharing no significant stretch of identity with the incoming DNA, except for the presence of an OXA gene, so that the establishment of the incoming DNA is dependent on its integration into the OXA gene of the resident plasmid. The selection of clones harboring recombinant plasmids was based on a marker(s) encoded by the nonreplicative plasmid (Spcr Phlr in E. coli and $\\mathrm { E r m } ^ { \\mathrm { r } }$ in $B .$ subtilis). An estimation of the recombination frequency was obtained by dividing the transformation efficiency of the nonreplicating plasmid by the transformation efficiency of a control, replicative plasmid. $E .$ coli cells had a much higher competence (between $1 0 ^ { 6 }$ and $1 0 ^ { 8 }$ transformants per microgram of control DNA) than the $B$ subtilis cells $( 0 . 5 \\times$ $1 0 ^ { 5 }$ to $1 . 5 ~ \\times ~ 1 0 ^ { 5 }$ transformants per microgram of control DNA). For the $B _ { \\cdot }$ subtilis experiments, two different recipient vectors were tested: a theta-replicating vector, pMAP176, in which replication of the two strands is simultaneous so that little single-strand DNA and no double-strand ends are present (2), and a rolling-circle-replicating vector, pMAP183, which replicates its two strands successively so that double-strand ends and single-strand DNA are present (11). The theta-replicating vectors of $E _ { \\ast }$ coli and $B .$ subtilis had similar replication cycles and copy numbers $( \\sim 5 )$ . Results are shown in Table 1. ",
+        "bbox": [
+            71,
+            454,
+            483,
+            662
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            340,
+            924,
+            662
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/75ba12c40fb2d32042adc6a8877a2f54e039d49a9f8e3f34226eeb7d902073e7.jpg",
+        "table_caption": [
+            "TABLE 1. Shuffling efficiencies "
+        ],
+        "table_footnote": [
+            "a RC, rolling circle; WT, wild type. "
+        ],
+        "bbox": [
+            70,
+            704,
+            928,
+            830
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            85,
+            924,
+            169
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/1deab79d29006199b434ee307ce7f5e26dcdfa7c24f4981d3e317abe13bce06d.jpg",
+        "table_caption": [
+            "TABLE 2. Recombinant-product analysis "
+        ],
+        "table_footnote": [
+            "a RC, rolling circle. "
+        ],
+        "bbox": [
+            75,
+            100,
+            485,
+            347
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In wild-type $E$ coli, the recombination frequency between identical sequences was $3 . 6 \\times 1 0 ^ { - 4 }$ .A $4 \\%$ DNA divergence reduced recombination by 10,000-fold in the wild type, but inactivation of the mutS gene had the expected effect of increasing the recombination efficiency by 1,000-fold (7) so that the net yield of transformants was 4,000 transformants per microgram of DNA. No transformants were recovered from the wild-type strain upon the selection of recombinants with $2 2 \\%$ -divergent sequences, but in the mutS background, 40 transformants per microgram of DNA were obtained. The frequency of recombination $( 2 \\times 1 0 ^ { - 7 } )$ was lower than the rate of spontaneous Phl' Spc\" mutations arising in $E$ coli mutS $( 5 \\times$ $1 0 ^ { - \\bar { 6 } }$ ), so that the plasmid content of ${ \\sim } 1 0 0$ clones was analyzed to detect these recombinations. ",
+        "bbox": [
+            512,
+            171,
+            924,
+            366
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the wild-type B. subtilis host, the recombination frequency between identical sequences was $2 \\times 1 0 ^ { - 3 }$ on theta plasmids and 100-fold more efficient on the rolling-circle vector. This confirms earlier reports showing that rolling-circle plasmids are hyperrecombinogenic (4). Moderate divergence $(4 \\% )$ decreased recombination in wild-type $B _ { \\cdot }$ subtilis by 10-fold only (in the theta plasmid) or not at all (in the rolling-circle plasmid). Indeed, moderate divergence is much more \"tolerated\" in wild-type $B .$ subtilis than in wild-type $E _ { \\ast }$ coli (5, 7). The ΔmutLS mutation increased recombination efficiency in the $B _ { \\cdot }$ subtilis theta plasmid by a factor of 40. No recombinants were detected for sequences with a divergence of $2 2 \\%$ (frequency below $1 0 ^ { - 4 }$ ). It has been shown previously that in $B _ { \\cdot }$ subtilis, recombination frequencies remained high, with sequences having up to $7 \\%$ divergence, but then decreased sharply irrespective of the presence or absence of MutL and MutS (5). We speculate, therefore, that $2 2 \\%$ -divergent sequences are unlikely to recombine in $B _ { \\cdot }$ subtilis. ",
+        "bbox": [
+            524,
+            369,
+            924,
+            381
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bacb3907070ef4a2c61527f7531223c423477783fc3f2ee3a15e028647ec3690.jpg",
+        "table_caption": [
+            "TABLE 3. Strains and plasmids "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            66,
+            422,
+            923,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            85,
+            482,
+            323
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chimeric genes resulting from recombination between the $4 \\%$ -divergent OXA genes were sequenced in 54 plasmids of $E$ . coli and 22 plasmids of $B _ { \\cdot }$ subtilis (11 for each plasmid type). Results are reported in Table 2. According to classical crossing-over models, the two DNA strands of a recombined plasmid are expected to be slightly different. Depending on which strand will give a progeny, different products may thus be recovered. \"Reciprocal products\" are expected if the progeny derives from the strand cut by the RuvABC resolvase (for $E$ . coli) or by RuvAB and probably RecU (for $B _ { \\cdot }$ subtilis(1). However, if the other strand is kept, and depending on its processing, \"nonreciprocal products\" could be observed. More-complex situations can be encountered, such as multiple crossovers giving \"mosaic\" products and \"gene conversion\" products, where a gene conversion process precedes the crossover step. Under all conditions tested, the main category was \"nonreciprocal\" products (50 to $8 2 \\%$ of the recombinants). Mosaic products were also found in all cases (18 to $3 0 \\%$ ). Interestingly, reciprocal products were recovered only in $E$ . coli. Conversely, gene conversion products were found only in B. subtilis, with the rolling-circle plasmid vector. ",
+        "bbox": [
+            71,
+            324,
+            483,
+            618
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All strains and plasmids used in this study are described in Table 3. ",
+        "bbox": [
+            71,
+            619,
+            483,
+            646
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We conclude that plasmid vectors are appropriate tools to create new genes by recombination, with $B .$ subtilis being a slightly better host for a low level of divergence $( 4 \\% )$ and the $E$ coli mutS strain being more appropriate for a high level of divergence (up to $2 2 \\%$ ). This in vivo technique should therefore apply to attempts at creating new gene combinations starting from ortholog genes of related species, or paralogs within a species, so that the divergence at the DNA level is less than $20 \\%$ . It does not apply, however, to the creation of hybrid genes composed of a combination of two unrelated sequences. Nevertheless, we predict that in vivo recombination should also be possible when the starting sequences are composed of highly conserved regions interspersed with regions of high divergence. ",
+        "bbox": [
+            512,
+            85,
+            924,
+            280
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            678,
+            305,
+            758,
+            315
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Ayora, S., B. Carrasco, E. Doncel, R. Lurz, and J. C. Alonso. 2004. Bacillus subtilis RecU protein cleaves Holliday junctions and anneals single-stranded DNA. Proc. Natl. Acad. Sci. USA 101:452457.   \n2. Bruand, C., E. Le Chatelier, S. D. Ehrlich, and L. Janniere. 1993. A fourth class of theta-replicating plasmids: the pAM beta 1 family from gram-positive bacteria. Proc. Natl. Acad. Sci. USA 90:1166811672.   \n3.Ginetti, F., M. Perego, A. M. Albertini, and A. Galizzi. 1996. Bacillus subtilis mutS mutL operon: identification, nucleotide sequence and mutagenesis. Microbiology 142:20212029.   \n4. Janniere, L., C. Bruand, and S. D. Ehrlich. 1990. Structurally stable Bacillus subtilis cloning vectors. Gene 87:5361.   \n5. Majewski, J., and F. M. Cohan. 1999. DNA sequence similarity requirements for interspecific recombination in Bacillus. Genetics 153:15251533.   \n6. Noirot, P., M.-A. Petit, and S. D. Ehrlich. 1987. Plasmid replication stimulates DNA recombination in Bacillus subtilis. J. Mol. Biol. 196:3948.   \n7. Rayssiguier, C., D. S. Thaler, and M. Radman. 1989. The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342:396401.   \n8. Simon, D., and A. Chopin. 1988. Construction of a vector plasmid family and its use for molecular cloning in Streptococcus lactis. Biochimie 70:559566.   \n9. Steinmetz, M., and R. Richter. 1994. Plasmids designed to alter the antibiotic resistance expressed by insertion mutations in Bacillus subtilis, through in vivo recombination. Gene 142:7983.   \n0Stemmer, W. P. 1994. Rapid evolution of a protein in vitro by DNA shuffling. Nature 370:389391.   \n1. te Riele, H., B. Michel, and S. D. Ehrlich. 1986. Single-stranded plasmid DNA in Bacillus subtilis and Staphylococcus aureus. Proc. Natl. Acad. Sci. USA 83:25412545.   \n2. Zhao, H., L. Giver, Z. Shao, J. A. Affholter, and F. H. Arnold. 1998. Molecular evolution by staggered extension process (StEP) in vitro recombination. Nat. Biotechnol. 16:258261. ",
+        "bbox": [
+            517,
+            321,
+            924,
+            646
+        ],
+        "page_idx": 2
+    }
+]

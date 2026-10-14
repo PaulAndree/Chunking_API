@@ -1,0 +1,879 @@
+[
+    {
+        "type": "text",
+        "text": "GATC sequences, DNA nicks and the MutHI function in Escherichia coli mismatch repair ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            47,
+            642,
+            85
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Françoise Längle-Rouault, Geneviève Maenhaut-Michel and Miroslav Radman' ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            167,
+            477,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Département de Biologie Moléculaire. Université Libre de Bruxelles. 1640 Rhode-St-Genèse, Belgium and 'Laboratoire de Mutagenèse. Institut Jacques Monod, CNRS, Université Paris VII, Tour 43-2. Place Jussieu. 75251 Paris Cedex 05, France ",
+        "bbox": [
+            88,
+            204,
+            495,
+            250
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by M.Radman ",
+        "bbox": [
+            88,
+            256,
+            246,
+            267
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Circular heteroduplex DNAs of bacteriophage $\\phi \\mathbf { X } \\mathbf { l } 7 4$ have been constructed carrying either a G:T $( E a m ^ { + } / E a m 3 )$ or a G:A (Bam+ /Bam16) mismatch and containing either two, one or no GATC sequences. Mismatches were efficiently repaired in wild-type Escherichia coli transfected with $\\phi \\mathbf { X 1 7 4 }$ heteroduplexes only when two unmethylated GATC sequences were present in $\\phi \\mathbf { X 1 7 4 }$ DNA. The requirements for GATC sequences in substrate DNA and for the $E$ coli MutH function in $\\pmb { E }$ coli mismatch repair can be alleviated by the presence of a persistent nick (transfection with nicked heteroduplex DNA in ligase temperature-sensitive mutant at $4 0 ^ { \\circ } \\mathrm { C } )$ : A persistent nick in the GATC sequence is as effective in stimulating mutL- and mutS-dependent mismatch repair as a nick distant from the GATC sequence and from the mismatch. These observations suggest that the MutH protein participates in methyl-directed mismatch repair by recognizing unmethylated DNA GATC sequences and/or stimulating the nicking of unmethylated strands. ",
+        "bbox": [
+            88,
+            271,
+            498,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: $\\phi \\mathbf { X } 1 7 4 $ phage/heteroduplex DNA/mutagenesis/gene conversion ",
+        "bbox": [
+            84,
+            520,
+            498,
+            547
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            577,
+            176,
+            590
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methyl-directed mismatch repair in Escherichia coli appears to remove mispaired and unpaired bases from newly synthesized DNA strands, thus correcting replication errors (review, Radman and Wagner, 1986). The discrimination between the parental and the newly synthesized strand is based on the transient undermethylation of GATC sequences in nascent strands (Radman el al., 1980; Pukkila et al., 1983). Full methylation of the heteroduplex DNA strongly inhibits methyl-directed mismatch repair (Lu et al., 1983; Pukkila et al., 1983; Wagner et al., 1984). The methylation on the N6 position of the adenine residue in the GATC sequences is carried out by the product of the dam gene, with a delay relative to DNA synthesis (Marinus, 1976; Geier and Modrich, 1979; Lyons and Schendel, 1984). ",
+        "bbox": [
+            89,
+            594,
+            500,
+            773
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methyl-directed mismatch repair requires the mutH, mutL, mutS and mutU gene products (Nevers and Spatz, 1975; Rydberg, 1978; Glickman and Radman, 1980; Bauer et al., 1981). In addition to these Mut functions, mismatch repair reaction in vitro requires ATP and the single-strand-DNA-binding SSB protein (Lu et al., 1984). MutL and mutS, but not mutH and mutU, gene products are apparently involved also in the very short patch repair system (Lieb, 1985; Jones et al., 1987). ",
+        "bbox": [
+            91,
+            775,
+            500,
+            883
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The products of some of the mut genes have been identified (Lu et al., 1984; Pang et al.. 1985), but the mechanistic involvement of these Mut proteins in mismatch repair remains largely obscure. The mutU (uvrE, uvrD) gene product was identified as the helicase II (Maples and Kushner, 1982; Hickson et al., 1983; Kumura and Sekiguchi, 1984). More recently it has been demonstrated that the $E$ coli helicase II protein translocates unidirectionally in a $3 ^ { \\prime } - 5 ^ { \\prime }$ direction along single-stranded DNA (Matson. 1986). The purified MutS protein binds specifically to DNA regions containing a single base-pair mismatch (Su and Modrich, 1986). A mismatch independent nicking of unmethylated GATC sequences in duplex DNA has been observed using purified MutH protein (Welsh et al., 1986). It was previously suggested that the mutH gene product may be involved in DNA-strand discrimination during mismatch repair (Kramer et al., 1984). ",
+        "bbox": [
+            91,
+            885,
+            500,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            169,
+            939,
+            362
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The methyl-directed mismatch repair in vivo requires the presence of GATC sequences in the heteroduplex DNA substrate for efficient mismatch repair activity (Längle-Rouault et al.. 1986). This efficient methyl-directed mismatch repair system of $E$ coli may be a relatively recent evolutionary acquisition of bacterial strains: the dam-methylation of GATC sequences is restricted to a few closely related enterobacteria (Barbeyron et al., 1984). Mismatch repair has been demonstrated in organisms other than $E$ coli (review, Claverys and Lacks, 1986). If it is a ubiquitous process for removing replication errors exclusively from newly synthesized strands, other means for strand discrimination must exist. It has been proposed that, in Streptococcus pneumoniae, the recognition of the donor DNA strand by the hex system depends on single-strand breaks or discontinuities (Guild and Shoemaker, 1976; Claverys et al., 1980: Lacks et al., 1982). ",
+        "bbox": [
+            529,
+            363,
+            939,
+            582
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The methyl-directed mismatch repair system in $E$ coli acts by excision —resynthesis sometimes over a few thousand nucleotides (Wagner and Meselson, 1976), suggesting that a step creating a single-strand break is likely to be involved. Such nicks could occur at or near the mismatch, at the GATC sequence(s) or at both sites. This paper shows that the nick in heteroduplex DNA can substitute for the GATC sequences and the MutH function. ",
+        "bbox": [
+            527,
+            584,
+            939,
+            679
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Results and Discussion ",
+        "text_level": 1,
+        "bbox": [
+            529,
+            696,
+            687,
+            710
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair in 1 GATC' heteroduplex DNA ",
+        "text_level": 1,
+        "bbox": [
+            529,
+            714,
+            856,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When mismatch repair does not operate and when both DNA strands undergo replication, heteroduplex DNA molecules segregate genetically, yielding mixed progeny phages carrying the genotype of either of the two parental strands. It is known that $\\phi \\mathbf { X } 1 7 4 $ replication is asymmetric and that the complementary strand largely governs the rolling-circle replication (review, Kornberg. 1980). Thus the fraction of mixed progeny obtained after transfection with $\\phi \\mathrm { X } 1 7 4$ heteroduplex DNA reflects the proportion of heteroduplexes that have not been repaired and both strands of which have replicated to yield viable progeny. ",
+        "bbox": [
+            529,
+            731,
+            939,
+            868
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have previously used $\\phi { \\Chi } 1 7 4$ phage derivatives with short intercistronic inserts. one of which contains two GATC sequences and the other none $[ \\phi \\mathbf { X } 1 7 4 $ DNA is naturally devoid of GATC sequences (Sanger et al., 1977)], to test the role of GATC sequences in mismatch-repair. It appeared that the presence of GATC sequences is required for efficient mismatch repair (Längle-Rouault et al., 1986). ",
+        "bbox": [
+            529,
+            868,
+            939,
+            909
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/f2630d49c4280c3299a2f5256a36cb466e93689e8a92829851f35425cef3b78d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "u $\\mathbf { \\nabla } ^ { \\mathfrak { s } } \\mathbf { 0 }$ GATC\" $E a m ^ { + } / E a m$ heteroduplex DNA. Transfected bacteria are $\\overline { { \\mathbf { E } \\mathbf { S } \\mathbf { S } \\mathbf { 4 } 8 \\ m u t } } ^ { + }$ bbacteria. "
+        ],
+        "bbox": [
+            63,
+            49,
+            918,
+            160
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8f49cb8d12157839bcf6a019cf7a08747bb7d82300cccac97f5a8d0dc6c022d5.jpg",
+        "table_caption": [
+            "Table II. Percentage of mixed infective centres derived from transfections with $\\phi \\mathbf { X } 1 7 4 $ heteroduplex DNA carrying a G:T mismatch and either no GATC sequence or one GATC sequence "
+        ],
+        "table_footnote": [
+            "Numbers in parentheses show the total number  infective centres analysed. "
+        ],
+        "bbox": [
+            68,
+            262,
+            482,
+            464
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            500,
+            478,
+            554
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To test if only one GATC sequence is sufficient to stimulate mismatch repair, we have constructed heteroduplex molecules carrying one GATC sequence in the intercistronic insert (see Materials and methods). The percentages of mixed infective centres obtained following transfection of wild-type $E .$ coli spheroplasts with the '1 GATC' Eam+/Eam3 heteroduplex molecules (21 and $23 \\%$ ) are closer to the percentages observed with '0 GATC' heteroduplex molecule (27%) than to the percentage observed with $^ { \\bullet } 2$ GATC' heteroduplex DNA $(6 \\% )$ see Table I). Therefore, it appears that either two GATC sequences are required for efficient stimulation of mismatch repair or that the individual GATC sequences stimulate mismatch repair with different efficiencies (e.g. the sequence around the GATC sequence may play an important role in the stimulation of mismatch repair). On the other hand, the fraction of mixed infective centres in transfections with '1 GATC' and '0 GATC' heteroduplex molecules in mismatch repair proficient bacteria is similar to that obtained in mutH mutants, and lower than that obtained in mutS and mutL mutants (see Table II). This result suggests that the mutH gene product may be involved in the recognition of GATC sequences, as has already been proposed (Kramer et al., 1984) and that a GATC-independent mismatch repair could occur in the absence of the mutH gene product, though less efficiently. ",
+        "bbox": [
+            66,
+            554,
+            478,
+            872
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nick-stimulated mismatch repair ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            875,
+            281,
+            888
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The excision-resynthesis mode of mismatch repair implies a single-strand incision step. It was suggested that nicks may in general strand-direct mismatch repair and that the only role of the GATC sequence is to provide nicks by a GATC-specific endonuclease (Manarelli et al., 1985). Therefore we have further analysed the potential role of the mutH gene product, and the influence of nicks on efficiency and direction of mismatch repair in $E$ coli. $\\phi \\mathbf { X } 1 7 4 $ heteroduplex DNA molecules, used in our studies, carry a nick in the complementary strand at the site where the parental RFI duplex was linearized (see Materials and methods). If this nick is not sealed by the $E _ { i }$ coli ligase upon transfection before the mismatch repair occurs, it could interact with mismatch repair as we have previously suggested (LängleRouault et al., 1986). ",
+        "bbox": [
+            62,
+            892,
+            473,
+            920
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            217,
+            916,
+            382
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To address this question, we have ligated in vitro the $\\phi \\mathbf { X } 1 7 4 $ $B a m ^ { + }$ J-F ins5/Bam16J-F ins 5 (i.e. '2 GATC', G:A mismatch) heteroduplex molecules and purified the closed heteroduplex form on neutral sucrose gradient. The same percentage of mixed progeny was observed following transfection of mut+ and mutS strains with closed or nicked heteroduplex DNA molecules (data not shown). Moreover, similar percentages of mixed progeny were obtained with $^ { \\bullet } 1$ GATC' heteroduplex molecule whether the nick is located at the $P s t \\mathbf { I }$ site or at the MboI site $P s t \\mathbf { I }$ site and MboI site are on opposite sides of the G:T mismatch $E a m ^ { + } / $ Eam3) (Table I). This could mean that either the presence of a nick in heteroduplex molecules has no major effect on mismatch repair or that the nick is sealed by the $E _ {  }$ coli ligase, soon following the entry of the heteroduplex DNA in the transfected cell. To test the latter hypothesis, we have compared the mismatch repair efficiency of nicked heteroduplex molecules in transfection of E. coli ligts7 strains, which, at non-permissive temperature, have a defect in the sealing of single-strand breaks (Gottesman et al., 1973). As compared with the results obtained at the permissiv tperature, he transectio  at gt strai non-permissive temperature with $\\mathbf { \\epsilon _ { 0 } }$ GATC' or $^ { \\bullet } 1$ GATC' heteroduplex DNA shows lower percentages of mixed infective centres. The amount of mixed infective centres in this case is close to that obtained by mismatch repair of '2 GATC' heteroduplex DNA in mut strain (Table III, cf. line 2, columns 1-4 and line 1, columns ${ \\mathsf { 5 } } { \\mathsf { - } } 7 { \\mathsf { \\Omega } } ,$ . ",
+        "bbox": [
+            508,
+            386,
+            915,
+            742
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To test whether this apparent mismatch repair stimulated by a persistent nick still requires key mismatch repair functions of E. coli, mutL ligts and mutH ligts mutants were also tested (Table III). MutL ligts strain showed the same high fractions of mixed infective centres (36-43%) irrespective of the transfection temperature, thus indicating that the nick-stimulated repair is dependent on the $E .$ coli mismatch repair system. However, the mutH ligts strain showed the same mismatch repair pattern (i.e. similar fractions of mixed infective centres) as the mut+ ligts strain, showing that the nick-stimulated mismatch repair in ligts strains is mutH-independent, but mutL-dependent. In other words, a persistent nick complements the MutH function and alleviates the requirement for two GATC sequences. However, the nick-stimulated (mutH-independent) repair appears not to be so efficient as the methyl-directed (mutH-dependent) mismatch repair (Table III, cf. lines 1 and 4 in columns 5 and 7). ",
+        "bbox": [
+            504,
+            744,
+            911,
+            924
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/97f0cc2767779b66dee3aac23f7d2fd4484822d7e77976721378bf3915ca85de.jpg",
+        "table_caption": [
+            "able III Transfections of ligase - temperature-sensitive mutants of $E$ coli with $\\phi \\mathbf { X } 1 7 4 $ heteroduplexes: effects of mut mutations, GATC sequences and nicks on e percentage of mixed infective centres "
+        ],
+        "table_footnote": [
+            "Numbers in parentheses show the number of analysed infective centres. "
+        ],
+        "bbox": [
+            84,
+            79,
+            944,
+            354
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/82e729c6d857e62348f1d732dc46ee208998869dba6a635a6ede89eb29152e25.jpg",
+        "table_caption": [
+            "Table IV. Heteroduplex molecules used in this study "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            88,
+            419,
+            941,
+            555
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            86,
+            577,
+            498,
+            617
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The nick-stimulated mismatch repair of the $^ { \\bullet } 2$ GATC' heteroduplex can be observed in the mutH mutant (Table III, columns 5 and 6, lines 3 and 4). The results with the mut+ strain (Table III, columns 5 and 7, lines 1 and 2) suggest that the nick-stimulated mismatch repair and the (unmethylated) GATC-stimulated mismatch repair can operate independently and sometimes coincidently on the same molecule: the increase in mixed infective centres in $m u t ^ { + }$ ligts $E .$ coli at $4 0 ^ { \\circ } \\mathbf { C }$ with the heteroduplex in which one strand is intact and unmethylated and the other strand nicked and methylated (Table III, last column), could reflect either a mutual inhibition of the two repair processes or a repair-induced killing. Repair-induced killing is expected to virtually increase the fraction of unrepaired heteroduplexes among the surviving molecules. The repair-induced killing was demonstrated in the case of coincident GATC-directed mismatch repair of unmethylated phage $\\lambda$ heteroduplexes (Doutriaux et al., 1986). ",
+        "bbox": [
+            88,
+            618,
+            500,
+            839
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The nick-stimulated mismatch repair operates with similar efficiencies when the nick is at the PstI site or at the MboI site (GATC sequence, see Table IV and Figure 1 for locations), showing that neither the position of the nick nor the distance to the mismatch seem to be important (at least in the range of distances in this system) (Table III, columns 3 and 4). Therefore, the residual mutL, mutS-dependent mismatch repair observed with $\\mathbf { \\nabla } ^ { \\bullet } \\mathbf { 0 }$ GATC' and $^ { \\bullet } 1$ GATC' heteroduplexes in wild-type bacteria (Table I) may be due to the transient presence of nicks in the intracellular heteroduplex DNA. Nick-stimulated mismatch repair could account for the mismatch repair observed in $\\phi \\mathbf { X } 1 7 4$ heteroduplex DNA by Baas and Jansz (1972). ",
+        "bbox": [
+            89,
+            840,
+            500,
+            922
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7c493a5b6767facaf28c64f614ff2b81c685a57a278d9a29dd2aafebf899260.jpg",
+        "image_caption": [
+            "Fig. 1. Map of genetic elements of $\\phi \\mathbf { X } 1 7 4$ phage strains relevant to this study. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            529,
+            577,
+            939,
+            780
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            532,
+            837,
+            942,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/64040ea1d10592cc36fb6a979d4047bcc7575f835a77cc3403172aac56fec0d4.jpg",
+        "table_caption": [
+            "Table V. Strand bias in mismatch repair of $\\phi { \\Chi } 1 7 4$ heteroduplex DNA: effects of nicks and GATC methylation "
+        ],
+        "table_footnote": [
+            "Numbers are percentages of mixed (am/am \\*) and pure (am or am \\* ) infective centres derived from transfections of ligts $E$ coli mutants from experiments presented in Table III. "
+        ],
+        "bbox": [
+            68,
+            79,
+            482,
+            419
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nick-directed mismatch repair ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            473,
+            269,
+            487
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In the absence of mismatch repair, i.e. when heteroduplex DNA molecules give rise to mixed progeny, the two parental genotypes are roughly equally represented among the phage progeny in individual infective centres (data not shown). This suggests that, when both viral and complementary strands are replicated in the absence of, or prior to mismatch repair, both heteroduplex strands yield progeny with equal probabilities. However, most infective centres derived from heteroduplex $\\phi { \\Chi } 1 7 4$ DNA are not mixed. Even in the case of mutL and mutS bacteria a maximum of $5 0 \\%$ mixed infective centres is observed, suggesting that only one strand replicates and yields viable progeny in over $5 0 \\%$ of transfected cells. Alternatively, a mismatch repair system not requiring the mutL, mutS gene products may operate in $E .$ coli. ",
+        "bbox": [
+            70,
+            491,
+            478,
+            669
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When heteroduplex DNA gives rise to a pure progeny, the predominance of one of the two parental genotypes reflects a bias in the mismatch repair and/or a bias in the replication of one of the two parental strands. In mutS and mutL bacteria, where no methyl-directed mismatch repair occurs, the fraction of pure progeny shows a strong bias in favour of the am marker carried by the parental complementary strand (see Table V, lines 3 and This result is in agreement with the asymmetric (rolling-circle) replication model for $\\phi { \\bf X } 1 7 4 $ DNA, in which the complementary strand is the template strand (see Kornberg, 1980). ",
+        "bbox": [
+            68,
+            670,
+            478,
+            806
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We have shown (Längle-Rouault et al., 1986), that the methylation of GATC sequences in '2 GATC' $\\phi X 1 7 4$ heteroduplex DNA directs mismatch repair on the unmethylated strand as was shown with λ heteroduplex DNA (Radman et al., 1980; Pukkila et al., 1983) and with M13 heteroduplex DNA (Kramer et al., 1984). When mismatch repair occurs in GATC-unmethylated DNA, one expects no particular bias in mismatch repair. Indeed, an equal proportion of both parental genotypes Bam+ and Bam16 was observed among the pure progeny of unmethylated '2 GATC' heteroduplex DNA in mut+ lig + bacteria (see Table V, lines 5 and 9). ",
+        "bbox": [
+            66,
+            808,
+            477,
+            917
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            46,
+            916,
+            87
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In mutH ligts strains at permissive temperature where a residual mismatch repair activity is observed, the fact that the strong bias in favour of the genotype carried by the methylated strand in '2 GATC' hemimethylated heteroduplexes is largely reduced (Table V, cf. lines 11 and 7) indicates that the MutH protein is implicated in methyl direction of mismatch repair. ",
+        "bbox": [
+            509,
+            88,
+            916,
+            170
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The evidence for the direction of mismatch repair to the nicked strand was obtained under the conditions of nick-stimulated repair in $\\phi \\mathrm { X } 1 7 4 $ DNA, i.e. in ligts mutant transfected at $4 0 ^ { \\circ } \\mathrm { C }$ (Table V). The observation that nearly all mixed infective centres lost in mut\\* ligts bacteria at $4 0 ^ { \\circ } \\mathrm { C }$ (relative to $3 2 ^ { \\circ } \\mathrm { C }$ ,i.e. $2 2 \\mathrm { ~ - ~ } 8$ $= 1 4 \\%$ appear in the pure $E a m ^ { + }$ class (i.e. $5 2 \\textrm { -- } 4 1 = 1 1 \\%$ is indicative of repair on the nicked complementary strand. ",
+        "bbox": [
+            508,
+            171,
+            916,
+            267
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The nick-stimulated mismatch repair can occur on the nicked strand even if it is methylated as demonstrated by the decrease of the genotype carried by the nicked methylated strand (Bam16) in favour of the genotype carried by the intact unmethylated strand $( B a m ^ { + } )$ (Table V, lines 7 and 8). Moreover in a mutH ligts strain a bias in favour of the genotype of the intact strand is also observed for both unmethylated and hemimethylated 'GATC' heteroduplex DNAs at nonpermissive temperature (Table V, lines 10 and 12). This suggests that a single persistent nick in a small circular DNA can direct mismatch repair even in mutH-deficient strains. ",
+        "bbox": [
+            508,
+            268,
+            916,
+            420
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Further Discussion and Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            431,
+            746,
+            445
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our results suggest that: (i) the standard methyl-directed mutHdependent mismatch repair requires unmethylated GATC sequences; (ii) the requirement for GATC sequences and for the mutH function in mismatch repair can be complemented by persistent nicks in DNA; and (iii) mismatch repair is directed on the nicked strand in nick-stimulated repair, and on the strand carrying the unmethylated GATC sequences in methyl-directed repair. Therefore it is likely that the involvement of the MutH protein in mismatch repair of $\\phi { \\bf { X } } 1 7 4 $ heteroduplex DNA is a mismatch-stimulated nicking of the strand carrying unmethylated GATC sequences. Thus, mismatch repair of $\\phi { \\Chi } 1 7 4$ heteroduplex DNA can be stimulated and directed either by GATC sequences using the mutH gene product or by single-strand breaks, which alleviate the requirement for the mutH function. ",
+        "bbox": [
+            509,
+            449,
+            916,
+            642
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To account for results and work reviewed in this paper, we propose the following model for the methyl-directed mismatch repair of $\\phi { \\Chi } 1 7 4$ heteroduplex DNA in $E .$ coli (Figure 2). The MutL and MutS proteins may recognize and locally open up the site of the mismatch allowing the MutU protein (which is DNA helicase II) to enter the DNA and unwind it bidirectionally. MutH protein(s) may recognize non-methylated GATC sequences flanking a mismatched base-pair and introduce single-strand breaks at these GATC sequences [probably immediately $5 ^ { \\prime }$ to the dam (GATC) sequence (Welsh et al., 1986)], allowing the displacement of the single-strand DNA fragment carrying the mismatched bases. The resulting gap is filled up by the DNA polymerase using the intact strand as the template. The nick is then sealed by the $E$ coli ligase. ",
+        "bbox": [
+            508,
+            643,
+            915,
+            835
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mismatch-stimulated breakage at GATC sequences could occur before, coincidently, or after the melting of unmethylated GATC sequences. Alternatively, the MutH-stimulated nicking of GATC sequences could occur independently of other Mutproteins e.g. if the MutH substrates are single-stranded unmethylated GATC sequences (i.e. MutH protein would formally act as a single-strand specific, GATC-specific and methylation-sensitive restriction enzyme). This latter hypothesis is intriguing because it suggests that (i) there may be a coevolution of the Mut-endonuclease and Dam-methylase functions and (ii) the mutH function may be responsible for a very strong counterselection of GATC sequences in single-stranded DNA phages $\\langle \\phi \\mathbf { X } 1 7 4 $ , G4 and M13) and in fully unmethylated doublestranded phages (T7) (McClelland, 1985). ",
+        "bbox": [
+            506,
+            837,
+            913,
+            920
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f10e243d05844d542ee6257155f245201d14e4bc2969807febec7c2a3ea73db.jpg",
+        "image_caption": [
+            "F hand panel) is not known. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            186,
+            42,
+            846,
+            685
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            768,
+            501,
+            878
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The nick-stimulated and nick-directed mismatch repair in $\\phi \\mathbf { X } 1 7 4$ DNA is MutH-independent but MutL and MutS dependent. What is the mechanism of such repair in X174 DNA? ",
+        "bbox": [
+            91,
+            880,
+            501,
+            920
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We suggest that the entire nicked strand (the complementary strand in our experiments) is displaced as illustrated in Figure 2. In favour of this hypothesis is the observation that with two well-separated mismatches (Eam+ Bam16/Eam3 Bam+) in unmethylated '2 GATC' heteroduplex DNA we could not detect any event of independent repair of one mismatch in ligts and mutH ligts strains at nonpermissive temperature (no independent repair events on either heteroduplex strand versus 704 corepair events on the same strand, data not shown). ",
+        "bbox": [
+            531,
+            766,
+            942,
+            890
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Thinking of mismatch correction of replication errors in eukaryotes and in other organisms devoid of GATC methylation, the model in Figure 2 suggests that neither methylation nor MutHlike functions are required providing that the DNA synthesis is discontinuous on both parental template strands, as was observed in Saccharomyces cerevisiae ligase-ts mutant at nonpermissive temperature (Johnston and Nasmyth, 1978). In such a case, the MutL, S and U equivalents could assure the melting away of mismatch-bearing Okazaki fragments. The classical experiments on mismatch repair in pneumococcal transformation could be interpreted by a mismatch stimulated melting of the integrated but non-ligated single strand (Guild and Shoemaker, 1976). ",
+        "bbox": [
+            531,
+            890,
+            942,
+            916
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/72d2eb342cc04fa8686d0d3ea3acdc827614899f21afbd9178337b0322e9b2f1.jpg",
+        "table_caption": [
+            "Table VI. Bacterial strains used in this study "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            66,
+            74,
+            913,
+            248
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            266,
+            482,
+            405
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Alternatively, double-strand breaks at, or close to, mismatches followed by recombination with the sister duplex (sister chromatid exchange) could equally circumvent the necessity for DNA methylation in mismatch correction (review, Radman and Wagner, 1986). ",
+        "bbox": [
+            70,
+            406,
+            482,
+            474
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            489,
+            232,
+            503
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli strains (see Table VI). ",
+        "bbox": [
+            70,
+            510,
+            276,
+            521
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "$\\$ 174$ mutant phage for heteroduplex construction $\\phi \\mathbf { X } 1 7 4 $ Eam3 J-F ins3 and $\\phi \\mathbf { X } 1 7 4$ Eam3 J-F ins5 phages were obtained from Drs U.R.Müller and R.D.Wells (Müller and Wells, 1980) and have been described previously (Längle-Rouault et al., 1986), as well as the construction of $a m ^ { + }$ and Bam16 phages carrying inserts 3 and 5. ",
+        "bbox": [
+            73,
+            525,
+            341,
+            536
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            539,
+            480,
+            584
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The '1 GATC' insert carrying $\\phi \\mathbf { X } 1 7 4 $ DNA molecules was constructed in the following way: unmethylated RFI Eam3 J-F ins5 DNA and RFI Eam+ J-F ins5 DNA, both containing the 64-bp-long AluI fragment no 11, carrying two GATC sequences, were cleaved with the MboI enzyme which cuts only unmethylated GATC sequences. The restricted DNA was precipitated with ethanol and wshed twice in order to eliminate the 18-bp-long DNA restriction fragment between the two GATC sequences. ",
+        "bbox": [
+            70,
+            584,
+            480,
+            662
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Circularization of linearized $\\mathbf { \\delta } ^ { \\bullet } \\mathbf { 1 }$ GATC' insert-carrying $\\phi \\mathbf { X } 1 7 4 $ DNA was performed with T4 ligase for $9 0 ~ \\mathrm { m i n }$ at $3 7 ^ { \\circ } \\mathbf { C }$ The ligation product was transfected into competent ES894 mutS spheroplasts (linear DNA molecules are not infectious in our method of transfection). The resulting phages are $\\phi \\mathbf { X } 1 7 4$ Eam3 J-F ins6 and $\\phi \\mathbf { X } 1 7 4 E a m ^ { + }$ J-F ins6. ",
+        "bbox": [
+            70,
+            662,
+            480,
+            719
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DNA preparation and construction of circular heteroduplex DNA ",
+        "text_level": 1,
+        "bbox": [
+            71,
+            723,
+            415,
+            734
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These methods are described by Längle-Rouault et al. (1986). The presence of unmethylated GATC-carrying insert was tested by the MboI restriction enzyme. ",
+        "bbox": [
+            68,
+            737,
+            480,
+            760
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The double-stranded RFI Eam3 J-F ins6 DNA was linearized by unique site cleavage either with $P s t \\mathbf { I }$ enzyme (Boehringer) or with MboI enzyme (Bethesda Research) before annealing with the viral $5 a m ^ { + }$ strand. ",
+        "bbox": [
+            68,
+            760,
+            478,
+            792
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "RFII DNAs were purified twice on neutral $5 - 2 0 \\%$ sucrose gradient (Beckman SW50 rotor, 45 000 r.p.m. for $1 9 0 \\ \\mathrm { m i n }$ at $2 0 ^ { \\circ } \\mathbf { C } )$ . ",
+        "bbox": [
+            70,
+            794,
+            478,
+            815
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The different species of heteroduplex molecules used in this study are listed in Table II. The map of genetic elements of $\\phi \\mathbf { X } 1 7 4 $ phage strains relevant to this study is given in Figure 1. ",
+        "bbox": [
+            68,
+            816,
+            478,
+            849
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Transfection and scoring of infective centres ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            853,
+            305,
+            864
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These procedures were performed as described previously (Längle-Rouault et 1986) with the exception of the $E ,$ coli lgts transfections, which were performed for 8 min at 32 or $4 0 ^ { \\circ } \\mathbf { C }$ , respectively, instead of $3 7 ^ { \\circ } \\mathbf { C }$ The $4 0 ^ { \\circ } \\mathbf { C }$ transfections were followed by an incubation at $4 0 ^ { \\circ } \\mathbf { C }$ for $^ { 2 \\mathrm { ~ h ~ } }$ and then shifted to $3 2 ^ { \\circ } \\mathbf { C }$ to allow $\\phi \\mathbf { X } 1 7 4 $ plaque formation. ",
+        "bbox": [
+            68,
+            867,
+            478,
+            922
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            267,
+            640,
+            280
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr S.D.Ehrlich for the gift of the ligts strain. This work was supported by grants from the Commission of the European Communities B10-C-359-81-B and B10-E-420-81-B and from the Belgian Government 'Action de Recherche Concertées'. G.M.M. was supported by contracts with the Commission of European Communities B16-0155-B and by the ARC-ULB. ",
+        "bbox": [
+            508,
+            284,
+            916,
+            340
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            353,
+            583,
+            366
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Baas,P.D. and Jansz,H.S. (1972) J. Mol. Biol. , 63, 557568.   \nBarbeyron,T., Kean,K. and Forterre,P. (1984) J. Bacteriol., 160, 586590.   \nBauer,J., Krammer,G. and Knippers,K. (1981) Mol. Gen. Genet., 181, 541547.   \nClaverys,J.P. and Lacks,S.A. (1986) Microbiol. Rev., 50, 133 165.   \nClaverys,J.P., Roger,M. and Sicard,A.M. (1980) Mol. Gen. Genet. , 178, 191 201.   \nDoutriux,M.P., Wager,R. and Radman,M. (1986) Proc. Natl. Acad. Sci. USA, 83, 25762578.   \nGeier,G.E. and Modrich,P.J. (1979) J. Biol. Chem. , 254, 14081413.   \nGlickman,B.W. and Radman,M. (1980) Proc. Natl. Acad. Sci. USA, 77, 1063 1067.   \nGottesman,M.M., Hicks,M.L. and Gellert,M. (1973) J. Mol. Biol. , 77, 531 536.   \nGuild,W.R. and Shoemaker,N.B. (1976) J. Bacteriol., 125, 125135.   \nHickson,I.D., Arthur,H.M., Bramhill,D. and Emmerson,P.T. (1983) Mol.Gen. Genet. , 190, 265270.   \nJohnston,L.H. and Nasmyth,K.A. (1976) Nature, 274, 891 893.   \nJo. r. n,M. 8J.. .  .   \nKornberg,A. (1980) DNA Replication. W.H.Freeman, San Francisco, p. 496 514.   \nKramer,B., Kramer,W. and Fritz,H.J. (1984) Cell, 38, 879887.   \nKumura,K. and Sekiguchi,M. (1984) J. Biol. Chem. , 259, 15601565.   \nLacks,S.A., Dunn,J.D. and Greenberg,B. (1982) Cell, 31, 327336.   \nLängle-Rouault,F., Maenhaut-Michel,G. and Radman,M. (1986) EMBO J., 5, 20092013.   \nLieb,M. (1985) Mol. Gen. Genet., 199, 465470.   \nLindquist,B.H. and Sinsheimer,R.L. (1967) J. Mol. Biol., 28, 8794.   \nLu,A.L., Clark,S. and Modrich,P. (1983) Proc. Natl. Acad. Sci. USA, 80, 4639 4643.   \nLA.LWlsh,K. CarkS.SanSuS.anc,P.8Col Harbor Symp. Quant. Biol., 49, 589596.   \nLyons,S.M. and Schendel,P.F. (1984) J. Bacteriol., 159, 421423.   \nManareli,B.M., Balganesh,T.S. Greenber,B., Springhorn,S.S. and Lacks,S.A. (1985) Proc. Natl. Acad. Sci. USA, 82, 44684472.   \nMaples,U.F. and Kushner,S.R. (1982) J. Mol. Biol., 79, 56165620.   \nMarinus,M.G. (1973) Mol. Gen. Genet. , 127, 4755.   \nMarinus,M.G. (1976) Mol. Gen. Genet., 128, 853854.   \nMatson,S.W. (1986) J. Biol. Chem., 261, 1016910175.   \nMcClelland,M. (1985) J. Mol. Evol., 21, 317322.   \nMüller,U.R. and Wells,R.D. (1980) J. Mol. Biol., 141, 2541.   \nNevers,P. and Spatz,H.C. (1975) Mol. Gen. Genet., 139, 233243.   \nP,P.P. LrA.S.anWalkerG.W98Baol. 16,1007 1015.   \nPla,P.J.ersonJ.HeranG.oich,P.aMesson,M. Genetics, 104, 571582.   \nRadman,M. and Wagner,R.E., Jr. (1986) Annu. Rev. Genet. , 20, 523538.   \nRan,M. Wager,R.E. Jr. Glicman,B.W. and Messon,M. 98 In Alacevic,M. (ed.), Progress in Environmental Mutagenesis. Elsevier/NorthHolland Biomedical Press, Amsterdam, pp. 121130.   \nRyberg,B. (1978) Mutat. Res. 5.114.   \nSanger,F., Air,G.M., Barrell,B.G., Brown,N.L., Coulson,A.R., Fiddes,J.C., Hutchinson,C.A., Slocombe,P.M. and Smith,M. (1977) Nature, 265, 687 —695.   \nSu,S.S. and Modrich,P. (1986) Proc. Natl. Acad. Sci. USA, 83, 5057 5061.   \nSiegel,E.C., Wain,S.L., Meltzer,S.F., Binion,M.L. and Steinberg,J.L. (1982) Mutat. Res., 93, 25-33.   \nVaccaro,K.K. and Siegel,E.C. (1977) Mutat. Res., 42, 443-446.   \nWagner,R., Jr. and Meselson,M. (1976) Proc. Natl. Acad. Sci. USA, 73, 4135 4139.   \nWagner,R., Jr., Dohet,C., Jones,M., Doutriaux,M.P., Hutchinson,F. and Radman,M. (1984) Cold Spring Harbor Symp. Quant. Biol., 49, 611615.   \nWelsh,K.M., Lu,A.L. and Modrich,P. (1986) Fed. Proc. , 45, 1782 (abst. 1758). ",
+        "bbox": [
+            508,
+            359,
+            916,
+            924
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            46,
+            504,
+            171
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Received on December 31, 1986 ",
+        "bbox": [
+            94,
+            183,
+            267,
+            193
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Note added in proof ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            209,
+            238,
+            223
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Recent work of R.S.Lahue, S.-S.Su and P.Modrich Proc. Natl. Acad. Sci. USA (in press) shows that the in vitro mismatch repair catalysed by $E .$ coli cell extracts also requires unmethylated GATC sequences . Their work demonstrates that different individual GATC sequences show widely different potencies of mismatch repair stimulation and that a single GATC sequence can be sufficient in stimulating mismatch repair in small circular DNA substrate derived from phage fl. ",
+        "bbox": [
+            93,
+            228,
+            506,
+            308
+        ],
+        "page_idx": 6
+    }
+]

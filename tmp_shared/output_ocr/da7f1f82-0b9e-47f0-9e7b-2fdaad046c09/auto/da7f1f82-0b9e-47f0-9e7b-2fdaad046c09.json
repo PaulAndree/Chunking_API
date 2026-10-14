@@ -1,0 +1,1061 @@
+[
+    {
+        "type": "text",
+        "text": "Rapid #: -26246566 ",
+        "text_level": 1,
+        "bbox": [
+            47,
+            92,
+            346,
+            119
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CROSS REF ID: 455522230009370 ",
+        "bbox": [
+            45,
+            142,
+            439,
+            161
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LENDER: ",
+        "bbox": [
+            47,
+            178,
+            148,
+            196
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OHDEP (Ohio Regional Depository System) : Main Library ",
+        "text_level": 1,
+        "bbox": [
+            246,
+            176,
+            882,
+            199
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BORROWER: ",
+        "bbox": [
+            47,
+            212,
+            192,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HR-ZAIRB (Znanstvene knjinice) :: HR-ZalRB ",
+        "bbox": [
+            245,
+            212,
+            746,
+            234
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TYPE: ",
+        "bbox": [
+            47,
+            248,
+            96,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BOOK TITLE: ",
+        "bbox": [
+            47,
+            273,
+            148,
+            289
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "USER BOOK TITLE: ",
+        "bbox": [
+            47,
+            297,
+            199,
+            314
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Book Chapter ",
+        "bbox": [
+            243,
+            248,
+            346,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHAPTER TITLE: ",
+        "bbox": [
+            47,
+            324,
+            179,
+            339
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BOOK AUTHOR: ",
+        "bbox": [
+            45,
+            361,
+            173,
+            377
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EDITION: ",
+        "bbox": [
+            47,
+            387,
+            120,
+            402
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Molecular and Cellular Aspects of Carcinogen Screening Tests IARC Scientific Publication No. 27 ",
+        "bbox": [
+            243,
+            272,
+            949,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Molecular and Cellular Aspects of Carcinogen Screening Tests IARC Scientific Publication No. 27 ",
+        "bbox": [
+            245,
+            297,
+            946,
+            314
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IV - Induction of a stable, heritable epigenetic change by mutagenic carcinogens: a new test system ",
+        "bbox": [
+            241,
+            324,
+            916,
+            352
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VOLUME: ",
+        "bbox": [
+            45,
+            412,
+            122,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PUBLISHER: ",
+        "bbox": [
+            47,
+            438,
+            145,
+            453
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YEAR: ",
+        "bbox": [
+            47,
+            463,
+            98,
+            477
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "27 ",
+        "bbox": [
+            241,
+            412,
+            264,
+            426
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PAGES: ",
+        "bbox": [
+            47,
+            488,
+            107,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ISBN: ",
+        "bbox": [
+            47,
+            513,
+            91,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OCLC #: ",
+        "bbox": [
+            47,
+            564,
+            112,
+            579
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "243-255   \n9789283211273 ",
+        "bbox": [
+            240,
+            488,
+            364,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LCCN: ",
+        "bbox": [
+            47,
+            539,
+            98,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Processed by RapidX: 2/24/2026 2:07:53 PM ",
+        "bbox": [
+            45,
+            614,
+            408,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OhioLINK Paging Slip ",
+        "text_level": 1,
+        "bbox": [
+            363,
+            165,
+            638,
+            188
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ahold has been placed on the followig item. Please pull this item and send it to the library ocation given below. ",
+        "bbox": [
+            59,
+            203,
+            944,
+            238
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Institution: Ohio Regional Depository System Library Name: NorthEast Ohio Regional Depository Shelving Location: Depository NEOMED Item ",
+        "bbox": [
+            51,
+            265,
+            500,
+            336
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b298b8becf807b9eedd5e6a0a0c594d19231e57ca585eb62a8ab9e87b80cce0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            51,
+            353,
+            440,
+            515
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Title: Molecular and cellular aspects of carcinogen screening tests ",
+        "bbox": [
+            52,
+            541,
+            632,
+            559
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Call Number: QZ 202 M718 1979 ",
+        "bbox": [
+            56,
+            567,
+            355,
+            587
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Author: Item barcode: AJ2107-08C009 ",
+        "bbox": [
+            54,
+            594,
+            422,
+            613
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Volume: 27 Issue: Copy: 1 Edition: Item Description: Publication date: ",
+        "bbox": [
+            56,
+            618,
+            752,
+            638
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chapter title: IV - Induction f a stable, heritable epigenetic change by mutagenic carcinogens: a new test system ",
+        "bbox": [
+            54,
+            645,
+            942,
+            683
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Request note: 243-255 Pickup Location : Znanstvene knjiznice - HR-ZalRB ",
+        "bbox": [
+            54,
+            718,
+            532,
+            757
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pickup Location Address: Znanstvene knjinice - HR-ZalRB ",
+        "bbox": [
+            52,
+            786,
+            390,
+            831
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MOLECULAR AND CELLULAR ASPECTS OF CARCINOGEN SCREENING TESTS ",
+        "text_level": 1,
+        "bbox": [
+            219,
+            253,
+            823,
+            455
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proceedings of a meeting organized by IARC and the Commission of the European Communities and held in Hanover, Federal Republic of Germany, 49 June 1979 ",
+        "bbox": [
+            131,
+            502,
+            917,
+            574
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "EDITORS ",
+        "bbox": [
+            465,
+            642,
+            574,
+            661
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "R. MONTESANO H. BARTSCH L. TOMATIS ",
+        "bbox": [
+            190,
+            669,
+            847,
+            692
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TECHNICAL EDITOR FOR IARC W. DAVIS ",
+        "bbox": [
+            335,
+            729,
+            706,
+            780
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "IARC Scientific Publications No. 27 ",
+        "bbox": [
+            342,
+            797,
+            697,
+            817
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "INTERNATIONAL AGENCY FOR RESEARCH ON CANCER ",
+        "bbox": [
+            185,
+            885,
+            852,
+            905
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "LYON 1980 ",
+        "bbox": [
+            483,
+            913,
+            559,
+            962
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The International Agency for Research on Cancer (IARC) was established in 1965 by the World Health Assembly as an independently financed organization within the framework of the World Health Organization. The headquarters of the Agency are at Lyon, France, and it has Research Centres in Iran, Kenya and Singapore. ",
+        "bbox": [
+            33,
+            21,
+            949,
+            120
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Agency conducts a programme of research concentrating particularly on the epidemiology of cancer and the study of potential carcinogens in the human environment. Its field studies are supplemented by biological and chemical research carried out in the Agency's laboratories in Lyon and, through collaborative research agreements, in national research institutions in many countries. The agency also conducts a programme for the education and training of personnel for cancer research. ",
+        "bbox": [
+            33,
+            129,
+            968,
+            287
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The publications of the Agency are intended to contribute to the dissemination of authoritative information on different aspects of cancer research. ",
+        "bbox": [
+            33,
+            296,
+            944,
+            355
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ISBN 92 832 1127 8 ",
+        "text_level": 1,
+        "bbox": [
+            369,
+            537,
+            654,
+            559
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ International Agency for Research on Cancer 1979 150 cours Albert Thomas, 69372 Lyon Cedex 2, France ",
+        "bbox": [
+            112,
+            617,
+            911,
+            667
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The authors alone are responsible for the views expressed in the signed articles in this publication. ",
+        "bbox": [
+            33,
+            832,
+            937,
+            871
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "PRINTED IN SWITZERLAND ",
+        "text_level": 1,
+        "bbox": [
+            374,
+            958,
+            669,
+            978
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "INDUCTION OF A STABLE, HERITABLE EPIGENETIC CHANGEBY MUTAGENIC CARCINOGENS: A NEW TEST SYSTEM",
+        "text_level": 1,
+        "bbox": [
+            67,
+            98,
+            930,
+            142
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Z. TOMAN, C. DAMBLY & M. RADMAN ",
+        "bbox": [
+            328,
+            204,
+            729,
+            223
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Department of Molecular Biology, Free University of Brussels, Rhode-St-Genese, Belgium ",
+        "bbox": [
+            328,
+            242,
+            736,
+            299
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "GENERAL INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            393,
+            650,
+            410
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There is little doubt that cancer is a 'chromosomal disease', involving a stable change in the expression of the genetic material of a somatic cell (reviews: Cairns, 1978; German, 1974). Main support stems from observations of the stability and cellular heritability of the malignant character, i.e., the clonal nature of tumours, specific chromosomal markers in many malignancies, chromosomal markers and chromosomal instabilities in human cancer-prone syndromes (review: German, 1974) and specific chromosomal involvement in the suppression and expression of the malignant character (Rabinowitz & Sachs, 1970; Stanbridge, 1976). ",
+        "bbox": [
+            46,
+            431,
+            967,
+            616
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Little is known, however, about the nature of the relevant chromosomal change; there are two groups of theories that have been put forward: 'genetic' and 'epigenetic' theories. 'Genetic' theories postulate one or more specific somatic mutations (changes in DNA nucleotide sequence) as the cause of cancer, whereas the 'epigenetic' theories postulate specific changes in the control of gene activity, with no change in nucleotide sequence (e.g., chemical modification of the DNA sequences involved in gene control, changes in the feedback loops of complex gene control, etc.). It is likely, on the other hand, that carcinogenesis requires the coincidence of both genetic and epigenetic changes. For example, carcinogenic initiation is probably due to a stable, heritable chromosomal change (perhaps a mutation) which remains unexpressed; carcinogenic promotion appears to be an epigenetic process, with eventual genetic consecuences (Kinsella & Radman, 1978), which transforms initiated cells into malignant cells. Initiators and solitary carcinogens are mutagenic, while the best-known tumour promoter, 12-0-tetradecanoyl-phorbol-13-acetate (TPA), is not ",
+        "bbox": [
+            41,
+            627,
+            951,
+            944
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(review: Weinstein et al., 1979). For these reasons, a good shortterm carcinogenicity test should measure both genetic and epigenetic events which correlate with the initiating and promoting activities of carcinogenic agents. ",
+        "bbox": [
+            49,
+            60,
+            953,
+            135
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Every respectable theory of cancer should be able to account for the excellent correlation between the capacity of an agent to induce DNA lesions and its carcinogenic potency (review: Cairns, 1978) and for the correlation between deficiency in DNA repair and susceptibility to cancer induction by DNA-damaging agents, as in the case of xeroderma pigmentosum (Cleaver, 1968). The ease with which somatic mutation theories can account for these correlations is their principal contribution to epigenetic theories. However, Pugh & Hollidayl have postulated recently an epigenetic mechanism of carcinogenesis, based on enzymatic modification of DNA, which is compatible with DNA damage, thus correlating with carcinogenesis. We present here the first experimental evidence for DNA damage - induced stable, heritable, epigenetic change - in a genetically and molecularly well-defined system of gene control by feedback loops. ",
+        "bbox": [
+            44,
+            144,
+            964,
+            408
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "SPECIFIC INTRODUCTION",
+        "text_level": 1,
+        "bbox": [
+            379,
+            446,
+            653,
+            464
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DNA lesions caused by ultra-violet (Uv) irradiation and many powerful chemical mutagens/carcinogens provoke both genetic (mutations, recombinations) and epigenetic (e.g., induction of lysogenic bacteria) effects in bacteria (reviews: Devoret, 1978; Witkin, 1976). Moreover, the mutagenic effect of these agents is under the same epigenetic control as the induction of prophage λ in lysogenic bacteria (SOS induction) (Defais et al., 197l; George et al., 1974; Radman, 1974; Witkin, 1974). The λ induction test is therefore a valuable test for a major class of DNA-damaging agents (Moreau et al., 1976). The complex circuits of intertwined negative and positive gene controls in bacteriophage λ have been studied in detail both genetically and biochemically (Echols, 1979; review: Hershey, 197l). ",
+        "bbox": [
+            39,
+            485,
+            964,
+            709
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Each bacteriophage λ that infects its host Escherichia coli has the choice of two mutually exclusive developmental pathways: the lytic pathway and the lysogenic pathway. The 'decision' and the maintenance of the given developmental pathway are achieved by a specific repressor: the product of the cI gene in the case of lysogeny, and the product of the cro gene in the case of lytic development. Since these repressors mutually repress each other's synthesis, it suffices to inactivate one repressor to assure the expression of the other. Important molecular details of this intricate gene control have recently been elucidated (review: Echols, 1979; Johnson et al., 1978; Takeda, 1979). It is therefore conceivable that a prophage λ that is integrated into the bacterial chromosome and rendered harmless to its host (e.g., by ",
+        "bbox": [
+            37,
+            718,
+            964,
+            942
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "mutations that prevent its autonomous replication, excision from the host DNA and other host-killing effects) could exist in two different stable states (Eisen et al., 1970): in either (A) the immune state in which only the cI gene is active, cro and all other phage genes being repressed; or (B) the nonimmune state, initially triggered by inactivation of the cI repressor and consequently maintained by the cro repressor. In this state, various other $\\lambda$ genes (except the cI) are expressed. ",
+        "bbox": [
+            48,
+            57,
+            924,
+            210
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This knowledge stems from the studies of Eisen et al. (1970) with a mutant thermosensitive cI repressor (active at $3 2 ^ { \\circ }$ and inactive at $4 2 ^ { \\circ } .$ ); in this case, the transition (A) B was provoked by transient exposure to $4 2 ^ { \\circ }$ . ",
+        "bbox": [
+            45,
+            221,
+            942,
+            294
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It is known that the cI repressor is inactivated by SOS induction, a cellular process induced as a consequence of the presence of unrepairec DNA lesions; among other effects, Sos induction results in the proteolytic cleavage of the cI repressor (Roberts & Roberts, 1975). Therefore, we assumed that, with the wild-type cI repressor, state (A) could be transformed into a stable and heritable state (B), as a consequence of DNA lesions induced by mutagenic/carcinogenic agents. This prediction proved to be correct. ",
+        "bbox": [
+            43,
+            305,
+            961,
+            457
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DESCRIPTION OF THE GENETIC SYSTEM ",
+        "text_level": 1,
+        "bbox": [
+            292,
+            496,
+            713,
+            514
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order easily to detect the transitions $( \\mathrm { A } ) {  }$ (B), we set the bacterial gal operon (which codes for the enzymes involved in the utilization and metabolism of galactose) under the direct negative control of the cI repressor, using a specific fusion between the prophage $\\lambda$ genes and the gal operon (Fig. l). The procedure by which this fusion was obtained will be published elsewhere. ",
+        "bbox": [
+            41,
+            533,
+            954,
+            649
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "As indicated in Figure 1, in the initial immune state (A), both the $g \\alpha \\mathcal { Z }$ operon and the cro gene remain unexpressed, because of the presence of the $\\mathcal { C } \\mathcal { T }$ repressor; consequently, the bacterial colonies formed on the galactose-containing indicator medium (McConkey gal agar) are white $( g \\alpha \\mathcal { Z } ^ { - }$ phenotype). When the cI repressor is inactivated for a sufficient time, the cell switches to the nonimmune state (B), and the transcription from the λ ${ \\tt P } _ { \\mathrm { R } }$ promotor now reads both the cro gene and the bacterial gal operon. The\"cro repressor shuts off the synthesis of the cI repressor, and, consequently, the colony is coloured dark-red (gal+ phenotype). Hence, the colour of the colony shows the epigenetic state of the initial bacterium from which that colony issued: state (A) is white, state (B) is red (see Fig. l). ",
+        "bbox": [
+            36,
+            657,
+            958,
+            885
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "FIG. 1. THE STRUCTURE OF THE E. COli EMT-1 λ-gaZ FUSION STRAIN AND A SCHEMATIC REPRESENTATION OF THE GENE EXPRESSION IN ITS TWO STABLE, HERITABLE EPIGENETIC STATES: A) THE IMMUNE gaZ- STATE AND (B) THE NONIMMUNE $g a l ^ { + }$ STATE ",
+        "bbox": [
+            107,
+            66,
+            908,
+            146
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The frequencies of spontaneous (A) =(B) transitions are indicated; SOS induction provoked by DNA damage causes an (A) (B) epigenetic switch. @ represents a negative control by repression; \\~ represents the relevant RNA transcripts. ",
+        "bbox": [
+            43,
+            151,
+            970,
+            231
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/39742a1bea9c9c70d6fb118952b2a4394328d0b06e41423ca7d148c322b7153d.jpg",
+        "image_caption": [
+            "EXPERIMENTS: SIMULTANEOUS DETECTION OF EPIGENETICAND MUTATIONAL EVENTS"
+        ],
+        "image_footnote": [],
+        "bbox": [
+            220,
+            266,
+            817,
+            616
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A mutation in the cI gene that inactivates the cI repressor must also cause $g a l ^ { + }$ phenotype (red colonies) in all descendants. Therefore, our $\\mathcal { E }$ coli EMT-l strain can detect both epigenetic effects (SOS induction) and mutagenic events. ",
+        "bbox": [
+            31,
+            724,
+            913,
+            799
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As can be seen in Figure 2, these two effects are easily distinguished in our system: mutations in the cI gene cause the appearance of completely red colonies, whereas the epigenetic transition $\\mathrm { ( A ) } \\ $ (B) yields red colonies with white edges. This fringe is due to a certain instability of the epigenetic (B) state, which reverts spontaneously to the (A) state with frequencies of $1 0 ^ { - 3 }$ to $\\displaystyle { 1 0 ^ { - 2 } }$ . In the absence of inducing treatment, the (A) state shifts to the (B) state, with a frequency of $\\boldsymbol { 1 0 ^ { - 4 } }$ (see Fig. 3), corresponding to the frequency of the spontaneous induction of the $\\lambda$ prophage. ",
+        "bbox": [
+            34,
+            808,
+            943,
+            980
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "FIG. 2. PHENOTYPIC DISTINCTION BETWEEN THE EPIGENETIC AND GENETIC (A) $\\nrightarrow$ (B) TRANSITIONS ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            63,
+            877,
+            105
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The epigenetic switch yields colonies whose dark-red staining is centra and irregular - the majority of the stained colonies on this plate. The easily recognized white edges cannot be seen in this figure due to the poor contrast between the agar and white colonies (see the fewer unaffected, white colonies). The arrow indicates a colony that is completely stained dark-red, due to a mutation in the cI gene of the original bacterium. This McConkey gal agar plate was spread with about l00o EMT-l bacteria, ultra-violet-irradiated with $7 0 \\mathrm { ~ } \\mathsf { J } / \\mathsf { m } ^ { 2 }$ and incubated overnight at 37°. ",
+        "bbox": [
+            23,
+            112,
+            946,
+            286
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/e4af83cda4fd372f6aef924333bd3c85934ee15298447a89dcbbe014d2df4c62.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            157,
+            415,
+            870,
+            963
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "FIG. 3. EPIGENETIC AND GENETIC EFFECTS OF N-METHYL-N'-NITRO-N-NITROSOGUANIDINE (MNNG) ON EMT-1 rec+ STRAIN AND EMT-2 recA STRAIN ",
+        "text_level": 1,
+        "bbox": [
+            211,
+            63,
+            811,
+            120
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Exponentially growing bacteria were exposed to about 500 ug/ml MNNG for 1 hr in liquid medium, then diluted l00-fold, and 0.1 ml were spread on McConkey gal plates; O.l ml of concentrated, untreated controls were spread on parallel plates. Plates (a) and (c) are untreated controls, whereas (b) and (d) are 100-fold diluted EMT-1 (b) and EMT-2 (d) bacteria treated with 500 μg/ml MNNG. MNNG treatment of the EMT-1 rec+ strain (b) yields both a massive epigenetic effect (dark lawn) and mutational events (isolated, completely dark colonies). Treatment of EMT-2 recA bacteria (d) yields only mutational events (completely dark colonies), with an efficiency similar to that in EMT-l rec² strain [compare isolated, completely dark colonies in (b) and (c)]. The low (10-7) background of mutational red colonies with the EMT-2 recA strain (c) is in contrast to the high ( $7 0 ^ { - 4 }$ )background of epigenetic red colonies with the EMT-1 rec+ strain (a). ",
+        "bbox": [
+            25,
+            129,
+            962,
+            396
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "( LA O ",
+        "bbox": [
+            82,
+            412,
+            903,
+            991
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "N-Methyl-N'-nitro-N-nitrosoguanidine (MNNG) caused the simultaneous appearance of both mutational and epigenetic events: 500 ug/mll increased mutational events from a spontaneous level of about 10-7 see below) to about $1 \\times 1 0 ^ { - 4 }$ , and epigenetic events were increased from a spontaneous level of $1 0 ^ { - 4 }$ to $3 \\times 1 0 ^ { - 3 }$ (see Fig. 3 and legend). UV irradiation (Fig. 4), the benzo[alpyrene-diol-epoxide, 4-nitroquinoline-N-oxide, and diaminobenzidine (results not shown) induced the epigenetic events so efficiently that the mutational events were masked, unless a very high number of bacteria were plated. ",
+        "bbox": [
+            55,
+            55,
+            953,
+            224
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, ethylmethane sulfonate (EMS) caused only mutational events, which can be detected only with difficulty in the initial strain used, because of a $1 0 ^ { - 4 }$ spontaneous background frequency of the epigenetic red colonies. To facilitate the measurement of mutational events, we constructed derivatives of EMT-l that carry an additional mutation: either cI ind-, which renders the $c I$ repressor insensitive to spontaneous and DNA damage-induced cellular SOS induction processes, or an $\\mathcal { E }$ coli recA- mutation, which prevents spontaneous and induced Sos induction. Both cI ind- and recA derivatives give a low spontaneous frequency of red colonies $( 1 0 ^ { - 7 } ~ - ~ 1 0 ^ { - 6 } )$ , which appear to be of mutational origin. The spontaneous $c I ^ { \\div }  c I ^ { - }$ forward mutation rate is thus about $\\mathrm { 1 0 ^ { - 7 } }$ ",
+        "bbox": [
+            48,
+            234,
+            967,
+            456
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "INTERPRETATION OF EXPERIMENTAL RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            262,
+            496,
+            746,
+            513
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The results obtained with our new strain are in full agreement with the current theory of direct and indirect mutagenic pathways (Radman et al., 1977, 1979) and provide its most elegant support. EMS is a direct mutagen, causing mispairing mutagenic lesions (probably $O ^ { 6 }$ -ethylguanine), which neither cause SoS induction nor require SoS induction for mutation fixation. Therefore, EMS caused no appreciable epigenetic effect and mutated the recA+ cIind and recA- $\\mathcal { C } T ^ { \\dag }$ strains equally efficiently $( \\leq 1 0 ^ { - 4 }$ ) (results not shown). At low doses, MNG acts similarly to EMS, as a recA-independent direct mutagen; however, at high doses, it also causes the arrest of DNA synthesis and prophage induction (Kondo et al., 1970), and its mutagenic effects become amplified by Sos induction. MNNG is thus mutagenic in recA+ cIind- and recA- $c I ^ { + }$ strains but also causes epigenetic events in the EMT-1 $\\mathit { r e c A } ^ { + } \\mathit { c l } ^ { + }$ strain (Fig. 3). UV irradiation-induced pyrimidine dimers are typical 'non-pairing' DNA lesions, which cause SOS induction by inhibiting DNA synthesis and require SOS induction for the mutation fixation process. Therefore, UV irradiation was very efficient in inducing epigenetic events as well as mutational events in the recA+ $c I ^ { + }$ strain (Figs 2 & 4). However, no detectable mutagenesis was observed in the recA\" derivative (Fig. 4, legend). ",
+        "bbox": [
+            41,
+            536,
+            965,
+            910
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "FIG. 4. INCREASE IN RED:WHITE COLONY RATIO BY ULTRA-VIOLET (UV) IRRADIATION OF THE EMT-1 STRAIN ",
+        "text_level": 1,
+        "bbox": [
+            90,
+            70,
+            918,
+            109
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "About $\\rceil 0 ^ { 3 }$ viable bacteria were spread on McConkey gal plates, irradiated with increasing doses of UV and incubated overnight. The curve shows the epigenetic (Sos-inducing) effect of Uv irradiation. Mutant colonies were observed rarely, due to the massive epigenetic effect (see Fig. 2). UV irradiation of the EMT-2 recA- strain produced no increase in either epigenetic or mutational effects; this is consistent with the S0s theory of Uv mutagenesis (see text). The background of epigenetic red colonies in EMT-1 is \\~ 10-4, whereas the background of mutant red colonies in EMT-2 is $1 0 ^ { - 7 } \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup \\mathopen { } \\mathclose \\bgroup  \\mathopen { } \\mathclose \\bgroup  \\mathopen { } \\mathclose \\bgroup  \\mathopen { } \\mathclose \\bgroup    | 0 ^ { - 6 } \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup | 0 ^ { - 6 } \\aftergroup \\egroup \\aftergroup \\egroup \\aftergroup \\egroup $ : ",
+        "bbox": [
+            27,
+            116,
+            965,
+            284
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/bde1e96f0ff044713bdcc43b2231f2dc3e9c1d777663ba07dc3e50964e09b24c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            296,
+            321,
+            678,
+            910
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION: A NEW BACTERIAL TEST SYSTEM FOR ALL MUTAGENIC AND DNA-DAMAGING AGENTS ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            81,
+            865,
+            120
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Both the Salmonella-Ames test (mutatest) and the λ prophage induction test (inductest) for mutagens and carcinogens suffer from the fact that they produce a certain number of false negatives: the mutatest will not detect mutagens whose mutational specificity does not allow the reversion of the two initial his\" mutations (McCann & Ames, 1976), and the inductest does not detect mutagens/carcinogens that do not induce $\\lambda$ prophage, e.g., EMS (Moreau et al., 1976). ",
+        "bbox": [
+            47,
+            139,
+            955,
+            274
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Our EMT-1, EMT-2 and EMT-3 strains provide a forward mutation assay, $c . \\tau ^ { + } \\nsim c . \\tau ^ { - }$ , and the most sensitive and quantitative assay for Sos inducti The latter is true because the epigenetic switch (A) $\\twoheadrightarrow$ BFig.1)is triggered by Sos induction and is then inherited by the daughter cells. This allows measurement of the signal (red:white colony ratio) over a $\\mathtt { 1 0 ^ { 6 } }$ -fold range, which can be determined accurately, irrespective of the precision of dilutions or of pipetting, since the red:white colony counting is done on single plates. The manipulations involved in the test are considerably simpler than those in the mutatest and inductest: overnight growth is sufficient, and bacteria can be treated either in liquid or on plates. A qualitative spot-test is also simple. Unlike any other test, this one also gives information about the mutational pathway of the compound, which might be important in indicating whether it is a weak carcinogen but an efficient carcinogenic initiator, or simultaneously a strong initiator and promoter, i.e., a strong carcinogen. This is because only Sos-inducing mutagens are also efficient recombinogens, and both events might be required to accomplish carcinogenesis. This test system is now being developed further (recAts, env and uvrA derivatives) and validated. It has been given the name 'epigenetic mutatest'. ",
+        "bbox": [
+            42,
+            286,
+            928,
+            667
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "The expression of the $\\smash { \\vec { E } _ { t } ^ { \\prime } }$ . coli gal operon was set under the direct negative control of phage λ repressor by a fusion between the gal operon and the active cI cro segment of phage λ genome. This system can exist in two stable but reversible epigenetic states: (A) the immune cI† cro $g \\alpha \\mathcal { l } ^ { - }$ state (white colonies on McConkey gal plates) and (B) the nonimmune cl cro+ gal+ state (red colonies). Transcription of this gal operon depends upon activation of the $\\mathrm { P _ { \\mathrm { R } } }$ promoter; hence requiring the removal of $\\lambda$ immunity repressor $( c I )$ from the $^ { \\circ } \\mathtt { R }$ operator. Short exposure of this E. coli strain to radiation or chemical mutagens/carcinogens leads to a stable, inherited loss of the $c I$ repressor (due to the take-over by the cro repressor, repressing the cI gene) and subsequent constitutive expression of the gal operon. This switch, from the (A) state to the state, depends upon $\\mathcal { E }$ . coli recA+ and λ cro+ genes and is reversible upon supply of λcI repressor; this is consistent with the fact that cI and cro proteins are mutual repressors, i.e., only one of them can be expressed at a given time. ",
+        "bbox": [
+            35,
+            819,
+            930,
+            955
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            30,
+            61,
+            965,
+            235
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "This $\\mathcal { E }$ . coli strain provides the easiest, most accurate and sensitive assay for all mutagenic and sos-inducing agents. ",
+        "bbox": [
+            30,
+            245,
+            965,
+            285
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "We thank René Thomas for stimulating discussions on phage λ regulatory circuits, Max Gottesman and Oscar Reyes for providing the strains used to construct the EMT strains and Oliver Doubleday for reading the manuscript. This research was supported by contracts Euratom-U.L.B. $1 5 6 -$ 76-I BI0 B and 224-76-I BI0 B, and an agreement between the Belgian Government and the Université Libre de Bruxelles, 'Actions de Recherche Concertées'. Z.T. and M.R. were also supported by research contract No 1939/RB with the International Atomic Energy Agency, Vienna. ",
+        "bbox": [
+            118,
+            439,
+            877,
+            653
+        ],
+        "page_idx": 13
+    }
+]

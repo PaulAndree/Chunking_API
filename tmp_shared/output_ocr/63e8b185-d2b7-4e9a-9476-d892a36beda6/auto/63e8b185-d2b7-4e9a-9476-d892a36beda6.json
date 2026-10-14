@@ -1,0 +1,290 @@
+[
+    {
+        "type": "text",
+        "text": "Large non-homology in heteroduplex DNA is processed differently than single base pair mismatches ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            191,
+            747,
+            239
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "C. Dohet, S. Didi, R. Wagner and M. Radman Instiut Jacus Monod, C.R.S.Universi ParisVII, Tour 3, 2Place usu,F-75251 Pari Cedex 05,F ",
+        "bbox": [
+            76,
+            252,
+            770,
+            281
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. Unmethylated DNA heteroduplexes with a large single stranded loop in one strand have been prepared from separated strands of DNA from two different strains of bacteriophage $\\lambda$ ,one of which has a $\\sim 8 0 0$ base pair IS1 insertion in the cI gene. The results of transfections with these heteroduplexes into wild-type and mismatch repair deficient bacteria indicate that such large non-homologies are not repaired by the Escherichia coli mismatch repair system. However, the results do suggest that some process can act to repair such large non-homologies in heteroduplex DNA. Transfections of a series of recombination and excision repair deficient mutants suggest that known excision or recombination repair systems of $E _ { \\mathrm { { \\ell } } }$ coli are not responsible for the repair. Repair of large non-homologies may play a role in gene conversion involving large insertion or deletion mutations. ",
+        "bbox": [
+            78,
+            310,
+            483,
+            527
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Escherichia coli  Bacteriophage λ  DNA loops DNA repair - Gene conversion ",
+        "bbox": [
+            76,
+            535,
+            483,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "repair enzymes (Lacks et al. 1982; Claverys et al. 1983; Lichten and Fox 1984). The experiments reported here were undertaken to determine the role of the $E .$ coli mismatch repair system in the repair of heteroduplexes with large regions of non-homology. ",
+        "bbox": [
+            513,
+            309,
+            919,
+            378
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Escherichia coli mismatch repair system is believed to repair replication errors by removing mispaired and unpaired bases from newly synthesized DNA (Radman et. al. 1980; Glickman and Radman 1980; Pukkila et al. 1983; Wagner et al. 1984; Dohet et al. 1985; review, Radman and Wagner 1986). The basis of strand discrimination in the E. coli system is adenine methylation of GATC sequences, i.e. DNA regions with fully methylated GATC sequences are refractory to repair (Pukkila et al. 1983; Wagner et al. 1984). Thus, the primary site of mismatch repair during E. coli DNA replication is believed to be the transiently undermethylated region of newly synthesized DNA immediately behind the replication fork. Repair is thought to occur via excision and resynthesis (Wagner and Meselson 1976; Lu et al. 1983). ",
+        "bbox": [
+            78,
+            624,
+            483,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The system which we have used for the study of $E$ coli mismatch repair involves annealing separated strands of bacteriophage λ DNA from phages of two different genotypes to form heteroduplex DNA in vitro. These heteroduplexes are introduced by calcium-mediated transfection (Mandel and Higa 1970) into $E ,$ coli cells at low multiplicity and the progeny phages derived from single heteroduplexes are recovered from infective centres and their genotypes determined (Dohet et al. 1985; Wagner et al. 1984). Mixed infective centres, i.e. those yielding phages of both input genotypes, reflect the absence of both mismatch repair and strand loss. In experiments using heteroduplexes with single base pair mismatches (Table 1 and Wagner et al. 1984; Dohet et al. 1985) or single unpaired bases (Dohet et al. 1986), a small fraction of mixed infective centres (e.g., $1 \\% { - } 1 5 \\%$ for well-repaired mismatches) has been shown to reflect the occurrence of mismatch repair. ",
+        "bbox": [
+            515,
+            379,
+            919,
+            608
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair is also believed to operate on mismatched heteroduplexes formed during the processes of genetic recombination and gene conversion (reviews, Radding 1978; Radman and Wagner 1984). It has been shown that large non-homologies can be included in regions of heteroduplex formed by two recombining DNA molecules (Lichten and Fox 1984) and there is some evidence suggesting that such structures may not be substrates for mismatch ",
+        "bbox": [
+            78,
+            829,
+            483,
+            937
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Heteroduplexes with a large ( $\\sim 8 0 0$ base pair) loop were prepared by annealing separated strands of two different λ DNAs, one of which contains an IS1 insertion in the cI gene (Skopek and Hutchinson 1982). When these heteroduplexes are introduced into wild type $E .$ coli by transfection, the fraction of mixed infective centres recovered is much larger than that found for well repaired single base pair mismatches (Table 1). However, the fraction is somewhat smaller than that found for single base pair mismatches when the transfections are done in mutL bacteria, which are deficient in mismatch repair (Table 1). Taken alone, therefore, the finding of an intermediate frequency of mixed infective centres from transfections of wild-type bacteria suggests that the mismatch repair system can operate, although poorly, on heteroduplexes with large non-homologous regions. However, nearly identical results are obtained when the transfections are done in mismatch repair deficient (mutL) (Rydberg 1978; Glickman and Radman 1980; Radman et al. 1980; Pukkila et al. 1983; Lu et al. 1983; Wagner et al. 1984; Dohet et al. 1985) bacteria (Table 1). Experiments with three other mismatch repair deficient mutants, mutS, mutH and mutU (uvrE) gave results similar to those of mutL transfections (Table 3), suggesting that heteroduplexes with large non-homologous regions may be completely refractory to repair by the $E .$ coli mismatch repair system. ",
+        "bbox": [
+            515,
+            611,
+            919,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/86dc06a8da59a8cc7d95bb75f9dd380a2b0c4f28b2d676d0aa364b7926569711.jpg",
+        "table_caption": [
+            "ab . non-homology (IS1 sequence) ",
+            "Tu were used to provide $\\ \" { } \\mathfrak { c } \\ \"$ strands. These spontaneous mutants were isolated and sequenced in the laboratory of Dr Hutchinson (Skopek and Hutchinson 1982). Mismatch at position 26 was constructed using the $\\mathrm { S P } 2 7 \\ \\mathrm { G } { : } \\mathrm { C } \\to \\mathbf { A } { : } \\mathrm { T }$ transition; looped-out non homology was constructed using the SP 60 IS1 insertion between base 48 and 49. Wild type $E .$ coli is strain C600 (Appleyard 1954); the mutL211 o from Dohet et al. (1985) and Wagner et al. (1984) ",
+            "Table 2. Genotypes of phages derived from individual heteroduplex molecules carrying a large non-homology and a single base pair mismatch "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            73,
+            104,
+            923,
+            345
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "If the finding of nearly equal sized fractions of mixed infective centres from transfections in wild type and mutL bacteria indicates that the mismatch repair system is not operating on these heteroduplexes, then the question still remains as to why the fraction of mixed infective centres is lower than that found for heteroduplexes with single base pair mismatches under conditions of reduced mismatch repair (mutL). It is unlikely that the heteroduplex preparations are badly contaminated with homoduplexes, because the results are reproducible with heteroduplexes from different strand preparations (e.g. Tables 1 and 2) and, as in previous work, self-annealing of individual strand preparations reveals virtually no contamination of R strands by $\\mathbf { L }$ strands and no unusual amount of contamination of $\\mathbf { L }$ strands by R strands (Wagner and Meselson 1976; Dohet et al. 1985). The results could be accounted for by the occurrence of increased strand loss in transfections with heteroduplexes having large unpaired loops. Alternatively, there may be some mutL $( H , S , U )$ independent repair process in $E$ coli which can repair such heteroduplexes. ",
+        "bbox": [
+            76,
+            484,
+            484,
+            756
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To distinguish these possibilities, heteroduplexes were prepared with the large unpaired loop in the cI gene and an additional single base pair mismatch in the $o$ gene $( a m 2 9 / + )$ . These heteroduplexes were introduced into mutL bacteria by transfection. The infective centres were scored with respect to the genotype of the progeny phages at cI, i.e. pure clear $( c I )$ , containing only phages of cI genotype, pure turbid $( \\mathsf { c } ^ { + } )$ , containing only phages with the wild type allele at $c I ,$ or mixed containing phages of both $c I$ genotypes. Individual phages from each type of infective centres were tested for their genotype at $o$ If strand loss is the only source of pure infective centres, then all phages from a pure clear or pure turbid infective centre will have a single parental genotype at $o$ If, however, some localized repair ",
+        "bbox": [
+            76,
+            757,
+            484,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(A) (B)   \n1 C+ Q29 1 O+   \n10 r C O+ C+ O 29 ↓ O29/0+ O29 o+ O29/0+ 029 o+ C+ 12 36 C+ 7 14 5 C 2 0 C 0 0 34 C/C+ 8 1 C/C+ 9 0 1 ",
+        "bbox": [
+            511,
+            524,
+            921,
+            703
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Individual infective centres derived from transfected mutL bacteria were picked and plated to determine phage phenotypes at the cI locus. Heteroduplex $( A )$ yielded $5 0 \\%$ mixed $( \\mathbf { c } / \\mathbf { c } ^ { + } )$ , $4 7 \\%$ pure $\\mathrm { c } ^ { + }$ and $4 \\%$ pure c infective centres. Heteroduplex $( B )$ yielded $50 \\%$ mixed $\\scriptstyle ( \\mathbf { c } / \\mathbf { c } ^ { + } )$ , $2 2 \\%$ pure $\\mathtt { c } ^ { + }$ and $2 8 \\%$ pure c infective centres. These results agree with those reported in Table 1. Phages from 62 infective centres derived from heteroduplex $( A )$ and 70 infective centres derived from heteroduplex $( B )$ were analysed by streaking onto C600 $\\left( \\operatorname { s u } ^ { + } \\right)$ for genotype at $c I .$ , then picking about 20 plaques of these progeny phages from each infective centre onto $\\mathrm { C 6 0 0 ~ ( s u ^ { + } ) }$ and $5 9 4 ~ ( \\mathrm { s u } ^ { - } )$ (Appleyard 1954) lawns for genotype at $o$ ",
+        "bbox": [
+            513,
+            713,
+            921,
+            848
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "of the loop heteroduplexes is occurring, then both $o$ genotypes should be recovered from some pure clear or pure turbid infective centres. Since the transfections are done in mutL cells, mismatch repair of the $O ^ { + } / O a m 2 9$ mismatches should be minimal. ",
+        "bbox": [
+            515,
+            877,
+            921,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/09f090182c2730b3e074d59551e94837aef2862b3163c64f4f189c0cc9dfac05.jpg",
+        "table_caption": [
+            "$E ,$ coli mutants deficient in different DNA repair and/or recombination functions ",
+            "00  110v cB AB2463, JC5519 and JC9239 were performed with another DNA heteroduplex preparation which gave $5 5 \\% { - } 6 3 \\%$ mixed progeny in transfections of C600 and C600 mutL "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            73,
+            104,
+            918,
+            315
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results indicate that both $o$ alleles can be recovered from some pure turbid $( c ^ { + } )$ or pure clear $( c I )$ infective centres and about $9 0 \\%$ of the mixed centres $( c ^ { + } / c I )$ are also mixed at $o$ (Table 2). Therefore, unless the infective centres mixed at $o$ are the result of frequent, and heteroduplex-dependent, recombination between daughter molecules followed by the loss of (or the failure to recover) one genotype, strand loss is not the only source of pure infective centres from transfections with heteroduplexes having large unpaired loops. No conclusions can be drawn from these data with regard to the nature of the repair system acting on the heteroduplexes except that it is not identical to the $E$ coli repair system that acts on single base mismatches. (However, it cannot be excluded that the mismatch repair system may have some residual activity in all four $E$ coli mut mutants that is capable of recognizing and repairing large non-homologous regions in heteroduplex DNA). Transfections of a uvrA mutant and three rec mutants (recA, recBC and recF) with heteroduplexes with the singlestranded IS1 loop suggest that known excision or recombination repair systems of $E$ coli are not responsible for the repair of this large non-homology (Table 3). The relative fractions of pure turbid (loop excision) and pure clear infective centres are different for the two different heteroduplexes (Tables 13). The data do not suggest a source for this difference. It may be that repair, or strand loss, is different for the different heteroduplexes, perhaps because transcription interferes with repair in one of the heteroduplexes more than in the other. ",
+        "bbox": [
+            78,
+            431,
+            484,
+            822
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Heteroduplex regions with large non-homologies have been shown to occur in the course of bacteriophage $\\lambda$ recombination (Lichten and Fox 1984); the results reported here suggest that repair of such heteroduplexes may allow the insertion or deletion of large non-homologies and thus contribute to the formation of recombinant genotypes. ",
+        "bbox": [
+            80,
+            825,
+            486,
+            905
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements. We thank Dr F. Hutchinson for providing the sequenced mutants used in this study, Dr R. D'Ari for the reading of the manuscript and Ms B. Charézieux for the secretarial work. R. Wagner was the recipient of a senior fellowship from Ligue Nationale Française contre le Cancer. Senka Didi is supported from a C.E.C grant to M. Radman. This work was supported by a grant from Association pour la Recherche sur le Cancer. ",
+        "bbox": [
+            80,
+            921,
+            486,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            429,
+            919,
+            490
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            510,
+            586,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Appleyard RK (1954) Segregation of new lysogenic types during growth of a doubly lysogenic strain derived from E. coli K12. Genetics 39: 440452   \nClaverys JP, Méjean V, Gasc AM, Sicard AM (1983) Mismatch repair in Streptococcus pneumoniae: relationship between base mismatches and transformation efficiencies. Proc Natl Acad Sci USA 80: 59565960   \nDohet C, Wagner R, Radman M (1985) Repair of defined single base-pair mismatches in Escherichia coli. Proc Natl Acad Sci USA 82: 503505   \nDohet C, Wagner R, Radman M (1986) Methyl-directed repair of frameshift mutations in heteroduplex DNA. Proc Natl Acad Sci USA 83:33953397   \nGlickman BW, Radman M (1980) Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc Natl Acad Sci USA 77:10631067   \nLacks SA, Dunn JJ, Greenberg B (1982) Identification of base mismatches recognized by the heteroduplex DNA-repair system in Streptococcus pneumoniae. Cell 31 : 327336   \nLichten M, Fox MS (1984) Evidence for inclusion of regions of non homology in heteroduplex products of bacteriophage λ recombination. Proc Natl Acad Sci USA 81 : 71807184   \nLu AL, Clark S, Modrich P (1983) Methyl-directed repair of DNA base pair mismatches in vitro. Proc Natl Acad Sci USA 80:46394643   \nMandel M, Higa A (1970) Calcium-dependent bacteriophage DNA infection. J Mol Biol 53: 159162   \nMarinus MG, Morris NR (1975) Pleiotropic effects of a DNA adenine methylation mutation (dam3) in Escherichia coli K12. Mutat Res 28:1526   \nPukkila PJ, Peterson J, Herman G, Modrich P, Meselson M (1983) Effects of high levels of DNA adenine methylation on methyldirected mismatch repair in Escherichia coli. Genetics 104:571582   \nRadding CC (1978) Genetic recombination: strand transfer and mismatch repair. Annu Rev Biochem 47:847880   \nRadman M, Wagner R (1986) Mismatch repair in Escherichia coli. Annu Rev Genet 20: 523538   \nRadman M, Wagner RE, Glickman BW, Meselson M (1980) DNA methylation mismatch correction and genetic stability. In: Alacevic M (ed) Progress in Environmental mutagenesis, Elsevier/ North Holland, Amsterdam, pp 121130   \nRydberg B (1978) Bromouracil mutagenesis and mismatch repair in mutator strains of Escherichia coli. Mutation Res 52:1124   \nSauer RT (1978) DNA sequence of the bacteriophage λ cI gene. Nature 276:301302   \nSiegel EC, Wain LS, Meltzer SF, Binion ML, Steinberg JL (1982) Mutator mutations in Escherichia coli by the insertion of phage Mu and the transposable resistance elements. Mutat Res 93:2533   \nSkopek TR, Hutchinson F (1982) DNA base sequence changes induced by bromouracil mutagenesis in lambda phage. J Mol Biol 159: 1933   \nVaccaro CK, Siegel EC (1977) The frameshift mutability of polA1 and recA1 derivatives of mutator strains of Escherichia coli. Mut Res 42:443446   \nWagner RE, Meselson M (1976) Repair tracts in mismatched DNA heteroduplexes. Proc Natl Acad Sci USA 73:4135-4139   \nWagner R, Dohet C, Jones M, Doutriaux MP, Hutchinson F, Radman M (1984) Involvement of Escherichia coli mismatch repair in DNA replication and recombination. Cold Spring Harbor Symp Quant Biol 49:611615 ",
+        "bbox": [
+            513,
+            529,
+            921,
+            943
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            72,
+            486,
+            268
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            70,
+            921,
+            217
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Communicated by G.R. Smith ",
+        "bbox": [
+            515,
+            228,
+            725,
+            242
+        ],
+        "page_idx": 3
+    }
+]

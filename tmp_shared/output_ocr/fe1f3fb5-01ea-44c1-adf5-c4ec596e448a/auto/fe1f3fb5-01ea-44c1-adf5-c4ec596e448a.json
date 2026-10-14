@@ -1,0 +1,973 @@
+[
+    {
+        "type": "text",
+        "text": "Phenomenological Theory of Repair Kinetics of Ultraviolet Irradiated Lambda Phage\\* ",
+        "text_level": 1,
+        "bbox": [
+            162,
+            134,
+            827,
+            183
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "S. L. FORNILI, L. CORDONE, AND M. RADMAN1 ",
+        "bbox": [
+            251,
+            197,
+            738,
+            213
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Istituto di Fisica dell'Università and Gruppi Nazionali Struttura della Materia of the Consiglio Nazionale delle Ricerche, Palermo, Italy; and Centre des Faibles Radioactivités, C.N.R.S., 91, Gif-sur-Yvette, France ",
+        "bbox": [
+            136,
+            231,
+            859,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted October 27, 1970 ",
+        "bbox": [
+            402,
+            280,
+            591,
+            294
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A theoretical derivation of survival curves of UV-irradiated λ phage, in different phage-bacterium systems (lacking or possessing excision and/or recombination repair) is presented. The mathematical expressions are satisfactory fitted with experimental points, and the validity and self-consistency of the model is shown. ",
+        "bbox": [
+            174,
+            311,
+            817,
+            368
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            222,
+            384,
+            367,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has been suggested (Radman et al., 1970) that recombination and excision are complementary mechanisms in UV radiation damage repair of DNA, excision repair being effective in the absence of DNA replication, and recombination repair being effective after and/or during replication. [For a review on repair mechanisms, see, e.g., Howard-Flanders (1968).] ",
+        "bbox": [
+            105,
+            405,
+            484,
+            545
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Within the frame of the proposed model, it has also been suggested (Radman et al., 1970) that above a certain critical dose, DNÁ replication is inhibited for a sufficiently long time for excision repair to take place. This inhibition would be promoted by radiation damage in the DNA region(s) that control DNA replication. The critical dose should therefore be the one capable of giving (on the average) each irradiated particle one hit that inhibits DNA replication. It follows that recombination repair will be efficient for low UV doses and excision repair for high UV doses. ",
+        "bbox": [
+            103,
+            545,
+            484,
+            762
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present paper we start from the above model to derive theoretical expressions for the survival curves of UV irradiated phage λ in various phage-bacterium systems. The fitting with experimental points is very satisfactory and self-consistent. The different steps in repair are visualized by a block-diagram representation, and the mathematical tools are very simple. The fitting was performed with a leastsquares iterative computer program, using data obtained in several independent experiments. ",
+        "bbox": [
+            103,
+            763,
+            484,
+            791
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            384,
+            886,
+            555
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            569,
+            572,
+            823,
+            586
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods for experimental determination of survival curves have been reported in a previous paper (Radman et al., 1970). ",
+        "bbox": [
+            505,
+            594,
+            886,
+            656
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We recall that: ",
+        "bbox": [
+            525,
+            658,
+            656,
+            672
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a. Escherichia coli rec- mutants are defective in genetic recombination (Clark and Margulies, 1965; Howard-Flanders and Theriot, 1966; van de Putte et al., 1966). ",
+        "bbox": [
+            505,
+            673,
+            886,
+            734
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "b. Escherichia coli uvr\" mutants are unable to excise (Boyce and Howard-Flanders, 1964; Setlow and Carrier, 1964) pyrimidine dimers induced by UV irradiation (Beukers and Berends, 1960; Wacker et al., 1960). ",
+        "bbox": [
+            505,
+            736,
+            886,
+            816
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "c. Phage λ red- mutants are defective in autonomous vegetative genetic recombination (Signer and Weil, 1968). ",
+        "bbox": [
+            505,
+            819,
+            886,
+            866
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phage suspension less than 1 mm thick were irradiated at a concentration of about $\\mathbf { 1 0 ^ { 8 } }$ particles/ml in Tris-Mg-gelatin medium. ",
+        "bbox": [
+            523,
+            869,
+            886,
+            883
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            107,
+            102,
+            488,
+            134
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phage assays were carried out by standards techniques as described by Adams (1959). Phage were preadsorbed and photoreactivation during experiments was avoided. For phage assays, exponentially growing bacteria have been used in all the experiments. ",
+        "bbox": [
+            105,
+            134,
+            488,
+            244
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "THEORY ",
+        "text_level": 1,
+        "bbox": [
+            255,
+            258,
+            335,
+            272
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Systems Lacking Excision and Recombination Repair (red-/rec-uvr-) ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            277,
+            488,
+            309
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experimental results (see below) show that the survival curve for irradiated phage λ red- assayed on rec-uvr- bacteria is an exponential function, of the type: ",
+        "bbox": [
+            105,
+            313,
+            488,
+            376
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/6444a86f4b4f0322cc39e2410a310cc50b231be5e5990cbba41776e030b0b5e9.jpg",
+        "text": "$$\nS ( D ) = S _ { 0 } e ^ { - a D }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            228,
+            383,
+            361,
+            402
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where $S _ { 0 }$ is the initial number of phages; $\\boldsymbol { s }$ is the number of phages surviving at dose $D$ , and $\\pmb { a }$ is a parameter measuring the probability for the phage DNA to receive a hit that is lethal in this system. Eq. (1) follows from the rate equation: ",
+        "bbox": [
+            105,
+            409,
+            488,
+            502
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/cdceada3b508051e99202a8e4d0ed8515be47efb99bd05515d412755ea27520f.jpg",
+        "text": "$$\n\\frac { \\mathrm { d } S } { \\mathrm { d } D } = - a S\n$$",
+        "text_format": "latex",
+        "bbox": [
+            242,
+            513,
+            353,
+            550
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We may visualize Eq. (2) in terms of a box O (see Fig. 1), which contains $\\mathcal { S } _ { 0 }$ phages at the beginning of UV irradiation, and in which the number of phages vs. UV dose decreases at the rate given by Eq. (2). ",
+        "bbox": [
+            105,
+            559,
+            488,
+            638
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Survival at dose $D$ will be given by the number of phages still remaining in box O. ",
+        "bbox": [
+            107,
+            638,
+            488,
+            670
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Systems Lacking Recombination Repair (red-/ rec uvr+) ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            683,
+            488,
+            715
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As mentioned in the introduction, our model predicts that repair by excision is effective, provided that a temporary blockage of DNA replication occurs (Radman et al., 1970). This is the case if the DNA has been hit in the replication controlling region(s). ",
+        "bbox": [
+            105,
+            719,
+            488,
+            829
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a1d83a62357bf4a0a38a1b1cc12953afcc3f85b08a538a1a92992a53b83674e2.jpg",
+        "image_caption": [
+            "FIG. 1. Block diagram representation of red/- rec-uvr\" system. Box O contains, at any given dose, the phages that have not been hit. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            236,
+            847,
+            357,
+            873
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbe423ed610d477290f6d377352cec4b4868d35c861fde943cdad2a07c463e5b.jpg",
+        "image_caption": [
+            "FIG. 2. Block diagram representation of the repair steps of red-/rec-uvr+ system. Here box O contains the phages that have not been hit. Box $\\mathbf { E }$ contains the phages that will be saved by excision repair. The DNA of the phages in box E has been hit in replication controlling region(s). Box T (transit box) contains phages that have been hit in any other place but in replication controlling region(s). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            559,
+            104,
+            843,
+            169
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2 we visualize the repair steps in red-/rec-uvr+ system in terms of our model. Here box O has the same meaning as in Fig. 1, box E contains as many phages as will be repaired by the excision repair mechanism, at any given dose. Box T contains phages whose DNA has been hit in sites different from those controlling replication and which, therefore, cannot be repaired by excision repair. The higher the dose, the higher the probability for these phages to receive a hit in the replicationcontrolling region(s). Therefore we must allow a flow from box $\\mathbf { T }$ to box E. The parameter $g$ measures the probability of hitting phage DNA in the replication controlling region(s) and parameter $b$ measures the probability for phages to be discarded from box $\\mathrm { E }$ when the damage is excessive in this system.2 After a dose $D$ the number of surviving phage $\\boldsymbol { s }$ will be given by $N _ { 0 } ( D )$ remaining in box O (undamaged) plus those $N _ { \\mathbf { E } } ( D )$ which are found in box $\\mathbf { E }$ (repaired by uvr system).3 ",
+        "bbox": [
+            509,
+            331,
+            892,
+            709
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/4535ed963228075982ed779dd16673460f17ed343895493c9a8701044d688d21.jpg",
+        "text": "$$\nS ( D ) = N _ { 0 } ( D ) + N _ { \\mathrm { E } } ( D )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            587,
+            719,
+            815,
+            738
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The diagram in Fig. 2 shows that the phage population in the different boxes varies according to the following system ",
+        "bbox": [
+            507,
+            747,
+            890,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 In the present paper we shall work in the approximation that the parameter $^ { \\ b }$ , as well as the others measuring discard rates from the repairing boxes (see later parameters $c$ and $v$ do not depend on the irradiation dose. ",
+        "bbox": [
+            509,
+            811,
+            890,
+            879
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3 It should be remarked that no counterflow from $\\mathbf { E }$ to O is allowed because the repair starts only after irradiation has been completed. ",
+        "bbox": [
+            507,
+            880,
+            890,
+            922
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f86c713692c97d37713c4d551464da5bd3d37f25d17b49870fad0875e14c158e.jpg",
+        "image_caption": [
+            "FIG. 3. Block diagram representation of the repair steps of $r e d ^ { + } / r e c ^ { + } u v r ^ { - }$ system. Here box O contains the phages that have not been hit. Box R contains the phages that will be saved by recombination repair. The DNA of the phages contained in box R has not been hit in replication controlling region(s). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            232,
+            105,
+            357,
+            180
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "of differential equations: ",
+        "bbox": [
+            105,
+            309,
+            322,
+            326
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/4cb785cfe1f6c06b2ac87c27b096c5c8592c94a4ef7d418a0381fa2f7608623f.jpg",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { \\frac { \\mathrm { d } N _ { 0 } } { \\mathrm { d } D } = - a N _ { 0 } } } \\\\ { \\displaystyle { \\frac { \\mathrm { d } N _ { \\mathrm { T } } } { \\mathrm { d } D } = ( a - g ) N _ { 0 } - g N _ { \\mathrm { T } } } } \\\\ { \\displaystyle { \\frac { \\mathrm { d } N _ { \\mathrm { E } } } { \\mathrm { d } D } = g N _ { 0 } + g N _ { \\mathrm { T } } - b N _ { \\mathrm { E } } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            163,
+            334,
+            417,
+            454
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "which upon integration gives: ",
+        "bbox": [
+            105,
+            462,
+            371,
+            477
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/3e305b4166f2abf56d38ece2447cbe1de27349a743919228e51c3f99a8ff5458.jpg",
+        "text": "$$\n\\begin{array} { l } { { { \\displaystyle \\frac { S ( D ) } { S _ { 0 } } = \\frac { N _ { 0 } ( D ) + N _ { \\mathrm { E } } ( D ) } { S _ { 0 } } } ~ } } \\\\ { { ~ = ~ e ^ { - a D } + \\frac { g } { b - g } [ e ^ { - g D } - e ^ { - b D } ] } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            119,
+            484,
+            445,
+            565
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Systems Lacking Excision Repair (red+/ rec+uvr-) ",
+        "bbox": [
+            105,
+            570,
+            487,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We shall represent the repair steps of this system by the diagram in Fig. 3. Box O has the same meaning as in Figs. 1 and 2. Recombination repair needs DNA replication, therefore phages whose DNA has been hit in the replication controlling region(s) cannot be repaired by the recombination repair system and consequently are discarded. At any given dose, phages whose DNA has initially been hit in region(s) other than those controlling replication flow into box R, where only those phages which will be repaired by recombination remain.4 ",
+        "bbox": [
+            105,
+            608,
+            487,
+            808
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The meaning of $g$ is the same as before, while $\\pmb { c }$ measures the probability for phages to be discarded from box $\\mathbf { R }$ ,either as a consequence of a hit in replication controlling region(s) or when the damage elsewhere is excessive. ",
+        "bbox": [
+            105,
+            809,
+            487,
+            900
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4 Again, no flow from $\\mathbf { R }$ to O is allowed for the reasons expressed in footnote 3. ",
+        "bbox": [
+            103,
+            908,
+            487,
+            937
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The survival will be: ",
+        "bbox": [
+            528,
+            102,
+            715,
+            119
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/d9ce03624abad338c3ed1d3eb312594a2ae4d016d3303a1b7a0d7f4c3f9c19e1.jpg",
+        "text": "$$\nS ( D ) = N _ { 0 } ( D ) + N _ { \\bf R } ( D )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            584,
+            127,
+            813,
+            147
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the block diagram shown in Fig. 3, the population in the different boxes varies according to the following system of differential equations: ",
+        "bbox": [
+            506,
+            156,
+            890,
+            220
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7c35c62532c6cb2fba913527249a935a60ee99fead1624403f5a936b8a783f39.jpg",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { \\mathrm { d } N _ { 0 } } { \\mathrm { d } D } = \\ - a N _ { 0 } } \\\\ { \\displaystyle \\frac { \\mathrm { d } N _ { \\mathrm { R } } } { \\mathrm { d } D } = \\ ( a - g ) N _ { 0 } - c N _ { \\mathrm { R } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            576,
+            227,
+            819,
+            308
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Therefore: ",
+        "bbox": [
+            508,
+            315,
+            600,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/485d9112cac418d7055c43bda26b9fac0644aae2765fbb182a160ea42d4ea734.jpg",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle \\frac { S ( D ) } { S _ { 0 } } = \\frac { N _ { 0 } ( D ) + N _ { \\mathrm { R } } ( D ) } { S _ { 0 } } } \\\\ { \\displaystyle = \\frac { a - g } { a - c } e ^ { - c D } - \\frac { c - g } { a - c } e ^ { - a D } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            546,
+            337,
+            844,
+            419
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Wild-Type System $( r e d ^ { + } / r e c ^ { + } u v r ^ { + } )$ ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            429,
+            801,
+            447
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We represent the repair steps of this system by the diagram in Fig. 4. In this case boxes O, E, and R have the same meaning as for the previous systems. The phages discarded by excision or recombination systems alone flow into box ER. Those that will be saved by the cooperation of the two systems remain here. The meaning of the parameters $a , b , c ,$ and $g$ are the same as before. The parameter $v$ measures the probability for phages to be discarded from ER when the damage is excessive in this system. ",
+        "bbox": [
+            508,
+            451,
+            890,
+            638
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For the diagram in Fig. 4 the population in the different boxes varies according to the following system of differential equations: ",
+        "bbox": [
+            506,
+            638,
+            890,
+            701
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/9be3b9797c141ace101f2c4381e831d5aa5cb57db220f7433a104951014bd406.jpg",
+        "text": "$$\n\\begin{array} { r l } & { \\displaystyle \\frac { \\mathrm { d } N _ { \\mathrm { o } } } { \\mathrm { d } D } = - a N _ { \\mathrm { o } } } \\\\ & { \\displaystyle \\frac { \\mathrm { d } N _ { \\mathrm { \\bf a } } } { \\mathrm { d } D } = ( a - g ) N _ { \\mathrm { 0 } } - c N _ { \\mathrm { \\bf R } } } \\\\ & { \\displaystyle \\frac { \\mathrm { d } N _ { \\mathrm { \\bf a } } } { \\mathrm { d } D } = g ( N _ { \\mathrm { 0 } } + N _ { \\mathrm { \\bf R } } ) - b N _ { \\mathrm { \\bf a } } } \\\\ & { \\displaystyle \\frac { \\mathrm { d } N _ { \\mathrm { \\bf a v } } } { \\mathrm { d } D } = b N _ { \\mathrm { \\bf a } } + ( c - g ) N _ { \\mathrm { \\bf R } } - v N _ { \\mathrm { \\bf a } } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            520,
+            708,
+            848,
+            869
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The survival will be: ",
+        "bbox": [
+            508,
+            877,
+            695,
+            894
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/a3221cd608d257ff1543d64fa20516aeacf383b927670b8aeea85f131e0e3330.jpg",
+        "text": "$$\n\\begin{array} { c } { { S ( D ) = N _ { 0 } ( D ) + N _ { \\mathrm { E } } ( D ) + N _ { \\mathrm { R } } ( D ) } } \\\\ { { + N _ { \\mathrm { E R } } ( D ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            502,
+            902,
+            823,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/be31f4b388d7da10ac72e0ce8a3afeb4670829bc919fee9a9dea8298e83fe042.jpg",
+        "image_caption": [
+            "FIG. 4. For the meaning of boxes O, E, R, see legend of Figs. 1, 2, and 3. Box ER contains those phages that, discarded by excision or recombination repair when alone, will be saved by the cooperation of the two systems. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            107,
+            106,
+            488,
+            206
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "i.e., upon integration of Eqs. (9): ",
+        "bbox": [
+            105,
+            297,
+            392,
+            316
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "performed by the least squares method, using an iterative computer program. The theoretical curves are shown in Fig. 5, together with experimental data. ",
+        "bbox": [
+            507,
+            104,
+            894,
+            166
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The parameters given in Table 1 were obtained as follows: ",
+        "bbox": [
+            509,
+            168,
+            892,
+            200
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Parameter $^ { a }$ resulted from the best fit of Eq. (1) with experimental points derived from several independent experiments, relative to the red-/rec-uur system. ",
+        "bbox": [
+            509,
+            201,
+            892,
+            269
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Parameters $b$ and $g$ were obtained from the best fit of Eq. (5) using the value of $\\pmb { a }$ determined in (1). Data from several inde",
+        "bbox": [
+            509,
+            270,
+            892,
+            316
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/49cf2731e14e95c24f45518892c0fd65288329a2736e3b45804719143cc8dd98.jpg",
+        "text": "$$\n\\begin{array} { c } { { \\displaystyle \\frac { S ( D ) } { S _ { 0 } } = \\frac { ( c - g ) [ ( b + g - a ) ( a - v ) + ( a - g ) ( a - b ) - b g ] } { ( a - b ) ( a - c ) ( a - v ) } e ^ { - a D } } } \\\\ { { \\displaystyle + \\frac { g v ( a + c - b - g ) } { ( a - b ) ( b - c ) ( b - v ) } e ^ { - b D } } } \\\\ { { \\displaystyle + - \\frac { ( a - g ) [ b g + ( c - g ) ( b - c ) - ( b + g - c ) ( c - v ) ] } { ( a - c ) ( b - c ) ( c - v ) } e ^ { - c D } } } \\\\ { { \\displaystyle + \\frac { ( a - g ) [ b g + ( c - g ) ( b - v - v ) ] } { ( a - v ) ( b - v ) ( c - v ) } + b g ( c - v ) } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            101,
+            323,
+            825,
+            490
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FITTING OF EXPERIMENTAL RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            494,
+            476,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Expressions (1), (5), (8), and (10) have been fitted with the average of experimental points obtained in several independent sets of experiments. As mentioned in the introduction, the fitting has been ",
+        "bbox": [
+            103,
+            513,
+            486,
+            593
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "U. DOSE org/mm^2 ",
+        "text_level": 1,
+        "bbox": [
+            263,
+            605,
+            375,
+            622
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4483f073429580b3f122ece08a6d9d54296722f255d3df045d526771f4730298.jpg",
+        "image_caption": [
+            "FIG. 5. Survival fraction of ultraviolet-irradiated phage λ versus dose. The continuous lines represent the theoretical survival curves. Each point represents the average value of different experiments. $r e d ^ { + } / r e c ^ { + } u v r ^ { + }$ ; red-/rec-uvr+; $\\bullet$ red+/rec+uvr; $\\blacktriangledown$ red-/rec-uvr-. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            101,
+            623,
+            476,
+            851
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/20baa083c821a98fd1251b25d0eccb16207e82206df64d6632c86001d95e647a.jpg",
+        "table_caption": [
+            "TABLE 1 ValueS of The ParameTers Obtained By Best Fitting the Mathematical Expressions WItH Experimental POints "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            507,
+            555,
+            890,
+            644
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "a Parameter a measures the probability for the phage DNA to receive a hit, lethal in red-/rec-uur system. Parameter $^ { b }$ measures the probability for phages to be discarded from box $\\mathbf { E }$ when the damage is excessive in red-/rec-uurt system. Parameter c measures the probability for phages to be discarded from box $\\mathrm { \\text R }$ , either as a consequence of a hit in replication controlling region(s) or when the damage elsewhere is excessive in $r e d ^ { + } / r e c ^ { + } u v r ^ { - }$ system. Parameter $g$ measures the probability of hitting phage DNA in the replication controlling region(s). Parameter $v$ measures the probability for phages to be discarded from box ER when the damage is excessive in $r e d ^ { + } /$ $r e c ^ { + } u v r ^ { + }$ system. ",
+        "bbox": [
+            505,
+            647,
+            888,
+            858
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "pendent experiments with the red-/rec-uvr+ system were used; ",
+        "bbox": [
+            505,
+            880,
+            888,
+            912
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Parameter c was obtained from the best fit of Eq. (8) using the already determined values for the remaining parameters. Data from several independent experiments with the red+/rec+uur system were used. ",
+        "bbox": [
+            505,
+            912,
+            888,
+            941
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            107,
+            104,
+            488,
+            151
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Parameter v was similarly obtained from the best fit of Eq. (10) and using the already determined values of the other parameters. Again, data from several independent experiments with the red+/ rectuvr+ system were used. ",
+        "bbox": [
+            107,
+            152,
+            486,
+            244
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is worthwhile to stress here that the value of each parameter, once determined for one system, provides a very satisfactory fit for the others, in agreement with the proposed model. This shows the self-consistency of the model. ",
+        "bbox": [
+            105,
+            245,
+            486,
+            338
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "bbox": [
+            230,
+            350,
+            361,
+            363
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The agreement between experimental and theoretical curves definitely shows that (a) excision repair alone is effective above the critical dose, i.e., when damage to DNA is such that the beginning of DNA synthesis is delayed; (b) conversely, the recombination repair alone is effective below this critical dose; (c) as expected, when both repair systems are present, a cross term (visualized by box ER in Fig. 4) must be introduced. ",
+        "bbox": [
+            105,
+            369,
+            484,
+            540
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We shall not attempt here a thorough physical interpretation of the quantitative relationships among the different parameters obtained in the present work. An additional and interesting piece of information, however, can be obtained through a comparison of the $g$ and $^ { a }$ values; since $g \\approx \\% a$ , the target size of the DNA region(s) controlling the replication of $\\lambda$ DNA is about $\\%$ that of the whole $\\lambda$ DNA. The fact that $g \\approx \\%$ $\\pmb { a }$ also indicates that the lethality in red-/ rec-uur- system need not be ascribed to damages in the replication controlling region(s). An alternative interpretation, consistent with the present results, could be that in red-/rec-uvr\" systems with very low UV dose DNA replication may start but the damage prevents its completion. The same interpretation is also consistent with recent results (Horii and Suzuki, 1970) showing that in irradiated Escherichia coli rec-uvr- double mutant only a small degradation of DNA takes place close to the replicating point. ",
+        "bbox": [
+            103,
+            541,
+            484,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            105,
+            886,
+            276
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            601,
+            290,
+            793,
+            304
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It is a pleasure to thank Professor M. U. Palma and Dr. R. M. Sperandeo-Mineo for several useful discussions. We wish also to thank Professor M. Errera for his criticism. ",
+        "bbox": [
+            505,
+            312,
+            886,
+            366
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            634,
+            381,
+            757,
+            395
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ADAMs, M. H. (1959). \"Bacteriophages.\" Wiley (Interscience), New York.   \nBEUKERs, R., and BERENDS, W. (1960). Biochim. Biophys. Acta 41, 550.   \nBOYCE, R. P., and HoWARD-FLANDERs, P. (1964). Proc. Nat. Acad. Sci. U.S. 5l, 293.   \nCLARK, A. J., and MARGULIES, A. D. (1965). Proc. Nat. Acad. Sci. U.S. 53, 451.   \nHORII, Z. I., and SuzUKI, K. (1970). Photochem. Photobiol. 11, 99.   \nHoWARD-FLANDERs, P. (1968). Annu. Rev. Biochem. 37, 175.   \nHoWARD-FLANDERS, P., and THERIOT, L. (1966). Genetics 53, 1137.   \nVAN DE PUTTE, P., ZwENK, H., and RöRSCH, A. (1966). Mutation Res. 3, 381.   \nRADMaN, M., CORDONE, L., KRSMANOvic-SIMIC, D., and ERRERA, M. (1970). J. Mol. Biol. 49, 203.   \nSETLOw, R. B., and CARRIER, W. L. (1964). Proc. Nat. Acad. Sci. U.S. 5l, 266.   \nSIGNER, E. R., and WEIL, J. (1968). J. Mol. Biol. 34, 261.   \nWACkeR, A., DELWEG, H., and WEINBLUM, D. (1960). Naturwissenschaften 47, 477. ",
+        "bbox": [
+            503,
+            402,
+            886,
+            741
+        ],
+        "page_idx": 4
+    }
+]

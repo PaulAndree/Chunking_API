@@ -1,0 +1,1638 @@
+[
+    {
+        "type": "text",
+        "text": "In situ visualization of carbonylation and its co-localization with proteins,c lipids, DNA and RNA in Caenorhabditis elegans ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            204,
+            820,
+            245
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mira Kuzmica,b , Hélène Javotc,d,e , Jean-Marc Bonzoma , Catherine Lecomte-Pradinesa , Miroslav Radmanb , Jacqueline Garnier-Laplacea , Sandrine Frelona,⁎ ",
+        "bbox": [
+            63,
+            255,
+            746,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Institut de radioprotection et de sûreté nucléaire, Cadarache, 13115 Saint Paul lez Durance cedex, France b Mediterranean Institute for Life Sciences, Mestrovicevo Setaliste 45, 21000 Split, Croatia c CEA, BIAM, Lab Biol Develop Plantes, Saint-Paul-lez-DurIncreased carbonylation, protein aance F-13108, France d CNRS, UMR 7265 Biol Veget & Microbiol Environ, Saint-Paul-lez-Durance F-13108, France e Aix Marseille Université, BVME UMR7265, Marseille F-13284, France ",
+        "bbox": [
+            62,
+            296,
+            631,
+            349
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A R T I C L E I N F O ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            377,
+            230,
+            392
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A B S T R A C T ",
+        "text_level": 1,
+        "bbox": [
+            339,
+            378,
+            460,
+            392
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: In situ carbonylation Protein carbonylation DNA carbonylation RNA carbonylation Lipid carbonylation Fluorescent probes Caenorhabditis elegans ",
+        "bbox": [
+            62,
+            407,
+            171,
+            491
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All key biological macromolecules are susceptible to carbonylation – an irreparable oxidative damage with deleterious biological consequences. Carbonyls in proteins, lipids and DNA from cell extracts have been used as a biomarker of oxidative stress and aging, but formation of insoluble aggregates by carbonylated proteins precludes quantification. Since carbonylated proteins correlate with and become a suspected cause of morbidity and mortality in some organisms, there is a need for their accurate quantification and localization. Using appropriate fluorescent probes, we have developed an in situ detection of total proteins, DNA, RNA, lipids and carbonyl groups at the level of the whole organism. In C. elegans, we found that after UV irradiation carbonylation co-localizes mainly with proteins and, to a lesser degree, with DNA, RNA and lipids. The method efficiency was illustrated by carbonylation induction assessment over 5 different UV doses. The procedure enables the monitoring of carbonylation in the nematode C. elegans during stress, aging and disease along its life cycle including the egg stage. ",
+        "bbox": [
+            339,
+            406,
+            937,
+            537
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            581,
+            169,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Carbonylation of biomolecules results from reactions with diverse forms of reactive oxygen species (ROS). Macromolecules that undergo carbonylation include proteins, lipids, nucleic acids and sugars [1–3] and the respective carbonyl species are aldehydes, ketones and lactams. Carbonyls in DNA [4], lipids [5] and proteins [6,7] were extensively studied, unlike sugar carbonyls which are detectable only when free sugar is in an open ring form which represents only $1 \\%$ of cellular sugar, the rest being in a closed-ring form [5]. In addition, carbonyls in RNA has not been exclusively studied probably because only mRNA molecules, which represents $5 \\%$ of whole RNA, seems oxidizable [8]. ",
+        "bbox": [
+            62,
+            607,
+            485,
+            738
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA carbonylation has been detected in extracted DNA and in situ at cellular level [4,9]. Regarding lipid carbonylation, few studies proved its occurrence in cells after oxidative stress, e.g. via paraquat and hydrogen peroxide treatment [5,10]. Of all macromolecule carbonylation, protein carbonylation has been the main focus of investigation, since it is considered as a hallmark of oxidative stress-related disorders such as Alzheimer's and Parkinson's diseases, diabetes, cataractogenesis and many other age-related diseases [11,12]. ",
+        "bbox": [
+            62,
+            738,
+            485,
+            843
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Measurement of protein carbonylation was initiated by Stadtman and Levine as a biomarker of aging [13,14] that is irreversible and unrepairable [6]. In Escherichia coli a calculated average of 2–3 carbonyls per protein, or 5 million carbonyl groups per cell, constitutes a lethal hit [7]. The main amino acids prone to direct carbonylation are Lys, Arg, Pro and Thr [6]. Quantification of protein carbonylation includes biochemical and immunological assays (ELISA, Western blot, dot blot and in situ carbonylation), spectrophotometric and chromatographic techniques, and mass spectrometry analysis (MS). ",
+        "bbox": [
+            514,
+            581,
+            937,
+            698
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the past, labeling of carbonyls was carried out mainly by derivatization with 2,4-Dinitrophenylhydrazine (DNPH) [15], whereby carbonyl detection is indirect by immuno-labeling of DNP group linked to protein with antibodies used in ELISA [16] and Western blot analysis [17]. DNPH-based methods have strong limitations: DNPH is a non-selective reactive substance [18] often resulting in overestimation and non-reproducibility in quantification of carbonylation level [19]. Such indirect carbonyl detection may complicate and bias quantification [4]. Recently, DNPH has been progressively replaced by aminooxy and hydrazide coupled with fluorophore and used in gelbased proteomic analyses [20,21]. Compared with DNPH, the use of fluorophore-bound hydrazides increased the accuracy and sensitivity. ",
+        "bbox": [
+            514,
+            699,
+            937,
+            843
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            71,
+            480,
+            83
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The improvement of carbonyl detection by hydrazides revealed that protein extraction procedures are critical. A multi-center study was conducted by six European laboratories to validate the protein carbonylation measurement in soluble fractions of liver proteins subjected in vitro to different doses of UV radiation. Inconsistent results showed that most of the methods were inadequate for quantification of highly oxidized proteins [22]. Notably, high UV doses led to rapid aggregation of carbonylated proteins [23] and resistance to proteolysis. Nearly all spontaneously carbonylated cellular proteins in bacteria [24] and mouse cells [25] were found in detergent-insoluble aggregates, presumably involving protein cross-linking. Most of the employed procedures included extraction and purification steps likely to cause loss of carbonylated proteins. These problems revealed the need for complementary carbonylation measurements without protein extraction even though one of our recent research had a successful recovery of carbonylated proteins after UV exposure [26]. Such new measurements rely on optical analysis with the opportunity to study several parameters at the same time using multiplexing with dyes that have distinct spectral properties. ",
+        "bbox": [
+            62,
+            85,
+            485,
+            334
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There are few studies of total carbonylation in situ without extraction of biomolecules, imaging protein, lipid and DNA carbonylation [5,9,10,27–30]. These studies showed discrepancies in detection of DNA carbonylation at cellular level [5,9], drawbacks in using DNPH and antibodies and unsuccessful labeling of nematode eggs [31] while using paraformaldehyde (PFA) for fixation, whereas PFA is an external carbonyl source that reacts with DNPH [32]. ",
+        "bbox": [
+            62,
+            335,
+            484,
+            426
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "None of previous studies co-localized carbonyls and molecules likely to be carbonylated. Here we performed direct in situ labeling of total carbonyls in Caenorhabditis elegans (C. elegans), without extraction steps, using fluorescent hydrazide [20,21]. Fluorescent staining was improved and optimized for total carbonyls along with labeling of the main potential targets of carbonylation, e.g. proteins, DNA, RNA and lipids. UV dose-response curve was made in correlation with the fluorescence of carbonyl signal. The simultaneous quadruplex labeling of nematodes and eggs (total carbonyls/proteins/DNA/lipids) allows visualized localization of four fluorescent signals. ",
+        "bbox": [
+            62,
+            427,
+            485,
+            558
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Results ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            573,
+            132,
+            585
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We developed a methodology to visualize, localize and quantify in situ global carbonylation along with proteins, lipids, DNA and RNA. Co-localization of differential fluorescent signals allows the estimation of carbonylation of the four molecular species in the nematode C. elegans at the whole body level. As UV light is known to induce oxidative damage in proteins, DNA and lipids [7,33,34], we used UVC irradiation to induce carbonylation in C. elegans and to make a doseresponse curve. ",
+        "bbox": [
+            62,
+            598,
+            484,
+            703
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Carbonylation ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            717,
+            178,
+            730
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The carbonyl labeling in C. elegans was initially tested in vivo by feeding animals with cyanine hydrazide $\\mathrm { ( C y 5 ~ H z ) }$ on nematode growth medium plate or in liquid medium. Both experiments showed that the only organ labeled by $\\mathrm { C y } 5 \\ \\mathrm { H z }$ was the digestive tract due to high reactivity of Cy5 Hz with the ingested food (dead E. coli), but no detectable dye was internalized by nematode's cells. ",
+        "bbox": [
+            62,
+            745,
+            484,
+            822
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Trifluoroacetic acid allowed for successful $\\mathrm { C y } 5 ~ \\mathrm { H z }$ internalization [31], but extremely low $\\mathrm { p H }$ led us to optimize the delivery of the fluorescent dye to its carbonyl targets. Finally, isopropanol was used for both chemoporation of the whole animal and targeting of the fluorescent hydrazide to carbonyls. Chemoporation by isopropanol was already used for lipid labeling in C. elegans [35]. Hydrazide $\\mathbf { ( H z ) }$ can derivatize carbonyl in a wide range of $\\mathrm { p H }$ from acidic to neutral. Concentration of Cy5 Hz $( 2 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 } )$ and the labeling time $( 3 0 \\mathrm { m i n } )$ (Table 1) were the same as for $E$ . coli [36]. We checked the specificity of ",
+        "bbox": [
+            62,
+            823,
+            485,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cy5 Hz labeling of carbonylated compounds by treating C. elegans control with sodium borohydride $\\mathrm { ( N a B H _ { 4 } ) }$ ) – an exogenous chemical reductant of carbonyls. Carbonylation levels of all the experiments are presented in Fig. 1. ",
+        "bbox": [
+            514,
+            71,
+            936,
+            123
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A clear difference in carbonylation levels was observed between control (Fig. 1C), UVC irradiated (Fig. 1B) and $\\mathrm { N a B H _ { 4 } }$ treated worms (negative control – Fig. 1D) (Fig. 1) with constant amount of the dye and imaging conditions. With this simple protocol, we are “snapshotting” whole animal's carbonylation of proteins, DNA, RNA and lipids. Stopping the reaction between carbonyls and hydrazide can be achieved by $\\mathrm { N a B H _ { 4 } }$ and it maintains the signal stable for weeks. Three washing of the unbound dye can replace this step. ",
+        "bbox": [
+            514,
+            124,
+            937,
+            229
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In most of the previous studies of in situ carbonylation, labeling was performed with hydrazide and hydrazine after paraformaldehyde (PFA) fixation [27–31] (Table 1), which can increase the background level [32]. Here, with whole animals, we performed labeling in the test tube without PFA and with extensive washings to reduce the background. ",
+        "bbox": [
+            514,
+            230,
+            937,
+            295
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, the labeling was successful from eggs (in spite of the eggshell) to adult nematodes (Fig. 1B), whereas labeling of carbonyls in eggs presented a problem in a previous report [31], as DNPH could not penetrate the eggshell. ",
+        "bbox": [
+            514,
+            296,
+            937,
+            348
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Proteins ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            361,
+            593,
+            373
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In situ total protein labeling has not yet been used. First trial of in situ protein labeling was with coomasie blue but without success. We complete protein labeling based on amine-reactive crosslinker chemistry, i.e. NHS (N-hydroxysulfosuccinimide) ester dye, commonly used in Differential in Gel Electrophoresis (DiGE) experiments. We adapted protein labeling using NHS, which binds to side chain amino groups of lysine, and tested two fluorophores coupled with the reactive NHS ester moiety, Cy3 and $\\mathrm { C y 2 }$ dyes that gave the same results. After chemoporation of worms with isopropanol, we used the conditions of standard DiGE procedures (in water at pH 9). Results are shown in Fig. S1. The specificity of labeling was tested by a competitive assay using Tris buffer at $\\mathrm { p H } 9$ when Tris is mostly unprotonated (pKa is 8.3) and can react with NHS ester in competition with amino groups of protein lysines. For the same amount of the dye and the same imaging conditions, the presence of Tris led to a signal 6.5 times lower than the absence of Tris (Fig. S1). As shown in Fig. 2, with the same dye concentration, labeling in isopropanol (Table 1) displays higher intensity image than labeling in water at pH 9 (Fig. S1). ",
+        "bbox": [
+            514,
+            388,
+            937,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3. Lipids ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            639,
+            579,
+            651
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A subset of lipids that are mainly contained in hypodermal cells and in acidic compartments like lysosome related organelles (LRO) can be labeled with BODIPY (4,4-Difluoro-1,3,5,7-Tetramethyl-4-Bora-3a,4aDiaza-s-Indacene) and Nile red [37]. In the following text, we will refer to this subset of lipids (hypodermal and acidic lipids) as “lipid fraction”. We tested both BODIPY and Nile red, while lipid labeling with Sudan III was more difficult to perform. The lipid labeling with BODIPY 505/515 was adapted to the whole worm without fixation. Fig. 3 (Fig. 3A) shows the staining basal level of this lipid fraction and the autofluorescence signal at this wavelength (without the dye, Fig. 3B). Autofluorescence in this part of the spectrum is usually high, and signal can be subtracted with linear un-mixing [38], when necessary. ",
+        "bbox": [
+            514,
+            665,
+            937,
+            836
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4. DNA and RNA ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            851,
+            633,
+            862
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In situ total DNA labeling has been done with classical method using DAPI (Fig. 4). DAPI is a cationic molecule with a higher affinity for A-T rich regions in DNA than for any other nucleic acid sequences [39]. Moreover, such binding increases the fluorescence quantum yield in the nucleus compared to the DNA-free spots (Fig. 4A). The autofluorescence in this part of the spectrum is the same as already assessed for lipids (Fig. 3B), since DAPI and BODIPY were excited with the same blue diode laser $4 0 5 \\mathrm { n m }$ ). Signal can be subtracted with linear un",
+        "bbox": [
+            514,
+            876,
+            937,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a731ec19b575609a9bf145da99b2855a8eed7b7c739ce4e4c1a8b5847398c73.jpg",
+        "table_caption": [
+            "Table 1 Comparative properties and kinetics of the dyes ( $^ { \\ast } \\mathrm { h } ^ { \\ast }$ stands for hours and $\" \\mathrm { d } ^ { \\mathrm { * } }$ stands for days) used for total molecular labeling of carbonyls, proteins, DNA, RNA and lipids in this and previous research. Concentration of the dye is denoted with “Dye [C]”. “Kit” stands for the papers that used kit for carbonyl labeling and didn’t mention the concentration of DNPH. The concentration of SYBR Green II is given with 5X (commercial solution given in 10000X). "
+        ],
+        "table_footnote": [
+            "a,b Papers on DNA and lipids are numerous, only one representative has been cited. c High specificity for RNA labeling with SYBR Green II is only when DNase I pretreatment is used. "
+        ],
+        "bbox": [
+            57,
+            119,
+            937,
+            327
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/f83f118233669905a12c750877fb86b1e7dd9bfb2f1f9ba16f5c08569d50007e.jpg",
+        "image_caption": [
+            "Fig. 1. Confocal images of in situ detection of carbonylation in C. elegans with Cy5 Hz in isopropanol. (A) Differential interference contrast (DIC) image of positive control of carbonylation resulting from UVC irradiation. (B) positive control of carbonylation resulting from UVC irradiation. (C) non-irradiated nematode, i.e. control sample. (D) negative control of carbonylation obtained with reduction of carbonyl groups by sodium borohydride. (E) level of autofluorescence of non-treated control without Cy5 Hz labeling. Images are representative of three independent experiments performed in triplicates. Scale bar ${ \\bf \\mu } = 1 0 ~ { \\mu \\mathrm { m } }$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            92,
+            366,
+            455,
+            607
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/cda37496a8b5c05ac065a8e9c793454143a1feb82f0cd68c90e040596445a233.jpg",
+        "image_caption": [
+            "Fig. 2. Confocal images of in situ detection of proteins in C. elegans with Cy3 NHS ester (B). Competitive assay with Tris (A). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            718,
+            455,
+            849
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            894,
+            484,
+            933
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "mixing [38], when necessary. ",
+        "bbox": [
+            514,
+            368,
+            690,
+            380
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In situ total RNA labeling was done using SYBR Green II (SG II), a classical dye used for RNA and single stranded (ss) DNA gel staining. As SYBR Green II is not selective for RNA staining we used both a double staining, SG II followed by DAPI staining, and previous endonuclease incubations (RNAse, DNAse and both) to see the contribution of DNA and RNA, respectively in the staining obtained (Fig. 4). Single staining was also performed previously and gave the same result. As Fig. 4 shows, after RNase activity (comparison between Fig. 4F and E with a full staining), the only remaining signal from SG II is DNA (Fig. 4F), which corresponds to the one obtained with DAPI (Fig. 4B). On the other hand, using DNase only enables to see a signal at the SG II wavelength (Fig. 4G) and not at the DAPI one (Fig. 4C). The remaining signal corresponds to the one disappeared after RNase incubation (Fig. 4F) and is supposed to come from RNA. This further experiment also prove that RNA is not stained by DAPI. Finally, using both enzymes, there is no signal with SG II (Fig. 4H) nor DAPI (Fig. 4D). This proves that SG II binds RNA and DNA in situ. To conclude, the use of DNase I before SG II labeling, enables displaying only RNA in situ. ",
+        "bbox": [
+            514,
+            382,
+            937,
+            630
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5. Quadruplex labeling ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            648,
+            665,
+            660
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Multiplex labeling is a challenging method – sine qua non for colocalization of multiple molecular species – with adequate efficiency and specificity of labeling with dyes having well-separated spectroscopic properties. With that restrictions, monitoring protein carbonylation as well as four biomolecules was quite difficult, especially as RNA and lipid dyes have spectra overlapping (emission wavelengths are $4 9 7 \\mathrm { n m }$ and $5 2 0 \\mathrm { n m }$ , for BODIPY and SYBR Green II, respectively). The choice was then made to exclude RNA from the multiplex labeling, but keeping it for double staining of RNA/Carbonyls to still test the colocalization of carbonyl groups in RNA. Indeed, as RNA is a nucleic acid like DNA with only one base swap but keeping a similar carbonyl status, we assumed (i) that their both basal levels will be close and dependant on their relative abundance in cell, and (ii) that their susceptibility to carbonylation after UV stimulation should be similar and not major, as UV yields mainly to pyrimidine dimer formation [40]. ",
+        "bbox": [
+            514,
+            674,
+            937,
+            885
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.5.1. The case of RNA ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            902,
+            653,
+            915
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Selected chemoporation and labeling were carried out, in a test tube (see Materials and methods section), in isopropanol. Nematodes were pretreated with DNase I, followed by carbonyl labeling and finished with RNA labeling. The result is displayed in Fig. 5a. The co-localization of carbonyls with RNA was quantified with Pearson's coefficient [41], and shown in Fig. 5b. Coefficient is 0.5 and 0.7 for worms and eggs, respectively. ",
+        "bbox": [
+            512,
+            916,
+            937,
+            941
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/13dcf3bd1b450e96d1998c7b348e60663fe4a086a603bdb130fb04b5f78bb588.jpg",
+        "image_caption": [
+            "Fig. 3. Confocal images of in situ detection of lipids from hypodermal cells and acidic compartments like lysosome related organelles in C. elegans with BODIPY 505/515 (A), (B) th level of autofluorescence of untreated controls without BODIPY 505/515, (C) DIC image of untreated control. Images are representative of three independent experiments performed in triplicates. Scale bar ${ \\bf \\mu } = 1 0 ~ { \\mu \\mathrm { m } }$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            136,
+            70,
+            865,
+            252
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            307,
+            484,
+            374
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2.5.2. Quadruplex labeling ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            398,
+            225,
+            411
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "For quadruplex staining, the chosen fluorophores coupled with Hz and NHS ester are Cy5 and Cy3. BODIPY 505/515 was chosen for lipid labeling in quadruplex staining because Nile red has a wide spectrum overlapping with Cy3 and Cy5. ",
+        "bbox": [
+            60,
+            412,
+            484,
+            464
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Due to DAPI's wide emission spectrum and some overlapping between Cy5 and Cy3 dyes, BODIPY and Cy3 (Fig. S2), spectral separation on multiplex images was applied with linear un-mixing (with or without use of auto-scale function) [38]. We checked for autofluorescence of $C _ { \\circ }$ . elegans. With the chosen fluorophores, autofluorescence is not significant, except at DAPI wavelengths, the high autofluorescence below $4 5 0 \\mathrm { n m }$ requires the use of background unmixing. ",
+        "bbox": [
+            62,
+            465,
+            484,
+            569
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We also optimized respective concentrations of dyes and laser intensities to obtain homogeneous quadruplex signal without saturation or masking of any dye overlapping with another. The optimal concentrations of $\\mathbf { C y 5 ~ H z }$ and BODIPY 505/515 were $2 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ , of $\\mathrm { C y 3 }$ NHS ester $1 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ and DAPI $0 . 4 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ (Table 1). In addition, to minimize the degradation of the previous label by the following one in quadruplex labeling, alcohol medium was chosen as a solvent of all dyes. Selected chemoporation and labeling were thus carried out, in a test tube (see Materials and Methods section), in isopropanol $\\mathrm { ( C y 5 ~ H z }$ , Cy3 NHS ester and BODIPY 505/515) and in ethanol (DAPI) instead of usual fixation of the animal with paraformaldehyde followed by labeling (Table 1). Finally, labeled biomolecules (RNA, lipid fraction, proteins and DNA) and carbonyls have been studied separately (Figs. 1–4), combined by pairs (RNA/carbonyls, DNA/carbonyls, proteins/carbonyls and lipid fraction/carbonyls) and combined all together. ",
+        "bbox": [
+            60,
+            569,
+            484,
+            596
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            307,
+            937,
+            491
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 6 shows the resulting quadruplex labeling in the worm and in the egg. Here, all stainings were successful in all stages, from eggs to adult worms. Order of labeling, to the final quadruplex, appears to be important. For instance, labeling with all dyes at once results in complete binding of $\\mathrm { C y } 5 \\ \\mathrm { \\ H z }$ to DAPI. Therefore, $\\mathrm { C y } 5 \\ \\mathrm { H z }$ carbonyl derivatization should be performed first, Cy3 NHS ester protein labeling second, DAPI DNA labeling third and finally BODIPY lipid labeling. Finally, the reaction kinetics of each dye with specific molecular targets seems to be similar resulting in homogeneous staining at employed concentrations (chosen to avoid saturation of one signal relative to others). ",
+        "bbox": [
+            514,
+            493,
+            937,
+            585
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/8b80787d45feb52a95ee9bcab0778e84f4a40bc8c0044997a16b3087bf83d4aa.jpg",
+        "image_caption": [
+            "Fig. 4. Confocal images of in situ detection of DNA and RNA in C. elegans with DAPI (A-D) and SYBR Green II (E-F), respectively, using RNase A (B and F) and DNase I (C and G) activity separately and combined (D and H). Images are representative of three independent experiments performed in triplicate. Scale bar ${ \\tt = } 2 \\ { \\mu \\mathrm { m } }$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            607,
+            904,
+            911
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/86ee3d55af951a3ce014719e3e7a1101111f96eb7ded414c170e9cc03b2d3e90.jpg",
+        "image_caption": [
+            "Fig. 5. (a). Confocal images of UV exposed C. elegans: Images of worm (A, D and G) and egg (C, F and I) came from zooming the blue squares (B, E and H). Single labeling of RNA (A, B and C) and carbonyls (D, E and F), in worm (A, D) and egg (C, F), respectively. Duplex labeling of RNA and carbonyls is merged with DIC image (G, H and I) in worm (G) and egg (I). Images are representative of two independent experiments performed in triplicates. Scale bar for the worms (B, E and H) is $1 0 \\mu \\mathrm { m }$ , while for the zoomed worm (A, D and G) and zoomed egg (C, F and I) is $5 \\mu \\mathrm { m }$ . (b) Co-localization of carbonyls and RNA with ImageJ software using the JACoP plugin via Pearson's coefficient calculation. Mean $\\pm$ SE, ${ \\bf n } { = } 1 5$ (for eggs and worms). In eggs, there is significant higher co-localization of RNA and carbonyls than in worms (\\* Student's $t$ -test; $\\mathbf { p < 0 . 0 5 }$ ). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            94,
+            70,
+            912,
+            431
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            509,
+            484,
+            561
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The co-localization of carbonyls with biomolecules was quantified with Pearson's coefficient [41] shown in Fig. 7. We observed spatial correlation between proteins and carbonyls (Fig. 7, Pc\\~0.95) and a partial one between DNA and carbonyls and lipid fraction and carbonyls (Fig. 7, Pc\\~0.4). The spatial correlation of DNA and carbonyls in worms (Fig. 7) is similar as for RNA and carbonyls (Fig. 5b). In addition, Pearson's coefficient between carbonyls/proteins and carbonyls/DNA were significantly lower in eggs than in worms. On the contrary, suprisingly, there is significantly higher signal of RNA carbonylation in eggs than in worms (Fig. 5 b). ",
+        "bbox": [
+            62,
+            562,
+            485,
+            680
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            509,
+            798,
+            522
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, lipid fraction/carbonyls co-localization doesn’t show any significant difference between eggs and worms whatsoever. ",
+        "bbox": [
+            512,
+            523,
+            937,
+            547
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2.6. Use of the method: Quantitative analysis of carbonyl signal induction after increasing dose of UVC irradiation ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            569,
+            910,
+            595
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fig. 8 a and b shows that in situ carbonylation increases with UVC dose, visually (Fig. 8a) and quantified by Typhoon scan (Fig. 8b), progressively from 5 to $3 0 \\mathrm { { m i n } }$ of irradiation. There were significant differences between all UV-light exposure times and a positive correlation between UV-light exposure and mean fluorescent intensity (Fig. 8b), contrary to results obtained with Oxy-techniques [22]. In parallel, quantification of confocal signals was performed on 9 worms per condition and showed the same trend (Fig. S3). There were significant differences between all UV-light treatments but 5 and $1 0 \\mathrm { { m i n } }$ . Therefore, slide scanning enables a rapid assessment of carbonylation simultaneously for many worms. Similar results were found by applying classical OxyDiGE method to the samples after extraction of proteins and use of specific buffer of protein extract solubilization [26]. We used the same UV doses and obtain the same carbonylation induction trend as in previous research [26]. ",
+        "bbox": [
+            514,
+            609,
+            937,
+            687
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/d8fbf81aa680e078d0b7619d65ba4a94264d78cbf14d75cbc7d602f012bc6c71.jpg",
+        "image_caption": [
+            "Fig. 6. Confocal images of UV exposed C. elegans and egg: single labeling of carbonyls (A and B), proteins (E and F), DNA (I and J) and lipids from hypodermal cells and on acidic compartments (LRO), (M and N) in worms and egg, respectively. Quadruplex labeling of carbonyls and biomolecules (proteins, DNA and lipid fraction) in worm (C) and egg (D). Double labeling between carbonyls and proteins (G and H), carbonyls and DNA (K and L) and carbonyls and lipid fraction (O and P) in worm and egg, respectively. Images are representative of three independent experiments performed in triplicates. Scale bar for the worm and egg are $1 0 \\mu \\mathrm { m }$ and $5 \\mu \\mathrm { m }$ , respectively. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            65,
+            699,
+            939,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/9b0d04c4bccbb33c7215f9a91cbff58094568029d68ddcb3aee0451383cce6a1.jpg",
+        "image_caption": [
+            "Fig. 7. Co-localization of carbonyls and biomolecules with ImageJ software using the JACoP plugin via Pearson's coefficient calculation. Mean $\\pm \\mathrm { S E }$ , $\\mathrm { n } { = } 1 5$ . Proteins, DNA and Lipid fraction co-localization with Carbonyls were considered as individuals statistical groups. Within each groups, treatments with dissimilar letters are significantly different (Student's t-test; $\\mathbf { p < 0 . 0 5 }$ ). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            89,
+            70,
+            450,
+            312
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            389,
+            485,
+            508
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Discussion ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            534,
+            154,
+            547
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Carbonylation has been used for decades as a biomarker of oxidative stress but also as a hallmark of many diseases, such as cancer [42] and many age-related diseases [11,12,43]. Carbonyl content in proteins, DNA and lipids has mostly been revealed by carbonyl derivatization with hydrazine or hydrazide compounds in cell extracts. RNA carbonylation has not yet been investigated. ",
+        "bbox": [
+            62,
+            561,
+            485,
+            626
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            71,
+            868,
+            84
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Protein carbonylation, measured in extracted proteins, was shown to correlate with cellular and organism's death caused by radiation and aging [44]. However, the sequestration of carbonylated proteins in detergent-insoluble aggregates causes uncertainty in the quantification of protein carbonyls. Furthermore, such analysis (i) lacks the detection of heterogeneous level and distribution of carbonyls among cells and organs and (ii) does not allow for simultaneous search for correlation between death and oxidative damage to other macromolecules, e.g. DNA, RNA and lipids. ",
+        "bbox": [
+            514,
+            85,
+            937,
+            203
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As listed in Table 1 for comparison with the method described in this paper, in situ analysis of the distribution of carbonyls and biomolecules (proteins, DNA, RNA and lipids) at the level of entire organisms has already been used. These methods relied on different dyes used for carbonyl and biomolecular detection and it's labeling procedure (fixation, or not, of the organisms, choice of medium and concentrations of the dye (dye c), binding kinetics of the dyes and specificity of labeling) on different samples. ",
+        "bbox": [
+            514,
+            204,
+            937,
+            308
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regarding in situ carbonylation, as seen in Table 1, the methodology has been developed to ensure the best signal for a minimum background. First, the choice of Cy5 hydrazide $\\mathbf { ( C y 5 ~ H z ) }$ for carbonyls derivatization (Table 1) (excited at $6 4 6 \\mathrm { n m }$ and emiting at $6 6 4 \\mathrm { n m }$ ) ensures low auto-fluorescence background because only few endogenous molecules emit fluorescence significantly when excited above $6 0 0 \\mathrm { n m }$ . Other advantages of this $\\mathrm { H z }$ probe is its use at pH7 that minimizes other chemical changes in target biomolecules of carbonylation and its good water solubility as well as its ability to reach lipids [5] and proteins [20,21]; hydrazine can reach DNA [4]. Moreover, the concentration of $\\mathrm { C y } 5 \\mathrm { H z }$ is $1 { - } 3 \\mu \\mathrm { M }$ , that is over 100 times lower than in a previous report [5]. This concentration allows accurate detection of UVC-induced carbonyls with a lowered background noise (i.e. higher sensitivity). Indeed, as the reaction between hydrazide and carbonyls can yield side-products, reduced hydrazide concentration has been used and reaction time has been minimized. In addition, instead of PFA, we used $40 \\%$ isopropanol for permeation because of its efficacy. This has resulted in lower basal carbonylation (i.e. higher sensitivity) compared with the use of PFA (Table 1), which is an external source of aldehyde [32]. Finally, in situ carbonylation detection assay has already been reduced from a few days [31] to $^ { 3 \\mathrm { h } }$ [5] whereas our method requires only $1 5 { - } 3 0 \\mathrm { m i n }$ . ",
+        "bbox": [
+            514,
+            308,
+            937,
+            597
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Regarding biomolecules and multiplexing methodology, this is a first article that shows direct in situ protein labeling (Table 1), without any immunodetection steps needed to be performed. This can enable future research to visualize the protein level in situ. It is the same for RNA; its specific staining in cells has already been made via in situ hybridization fluorescence [47], but RNA has not yet been visualized in total in situ. This is a first paper that shows a level of RNA in situ at the organism level. In addition, previous studies of acute or chronic stress have focused on one or few molecular signals, e.g. DNA, lipids or proteins, but simultaneous localization of key biological macromolecules was missing. Whereas for C. elegans staining, DMSO or DMF [48] were often used to penetrate worm cuticle and diffuse inside its body alcohol was found polyvalent towards all dyes, ensuring also the water-solubility and efficient labeling of lipids. In addition, isopropanol increased the sensitivity of the molecular probes as compared to water solubilization, due to a better permeation of C. elegans. ",
+        "bbox": [
+            512,
+            598,
+            937,
+            625
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/41e02b51db5b0794b863d756ad3d46e82f499f76786eb2fd06861b9342147609.jpg",
+        "image_caption": [
+            "Fig. 8. (a) Confocal images of in situ detection of carbonylation in C. elegans. Dose rate is $9 9 . 9 9 \\mathrm { J \\ m ^ { - 2 } \\ s ^ { - 1 } }$ and UV irradiation durations are 0, 5, 10, 20 and $3 0 \\mathrm { { m i n } }$ in A, B, C, D and E, respectively. Images are representative of two independent experiments performed in triplicates. Scale bar ${ \\bf \\mu } = 1 0 { \\bf \\mu m }$ . (b) Integration of the signal from experiment performed in triplicate with Typhoon scan of slides with 100 worms per condition. Values are normalized to control and plotted in relation to time of UV exposure. Treatments with dissimilar letters are significantly different (post hoc analysis with Wilcoxon tests with a Bonferroni correction applied; $\\mathbf { p } < 0 . 0 0 5$ ). Full line represents simple linear regression with $9 5 \\%$ confidence intervals (dashed line). Mean fluorescence intensity $= 0 . 9 7 5 + ( 0 . 0 7 6 \\times$ UV-light exposure time, $\\mathrm { r } ^ { 2 } { = } 0 . 5 4 2 $ ). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            134,
+            638,
+            867,
+            876
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            71,
+            485,
+            254
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Regarding the results of carbonyl distribution associated with specific macromolecules within the body of C.elegans, after UVC irradiation, the spatial distribution of carbonyls over the C. elegans soma is coherent with previous research [31], as well as the nearly perfect spatial correlation of carbonyls with proteins, and the moderate one with DNA, RNA or lipid fraction. Indeed, the carbonylation signal in nucleus is probably due to DNA bases, e.g. cytosine, guanine and thymine, containing carbonyl groups in their chemical structure as already proved [4,9] and is not supposed to increase after UV stimulation as most of damages in that case are pyrimidine dimers [40]. The same demonstration can be done with RNA, containing the same bases as DNA, except thymine replaced by uracile of which chemical structure only differs from one methyle group, thus having the same oxidative status. A similar correlation of carbonylation and nucleic acids was expected in RNA and DNA, what has been shown by our data. The higher correlation of carbonylation and RNA in eggs than in worms can be due to the higher abundance of RNA in eggs than in adult worms, as already published [49]. The slight lipid carbonylation was also observed after UV radiation, as in paraquat treated cells [5]. This distribution of carbonyls over biomolecules draws attention to proteins as the main target of oxidative damage under our conditions. Even more, this can be correlated with mortality and morbidity as observed in bacteria [7,50] and invertebrates [51]. Moreover, colocalization between carbonyls and proteins is lower in the egg than in the worm. This can raise the possibility of a better anti-oxidant protection in the egg than in C. elegans soma, as shown that there is a reset of a protein carbonylation during reproduction in C. elegans [31]. ",
+        "bbox": [
+            62,
+            258,
+            484,
+            610
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Finally, regarding the application of this in situ total carbonyl labeling methodology to assess carbonylation induction, as we obtained a good correlation between carbonyls signal and UV light exposure time, there is no suspected loss due to protein extraction or migration through the gel [22]. Interestingly, the in situ method seems to allow the detection of protein carbonylation in protein aggregates, although aggregates make protein carbonyls less accessible to the dye, they could be partly stained in situ showing distinct foci. However, variability between nematodes within each condition seems important regarding the scan results. This can be either due to heterogeneity of dose delivering or due to the large number of worm analyzed by this method. Indeed worm population, even if chronogenic (isogenic population with the same age), was synchronized over $^ { 3 \\mathrm { h } }$ but can present some difference in their initial carbonylation level and their susceptibility to produce some. ",
+        "bbox": [
+            62,
+            612,
+            485,
+            808
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Thanks to its simplicity, our new carbonyl staining method can easily be implemented in any laboratory using standard equipment – depending on the application. The researcher can use low throughput imaging techniques (confocal, epifluorescence microscopes, etc.) or throughput fluorescence quantification techniques (Typhoon scanner, microplate readers, etc.). ",
+        "bbox": [
+            62,
+            810,
+            484,
+            889
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, we provide a simple-to-use protocol that allows sample preparation in a short time and enables taking of quantitative “snapshots” of the body-wide carbonyl distribution across major macromolecules, e.g. hypodermal and acidic lipids, RNA, DNA and proteins, in C. elegans. This procedure allows monitoring oxidative effects of noxious environmental conditions, as well as aging and disease on the whole animal scale via in situ carbonylation assessment. ",
+        "bbox": [
+            60,
+            890,
+            484,
+            941
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            71,
+            936,
+            109
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4. Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            124,
+            694,
+            136
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.1. Strain and maintenance ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            151,
+            692,
+            162
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The wild-type C. elegans strain (Bristol N2) used in this study was provided by the Caenorhabditis Genetics Center (MN, USA). Nematode growth medium (NGM) and M9 medium were prepared by standard protocols [45]. The nematodes were cultured at $1 8 ~ ^ { \\circ } \\mathrm { C }$ , $7 0 \\%$ relative humidity in darkness, on NGM agar seeded with Escherichia coli OP50 strain, according to the standard method [45]. Bacteria were prepared following the standard protocol [52]. Seeded plates were exposed to UVC $2 0 \\mathrm { m i n }$ , Bio-LinkCrosslinker; $2 5 4 \\mathrm { n m }$ , $2 0 0 \\mu \\mathrm { W m } ^ { 2 } )$ to suppress bacterial activity [53]. Nematodes were rinsed from the plates with M9 medium and aliquot in $5 0 \\mu \\mathrm { l }$ in Eppendorf tubes, followed by quick freeze in liquid nitrogen and stored at $- 2 0 { } ^ { \\circ } \\mathrm { C }$ until usage. This represents non-treated control for carbonyl labeling. ",
+        "bbox": [
+            514,
+            177,
+            937,
+            334
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.2UVC treatment ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            349,
+            625,
+            360
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Positive control for carbonyl labeling was conducted with UVC irradiation. Aliquot for irradiation of nematodes was in $1 ~ \\mathrm { m l }$ of M9 buffer supplemented with $1 0 ^ { - 5 }$ triton (TRITON X-100, SIGMAALDRICH Co., St. Louis, Missouri, USA) (M9t). Radiation was performed in $3 \\mathrm { c m }$ glass petri dish for 5, 10, 20 and $3 0 \\mathrm { { m i n } }$ with dose rate $9 9 . 9 9 \\mathrm { J } \\mathrm { m } ^ { - 2 } \\mathrm { s } ^ { - 1 }$ . Nematodes were rinsed from the plate with M9t medium and aliquot in $5 0 \\mu \\mathrm { l }$ in Eppendorf tubes, followed by quick freeze in liquid nitrogen and stored at $- 2 0 ~ ^ { \\mathrm { o } } \\mathrm { C }$ until usage. All of those UV doses were used for quadruplex labeling (Fig. 6) and quantitative carbonylation assay (Fig. 8 and Fig. S3). UV treatment time of $3 0 \\mathrm { { m i n } }$ was used for positive control of carbonyl labeling (Fig. 1) as well as for confocal imaging for quantitative colocalization (Fig. 5b and Fig. 7). Luminosity and contrast of some figures (Figs. 1, 6, and 8) were adjusted using ImageJ. ",
+        "bbox": [
+            514,
+            375,
+            937,
+            558
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3. Carbonyl reduction with sodium borohydride $N a B H _ { 4 }$ treatment ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            573,
+            934,
+            585
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Negative control for carbonyl labeling was conducted with $\\mathrm { N a B H _ { 4 } }$ (Sodium borohydride, SIGMA-ALDRICH Co., St. Louis, Missouri, USA) treatment which converts aldehyde and ketones into alcohols. Reduction of carbonyl groups was performed with $1 ~ \\mathrm { m l }$ of $\\mathbf { 0 . 2 M }$ $\\mathrm { N a B H _ { 4 } }$ (each time freshly prepared in water with heating until $\\mathrm { H } _ { 2 }$ starts to release), vortexed and incubated at room temperature (RT) for $1 5 \\mathrm { { m i n } }$ . The reaction was stopped by centrifugation for $1 \\mathrm { { m i n } }$ a t $1 9 { , } 0 0 0 g$ at room temperature and removing maximum of the supernatant. Nematodes were washed with M9t for minimum 3 times and aliquot in $5 0 \\mu \\mathrm { l }$ in Eppendorf tubes followed by quick freeze in liquid nitrogen and stored at $- 2 0 ~ ^ { \\mathrm { o } } \\mathrm { C }$ until usage. ",
+        "bbox": [
+            514,
+            598,
+            937,
+            744
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.4. Cy5 hydrazide single labeling for carbonyls ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            757,
+            811,
+            770
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation of all samples was performed with $1 5 0 \\mu \\mathrm { l }$ of $40 \\%$ isopropanol (2 -Propanol, SIGMA-ALDRICH Co., St. Louis, Missouri, USA), vortexing and holding for $3 \\mathrm { { m i n } }$ on ice followed by centrifugation for $1 \\mathrm { { m i n } }$ at $1 9 0 0 0 g$ at RT and removing maximum of the supernatant (RMS). Cy5 Hz $\\mathrm { ( C y ^ { T M } 5 }$ Mono Hydrazide, GE Healthcare Life Sciences, Buckinghamshire, UK) working solution is $2 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ in $40 \\%$ isopropanol. Labeling of carbonyls was done by placing $1 5 0 \\mu \\mathrm { l }$ of working solution in chemoporated samples followed by incubation for $3 0 \\mathrm { { m i n } }$ at RT at $5 0 0 \\mathrm { r p m }$ . Washing the nematodes was with M9t followed by centrifugation for 3 times with RMS. The reaction of $\\mathrm { H z }$ dye was stopped with $\\mathrm { 1 . m l 0 . 2 M \\ N a B H _ { 4 } }$ (each time freshly prepared in water with heating until $\\mathrm { H } _ { 2 }$ starts to release) by vortexing and incubating for ",
+        "bbox": [
+            514,
+            784,
+            937,
+            941
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "$1 5 \\mathrm { { m i n } }$ . $\\mathrm { N a B H _ { 4 } }$ was removed by centrifugation for 1 min on $1 9 { , } 0 0 0 g$ at RT and RMS. ",
+        "bbox": [
+            62,
+            71,
+            484,
+            97
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.5. Cy3 NHS ester single labeling of the proteins ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            110,
+            368,
+            123
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation of all samples was performed with $1 5 0 \\mu \\mathrm { l }$ of $40 \\%$ isopropanol, vortexing and holding for $3 \\mathrm { { m i n } }$ on ice followed by centrifugation for $1 \\mathrm { { m i n } }$ at $1 9 0 0 0 g$ at RT and RMS. Cy3 NHS ester (Cyanine3 NHS ester minimal dye, Interchim, Montluçon, France) working solution is $1 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ in $40 \\%$ isopropanol or water and $1 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ in $\\mathbf { 0 . 5 \\ : M }$ Tris buffer (Trizma base, SIGMA-ALDRICH Co., St. Louis, Missouri, USA) in $40 \\%$ isopropanol or water, with $\\mathrm { p H } 9$ . Tris with its amine groups at $\\mathrm { p H } 9$ binds NHS and represents competitive assay. Labeling of proteins was done by placing $1 5 0 \\mu \\mathrm { l }$ of working solution in chemoporated samples followed by incubation for $1 5 \\mathrm { { m i n } }$ at RT at $5 0 0 \\mathrm { r p m }$ . Washing the nematodes was made with M9t followed by centrifugation for 3 times with RMS. Stopping the remaining reaction of NHS dye was conducted with $1 ~ \\mathrm { m l }$ of $\\mathbf { 0 . 5 \\ : M }$ Tris with pH 9 in samples by vortexing and incubating for $1 5 \\mathrm { { m i n } }$ . Removing Tris was done by centrifugation for $1 \\mathrm { { m i n } }$ at $1 9 { , } 0 0 0 g$ at RT and RMS. ",
+        "bbox": [
+            62,
+            137,
+            485,
+            334
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.6. DAPI single labeling of DNA ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            348,
+            267,
+            360
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation of all samples was performed with $1 5 0 \\mu \\mathrm { l }$ of absolute ethanol (Ethanol absolute, Millipore corporation, Darmstadt, Germany), vortexing and incubating for $1 0 \\mathrm { { m i n } }$ on ice followed by centrifugation for $1 \\mathrm { { m i n } }$ at $1 9 0 0 0 g$ at RT and RMS. DAPI (Vectashield mounting medium for fluorescence with DAPI, Vector Laboratories, Burlingame, California, USA) working solution is $0 . 4 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ in $7 0 \\%$ ethanol. Labeling of DNA was done by placing $1 5 0 \\mu \\mathrm { l }$ of working solution in chemoporated samples followed by $3 0 \\mathrm { { m i n } }$ incubation at $5 0 0 \\mathrm { r p m }$ at RT. Washing the nematodes was done with M9t followed by centrifugation for 3 times with RMS. ",
+        "bbox": [
+            62,
+            374,
+            485,
+            505
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.7. SYBR Green II labeling of RNA and DNA ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            519,
+            344,
+            532
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation of all samples was performed with $1 5 0 \\mu \\mathrm { l }$ of absolute ethanol, vortexing and incubating for $1 0 \\mathrm { { m i n } }$ on ice followed by centrifugation for $1 \\mathrm { { m i n } }$ at $_ { 1 9 , 0 0 0 g }$ at RT and RMS. SYBR Green II $\\operatorname { T S Y B R } ^ { \\circledast }$ Green II Nucleic Acid Stain, Lonza, Basel, Switzerland) working solution is 5X in $7 0 \\%$ ethanol. Labeling of RNA was done by placing $1 5 0 \\mu \\mathrm { l }$ of working solution in chemoporated samples followed by $3 0 \\mathrm { { m i n } }$ incubation at $5 0 0 \\mathrm { r p m }$ at RT. Washing the nematodes was done with M9t followed by centrifugation for 3 times with RMS. ",
+        "bbox": [
+            62,
+            547,
+            485,
+            650
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.8. SYBR Green II and DAPI labeling of DNA and RNA ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            665,
+            410,
+            678
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation and RNA labeling with SYBR Green II was performed as mentioned above in the “SYBR green II labeling of RNA and DNA” section. Washing the nematodes was done with M9t followed by centrifugation for 3 times with RMS. DNA labeling was also performed as mentioned above in the “DAPI single labeling of DNA” section, followed by washing the nematodes with M9t for 3 times with centrifugation and RMS. ",
+        "bbox": [
+            62,
+            692,
+            485,
+            783
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.9. DNase I and RNase A treatment ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            796,
+            290,
+            809
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation of all samples was performed with $1 5 0 \\mu \\mathrm { l }$ of absolute ethanol, vortexing and incubating for $1 0 \\mathrm { { m i n } }$ on ice followed by centrifugation for $1 \\mathrm { { m i n } }$ at $_ { 1 9 , 0 0 0 g }$ at RT and RMS. Washing the nematodes was done with M9t followed by centrifugation for 3 times with RMS. DNase I (RNase-Free DNase Set, QIAGEN, Hilden, Germany) treatment was performed in $1 5 0 \\mu \\mathrm { l }$ of RNase-free Buffer RDD supplemented with DNase I (1500 Kunitz units RNase-free DNase I) at 8X dilution. The reaction was performed by incubation at $3 7 ^ { \\circ } \\mathrm { C }$ and $5 0 0 \\mathrm { r p m }$ for $3 0 \\mathrm { { m i n } }$ . Washing the nematodes was done with M9t followed by centrifugation for 3 times with RMS. This was used in RNA labeling, Fig. 4G, and RNA carbonylation, Fig. 5. ",
+        "bbox": [
+            62,
+            823,
+            485,
+            941
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            71,
+            937,
+            97
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RNase A (Ribonuclease A from bovine pancreas, SIGMA-ALDRICH Co., St. Louis, Missouri, USA) treatment was performed in $1 5 0 \\mu \\mathrm { l }$ of PBS (Phosphate buffered saline, SIGMA-ALDRICH Co., St. Louis, Missouri, USA) supplemented with RNase A at a final concentration of $5 0 \\mu \\mathrm { g } / \\mathrm { m l }$ . Chemoporation and washing were done the same as for DNase treatment above. This was used in DNA labeling, Fig. 4F. ",
+        "bbox": [
+            514,
+            98,
+            937,
+            176
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DNase I and RNase synergic treatment were executed first by DNase treatment followed by RNase treatment. This was used in RNA labeling, Fig. 4H. ",
+        "bbox": [
+            514,
+            177,
+            936,
+            215
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.10. BODIPY 505/515 single labeling for lipid fraction ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            229,
+            855,
+            242
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation of of all samples was performed as for other labelings with $40 \\%$ isopropanol. BODIPY 505/515 (BODIPY 505/ 515, Molecular Probes ThermoFisher Scientific, Eugene, Oregon, USA) working solution is $2 \\mu \\mathrm { g } \\mathrm { m l } ^ { - 1 }$ in $40 \\%$ isopropanol. Labeling of lipid fraction was done by placing $1 5 0 \\mu \\mathrm { l }$ of working solution in chemoporated samples followed by $1 5 \\mathrm { { m i n } }$ incubation at $5 0 0 \\mathrm { r p m }$ at RT. Washing the nematodes was with M9t followed by centrifugation for 3 times with RMS. ",
+        "bbox": [
+            514,
+            255,
+            937,
+            360
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.11. Cy5 Hz and SYBR Green II double labeling of carbonyls and RNA ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            375,
+            924,
+            399
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation and DNase treatment were perfomed as mentioned above, followed by washing for 3 times in M9t and RMS. The first labeling was for carbonyls, with Cy5 hydrazide by the protocol above mentioned in the $^ { * } \\mathrm { C y } 5$ hydrazide single labeling for carbonyls” section, followed by 3 washings and RMS. The second labeling was for RNA by placing $1 5 0 \\mu \\mathrm { l }$ of SYBR Green II working solution followed by incubation for $3 0 \\mathrm { { m i n } }$ at RT at $5 0 0 \\mathrm { r p m }$ . Washing for 3 times in M9t and RMS. ",
+        "bbox": [
+            514,
+            414,
+            937,
+            518
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.12. Quadruplex staining for carbonyls, proteins, DNA and lipid fraction ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            533,
+            917,
+            558
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Chemoporation was as described above. The first labeling was for carbonyls, with Cy 5 hydrazide by the protocol above mentioned in the “Cy5 hydrazide single labeling for carbonyls” section, followed by 3 washings and RMS. The second labeling was for proteins by placing $1 5 0 \\mu \\mathrm { l }$ of NHS working solution followed by incubation for $1 5 \\mathrm { { m i n } }$ at RT at $5 0 0 \\mathrm { r p m }$ . Washing for 3 times and RMS. Third labeling was for DNA by placing DAPI working solution in chemoporated samples, followed by $3 0 \\mathrm { { m i n } }$ incubation at $5 0 0 \\mathrm { r p m }$ at RT. No washing was performed after this step only centrifugation was done for $1 \\mathrm { { m i n } }$ at $1 9 { , } 0 0 0 g$ at RT and RMS. The last labeling was for lipid fraction by placing $1 5 0 \\mu \\mathrm { l }$ of BODIPY working solution in samples followed by incubation for $1 5 \\mathrm { { m i n } }$ at RT at $5 0 0 \\mathrm { r p m }$ . Washing the nematodes was with M9t followed by centrifugation 4 times with RMS. $\\mathrm { N a B H _ { 4 } }$ and Tris were excluded from quadruplex labeling because this is successive staining and both of those buffers can change the affinity of binding for other dyes. ",
+        "bbox": [
+            514,
+            573,
+            937,
+            783
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.13. Slide preparation ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            796,
+            657,
+            809
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "After finishing the labeling, slides were prepared by pipetting (with cleaved tip which is pre-coated with M9t to prevent the worms from adhering to the tip) $5 \\mu \\mathrm { l }$ of each sample on slide with $2 \\%$ agarose (Agarose, Type I, SIGMA-ALDRICH Co., St. Louis, Missouri, USA). The slides were covered with cover glass. ",
+        "bbox": [
+            514,
+            823,
+            937,
+            889
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.14. Fluorescence quantification ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            902,
+            717,
+            915
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Integrated fluorescence of the slides was quantified using a ",
+        "bbox": [
+            534,
+            929,
+            937,
+            941
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Typhoon scanner (Typhoon FLA 9500) in LF glass plate stage for signal quantification. Between 81 and 111 worms per condition were analyzed. Each slide with approximately 30 nematodes at young adult stage was analyzed with the fluorescence mode of scanning, using parameters (excitation/emission and filter) for Cy3 (protein signal, excitation at $5 3 2 \\mathrm { n m } ,$ ) and Cy5 (carbonyl signal, excitation at $6 3 5 \\mathrm { n m } \\dot { }$ ) detection. Pixel resolution was $1 0 \\mu \\mathrm { m }$ . Both signals were then integrated using IQTL, specific software, in its “colony counting” mode. Integration started with Cy3 protein signal, and continued with Cy5 carbonyl signal, in the same colony as for Cy3. Then the average intensity (intensity normalized by integrated area) of each nematode was considered; the mean and standard deviation was calculated per condition and per replicate. Normalization of 5, 10, 20 and $3 0 \\mathrm { { m i n } }$ UVC samples to control samples (no UVC) was finally calculated to express the induction of carbonyls. The carbonyl signal was also quantified with confocal microscopy. 9 worms per condition were analyzed. ",
+        "bbox": [
+            62,
+            71,
+            485,
+            295
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.15. Confocal microscopy imaging ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            308,
+            280,
+            321
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Images were obtained with a LSM 780 confocal microscope (Carl Zeiss, France) using a $1 0 \\times$ dry N.A. 0.45 and $2 0 \\times$ dry (N.A. 0.80) or $6 3 \\times$ oil immersion objective (N.A. 1.4), with a pinhole setting of 1.31 A.U. and 8 or 12 bits images. ",
+        "bbox": [
+            60,
+            335,
+            484,
+            387
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. Imaging of single labeled samples. ",
+        "bbox": [
+            62,
+            401,
+            285,
+            413
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Cy5 was excited with the red HeNe laser $( 6 3 3 \\mathrm { n m } )$ ), and emitted light was collected between 643 and $6 9 6 \\mathrm { n m }$ . Cy3 was excited with the yellow-green laser $\\left( 5 6 1 \\mathrm { n m } \\right)$ , and emitted light was collected between 554 and $5 8 9 \\mathrm { n m }$ . DAPI and BODIPY were excited with the blue diode laser $\\mathbf { 4 0 5  n m } )$ ), and emitted light was collected between 411 and $6 2 5 \\mathrm { n m }$ . DIC (differential interference contrast) images were collected simultaneously with the fluorescence images using the transmitted light detector. Comparison of control/treated samples was performed using the same conditions of gain, offset and resolution (with a zoom set to 1). ",
+        "bbox": [
+            77,
+            414,
+            484,
+            546
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "2. Imaging of double labeled samples. ",
+        "bbox": [
+            62,
+            547,
+            290,
+            558
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For double labeling with DAPI and SG II (Fig. 4), dyes were excited simultaneously with 2 lasers: $4 0 5 \\mathrm { n m }$ ( $0 . 6 \\%$ power) and $4 8 8 \\mathrm { n m }$ ( $0 . 2 \\%$ power). Images were acquired in channel mode using the filter MBS 405/488. ",
+        "bbox": [
+            77,
+            559,
+            484,
+            611
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For quantitative co-localization (Fig. 5) SG II and $\\mathrm { C y } 5$ , dyes were excited simultaneously with 2 lasers: $4 8 8 \\mathrm { n m }$ $0 . 2 \\%$ power) and $6 3 3 \\mathrm { n m }$ $1 0 \\%$ power). Images were acquired in channel mode using the filter (MBS 488/633). Zoom factor was 3.1 for worms and eggs. Images were taken at objective $6 3 \\times$ for worms and eggs. ",
+        "bbox": [
+            75,
+            612,
+            484,
+            678
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "3. Imaging of multiplex labeled samples. ",
+        "bbox": [
+            65,
+            678,
+            307,
+            691
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For multiplex labeling (Fig. 6) with Cy5 Hz, Cy3 NHS ester, DAPI and BODIPY, dyes were excited simultaneously with 3 lasers: $4 0 5 \\mathrm { n m }$ $2 . 5 \\%$ power), $5 6 1 \\mathrm { n m }$ $0 . 1 8 \\%$ power for worm and $0 . 1 0 \\%$ power for the egg) and $6 3 3 { \\mathrm { n m } }$ $. 1 0 . 0 \\%$ power). Images were acquired in spectral mode (using the filter MBS 405/488/561/ 633), and the signal was collected from 411 to $6 9 6 \\mathrm { n m }$ using a GaSP spectral detector. Zoom factor was 1.1 for the worm and 2.1 for the egg. Images were taken at objective $2 0 \\times$ (for the worm) and $6 3 \\times$ (for the egg). ",
+        "bbox": [
+            77,
+            692,
+            485,
+            809
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "For quantitative co-localization (Fig. 7) dyes were excited simultaneously at objective $6 3 \\times$ with 3 lasers $4 0 5 \\mathrm { n m }$ $1 . 8 \\%$ power), $5 6 1 \\ \\mathrm { n m } \\ ( 0 . 6 \\% )$ and $6 3 3 { \\mathrm { n m } }$ $1 0 . 0 \\%$ power). Images were acquired in spectral mode (using the filter MBS 405/488/561/633), and the signal was collected from 411 to $6 9 6 \\mathrm { n m }$ using a GaSP spectral detector. Zoom factor was 3.1 for worms and eggs. ",
+        "bbox": [
+            77,
+            810,
+            484,
+            889
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Reference emission spectra were recorded for each dye (using their corresponding laser excitation). In addition, a reference spectrum was also recorded on unstained samples for each individual laser excitation (autofluorescence references). A complete set of these reference spectra was recorded for each objective. Spectral separation using these reference spectra was applied on multiplex images with linear un-mixing (with or without using the autoscale function) [38], resulting in 4 separate dye channels and 3 background channels. For quantitative co-localization, linear un-mixing was without autoscale. ",
+        "bbox": [
+            77,
+            890,
+            484,
+            941
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            529,
+            71,
+            937,
+            148
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Images were acquired in 8 bits (channel mode) or 12 bits (channel and spectral mode), and were processed using Zen black software (Zen black 2012 SP2 Version 11.0) and Adobe Photoshop CS2 version 9.0.2 (Adobe systems). For quantitative co-localization 12 bits in a spectral mode was used. ",
+        "bbox": [
+            529,
+            151,
+            937,
+            215
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.16. Statistical analyses ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            230,
+            668,
+            242
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All statistical analyses were performed using the statistical software SPSS version 24 (IBM). Before each analysis, the normality (ShapiroWilk test) and homogeneity of data variance (Levene's test) were tested. This was repeated after data transformation when these assumptions were initially not confirmed (log10-transformation). When these assumptions were met then parametric tests were used. Otherwise nonparametric tests were used. Student's t-test, a parametric test, was used to compare the competetitive assay with and without Tris for protein labeling (Fig. 2 and Fig. S1b) and to compare Pearson's correlation coefficient for co-localization of carbonyls with proteins, DNA, RNA and lipid fraction (Fig. 5b and Fig. 7). Friedman's test was used to assess the relationship between UV-light exposure time and mean fluorescence intensity (Fig. 8b and Fig. S3). When differences were significant $\\left( \\mathbf { p } < 0 . 0 5 \\right)$ , Wilcoxon tests with Bonferroni correction (i.e. resulting in a significant level set at $\\mathbf { p } < 0 . 0 0 5 $ were used to determine where the differences occurred. Following the Friedman tests, when a significant effect of UV-light exposure time on mean fluorescence intensity was found, Spearman's correlations and simple linear regressions were run to further explore the relationship between these two variables. Quantitative analysis of co-localization was done between Cy5 and SYBR Green II (carbonyls and RNA), Cy5 and $\\mathrm { C y 3 }$ (carbonyls and proteins), Cy5 and DAPI (carbonyls and DNA) and Cy5 and Bodipy (carbonyls and lipid fraction). Confocal images were analyzed with the ImageJ software using the JACoP plugin and following the Coste's approach [41]. The Pearson's coefficient was calculated for 15 eggs and 15 worms per condition (Fig. 5b and Fig. 7). ",
+        "bbox": [
+            514,
+            255,
+            937,
+            598
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            612,
+            645,
+            624
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "No benefit of any kind will be received either directly or indirectly by the authors. ",
+        "bbox": [
+            512,
+            639,
+            937,
+            664
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Authors' contribution ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            678,
+            665,
+            691
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mira Kuzmic contributed to the invention of the new experimental design, data acquisition, analysis and interpretation, and the article's writing. ",
+        "bbox": [
+            514,
+            704,
+            936,
+            744
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hélène Javot contributed with her expertise in confocal microscopy to set up the new experimental design imaging, result interpretation and the article's writing. ",
+        "bbox": [
+            514,
+            745,
+            936,
+            783
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Jean-Marc Bonzom performed statistical analysis, associated figures and captions and contributed to article's writing. ",
+        "bbox": [
+            512,
+            784,
+            936,
+            809
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Catherine Lecomte-Pradines contributed to set up the global experimental design, the breeding and maintenance of nematodes with her expertise in C. elegans and to write the article. ",
+        "bbox": [
+            512,
+            810,
+            936,
+            848
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman guided new experiments with his expertise in the growing carbonylation field and contributed to interprete the results, and to write the article. ",
+        "bbox": [
+            512,
+            851,
+            936,
+            889
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Jacqueline Garnier-Laplace contributed to the full set-up of the project, financial support attribution and the collaboration establishment with Miroslav Radman. ",
+        "bbox": [
+            512,
+            890,
+            936,
+            928
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sandrine Frelon contributed to the invention of the new experi",
+        "bbox": [
+            532,
+            929,
+            937,
+            941
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "mental design inside the full project, data acquisition, analysis and interpretation, and the article's writing. ",
+        "bbox": [
+            62,
+            71,
+            484,
+            97
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            110,
+            188,
+            123
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors are thankful to IRSN for financial support and ISATIS team for the help, namely, Ingrid Nosel, Cécile Dubois and Sébastien Pyr Dit Ruys. Also, authors are thankful to Olivier Armant (Institut de Radioprotection et de Sûreté Nucléaire (IRSN), Cadarache) for the support and advices. In addition, authors are thankful to MarieChristine Thibaud, Thierry Desnos and Mohamed Hanchi (CEA Cadarache) for technical support and advices. Finally, authors are thankful to Marko Dolinar (Faculty of Chemistry and Chemical Technology, University of Ljubljana, Slovenia) and Simon Galas (Faculté des Sciences Pharmaceutiques et Biologiques, IBMM CNRS UMR 5247, Montpellier) for the crucial advices and literature. ",
+        "bbox": [
+            62,
+            137,
+            485,
+            281
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Support for the microscopy equipment was provided by the Région Provence Alpes Côte d'Azur, the Conseil General of Bouches du Rhône, the French Ministry of Research, the CNRS and the Commissariat à l'Energie Atomique et aux Energies Alternatives. Fondation Jean-Noël Thorel and Naos support M. Radman and MedILS. M. Kuzmic is on leave of absence from MedILS, Split, Croatia, supported in IRSN by a fellowship. ",
+        "bbox": [
+            62,
+            283,
+            485,
+            374
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supporting information ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            388,
+            321,
+            401
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with this article can be found in the online version at doi:10.1016/j.freeradbiomed.2016.11.004. ",
+        "bbox": [
+            62,
+            414,
+            485,
+            440
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            455,
+            139,
+            466
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] I. Dalle-Donne, et al., Protein carbonyl groups as biomarkers of oxidative stress, Clin Chim. Acta 329 (1–2) (2003) 23–38.   \n[2] K.S. Fritz, D.R. Petersen, Exploring the biology of lipid peroxidation-derived protein carbonylation, Chem. Res. Toxicol. 24 (9) (2011) 1411–1419.   \n[3] S. Afzal, et al., Oxidative damage to guanine nucleosides following combination chemotherapy with 5-fluorouracil and oxaliplatin, Cancer Chemother. Pharmacol. 69 (2) (2012) 301–307.   \n[4] S. Luo, N.B. Wehr, Protein carbonylation: avoiding pitfalls in the 2,4-dinitrophenylhydrazine assay, Redox Rep. 14 (4) (2009) 159–166.   \n[5] V. Vemula, Z. Ni, M. Fedorova, Fluorescence labeling of carbonylated lipids and proteins in cells using coumarin-hydrazide, Redox Biol. 5 (2015) 195–204.   \n[6] T. Nystrom, Role of oxidative carbonylation in protein quality control and senescence, EMBO J. 24 (7) (2005) 1311–1317.   \n[7] A. Krisko, M. Radman, Protein damage and death by radiation in Escherichia coli and Deinococcus radiodurans, Proc. Natl. Acad. Sci. USA 107 (32) (2010) 14373–14377.   \n[8] H.E. Poulsen, et al., RNA modifications by oxidation: a novel disease mechanism?, Free Radic. Biol. Med. 52 (8) (2012) 1353–1361.   \n[9] A. Dasgupta, J. Zheng, O.A. Bizzozero, Protein carbonylation and aggregation precede neuronal apoptosis induced by partial glutathione depletion, ASN Neuro 4 (3) (2012).   \n[10] K. Mukherjee, et al., Detection of oxidative stress-induced carbonylation in live mammalian cells, Free Radic. Biol. Med. 84 (2015) 11–21.   \n[11] B.S. Berlett, E.R. Stadtman, Protein oxidation in aging, disease, and oxidative stress, J. Biol. Chem. 272 (33) (1997) 20313–20316.   \n[12] I. Dalle-Donne, et al., Protein carbonylation in human diseases, Trends Mol. Med. 9 (4) (2003) 169–176.   \n[13] E.R. Stadtman, et al., Implication of protein oxidation in protein turnover, aging, and oxygen toxicity, Basic Life Sci. 49 (1988) 331–339.   \n[14] E.R. Stadtman, Protein oxidation and aging, Science 257 (5074) (1992) 1220–1224.   \n[15] R.L. Levine, et al., Determination of carbonyl content in oxidatively modified proteins, Methods Enzymol. 186 (1990) 464–478.   \n[16] H. Buss, et al., Protein carbonyl measurement by a sensitive ELISA method, Free Radic. Biol. Med. 23 (3) (1997) 361–366.   \n[17] R.J. Keller, et al., Immunochemical detection of oxidized proteins, Chem. Res. Toxicol. 6 (4) (1993) 430–433.   \n[18] I. Dalle-Donne, et al., Protein carbonylation: 2,4-dinitrophenylhydrazine reacts with both aldehydes/ketones and sulfenic acids, Free Radic. Biol. Med. 46 (10) (2009) 1411–1419.   \n[19] J.G. Mohanty, et al., A fluorimetric semi-microplate format assay of protein carbonyls in blood plasma, Anal. Biochem. 400 (2) (2010) 289–294.   \n[20] J. Tamarit, et al., Analysis of oxidative stress-induced protein carbonylation using fluorescent hydrazides, J. Proteom. 75 (12) (2012) 3778–3788.   \n[21] M. Baraibar, R. Ladouce, B. Friguet, Oxi-DIGE: A novel proteomic approach for detecting and quantifying carbonylated proteins, Free Radic. Biol. Med. 75 (Suppl 1) (2014) S23.   \n[22] E. Augustyniak, et al., Validation of protein carbonyl measurement: a multi-centre study, Redox. Biol. 4 (2015) 149–157.   \n[23] F. Bosshard, et al., Protein oxidation and aggregation in UVA-irradiated Escherichia coli cells as signs of accelerated cellular senescence, Environ. Microbiol. 12 (11) (2010) 2931–2945.   \n[24] E. Maisonneuve, et al., Carbonylated proteins are detectable only in a degradationresistant aggregate state in Escherichia coli, J. Bacteriol. 190 (20) (2008) 6609–6614.   \n[25] A. Dasgupta, et al., Increased carbonylation, protein aggregation and apoptosis in the spinal cord of mice with experimental autoimmune encephalomyelitis, ASN Neuro 5 (1) (2013) e00111.   \n[26] Pyr Dit Ruys, S., J.M. Bonzom, S. Frelon, Benchmarking of protein carbonylation analysis in Caenorhabditis elegans: specific considerations and general advice, Free Radic. Biol. Med. 99 (2016) 364–373.   \n[27] Z. Zhang, et al., High urea and NaCl carbonylate proteins in renal cells in culture and in vivo, and high urea causes 8-oxoguanine lesions in their DNA, Proc. Natl. Acad. Sci. USA 101 (25) (2004) 9491–9496.   \n[28] A. Oberbach, et al., Free fatty acid palmitate impairs the vitality and function of cultured human bladder smooth muscle cells, PLoS One 7 (7) (2012) e41026.   \n[29] G. Colombo, et al., Oxidative damage in human gingival fibroblasts exposed to cigarette smoke, Free Radic. Biol. Med. 52 (9) (2012) 1584–1596.   \n[30] R.C. Lazarus, et al., Protein carbonylation after traumatic brain injury: cell specificity, regional susceptibility, and gender differences, Free Radic. Biol. Med. 78 (2015) 89–100.   \n[31] J. Goudeau, H. Aguilaniu, Carbonylated proteins are eliminated during reproduction in C. elegans, Aging Cell 9 (6) (2010) 991–1003.   \n[32] M. Possanzini, et al., Determination of low boiling aldehydes in air and exhaust gases by using annular denuders combined with HPLC techniques, Chromatographia 23 (11) (1987) 829–834.   \n[33] R. Kinder, C. Ziegler, J.M. Wessels, Gamma-irradiation and UV-C light-induced lipid peroxidation: a Fourier transform-infrared absorption spectroscopic study, Int. J. Radiat. Biol. 71 (5) (1997) 561–571.   \n[34] R.P. Rastogi, et al., Molecular mechanisms of ultraviolet radiation-induced DNA damage and repair, J. Nucleic Acids 2010 (2010) 592980.   \n[35] E.C. Pino, et al., Biochemical and high throughput microscopic assessment of fat mass in Caenorhabditis elegans, J. Vis. Exp. (73) (2013).   \n[36] C. Saint-Ruf, et al., Reliable detection of dead microbial cells by using fluorescent hydrazides, Appl. Environ. Microbiol. 76 (5) (2010) 1674–1678.   \n[37] E.J. O'Rourke, et al., C. elegans major fats are stored in vesicles distinct from lysosome-related organelles, Cell Metab. 10 (5) (2009) 430–435.   \n[38] T. Zimmermann, Spectral imaging and linear unmixing in light microscopy, Adv. Biochem. Eng. Biotechnol. 95 (2005) 245–265.   \n[39] J. Kapuscinski, B. Skoczylas, Fluorescent complexes of DNA with DAPI 4',6- diamidine-2-phenyl indole.2HCl or DCI 4',6-dicarboxyamide-2-phenyl indole, Nucleic Acids Res. 5 (10) (1978) 3775–3799.   \n[40] P.J. Rochette, et al., Pyrimidine (6-4) pyrimidone photoproduct mapping after sublethal UVC doses: nucleotide resolution using terminal transferase-dependent PCR, Photochem. Photobiol. 82 (5) (2006) 1370–1376.   \n[41] S. Bolte, F.P. Cordelieres, A guided tour into subcellular colocalization analysis in light microscopy, J. Microsc. 224 (Pt 3) (2006) 213–232.   \n[42] F.A. Martin, et al., Hepatocellular carcinoma protein carbonylation in virus C and metabolic syndrome patients, Free Radic. Biol. Med. 75 (Suppl 1) (2014) S40.   \n[43] E. Barreiro, S.N. Hussain, Protein carbonylation in skeletal muscles: impact on function, Antioxid. Redox Signal. 12 (3) (2010) 417–429.   \n[44] M. Radman, Protein damage, radiation sensitivity and aging, DNA Repair 44 (2016) 186–192.   \n[45] T. Stiernagle, Maintenance of C. elegans, WormBook (2006) 1–11.   \n[46] M. Klapper, et al., Fluorescence-based fixative and vital staining of lipid droplets in Caenorhabditis elegans reveal fat stores using microscopy and flow cytometry approaches, J. Lipid Res. 52 (6) (2011) 1281–1293.   \n[47] L.V. Mannack, S. Eising, A. Rentmeister, Current techniques for visualizing RNA in cells, F1000Res. (2016) 5.   \n[48] S. Hekimi, A neuron-specific antigen in C. elegans allows visualization of the entire nervous system, Neuron 4 (6) (1990) 855–865.   \n[49] K. Ly, S.J. Reid, R.G. Snell, Rapid RNA analysis of individual Caenorhabditis elegans, MethodsX 2 (2015) 59–63.   \n[50] A. Krisko, M. Radman, Phenotypic and genetic consequences of protein damage, PLoS Genet. 9 (9) (2013) e1003810.   \n[51] A. Krisko, et al., Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers, Proc. Natl. Acad. Sci. USA 109 (7) (2012) 2354–2357.   \n[52] A. Margerit, et al., Nested interactions in the combined toxicity of uranium and cadmium to the nematode Caenorhabditis elegans, Ecotoxicol. Environ. Saf. 118 (2015) 139–148.   \n[53] B. Goussen, et al., Consequences of a multi-generation exposure to uranium on Caenorhabditis elegans life parameters and sensitivity, Ecotoxicology 22 (5) (2013) 869–878. ",
+        "bbox": [
+            63,
+            482,
+            485,
+            905
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            44,
+            939,
+            889
+        ],
+        "page_idx": 9
+    }
+]

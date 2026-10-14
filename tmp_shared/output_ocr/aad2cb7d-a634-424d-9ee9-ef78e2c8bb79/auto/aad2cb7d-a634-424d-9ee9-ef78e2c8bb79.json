@@ -1,0 +1,418 @@
+[
+    {
+        "type": "text",
+        "text": "Evolution-driving genes ",
+        "text_level": 1,
+        "bbox": [
+            332,
+            138,
+            601,
+            160
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman\\*, François Taddei, Ivan Matic ",
+        "bbox": [
+            244,
+            188,
+            687,
+            206
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Faculté de médecine Necker-Enfants malades, Inserm E9916, université Paris-V, 156, rue de Vaugirard, 75730 Paris cedex 15, France ",
+        "bbox": [
+            137,
+            216,
+            793,
+            243
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract — Genomic sequences provide evidence for a common origin of life and its evolution via selection of genetic variants created by mutation and recombination. Two classes of genes are known to accelerate mutation and/or recombination rates in bacterial populations: stress-inducible wild-type genes, usually part of the SOS regulon, and genes whose functional loss, or downregulation, increases the rate of genetic variability (mutator and/or hyper-rec mutants). $©$ 2000 Éditions scientifiques et médicales Elsevier SAS ",
+        "bbox": [
+            50,
+            265,
+            886,
+            341
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "evolution / genomic sequence / mutation / recombination ",
+        "bbox": [
+            51,
+            350,
+            508,
+            364
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            51,
+            388,
+            191,
+            405
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evolution, the fundamental strategy of life, is an interplay of genetic variation and phenotypic selection. Darwin paid much attention to the variability of living creatures, but, at that time, he took as given that all the variability was already there, contained in the natural populations of huge numbers of species [3]. Moreover, according to Evelyn Keller Fox (pers. comm.), nowhere did he make comments regarding the origin of the remarkable stability of species with their specific traits observed in the succession of very large numbers of generations. Much later, neodarwinians and molecular biologists concentrated on genetic stability and its mechanisms [6]. As a result, one widely held dogma has emerged, i.e. that mutation is an unavoidable consequence of imperfections in the processes of DNA replication and repair. But if diversity is essential to survival, and if mutagenesis is required to generate such diversity, perhaps mutagenesis has been positively selected throughout evolution [15]. ",
+        "bbox": [
+            51,
+            418,
+            453,
+            775
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Research on parasites such as viruses and bacteria clearly showed that mutations are almost constantly rate-limiting to their survival and adaptation because they face attacks by ever-changing antibodies, secondary environments and, more recently, man-made pharmaceutical drugs. This research provided a great deal of surprise when it became evident that even cellular organisms such as bacteria use several strategies to increase mutation rates when encountering life-threatening environments. It is this kind of research that will be briefly reviewed in this essay. ",
+        "bbox": [
+            50,
+            776,
+            451,
+            807
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            481,
+            388,
+            884,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Selection for increased mutation rates: genetic mutators ",
+        "text_level": 1,
+        "bbox": [
+            481,
+            594,
+            868,
+            626
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well known that most newly arising mutations either have no effect or are harmful, whereas only rare specific mutations are favorable during adaptation under particular selective conditions. The ratio of deleterious to favorable mutations in random mutagenesis may be as high as four to five orders of magnitude [22]. It came as a surprise that high mutation rates are favored during adaptation in spite of the high cost incurred by the generation of numerous deleterious mutations [19, 22]. It does not, however, come as a surprise that when adaptation is achieved, low mutation rates are favored [7, 24]. Theory [14], modeling by computer simulations [22, 23] and experiments (for a review, see [17, 19, 21]) have demonstrated the plausibility of this paradigm. Because it is possible to select, in the laboratory, bacterial mutants with increased fidelity of protein or DNA biosynthesis ([5], and references therein), it is clear that there was no durable selective pressure in nature for maximal fidelity. It will become apparent that selection for genetic fidelity is balanced by selection for efficiency. All approaches hint at trade-offs between the cost and benefit of mutations in the course of adaptive evolution. High mutation rates are costly, but when this is the only way to buy survival, then such cost is paid for: successive selections for specific adaptive mutations will consistently lead to the second-order selection of mutator mutants [10, 22, 23]. ",
+        "bbox": [
+            481,
+            637,
+            882,
+            883
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            89,
+            99,
+            491,
+            376
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In competition between the wild-type and mutators under laboratory conditions, mutators always win if present in comparable numbers at the outset, but they lose when their population size is small compared with that of nonmutators (for a review, see [17] and A. Giraud, M. Fons, M. Radman, F. Taddei and I. Matic, unpublished data). This means that they win indirectly, by creating other mutations which are directly beneficial (adaptive mutations). This evolutionary behavior of indirect or second-order selection has been modeled whereby the key parameters of bacterial adaptive evolution have been described [22, 23]. Long-term bacterial cultures in the laboratory are in agreement with the theory [19]: mutator mutants inevitably arise in bacterial cultures, some of which are ‘lucky’ enough to acquire an adaptive (faster growing) mutation before debilitating themselves by the more frequent deleterious mutations. Lucky mutants will divide and become sufficiently numerous to make it unlikely that all of them would debilitate themselves quasi-simultaneously by newly arising deleterious mutations. These lucky mutants bearing both mutator and adaptive alleles will overgrow the nonadapted wild-type population and take over the whole culture. If the mutator mutation is due to a nonrevertible deletion mutation, then this culture growing isolated in a test tube will remain a mutator for years, practically forever [19]. However, if this successful mutator culture grows in nature, a possible scenario is that it will enjoy sex (DNA exchange) with members of a similar bacterial culture and acquire back the functional mut gene. This adapted nonmutator will now overgrow the adapted mutator (and nonadapted wild type) for it does not suffer the mutation load. The same will occur with a reversible mut mutation: a rare back-mutation to nonmutator phenotype will give it selective advantage. If an extragenic suppression is possible, it eventually will occur and overgrow the mutator [24]. Alternatively, the adaptive mutation may be transferred from the mutator to a nonmutator and enjoy the benefit of a stable genome. ",
+        "bbox": [
+            89,
+            379,
+            491,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            99,
+            922,
+            359
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Last but not least, genetic barriers between related bacterial species are almost eliminated in mismatch-repair-deficient mutants owing to the loss of editing of genetic recombination [18, 25]. Thus, mutator genes mutS and mutL may have been instrumental in the divergent evolution of bacteria [11]. They are also by far the most frequent mutators found in natural populations [9, 12]. Incidentally, the facility in mutS or mutL bacteria for recombining ‘homeologous’ genes from different species, and even crossing the entire genomes of related microbes, offers a formidable opportunity for instant evolution of new mosaic genes and new mosaic species which could be a source of novel enzymatic activities and new metabolites for applications in biotechnology and medical therapy [16]. ",
+        "bbox": [
+            520,
+            360,
+            922,
+            637
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Cutting down the cost of mutation: hypermutable sequences ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            661,
+            877,
+            694
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How could one cut the cost of adaptive mutagenesis? There are several obvious strategies. The least costly is to make only ‘smart’, adaptive mutations and avoid deleterious mutations. Another strategy is to cut down the cost of permanent high mutation rates by mutating only when under selective pressure. The first strategy can be found in the immune system. Antibody producing lymphocytes mutate their hypervariable gene regions up to a million-fold more frequently than the rest of the genome [26]. Similarly, bacteria use much simpler tricks to target mutations to some specific genes, so-called contingency genes [13], that are under strong selective pressure. Contingency genes are typically genes encoding the bacterial surface antigens and the restriction/modification systems. The reason for hypermutability of microsatellites (simple runs of one to six base motifs) is that all known DNA polymerases skip, or add, one or a few motifs when copying such sequences. This polymerase slippage error is up to $1 0 ^ { 4 }$ times more likely than a base substitution error but it is very effectively corrected by the mismatch repair system [4]. Thus, in wild-type cells, but much more so in mismatch-repair-deficient mutators, such microsatellite sequences will make genes highly susceptible to frameshift mutagenesis. ",
+        "bbox": [
+            520,
+            705,
+            922,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            51,
+            99,
+            453,
+            392
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Cutting down the cost of mutation: inducible mutators ",
+        "text_level": 1,
+        "bbox": [
+            50,
+            415,
+            406,
+            448
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Another cost-reducing strategy makes use of inducible mutator systems. Such mutator activities are turned on only under strong selective pressure. The SOS response in bacteria is the paradigmal inducible mutator system (for a review, see [6, 15]) which turns on otherwise repressed wild-type mutator genes (umuC, umuD and dinB) and upregulates a number of recombination genes (e.g. recA, recN, recQ, ruvA, ruvB) when bacteria undergo a genotoxic or a metabolic stress [6, 20]. These bacteria mutate at increased rates only under such selective pressure; as soon as growth conditions are restored (either by genetic adaptation or by a favorable environmental change), the mutator and hyperrecombination activities are repressed by the LexA repressor. ",
+        "bbox": [
+            51,
+            460,
+            453,
+            737
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ultimate validation of the SOS hypothesis came in 1999 with the identification of several enzymes clearly designed to produce mutations. These enzymes, which we now call DNA mutases, all belong to a special group of DNA polymerases (for a review, see [15]). ",
+        "bbox": [
+            50,
+            738,
+            453,
+            835
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There seem to be several varieties of DNA mutases, including Escherichia coli UmuCD’ (DNA polymerase V) and DinB (DNA polymerase IV) proteins, and the yeast REV1, REV3/7 (DNA polymerase zeta) and RAD30 (DNA polymerase eta) (for a review, see [15]). A human version of RAD30 is mutated in Xeroderma pigmentosum ‘variant’ hereditary predisposition to sunlight-induced cancers. Bacterial DNA polymerse V (and eucaryotic DNA polymerases zeta and eta) can copy damaged DNA, allowing it to be replicated and the cell to survive. In contrast, DNA polymerase IV appears to act on undamaged DNA, producing apparently ‘gratuitous’ mutations. ",
+        "bbox": [
+            50,
+            836,
+            453,
+            884
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            481,
+            99,
+            884,
+            294
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The role of DNA polymerase IV (DinB) in mutagenesis of the bacterial genome is still not clear. The only known effect of dinB mutants is a reduction in viral mutagenesis normally observed when a virus infects a bacterial host in which the SOS response has been induced (‘untargeted mutagenesis’) (for a review, see [15]). Because untargeted mutations appear initially as genuine mispaired or unpaired bases, DNA polymerase IV is now the leading candidate for a genome-wide DNA mutase acting under a variety of metabolic stresses [20]. ",
+        "bbox": [
+            481,
+            295,
+            882,
+            490
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Several inducible mutator systems have been discovered among laboratory strains and natural isolates. One is the adaptive mutagenesis [1], a system that requires homologous recombination and may often, perhaps always, involve a transient gene amplification step [2]. Our laboratory has identified another inducible mutator system, ROSE (resting organisms in structured environments) mutagenesis, that occurs only in colonies (not in liquid cultures) and involves composite control by two complex regulons: the SOS system and the catabolite repression system [20]. This is the first instance of metabolic signaling (via the second messenger cyclic AMP) for genetic change. ",
+        "bbox": [
+            481,
+            490,
+            882,
+            735
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. Mutation and recombination in adaptive evolution ",
+        "text_level": 1,
+        "bbox": [
+            481,
+            759,
+            777,
+            792
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Random mutation produces new alleles whereas genetic recombination produces new combinations of pre-existing alleles. This property of genetic recombination improves the effectiveness of mutagenesis because it allows for sorting of adaptive from deleterious mutations [14]. Most newly produced point mutations are either deleterious or neutral; very few are selectively advantageous, i.e. adaptive. This is because mutations are not targeted to the gene under selective pressure. Thus, in order to produce a new adaptive mutation unaccompanied by an excess of deleterious mutations in the same cell, two scenarios can be envisaged: i) a low mutation rate in a very large population; or ii) a high mutation rate (in a limited size population) with coincident intense recombination among the mutated genomes, thereby permitting the rare adaptive mutation to become separated from frequent deleterious mutations with a finite probability (mutation sorting). This effect of recombination, along with another very important effect which is the association of different favorable mutations in the same genome, may account for the general mosaic structure of bacterial genomes. The mosaicism results from horizontal transfer of chromosomal sequences between closely related but divergent species [8]. In vivo gene duplications are likely to have evolved towards new activities by similar mutation plus recombination mechanisms. Indeed, molecular phylogenies support the scenario of ‘vertical’ diversification of gene sequences accompanied by ‘horizontal’ sequence transfer creating incongruities within phylogenetic DNA sequence trees [8]. ",
+        "bbox": [
+            481,
+            802,
+            884,
+            884
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            89,
+            100,
+            491,
+            603
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Comparing different strategies for accelerating evolution ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            627,
+            403,
+            661
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Given this interpretation of different strategies for accelerated adaptive evolution, it is puzzling that there is a small percentage of rather strong genetic mutators among natural isolates of enterobacteria from all over the world and from most diverse environments [9, 12]. Why have bacteria been tricked into the costly strategy of second-order selection of strong genetic mutators? It may be, however, that the ‘smart’ systems of hypermutable genes and inducible mutators are not that smart. For instance, the hypermutable genes are useful only for adaptation to a single specific and recurrent selective pressure, e.g. the immune system. Although the inducible mutator systems act on the entire genome, they will not be producing diversity during the periods of ‘easy life’. Therefore, when harsh selective pressure hits an isolated small population, the inducible mutators may not have had time to produce adaptive mutations because all bacteria will be instantly killed. Strong genetic mutators are particularly favored when adaptation requires several genomic mutations, which may be the case of most adaptations to complex environmental changes. ",
+        "bbox": [
+            89,
+            673,
+            491,
+            884
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            520,
+            99,
+            922,
+            311
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hence, we may consider genetic mutators as genetic altruists: they pay a high cost (due to accumulation of deleterious mutations) in order to provide the population with mutations that can save life under new and highly diverse selective pressures. Putting this in such anthropomorphic terms does not mean that bacteria did not evolve such strategies. Ongoing research in our laboratory, both of a modeling and experimental nature, already shows some compelling evidence that genes which have evolved in the mutationally damaged genomes of strong mutators can be rescued, via sexual reproduction and recombination, and used to help adaptation of bacterial populations. Sexual reproduction also appears to promote the switching from a mutator to a nonmutator state, which is favorable for genomes that have already acquired the beneficial mutation. The more frequent the sexual reproduction and recombination, and the stronger the selective pressure for genomes that have undergone recombination (see above), the higher will be the degree of genomic mosaicism (seen as an incongruity between phylogenies of different genes residing in the same genome). ",
+        "bbox": [
+            520,
+            318,
+            922,
+            741
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            794,
+            698,
+            811
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work is supported by Inserm and grants from A.R.C. Villejuif and Ligue Nationale Française contre le cancer. ",
+        "bbox": [
+            520,
+            837,
+            922,
+            883
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            51,
+            99,
+            155,
+            116
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Andersson D.I., Slechta E.S., Roth J.R., Evidence that gene amplification underlies adaptive mutability of the bacterial lac operon, Science 282 (1998) 1133–1135.   \n[2] Cairns J., Overbaugh J., Miller S., The origins of mutants, Nature 335 (1988) 142–145.   \n[3] Darwin C., On the Origin of Species, John Murray, London, 1859.   \n[4] Dohet C., Wagner R., Radman M., Methyl-directed repair of frameshift mutations in heteroduplex DNA, Proc. Natl. Acad. Sci. USA 83 (1986) 3395–3397.   \n[5] Fijalkowska I., Dunn R.L., Schaaper R.M., Mutants of Escherichia coli with increased fidelity of DNA replication, Genetics 134 (1993) 1023–1030.   \n[6] Friedberg E.C., Walker G.C., Siede W., DNA Repair and Mutagenesis, ASM Press, Washington, D.C., 1995.   \n[7] Fowler R.G., Schaaper R.M., The role of mutT gene of E. coli in maintaining replication fidelity, FEMS Microbiol. Rev. 21 (1997) 43–54.   \n[8] Lawrence J.G., Ochman H., Molecular archaeology of the Escherichia coli genome, Proc. Natl. Acad. Sci. USA 95 (1998) 9413–9417   \n[9] Leclerc J.E., Li B., Payne W.L., Cebula T.A., High mutation frequencies among Escherichia coli and Salmonella pathogens, Science 274 (1996) 1208–1211.   \n[10] Mao E.F., Lane L., Lee J., Miller J.H., Proliferation of mutators in a cell population, J. Bacteriol. 179 (1997) 417–422.   \n[11] Matic I., Rayssiguier C., Radman M., Interspecies gene exchange in bacteria: The role of SOS and mismatch repair systems in evolution of species, Cell 80 (1995) 507–515.   \n[12] Matic I. et al., Highly variable mutation rates in commensal and pathogenic E. coli, Science 277 (1997) 1833–1834.   \n[13] Field D., Magnasco M.O., Moxon E.R., Metzgar D., Tanaka M.M., Wills C., Thaler D.S., Contingency loci, mutator alleles, and their interactions. Synergisticstrategies for microbial evolution and adaptation in pathogenesis, Ann. N. Y. Acad. Sci. 870 (1999) 378–382.   \n[14] Peck J.R., A ruby in the rubbish: beneficial mutations, deleterious mutations and the evolution of sex, Genetics 137 (1994) 597–606.   \n[15] Radman M., Mutation: Enzymes of evolutionary change, Nature 401 (1999) 866–869.   \n[16] Radman M., Wagner R., DNA mismatch repair systems: Mechanisms and applications in biotechnology, in: Tomms M.P. (Eds.), Biotechnology and Genetic Engineering Reviews, Vol. 11, Intercept, Andover, 1993, pp. 357–366.   \n[17] Radman M., Matic I., Taddei F., Evolution of evolvability, Ann. N. Y. Acad. Sci. 870 (1999) 146–155.   \n[18] Rayssiguier C., Thaler D.S., Radman M., The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants, Nature 342 (1989) 396–401.   \n[19] Sniegowski P.D., Gerrish P.J., Lenski R.E., Evolution of high mutation rates in experimental populations of E. coli, Nature 387 (1997) 703–705.   \n[20] Taddei F., Matic I., Radman M., Cyclic AMP-dependent SOS induction and mutagenesis in resting bacterial populations, Proc. Natl. Acad. Sci. USA 92 (1995) 11736–11740.   \n[21] Taddei F., Matic I., Godelle B., Radman M., To be a mutator, or how pathogenic and commensal bacteria can evolve rapidly, Trends Microbiol. 5 (1997) 427–428.   \n[22] Taddei F. et al., Role of mutators in adaptive evolution, Nature 387 (1997) 700–702.   \n[23] Tenaillon O., Toupance B., LeNagard H., Taddei F., Godelle B., Mutators, population size, adaptive landscape and the adaptation of asexual population of bacteria, Genetics 152 (1999) 485–493.   \n[24] Tröbner W., Piechocki R., Selection against hypermutability in Escherichia coli during long term evolution, Mol. Gen. Genet. 198 (1984) 177–178.   \n[25] Vulic M., Dionisio F., Taddei F., Radman M., Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria, Proc. Natl. Acad. Sci. USA 94 (1997) 9763–9767.   \n[26] Weill J.C., Reynaud C.A., Rearrangement/hypermutation/gene conversion: when, where and why, Immunol. Today 17 (1996) 92–97. ",
+        "bbox": [
+            55,
+            130,
+            453,
+            518
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            481,
+            99,
+            884,
+            518
+        ],
+        "page_idx": 4
+    }
+]

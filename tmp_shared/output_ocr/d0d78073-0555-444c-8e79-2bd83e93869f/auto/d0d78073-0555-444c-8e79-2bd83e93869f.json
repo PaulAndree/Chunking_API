@@ -1,0 +1,2841 @@
+[
+    {
+        "type": "text",
+        "text": "MoR: Better Handling Diverse Queries with a Mixture of Sparse, Dense, and Human Retrievers ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            90,
+            783,
+            129
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jushaan Kalra† 1\\* Xinran Zhao†1 To Eun ${ \\bf K i m } ^ { 1 }$ Fengyu Cai2 Fernando Diaz1 Tongshuang Wu1 1Carnegie Mellon University, 2Technical University of Darmstadt ",
+        "bbox": [
+            223,
+            156,
+            779,
+            208
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            263,
+            261,
+            339,
+            277
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Retrieval-augmented Generation (RAG) is powerful, but its effectiveness hinges on which retrievers we use and how. Different retrievers offer distinct, often complementary signals: BM25 captures lexical matches; dense retrievers, semantic similarity. Yet in practice, we typically fix a single retriever based on heuristics, which fails to generalize across diverse information needs. Can we dynamically select and integrate multiple retrievers for each individual query, without the need for manual selection? In our work, we validate this intuition with quantitative analysis and introduce a mixture of retrievers: a zero-shot, weighted combination of heterogeneous retrievers. Extensive experiments show that such mixtures are effective and efficient: Despite totaling just 0.8B parameters, this mixture outperforms every individual retriever and even larger 7B models—by $+ 1 0 . 8 \\%$ and $+ 3 . 9 \\%$ on average, respectively. Further analysis also shows that this mixture framework can help incorporate specialized non-oracle human information sources as retrievers to achieve good collaboration, with a $5 8 . 9 \\%$ relative performance improvement over simulated humans alone. ",
+        "bbox": [
+            146,
+            286,
+            458,
+            653
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            663,
+            257,
+            678
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although Retrieval Augmented Generation (RAG) (Lewis et al., 2020) has been shown to improve the reliability and reduce the hallucination of large language models (LLMs), no single retriever is optimal for all queries. For example, in encyclopedic question answering tasks such as Natural Questions (Kwiatkowski et al., 2019), embeddingbased retrievers like DPR (Karpukhin et al., 2020b) often outperform token-based approaches like BM25 (Robertson and Zaragoza, 2009). In contrast, in specialized domains such as medicine and biology, token-based approaches remain a strong baselines (Thakur et al., 2021). Because retrieval effectiveness can vary significantly across domains and even across queries, finding a universally optimal retriever remains an open problem, highlighting the importance of understanding query-level comparative advantages among retrievers, rather than relying solely on aggregate performance. As a result, to accommodate real-world applications with diverse query types (Sawarkar et al., 2024), a core challenge is to select appropriate retrievers and combine their content. ",
+        "bbox": [
+            117,
+            688,
+            487,
+            864
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            262,
+            882,
+            453
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In this work, we propose a solution in the form of Mixture-of-Retrievers (MoR) framework. Inspired by the Mixture-of-Experts architecture (Jacobs et al., 1991; Shazeer et al., 2017), MoR dynamically selects and combines retrievers for each query by leveraging signals collected both before and after retrieval, eliminating the need for manual retriever selection. Specifically, as shown in Figure 1, MoR adopts a multi-granularity retrieval strategy (Chen et al., 2023b) to expand the pool of retrievers and exploit their complementary strengths operating on different semantic units. Based on work from aggregated search (Arguello and Diaz, 2013), we consider retriever-trustworthiness signals at different stages: (i) pre-retrieval signals, where we extend the notion of model familiarity from the when-to-retrieve literature (Mallen et al. 2023; Zhao et al., 2023) to the retriever-level, and (ii) post-retrieval signals, where we design signals akin to query performance prediction (Diaz, 2007; Long and Chang, 2014; Roitman, 2017; Arabzadeh et al., 2024). Using these signals, we compute perquery, per-retriever weights subsequently used to adjust the relevance scores, enabling effective reranking of the aggregated retrieval results from the entire pool of retrievers. ",
+        "bbox": [
+            512,
+            456,
+            882,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We conduct extensive experiments on four complex scientific domain retrieval tasks featuring diverse queries (Boteva et al., 2016; Cohan et al., ",
+        "bbox": [
+            512,
+            875,
+            884,
+            921
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/40bd37fd22068aa24c0dc177d94bb64a96b7a4e2c12d3a355987704a725b840c.jpg",
+        "image_caption": [
+            "Figure 1: We demonstrate Mixture of Retrievers (MoR), which handles diverse queries—such as keyword-based, general, and factual questions—by combining multiple retrievers: BM25, DPR, and SimCSE. MoR assigns trustworthiness weights to each retriever in a zero-shot manner, then aggregates and re-ranks document scores acros databases of varying granularity to produce the final output. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            117,
+            83,
+            878,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2020; Wadden et al., 2020; Welbl et al., 2017). Our results show that variants of MoR outperform individual retrievers, including the state-of-the-art GritLM (Muennighoff et al., 2024) in both retrieval and RAG tasks. This shows that MoR determines the strengths and weaknesses of different retrievers and effectively automates retriever selection. ",
+        "bbox": [
+            115,
+            353,
+            485,
+            463
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Notably, our further analysis demonstrates that the mixture and fusion strategy generalizes across a wide range of retriever types, including tokenbased, embedding-based, and even \"human retrievers\", where humans provide noisy but useful information in response to queries. This highlights the potential of human-LLM collaboration in knowledge-intensive tasks, achieving on average $1 . 4 \\times$ performance of MoR alone and a $+ 5 8 . 9 \\%$ relative gain over purely simulated human responses. ",
+        "bbox": [
+            115,
+            466,
+            487,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In summary, our main contributions are: ",
+        "bbox": [
+            129,
+            627,
+            431,
+            642
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We identify the query-level comparative advantages and propose the MoR architecture to improve retrieval performance with folk wisdom. − We design a zero-shot method to construct MoR with multi-granularity deep fusion, pre-retrieval signals, and post-retrieval performance prediction, which achieves improved performance and robustness over existing retrievers. Further analysis on simulated noisy human experts shows MoR can potentially help estimate human retriever trustworthiness from a give corpus, and improve the human-LLM collaboration on knowledge-intensive tasks. ",
+        "bbox": [
+            115,
+            642,
+            489,
+            851
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Related Work ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            864,
+            267,
+            879
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Adaptive treatment in RAG. Recent advancements in RAG have increasingly adopted to apply diverse strategies to enhance adaptability across diverse tasks. Sawarkar et al. (2024) seek to combine lexical and semantic retrievers via designing fixed query types. In parallel, various studies have investigated adaptive query treatment mechanisms for differen purposes, including identifying relevant knowledge sources (Guerraoui et al., 2025; Lee et al., 2024), adapting retrieval strategies based on query complexity (Mallen et al., 2023; Zhao et al., 2023; Jeong et al., 2024), optimizing retrieval cost-effectiveness (Mu et al., 2024), supporting multimodal tasks (Yeo et al., 2025) and ranking retrievers through learning (Kim and Diaz, 2025). Instead of choosing fixed specific retrievers, our work dynamically utilizes the information from all retrievers to combine their complementary advantages. ",
+        "bbox": [
+            115,
+            890,
+            487,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            353,
+            882,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Distributed Information Retrieval. Advances in the adaptive RAG systems are deeply rooted in foundational research in information retrieval (IR), particularly the field of distributed information retrieval. Concepts such as resource selection (Dai et al., 2017; Khramtsova et al., 2023), distributed and federated search (Callan et al., 1995; Callan, 2002; Diaz et al., 2010), meta-search (Glover et al., 1999; Chen et al., 2001), and query performance prediction (Diaz, 2007; Long and Chang, 2014; Roitman, 2017; Singh et al., 2023; Arabzadeh et al., 2024) for determining where to search are directly relevant to the modern multi-retriever set up in RAG systems. Similarly, ideas from aggregated search (Arguello et al., 2017), and rank fusion techniques (Cormack et al., 2009) have informed how retrieval signals should be combined across multiple sources, highlighting the deep connections between routing in RAG architectures and traditional IR research. In our work, we study how the semantics of dense retriever representation space serve as a strong zero-shot signal to combine information from multiple sources. ",
+        "bbox": [
+            512,
+            632,
+            882,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            85,
+            487,
+            164
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 Any folk wisdom among retrievers? ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            178,
+            453,
+            193
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Following existing practice (Ngo et al., 2022; Wang et al., 2023), we first quantitatively validate our assumption that retrievers have varying strengths, and establish the potential of mixturing through simple query routing. ",
+        "bbox": [
+            115,
+            204,
+            487,
+            284
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Preliminary ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            296,
+            253,
+            311
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The task of retrieval. We consider a set of retrievers $L _ { \\mathcal { R } }$ , where each retriever $\\mathcal { R } _ { i } \\in L _ { \\mathcal { R } }$ . Then the task of a single retriever is: given a query $q$ and a corpus $\\mathcal { D } = \\{ d _ { j } \\}$ , each retriever $\\mathcal { R } _ { i }$ assigns a relevance score to each document $d _ { j }$ using its own scoring function $s _ { i } ( q , d _ { j } )$ (e.g., cosine similarity). This results in a score vector $\\mathbf { s } _ { i } \\in \\mathbb { R } ^ { | \\mathcal { D } | }$ , where $| \\mathcal D |$ is the size of the corpus. These scores can then be used to rank the documents. ",
+        "bbox": [
+            115,
+            317,
+            487,
+            461
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Datasets and metrics. Then we build a test bed for various retrievers on retrieval tasks with diverse query types, i.e., compared to encyclopedic questions in Natural Questions (Kwiatkowski et al., 2019), these tasks involve complex querydocument relations, e.g., there are multiple conditions organized in a first-order logic (Cai et al., 2024). Specifically, with similar setting as BEIR (Thakur et al., 2021), we consider: (i) NFCorpus (Boteva et al., 2016): a medical retrieval dataset with non technical natural language queries and a complex terminology-heavy corpus with medical documents; (ii) SciDocs (Cohan et al., 2020): a scientific document retrieval task with diverse subtasks such as citation prediction, paper recommendation, etc, with a corpus of documents from more than ten domains including art, business, computer science, geology, etc; (iii) SciFact (Wadden et al., 2020): a retrieval task with expert-written scientific claims and evidential abstracts as the corpus; and (iv) SciQ (Welbl et al., 2017): a large retrieval dataset with domain-specific text and science exam style questions. Further statistics and details are shown in Table 9 in the appendix. Following (Cai et al., 2024), we use Normalized Discounted Cumulative Gain $( \\mathrm { N D C G } @ \\mathrm { K } )$ to compare the retrieval performance, where K denotes the number of top retrieved documents considered. ",
+        "bbox": [
+            115,
+            470,
+            487,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/314c722e8155d41844822352c3f86df2e918f5dc541178882b8ee3e98af55cf9.jpg",
+        "image_caption": [
+            "Figure 2: Performance comparison of different retrievers on SciFact. A Wins B denotes that the gold entry appears in the top 20 retrieved documents of A, not B. The rates denote the micro-average of all queries, which shows clear comparative advantages. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            514,
+            83,
+            880,
+            131
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A diverse set of retrievers. We consider both sparse and various BERT-sized (Devlin et al., 2019) dense retrievers as candidates of $L _ { \\mathcal { R } }$ to create our mixture of retrievers, including (1) unsupervised: BM25 (Trotman et al., 2014), SimCSE (Gao et al., 2021), and Contriever (Izacard et al., 2022); (2) supervised: DPR (Karpukhin et al., 2020a), ANCE (Xiong et al., 2021), TAS-B (Hofstätter et al. 2021), GTR (Ni et al., 2022), and MPNet (Song et al., 2020). The cumulative number of parameters of $L _ { \\mathcal { R } }$ is 836 million, i.e., 0.836 B. In addition, we also set a competitive performance reference with various large-language-model-based retrievers with 7 billion (7B) parameters: RepLLaMA (Ma et al., 2023) and GritLM (Muennighoff et al., 2024). ",
+        "bbox": [
+            512,
+            242,
+            882,
+            482
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As depicted in Table 1, the above retrievers constitute a diverse set that varies in parameter sizes, backbone architectures, and training signals. We include further detailed textual descriptions and model checkpoints we used in Appendix A.3. ",
+        "bbox": [
+            512,
+            485,
+            884,
+            563
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.2 Validating the folk wisdom ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            577,
+            764,
+            593
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "With the experiment suite in hand, we first validate our assumption of performance gain from the comparative advantages among retrievers with diverse queries in the same domain. We take SciFact (Wadden et al., 2020) as an example to compare the win rate of retriever pairs across all queries. As shown in Figure 2, despite the large gap in overall performance, DPR can still win on $1 1 . 7 \\%$ queries compared to more advanced TAS-B (Hofstätter et al., 2021), suggesting a corresponding performance boost if we are able to select the combine the retrievers. Similarly, for retrievers with drastically different characteristics, e.g., supervised DPR and unsupervised SimCSE (Gao et al., 2021), despite similar overall performance, there are significant comparative advantages. ",
+        "bbox": [
+            512,
+            600,
+            882,
+            856
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We further verify the folk wisdom by considering an analytical case of a mixture of retrievers with candidates $L _ { \\mathcal { R } }$ , i.e., query routing. For each query, we consider a simplified case by selecting the bestperforming retriever, assuming that the mixture weights just rule out useless retrievers. We denote these analytical results as Route Oracle. Comparing Route Oracle with state-of-the-art LLM retrievers with 7B parameters, as shown in Table 2, we see that the former achieves consistently better performance than GritLM (overall $+ 1 3 . 5 \\%$ , which suggests the potential gain from the mixture. ",
+        "bbox": [
+            512,
+            858,
+            882,
+            921
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/533a0207a7b2c890b12bb8736e56aa20b86017a7a16530d55d9b6caffbfbed58.jpg",
+        "table_caption": [
+            "Table Comparison etrievers use ir compared with our mixture.Wenclude both sparse and dense moels varying in architecture, size, and training signals. Additional details are in Section A.3. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            117,
+            83,
+            880,
+            277
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/87c8a677dfb5f1e0a4397f9e02f7017f5f24f1ac172cca2af515e1ea8f6f6bd3.jpg",
+        "table_caption": [
+            "Table 2: ${ \\mathrm { N D C G } } @ 2 0$ comparison across different retrievers and datasets. With Route Oracle as an analytical way for mixture, we can get better performance than large language model-based retrievers. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            115,
+            340,
+            492,
+            404
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            495,
+            487,
+            624
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4 Mixture of Retrievers. ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            636,
+            337,
+            651
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Section 3.2 suggests that mixing small retrievers has the potential to outperform large ones. However, Route Oracle operates under a simplified setting. In practice, identifying the ideal retriever to route to is nontrivial, and naive routing overlooks the potential gains from leveraging signals across multiple retrievers. To address this, we propose a more practical framework: MoR (Mixture of Retrievers), which incorporates a diverse set of signals capturing interactions between queries, retrievers, and documents—without relying on groundtruths. ",
+        "bbox": [
+            115,
+            661,
+            487,
+            838
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The desiderata. Recall that a retriever $\\mathcal { R } _ { i } \\in L _ { \\mathcal { R } }$ mei $d _ { j }$ agrivve a que sry $q$ $s _ { i } ( q , d _ { j } ) ^ { 1 }$ $\\mathcal { D } = \\{ d _ { j } \\} _ { j = 1 } ^ { | \\mathcal { D } | }$ ",
+        "bbox": [
+            115,
+            846,
+            489,
+            898
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This results in a full corpus-sized vector $\\mathbf { s } _ { i } \\in \\mathbb { R } ^ { | \\mathcal { D } | }$ . Each query is then sent to all retrievers, resulting in $N$ relevance scores per document $d _ { j }$ , where $N = | L _ { \\mathcal { R } } |$ is the number of retrievers. ",
+        "bbox": [
+            510,
+            341,
+            884,
+            406
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Concurrently, we compute a scalar weight for each retriever $\\mathcal { R } _ { i }$ , using a weight allocation function $f ( q , \\mathcal { R } _ { i } , \\mathcal { D } )$ , which estimates the effectiveness of $\\mathcal { R } _ { i }$ for the given query. These weights are then used to compute an adjusted relevance score $\\tilde { s } ( q , d _ { j } )$ for each document $d _ { j }$ via a weighted sum over all retrievers: ",
+        "bbox": [
+            510,
+            407,
+            882,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/65aab995741c5d015f5a3c029d3997ae7fc28799bac12769a05858e9b8466215.jpg",
+        "text": "$$\n\\boldsymbol { \\tilde { s } } ( \\boldsymbol { q } , d _ { j } ) = \\sum _ { i = 1 } ^ { N } f ( \\boldsymbol { q } , \\mathcal { R } _ { i } , \\mathcal { D } ) s _ { i } ( \\boldsymbol { q } , d _ { j } ) ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            561,
+            526,
+            830,
+            573
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "followed by re-ranking of the documents $\\{ d _ { j } \\}$ based on the adjusted scores. ",
+        "bbox": [
+            510,
+            583,
+            880,
+            614
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A key advantage of this approach is that, due to the zero-shot nature of our geometry-based scores in the embedding space, it naturally supports a plug-and-play integration of diverse retrievers, including human information sources that provide ranked documents, as long as appropriate sentence embedding models are available. We explore the collaborative setup further in Section 5.2. ",
+        "bbox": [
+            510,
+            617,
+            882,
+            744
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4.1 Comprehensive retriever coverage ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            757,
+            823,
+            771
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Inspired by Chen et al. (2023b) and Cai et al. (2024), retrieval indices with different granularities may provide different performance to retrievers, e.g., sub-question index may be paired better with keyword matching, while sentence-level index may work better with semantic embedding-based retrievers. Besides the list of retrievers we introduce in Section 1, for each retriever $\\mathcal { R } _ { i } \\in L _ { \\mathcal { R } }$ , we also consider its variants with various kinds of granularity matching. We denote this retriever expansion as a deep fusion of retrievers. ",
+        "bbox": [
+            510,
+            777,
+            884,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            84,
+            487,
+            115
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Specifically, we consider four variants of retrievers with different indices: $R ^ { \\mathrm { q - d } }$ (original questions and documents), $R ^ { \\mathsf { q - p } }$ (questions and propositions), $R ^ { \\mathrm { s q - p } }$ (sub-questions and passage), and $R ^ { \\mathrm { s q - p } }$ (subquestions and propositions), following the original notations. To acquire aligned semantic units, we utilize propositioner released by Chen et al. (2023b) to break down both queries and documents into atomic units, i.e., sub-questions and propositions (atomic short sentences), respectively.2 This means that we extend the number of retrievers by four times $( 4 N )$ , with no adaptation on the retrievers needed. We include details and examples of the proposition decomposition in Appendix A.2. ",
+        "bbox": [
+            115,
+            117,
+            487,
+            343
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.2 Weighing retrievers' effectiveness ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            353,
+            423,
+            369
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We explore two complementary weight allocation methods to form $f ( q , \\mathcal { R } _ { i } , \\mathcal { D } )$ : (i) Pre-retrieval: we estimate which retrievers to focus more on by comparing the query embedding to the document embedding centroids generated by each retriever; and (ii) Post-retrieval: we estimate the effectiveness of each retriever by comparing its ranked retrieved documents to the overall corpus distribution. ",
+        "bbox": [
+            115,
+            374,
+            487,
+            502
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Pre-retrieval signals. We define pre-retrieval signals as measures of how likely the retriever can perform well on a query before seeking the top relevant documents from the whole corpus. This is closely related to the when-to-retrieve problem, where previous work studies from the angles of query token occurrences (Mallen et al., 2023) and model familiarity (Thrust, Zhao et al., 2023). We extend previous cluster-based familiarity analysis among queries with LLM generators (i.e., readers) to the query-document relations with retrievers. Specifically, for the embedding space of each retriever $\\mathcal { R } _ { i }$ , we use KMeans Clustering to build K clusters $\\{ C _ { 1 } , . . . , C _ { k } \\}$ over the corpus $\\mathcal { D }$ 3 ",
+        "bbox": [
+            115,
+            512,
+            487,
+            737
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We design the new pre-retrieval signal as the sum of the vectorized distance from the query vector $( \\vec { q } )$ to the cluster centroid vectors $( \\{ \\vec { m } _ { 1 } , . . . , \\vec { m } _ { k } \\} )$ (weighed by their sizes). Then, when the vectorized distance is large, it means that the query vector is distant from all clusters or with similar distance to distant clusters. In the former case, the query is likely an outlier for $\\mathcal { R } _ { i }$ , whereas the latter suggests that the retriever can not categorize the query into any type of documents. As a result, we downweight $\\mathcal { R } _ { i }$ . On the other hand, a small distance suggests that the query clearly belongs to one type of document, where we up-weight $\\mathcal { R } _ { i }$ with the reciprocal of the distance. If we denote the retriever encoded query as $\\vec { q }$ , the pre-retrieval signal is defined as follows: ",
+        "bbox": [
+            115,
+            738,
+            487,
+            850
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            84,
+            884,
+            228
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/fd057cef08232a8bf195f16e48ebb80cb5e45408e4cb81645db799cdf6ff6294.jpg",
+        "text": "$$\nV _ { \\mathrm { p r e } } ( \\boldsymbol { q } , \\mathcal { R } _ { i } , \\mathcal { D } ) \\triangleq \\bigg \\| \\sum _ { k = 1 } ^ { K } \\frac { | \\mathcal { C } _ { k } | } { K } \\cdot \\hat { \\boldsymbol { v } } _ { k } \\cdot \\frac { 1 } { \\| \\vec { v } _ { k } \\| _ { 2 } ^ { 2 } } \\bigg \\| ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            537,
+            230,
+            853,
+            275
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\vec { v } _ { k } = \\vec { m } _ { k } - \\vec { q }$ , the vectorized distance pointing from the query vector to the centroid embedding $m _ { k }$ of the $k$ th cluster (with a corresponding unit vector $\\hat { v } _ { k }$ indicating the direction), and $| \\mathcal { C } _ { k } |$ being the size of the $k$ 'th cluster. This effectively captures the semantic proximity between the query and the corpus accessible to the retriever and signals how closely the query embedding aligns with the dominant regions of the corpus under $\\mathcal { R } _ { i }$ ,with higher values suggesting greater familiarity. ",
+        "bbox": [
+            512,
+            279,
+            882,
+            439
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Post-retrieval signals. We define post-retrieval signals as measures of how likely the retrieved results are correct, building on a rich line of work in the query performance prediction literature (Diaz, 2007; Long and Chang, 2014; Roitman, 2017; Singh et al., 2023; Arabzadeh et al., 2024). To preserve the zero-shot nature of our approach, we use the Moran coefficient (Diaz, 2007), denoted as $I _ { \\mathrm { M o r a n } } ( q , \\mathcal { R } _ { i } , \\mathcal { D } )$ . This coefficient produces a scalar value that quantifies the correlation among the retrieved documents and has been shown to correlate with retrieval performance. It builds on the cluster-hypothesis (Jardine and van Rijsbergen, 1971), which posits that closely related documents tend to be relevant to the same query. Therefore, a higher coefficient indicates a greater likelihood that the retrieved documents are relevant to the query. ",
+        "bbox": [
+            510,
+            449,
+            882,
+            720
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to measuring relevance among retrieved documents using the Moran coefficient, we also assess their relevance with respect to the entire corpus. Similar to our pre-retrieval signals, we further extend the sum of the vectorized distance from query-document comparison to direct documentdocument comparison. Suppose that for a query $q$ , the top-ranked retrieved documents are $\\mathcal { D } _ { q }$ , ",
+        "bbox": [
+            512,
+            722,
+            884,
+            851
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/3d78444bf4e1265225f411931d7dd7f32e8be4f3c28595ad23576b1c8631b9a1.jpg",
+        "text": "$$\nV _ { \\mathrm { p o s t } } ( q , \\mathcal { R } _ { i } , \\mathcal { D } ) \\triangleq \\bigg \\| \\frac { 1 } { | \\mathcal { D } _ { q } | } \\sum _ { n = 1 } ^ { | \\mathcal { D } _ { q } | } V _ { \\mathrm { p r e } } ( d _ { n } , \\mathcal { R } _ { i } , \\mathcal { D } ) \\bigg \\| ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            522,
+            856,
+            868,
+            902
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where empirically, we set $| \\mathcal { D } _ { q } | = 2 0$ . ",
+        "bbox": [
+            531,
+            907,
+            803,
+            922
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/e39b936a79bff49900a1b0ad69f5a0a8473107949c860201ff077fb5dda98a63.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            117,
+            82,
+            880,
+            313
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Table 3: Performance comparison of different retrievers across datasets using ${ \\mathrm { N D C G } } @ 5$ and ${ \\mathrm { N D C G } } @ 2 0$ metrics. Av.denotes the macro-average across the tasks. Bold indicates the best performing rows. MoR variants achieve better overal performance than their component retrievers, as well as non-component LLM-based retrievers. ",
+        "bbox": [
+            115,
+            323,
+            885,
+            366
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.3 Parametric Combination. ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            392,
+            359,
+            406
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5.1 Main results: MoR is Effective ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            392,
+            783,
+            406
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Upon acquiring the individual signals, we design two types of per-query per-retriever weight allocation methods. For pre-retrieval MoR-pre, $f _ { \\mathrm { p r e } } ( q , \\mathcal { R } _ { i } , \\mathcal { D } ) = V _ { \\mathrm { p r e } } ( q , \\mathcal { R } _ { i } , \\mathcal { D } )$ . For post-retrieval MoR-post, we consider the parametric combinations of the signals, i.e., $f _ { \\mathrm { p o s t } } ( \\boldsymbol { q } , \\mathcal { R } _ { i } , \\mathcal { D } ) = a \\cdot V _ { \\mathrm { p r e } } +$ $b \\cdot I _ { \\mathrm { M o r a n } } + c \\cdot V _ { \\mathrm { p o s t } } $ , where coefficients $( a , b , c )$ are hyperparameters. Empirically, we select the final set of $( a , b , c )$ for MoR-post as (0.1, 0.3, 0.6). We use the same set of $a , b , c$ for all queries. A queryspecific weighting variant is in Appendix A.8. We also note that the optimal sets can vary across queries, where query-specific coefficients can constitute an interesting future investigation. More details are in our Limitations (Section 6). ",
+        "bbox": [
+            115,
+            422,
+            487,
+            662
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MoR improves retrieval performance. From Table 3, comparing MoR with their component retrievers, we can observe that our zero-shot signals achieve good performance on combining the querydocument scores from different retrievers. Across different tasks, MoR-pre achieves improved performance over various unsupervised and supervised retrievers, which demonstrates the significance of our proposed $V _ { \\mathrm { p r e } }$ without searching the most similar documents from the corpus. Through considering $I _ { \\mathrm { M o r a n } }$ and $V _ { \\mathrm { p o s t } }$ , MoR-post achieves even better performance than the pre-retrieval variant, with a relative $1 0 . 8 \\%$ and $1 2 . 2 \\%$ performance improvement on ${ \\mathrm { N D C G } } @ 2 0$ over the best unsupervised and supervised components, respectively. ",
+        "bbox": [
+            512,
+            425,
+            884,
+            667
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5 Experiments and Analyses ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            690,
+            376,
+            707
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "To assess the MoR usefulness, we first compare the retrieval and RAG performance of MoR with various supervised and unsupervised retrievers in Section 5.1, using retrievers in Section 3.1.4 Then, we experiment on how the mixture framework can help incorporate specialized non-oracle human information sources (Section 5.2). We further study MoR efficiency in Section 5.3. Details of the list retrievers included in MoR are in Section 3.1. ",
+        "bbox": [
+            115,
+            727,
+            487,
+            871
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "With further comparison to LLM-based retrievers, we can observe that a mixture of smaller retrievers can surpass the performance of large ones, with an overall $+ 3 . 9 \\%$ better relative ${ \\mathrm { N D C G } } @ 2 0$ improvement over GritLM. Across different tasks, MoR-post achieves better performance than GritLM on NFCorpus, SciFact, and SciQ with 5 or 20 chunks considered. For SciFact, MoR-post achieves better performance than its components and comparable performance to GritLM. ",
+        "bbox": [
+            512,
+            675,
+            882,
+            834
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We show detailed qualitative examples in Appendix A.5 in the appendix to reveal further details on how MoR works, e.g., selecting the correct one when most retrievers fail or ignoring the wrong output from the overall best-performing retriever. ",
+        "bbox": [
+            510,
+            843,
+            882,
+            921
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/86420a3d7b1d4eeef8eeda7fb2587a99efcd663974f419eebd5fb7ef252b7e70.jpg",
+        "table_caption": [
+            "Table 4: Retrieval augmented generation performance on SciFact and SciQ with top-1 $( \\mathrm { E M } @ 1 )$ or 3 $( \\mathrm { E M } @ 3 )$ chunks fed into the reader model. EM denotes using Exact Match as the metric. Bold indicates the best performing row. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            122,
+            82,
+            480,
+            200
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/f721ebfeff5221c1cadcf50dc7ac07fa2ff52a5c7c96efe084637a1f48385cb7.jpg",
+        "table_caption": [
+            "Table 5: Averaged weights of $V _ { \\mathrm { p o s t } }$ assigned to each simulated human expert on queries from different domains. Simulated experts can conduct Oracle retrieval on their corresponding domains. Bold denotes the highest weights for each query domain (column). "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            126,
+            297,
+            475,
+            374
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MoR improves RAG performance. Besides the gain on retrieval performance. We further validate the impact of MoR on RAG with SciFact and SciQ that have downstream generation tasks, i.e., fact-checking and question answering, respectively. To do so, we use the standard RAG pipeline to feed the doc chunks retrieved into a reader model Llama-3-8B-Instruct (Touvron et al., 2023b). We use Exact Match $\\operatorname { \\Pi } ( \\operatorname { E M @ K } )$ to measure the retrievalaugmented generation performance, where K denotes the number of retrieved chunks considered. ",
+        "bbox": [
+            115,
+            482,
+            487,
+            658
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "From Table 4, we can observe that, similar to the retrieval performance, MoR shows consistent performance improvement over baselines, which demonstrates the effectiveness of MoR on RAG even without utilizing any signals from the final generation beforehand to assign weights. Yet, postpresentation signals from downstream generation, e.g., accuracy, can still be important future work beyond our current scope. Additionally, results for Open-domain Natural-Questions are in Appendix A.9. ",
+        "bbox": [
+            115,
+            661,
+            487,
+            837
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "5.2 Human as a Retriever ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            851,
+            332,
+            866
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In our main experiments, we mainly consider the mixture of sparse and dense retrievers, such as BM25 and DPR. However, for complex scientific domain retrieval, human experts shall also be considered as an important source of information. In this section, we conduct a stress test of MoR to explore the potential to generalize to all kinds of information sources, including using humans as retrievers. Specifically, we simulate human experts using four domains from the original SciDocs splits5, including Medicine, Psychology, Computer Science (CS), and general Engineering (Eng.). We construct 4 corresponding human experts, where each expert can conduct Oracle retrieval on its own domain (gold documents are ranked top, and the rest and ranked with their relevance to the gold documents). For queries from other domains, the simulated experts will output random ranks. We use MPNet to encode the ranked documents into their semantic representation. ",
+        "bbox": [
+            115,
+            875,
+            485,
+            921
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/4eb03c45b4ab41f20bf6620614601fc758a5530353e7f4c9a5c26f138ef7ba3e.jpg",
+        "table_caption": [
+            "Table 6: Performance of each domain with GritLM, MoR, and MoR $+$ Humans. Each human expert can conduct Oracle retrieval on the corresponding domain, but random retrieval for others. Humans Experts denotes the retrieval performance when we assign equal weights to each one's ranks. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            531,
+            82,
+            863,
+            165
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            286,
+            882,
+            560
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MoR assigns reasonable weights to simulated human retrievers. With the setting above, we study whether our $V _ { \\mathrm { p o s t } }$ can delegate reasonable weights to the human experts. From Table 5, we can observe that experts are consistently weighted high in their corresponding domains (which means their ranks will be counted more in the final MoR ranks) and low in non-expert domains. The reasonable weights highlight the effectiveness of $V _ { \\mathrm { p o s t } }$ in a controlled setting, and show that our method has the potential to help estimate human trustworthiness from a given corpus. ",
+        "bbox": [
+            512,
+            570,
+            882,
+            763
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MoR achieves improved performance to simulated human retrievers. We see from Table 6 that without simulated human experts, MoR achieves on par performance with GritLM on SciDocs retrieval task for these specific domains. However, through delegating reasonable weights to the human experts and include their ranks into consideration, MoR achieves consistent best performance across all domains, outperforms aggregating the human experts $( + 5 8 . 9 \\%$ relatively), which shows its potential of including non-oracle humans as information sources in collaborative tasks. ",
+        "bbox": [
+            512,
+            774,
+            884,
+            885
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/7dc5d5a41a1c870efe994a5127c785c3738315007a1852b374fd435cc4ce824a.jpg",
+        "table_caption": [
+            "Table 7: Results mixing a subset of $X$ retrievers for SciQ, with MoR-post. Mixing the best 2 achieves comparable results to our original mixture of 8 in Table 3. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            117,
+            82,
+            484,
+            147
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/b27ed43172c0ef00d85f952c54089b5e9d679555217d5ccc66732f63c6db740f.jpg",
+        "image_caption": [
+            "Figure 3: Performance and equivalent retriever used $( \\% )$ at different thresholds on MoR-pre weights. Threshold $( \\% )$ at 95 percentile between min and max weights allows MoR to maintain most performance with only around $20 \\%$ equivalent retriever use. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            132,
+            211,
+            468,
+            349
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            456,
+            487,
+            536
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fc14e09455275777cfb212b3528e8238f05dce79b983e653b6dcdc656533454.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            514,
+            82,
+            878,
+            200
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 8: Ablation studies with retrieval performance of Avg. ${ \\mathrm { N D C G } } @ 2 0$ metrics. Granularity Merge denotes the way to merge the scores of the same retriever operated in different granularities. Retriever Merge denotes the way to merge scores from different retrievers. ",
+        "bbox": [
+            510,
+            210,
+            882,
+            281
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "selection should prioritize complementarity over absolute performance. ",
+        "bbox": [
+            512,
+            307,
+            882,
+            337
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Building on this, we explore a natural extension to MoR: pre-rejecting certain retrievers using MoR-pre weights, calculated before observing actual query-document interactions. Concretely, we normalize MoR-pre scores into percentiles and apply a rejection threshold, discarding low-ranking retrievers accordingly. Figure 3 shows this early rejection strategy is effective: at a 95th percentile threshold, MoR maintains strong performance while using, on average, around only $20 \\%$ of retrievers per query. Full latency numbers are in Appendix A.7. ",
+        "bbox": [
+            512,
+            340,
+            882,
+            531
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.3 Efficiency ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            546,
+            236,
+            562
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition to evaluating performance, we also consider efficiency as a key metric for assessing MoR. Following standard RAG conventions, corpus embeddings are pre-computed during offline preparation. As a result, the primary computational cost at test time arises from encoding the input queries and searching for the most relevant corpus entries — Both increases linearly with the number of dense retrievers we include. To improve the MoR's efficiency, we pose the question: Which retrievers should we include? ",
+        "bbox": [
+            115,
+            568,
+            487,
+            744
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "As a stress test, we exhaustively enumerated all possible subsets of $X$ retrievers drawn from $L _ { \\mathcal { R } }$ , and examine the performance of the best combinations. As shown in Table 7, mixing just two retrievers can already yield performance comparable to mixing all eight. Notably, the bestperforming pair is not composed of the individually top-performing retrievers (MPNet and BM25, per Table 3). This suggests that subset selection can significantly improve MoR efficiency without sacrificing much performance; However, effective ",
+        "bbox": [
+            117,
+            746,
+            487,
+            921
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5.4 Ablation Study ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            543,
+            673,
+            558
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In Table 8, we further validates the design choices of MoR with ablations. Specifically, we consider variants of MoR with different treatments on the weight delegation on various retrievers (Retriever Merge), as well as their variants on different granularities (Granularity Merge). From the comparison of the average performance across our task suite, Table 8 presents that the signals we fetched show significantly better performance than adhoc mean or max over the retriever scores for each query. Besides, the no granularity merge variant shows the effectiveness of including the deep fusion. Further comparison of individual components of our method as well as other alternatives, e.g., Reciprocal Rank Fusion (RRF), can be found in Appendix A.4. ",
+        "bbox": [
+            512,
+            563,
+            882,
+            820
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6 Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            832,
+            640,
+            848
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we propose to construct a mixture of retrievers (MoR) to improve the retrieval generalizability on diverse and complex retrieval tasks, leveraging the comparative advantages among smallscaled retrievers. To do so, we propose to use deep fusion considering multi-granularities, as well as design various pre-/post-retrieval signals to weight the outputs of each retriever for each query. Experiments on various tasks and settings validate the consistent and robust performance improvement of MoR compared to its component retrievers and SOTA LLM-based retrievers. Extensive analysis further sheds light on how MoR can potentially incorporate human information sources and be implemented with improved efficiency. We open-source our code at https://github.com/Josh1108/MixtureRetrievers. ",
+        "bbox": [
+            512,
+            858,
+            882,
+            921
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            85,
+            485,
+            275
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "the constructive discussions with colleagues from CMU WInE Lab. Xinran Zhao is supported by the ONR Award N000142312840. To Eun Kim is supported by NSF grant 2402874. This work is supported by the OpenAI Research Credit program, the Amazon AI Research Gift Fund, and the Gemma Academic Program GCP Credit Award. Any opinions, findings and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect those of the sponsors. ",
+        "bbox": [
+            512,
+            85,
+            882,
+            260
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Limitations ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            288,
+            216,
+            304
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Post-presentation Signals. In our main experiments, we design various effective signals before and after conducting retrieval. However, there is one source of signals that can be an important future direction - the end-to-end performance after utilizing the retrieved documents, e.g., the exact match performance on question answering or the user satisfaction. We denote such signals as postpresentation signals, which can potentially extend the design from the retrieval perspective to the RAG (Jiang et al., 2023) or agentic retrieval (Li et al., 2025) perspectives. ",
+        "bbox": [
+            117,
+            315,
+            485,
+            506
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Supervised Methods. In this paper, we focus on proposing the MoR architecture and design of unsupervised signal sources to allow potential extensiveness to future retrievers. However, there is a zoom for potential supervised methods at different stages of MoR. First, intuitively, all the per query per retriever weight can be learned through a neural network, considering $q , R , D ^ { \\prime } , D$ as the inputs given a small set of training data, with the pre-computed optimal weights. Besides, our current parametric combination uses one universal set of coefficients for different signals. Another neural network can be used to compute the coefficients per retriever or per query with the query embeddings as the inputs, which can potentially help model the different kinds of complexity among queries, i.e., the complexity can come from comprehending the query itself (captured by layer-variance) or the lack of good entries (captured by post-retrieval signals). ",
+        "bbox": [
+            117,
+            516,
+            487,
+            820
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            833,
+            275,
+            848
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Tong Chen, Yuhao Zhang, Haoyang Wen, Hongming Zhang, Sihao Chen, Ben Zhou, and Lexin Zhou for their insights into design and evaluation choices. The authors also thank ",
+        "bbox": [
+            115,
+            858,
+            487,
+            921
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            290,
+            606,
+            305
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman, Shyamal Anadkat, and 1 others. 2023. Gpt-4 technical report. arXiv preprint arXiv:2303.08774. ",
+        "bbox": [
+            512,
+            313,
+            882,
+            379
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Negar Arabzadeh, Chuan Meng, Mohammad Aliannejadi, and Ebrahim Bagheri. 2024. Query performance prediction: Techniques and applications in modern information retrieval. In Proceedings of the 2024 Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, SIGIR-AP 2024, page 291294, New York, NY, USA. Association for Computing Machinery. ",
+        "bbox": [
+            510,
+            391,
+            882,
+            508
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Jaime Arguello and Fernando Diaz. 2013. Relevance Ranking of Vertical Search Engines, chapter Vertical Selection and Aggregation. Elsevier. ",
+        "bbox": [
+            512,
+            520,
+            880,
+            560
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Jaime Arguello and 1 others. 2017. Aggregated search. Foundations and Trends® in Information Retrieval, 10(5):365502. ",
+        "bbox": [
+            510,
+            571,
+            882,
+            611
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Payal Bajaj, Daniel Campos, Nick Craswell, Li Deng, Jianfeng Gao, Xiaodong Liu, Rangan Majumder, Andrew McNamara, Bhaskar Mitra, Tri Nguyen, and 1 others. 2016. Ms marco: A human generated machine reading comprehension dataset. arXiv preprint arXiv:1611.09268. ",
+        "bbox": [
+            512,
+            623,
+            882,
+            700
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Vera Boteva, Demian Gholipour, Artem Sokolov, and Stefan Riezler. 2016. A full-text learning to rank dataset for medical information retrieval. In Advances in Information Retrieval: 38th European Conference on IR Research, ECIR 2016, Padua, Italy, March 2023, 2016. Proceedings 38, pages 716722. Springer. ",
+        "bbox": [
+            512,
+            713,
+            882,
+            804
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fengyu Cai, Xinran Zhao, Tong Chen, Sihao Chen, Hongming Zhang, Iryna Gurevych, and Heinz Koeppl. 2024. MixGR: Enhancing retriever generalization for scientific domain through complementary granularity. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 1036910391, Miami, Florida, USA. Association for Computational Linguistics. ",
+        "bbox": [
+            512,
+            816,
+            882,
+            921
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "James P Callan, Zhihong Lu, and W Bruce Croft. 1995. Searching distributed collections with inference networks. In Proceedings of the 18th annual international ACM SIGIR conference on Research and development in information retrieval, pages 2128. ",
+        "bbox": [
+            115,
+            86,
+            487,
+            151
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Jamie Callan. 2002. Distributed information retrieval. In Advances in information retrieval: recent research from the center for intelligent information retrieval, pages 127150. Springer. ",
+        "bbox": [
+            115,
+            162,
+            487,
+            215
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Hsinchun Chen, Haiyan Fan, Michael Chau, and Daniel Zeng. 2001. Metaspider: Meta-searching and categorization on the web. Journal of the American Society for Information Science and Technology, 52(13):11341147. ",
+        "bbox": [
+            115,
+            227,
+            487,
+            292
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Sihao Chen, Hongming Zhang, Tong Chen, Ben Zhou, Wenhao Yu, Dian Yu, Baolin Peng, Hongwei Wang, Dan Roth, and Dong Yu. 2023a. Sub-sentence encoder: Contrastive learning of propositional semantic representations. arXiv preprint arXiv:2311.04335. ",
+        "bbox": [
+            115,
+            304,
+            487,
+            369
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tong Chen, Hongwei Wang, Sihao Chen, Wenhao Yu, Kaixin Ma, Xinran Zhao, Dong Yu, and Hongming Zhang. 2023b. Dense x retrieval: What retrieval granularity should we use? arXiv preprint arXiv:2312.06648. ",
+        "bbox": [
+            117,
+            381,
+            487,
+            445
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Eunsol Choi, Jennimaria Palomaki, Matthew Lamm, Tom Kwiatkowski, Dipanjan Das, and Michael Collins. 2021. Decontextualization: Making sentences stand-alone. Transactions of the Association for Computational Linguistics, 9:447461. ",
+        "bbox": [
+            117,
+            457,
+            487,
+            523
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Hyung Won Chung, Le Hou, Shayne Longpre, Barret Zoph, Yi Tay, William Fedus, Yunxuan Li, Xuezhi Wang, Mostafa Dehghani, Siddhartha Brahma, and 1 others. 2024. Scaling instruction-finetuned language models. Journal of Machine Learning Research, 25(70):153. ",
+        "bbox": [
+            117,
+            535,
+            485,
+            613
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Arman Cohan, Sergey Feldman, Iz Beltagy, Doug Downey, and Daniel Weld. 2020. SPECTER: Document-level representation learning using citation-informed transformers. In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 22702282, Online. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            625,
+            485,
+            717
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Gordon V Cormack, Charles LA Clarke, and Stefan Buettcher. 2009. Reciprocal rank fusion outperforms condorcet and individual rank learning methods. In Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval, pages 758759. ",
+        "bbox": [
+            117,
+            728,
+            485,
+            806
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zhuyun Dai, Yubin Kim, and Jamie Callan. 2017. Learning to rank resources. In Proceedings of the 40th International ACM SIGIR conference on research and development in information retrieval, pages 837840. ",
+        "bbox": [
+            115,
+            818,
+            487,
+            883
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. 2019. BERT: Pre-training of deep bidirectional transformers for language understanding. In Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers), pages 41714186, Minneapolis, Minnesota. Association for Computational Linguistics. ",
+        "bbox": [
+            115,
+            895,
+            485,
+            921
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            531,
+            86,
+            882,
+            177
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fernando Diaz. 2007. Performance prediction using spatial autocorrelation. In Proceedings of the 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR $^ { , 0 7 }$ , page 583590, New York, NY, USA. Association for Computing Machinery. ",
+        "bbox": [
+            512,
+            190,
+            882,
+            268
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fernando Diaz, Mounia Lalmas, and Milad Shokouhi. 2010. From federated to aggregated search. In Proceedings of the 33rd international ACM SIGIR conference on Research and development in information retrieval, pages 910910. ",
+        "bbox": [
+            512,
+            281,
+            882,
+            347
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tianyu Gao, Xingcheng Yao, and Danqi Chen. 2021. SimCSE: Simple contrastive learning of sentence embeddings. In Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, pages 68946910, Online and Punta Cana, Dominican Republic. Association for Computational Linguistics. ",
+        "bbox": [
+            512,
+            360,
+            882,
+            451
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Eric J Glover, Steve Lawrence, William P Birmingham, and C Lee Giles. 1999. Architecture of a metasearch engine that supports user information needs. In Proceedings of the eighth international conference on Information and knowledge management, pages 210 216. ",
+        "bbox": [
+            512,
+            464,
+            882,
+            542
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rachid Guerraoui, Anne-Marie Kermarrec, Diana Petrescu, Rafael Pires, Mathis Randl, and Martijn de Vos. 2025. Efficient federated search for retrievalaugmented generation. In Proceedings of the 5th Workshop on Machine Learning and Systems, EuroMLSys '25, page 7481, New York, NY, USA. Association for Computing Machinery. ",
+        "bbox": [
+            512,
+            555,
+            882,
+            646
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Charles R. Harris, K. Jarrod Millman, Stéfan van der Walt, Ralf Gommers, Pauli Virtanen, David Cournapeau, Eric Wieser, Julian Taylor, Sebastian Berg, Nathaniel J. Smith, Robert Kern, Matti Picus, Stephan Hoyer, Marten H. van Kerkwijk, Matthew Brett, Allan Haldane, Jaime Fernández del Río, Mark Wiebe, Pearu Peterson, and 7 others. 2020. Array programming with numpy. Nature, 585:357362. ",
+        "bbox": [
+            512,
+            659,
+            882,
+            764
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Sebastian Hofstätter, Sheng-Chieh Lin, Jheng-Hong Yang, Jimmy Lin, and Allan Hanbury. 2021. Efficiently teaching an effective dense retriever with balanced topic aware sampling. In Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval, pages 113122. ",
+        "bbox": [
+            512,
+            777,
+            882,
+            869
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "John D Hunter. 2007. Matplotlib: A 2d graphics environment. Computing in science & engineering, 9(03):9095. ",
+        "bbox": [
+            510,
+            881,
+            882,
+            920
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Gautier Izacard, Mathilde Caron, Lucas Hosseini, Sebastian Riedel, Piotr Bojanowski, Armand Joulin, and Edouard Grave. 2022. Unsupervised dense information retrieval with contrastive learning. Transactions on Machine Learning Research. ",
+        "bbox": [
+            115,
+            86,
+            487,
+            151
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Robert A. Jacobs, Michael I. Jordan, Steven J. Nowlan, and Geoffrey E. Hinton. 1991. Adaptive mixtures of local experts. Neural Computation, 3(1):7987. ",
+        "bbox": [
+            115,
+            161,
+            487,
+            200
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "N. Jardine and C.J. van Rijsbergen. 1971. The use of hierarchic clustering in information retrieval. Information Storage and Retrieval, 7(5):217240. ",
+        "bbox": [
+            115,
+            211,
+            487,
+            249
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Soyeong Jeong, Jinheon Baek, Sukmin Cho, Sung Ju Hwang, and Jong Park. 2024. Adaptive-RAG: Learning to adapt retrieval-augmented large language models through question complexity. In Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers), pages 70367050, Mexico City, Mexico. Association for Computational Linguistics. ",
+        "bbox": [
+            115,
+            260,
+            487,
+            376
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhengbao Jiang, Frank Xu, Luyu Gao, Zhiqing Sun, Qian Liu, Jane Dwivedi-Yu, Yiming Yang, Jamie Callan, and Graham Neubig. 2023. Active retrieval augmented generation. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 79697992, Singapore. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            387,
+            485,
+            479
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen-tau Yih. 2020a. Dense passage retrieval for open-domain question answering. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 6769 6781, Online. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            489,
+            485,
+            593
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Vladimir Karpukhin, Barlas Oguz, Sewon Min, Patrick S. H. Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen-tau Yih. 2020b. Dense passage retrieval for open-domain question answering. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, EMNLP 2020, Online, November 16-20, 2020, pages 67696781. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            604,
+            487,
+            707
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Ekaterina Khramtsova, Shengyao Zhuang, Mahsa Baktashmotlagh, Xi Wang, and Guido Zuccon. 2023. Selecting which dense retriever to use for zero-shot search. In Proceedings of the Annual International ACM SIGIR Conference on Research and Development in Information Retrieval in the Asia Pacific Region, SIGIR-AP '23, page 223233, New York, NY, USA. Association for Computing Machinery. ",
+        "bbox": [
+            117,
+            718,
+            487,
+            822
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To Eun Kim and Fernando Diaz. 2025. Ltrr: Learning to rank retrievers for llms. Preprint, arXiv:2506.13743. ",
+        "bbox": [
+            117,
+            832,
+            487,
+            858
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins, Ankur Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin, Kenton Lee, Kristina Toutanova, Llion Jones, Matthew ",
+        "bbox": [
+            117,
+            869,
+            487,
+            921
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Kelcey, Ming-Wei Chang, Andrew M. Dai, Jakob Uszkoreit, Quoc Le, and Slav Petrov. 2019. Natural questions: A benchmark for question answering research. Transactions of the Association for Computational Linguistics, 7:452466. ",
+        "bbox": [
+            531,
+            86,
+            882,
+            151
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, and Ion Stoica. 2023. Efficient memory management for large language model serving with pagedattention. In Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles. ",
+        "bbox": [
+            512,
+            161,
+            882,
+            253
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Langchain. 2025. Langchain ensembleretriever. Accessed: 04-May-2025. ",
+        "bbox": [
+            510,
+            263,
+            882,
+            290
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hyunji Lee, Luca Soldaini, Arman Cohan, Minjoon Seo, and Kyle Lo. 2024. Routerretriever: Exploring the benefits of routing over multiple expert embedding models. arXiv preprint arXiv:2409.02685. ",
+        "bbox": [
+            512,
+            300,
+            882,
+            351
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, and 1 others. 2020. Retrieval-augmented generation for knowledge-intensive nlp tasks. Advances in Neural Information Processing Systems, 33:94599474. ",
+        "bbox": [
+            510,
+            362,
+            882,
+            453
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, and Zhicheng Dou. 2025. Search-o1: Agentic search-enhanced large reasoning models. CoRR, abs/2501.05366. ",
+        "bbox": [
+            510,
+            464,
+            882,
+            516
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bo Long and Yi Chang. 2014. Relevance Ranking for Vertical Search Engines, 1st edition. Morgan Kaufmann Publishers Inc., San Francisco, CA, USA. ",
+        "bbox": [
+            510,
+            526,
+            882,
+            565
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Xueguang Ma, Liang Wang, Nan Yang, Furu Wei, and Jimmy Lin. 2023. Fine-tuning llama for multi-stage text retrieval. ",
+        "bbox": [
+            510,
+            576,
+            882,
+            615
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Alex Mallen, Akari Asai, Victor Zhong, Rajarshi Das, Daniel Khashabi, and Hannaneh Hajishirzi. 2023. When not to trust language models: Investigating effectiveness of parametric and non-parametric memories. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 98029822, Toronto, Canada. Association for Computational Linguistics. ",
+        "bbox": [
+            510,
+            626,
+            882,
+            730
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang Koh, Mohit Iyyer, Luke Zettlemoyer, and Hannaneh Hajishirzi. 2023. FActScore: Fine-grained atomic evaluation of factual precision in long form text generation. In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 1207612100, Singapore. Association for Computational Linguistics. ",
+        "bbox": [
+            512,
+            740,
+            882,
+            845
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Feiteng Mu, Yong Jiang, Liwen Zhang, Liuchu Liuchu, Wenjie Li, Pengjun Xie, and Fei Huang. 2024. Query routing for homogeneous tools: An instantiation in the RAG scenario. In Findings of the Association for Computational Linguistics: EMNLP 2024, pages ",
+        "bbox": [
+            512,
+            856,
+            882,
+            921
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1022510230, Miami, Florida, USA. Association for Computational Linguistics. ",
+        "bbox": [
+            134,
+            86,
+            485,
+            112
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Niklas Muennighoff, Hongjin Su, Liang Wang, Nan Yang, Furu Wei, Tao Yu, Amanpreet Singh, and Douwe Kiela. 2024. Generative representational instruction tuning. ",
+        "bbox": [
+            115,
+            126,
+            487,
+            178
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Niklas Muennighoff, Nouamane Tazi, Loïc Magne, and Nils Reimers. 2022. Mteb: Massive text embedding benchmark. arXiv preprint arXiv:2210.07316. ",
+        "bbox": [
+            115,
+            190,
+            485,
+            229
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Giang Ngo, Rodney Beard, and Rohitash Chandra. 2022. Evolutionary bagging for ensemble learning. Neurocomputing, 510:114. ",
+        "bbox": [
+            115,
+            242,
+            487,
+            281
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Jianmo Ni, Chen Qu, Jing Lu, Zhuyun Dai, Gustavo Hernandez Abrego, Ji Ma, Vincent Zhao, Yi Luan, Keith Hall, Ming-Wei Chang, and Yinfei Yang. 2022. Large dual encoders are generalizable retrievers. In Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing, pages 98449855, Abu Dhabi, United Arab Emirates. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            294,
+            487,
+            399
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Adam Paszke, Sam Gross, Francisco Massa, Adam Lerer, James Bradbury, Gregory Chanan, Trevor Killeen, Zeming Lin, Natalia Gimelshein, Luca Antiga, Alban Desmaison, Andreas Köpf, Edward Yang, Zachary DeVito, Martin Raison, Alykhan Tejani, Sasank Chilamkurthy, Benoit Steiner, Lu Fang, and 2 others. 2019. Pytorch: An imperative style, high-performance deep learning library. In Advances in Neural Information Processing Systems 32: Annual Conference on Neural Information Processing Systems 2019, NeurIPS 2019, December 8-14, 2019, Vancouver, BC, Canada, pages 80248035. ",
+        "bbox": [
+            117,
+            412,
+            485,
+            568
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. 2016. SQuAD: $1 0 0 { , } 0 0 0 { + }$ questions for machine comprehension of text. In Proceedings of the 2016 Conference on Empirical Methods in Natural Language Processing, pages 23832392, Austin, Texas. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            581,
+            487,
+            661
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Nils Reimers and Iryna Gurevych. 2019. SentenceBERT: Sentence embeddings using Siamese BERTnetworks. In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP), pages 39823992, Hong Kong, China. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            674,
+            487,
+            777
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Stephen E. Robertson and Hugo Zaragoza. 2009. The probabilistic relevance framework: BM25 and beyond. Found. Trends Inf. Retr., 3(4):333389. ",
+        "bbox": [
+            115,
+            790,
+            485,
+            829
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Kunal Sawarkar, Abhilasha Mangal, and Shivam Raj Solanki. 2024. Blended rag: Improving rag (retriever-augmented generation) accuracy with semantic search and hybrid query-based retrievers. In 2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR), pages 155161. ",
+        "bbox": [
+            512,
+            86,
+            882,
+            177
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Tal Schuster, Adam Fisch, Jai Gupta, Mostafa Dehghani, Dara Bahri, Vinh Q. Tran, Yi Tay, and Donald Metzler. 2022. Confident adaptive language modeling. In Advances in Neural Information Processing Systems. ",
+        "bbox": [
+            510,
+            190,
+            882,
+            255
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Noam Shazeer, \\*Azalia Mirhoseini, \\*Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, and Jeff Dean. 2017. Outrageously large neural networks: The sparsely-gated mixture-of-experts layer. In International Conference on Learning Representations. ",
+        "bbox": [
+            510,
+            268,
+            882,
+            346
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Ashutosh Singh, Debasis Ganguly, Suchana Datta, and Craig McDonald. 2023. Unsupervised query performance prediction for neural models with pairwise rank preferences. In Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '23, page 24862490, New York, NY, USA. Association for Computing Machinery. ",
+        "bbox": [
+            512,
+            360,
+            882,
+            463
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Haggai Roitman. 2017. An enhanced approach to query performance prediction using reference lists. In Proceedings of the 4Oth International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '17, page 869872, New York, NY, USA. Association for Computing Machinery. ",
+        "bbox": [
+            117,
+            843,
+            487,
+            921
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Kaitao Song, Xu Tan, Tao Qin, Jianfeng Lu, and TieYan Liu. 2020. Mpnet: Masked and permuted pretraining for language understanding. arXiv preprint arXiv:2004.09297. ",
+        "bbox": [
+            512,
+            478,
+            882,
+            529
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Nandan Thakur, Nils Reimers, Andreas Rücklé, Abhishek Srivastava, and Iryna Gurevych. 2021. BEIR: A heterogeneous benchmark for zero-shot evaluation of information retrieval models. In Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2). ",
+        "bbox": [
+            510,
+            543,
+            882,
+            620
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, and 1 others. 2023a. Llama: Open and efficient foundation language models. arXiv preprint arXiv:2302.13971. ",
+        "bbox": [
+            510,
+            633,
+            882,
+            712
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, Dan Bikel, Lukas Blecher, Cristian CantonFerrer, Moya Chen, Guillem Cucurull, David Esiobu, Jude Fernandes, Jeremy Fu, Wenyin Fu, and 49 others. 2023b. Llama 2: Open foundation and fine-tuned chat models. CoRR, abs/2307.09288. ",
+        "bbox": [
+            512,
+            725,
+            882,
+            829
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Andrew Trotman, Antti Puurula, and Blake Burgess. 2014. Improvements to bm25 and language models examined. In Proceedings of the 2014 Australasian Document Computing Symposium, ADCS '14, page 5865, New York, NY, USA. Association for Computing Machinery. ",
+        "bbox": [
+            512,
+            843,
+            882,
+            921
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "David Wadden, Shanchuan Lin, Kyle Lo, Lucy Lu Wang, Madeleine van Zuylen, Arman Cohan, and Hannaneh Hajishirzi. 2020. Fact or fiction: Verifying scientific claims. In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), pages 75347550, Online. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            85,
+            487,
+            177
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Xuezhi Wang, Jason Wei, Dale Schuurmans, Quoc Le, Ed Chi, Sharan Narang, Aakanksha Chowdhery, and Denny Zhou. 2023. Self-consistency improves chain of thought reasoning in language models. ",
+        "bbox": [
+            115,
+            187,
+            487,
+            240
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Johannes Welbl, Nelson F. Liu, and Matt Gardner. 2017. Crowdsourcing multiple choice science questions. In Proceedings of the 3rd Workshop on Noisy Usergenerated Text, pages 94106, Copenhagen, Denmark. Association for Computational Linguistics. ",
+        "bbox": [
+            115,
+            250,
+            487,
+            316
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue, Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, and 1 others. 2019. Huggingface's transformers: State-of-the-art natural language processing. ArXiv preprint, abs/1910.03771. ",
+        "bbox": [
+            117,
+            326,
+            487,
+            405
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lee Xiong, Chenyan Xiong, Ye Li, Kwok-Fung Tang, Jialin Liu, Paul N. Bennett, Junaid Ahmed, and Arnold Overwijk. 2021. Approximate nearest neighbor negative contrastive learning for dense text retrieval. In International Conference on Learning Representations. ",
+        "bbox": [
+            115,
+            414,
+            487,
+            493
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Woongyeong Yeo, Kangsan Kim, Soyeong Jeong, Jinheon Baek, and Sung Ju Hwang. 2025. Universalrag: Retrieval-augmented generation over multiple corpora with diverse modalities and granularities. arXiv preprint arXiv:2504.20734. ",
+        "bbox": [
+            117,
+            504,
+            487,
+            569
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Tony Z. Zhao, Eric Wallace, Shi Feng, Dan Klein, and Sameer Singh. 2021. Calibrate before use: Improving few-shot performance of language models. ",
+        "bbox": [
+            117,
+            580,
+            487,
+            619
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Xinran Zhao, Hongming Zhang, Xiaoman Pan, Wenlin Yao, Dong Yu, and Jianshu Chen. 2023. Thrust: Adaptively propels large language models with external knowledge. arXiv preprint arXiv:2307.10442. ",
+        "bbox": [
+            115,
+            630,
+            487,
+            682
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A Appendix ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            84,
+            236,
+            99
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A.1 Experiment Details ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            110,
+            315,
+            126
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Statistics of the data. Table 9 presents the statistics of four datasets used in our experiments, together with the statistics of the decomposed queries and documents, i.e., sub-queries and propositions. Specifically, due to the max-length requirement for some dense retrievers such as DPR (Karpukhin et al., 2020a), we split one document in the original dataset into several chunks containing a maximum of 128 words. In this way, we can avoid the loss of information caused by context overflow. The retrieved chunk serves as a reference to locate the corresponding document in the original dataset for evaluation. ",
+        "bbox": [
+            115,
+            133,
+            487,
+            340
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Infrastructure. We conduct experiments on a Google Cloud Platform instance equipped with 8xNVIDIA L4 GPUs, each with 24 GB of memory. ",
+        "bbox": [
+            115,
+            353,
+            487,
+            398
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Setup and Hyperparameters. For retrieval augmented generation, we use a temperature of 0.1 and top_p value of 0.7 across all tasks. ",
+        "bbox": [
+            115,
+            411,
+            487,
+            457
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "A.2 Propositionizer details and decompositions ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            470,
+            374,
+            501
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Propositioner (Chen et al., $2 0 2 3 \\mathrm { b } ) ^ { 6 }$ is an off-theshelf model for query and document decomposition. Using Wikipedia as the dataset, this model distills GPT-4's (Achiam et al., 2023) decomposition capacity into Flan-T5-Large (Chung et al., 2024). ",
+        "bbox": [
+            115,
+            507,
+            487,
+            588
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Propositioner breaks down queries and documents into fundamental components—subqueries and propositions, respectively. Each proposition (or subquery) is expected to satisfy the following three key criteria (Min et al., 2023): ",
+        "bbox": [
+            115,
+            589,
+            487,
+            668
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "•It should express a distinct semantic unit, contributing to the overall meaning when considered with others. ",
+        "bbox": [
+            115,
+            684,
+            487,
+            730
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "It must be atomic and indivisible. ",
+        "bbox": [
+            115,
+            738,
+            378,
+            752
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "•Following Choi et al. (2021), each proposition should be self-contained and contextually complete, incorporating all necessary information, such as resolved coreferences, for unambiguous interpretation. ",
+        "bbox": [
+            115,
+            759,
+            487,
+            838
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The example of subqueries and propositions is listed in Figure 4. ",
+        "bbox": [
+            115,
+            854,
+            487,
+            884
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Query: Citrullinated proteins externalized in neutrophil extracellular traps act indirectly to perpetuate the inflammatory cycle via induction of autoantibodies. ",
+        "bbox": [
+            521,
+            85,
+            873,
+            148
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "•Subquery-0: Citrullinated proteins are externalized in neutrophil extracellular traps. • Subquery-1: Citrullinated proteins act indirectly to perpetuate the inflammatory cycle. •Subquery-2: The inflammatory cycle is perpetuated via induction of autoantibodies. ",
+        "bbox": [
+            522,
+            158,
+            873,
+            258
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Document: In humans, RNA blot analysis revealed that Golli-MBP transcripts were expressed in fetal thymus, spleen, and human Bcell and macrophage cell lines, as well as in fetal spinal cord. These findings clearly link the expression of exons encoding the autoimmunogen/encephalitogen MBP in the central nervous system to cells and tissues of the immune system through normal expression of the Golli-MBP gene. They also establish that this genetic locus, which includes the MBP gene, is conserved among species, providing further evidence that the MBP transcription unit is an integral part of the Golli transcription unit and suggest that this structural arrangement is important for the genetic function and/or regulation of these genes. ",
+        "bbox": [
+            522,
+            269,
+            873,
+            526
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "•Proposition-0: The human myelin basic protein (MBP) gene is contained within a 179- kilobase transcription unit.   \nProposition-1: Golli-MBP transcripts are expressed in fetal thymus, spleen, human B-cell lines, macrophage cell lines, and fetal spinal cord.   \nProposition-2: Expression of MBP-encoding exons in the central nervous system is linked to immune-system cells and tissues through normal Golli-MBP expression.   \nProposition-3: The genetic locus that includes the MBP gene is conserved across species.   \nProposition-4: The MBP transcription unit is an integral part of the larger Golli transcription unit.   \n•Proposition-5: The structural arrangement of the MBP and Golli transcription units is important for the genetic function and/or regulation of these genes. ",
+        "bbox": [
+            521,
+            538,
+            873,
+            888
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/46a10f63da54efb72325c71ba88c98e6dd0cc26dd776e215b40cff8fd3b66f1e.jpg",
+        "table_caption": [
+            "Table:Statistics for the NFCorpus, SciDocs, SciFact, and Scidatasets.Wenote that these statistic have bee adjusted to prevent proposition/sub-question decomposition errors. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            117,
+            83,
+            878,
+            165
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "table",
+        "img_path": "images/fefd06d589c24e59cc284faa886058e93f4757c06748f81dfbb20055cbc92f1b.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table 10: Model checkpoints released on HuggingFace and model parameters. For DPR and ANCE, the parameter count is shared across the dual encoders. "
+        ],
+        "bbox": [
+            115,
+            216,
+            885,
+            412
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "RAG experiment details. The RAG templates used for SciFact and SciQ are listed below. For SciQ, we convert the multiple-choice questions into open-ended questions. ",
+        "bbox": [
+            115,
+            476,
+            487,
+            541
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Given the knowledge source: context \\n Question: query \\n Reply with one phrase. ln Answer: ",
+        "bbox": [
+            141,
+            558,
+            463,
+            605
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Since SciFact is a fact-checking task, we evaluate whether LLMs can accurately predict the relationship between a claim and a given context. The template used for SciFact is as follows: ",
+        "bbox": [
+            115,
+            621,
+            487,
+            686
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Context: {context} \\n Claim: {query} \\n For the claim, the context is supportive, contradictory, or not related? \\n Options: (A) Supportive (B) Contradictory (C) Not related \\n Answer:\") ",
+        "bbox": [
+            141,
+            703,
+            463,
+            783
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "A.3 Extended Retriever Descriptions ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            803,
+            420,
+            819
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We consider both sparse and various BERTsized (Devlin et al., 2019) dense retrievers as candidates $L _ { \\mathcal { R } }$ to create our mixture of retrievers: ",
+        "bbox": [
+            115,
+            825,
+            489,
+            871
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "•BM25 (Trotman et al., 2014) is a traditional keyword matching based sparse retriever that shows good zero-shot performance (Thakur et al., 2021). ",
+        "bbox": [
+            115,
+            875,
+            489,
+            921
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We use TF-IDF vectors to conduct the vector ",
+        "bbox": [
+            524,
+            478,
+            882,
+            507
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "space operations for BM25.   \n• SimCSE (Gao et al., 2021) employs a BERTbase (Devlin et al., 2019) encoder trained on self-supervised contrastive signals on Wikipedia sentences.   \n•Contriever (Izacard et al., 2022) is an unsupervised retriever evolved from a BERT-base encoder, contrastively trained on segments from unlabelled web and Wikipedia documents.   \n• DPR (Karpukhin et al., 2020a) is built with a dual-encoder BERT-base architecture, finetuned on a suite of open-domain datasets with labels, such as SQuAD (Rajpurkar et al., 2016).   \n• ANCE (Xiong et al., 2021) extend DPR with a training scheme of Approximate Nearest Neighbor Negative Contrastive Estimation (ANCE).   \n•TAS-B (Hofstätter et al., 2021) is a dual-encoder BERT-base model distilled from ColBERT on MS MARCO (Bajaj et al., 2016).   \n• GTR (Ni et al., 2022) is a T5-base encoder, focusing on generalization, pre-trained on unlabeled QA pairs, and fine-tuned on labeled data including MS MARCO.   \n•MPNet (Song et al., 2020) is a BERT-alike model with advanced pre-training strategy. We use it as a sentence transformer to serve as a retriever ",
+        "bbox": [
+            510,
+            485,
+            884,
+            912
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "following (Reimers and Gurevych, 2019). ",
+        "text_level": 1,
+        "bbox": [
+            134,
+            85,
+            438,
+            99
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "As depicted in the descriptions, the above retrievers vary in parameter sizes, backbone architectures, and training signals. In addition, we also set a competitive performance reference with various large-language-model-based retrievers with 7 billion parameters. ",
+        "bbox": [
+            117,
+            103,
+            487,
+            198
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "• RepLLaMA (Ma et al., 2023) extends the dualencoder retriever training pipeline of DPR to LLaMA (Touvron et al., 2023a), which demonstrates advanced performance and long-context generalizability. • GritLM (Muennighoff et al., 2024) proposes to jointly train language models with generative and embedding tasks, which leads to great performance on MTEB (Muennighoff et al., 2022). ",
+        "bbox": [
+            115,
+            204,
+            487,
+            348
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Model Huggingface checkpoints and size. Table 10 lists model checkpoints on Huggingface and the model sizes. Our experiments cover modern retrievers from different architectures (e.g., BERT (Gao et al., 2021) or LLaMA (Ma et al., 2023)) and a wide range of model size, from 66M to 7B. ",
+        "bbox": [
+            115,
+            362,
+            487,
+            473
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A.4 Extended design choice ablation ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            488,
+            415,
+            504
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In Section 5.1, we show the performance of MoRpre and MoR-post, which are parametric combinations of various signals extracted from queries and documents. In this section, we take a closer look at the individual components used in MoR, i.e., $V _ { \\mathrm { p r e } }$ Moran, and $V _ { \\mathrm { p o s t } }$ , as well as other baseline signals. For $V _ { \\mathrm { p o s t } }$ , we also compare with the version without deep fusion of multiple granularities (denoted as no D.F.). Following our intuition and design in Section 4, for pre-retrieval signals, we consider: ",
+        "bbox": [
+            115,
+            511,
+            487,
+            671
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "• Performance Normalization (Perf. Norm.): We consider the simplest baseline on a development set that contains 100 queries to compute the retrieval performance of each retriever and weight each of them with the normalized scores (higher performance indicates higher weights). ",
+        "bbox": [
+            115,
+            689,
+            487,
+            784
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "• Layer-wise Variance (Layer Var.): motivated by (Schuster et al., 2022), we consider the layerwise variance of the retriever on the first, middle, and last layers at each neuron to indicate how much computation is required for the retriever to process a specific query. The reciprocal of the variance is then considered as the weight of each query per retriever. ",
+        "bbox": [
+            115,
+            794,
+            487,
+            921
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "•Clustering: We consider the variance of the cluster centroids of the vectors of the corpora that are extracted from each retriever. The reciprocal of variance is then used as the weight. ",
+        "bbox": [
+            510,
+            85,
+            882,
+            147
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "•Thrust (Zhao et al., 2023): we utilize the original implementation of the target query and 300 sample queries to compute the Thrust score representing the retriever familiarity of the queries. The scores are then normalized to serve as the weights, where lower familiarity scores denote less weight. ",
+        "bbox": [
+            510,
+            154,
+            884,
+            266
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For post-retrieval signals, we consider: ",
+        "bbox": [
+            531,
+            280,
+            816,
+            294
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "•Score and Representation Variance: following (Khramtsova et al., 2023), we utilize the relations among the top retrieved documents to conduct the performance prediction. For score variance (Score Var.), we consider the variance of the scores of top- $\\mathbf { \\nabla } \\cdot \\mathbf { X }$ retrieved documents. Similarly, for representation variance (Rep. Var.), we consider the variance of their embeddings. The reciprocal of variance is then used as the weight, where lower variance denotes higher weights. ",
+        "bbox": [
+            510,
+            309,
+            882,
+            468
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "•Reciprocal Rank Fusion (RRF; Cormack et al. 2009): following (Langchain, 2025), we consider RRF as a direct baseline to combine the document ranks of the retrievers. ",
+        "bbox": [
+            510,
+            475,
+            882,
+            538
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "From Table 11, we can observe that the signals we designed based on vectorized distances $( V _ { \\mathrm { p r e } }$ and $V _ { \\mathrm { p o s t } } )$ are already strong without parametric combination. On the other hand, the classic Moran Index contributes to the parametric combination but is not individually effective in the MoR context. Deep Fusion, similar to our analysis with Oracledeep, improves MoR-post by $3 . 6 \\%$ relatively. ",
+        "bbox": [
+            512,
+            552,
+            882,
+            680
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "For other signals, intuitive variance-based methods, e.g., Rep. Var., does not show good performance on delegating weights to different retrievers. Further calibration (Zhao et al., 2021) can be a potential direction to improve this sort of method. However, Thrust and RRF also present to be good signals that can be extracted before and after conducting retrieval. For the concision or the proposed MoR, we did not consider these signals in the parametric combination, yet further performance improvement is anticipated if we do so. ",
+        "bbox": [
+            512,
+            682,
+            884,
+            857
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "A.5 Qualitative Analysis ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            869,
+            717,
+            884
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "We qualitatively examine the behavior of MoR in Figure 12. The top block illustrates a scenario where most retrievers fail to retrieve the correct passage, yet MoR successfully identifies the relevant one. The middle block highlights cases where MoR improves retrieval by effectively integrating signals from the most accurate retrievers. Finally, the bottom block demonstrates that MoR, while generally effective, cannot succeed when all base retrievers fail to retrieve the correct passage. ",
+        "bbox": [
+            512,
+            891,
+            882,
+            921
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "table",
+        "img_path": "images/b70a9fc65df04de867ac6bf6084ee75e852fc6c81524af8d230fcc872b63c575.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table 11: Performance comparison of different signals across datasets using NDCG $\\textcircled { a } 5$ and NDCG $\\textcircled{ a} 2 0$ metrics $V _ { \\mathrm { p o s t } }$ no D.F. denotes our method without the deep fusion component. "
+        ],
+        "bbox": [
+            115,
+            83,
+            887,
+            310
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            375,
+            487,
+            502
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A.6 Extended Best Retriever Suite Analysis ",
+        "text_level": 1,
+        "bbox": [
+            119,
+            514,
+            468,
+            530
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "In Section 5.3, we discussed the overall best retriever suite across tasks, given a different number of retrievers selected. We also notice that the best suite can be different for different tasks. In this section, we further show the best suite for each task. As shown in Table 7, we can observe that, similar to what we show in the main paper, the best suite of retrievers is not necessarily the bestperforming retrievers. For example, on SciQ, the top-2 performing retrievers are MPNet and BM25 in terms of ${ \\mathrm { N D C G } } @ 2 0$ However, the best suite is GTR (supervised) and Contriever (unsupervised). Such observations further validate our intuition in designing MoR - leveraging the comparative advantages among them. Similar findings generalize to other datasets as well. ",
+        "bbox": [
+            115,
+            535,
+            487,
+            791
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, comparing the retrieval performance of different numbers of Best of $X ,$ ,although the overall performance improve consistently with the a larger retriever list, the performance degradation is minor on some tasks. For example, on SciFact, the gap between Best of 2 and Best of 5 is $0 . 0 6 ~ \\mathrm { N D C G } @ 5$ ,which indicate that an efficient version of MoR to be deployed with a ",
+        "bbox": [
+            117,
+            794,
+            487,
+            921
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "curated set of retrievers. ",
+        "bbox": [
+            512,
+            375,
+            690,
+            390
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A.7 Runtime for MixGR ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            401,
+            719,
+            417
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "To see if MixGR could be deployed in a real world setting, we calculate the actual runtime of 100 queries for each retriever with an A6000 node. The total run time, as shown in Table 16 presents the advantage of MoR over GritLM ( $- 1 8 \\%$ actual runtime needed in seconds and better performance as shown in Table 3). We note that our further efficiency improvement methods discussed in Section 5.3 can further reduce $80 \\%$ compute while maintaining $9 5 \\%$ performance. On the other hand, if we host component retrievers of $\\mathsf { M o R }$ in parallel in a single A6000 node, the run time for 100 queries can be reduced to 20 seconds. ",
+        "bbox": [
+            512,
+            423,
+            882,
+            631
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "A.8 Query Specific Combination of Signals ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            643,
+            862,
+            658
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "An important avenue for improvement lies in allowing the weighting coefficients $( a , b , c )$ in our combination-of-retrievers setting to vary across queries. In the main system design, we adopt a fixed, uniform set of coefficients to ensure good off-the-shelf usability without requiring additional per-query tuning. While this choice emphasizes stability and general applicability, it raises the question of whether query-adaptive weights could further improve performance. ",
+        "bbox": [
+            512,
+            664,
+            882,
+            825
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "To explore this, we conducted an experiment comparing the current fixed coefficients with an oracle variant in which query-specific coefficients were selected via grid search. Results on NFCorpus are shown in Table 14. ",
+        "bbox": [
+            512,
+            826,
+            882,
+            904
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "The similar performance at NDCG $\\textcircled { \\omega } 5$ indicates that the current fixed coefficients already provide strong early precision. At the same time, the consistent gain in ${ \\mathrm { N D C G } } @ 2 0$ under oracle tuning highlights the potential benefit of query-specific weighting. These findings suggest that while fixed coefficients offer a practical and robust default, developing tunable or adaptive strategies for $( a , b , c )$ represents a promising direction for future work. ",
+        "bbox": [
+            527,
+            907,
+            882,
+            921
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/75ea1ad9672b375c63752742295a056096f82c76ad0d5f2e44a5c4a5e11cf493.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table 12: Retrieval performance (Recall $@ 5$ ) and top-5 results per model for queries sciq-test_247, sciq-test_0 and sciq-test_143, with correct hits highlighted in dark green. "
+        ],
+        "bbox": [
+            163,
+            84,
+            835,
+            444
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            508,
+            487,
+            637
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A.9 Application of MoR on Open Domain Datasets ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            652,
+            458,
+            682
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We conducted a pilot study on Natural Questions (NQ) with 200 randomly sampled queries and 1000 associated chunks. Using identical settings and unchanged parameters, MoR consistently outperforms GritLM-7B, in line with our findings on scientific corpora, as shown in Table 17. ",
+        "bbox": [
+            115,
+            692,
+            487,
+            787
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A.10 Ethical Statements ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            802,
+            321,
+            818
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We foresee no ethical concerns or potential risks in our work. All of the retrieval models and datasets are open-sourced, as shown in Table 9 and Section A.3. The LLMs we applied in the experiments are also publicly available. Given our context, the outputs of LLMs are unlikely to contain harmful and dangerous information. The experiments in our paper are mainly on English. ",
+        "bbox": [
+            115,
+            826,
+            487,
+            921
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            508,
+            880,
+            541
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A.11 Licences of Scientific Artifacts ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            551,
+            805,
+            567
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We conclude the licenses of the scientific artifacts we used in Table 18. All artifacts are properly used following their original purposes. ",
+        "bbox": [
+            510,
+            573,
+            882,
+            620
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "A.12 Notation ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            631,
+            636,
+            645
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "We present a list of the notations we used in Table 19 for reference. ",
+        "bbox": [
+            512,
+            652,
+            884,
+            682
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab3d12b8acc7310271078a498e3f19b8b89c7e44768d6c6f89127847b4a9cf45.jpg",
+        "table_caption": [
+            "Table 13: Best suite of retrievers for MoR-post with different sizes of the retriever list. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            127,
+            82,
+            872,
+            393
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/f9c7791e56bc940cfb0f73b672221ea2b19741c3c8262b0949902067d7fc73f5.jpg",
+        "table_caption": [
+            "Table 14: Comparison of fixed vs. oracle query-specific coefficients on NFCorpus. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            119,
+            455,
+            484,
+            508
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/5199a169919eae4f318cf8025c4aca2e38a29e2bfcca34c6ea2dac052e47f7be.jpg",
+        "table_caption": [
+            "Table 15: Runtime for GritLM and MoR "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            157,
+            582,
+            445,
+            633
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/11d3b12b6bf1ce8350fce2ecdac2b7fbc61fa8f6e1177ab256ed118c8c60660f.jpg",
+        "table_caption": [
+            "Table 16: End-to-end query latency including encoding and search. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            156,
+            693,
+            445,
+            740
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/b716db9e3832f469169222012219f4257cc9cee41f05110f341df3a85f45ff01.jpg",
+        "table_caption": [
+            "Table 17: Pilot evaluation on Natural Questions (200 queries, 1000 chunks). "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            156,
+            814,
+            445,
+            866
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "table",
+        "img_path": "images/ccfbff4280207916d898da0a57aadd01a862e40b4df5aaf805f58353608ad25d.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table 18: Details of datasets, major packages, and existing models we use. The curated datasets and our code/software are under the MIT License. "
+        ],
+        "bbox": [
+            119,
+            171,
+            882,
+            370
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "table",
+        "img_path": "images/4e921cc962e089a18eacaf377fd1b715e5c903660d61bb379814c0159c0481e3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            173,
+            594,
+            821,
+            806
+        ],
+        "page_idx": 19
+    }
+]

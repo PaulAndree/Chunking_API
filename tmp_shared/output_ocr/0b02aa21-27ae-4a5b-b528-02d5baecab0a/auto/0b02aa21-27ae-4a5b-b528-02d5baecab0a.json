@@ -1,0 +1,776 @@
+[
+    {
+        "type": "text",
+        "text": "Genotoxic potency of monofunctional alkylating agents in $E .$ coli: comparison with carcinogenic potency in rodents ",
+        "text_level": 1,
+        "bbox": [
+            137,
+            167,
+            866,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ileana Quinto 1, Liliane Tenenbaum 1 and Miroslav Radman 2 ",
+        "bbox": [
+            205,
+            225,
+            794,
+            243
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Department of Molecular Biology, Free University of Brussels, B-1640 Rhode-St-Genèse (Belgium) and ² Jacques Monod Institut, CNRS, University of Paris VII, 75251 Paris (France) ",
+        "bbox": [
+            196,
+            247,
+            805,
+            274
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Received 9 March 1989) (Revision received 14 September 1989) (Accepted 19 September 1989) ",
+        "bbox": [
+            375,
+            281,
+            624,
+            322
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Mutation; Recombination; SOS induction; Cancer risk assessment ",
+        "bbox": [
+            81,
+            359,
+            575,
+            371
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+            79,
+            394,
+            155,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A quantitative correlation between carcinogenicity and genotoxicity was investigated by a comparison between the carcinogenic potency in rodents and the mutagenic (M), recombinogenic (R) and SOS-inducing (I) potencies in a bacterial test ( $E .$ coli multitest) for 9 monofunctional alkylating agents: $N$ -nitroso$N .$ methylurethane, $N .$ nitroso ${ \\mathbf { } } \\mathbf { \\nabla } \\cdot N .$ ethylurea, epichlorohydrin, $N$ nitroso ${ \\mathbf { } } \\mathbf { \\nabla } \\cdot N .$ -methylurea, $N .$ nitroso $. N .$ -methyl$N ^ { \\prime }$ -nitroguanidine, methyl methanesulfonate, diethylsulfate, dimethylsulfate, ethyl methanesulfonate. ",
+        "bbox": [
+            79,
+            427,
+            924,
+            509
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A significant positive correlation between the carcinogenic potency and the product of the mutagenic and recombinogenic potencies was found for all tested compounds. Thus, the $E .$ coli multitest may be used as a simple test to search for correlations between carcinogenicity and genotoxicity of DNA-damaging agents. ",
+        "bbox": [
+            79,
+            509,
+            924,
+            572
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Many eukaryotic and prokaryotic test systems have been developed and used to detect environmental carcinogens (Hollaender and de Serres, 1971-1983). Extensive studies have been conducted to validate methodologies and to select batteries of short-term tests aimed at predicting cancer risks of chemical agents (de Serres and Ashby, 1981; Ashby et al., 1985). ",
+        "bbox": [
+            77,
+            625,
+            475,
+            753
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In spite of large efforts directed towards genotoxicity evaluations for hundreds of potential carcinogens, we lack quantitative methodologies for rapid cancer risk assessment. Some studies have attempted a quantitative analysis of the correlation between the carcinogenic and the mutagenic potency, and conflicting results have been obtained (Teranishi et al., 1975; Coombs et al., 1976; Meselson and Russell, 1977; Bartsch et al., 1977, 1983; Clive et al., 1979; Kuroki and Bartsch, 1979; Jones and Huberman, 1980; Wislocki et al., 1980; Langenbach et al., 1980; Parodi et al., 1981). ",
+        "bbox": [
+            75,
+            754,
+            475,
+            801
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            626,
+            920,
+            772
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One of the major limitations to quantitative studies has been the lack of a conventional measure of the carcinogenic potency and the paucity of carcinogenicity data available for a statistically reliable evaluation of the carcinogenic potency (McCann and Ames, 1976; Meselson and Russell, 1977). A numerical measure of the carcinogenic potency has been proposed in terms of $\\mathrm { \\ T D } _ { 5 0 }$ ('tumor dose 50') which represents the chronic dose rate $( \\mathrm { m g } / \\mathrm { k g }$ b.w./day) that halves the mortality-corrected estimate of the probability of being tumor-free when the agent is administered all over the standard life-span of the animal species (Bartsch et al., 1983; Peto et al., 1984). By the use of such numerical standards, a carcinogenic potency data base has been produced for 770 chemicals (Gold et al., 1984). This data base now allows the investigation of possible correlations between the carcinogenic potency in animals and the genotoxic potencies in different short-term tests. ",
+        "bbox": [
+            518,
+            773,
+            918,
+            884
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            90,
+            468,
+            318
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We present the results of a correlation study between the carcinogenic potency in rodents and 3 genotoxic potencies in E. coli for a class of directly acting monofunctional alkylating agents. A previous study had shown the lack of correlation between the carcinogenic potency in rodents and the mutagenic potency in Salmonella for these chemicals (Bartsch et al., 1983). The approach used in this study was: (i) to measure all known genotoxic effects (mutation (M), recombination (R) and SOS induction (I)) induced by DNAdamaging agents in E. coli; (ii) to develop a methodology for quantifying these genotoxic effects in terms of potency or cumulative yield to correlate with the carcinogenic potency. ",
+        "bbox": [
+            70,
+            319,
+            468,
+            561
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Analysis on monofunctional alkylating agents showed the lack of a direct correlation between the carcinogenic potency and either of the individual M, R or I potencies in E. coli. However, when the genotoxic potency was expressed as the product of $M$ and $R$ potencies, a highly significant correlation with the carcinogenic potency was found. ",
+        "bbox": [
+            70,
+            563,
+            470,
+            691
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            90,
+            694,
+            105
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$E$ coli tester strains ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            122,
+            670,
+            136
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A set of isogenic $E$ coli strains (E. coli multitest) was used for detection of mutation (M), recombination (R) and SOS induction (I) induced by DNA-damaging agents (Toman et al., 1985; Quinto and Radman, 1987; Tenenbaum et al., 1988). The genotype of the tester strains employed in the present work is shown in Table 1. ",
+        "bbox": [
+            512,
+            138,
+            916,
+            250
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            269,
+            562,
+            283
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TB1 medium is $1 \\%$ tryptone, $0 . 5 \\%$ sodium chloride, $1 ~ \\mu \\mathrm { g / m l }$ vitamin B1. MacConkey medium (Difco) contains $1 \\%$ galactose or lactose. ",
+        "bbox": [
+            512,
+            285,
+            916,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemicals ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            351,
+            592,
+            365
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$N$ Nitroso $. N$ -methylurethane (MNUT), $9 5 \\%$ , was from Pfaltz and Bauer; $N$ -nitroso $. N$ -ethylurea (ENU), $> 9 9 \\%$ and epichlorohydrin (ECH) $> 9 9 . 5 \\%$ from Fluka; $N$ -nitroso $. N$ -methylurea (MNU), $9 9 \\%$ from Serva; $N .$ -nitroso $. N .$ -methyl$N ^ { \\prime }$ -nitroguanidine (MNNG), $9 7 \\%$ and methyl methanesulfonate (MMS), $9 7 \\%$ from Aldrich; diethylsulfate (DES), $9 8 \\%$ and dimethylsulfate (DMS), $9 9 \\%$ from Janssen; ethyl methanesulfonate (EMS), $9 8 \\%$ from Merck. ",
+        "bbox": [
+            512,
+            366,
+            916,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemical treatment ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            545,
+            666,
+            560
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Exponential-phase cultures (about $4 \\times 1 0 ^ { 8 }$ $\\mathrm { c e l l s / m l } )$ grown in TB1 medium at $3 7 ^ { \\circ } \\mathrm { C }$ were washed and resuspended in 0.1 M Tris-HCl buffer, $\\mathsf { p H } 7 . 4$ . ",
+        "bbox": [
+            512,
+            561,
+            916,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The test compounds, dissolved in dimethyl sulfoxide (Merck), were incubated with the bacterial suspension at $3 7 ^ { \\circ } \\mathrm { C }$ for $3 0 \\ \\mathrm { m i n }$ Molarities were adjusted for each chemical in order to measure M, I, and $\\mathbf { R }$ over a large dose range, i.e., from non-toxic doses up to doses leaving about $1 0 ^ { - 3 }$ surviving fraction. Dose ranges were: DES and ECH $1 0 { - } 6 0 \\ \\mathrm { \\ m M }$ ,DMS $\\mathbf { 1 - 1 0 m M }$ ,EMS $\\mathbf { 1 0 - 1 0 0 \\ m M }$ , ENU and MNU $0 . 5 \\mathrm { - } 1 5 \\mathrm { m M }$ , MNNG and MNUT $1 { \\mathrm { - } } 6 0 \\ \\mu \\mathbf { M } .$ , PS $\\mathbf { 1 - 2 0 \\ m M }$ After treatment, cells were washed, resuspended in $1 0 ^ { - 2 } \\textbf { M }$ $\\mathbf { M g S O _ { 4 } }$ and plated on indicator media at appropriate dilutions for measuring survivors, $\\mathbf { G a l ^ { + } }$ and Lac\\* colonies. After $\\mathbf { 1 9 \\ h }$ incubation at $3 7 ^ { \\circ } \\mathbf { C }$ the plates were scored and the yields of M, R and I colonies were calculated. The mean value $\\pm \\textsf { S E }$ of the frequencies of spontaneous events were: $( 4 . 7 \\pm 1 . 1 ) \\times 1 0 ^ { - 5 }$ for mutations, $( 2 . 1 \\pm 0 . 2 ) \\times$ $1 0 ^ { - 4 }$ for SOS induction and $( 2 . 2 \\pm 0 . 5 ) \\times 1 0 ^ { - 4 }$ for recombination. ",
+        "bbox": [
+            514,
+            626,
+            916,
+            690
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/aca050bf6235216df11500d2da6df7bfe42b142c8f54644a9b12367879682106.jpg",
+        "table_caption": [
+            "TABLE 1 E. coli MULTITEST STRAINS "
+        ],
+        "table_footnote": [
+            "$\\gimel$ . "
+        ],
+        "bbox": [
+            68,
+            770,
+            918,
+            853
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            74,
+            88,
+            470,
+            349
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            366,
+            129,
+            381
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The test system ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            400,
+            190,
+            415
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A set of $E .$ coli mutants (Toman et al., 1985; Quinto and Radman, 1987; Tenenbaum et al., 1988) (Table 1) has been constructed to allow the detection of all major genotoxic events: mutation (M), recombination (R) and SOS induction (I). This bacterial system contains a fusion between the $\\lambda$ immunity region (cI, cro) and the bacterial gal operon setting the gal operon under the negative control of the CI repressor. Inactivation of the $c \\mathbf { I }$ gene by mutation or of the CI repressor by the DNA damage induced RecA-dependent protease activity (SOS induction) results in the expression of the gal operon detected by the appearance of $\\mathbf { G a l ^ { + } }$ colonies on MacConkey plates containing galactose (Toman et al., 1985). The presence of the cro gene, whose product is a repressor of the cI repressor gene, assures that the temporary inactivation of the CI repressor proteins leads to a stable epigenetic switch $\\mathbf { C I ^ { + } } \\mathbf { \\Sigma } \\mathbf { C I O ^ { - } } \\mathbf { \\Sigma } \\mathbf { G a l ^ { - } } \\to \\mathbf { C I ^ { - } }$ Cro+ Gal+ transmitted to the cellular progeny (Toman et al., 1985). Thus, both mutants and 'SOS inductants' can be measured in the same way by the appearance of red-colored $\\mathbf { G a l ^ { + } }$ colonies. The MT103 strain specifically allows the measurement of mutations in the cI gene since cleavage of the CIind\\~ repressor by the RecA-dependent protease activity cannot occur (Quinto and Radman, 1987; Tenenbaum et al., 1988). On the other hand, the MT119 strain specifically allows the measurement of the CI cleavage since the inactivation by coincident mutations in both residing copies of the cI gene is a negligibly rare event (Quinto and Radman, 1987; Tenenbaum et al., 1988). Recombination occurring between 2 intrachromosomal lacZ heteroalleles is measured by the appearance of $\\mathbf { L a c ^ { + } }$ colonies on MacConkey plates containing lactose (Quinto and Radman, 1987; Tenenbaum et al., 1988). ",
+        "bbox": [
+            70,
+            415,
+            468,
+            884
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            91,
+            916,
+            235
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quantification of genotoxic effects ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            254,
+            779,
+            269
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A genotoxic treatment produces 3 kinds of cells: unaffected, killed and affected but alive. Only the latter cells are carriers of genotoxic alterations. Therefore, if we consider 2 agents able to generate altered colonies at the same frequency but differing in their toxic (killing) properties then the less toxic agent will be more genotoxic since it will produce a higher number of viable cells carrying genetic alterations. A similar consideration holds for the carcinogenic process. These considerations justify the quantitative expression of the genotoxic activity of an agent in terms of 'potency' defined here as the cumulative yield of surviving altered cells (Fig. 1), rather than the usual expression taking the slope of the frequency curves or the factor of increase in frequency among survivors. The latter expressions do not take sufficiently into account the toxic effect of the agent. In practice, dose—effect curves were drawn for M, R and I, where the effect was expressed as yield (i.e., the fraction of treated cells that gave rise to altered colonies) and the effective dose was expressed as the number of lethal hits (Fig. 1). ",
+        "bbox": [
+            514,
+            270,
+            914,
+            529
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7639d702ccdbe9f8ec1ea0f9e92468374e9a3afecd61b49997cb1c8ca49da784.jpg",
+        "image_caption": [
+            "Fig. 1. Model of analysis of a typical dose-response curve for SOS induction in E. coli following MNNG treatment. Potency (P), $Y _ { \\mathrm { m a x } }$ and $Z _ { \\mathbf { m a x } }$ parameters are defined in the text (Results). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            564,
+            561,
+            857,
+            826
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            90,
+            468,
+            203
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The yield was calculated as ",
+        "bbox": [
+            92,
+            204,
+            311,
+            219
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f4a61b4ea122072c5297ac1aad6c298a8becb22865a07e0c23d409de46dea855.jpg",
+        "text": "$$\n\\frac { n _ { \\mathrm { x } } - n _ { 0 } ( S _ { \\mathrm { x } } ) } { N _ { 0 } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            66,
+            231,
+            175,
+            270
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { \\times }$ is the number of cells (per ml of cell culture) that gave rise to altered colonies at dose x, $n _ { 0 }$ is the number of cells (per ml of cell culture) that gave rise to altered colonies at dose zero (background), $S _ { \\mathrm { x } }$ is the survival fraction at dose x and $N _ { 0 }$ is the number of colonies (per ml of cell culture) at dose zero. From each dose—effect curve the following 3 parameters were calculated: (1) potency $( P )$ is the integral under the dose-yield curve, i.e., the cumulative yield of altered cells induced by the agent through the entire dose range (from zero to the dose killing practically all treated cells); (2) $Y _ { \\mathrm { m a x } }$ is the maximum fraction of affected cells; (3) $Z _ { \\mathrm { m a x } }$ is the number of lethal hits giving the maximum yield $( Y _ { \\mathrm { m a x } } )$ . ",
+        "bbox": [
+            68,
+            285,
+            468,
+            529
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The spectrum of genotoxicity for 9 alkylating agents was determined in the $E .$ coli multitest (Table 2). When M, I and $\\mathbf { R }$ potencies of these agents are compared with each other, it appears that M potency does not correlate with either I or R potency (Fig. 2a, b). However, I and R potencies do correlate (Fig. 2c). Thus, it may be that different kinds of DNA damage have different capacities to induce the M effect and the I and R effects. The highly significant positive correlation found between I and R potencies (Fig. 2c) may indicate that the RecA-dependent proteolytic activity (measured here by the CI repressor cleavage) and the RecA recombinase activity (measured here by the $\\mathrm { L a c ^ { + } }$ recombinants) are triggered proportionally by diverse DNA damage in E. coli DNA. ",
+        "bbox": [
+            68,
+            530,
+            470,
+            594
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            90,
+            914,
+            283
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Quantitative correlations between genotoxic effects in $E .$ coli and carcinogenicity in rodents ",
+        "bbox": [
+            512,
+            301,
+            914,
+            332
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To investigate the relationship between carcinogenicity in animals and genotoxicity in bacteria, we have performed a correlation analysis between M, R and I potencies and the carcinogenic potency in rodents. The M, R and I potencies were used either separately or in different combinations (e.g., additions, products). The carcinogenic potency was expressed as the reciprocal of $\\mathrm { \\ T D } _ { 5 0 }$ median values previously reported (Bartsch et al., 1983). The $\\mathrm { T D } _ { 5 0 }$ values of DMS and DES (not present in Bartsch et al., 1983) were arithmetically extrapolated from their carcinogenic indices (Druckrey et al., 1970) using the values of $\\mathrm { T D } _ { 5 0 }$ (Bartsch et al., 1983) and carcinogenic index (Druckrey et al., 1970) of MMS on the basis of assumed proportionality between the 2 values. Thus, the values of $\\mathrm { \\Delta T D } _ { 5 0 }$ for DES and DMS are of limited significance for the correlation analysis with genotoxic potencies. Data were analyzed by linear, exponential, power and logarithmic regression, using the least-square fitting method. ",
+        "bbox": [
+            512,
+            334,
+            916,
+            591
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/11bcf81aa75bd3bb4375b98f347644bdc87b06d53ecf517fd9120c74e6299613.jpg",
+        "image_caption": [
+            "potency (b); R potency versus I potency (). Each value is the meanof at least 3 separate experiments. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            618,
+            912,
+            851
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            494,
+            91,
+            894,
+            171
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig. 3a, b, c, the M, R and I potencies analyzed separately do not correlate satisfactorily with the carcinogenic potency. The highest significant positive correlation was found when the product of M and $\\mathbf { R }$ potencies was taken as the genotoxic measure ( $\\ r = 0 . 9 5$ for an exponential relation; $p < 0 . 0 0 1 _ { . } ^ { \\cdot }$ ), as shown in Fig. 3d and Fig. 4. ",
+        "bbox": [
+            494,
+            172,
+            896,
+            303
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            494,
+            319,
+            579,
+            334
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The aim of the present work was to develop a methodology for cancer risk assessment by the use of a bacterial test ( $E _ { \\ast }$ coli multitest). Compared to other bacterial tests which employ only one genetic endpoint (for example, the Salmonella mutatest and the SOS chromotest), the E. coli multitest has the advantage of being able to detect simultaneously 3 different kinds of events inducible by carcinogens: mutation, recombination and SOS induction. Thus, a spectrum of the genotoxic activities of a chemical or physical agent can be obtained (Quinto and Radman, 1987). ",
+        "bbox": [
+            494,
+            353,
+            896,
+            545
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To investigate a mathematical relationship between genotoxicity and carcinogenicity of alkylating agents, a common quantitative measure of genotoxic potencies in the $E ,$ coli multitest and the carcinogenic potencies in animal tests had to be defined. On the basis of considerations explained in the Results section, $\\mathrm { T D } _ { 5 0 }$ values based on life tables (Bartsch et al., 1983; Peto et al., 1984; Gold et al., 1984) and 'cumulative yields' proposed here appear as a reasonably comparable quantitative approach to 2 extremely different experimental protocols. The M, R and I potencies were expressed as the integral under the dose-yield curve, where the biologically effective dose was expressed as lethal hits, as proposed by Haynes and Eckardt (1980). ",
+        "bbox": [
+            494,
+            548,
+            896,
+            804
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In fact, the potency represents the cumulative yield, i.e., the fraction of the total exposed population which has survived mutated (in the cI gene), recombined (in the lacZ gene) or induced for the SOS functions following a genotoxic treatment through the entire dose range from dose zero to the dose killing practically all treated cells. This calculation eliminates dimensions of the dose, thus permitting comparisons of any agent (e.g., chemicals and radiations) and is also expected to diminish quantitative differences between experiments and/or laboratories, in particular for unstable agents, by cumulating effects over the entire biologically effective dose range. Ideally, compared to the in vivo situation, this 'potency' could be related to the number of cells which are the principal targets for the carcinogenic processes in a carcinogen-treated organism, since they represent the affected viable cells. ",
+        "bbox": [
+            494,
+            807,
+            894,
+            886
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4df81ee200c289250c14cb405081ff3f6b4dd1ff939f4bfbbfa2017bf7a9994a.jpg",
+        "image_caption": [
+            "of the $\\mathrm { T D } _ { 5 0 }$ $( \\mathbf { m g } / \\mathbf { k g }$ b.w.) median value in rodents reported by Bartsch et al. (1983). The $\\mathrm { T D } _ { 5 0 }$ values of DES and DMS were mutagenic and recombinogenic potencies (d). The genotoxic potency of EMS is indicated by an arrow since the $\\mathrm { T D } _ { 5 0 }$ value was not exactly defined and its carcinogenicity is uncertain (Bartsch et al., 1983). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            262,
+            92,
+            729,
+            532
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            660,
+            468,
+            882
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "As a measure of the carcinogenic potency we have chosen the $\\mathrm { T D } _ { 5 0 }$ value (Bartsch et al., 1983), relying on published expert advice (Meselson and Russell, 1977; Bartsch et al., 1983; Peto et al., 1984). ",
+        "bbox": [
+            512,
+            660,
+            916,
+            739
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The results of the correlation analysis show that the M, R and I potencies taken separately do not correlate with the carcinogenic potency for 9 monofunctional alkylating agents (Fig. 3a, b, c). A lack of correlation between mutagenicity in Salmonella and carcinogenicity in rodents has already been reported for these monofunctional alkylating agents (Bartsch et al., 1983). No correlation was found between the carcinogenic potency (Bartsch et al., 1983) and the SOS induction potency measured in the SOS chromotest (Quillardet et al., 1985) for 9 alkylating agents (ENU, MNU, MNNG, DES, MMS, DMS, ECH, $\\beta$ PL, PS) (not shown). Thus, our results on mutagenicity and SOS induction in the $E .$ coli multitest have confirmed the results in the Ames mutatest and the SOS chromotest, in that no quantitative correlation with carcinogenicity was found. ",
+        "bbox": [
+            514,
+            741,
+            916,
+            882
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce5466d02be4a843a79ff94974e79be8185bc9d492208e1d8ecdd4380112406b.jpg",
+        "image_caption": [
+            "reciprocal of the $\\mathrm { { T D } } _ { 5 0 }$ $( \\bf { m g } / \\bf { k g }$ b.w.) median value $\\pm$ the reciprocal of the lowest and highest $\\mathrm { T D } _ { 5 0 }$ values taken from Bartsch et al. (1983). The $\\mathrm { T D } _ { 5 0 }$ valuof DES and DMS were extrapolated from their carcinogenic indices (Druckrey et al 1970) as indicatein the text under Results. The reciprocal of the lowest, median and highest $\\mathrm { \\Delta T D } _ { 5 0 }$ values are: 1, 0.125, 0.029 for ENU; 1, 0.037, 0.0056 for MNNG0.1, 0.04, 0.0065rMN0.1 NT0.00 0.0010.001 ES 0.00.00 0.00071MS; 0.00075, 0.00066, 0.00058 for DMS; 0.000073 for ECH. The $( \\mathbf { M } \\times \\mathbf { R } )$ potency is represented by the mean value of at least 3 separate experiments $\\pm \\ \\mathbf { s E }$ The value of M and R potencies are given in Table . Since EMS showed no detectable carcinogenic activity (Bartsch et al., 1983), only 8 data points were used for the correlation analysis for which $r = 0 . 9 5$ gives $p < 0 . 0 0 1$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            270,
+            91,
+            703,
+            582
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            742,
+            474,
+            886
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "M potency does not appear to correlate with either R or I potencies which do correlate among themselves (Fig. 2a, b, c). Therefore different combinations of M, I and R values were used to correlate with carcinogenic potency. Among tested combinations (addition or product of M and I or M and R potencies), the product of M and R potencies correlates best with the carcinogenic potency (Figs. 3d, 4). ",
+        "bbox": [
+            518,
+            742,
+            918,
+            886
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The product of $M$ and R potencies is indicative of the yield of cells which have been affected coincidently by both mutation and recombination following a genotoxic treatment. Direct measurement is not practicable because of the low frequency of coincident M and $\\mathbf { R }$ events in the same cell. ",
+        "bbox": [
+            74,
+            91,
+            474,
+            203
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Even though it is becoming obvious that both point mutations and chromosomal rearrangements are involved in carcinogenesis (Radman et al., 1982; Klein and Klein, 1985), the existence of a mathematical relationship between the $( \\mathbf { M } \\times \\mathbf { R } )$ product and the $1 / \\mathrm { T D } _ { 5 0 }$ does not necessarily imply the same causal relationship in animal cells. It may be that the detection of DNA lesions relevant to cancer induction is optimized by taking into account both mutagenic and recombinogenic effects. However, it has been suggested that mutated recessive cancer genes may need a recombinational event to be expressed (for review; Radman et al., 1982). ",
+        "bbox": [
+            72,
+            206,
+            472,
+            431
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Recombination, and in general chromosomal rearrangement, could allow the expression of recessive cancer genes by producing homozygosity (via crossing over or gene conversion) or hemizygosity (via aneuploidy or deletion) of such genes. In the case of retinoblastoma (Cavenee et al., 1983) and Wilms' tumor (Fearon et al., 1984; Koufos et al., 1984; Orkin et al., 1984; Reeve et al., 1984) mutation and chromosomal rearrangement, including mitotic recombination, involving specific chromosomal loci, were found in several tumors. Taking into account these observations in relation to the problem of cancer risk prediction by short-term tests, it appears necessary to use batteries of short-term tests which involve the detection of both mutations and chromosomal rearrangements. ",
+        "bbox": [
+            70,
+            433,
+            470,
+            707
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We have obtained an $E$ coli genotoxicity-carcinogenicity calibration curve for 9 monofunctional alkylating agents (Fig. 4), while all previous efforts to obtain a similar correlation have failed (Bartsch et al., 1983; our analysis of Quillardet et al., 1985). Clearly this is just a small class of well-studied chemical carcinogens. Therefore, this analysis must be extended to other types of genotoxic agents, producing different DNA lesions (e.g., cross-linking agents, free radical-forming substances, aromatic amines, polycyclic hydrocarbons, etc.). The validity of the calibration curve in Fig. 4 may hold for many other DNA-damaging agents, alternatively other calibration curves typical of some chemical classes may be obtained. Indeed a previous study on bifunctional alkylating agents succeeded in showing a significant correlation between carcinogenic potency in rodents and both the recombinogenic and sOS inducer potencies in $E$ coli for all examined compounds (Quinto and Radman, 1987). Thus it might be possible to design typical genotoxicity-carcinogenicity calibration curves for different classes of DNA-damaging agents. If this were the case, the short-term test methodology proposed (Quinto and Radman, 1987; this study) may, in addition to providing a genotoxicity profile, become of considerable practical value: the $E$ coli multitest requires about 1000-fold less time and expense than the estimate of $\\mathrm { T D } _ { 5 0 }$ (Peto et al., 1984). ",
+        "bbox": [
+            68,
+            710,
+            468,
+            884
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            92,
+            918,
+            401
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            420,
+            664,
+            435
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Drs. H. Bartsch, R. Montesano, R.H. Haynes, P. Caillet-Fauquet, G. Maenhaut-Michel, C. Malaveille and A. Barbin for helpful discussions. This work was supported by CEC Contract ENV-764 B (RS). I.Q. was supported by a CEC grant in the field of Molecular Biology and Radiobiology. ",
+        "bbox": [
+            514,
+            452,
+            916,
+            566
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            584,
+            601,
+            599
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Ashby, J., F.J. de Serres, M. Draper, M. Ishidate Jr., B.H. Margolin, B.E. Matter and M.D. Shelby (1985) Evaluation of Short-Term Tests for Carcinogens, Report of the International Programme on Chemical Safety's Collaborative Study on In Vitro Assays, Elsevier, Amsterdam, Oxford, New York.   \nBartsch, H., C. Malaveille, H.F. Stich, E.C. Miller and J.A. Miller (1977) Comparative electrophilicity, mutagenicity, DNA repair induction activity and carcinogenicity of some $N .$ and $o$ -acyl derivatives of $N$ -hydroxy-2-aminofluorene, Cancer Res., 37, 14611467.   \nBartsch, H., B. Terracini, C. Malaveille, L. Tomatis, J. Wahrendorf, G. Brun and B. Dodet (1983) Quantitative comparison of carcinogenicity, mutagenicity and electrophilicity of 10 direct-acting alkylating agents and of the initial $O ^ { 6 }$ : 7-alkylguanine ratio in DNA with carcinogenic potency in rodents, Mutation Res., 110, 181219.   \nCavenee, W.K., T.P. Dryja, R.A. Phillips, W.F. Benedict, R. Godbout, B.L. Gallie, A.L. Murphree, L.C. Strong and R.L. White (1983) Expression of recessive alleles by chro305, 779784.   \nClive, D., K.O. Johnson, F.S. Spector, A.G. Batson and M.M.M. Brown (1979) Validation and characterization of the L5178Y/TK $+ / -$ mouse lymphoma mutagen assay system, Mutation Res., 59, 61-108.   \nCoombs, M.M., C. Dixon and A.M. Kissonerghis (1976) Evaluation of the mutagenicity of compounds of known carcinogenicity, belonging to the benz[a ]anthracene, chrysene, and cyclopenta[ $\\pmb { a }$ lphenanthrene series, using Ames' test, Cancer Res., 36, 45254529.   \nDambly-Chaudière, C., M. Gottesman, C. Debouck and S. Adhya (1983) Regulation of the pR operon of bacteriophage lambda, J. Mol. Appl. Genet., 2, 4546.   \nde Serres, F.J., and J. Ashby (1981) Evaluation of Short-Term Tests for Carcinogens. Report of the International Collaborative Program, Elsevier/North-Holland, New York, Amsterdam, Oxford.   \nDruckrey, H., H. Kruse, R. Preussmann, S. Ivankovic and C. Landschutz (1970) Cancerogene alkylierende Substanzen, Z. Krebsforsch., 74, 241270.   \nFearon, E.R., B. Vogelstein and A.P. Feinberg (1984) Somatic deletion and duplication of genes on chromosome 11 in Wilms' tumours, Nature (London), 309, 176178.   \nFranklin, N.C. (1971) The N operon of Lambda: extent and regulation as observed in fusions to the tryptophan operon of $E _ {  }$ coli, in: A.D. Hershey (Ed.), The Bacteriophage Lambda, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY, pp. 621638.   \nGold, L.S., C.B. Sawyer, R. Magaw, G.M. Backman, M. de Veciana, R. Levinson, N.K. Hooper, W.R. Havender, L. Bernstein, R. Peto, M.C. Pike and B.N. Ames (1984) A carcinogenic potency database of the standardized results of animal bioassays, Environ. Health Perspect., 58, 9319.   \nHaynes, R.H., and F. Eckardt (1980) Mathematical analysis of mutation-induction kinetics, in: F.J. de Serres and A. Hollaender (Eds.), Chemical Mutagens. Principles and Methods for their Detection, Plenum, New York, pp. 271-304.   \nHollaender, A., and F.J. de Serres (1971-1983) Chemical Mutagens. Principles and Methods for their Detection, Plenum, New York, London, Vols. 1-8.   \nJones, C.A., and E. Huberman (1980) A sensitive hepatocytemediated assay for the metabolism of nitrosamines to mutagens for mammalian cells, Cancer Res., 40, 406411.   \nKlein, G., and E. Klein (1985) Evolution of tumours and the impact of molecular oncology, Nature (London), 315, 190195.   \nKoufos, A., M.F. Hansen, B.C. Lampkin, M.L. Workman, N.G. Copeland, N.A. Jenkins and W.K. Cavenee (1984) Loss of alleles at loci on human chromosome 11 during genesis of Wilms' tumour, Nature (London), 309, 170172.   \nKuroki, T., and H. Bartsch (1979) Mutagenicity of some Nand $^ o$ -acyl derivatives of $N$ -hydroxy-2-aminofluorene in V79 Chinese hamster cells, Cancer Lett., 6, 6772.   \nLangenbach, R., R. Gingell, C. Kuszynski, B. Walker, D. Nagel and P. Pour (1980) Mutagenic activities of oxidized derivatives of $N$ -nitrosodipropylamine in tne liver cellmediated and S. typhimurium assays, Cancer Res., 40, 34633467.   \nMcCann, J., and B.N. Ames (1976) Detection of carcinogens as mutagens in the Salmonella/microsome test: assay of 300 chemicals: Discussion, Proc. Natl. Acad. Sci. (U.S.A.), 73, 950954.   \nMeselson, M., and K. Russell (1977) Comparisons of carcinogenic and mutagenic potency, in: H.H. Hiatt, J.D. Watson and J.A. Winsten (Eds.), Origins of Human Cancer, Vol. C, Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY, pp. 14731481.   \nOrkin, S.H., D.S. Goldman and S.E. Sallan (1984) Development of homozygosity for chromosome 1lp markers in Wilms' tumour, Nature (London), 309, 172174.   \nParodi, S., S. De Flora, M. Cavanna, A. Pino, L. Robbiano, C. Bennicelli and G. Brambilla (1981) DNA-damaging activity in vivo and bacterial mutagenicity of 16 hydrazine derivatives as related quantitatively to their carcinogenicity, Cancer Res., 41, 14691482.   \nPeto, R., M.C. Pike, L. Bernstein, L.S. Gold and B.N. Ames (1984) The $\\mathrm { \\Delta T D } _ { 5 0 }$ : a proposed general convention for the numerical description of the carcinogenic potency of chemicals in chronic-exposure animal experiments, Environ. Health Perspect., 58, 18.   \nQuillardet, P., C. de Bellecombe and M. Hofnung (1985) The SOS Chromotest, a colorimetric bacterial assay for genotoxins: validation study with 83 compounds, Mutation Res., 147, 7995.   \nQuinto, I., and M. Radman (1987) Carcinogenic potency in rodents versus genotoxic potency in E. coli: a correlation analysis for bifunctional alkylating agents, Mutation Res. 181, 235242.   \nRadman, M., P. Jeggo and R. Wagner (1982) Chromosomal rearrangement and carcinogenesis, Mutation Res., 98, 249264.   \nReeve, A.E., P.J. Housiaux, R.J.M. Gardner, W.E. Chewings, R.M. Grindley and L.J. Millow (1984) Loss of a Harvey ras allele in sporadic Wilms' tumour, Nature (London), 309, 174176.   \nTenenbaum, L., I. Quinto and M. Faelen (1988) The E. coli multitest: ostrains ocharacterize diverse genooxi effects, Mutation Res., 203, 415426.   \nTeranishi, K., K. Hamada and H. Watanabe (1975) Quantitative relationship between carcinogenicity and mutagenicity of polyaromatic hydrocarbons in Salmonella typhimurium mutants, Mutation Res., 31, 97102.   \nToman, Z., C. Dambly-Chaudière, L. Tenenbaum and M. Radman (1985) A system for detection of genetic and egntilterations colinduced by di agents, J. Mol. Biol., 186, 97105.   \nWislocki, P.G., K.M. Gadek, M.W. Chou, S.K. Yang and A.Y.H. Lu (1980) Carcinogenicity and mutagenicity of the 3,4-dihydrodiols and other metabolites of 7,12-dimethylbenz[a]anthracene and its hydroxymethyl derivatives, Cancer Res.. 40 3661-3664 ",
+        "bbox": [
+            512,
+            615,
+            914,
+            884
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            99,
+            477,
+            849
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            95,
+            920,
+            845
+        ],
+        "page_idx": 8
+    }
+]

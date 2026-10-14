@@ -1,0 +1,3878 @@
+[
+    {
+        "type": "text",
+        "text": "Este es un listado de personajes en la franquicia Toy Story. ",
+        "bbox": [
+            70,
+            141,
+            544,
+            157
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Principales protagonistas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            193,
+            400,
+            219
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sheriff Woody ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            256,
+            231,
+            277
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Es un vaquero comisario, el juguete favorito de su dueño Andy Davis, y el líder de los juguetes de la habitación de Andy. Sin embargo, su posición está en peligro por la llegada de Buzz Lightyear; y, al intentar deshacerse de él por celos, terminan ambos por accidente en la casa del siniestro Sid Phillips, vecino de Andy, que tortura a los juguetes. Woody y Buzz consiguen al final volver a casa de Andy y, con el transcurso de la película, se convierten en los mejores amigos. En Toy Story 2, Woody es secuestrado por un coleccionista de juguetes codicioso llamado Al McWhiggin, que pretende exhibirlo en un museo en Japón. En esta historia se hacen todos amigos de la vaquera Jessie. En Toy Story 3, Andy se prepara para ir a la universidad y decide llevarse consigo a Woody; mientras este discute con sus amigos si Andy les quiere o no, todos acaban por accidente en la guardería Sunnyside. Tras no poder convencer a sus amigos de volver a casa de Andy, Woody escapa de la guardería y acaba en la casa de la niña Bonnie. Luego de que los juguetes de la niña le revelen la verdad del horror de Sunnyside bajo la dictadura del oso Lotso, Woody vuelve allí en busca de sus amigos, y consiguen todos escapar. Al final de la historia, Andy acaba obsequiando sus juguetes a Bonnie, incluyendo a Woody. En Toy Story 4, Woody ya no es el juguete favorito de Bonnie, sino Forky, a quien protege y va a rescatar enfrentando una aventura donde se reencuentra con la pastora Bo Peep. Debido a su reencuentro con la pastora, al desdén de Bonnie hacia él, y a su motivación por hacer feliz a otros niños, al final de la película Woody decide quedarse en el parque de diversiones, viviendo como un \"juguete perdido\". ",
+        "bbox": [
+            70,
+            285,
+            576,
+            681
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/fc719f1f546bf4a1bacd465f9997e0434ce192c0b3ede57d6bf962843fae3b67.jpg",
+        "image_caption": [
+            "Sheriff Woody "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            293,
+            924,
+            627
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            684,
+            931,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Woody es leal, muy amigable y tiene una gran capacidad de liderazgo y para idear planes complejos. Siempre se asegura de que ningún juguete se quede atrás. Tanto en las historias de Andy como de Bonnie, Woody ejerce siempre el papel de héroe, junto con Buzz y Jessie. ",
+        "bbox": [
+            70,
+            792,
+            931,
+            846
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Buzz Lightyear ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            240,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Es un astronauta de juguete. En Toy Story es la nueva atracción en el cuarto de Andy. Al principio, Buzz realmente no sabe que es un juguete y actúa como un guardián espacial de verdad, y tras rivalizar con Woody, termina en la casa del malicioso Sid Phillips, donde se entera de que realmente es sólo un juguete, pero aprende de Woody lo bueno que es serlo y ambos se convierten en los mejores amigos. En Toy Story 2, lidera los juguetes de Andy: Mr. Potato Head, Slinky Dog, Rex, Hamm en una misión audaz para rescatar a Woody de Al McWhiggin. En Toy Story 3 decide ir a Sunnyside con el resto de los juguetes de Andy, separándose de Woody, pero Lotso lo convierte en uno de sus secuaces y es rescatado por los demás, en su intento por repararlo toma una personalidad paródica española, aunque posteriormente vuelve a la normalidad y es donado por Andy a Bonnie. Su interés amoroso es Jessie. En Toy Story 4, tras rescatar a Woody y conocer su aventura en la tienda de antigüedades, lo convence de quedarse con Bo Peep, asegurando que Bonnie estará bien, despidiéndose así de su mejor amigo y asumiendo el liderazgo de los juguetes junto con Jessie. ",
+        "bbox": [
+            70,
+            73,
+            576,
+            450
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6c1923c648430921f1f565f563697aba6511d6cf449cd0da05097467d82eaeb.jpg",
+        "image_caption": [
+            "Buzz Lightyear "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            79,
+            924,
+            391
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Buzz Lightyear es muy fuerte, ágil y de muy buen corazón, aunque a veces un poco nervioso, y suele ejercer el papel de héroe en las historias de Andy y Bonnie junto con Woody y Jessie. ",
+        "bbox": [
+            72,
+            465,
+            931,
+            502
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Jessie ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            532,
+            144,
+            551
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Una muñeca vaquera intrépida y alegre que siempre está lista para una audaz aventura cuando se trata de ayudar a los necesitados. Hizo su debut en Toy Story 2, perteneciendo a la colección de Al de la serie \"El Rodeo de Woody\". Con la inminente partida de Andy que amenaza a los juguetes, Jessie tiene miedo de que la vuelva a abandonar su dueño, ya que tuvo una experiencia similar con su antigua dueña, Emily, quien la donó cuando creció. Se hace cargo de la situación e insiste en que los juguetes controlen su propio destino. En Toy Story 4, Bonnie tiene un aprecio especial hacia ella (antes de la creación de Forky), y al final de la película, recibe la medalla de Sheriff de Woody, asumiendo el cargo de líder de los juguetes. Hace una muy buena amistad con los demás juguetes. ",
+        "bbox": [
+            70,
+            559,
+            931,
+            709
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bullseye ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            737,
+            169,
+            757
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Llamado Tiro al Blanco en Hispanoamérica y Perdigón en España, es el fiel caballo de Woody en su programa \"El Rodeo de Woody\". Corre como el viento, es muy asustadizo y cariñoso, y espera junto en el apartamento de Al a que este complete la colección. No habla, aunque entiende perfectamente a los demás juguetes, y puede relinchar como un caballo normal, aunque raramente lo hace. Huye junto a Jessie y Woody, y como ellos, regresa a la habitación de Andy para convertirse en su nuevo juguete. ",
+        "bbox": [
+            70,
+            766,
+            932,
+            858
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Rex ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            45,
+            115,
+            62
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Es un tiranosaurio rex verde. En Toy Story, pertenece a Andy Davis y teme ser reemplazado por otro dinosaurio de juguete. En Toy Story 2, va con los otros juguetes de Andy para rescatar a Woody después de que Al McWhiggin lo robó, y logra derrotar a al Emperador Zurg accidentalmente. En Toy Story 3, es uno de los juguetes restantes de Andy y decide seguir a Jessie e ir a Sunnyside, pero no era lo que esperaban y logran escapar de Lotso y es donado a Bonnie. En los créditos de la película y en los cortos se ve que juega principalmente con la dinosaurio Trixie. ",
+        "bbox": [
+            70,
+            72,
+            578,
+            258
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rex es muy nervioso, inseguro de sí mismo, asustadizo y torpe, a menudo se gana comentarios ruscos de sus compañeros, aunque tiene muy buen corazón y es muy sensible. ",
+        "bbox": [
+            70,
+            275,
+            576,
+            349
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Slinky ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            377,
+            142,
+            397
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Es un perro salchicha de resorte. Tiene cabeza, cuello y patas delanteras de perro y la unión a su otra parte es un resorte. En Toy Story, es la mano derecha de Woody y segundo al mando hasta la llegada de Buzz Lightyear, Slinky se decepciona de Woody cuando este arroja a Buzz Lightyear por la ventana, sin embargo, luego recupera el respeto en él. En Toy Story 2, va con los otros juguetes de Andy para rescatar a Woody después de que Al lo secuestra. En Toy Story 3, es uno de los juguetes restantes de Andy y decide seguir a Jessie e ir a Sunnyside, pero no era lo que esperaban y logran escapar de Lotso y es donado a Bonnie. ",
+        "bbox": [
+            70,
+            407,
+            578,
+            612
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fue interpretado por Jim Varney en las dos primeras películas hasta su fallecimiento por cáncer de pulmón en el 2000. Blake Clark lo reemplazó para los dos películas siguientes. ",
+        "bbox": [
+            70,
+            630,
+            578,
+            685
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hamm ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            716,
+            144,
+            733
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Es una alcancía con forma de cerdo. En Toy Story, pertenece a Andy Davis y tiene una relación estrecha con el Sr. Cara de Papa. En Toy Story 2, va con los otros juguetes de Andy para ",
+        "bbox": [
+            68,
+            742,
+            578,
+            798
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e2392636d325011bf0c95c726a37f838e13b48aad798cebbcbcb412fd05d37fc.jpg",
+        "image_caption": [
+            "Jessie "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            51,
+            924,
+            441
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e1419dd69abccb616a7f23b65257ec231932fe37d3c6065a352dbe47c717538b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            495,
+            922,
+            744
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rex ",
+        "bbox": [
+            608,
+            749,
+            642,
+            762
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "rescatar a Woody después de que Al lo robó. En Toy Story 3, es uno de los juguetes restantes de Andy y decide seguir a Jessie e ir a Sunnyside, pero no era lo que esperaban y logran escapar de Lotso y es donado a Bonnie. ",
+        "bbox": [
+            70,
+            799,
+            931,
+            853
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hamm es muy sarcástico, y es quizá el juguete más inteligente dentro de los protagonistas. Es quien tiene el mayor conocimiento del mundo exterior, a menudo muy familiarizado con los diversos aparatos que se le muestran. Se lleva muy bien con los otros juguetes (especialmente con el Mr. Potato Head, quien parece ser su mejor amigo), aunque a veces discute mucho con Rex. En las historias de Andy hace el papel de villano, como el malvado doctor Tocino (en España malvado doctor Chuleta de cerdo). ",
+        "bbox": [
+            70,
+            869,
+            931,
+            926
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            43,
+            576,
+            117
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mr. Potato Head ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            146,
+            250,
+            166
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Llamado Sr. Cara de Papa en Hispanoamérica y Sr. Patata en España, está basado en el conocido juguete de Playskool. En Toy Story, se muestra muy caprichoso con los otros juguetes de Andy al descubrir que Woody arrojó a Buzz Lightyear por la ventana a propósito. En Toy Story 2, va con los otros juguetes de Andy para rescatar a Woody después de que Al McWhiggin lo robó. Su esposa, la Sra. Potato Head, adopta tres juguetes Alien. En Toy Story 3, es uno de los juguetes restantes de Andy y decide seguir a Jessie y ir a Sunnyside, pero no era lo que esperaban y logran escapar de Lotso y es adoptado por Bonnie. ",
+        "bbox": [
+            70,
+            174,
+            578,
+            381
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Es algo gruñón, muy sarcástico y cínico; suele ser el primero en estar en contra de Woody, mostrándose crítico ante su liderazgo, aunque en el fondo le tiene mucho aprecio, así como a los otros juguetes, y ama mucho a su esposa, Mrs. Potato Head. Solía ser antagonista en las historias de Andy, como un malvado ladrón bajo el nombre de El Tuerto Bart. ",
+        "bbox": [
+            70,
+            397,
+            578,
+            509
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Emilia García ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            539,
+            223,
+            558
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Llamada Sra. Cara de Papa en Hispanoamérica y Sra. Patata en España. Es mencionada como regalo de Navidad al final de la primera película siendo un regalo para Molly, la hermana pequeña de Andy y se la ve físicamente a partir de la segunda película. Ejerce como mujer del Sr. Cara de Papa, y en las historias de su dueño, también como villana bajo el nombre de la Tuerta Betty. ",
+        "bbox": [
+            70,
+            566,
+            578,
+            663
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/d60e894160d75c38edb27149d5e8664dd3504c4d6ac909fcb30fe7f33ae83ddd.jpg",
+        "image_caption": [
+            "Slinky "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            51,
+            922,
+            219
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b39f63ae229019cd43cff25211d23193ece174e241796c4da35f56141bc35bb9.jpg",
+        "image_caption": [
+            "Mr. Potato Head "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            274,
+            922,
+            608
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            662,
+            756,
+            679
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Marcianos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            707,
+            189,
+            726
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Son tres marcianitos verdes con tres ojos cada uno que viajaban en la furgoneta que utilizan los juguetes para volver a casa en Toy Story 2. Están a punto de caer por la ventanilla cuando el Sr. Patata (o Cara de Papa) los salva, por lo que ellos están \"muy agradecidos\" y lo siguen a todos lados. Este se ve obligado por su mujer a adoptarlos como sus hijos. En Toy Story 3, rescatan a los demás juguetes de caer en el incinerador del basurero. ",
+        "bbox": [
+            70,
+            735,
+            932,
+            828
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bo Peep ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            168,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(También es llamada Betty en Hispanoamérica, excepto en Toy Story 4) Es una pastorcita de porcelana. En Toy Story, se preocupa mucho por Woody y deja de confiar un poco en él cuando este arroja a Buzz Lightyear por la ventana a propósito. En Toy Story 2, Bo Peep se entristece mucho cuando Woody es secuestrado por Al McWhiggin, pero no acompaña al grupo a buscarlo y se queda en la habitación de Andy. En Toy Story 3, Rex menciona que han perdido a Bo Peep para tristeza de Woody. En Toy Story 4, se revela que Bo Peep fue regalada por Molly antes de los sucesos de la tercera entrega. En la misma película, Bo Peep, con otra vestimenta, se reencuentra con Woody y le enseña lo grande que puede ser un mundo para un juguete más allá de pertenecer a un único niño, quedándose con el vaquero en el parque de diversiones al final de la película. ",
+        "bbox": [
+            70,
+            71,
+            931,
+            239
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aunque era comúnmente presentada como un juguete de Molly, Andy también jugaba mucho con ella; a menudo la usaba en sus historias como una damisela en apuros, para ser rescatada por Woody. ",
+        "bbox": [
+            70,
+            257,
+            931,
+            293
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Forky ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            323,
+            137,
+            343
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Un cuchador de plástico con brazos de limpia tuberías (o limpia pipas), ojos saltones y piernas de palos de polo. Este personaje aparece por primera vez en la cuarta entrega. Fue construido por Bonnie al sentirse sola durante su primer día en preescolar. No se considera un juguete, sino basura, e intenta huir del resto. Woody lo hace entrar en razón, y Forky rápidamente se familiariza con él. Posteriormente, aparece en unos cortos donde hace preguntas sobre su entorno al resto de los juguetes. ",
+        "bbox": [
+            70,
+            349,
+            931,
+            442
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Principales Antagonistas ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            478,
+            391,
+            503
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sid Phillips ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            541,
+            200,
+            561
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Es el vecino de Andy y el principal antagonista de la primera película. Es un niño psicópata y bravucón que disfruta mutilando a sus juguetes e intercambiándoles piezas. También se le muestra atormentando a su hermana y destruyendo sus juguetes con ciertos métodos, como explotarlos, quemarlos y decapitarlos por diversión. Woody, Buzz y sus juguetes le dan una lección mostrándose con vida frente a él, dejándolo espantado. En la tercera película, aparece como el basurero que pasa por la calle frente a la casa de Andy. ",
+        "bbox": [
+            70,
+            568,
+            931,
+            662
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Al McWhiggin ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            691,
+            228,
+            711
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Apodado \"El Hombre Pollo\" por los juguetes de Andy, es el propietario de \"Al's Toy Barn\", que se menciona como una cadena de jugueterías en la primera película durante un anuncio de juguetes de Buzz Lightyear. Al se ve por primera vez en Toy Story 2 durante un anuncio televisivo en el que está vestido con un traje de pollo. Al es un coleccionista muy obsesivo y codicioso de todo lo relacionado con el viejo programa de televisión El Rodeo de Woody. Tiene mucho sobrepeso, es muy impaciente y perezoso, ya que se queja mucho de tener que \"conducir todo el camino para trabajar un sábado\", a pesar de que su apartamento solo está al otro lado de la calle de la tienda. Intenta comprar a Woody en una venta de garaje que tiene la madre de Andy cuando accidentalmente termina allí, pero cuando ella se niega a vender el juguete, Al le roba a Woody para completar su colección y venderla a un museo de juguetes en ",
+        "bbox": [
+            70,
+            718,
+            931,
+            888
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Tokio, Japón. Los juguetes de Andy finalmente rescatan a Woody, desbaratando los planes de Al para vender su colección. Durante su último comercial poco después, Al no puede controlarse a sí mismo a partir de sollozos histéricos por sus pérdidas como resultado. ",
+        "bbox": [
+            70,
+            42,
+            931,
+            98
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Oloroso Pete (Capataz) ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            127,
+            332,
+            147
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Es un muñeco sacado de una vieja serie llamada \"El Rodeo de Woody\". Él ha estado durante muchos años en el almacén de Al junto con Jessie y Tiro al Blanco. Está encerrado en una caja que nunca se ha abierto. Él odia a los juguetes espaciales, ya que a causa de ellos, la serie El Rodeo de Woody pasó de moda y se canceló. Cuando Buzz y los demás juguetes de Andy van en busca de Woody, él no lo consiente, y obliga a Woody a que vaya al museo de Japón con el Rodeo. ",
+        "bbox": [
+            70,
+            155,
+            931,
+            248
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Lotso ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            279,
+            137,
+            296
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Es un oso amoroso de color rosa que huele a frutas, sin embargo, realmente es el antagonista principal de la tercera película. Es cariñoso por fuera y un monstruo muy descortés y malvado por dentro, es también quién está al mando de la guardería de Sunnyside, convirtiéndola en una auténtica prisión para otros juguetes que intentan salir de allí. Pertenecía a una niña llamada Daisy, pero durante un paseo, ella se quedó dormida y sus padres lo olvidaron en un descampado. Cuando regresó vio que lo habían sustituido por un peluche idéntico a él, y eso provocó un cambio en él, volviéndolo muy descortés y malvado. Lotso acaba en el basurero con los juguetes de Andy, y pese a que parece ayudarlos un poco, los traiciona dejándolos al borde de la incineración. Al final, termina en la parrilla de un camión de basura junto con otros juguetes en mal estado. ",
+        "bbox": [
+            70,
+            305,
+            931,
+            473
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Humanos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            511,
+            198,
+            532
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Andy Davis ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            572,
+            201,
+            591
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Es el propietario de Woody, Buzz Lightyear y los otros juguetes en las tres primeras películas. Vive con su madre y su hermana Molly. Su padre nunca se ve ni se menciona en ninguna de las películas. En Toy Story, Andy recibe una figura de acción de Buzz Lightyear por parte de su madre para su cumpleaños. Andy inicialmente pasa mucho más tiempo con su nuevo juguete, pero aún tiene un lugar especial en su corazón para Woody, quien ha sido su juguete favorito desde muy pequeño. Por lo tanto, se preocupa mucho cuando ambos juguetes desaparecen por un tiempo, temiendo que se pierdan durante el traslado de su familia a una nueva casa. Ambos aparecen al final de la película en la camioneta de su mamá durante la mudanza. En Toy Story 2, Andy sólo se ve al principio y brevemente al final, ya que se va a un campamento. Al final de la película, Andy se complace en tener cinco juguetes nuevos, Jessie, Bullseye y los tres Aliens. En Toy Story 3, Andy ya tiene 17 años de edad y se prepara para ir a la universidad. No ha jugado con sus juguetes desde hace bastante tiempo, pero se resiste a la sugerencia de su madre de donar o vender los juguetes restantes. Él decide poner a la mayoría de ellos en el ático, excepto a Woody, a quien planea llevar a la universidad con él. Sin embargo, cuando desaparecen, él se frustra mucho. Al volver a casa, antes de que Andy vaya a la universidad, Woody guarda secretamente la dirección de Bonnie (la hija de un amigo de la familia) en la caja en la que están los juguetes, lo que provocó que Andy, al encontrarlos en la caja, aceptara la idea de donarlos. Se los pasa a Bonnie y les da a cada uno su propia introducción, indicando las cualidades que hacen que cada uno de ellos sea especial. Cuando ",
+        "bbox": [
+            70,
+            599,
+            931,
+            922
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bonnie también encuentra a Woody en la caja, Andy muestra una gran renuencia a pasar su juguete favorito, pero finalmente se rinde, permitiendo que los juguetes permanezcan juntos en un ambiente en el que serán amados y jugados nuevamente. Pasa un tiempo con Bonnie y los juguetes una última vez antes de ir a la universidad, despidiéndose finalmente con un \"Gracias, chicos\". En Toy Story 4, sólo se observan de él unos flashbacks de sus juegos con Woody, Buzz y los demás juguetes. ",
+        "bbox": [
+            70,
+            42,
+            931,
+            136
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Sra. Davis ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            166,
+            186,
+            185
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Es la madre de Andy y Molly. En la primera película, tiene el pelo castaño y lo ata en una coleta. En las otras dos películas, su apariencia física es notablemente diferente y ahora tiene el pelo rubio y lo deja caer. La señora Davis es presentada como una madre muy amorosa a Andy y Molly, pero es una amenaza importante (aunque indirecta) para los juguetes, ya que sus acciones la trama en movimiento en las tres películas, aunque no son maliciosas. En la primera película, ella compra un juguete Buzz Lightyear para Andy en su cumpleaños, lo que provocó la rivalidad entre Buzz y Woody. En la segunda película, pone a la venta a un amigo de Woody en una venta de garaje, lo que provocó el intento de rescate de Woody, donde posteriormente es robado por Al. En la tercera película, ella le ordena a Andy que limpie su habitación antes de ir a la universidad, y por error, tira los juguetes que Andy planeaba poner en el ático (ya que él los puso en una bolsa de basura). A pesar de esto, en la segunda película, ella es demasiado protectora de Woody, describiéndolo como un viejo juguete familiar. Al final de la tercera película, ella se derrumba y llora por la partida de su hijo, pero Andy le asegura que siempre estará con él, incluso si están separados. En la cuarta película, se observa que ella se llevó a Bo Peep para ser regalada mientras ella y Woody intentaban rescatar a Control. ",
+        "bbox": [
+            70,
+            192,
+            931,
+            457
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Molly Davis ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            485,
+            203,
+            505
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Es la hermana menor de Andy, vista como un bebé en la primera película, una niña pequeña en la segunda película y como pre-adolescente en la tercera película. Andy usa su cuna como cárcel de la ciudad durante el tiempo de juego al comienzo de la primera película, lo que demuestra que comparten la misma habitación. Cuando la familia se muda más tarde en la película, Andy y Molly tienen habitaciones separadas, aunque Molly tiene planes de mudarse a la habitación de Andy una vez que se vaya a la universidad. Al final de la primera película, ella recibe un juguete de Mrs. Potato Head para Navidad. En Toy Story 3, también era dueña de una muñeca Barbie, que dona a la guardería, ya que en ese momento estaba menos interesada en las muñecas y los juguetes. ",
+        "bbox": [
+            70,
+            514,
+            931,
+            665
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hannah Phillips ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            692,
+            250,
+            713
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Es la hermana menor de Sid, que aparece varias veces en la primera película. Hannah se ha adaptado a que sus juguetes fueran mutilados por Sid. La mayoría de sus muñecas tienen cabezas diferentes o partes del cuerpo alteradas, y al final de la película, encuentra placer asustando a su hermano después de que Woody y los otros juguetes lo hayan horrorizado. ",
+        "bbox": [
+            70,
+            720,
+            931,
+            795
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "El Restaurador ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            242,
+            62
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Es un anciano reparador de artículos de colección. Es llamado con urgencia por Al, luego de que a Woody se le rompa el brazo, a lo que procede a repararlo y a darle nuevos retoques. Su diseño es el mismo que el del protagonista del cortometraje Geri's Game de 1997. ",
+        "bbox": [
+            70,
+            71,
+            931,
+            127
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Emily ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            155,
+            136,
+            175
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Era la antigua dueña de Jessie, quien la abandonó cuando creció. ",
+        "bbox": [
+            72,
+            182,
+            594,
+            200
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Daisy ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            230,
+            137,
+            249
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Era la antigua dueña de Lotso, Bebote y Risas. Lotso era su juguete favorito, sin embargo, ella lo extravió junto con los otros juguetes en un paseo familiar. Cuando ellos llegaron a su casa, se dieron cuenta de que Lotso había sido reemplazado con un oso de peluche idéntico a él, lo que lo entristeció mucho y lo volvió muy malvado y tirano. ",
+        "bbox": [
+            70,
+            257,
+            931,
+            331
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Bonnie Anderson ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            361,
+            268,
+            380
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Es una de las niñas que asiste a la guardería de Sunnyside. Ella se convirtió en la nueva dueña de Woody, Buzz y los otros juguetes al final de la tercera película. Aunque tiene una imaginación muy activa y una forma bulliciosa cuando juega con sus juguetes, es un poco tímida y retraída cuando está cerca de los adultos. Al principio encuentra a Woody, que estaba tratando de escapar de Sunnyside, lo lleva a su casa y juega con él. Woody está impresionado por lo que ve en su casa, y finalmente, consigue que él (y todos los otros juguetes de Andy) sean donados a ella. Andy juega brevemente con ella después de entregarle sus juguetes y le dice que necesita a alguien \"muy especial\" para que cuide de ellos. En la cuarta película, tras unos años, pierde el interés por jugar con Woody. Al mismo tiempo, va al kínder por primera vez, pero por su timidez no puede hacer muchos amigos. Con ayuda de Woody (aunque ella no lo sabe), crea un juguete llamado Forky, construido con un tenedor y otros materiales reciclados, el cual se vuelve su nuevo juguete favorito. Debido a su distracción, pierde constantemente a Forky hasta el final de la película, donde tampoco se da cuenta de que Woody ya no está con ella. ",
+        "bbox": [
+            70,
+            388,
+            931,
+            615
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Madre de Bonnie ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            642,
+            262,
+            662
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Es también la recepcionista de la guardería Sunnyside. Tiene una conexión con la familia de Andy. ",
+        "bbox": [
+            68,
+            671,
+            870,
+            687
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Padre de Bonnie ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            717,
+            258,
+            736
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Es quien lleva a la familia de paseo en los cortometrajes y en la cuarta película. ",
+        "bbox": [
+            68,
+            745,
+            712,
+            762
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Margaret ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            790,
+            174,
+            809
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Es una mujer anciana quien es dueña de la tienda de antigüedades de la cuarta película. ",
+        "bbox": [
+            67,
+            819,
+            774,
+            836
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Harmony ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            865,
+            176,
+            884
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Es la nieta de Margaret. Visita la tienda muy a menudo, y cada cierto tiempo, se queda con un juguete del local. ",
+        "bbox": [
+            65,
+            893,
+            929,
+            927
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Wheezy ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            125,
+            163,
+            144
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Un pingüino de hule con un rechinador que la madre de Andy guarda cuando se estropea. Aparece por primera vez en la segunda entrega. Cuando se lo llevan para vender en la venta de jardín, Woody lo rescata con la ayuda del perro de Andy, Buster, y luego Al lo roba. Al final de la película, se muestra con su rechinador reparado y canta \"Yo soy tu amigo fiel\". En Toy Story 3, se menciona que Wheezy fue donado antes de los sucesos de la película. ",
+        "bbox": [
+            70,
+            153,
+            931,
+            247
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Los soldados ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            274,
+            226,
+            294
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Un sargento y su zafarrancho de color verde que se encargan de la seguridad del resto. A menudo, Woody les encarga misiones con el objetivo de averiguar algo. ",
+        "bbox": [
+            70,
+            302,
+            931,
+            339
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Los monos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            369,
+            200,
+            388
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Son doce pequeños monos de juguetes de color rojo y habitan en un pequeño barril. Andy los suele usar como los villanos de sus juegos siendo secuaces del Sr. Cara de Papa. ",
+        "bbox": [
+            68,
+            396,
+            931,
+            432
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Rocky Gibraltar ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            460,
+            248,
+            480
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Un muñeco forzudo y musculoso, probablemente una parodia de Rocky Balboa. ",
+        "bbox": [
+            70,
+            489,
+            719,
+            505
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Control ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            535,
+            157,
+            554
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Un coche a radio control. Woody trata de manejarlo para empujar a Buzz tras la mesa, y lo utiliza también para salvar al mismo del perro de Sid, Scud, y para volver ambos al camión de mudanzas después de haber sido empujado por el resto de los juguetes. En Toy Story 4, se muestra un recuerdo en el que Woody y Bo Peep lo rescatan de una tormenta al haberse quedado en la calle. ",
+        "bbox": [
+            70,
+            562,
+            931,
+            637
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Lenny ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            666,
+            144,
+            685
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Unos pequeños binoculares celestes de juguete con patas. ",
+        "bbox": [
+            72,
+            694,
+            536,
+            711
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Señor ABC (España)/Señor Deletreador (Hispanoamérica) ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            738,
+            719,
+            760
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Un marcador electrónico, encargado de dar charlas y conferencias al resto de los muñecos. ",
+        "bbox": [
+            68,
+            769,
+            801,
+            786
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mike ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            814,
+            126,
+            832
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Un radiocasete con micrófono que Woody utiliza para dirigirse en los discursos al resto de muñecos. En Toy Story 2, también es utilizado por Wheezy para cantar al final de la película. ",
+        "bbox": [
+            67,
+            842,
+            931,
+            877
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Etch (España)/Pantalla (Hispanoamérica) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            42,
+            531,
+            64
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Una pizarra electrónica en la que se dibujan todo tipo de cosas. En Toy Story 2, muestra el retrato de Al, el secuestrador de Woody. En Toy Story 3, es mencionado como un juguete donado. ",
+        "bbox": [
+            65,
+            71,
+            931,
+            108
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Dolly, Patito y Teddy ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            135,
+            302,
+            156
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Son una muñeca de trapo, un pato de hule y un oso de peluche. Aparecen en Toy Story sobre un mueble en un momento, en el que Woody da un discurso y pregunta si lo oyen desde arriba. ",
+        "bbox": [
+            72,
+            163,
+            931,
+            200
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Robot ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            230,
+            142,
+            249
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Un juguete robótico educativo de color rojo y azul. Casi siempre se pone al lado de la Serpiente porque son los mejores amigos. ",
+        "bbox": [
+            68,
+            257,
+            929,
+            293
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Serpiente ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            323,
+            181,
+            343
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Es un juguete de plástico de color verde y morado. Casi siempre se pone al lado del Robot porque son los mejores amigos. ",
+        "bbox": [
+            72,
+            350,
+            931,
+            385
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tiburón ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            415,
+            161,
+            434
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Es un tiburón de goma con un chillador en la boca. ",
+        "bbox": [
+            70,
+            442,
+            484,
+            460
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Bob (Disco de Hockey) ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            489,
+            331,
+            509
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Un muñeco que soló tiene brazos y piernas. ",
+        "bbox": [
+            70,
+            517,
+            425,
+            534
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "See 'N Say ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            562,
+            193,
+            583
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Una rueda con diversos dibujos de animales de granja y con un granjero en el centro en una flecha. ",
+        "bbox": [
+            70,
+            591,
+            870,
+            609
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Payaso Roly Poly ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            636,
+            270,
+            657
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Un payaso que se mantiene estando de pie por si solo. ",
+        "bbox": [
+            70,
+            665,
+            509,
+            682
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Troikas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            711,
+            156,
+            729
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unos huevos pintados como animales (perro, gato, pato, pez y mariquita) los cuales se guarda uno dentro de otro de chico a grande. ",
+        "bbox": [
+            72,
+            739,
+            931,
+            774
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Troll ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            805,
+            124,
+            823
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Un pequeño troll con el cabello rosa. ",
+        "bbox": [
+            70,
+            831,
+            369,
+            849
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Toddle Tots ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            877,
+            203,
+            897
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unas mini-figuras en forma de huevo que representan personas de trabajo. ",
+        "bbox": [
+            70,
+            906,
+            672,
+            922
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Rock A Stack ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            223,
+            62
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Unos aros de colores de chico a grande que se insertan en una base en orden. ",
+        "bbox": [
+            72,
+            71,
+            690,
+            89
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Magic 8 Ball ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            117,
+            211,
+            137
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Una bola de billar número 8. En Toy Story, Woody la utiliza para saber si Andy irá con él a Pizza Planeta, a lo que la bola responde que no cuente con ello. ",
+        "bbox": [
+            65,
+            144,
+            931,
+            181
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Toy Train ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            210,
+            176,
+            230
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Un tren de juguete. En Toy Story 3, aparece al comienzo de la película, luego no se le ve, ya que con anterioridad probablemente había sido donado, como la mayoría de los juguetes de las primeras dos entregas. ",
+        "bbox": [
+            70,
+            237,
+            931,
+            293
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Molly Davis ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            328,
+            388,
+            353
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Billy, Goat & Gruff ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            390,
+            277,
+            412
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Son las ovejas de Bo Peep. ",
+        "bbox": [
+            72,
+            420,
+            290,
+            437
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Barbie ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            466,
+            147,
+            484
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Una muñeca propiedad de Molly, la hermana de Andy. En Toy Story 3, es donada por ella a la guardería de Sunnyside, para su terrible disgusto. Se enamora a primera vista de un muñeco Ken, pero no duda en torturarle rompiendo su ropa para conseguir información con la qué ayudar a sus amigos. Barbie es una muñeca muy valiente, atrevida e inteligente, y no duda en ningún momento del bando en el que posicionarse. Al final de la película, se queda con Ken en la guardería. ",
+        "bbox": [
+            70,
+            494,
+            931,
+            587
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Xilofón ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            615,
+            154,
+            635
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Un instrumento musical de juguete perteneciente a Molly. ",
+        "bbox": [
+            70,
+            643,
+            541,
+            661
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Sid Phillips ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            695,
+            378,
+            720
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Sid Phillips es el vecino de Andy. Es un niño psicópata y bravucón qué disfruta mutilando a sus juguetes por diversión e intercambiándoles piezas. ",
+        "bbox": [
+            72,
+            737,
+            929,
+            773
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pterodáctilo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            802,
+            210,
+            823
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Un muñeco de dinosaurio volador al que Sid cambia su cabeza por la de la muñeca Janny. El resto de juguetes de la habitación los arreglan a ambos tiempo después. Está basado en la figura de Kenner de la película Jurassic Park de 1993. ",
+        "bbox": [
+            70,
+            830,
+            932,
+            884
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Bebé Tarántula ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            43,
+            242,
+            64
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Uno de los juguetes mutantes de Sid. Tiene la cabeza de un bebé de juguete y ocho patas mecánicas. Su cabeza es posiblemente la de la caja sorpresa con mano, pero Sid le quitó un ojo y le cortó gran parte de su cabello. ",
+        "bbox": [
+            70,
+            71,
+            931,
+            127
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Piernas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            156,
+            159,
+            174
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Otro de los juguetes de Sid. Se trata de unas piernas de muñeca unidas a una caña de pescar de juguete. ",
+        "bbox": [
+            68,
+            184,
+            905,
+            200
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Roller Bob ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            229,
+            193,
+            248
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "La parte de arriba de un hombre bala, con casco y gafas, unido a un skate. ",
+        "bbox": [
+            70,
+            257,
+            668,
+            274
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Rana ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            305,
+            132,
+            323
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Otro de los juguetes de Sid. Se trata de una rana a cuerda dotada de las ruedas de un coche. ",
+        "bbox": [
+            72,
+            331,
+            806,
+            347
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Hombre Rodillo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            377,
+            248,
+            396
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Otro de los juguetes de Sid. Se trata de unas piezas de muñeco unidas a un rodillo infantil. ",
+        "bbox": [
+            70,
+            404,
+            801,
+            421
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Pato ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            452,
+            124,
+            471
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Otro de los juguetes de Sid. Se trata del torso de una figura de acción con un resorte en la parte inferior unido a un tubo de caramelos PEZ en forma de cabeza de pato. ",
+        "bbox": [
+            70,
+            478,
+            931,
+            515
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mosca ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            545,
+            147,
+            562
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Una mosca atrapada en el cuerpo de una figura de acción que maneja a través de un volante. ",
+        "bbox": [
+            68,
+            572,
+            816,
+            590
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mano ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            619,
+            136,
+            637
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Una caja con manivela de la que sale una mano. Se presume que originalmente tenía la cabeza del Bebé Tarántula. ",
+        "bbox": [
+            70,
+            646,
+            931,
+            681
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Chico Bomba ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            710,
+            226,
+            730
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Un coche que tiene brazos en vez de ruedas. ",
+        "bbox": [
+            70,
+            738,
+            430,
+            755
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Carl Combate ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            783,
+            226,
+            804
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Fue visto por primera vez cuando Woody y los demás juguetes vieron a Sid jugando con él, en el patio trasero. ",
+        "bbox": [
+            72,
+            813,
+            931,
+            847
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Camioneta Roja ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            43,
+            252,
+            64
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Fue vista cuando los juguetes le enseñan una lección a Sid, donde sale de un cajón de arena toda sucia. Aparentemente, a diferencia de los otros juguetes de Sid, no tiene ninguna modificación hecha por él, excepto su parte delantera que está un poco dañada. ",
+        "bbox": [
+            72,
+            71,
+            929,
+            127
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Soldado sin cabeza ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            155,
+            294,
+            175
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Otro soldado amigo de Carl Combate, está lleno de lodo y no tiene cabeza, porque el Hombre Rodillo ya la tiene. Además, tiene una pierna rota. ",
+        "bbox": [
+            68,
+            182,
+            931,
+            219
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Louis, el soldado amarillo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            248,
+            363,
+            268
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "En realidad, es otro soldado amigo de Carl Combate y también está cubierto de lodo, tiene un clavo metido en su cabeza y no tiene brazos. ",
+        "bbox": [
+            70,
+            276,
+            931,
+            312
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Otros juguetes de Sid Phillips ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            339,
+            359,
+            358
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Tostadora con brazos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            387,
+            317,
+            407
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "En la habitación de Sid, Woody ve una tostadora con brazos, y es muy probable que esos brazos le pertenecen al Bebé Tarántula. ",
+        "bbox": [
+            72,
+            414,
+            929,
+            451
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Lámpara de lava ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            479,
+            258,
+            500
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "En la habitación de Sid, Woody ve una lámpara de lava con una cabeza de muñeco/a. ",
+        "bbox": [
+            68,
+            508,
+            759,
+            524
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Reloj despertador ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            554,
+            273,
+            574
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Un reloj de cuerda despertador que tiene en su parte superior el brazo de un muñeco y puede moverse mientras suena su alarma. ",
+        "bbox": [
+            68,
+            581,
+            931,
+            617
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Hannah Phillips ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            653,
+            442,
+            679
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Hannah Phillips es la hermana de Sid, tiene una amplia colección de muñecas, aunque Sid las ha mutilado a casi todas. ",
+        "bbox": [
+            67,
+            694,
+            929,
+            730
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Janie ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            760,
+            136,
+            779
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Una de las muñecas de Hannah. Sid se la quita, y en su habitación, le arranca la cabeza para reemplazarla por la de su muñeco Pterodáctilo. ",
+        "bbox": [
+            72,
+            788,
+            931,
+            823
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "María Antonieta y su hermanita ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            851,
+            423,
+            872
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Dos muñecas sin cabeza que toman el té con Buzz en la habitación de Hannah. ",
+        "bbox": [
+            70,
+            880,
+            709,
+            897
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Sally ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            129,
+            62
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Una muñeca de Hannah que aterroriza a Sid cuando este descubre que sus juguetes están vivos. ",
+        "bbox": [
+            67,
+            71,
+            842,
+            89
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Muñeca de Trapo Quemado ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            117,
+            381,
+            137
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Es una muñeca de trapo de un solo ojo, posiblemente una víctima de explosión por culpa de Sid. Una vez perteneciente a Hannah, la muñeca fue mutilada por Sid y abandonada en su caja de arena, junto con la Camioneta Roja. La Muñeca repite \"¡Mamá!\", así que puede ser una muñeca que habla. ",
+        "bbox": [
+            70,
+            146,
+            931,
+            200
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Pizza Planet ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            236,
+            391,
+            260
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Pizza Planet es un restaurante, centro comercial y también una sala de juegos para niños. ",
+        "bbox": [
+            68,
+            276,
+            788,
+            294
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Marcianos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            323,
+            191,
+            343
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Marcianos en el juego de ser atrapados por un gancho en el restaurante Pizza Planet. ",
+        "bbox": [
+            70,
+            350,
+            752,
+            369
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Squeeze ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            396,
+            156,
+            413
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "El marciano que fue elegido por Sid Phillips. Termina con Buzz y Woody en casa de Sid, donde este se lo da a Scud, su perro, quien lo muerde. Le da una lección a este junto a los juguetes mutilados de Sid. ",
+        "bbox": [
+            65,
+            419,
+            931,
+            457
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de El almacén de Al ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            491,
+            450,
+            516
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Al McWhiggin (apodado el Hombre Pollo), el secuestrador de Woody es un codicioso coleccionista de juguetes propietario del \"Almacén de Juguetes de Al\", donde en el comercial, sigue \"empollando las ofertas\" del año. ",
+        "bbox": [
+            70,
+            533,
+            931,
+            587
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Zurg ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            617,
+            126,
+            637
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "El malvado Emperador enemigo de Buzz. Aparece en el Almacén de Juguetes de Al y persigue al grupo hasta el bloque de apartamentos de este. Será aquí donde en un enfrentamiento con el guardián espacial le revelará que es su padre, momentos antes de que Rex lo empuje desde lo alto del ascensor en el que se encuentran. Al final, se queda con el Buzz nuevo. ",
+        "bbox": [
+            70,
+            644,
+            497,
+            794
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Buzz Lightyear con cinturón ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            824,
+            388,
+            844
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Se trata de uno de los Buzz Lightyear del Almacén de Juguetes de Al y que lleva el nuevo cinturón que se encuentra a la venta. Al igual como pasó con el ",
+        "bbox": [
+            70,
+            852,
+            495,
+            906
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/64c0cf0525d86d2c4fc68aca2cdc686b9ffdfe61bdc70f4485a9b91f26794843.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            650,
+            924,
+            888
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Buzz original, cree que es un guardián espacial de verdad, y por ello, encierra al Buzz de Andy en una caja, seguro de que debe ocupar esa posición. Cuando Rex asegura saber cómo derrotar a Zurg se une al grupo y los acompaña. Se revela que es hijo del Emperador Zurg, y al final se queda con su padre. ",
+        "bbox": [
+            70,
+            42,
+            931,
+            98
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Barbie Guía ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            128,
+            206,
+            147
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Una muñeca que aparece en el Almacén de Juguetes de Al. Cuando los juguetes de Andy están perdidos y no encuentran a Al ni a Woody, les muestra todos los pasillos de la tienda, se caracteriza por hablar de un modo \"fresa\" (https://es.wiktionary.org/wiki/esnob). ",
+        "bbox": [
+            70,
+            155,
+            931,
+            210
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Amy ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            247,
+            290,
+            271
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Amy es una chica que ama decorar a sus muñecas y hacer modificaciones, algo de la misma manera que Sid Phillips. Sin embargo, a diferencia de Sid, Amy tiene un muy buen corazón y es mucho más benigna con sus juguetes, ya que ella se imagina una esteticista y da cortes de pelo y trabajos de maquillaje en un gran esfuerzo por hacer que las muñecas parezcan de moda. Su primera (y única) aparición fue en Toy Story 2, aparece cuando recupera su mochila de Barbie en el área de reclamo de equipaje del Aeropuerto Internacional Tri-County. ",
+        "bbox": [
+            70,
+            286,
+            931,
+            399
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Capataz (El Oloroso Pete) ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            427,
+            363,
+            448
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Es un muñeco capataz que sólo aparece en Toy Story 2. Espera en el apartamento de Al, todavía en su embalaje, a que se complete su colección para ser expuesto en el Gran Museo de juguetes de Tokio, Japón, su mayor deseo después de ver como los niños elegían a otros juguetes en vez de a él, por lo que jamás tuvo dueño. Es por este motivo por el que, cuando Woody, Tiro al Blanco y Jessie quieren regresar al cuarto de Andy, sale de su caja para impedírselo, convirtiéndose en antagonista. Odia a Buzz Lightyear y los juguetes espaciales en general, mencionando que tuvieron un gran impacto entre los niños, causando que la serie \"El Rodeo de Woody\" perdiera popularidad, y que fuera posteriormente cancelada. Gracias a la ayuda de Buzz y los demás juguetes, Capataz acaba en la mochila de Amy. ",
+        "bbox": [
+            70,
+            456,
+            932,
+            605
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Barbie Rainbow ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            634,
+            252,
+            654
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Una muñeca que aparece en la mochila de su dueña, Amy. Ella tiene unos tatuajes de pintura en el lado derecho de su cara y algo de su pelo cortado. A pesar de eso, todavía ama a su dueña. ",
+        "bbox": [
+            72,
+            662,
+            931,
+            699
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Sunnyside ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            735,
+            364,
+            760
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Sunnyside es una guardería de la zona que aparece en Toy Story 3. Se divide en dos salones: el Salón Mariposa para los niños mayores, y el Salón Oruga, para los preescolares. ",
+        "bbox": [
+            70,
+            775,
+            931,
+            812
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Bebote ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            152,
+            62
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Un bebé de juguete ya gastado que también había pertenecido a Daisy. Cuando Lotso ve que fue sustituido prácticamente le obliga a acompañarle. Ejerce como su secuaz y guardaespaldas en la guardería. Sin embargo, al ver que había sido engañado, se rebela contra él y lo arroja a la basura. Posteriormente, se vuelve bueno junto con los demás juguetes de Sunnyside. ",
+        "bbox": [
+            70,
+            71,
+            931,
+            146
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Stretch ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            174,
+            154,
+            193
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Un pulpo hembra que forma parte del séquito de Lotso. Tiene la habilidad de estirar sus patas lo mas que pueda, mostrando una gran flexibilidad increíble, atrapando así cualquier cosa, esto puede comprobarse cuando Jessie intenta escapar y Stretch la atrapa. ",
+        "bbox": [
+            72,
+            203,
+            931,
+            257
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chatarra ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            287,
+            171,
+            306
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Un muñeco en forma de piedra que puede cambiar la expresión de su cara de alegría a enojo. Forma parte del séquito de Lotso y es el menos inteligente de todos. ",
+        "bbox": [
+            72,
+            313,
+            929,
+            350
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Chispas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            378,
+            164,
+            399
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Un robot electrónico que forma parte del séquito de Lotso. ",
+        "bbox": [
+            72,
+            407,
+            546,
+            425
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Twitch ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            453,
+            146,
+            472
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Una especie de guerrero que tiene la apariencia de una mantis religiosa. Lleva un cetro y forma parte del séquito de Lotso. ",
+        "bbox": [
+            68,
+            482,
+            931,
+            516
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Ken ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            547,
+            117,
+            565
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "El famoso muñeco, novio de Barbie por excelencia. Vive en la casa de ensueño y es parte del séquito de Lotso. Aunque los demás se ríen mucho de él por ser un \"juguete para niñas\", parece ser la mano derecha del oso. Se enamora a primera vista de Barbie, con la que se muestra más indulgente. En cambio, es torturado por ella para que suelte información. Al final, con todo, aparece ante Lotso para pedir clemencia para ella, demostrando su amor. Posteriormente, él y Barbie toman el control de Sunnyside y crean un nuevo sistema más adecuado para todos los juguetes. ",
+        "bbox": [
+            70,
+            573,
+            931,
+            686
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Come-Libros ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            714,
+            220,
+            735
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Una oruga que vive en el despacho de Sunnyside. Lleva consigo una linterna y es el encargado de organizar los distintos documentos que hablan sobre el resto de juguetes. Es considerado ser parte del séquito de Lotso. ",
+        "bbox": [
+            70,
+            743,
+            931,
+            798
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Teléfono ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            827,
+            169,
+            846
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Un juguete para los niños pequeños que ha asumido su estancia en la guardería. Vive alejado y escondido para mantenerse a salvo de Lotso y sus secuaces. Es quien cuenta cómo escapar a Woody, aunque cede ante las torturas de los secuaces de Lotso y los delata. ",
+        "bbox": [
+            72,
+            855,
+            931,
+            909
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Mono ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            136,
+            62
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Es un mono con platillos que se encarga de observar en todo momento las cámaras de seguridad. En cuanto ve a alguien tratando de huir de la guardería, provoca el ruido que sirve de alarma al resto de centinelas. También forma parte del séquito de Lotso. ",
+        "bbox": [
+            72,
+            71,
+            931,
+            125
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Bonnie Anderson ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            162,
+            453,
+            187
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Bonnie es una niña de 4 años de edad que asiste a Sunnyside. Ella se convirtió en la dueña de Woody, Buzz y los demás juguetes al final de la tercera película. ",
+        "bbox": [
+            72,
+            203,
+            929,
+            238
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Dolly ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            268,
+            131,
+            288
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Una muñeca de trapo, al mando de la habitación de Bonnie. Hace de villana cuando su dueña juega con ellos bajo el nombre de La Malvada Bruja. ",
+        "bbox": [
+            68,
+            295,
+            929,
+            332
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Señor Púas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            361,
+            203,
+            381
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Un erizo con traje y sombrero aficionado al teatro. Recibe el sobrenombre de El Barón Von Shh. ",
+        "bbox": [
+            68,
+            388,
+            850,
+            406
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Trixie ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            435,
+            136,
+            454
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Una dinosaurio triceratops aficionada a la electrónica. Hace buena amistad con Rex. En un principio, se tenía planeado que formaría parte de la pandilla de Lotso con una personalidad agresiva, hasta incluso en las paginas del arte conceptual se dibujaron a los integrantes de la pandilla de Lotso y ella estaba ahí, pero después, optaron para que mejor sea uno de los juguetes de Bonnie siendo mucho mas amistosa. ",
+        "bbox": [
+            72,
+            461,
+            931,
+            536
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Buttercup ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            567,
+            184,
+            586
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Un unicornio blanco de peluche. Tiene una actitud muy sarcástica. No le cae muy bien el padre de Bonnie, ya que en la cuarta película desea que lo lleven a la cárcel. ",
+        "bbox": [
+            70,
+            593,
+            931,
+            630
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Guisantitos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            659,
+            203,
+            679
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Tres guisantes niños que viven en el interior de un estuche con forma de vaina. Son muy juguetones y traviesos, ya que le gustan hacerles bromas pesadas a los otros juguetes. ",
+        "bbox": [
+            72,
+            687,
+            931,
+            723
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Risas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            751,
+            136,
+            770
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Un payaso que había sido compañero de Bebote y Lotso cuando perteneció a Daisy. Acudió con ellos a Sunnyside, pero cuando lo rompieron Bonnie se hizo cargo de él y se lo llevó a su casa, donde permaneció sin volver a mostrar su sonrisa. Es quien cuenta a Woody la verdad sobre Lotso y la guardería. Al final de Toy Story 3, recupera su sonrisa. ",
+        "bbox": [
+            72,
+            780,
+            931,
+            855
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Totoro ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            146,
+            62
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Un conejo de peluche gigante. Un claro homenaje al espíritu del bosque de la película de animación Mi vecino Totoro. Este cameo se debe a la admiración que John Lasseter, antiguo director creativo de Pixar, tiene por la obra de Hayao Miyazaki. ",
+        "bbox": [
+            72,
+            71,
+            929,
+            127
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Knifey ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            188,
+            146,
+            209
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Un cuchillo de plástico armado por Bonnie al final de la cuarta película, un año después de los hechos de esta, cuando Bonnie está en primer grado. Al igual que Forky, cree que es basura y no un juguete. Él, quien cae enamorado de ella, la hará reflexionar. ",
+        "bbox": [
+            70,
+            217,
+            931,
+            270
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Chuck E. Duck ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            300,
+            238,
+            320
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Es un pato de hule con un chillador. ",
+        "bbox": [
+            72,
+            327,
+            363,
+            345
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Drips la Ballena ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            375,
+            250,
+            394
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Una ballena de goma que está enganchada junto con un grifo de la bañera. ",
+        "bbox": [
+            72,
+            402,
+            672,
+            419
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Capitán ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            448,
+            161,
+            467
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Es un muñeco capitán que echa burbujas y pompas. Es el mejor amigo de Chuck E. Duck. ",
+        "bbox": [
+            70,
+            476,
+            798,
+            494
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Cuddles el Aligátor ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            522,
+            287,
+            542
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Es un muñeco de aligátor que echa el agua a la hora de apretarle. ",
+        "bbox": [
+            70,
+            549,
+            596,
+            567
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Babs ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            597,
+            131,
+            615
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Una muñeca pulpo de goma. ",
+        "bbox": [
+            72,
+            624,
+            304,
+            641
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ángel Kitty ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            669,
+            198,
+            691
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Un gata blanca hermosa con disfraz de ángel. Bonnie la llama \"Gatitosaurio\". ",
+        "bbox": [
+            72,
+            697,
+            697,
+            714
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Casi todos estos juguetes aparecieron en Toy Story Toon: Fiesta Saurus Rex y son para el tiempo del baño de Bonnie, menos Ángel Kitty, que es uno de los juguetes para el árbol de Navidad y su primera aparición fue en Toy Story: Olvidados en el tiempo. ",
+        "bbox": [
+            70,
+            731,
+            931,
+            786
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de El palacio del pollo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            823,
+            478,
+            847
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "El palacio del pollo (parodia de Burger King) es un restaurante que iba Bonnie y su mamá en Toy Story Toon: Extra Small. Hace un cameo en Toy Story 4. ",
+        "bbox": [
+            72,
+            863,
+            929,
+            900
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Neptuna ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            169,
+            62
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Fue parte del batallón de sirenas en el verano del 1998, y luego se unió a ser la líder del Grupo de apoyo de juguetes de obsequio rechazados. ",
+        "bbox": [
+            68,
+            71,
+            927,
+            106
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Mini Buzz ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            136,
+            183,
+            155
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Una versión en miniatura de Buzz Lightyear, que en un cortometraje se hace pasar por el verdadero Buzz. ",
+        "bbox": [
+            68,
+            163,
+            927,
+            181
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Gancho Expandible Gary ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            209,
+            352,
+            230
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Es un arma de juguete verde con las manos y las piernas y un gancho de agarre azul en la cara. Buzz Lightyear lo usa para escapar de la discusión del Grupo de apoyo de juguetes de obsequio rechazados. ",
+        "bbox": [
+            72,
+            238,
+            931,
+            274
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "T-Bone ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            304,
+            154,
+            323
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Segundo líder del grupo de apoyo de juguetes de obsequio rechazados. Primero se le muestra cuando le pide que ayude a Buzz Lightyear a encontrar un asiento. Aparece como cameo en Toy Story Toon: Fiestasaurus Rex. ",
+        "bbox": [
+            70,
+            331,
+            931,
+            385
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Mini Zurg ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            414,
+            179,
+            434
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Una versión en miniatura del Emperador Zurg. ",
+        "bbox": [
+            70,
+            442,
+            450,
+            460
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Lagarbrujo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            489,
+            198,
+            509
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Es un pequeño juguete de lagarto de color verde lima con una barba que lleva un sombrero y una bata de un mago violeta. Fue visto por primera vez cuando es golpeado por uno de los guantes de Roxy Boxy. ",
+        "bbox": [
+            65,
+            516,
+            932,
+            553
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DJ Blu-Jay ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            581,
+            196,
+            602
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Es un arrendajo azul con gafas gruesas y un juego de auriculares. Él está sosteniendo un conjunto de platos giratorios, fijados encima de un tronco de árbol. ",
+        "bbox": [
+            65,
+            609,
+            929,
+            647
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Roxy Boxy ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            675,
+            196,
+            695
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Es una tortuga con guantes de boxeo. Tiene pantalones cortos rojos y un ojo morado. Apareció en un momento donde golpea con uno de sus guantes a Lagarbrujo, y dice luego \"Lo siento\". ",
+        "bbox": [
+            72,
+            704,
+            931,
+            738
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Sistema Nervioso ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            767,
+            272,
+            787
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Es un humano de plástico transparente que muestra muchas partes del cuerpo, como el cerebro, los ojos y el sistema nervioso. ",
+        "bbox": [
+            68,
+            795,
+            932,
+            831
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Reciclaje Ben (Hispanoamérica)/ ReciCubo (España) ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            861,
+            658,
+            882
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Es el reciclaje de papelera azul y usa su tapa para hablar. ",
+        "bbox": [
+            70,
+            889,
+            531,
+            906
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "Tae-Kwon Doe ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            43,
+            235,
+            62
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "En un momento dado, ve el casco y piensa que está levantando la mano. Cuando la llama, ella explica que es simplemente su característica de juego, en cuyo punto su pezuña izquierda se cae, golpeando una tabla de plástico. ",
+        "bbox": [
+            70,
+            71,
+            931,
+            125
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Koalacóptero ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            155,
+            225,
+            174
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Es un koala con un helicóptero que tiene en su sombrero. Era perteneciente a los Anima-exploradores y dice que lo cambiaron por un canguro canoa. ",
+        "bbox": [
+            68,
+            184,
+            931,
+            220
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Condorman ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            248,
+            206,
+            268
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Un superhéroe con gafas y un disfraz de cóndor amarillo y naranja que conduce un coche. ",
+        "bbox": [
+            70,
+            276,
+            800,
+            294
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Vampiro Express ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            321,
+            265,
+            342
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Es un vampiro con un sombrero del ingeniero que se sienta en un tren de color púrpura. Fuera del taxi del tren aparece un hombre lobo si se enrolla. Lo descartaron porque nadie quería abordar. ",
+        "bbox": [
+            70,
+            350,
+            931,
+            387
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Funky Monje ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            415,
+            216,
+            434
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Es un monje con gafas y una cadena de oro alrededor de su cuello que dice FM, refiriéndose a su nombre. ",
+        "bbox": [
+            70,
+            442,
+            926,
+            460
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Súper Pirata ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            489,
+            213,
+            508
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Es un pirata de superhéroes que lleva una capa y sostiene un arma en una mano y una espada en la otra.   \nSu pierna izquierda tiene una pata de palo y en su ojo izquierdo tiene un parche. ",
+        "bbox": [
+            70,
+            517,
+            929,
+            553
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Ghost Burger ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            581,
+            225,
+            602
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Es una hamburguesa con traje de fantasma. ",
+        "bbox": [
+            70,
+            610,
+            421,
+            627
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Pizza Bot ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            656,
+            179,
+            675
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Es un robot de color gris con una caja de pizza, cuya mano derecha sostiene una pizza, mientras que la mano izquierda es una rebanadora de pizza. Estaba triste porque ningún niño no quiso jugar con él. ",
+        "bbox": [
+            67,
+            684,
+            931,
+            720
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Franklin ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            749,
+            166,
+            768
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Es un águila que se sienta en una versión enrollada de la constitución que apoya una pluma en la parte posterior de ella. ",
+        "bbox": [
+            72,
+            777,
+            931,
+            812
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Azavaca ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            843,
+            169,
+            861
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Una vaca vestida de azafata que lleva un chaleco salvavidas que puede expandirse cuando se tiran las cuerdas. ",
+        "bbox": [
+            68,
+            869,
+            931,
+            904
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "Bozu, el payaso ninja ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            314,
+            64
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Un payaso vestido de ninja que lleva un pastel y un arma de globo en sus manos. ",
+        "bbox": [
+            67,
+            71,
+            726,
+            89
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Mason ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            124,
+            319,
+            149
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Mason es el mejor amigo de Bonnie. Su primera aparición fue en Toy Story: Olvidados en el tiempo. Se muestra que tiene una familia bastante rica, como lo demuestra su casa, toda su colección de Battlesaurs y su nueva consola de videojuegos. ",
+        "bbox": [
+            70,
+            165,
+            931,
+            220
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "El Clérigo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            249,
+            184,
+            269
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Un pterodáctilo apodado que forma parte de los Battlesaurs de Mason, y según Woody no sabe que es un juguete. ",
+        "bbox": [
+            72,
+            277,
+            931,
+            312
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Ray-Gon ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            342,
+            173,
+            362
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Un Battlesaur que diseña armaduras para los guerreros y según Woody no sabe que es un juguete. Es el mejor amigo de Reptillus Maximus. ",
+        "bbox": [
+            67,
+            370,
+            931,
+            406
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Reptillus Maximus ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            435,
+            280,
+            456
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Un guerrero Battlesaur que según Woody junto con Ray-Gon, y el Clérigo no sabe que es un juguete. ",
+        "bbox": [
+            68,
+            461,
+            892,
+            480
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de la Tienda de Antigüedades ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            515,
+            573,
+            540
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "La Tienda de Antigüedades aparece en Toy Story 4. Es ahí donde Woody y los demás juguetes tenían que extraer a Forky quien fue secuestrado por Gabby Gabby. ",
+        "bbox": [
+            65,
+            555,
+            929,
+            593
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Gabby Gabby ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            621,
+            226,
+            641
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Es una muñeca de cuerdas de tracción de la década de 1950 con una caja de voz rota. Ella se desempeña como la principal antagonista en la cuarta película, habiéndose amargado por haber estado en la tienda por más de 60 años y no haber sido buscada, debido a que tiene su caja de voz rota. Tiene un defecto de fábrica, su caja de voz se encuentra averiada por lo que al ver que Woody tiene una igual a la de ella planea quitarle su caja de voz aunque este no quiera, lo único que quiere es tener un buen sentimiento con un niño y que este le diera su amor. Woody, conmovido por su historia, le da su caja. Sin embargo, la nieta de la dueña de la tienda, Harmony, sólo la rechaza, por lo que se entristece mucho. Woody la invita a ser juguete de ",
+        "bbox": [
+            70,
+            649,
+            499,
+            933
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "table",
+        "img_path": "images/eaa82d37c5b7e4da45bc34efe6ea68123f668e4f222201fad1e48fee8d9dc04f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            655,
+            924,
+            937
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "text",
+        "text": "Bonnie. Pero en el trayecto, encuentra a una niña perdida en la feria, muy triste y llorando, por lo que decide ir a ella para consolarla, e indirectamente, ayudar a que encuentre a sus padres. ",
+        "bbox": [
+            70,
+            43,
+            495,
+            79
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            81,
+            764,
+            99
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Bensons ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            128,
+            173,
+            146
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Son los muñecos ventrílocuos secuaces de la muñeca Gabby Gabby. ",
+        "bbox": [
+            70,
+            155,
+            495,
+            191
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Duke Kaboom ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            219,
+            230,
+            238
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Es un simpático juguete temerario de origen canadiense con un traje blanco, un bigote y una motocicleta de juguete. Sufre de muy baja autoestima por creer que decepcionó a su anterior dueño, incapaz de hacer las maniobras que su comercial le había prometido. ",
+        "bbox": [
+            72,
+            248,
+            497,
+            361
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Giggle McDimples ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            388,
+            277,
+            408
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Es una muñeca policía perteneciente a un set de juegos de la década de 1980. Es ayudante y amiga de Bo Peep. ",
+        "bbox": [
+            70,
+            418,
+            495,
+            471
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Juguetes de Aventurero Estelar ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            509,
+            477,
+            532
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Es una atracción de la feria de Toy Story 4. ",
+        "bbox": [
+            72,
+            548,
+            418,
+            566
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Bunny ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            596,
+            146,
+            615
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Enemigos Woody(antes), Bo Peep(antes) ",
+        "bbox": [
+            522,
+            43,
+            887,
+            60
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Es un conejo de peluche amigo de Ducky. Le encanta hacer bromas y soñar con hacerse enorme y causar caos en la ciudad. En el fondo siempre quiso tener un dueño. ",
+        "bbox": [
+            70,
+            623,
+            497,
+            695
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Ducky ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            726,
+            144,
+            745
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Es un pato de peluche amigo de Bunny. Le encanta hacer bromas y al igual que Bunny, soñar con hacerse enorme y causar caos en la ciudad. En el fondo, al igual que Bunny, siempre quiso tener un dueño. ",
+        "bbox": [
+            70,
+            754,
+            497,
+            845
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/ba4a3cd3f08e14ccd8007d2f9bb5fc949b9f7ea20c95b06a69f1fb15128b6f8b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            160,
+            924,
+            427
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ae23e7098e5cd00f66bb0da2368b836ec7bbc587e72baaa9858065090ab1c47.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            442,
+            924,
+            747
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "table",
+        "img_path": "images/f98806a05a22764fbd0cd58e14063fdc63f4d9a94c5c77e387d98b40807234d6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            763,
+            924,
+            937
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "text",
+        "text": "Buster ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            125,
+            146,
+            144
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "El perro de Andy, un perro salchicha. En la primera entrega es mencionado como regalo de Navidad, lo que preocupa mucho a Woody y Buzz. Aparece físicamente en la segunda entrega como cachorro y ayuda a Woody a rescatar a Wheezy de la venta de jardín. En la tercera entrega, aparece como un perro envejecido. ",
+        "bbox": [
+            70,
+            154,
+            497,
+            285
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Scud ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            313,
+            131,
+            332
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "El perro de Sid, un bull terrier, que aparece en la primera entrega. Es muy agresivo y también suele atacar juguetes. ",
+        "bbox": [
+            70,
+            342,
+            495,
+            396
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "Dragón ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            426,
+            154,
+            445
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "text",
+        "text": "El gato de la tienda de antigüedades. Le gusta romper y arañar sus juguetes. Aparece en Toy Story 4 atacando a la pandilla. ",
+        "bbox": [
+            70,
+            453,
+            495,
+            508
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/1befafc6bd978bdb084a2812edf58065b9b87c150a6f980099e23bea07a3da93.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            40,
+            922,
+            184
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/13338ac5e56218ac693b36aa909c1cd4d33ee67636d236529009a87dcf4855f4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            203,
+            924,
+            483
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "table",
+        "img_path": "images/5468e0c7a831dc5308668de96161424fa5dde3a7f78dc6b19363cf37d555bac9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            500,
+            924,
+            826
+        ],
+        "page_idx": 22
+    }
+]

@@ -1,0 +1,1590 @@
+[
+    {
+        "type": "text",
+        "text": "Gran Muralla china ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            435,
+            127
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla china es una antigua fortificación china,1 construida y reconstruida entre el siglo v a. C. y el siglo x v i para proteger la frontera norte del Imperio chino durante las sucesivas dinastías imperiales de los ataques de los nómadas xiongnu de Mongolia y Manchuria. ",
+        "bbox": [
+            70,
+            140,
+            497,
+            254
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Contando sus ramificaciones y construcciones secundarias, se calcula que tiene unos $2 1 2 0 0 \\mathrm { k m }$ de longitud,2 desde la frontera con Corea, al borde del río Yalu, hasta el desierto de Gobi, a lo largo de un arco que delinea aproximadamente el borde sur de Mongolia Interior, aunque hoy solo se conserva un $3 0 \\ \\%$ de ella.3 En promedio, mide de 6 a $7 ~ \\mathrm { m }$ de alto y de 4 a $5 \\mathrm { m }$ de ancho. ",
+        "bbox": [
+            70,
+            270,
+            497,
+            422
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La muralla fue designada Patrimonio de la Humanidad por la Unesco en 1987.4 ",
+        "bbox": [
+            70,
+            439,
+            495,
+            477
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Historia de la muralla ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            513,
+            357,
+            535
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tradicionalmente, la historia de la construcción de la Gran Muralla se divide en cinco partes: ",
+        "bbox": [
+            70,
+            552,
+            495,
+            589
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Una antes de la unificación de la dinastía Qin (221 a. C.), durante el período de Primaveras y otoños y los Reinos Combatientes. ",
+        "bbox": [
+            82,
+            604,
+            497,
+            669
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La segunda, a partir de la unificación de la dinastía Qin, cuando el emperador Qin Shi ",
+        "bbox": [
+            80,
+            673,
+            499,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Huang inició la construcción de un muro en la frontera norte. ",
+        "bbox": [
+            94,
+            705,
+            643,
+            722
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Periodo de la dinastía Han Periodo de baja actividad Periodo de la dinastía Ming ",
+        "bbox": [
+            80,
+            723,
+            352,
+            781
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla china ",
+        "text_level": 1,
+        "bbox": [
+            586,
+            156,
+            857,
+            178
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/14f1e3746529072cfc4c3d6e2107f93dcf420e6e878b3a753be080af943fe988.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            672,
+            184,
+            769,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Patrimonio de la Humanidad de la Unesco ",
+        "bbox": [
+            601,
+            219,
+            842,
+            231
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/17d052e135d9bbd72d8b4d1bdcb4f833ccaca96e4d92ded3b2a3afef93e372d8.jpg",
+        "image_caption": [
+            "La Gran Muralla en Jinshanling "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            559,
+            237,
+            884,
+            388
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Localización ",
+        "text_level": 1,
+        "bbox": [
+            665,
+            413,
+            778,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "País e China ",
+        "bbox": [
+            522,
+            434,
+            727,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Coordenadas 40°25′00″N 116°05′00″E ",
+        "bbox": [
+            524,
+            456,
+            843,
+            470
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/2c92149c9cba3c4ea3b4733fa03afa6c8dbd6cef1196c88e0263cc8a9325882a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            473,
+            924,
+            687
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Periodo anterior a la unificación de la dinastía Qin ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            808,
+            633,
+            830
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Véase también: Primaveras y otoños ",
+        "bbox": [
+            104,
+            837,
+            386,
+            852
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En el siglo v iii a. C., en el comienzo del período conocido como primaveras y otoños, China sigue un sistema feudal. El territorio se divide en cientos de feudos o estados dirigidos por príncipes, en teoría todos reunidos bajo los reyes de la dinastía Zhou. Pero con el tiempo, estos feudos fueron anexados por los príncipes, formando grandes principados en el siglo v i a. C.; algunos de ellos fueron Chu y Wu. China estaba rápidamente fragmentada en varios reinos independientes: es el comienzo del período de los Reinos Combatientes. ",
+        "bbox": [
+            70,
+            861,
+            932,
+            915
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            640,
+            117
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Por aquel entonces, varios estados se comprometen a la construcción de paredes para protegerse de sus vecinos y de pueblos extranjeros. Así, alrededor del siglo v a. C., el estado Qi inicia la construcción de un muro; algunas de sus partes se mantienen aún en pie. A mediados del siglo iv a. C., el estado de Wei comenzó la construcción de un muro en su frontera occidental, cerca de Qi, y un segundo muro en su frontera oriental. Fue imitada por los estados de Yan y Zhao. ",
+        "bbox": [
+            70,
+            133,
+            640,
+            264
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Comúnmente, la técnica utilizada para realizar las paredes fue de capas de tierra de unos pocos centímetros que se compactan una encima de otra, entre planchas de madera. Las planchas de madera se extraían posteriormente, dejando una pared de tierra compactada muy dura. Este método podría desarrollar rápidamente sólidos muros que pueden resistir siglos. ",
+        "bbox": [
+            68,
+            281,
+            640,
+            317
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/378f6a6440e336bd51ccf326fe3ace2989bb766cdbc1b45d99c567c187ffb127.jpg",
+        "image_caption": [
+            "Las almenas de la Gran Muralla "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            668,
+            52,
+            924,
+            290
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/f7bc06aeb76a2b369b75214dfd7973aa2b93f16300a3f3e2bc19296ce1d212e9.jpg",
+        "image_caption": [
+            "azado de la Gran Muralla "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            57,
+            339,
+            924,
+            847
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            891,
+            931,
+            909
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            65,
+            42,
+            932,
+            79
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Periodo de la dinastía Qin ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            108,
+            363,
+            128
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Véase también: Dinastía Qin ",
+        "bbox": [
+            104,
+            135,
+            324,
+            150
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En 221 a. C., Qin Shi Huang conquistó todos los estados que se le oponían y unificó China estableciendo la dinastía Qin. Con la intención de imponer un poder central y evitar el resurgimiento de los señores feudales, ordenó la destrucción de las murallas que dividían su imperio a lo largo de la antigua frontera. Después de los ataques de las tribus Xiongnu en el norte, envió al general Meng Tian para asegurarse de que los Xiongnu fueran derrotados. A continuación, le ordenó emprender la construcción de un muro más allá del río Amarillo para proteger mejor a los nuevos territorios conquistados. Este muro conectaría las diversas fortificaciones existentes a lo largo de la nueva frontera norte. El transporte de una gran cantidad de materiales necesarios para la construcción era difícil, por lo que los constructores utilizaron los recursos locales, como las piedras en las construcciones de montaña y la tierra apisonada para la construcción en la llanura. ",
+        "bbox": [
+            70,
+            159,
+            576,
+            422
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/67746eef9399b80685dbf66a5449952d44273868bf0ab386986eb009a877d003.jpg",
+        "image_caption": [
+            "Esbozo del trazado de la muralla, en rojo, en el periodo de la dinastía Qin "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            167,
+            924,
+            355
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            425,
+            931,
+            460
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "No hay registros históricos que indiquen la longitud exacta y el trazado de la muralla en la dinastía Qin, pero a pesar del debate entre los historiadores y la ausencia de acontecimientos históricos, la Gran Muralla construida por la dinastía Qin permanece en la imaginación popular china como una colosal obra con el apodo de «muro de diez mil li» ( $5 7 6 0 \\mathrm { k m }$ en el valor de li de la dinastía Qin). ",
+        "bbox": [
+            70,
+            477,
+            931,
+            551
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Periodo de la dinastía Han ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            580,
+            366,
+            600
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Véase también: Dinastía Han ",
+        "bbox": [
+            104,
+            606,
+            327,
+            622
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En 210 a. C., el emperador Qin Shi Huang murió y la dinastía Qin que había fundado sobrevivió unos pocos años. En el 202 a. C., Liu Bang, un exsoldado de origen campesino, se proclamó emperador con el nombre Han Gaozu. Debilitada por su anterior guerra de sucesión contra el general Xiang Yu, Gaozu abandona el mantenimiento de la Muralla de la era Qin, y cuando los Xiongnu, ahora unidos en una confederación, estaban amenazando a través de la frontera, Gaozu, en lugar de lanzar una ofensiva utilizando las paredes al igual que Qin Shi Huang, trata de conseguir la paz con homenajes y una \"armoniosa unión\" o heqin, es decir, el suministro chino de princesas para los jefes Xiongnu. Durante varias décadas, sus sucesores harán lo mismo. Sin embargo, la Gran Muralla no está completamente abandonada: bajo el ",
+        "bbox": [
+            70,
+            631,
+            578,
+            894
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b025ef664d7d35c4f6a59d6b87cba97eddc801f73cec58fbc0085065da6cb1b.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            605,
+            638,
+            924,
+            820
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Trazado de la Gran Muralla en el periodo de la dinastía Han ",
+        "bbox": [
+            608,
+            824,
+            919,
+            855
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "dominio del emperador Han Wudi se le recomienda el establecimiento de fronteras tuntian (tipos de asentamientos militares agrarios) protegidos por pequeños muros para colonizar la región e impedir las incursiones Xiongnu. ",
+        "bbox": [
+            70,
+            42,
+            931,
+            98
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "En 134 a. C. se rompió el statu quo entre los chinos y los Xiongnu y, a diferencia de sus antepasados, Han wudi decidió tomar la ofensiva contra la confederación Xiongnu e inició en 129 a. C. una primera ofensiva, seguida de muchas otras. Wudi restauró y conectó porciones de la Muralla de la dinastía Qin y luego la extendió a través de lo que se convertiría en la Ruta de la Seda. En 119 a. C., los Xiongnu fueron expulsados a través del desierto de Gobi en la Mongolia Interior, y se construyó una nueva sección del muro de $4 0 0 \\mathrm { k m }$ de largo que se conserva actualmente. ",
+        "bbox": [
+            70,
+            114,
+            931,
+            226
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "En el año 9 a. C., la dinastía Han se vio ensombrecida por la efímera dinastía Xin, antes de ser restaurada el 23 por el emperador Geng Shi di que debió hacer frente a las guerras civiles. Cuando el emperador Guang Wudi ascendió al trono dos años después, su ejército era demasiado débil para contener eficazmente a los Xiongnu. Ordenó la construcción de cuatro nuevos muros para frenar su avance y proteger a la capital. Por último, alrededor del 48, los Xiongnu experimentaron luchas internas y se dividieron en dos grupos: Xiongnu del Norte y Xiongnu del Sur. Los Xiongnu del sur sirven de amortiguadores entre sus homólogos en el norte y China estaba dispuesta a coexistir con ellos. Al final de la dinastía Han, China se dividió en tres reinos separados por fronteras, no prestando importancia a la construcción y el mantenimiento de las grandes paredes. ",
+        "bbox": [
+            70,
+            242,
+            931,
+            413
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Periodo de baja actividad ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            440,
+            356,
+            460
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Desde el periodo de los Tres Reinos (220) hasta fines de la dinastía Yuan (1300), la muralla no experimentó grandes cambios y prolongaciones más allá de la reconstrucción de sectores desgastados. Destacan pequeños periodos de construcción en los siglos v al v ii y los siglos x i al x iii. ",
+        "bbox": [
+            72,
+            469,
+            931,
+            523
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Periodo de la dinastía Ming ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            553,
+            378,
+            573
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Véase también: Dinastía Ming ",
+        "bbox": [
+            104,
+            579,
+            337,
+            596
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla como concepto se reavivó de nuevo durante la dinastía Ming después de la derrota del ejército por parte de los Oirates en la batalla de la fortaleza de Tumu en 1449. Los Ming no tuvieron una clara victoria y adoptaron una nueva estrategia para mantener las tribus nómadas alejadas de la capitalː mediante la construcción de muros a lo largo de la frontera norte de China. ",
+        "bbox": [
+            70,
+            603,
+            576,
+            733
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A diferencia de las anteriores fortificaciones, la construcción de la dinastía Ming fue más fuerte y más elaborada debido a la utilización de ladrillos y piedra en lugar de tierra apisonada. Como consecuencia de las incursiones mongolas a lo largo de los años, se dedicaron considerables recursos a reparar y reforzar las paredes. Las secciones Ming cerca de la capital Pekín son especialmente fuertes y resistentes. ",
+        "bbox": [
+            70,
+            750,
+            578,
+            882
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/25314d41866c4ea76570810abc16549f6c7f5958e7abaec1272642c46d876c09.jpg",
+        "image_caption": [
+            "La Gran Muralla en 1907 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            610,
+            922,
+            870
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hacia el final de la dinastía Ming, la Gran Muralla defendía el imperio en contra de la invasión manchú que comenzó alrededor de 1600. Bajo el mando militar de Yuan Chonghuan, el ejército Ming bloqueó el avance manchú en el fuertemente fortificado paso Shanhaiguan, impidiendo que entraran en el corazón chino. Los manchúes finalmente fueron capaces de cruzar la Gran Muralla en 1644, cuando las puertas se abrieron en Shanhaiguan por Wu Sangui, un general que estaba en contra de las actividades de los gobernantes de la dinastía Shun, que sucedió durante un breve período a la dinastía Ming. Los manchúes rápidamente ocuparon Pekín y derrotaron a la recién fundada Dinastía Shun y el resto de la resistencia, para establecer la dinastía Qing. ",
+        "bbox": [
+            70,
+            42,
+            931,
+            194
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Con los Qing como gobernantes, Mongolia se anexó al imperio, de modo que se interrumpieron la construcción de la Gran Muralla y las reparaciones de la misma porque dejaron de ser necesarias. ",
+        "bbox": [
+            72,
+            210,
+            931,
+            245
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Primeras noticias en Occidente sobre la muralla ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            273,
+            611,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El viajero del norte de África Ibn Battuta, que fue a Guangzhou hacia 1346, informó a los musulmanes locales sobre la muralla que, según el Corán, la había construido Dhul-Qarnayn para contener al pueblo de Gog y Magog. Ibn Battuta explicaba que la muralla estaba \"a sesenta días de viaje\" de la ciudad de Zeitun (Quanzhou),5  si bien Alexander Hamilton Rosskeen Gibb señaló que Ibn Battuta confundió la Gran Muralla de China con la construida por Dhul-Qarnayn.5 Esto indica que los árabes podían haber oído hablar de la Gran Muralla china durante los periodos históricos anteriores a la historia de China, asociándola con la muralla de Gog y Magog del Corán.6 Pero, en todo caso, nadie de los interlocutores de Ibn Battuta en Guangzhou la había visto ni conocía nadie que la hubiera visto, cosa que implica que, posteriormente a Yuan, la existencia de la Gran Muralla no estaba en la memoria de la gente, cuando menos de las comunidades musulmanas de Guangzhou.6 ",
+        "bbox": [
+            70,
+            301,
+            932,
+            495
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Poco después de que los europeos llegaran a la China de la dinastía Ming, en el siglo x v i, las historias sobre la Gran Muralla empezaron a circular por Europa, a pesar de que ningún europeo fue a verla con sus propios ojos hasta un siglo más tarde. La primera descripción de la muralla, y su importancia para la defensa del país contra los \"tártaros\" (es decir, los mongoles), fue la contenida en la Tercera década de João de Barros, dentro de Asia (publicada en 1563).7 Curiosamente, el propio Barros no viajó a Asia, pero fue capaz de utilizar los libros chinos llevados a Lisboa por los comerciantes portugueses.8 Uno de los primeros registros de un viajero occidental que visitó China a través de un paso de la Gran Muralla (el Jiayuguan, en este caso) puede ser el del jesuita portugués Bento de Góis, que había llegado el noroeste de China, la puerta de la India, el año 1605.9 ",
+        "bbox": [
+            70,
+            510,
+            931,
+            684
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Actualidad ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            712,
+            193,
+            732
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla está hermanada con otros monumentos y lugares, como la muralla romana de Lugo y las pirámides de Egipto. 10 ",
+        "bbox": [
+            70,
+            741,
+            578,
+            798
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Recorrido ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            833,
+            203,
+            856
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Las provincias, municipalidades y regiones autónomas por las que pasa la Muralla son (en orden alfabético, debido a que la ramificación de la estructura no permite hacer un seguimiento ",
+        "bbox": [
+            70,
+            874,
+            578,
+            928
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/beec33f08e37ac5895e26da339f396f66f43cdcca3d68e3582c3ec10ced2819d.jpg",
+        "image_caption": [
+            "Turistas entrando a la muralla "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            749,
+            924,
+            871
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "continuo): Gansu, Hebei, Henan, Hubei, Hunan, Jilin, Liaoning, Mongolia Interior, Ningxia, Pekín, Qinghai, Shaanxi, Shandong, Shanxi, Sichuan, Tianjin y Xinjiang.11 ",
+        "bbox": [
+            68,
+            42,
+            931,
+            83
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Arquitectura ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            117,
+            242,
+            140
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Materiales ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            179,
+            189,
+            198
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Los materiales usados son aquellos disponibles en los alrededores de la construcción. Cerca de Pekín se utilizó piedra caliza. En otros sitios se utilizó granito o ladrillo cocido. Básicamente, era una larga tapia de arcilla y arena, cubierta con varias paredes de ladrillo. Eso la hizo muy resistente a los impactos de armas de asedio. ",
+        "bbox": [
+            70,
+            206,
+            931,
+            281
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En cuanto al material de la parte de la muralla construida durante la dinastía Qin, la materia prima depende de la disponibilidad de tierra, mientras que el diseño y la ubicación de torres de vigilancia, cuarteles y los pasajes son seleccionados sobre la base de las ventajas estratégicas que ofrece la configuración física de las regiones. Las paredes se construyen en capas alternas de grava triturada y cañas, fueron cubiertas con arcilla para ser protegidas de la erosión y hacerla más difícil de escalar. ",
+        "bbox": [
+            70,
+            296,
+            931,
+            390
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Puertas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            420,
+            159,
+            438
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Paso Juyong (居庸關) o \"paso del norte\", en la zona de Badaling. Esta sección del muro ha tenido muchos guardias para defender la capital Pekín. De piedra, parte de la Gran Muralla es de 7,8 metros de altura y 5 metros de ancho.   \nPaso Jiayu ( 嘉 峪 關 ) o \"paso del oeste\". Esta fortaleza está cerca del borde occidental de la Gran Muralla.   \nPaso Shanhai ( ⼭ 海 關 ) o \"paso del este\". Esta fortaleza se encuentra cerca de los bordes de la zona oriental de la Gran Muralla. ",
+        "bbox": [
+            80,
+            454,
+            578,
+            650
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4c15e7b9f4cf1cf6ded417b11bbbc64c1c9c45bde5a3777908b73ebfd3fa50d.jpg",
+        "image_caption": [
+            "Paso de Shanhai, «Primera puerta bajo el cielo», en restauración "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            461,
+            924,
+            630
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Secciones relevantes ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            681,
+            312,
+            700
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Una de las secciones más llamativas de la Gran Muralla Ming es donde remonta muy empinadas laderas. Recorre 11 kilómetros de largo, tiene de 5 a 8 metros de altura y 6 metros en la parte inferior, hasta 5 metros en la parte superior. Tiene 67 torres de vigilancia y está a 980 metros sobre el nivel del mar. ",
+        "bbox": [
+            82,
+            713,
+            931,
+            779
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Torres de vigilancia y cuarteles ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            808,
+            423,
+            828
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Se construyeron fuertes a lo largo de la muralla, o directamente integrados en las paredes, con un sistema de señales de humo para advertir de un ataque xiongnu. Para lograr la pronta llegada de refuerzos, el ejército hacía uso de la luz, principalmente para la caballería. La Gran Muralla china también pasa a través de las principales rutas comerciales, lo que permite el control de las importaciones. ",
+        "bbox": [
+            70,
+            837,
+            931,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7817c9c81c289a03c0981bd64afe80a4af2350d499ee1e742497369d74bd988.jpg",
+        "image_caption": [
+            "Torre Mutianyu "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            52,
+            393,
+            219
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Cada torre tiene escaleras únicas y de acceso difícil de manera que confunda al enemigo. Los cuarteles y los centros administrativos fueron ubicados a mayores distancias. A lo largo de la muralla existen almenas en la línea superior de la gran mayoría de la muralla, con aspilleras defensivas de un poco más de $3 0 ~ \\mathrm { c m }$ de altura y alrededor de $2 3 \\mathrm { c m }$ de anchura.12 ",
+        "bbox": [
+            70,
+            264,
+            578,
+            301
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/d505a34d3cc270252218dc09553d6e981283c5c49ba667ee9bdd501429a210a3.jpg",
+        "image_caption": [
+            "Torre de vigilancia típica de la Gran Muralla. Quinta torre al oeste del Paso de Badaling, vista desde la cuarta torre "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            51,
+            922,
+            219
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            304,
+            932,
+            359
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Ampliaciones y modificaciones ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            395,
+            470,
+            420
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "La muralla ha sufrido cuatro grandes reestructuraciones: ",
+        "bbox": [
+            70,
+            435,
+            527,
+            453
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. En el año 208 a. C. por la dinastía Qin   \n2. Durante el siglo i por la dinastía Han   \n3. Entre el año 1138 y el 1198   \n4. En el año 1368 por la dinastía Ming ",
+        "bbox": [
+            78,
+            469,
+            448,
+            546
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Conservación ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            568,
+            250,
+            590
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Si bien se han conservado algunas partes al norte de Pekín y cerca de centros turísticos, e incluso reconstruido, la muralla está en mal estado en muchos lugares. Las partes desaparecidas han servido como cantera de piedras en la reconstrucción de viviendas y carreteras.13 Hay asimismo secciones de la Muralla propensas a grafiti y vandalismo. Se ha destruido también porque está en el camino de la construcción.14 No hay un inventario exhaustivo de la muralla, por lo que no es posible decir cuánto de ella sobrevive, especialmente en las zonas remotas. ",
+        "bbox": [
+            70,
+            609,
+            578,
+            798
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/953d342a3f284fab39fa1fa6e9b8b07841bf98a9d84837e0ff6946f8e6a531c9.jpg",
+        "image_caption": [
+            "Turistas en la muralla "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            617,
+            922,
+            786
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Más de 60 kilómetros de la muralla en la provincia de Gansu pueden desaparecer en los próximos veinte años a causa de la erosión por las tormentas de arena. En esos lugares, la altura de la pared se ha reducido de más de cinco metros a menos de dos metros. Las torres vigías, que caracterizan a las más famosas imágenes de la muralla, han desaparecido completamente. Muchas secciones occidentales de la muralla se construyeron a partir de barro, en lugar de ladrillo y piedra, y por lo tanto son más susceptibles a la erosión.15 ",
+        "bbox": [
+            72,
+            815,
+            578,
+            832
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            834,
+            932,
+            929
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "El libro de Richard Halliburton, Second Book of Marvels, publicado en 1938, afirmaba que la Gran Muralla es la única construcción humana visible desde la Luna, y la publicación de Ripley de la misma década aseguraba algo parecido. Esta creencia ha persistido, adquiriendo un estatus de leyenda urbana. Arthur Waldron, autor de la historia más fiable de la Gran Muralla,[cita requerida] ha especulado que la creencia puede provenir de la fascinación con los «canales» que se creía que existían en Marte. La lógica era simple: si los terrícolas podían ver los canales de Marte, entonces los marcianos podrían ver la Gran Muralla. ",
+        "bbox": [
+            70,
+            103,
+            931,
+            235
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "En realidad, la Gran Muralla tiene únicamente pocos metros de ancho —un tamaño aproximado al de las pistas de las carreteras y aeropuertos— y es casi del mismo color que el suelo que la rodea. No es posible verla desde la distancia de la Luna, y mucho menos desde Marte. ",
+        "bbox": [
+            70,
+            252,
+            578,
+            345
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Neil Armstrong afirmó: «No creo que, por lo menos con mis ojos, hubiera alguna construcción humana visible para mí. No he conocido a nadie que me haya dicho que ha visto la Muralla China desde la órbita terrestre.16 Le he preguntado a mucha gente, particularmente a gente del transbordador, que han orbitado varias veces sobre China durante el día, y aquellos con los que he hablado no la han visto». En mayo de 2004, la NASA anunció que la fotografía tomada a la Muralla China desde el espacio no era en realidad la construcción, sino un tramo de un río entre las montañas, y reconoció públicamente que la Gran Muralla no es visible desde el espacio sin ayuda.[cita requerida] ",
+        "bbox": [
+            70,
+            361,
+            578,
+            530
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/d7a189ab11a942ee14597bc5882035b1e7a037747b9dfa562bd904c8e8da0f54.jpg",
+        "image_caption": [
+            "La Gran Muralla en imagen satélite "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            260,
+            924,
+            484
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            534,
+            932,
+            570
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Leyendas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            606,
+            196,
+            630
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Meng Jiangü ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            669,
+            218,
+            690
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Hace muchos, muchos años, el gran Dragón de piedra amenazaba al imperio chino con conquistarlo. Para evitar esta tragedia, el emperador Shi Huang ordenó construir la muralla más grande e impresionante jamás construida. ",
+        "bbox": [
+            70,
+            697,
+            931,
+            751
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "La conquista del dragón comenzó por la zona más vulnerable, ya que era la zona más alejada de donde estaban los soldados del emperador. Estos decidieron defender las grandes ciudades y a la gente rica antes que a los ciudadanos más pobres. ",
+        "bbox": [
+            70,
+            768,
+            931,
+            824
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "La construcción de la Gran Muralla comenzó por el norte del país. Allí dividió pueblos y comarcas por la mitad. En esos pueblos vivían dos familias muy amigas; la familia Meng y la familia Jiangü. La muralla dividió a ambas familias para siempre, dejándolas a cada una a un lado distinto de la muralla. ",
+        "bbox": [
+            70,
+            839,
+            931,
+            895
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Las familias no sabían qué hacer para volver a reunirse otra vez. En un momento desesperado decidieron plantar una planta trepadora en ambos lados de la muralla. La planta crecería hacia arriba y se juntaría con la otra. Cuando esto ocurriera, las familias podrían trepar y volver a verse en los altos del muro. ",
+        "bbox": [
+            70,
+            42,
+            931,
+            98
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Los años iban pasando y los soldados siguieron construyendo la muralla. Las plantas seguían creciendo hasta que por fin se unieron en lo alto de aquel muro. Las familias treparon y volvieron a reunirse arriba. Las familias quedaban todos los días a una hora para subir y verse, hasta que un día descubrieron algo raro en lo más alto del árbol. Era una enorme flor que desató las disputas entre las familias. Todas decían que la flor había nacido de su planta y que era de su propiedad. La disputa duró meses hasta que un día la flor se abrió y salió una encantadora y hermosa joven. Al ver a la muchacha, las familias decidieron hacer las paces y decidieron que criarían a la muchacha entre las dos familias, por eso la llamaron Meng Jiangü. ",
+        "bbox": [
+            70,
+            114,
+            931,
+            245
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Mientras tanto, la construcción de la muralla seguía su curso. Sin embargo, había un tramo que cada vez que lo construían se caía. Esto enfadaba mucho al emperador y al no saber cómo arreglarlo, decidió consultar a su grupo de sabios. Uno de ellos le dijo que si mataba a un hombre por cada “li” empleado en la muralla todo se arreglaría. Esta idea no convencía al emperador, por eso pidió opinión a otro sabio. El sabio le dijo que no hacía falta matar a tanta gente, solo tenía que buscar un hombre que cumpliera con un único requisito. Si en la muralla se iban a emplear 10 000 “li” solo tenía que encontrar a alguien llamado Wan que era sinónimo de diez mil.17 ",
+        "bbox": [
+            70,
+            260,
+            931,
+            393
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "El emperador ordenó la búsqueda de Wan por todos los pueblos de china, los soldados no descansarían hasta encontrarlo. Al norte de China vivía un joven de una familia de campesinos llamado Wan. Cuando el joven se enteró de los planes del emperador, decidió huir al bosque. Allí entre árboles se perdió hasta que terminó enredado en una planta muy rara. ",
+        "bbox": [
+            70,
+            409,
+            931,
+            484
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Esa planta rara era la planta que dio vida a Meng Jiangü. El joven en seguida vio a la hermosa joven y se quedó perdidamente enamorado de ella. Entonces decidió ir a hablar con ella. Al principio no le quiso contar quién era, pero finalmente lo hizo. La muchacha entonces decidió protegerlo y ocultarlo en su jardín. Los días iban pasando y cada vez se gustaban más los dos jóvenes. Un día, Wan se agachó y le pidió matrimonio a Meng Jiangü. Esta se lo contó a su familia y todos se alegraron muchísimo de la noticia y apoyaron el matrimonio entre los dos jóvenes. ",
+        "bbox": [
+            70,
+            500,
+            931,
+            612
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "El día de la boda se anunció poco después de la pedida, pero nunca se celebró. Alguien del pueblo delató al muchacho y los soldados lo tomaron prisionero. Los soldados se lo llevaron ante el emperador y por mucho que el joven suplicara, el emperador lo ejecutó delante de la muralla. Así, los restos del joven pasaron a ser parte de la propia muralla. ",
+        "bbox": [
+            70,
+            628,
+            929,
+            703
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "La profecía de los sabios se cumplió, la muralla no volvió a romperse. Lo que sí se rompió fue el corazón de Meng Jiangü en mil pedazos. La joven no paró de llorar durante años. Recorrió toda la muralla llorando en busca de su amado, pero nunca lo consiguió. ",
+        "bbox": [
+            70,
+            718,
+            931,
+            774
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Un día el llanto de la muchacha hizo que la muralla se partiera y le mostrara donde descansaba su querido. Meng Jiangü se agachó, lo tomó de la cabeza y lo acarició echando sus lágrimas con la primera caricia. Meng Jiangü se quedó ahí el resto de su vida velando y cuidando al que iba a ser su marido. ",
+        "bbox": [
+            72,
+            789,
+            931,
+            845
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Hoy en día hay gente que ha ido a la muralla que asegura que ha oído y visto a Meng Jiangü llorando a su amado. Esta tragedia es recordada por los habitantes del país como la más romántica de la historia.18 ",
+        "bbox": [
+            72,
+            861,
+            931,
+            899
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9cade858275a7215f1e7a9de038dff743bfe86e9cb3ddb2555fb0e991cabdb28.jpg",
+        "image_caption": [
+            "Otra vista de la Gran Muralla en Badaling "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            106,
+            922,
+            261
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla en Badaling ",
+        "bbox": [
+            80,
+            254,
+            268,
+            286
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla en Badaling ",
+        "bbox": [
+            514,
+            254,
+            702,
+            285
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla en Badaling ",
+        "bbox": [
+            731,
+            254,
+            919,
+            285
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/6f183898dfea12e10df9a1d0cf4688e48b867b50b4c6b8cca3b32e66c4de975a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            302,
+            922,
+            439
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "La Gran Muralla en Badaling, vista desde dentro de la muralla ",
+        "bbox": [
+            78,
+            450,
+            268,
+            495
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Una remota sección de la parte occidental de la muralla, Jiayuguan, Gansu, China ",
+        "bbox": [
+            295,
+            450,
+            487,
+            524
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mutianyu cerca de Beijing ",
+        "bbox": [
+            514,
+            450,
+            704,
+            480
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Una sección de la Gran Muralla, entre Simatai y Jinshanling ",
+        "bbox": [
+            729,
+            450,
+            921,
+            496
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d4bb2ea75de0fb19ff0c5c85f1765a1c37db63f4a7f440b2d0ea58f48bf4288.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            543,
+            675,
+            681
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Panorama, desde Mutinayu ",
+        "bbox": [
+            482,
+            691,
+            672,
+            722
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            762,
+            262,
+            785
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Anexo:Patrimonio de la Humanidad en China Siete maravillas del mundo moderno Patrimonio de la Humanidad Nuevas siete maravillas del mundo moderno Mortero de cal con arroz ",
+        "bbox": [
+            80,
+            806,
+            510,
+            902
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1. RAEinforma (21 de diciembre de 2020). «#RAEconsultas La escritura correcta es «Gran Muralla china». Dado que «china» no forma parte de la denominación de este conjunto arquitectónico de carácter monumental, sino que funciona como especificador opcional, debe escribirse en minúsculas.» (https://twitter.com/i/status/13 40946251253243904) (tuit) – vía X/Twitter. ",
+        "bbox": [
+            78,
+            112,
+            494,
+            257
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. La Gran Muralla china mide 21 196 kilómetros, más del doble de lo que se creía (http://mundo.sputniknews.com/cienci a/20120606/153974362.html) ",
+        "bbox": [
+            75,
+            261,
+            494,
+            325
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3. «Muralla china mide dos mil km más de lo que se pensaba.» (http://www.eluniversal.c om.mx/notas/592373.html) Archivado (http s://web.archive.org/web/20140223205017/ http://www.eluniversal.com.mx/notas/59237 3.html) el 23 de febrero de 2014 en Wayback Machine. El Universal. Consultado el 3 de julio de 2018. ",
+        "bbox": [
+            77,
+            328,
+            494,
+            457
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4. «The Great Wall» (http://whc.unesco.org/e s/list/438). whc.unesco.org. Consultado el 15 de octubre de 2017. ",
+        "bbox": [
+            77,
+            460,
+            494,
+            508
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. H. A. R. Gibb and C. F. Beckingham, trans. The Travels of Ibn Baṭṭūṭa, A.D. 1325– 1354 (Vol. IV). London: Hakluyt Society, 1994 (ISBN 0-904180-37-9), ps. 896 ",
+        "bbox": [
+            75,
+            513,
+            494,
+            580
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6. Haw, Stephen G. (2006). Psychology Press, ed. Marco Polo's China: a Venetian in the realm of Khubilai Kan (https://archiv e.org/details/marcopolochinave00haws). ",
+        "bbox": [
+            77,
+            583,
+            494,
+            647
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Volume 3 of Routledge studies in the early history of Asia. pp. 52 (https://archive.org/d etails/marcopolochinave00haws/page/52)– 54. ISBN 0415348501. ",
+        "bbox": [
+            95,
+            648,
+            492,
+            711
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "7. \\*João de Barros, Ásia de João de Barros. Dos feitos que hueso portuguesas fizeram no descobrimento dos madres e terras do Oriento., 3-a Década. libro 2, capítulo VII. Lisboa, 1563. Este capítulo está reproducido en las pp. 186—204 del quinto volumen del 1777 edición (http://babel.hath itrust.org/cgi/pt?id=nyp.33433082328869;\\*s eq=232) de Asia. ",
+        "bbox": [
+            78,
+            716,
+            494,
+            861
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "8. Donald F. Lach (1965). Asia in the making of Europe. Y, Book Two. The University of Chicago Press. p. 739. ",
+        "bbox": [
+            75,
+            863,
+            492,
+            912
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "9. Sir Henry Yule, ed. (1866). Cathay and the way thither: being a collection of medieval notices of China (http://books.google.cat/bo oks?id=kzemaaaaiaaj&pg=pa579#v=onepa ge&q&f=false). edición 36-37 de trabajos editados por the Hakluyt Society. The Hakluyt society. p. 579. (Esta sección es el informe de los viajes de Góis, según describió Matteo Ricci en De Christiana expeditione apud Sinas (publicado en 1615), anotada por Henry Yule) ",
+        "bbox": [
+            512,
+            104,
+            929,
+            280
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "10. «Hermanamiento entre las murallas de Lugo y de China» (https://elpais.com/cultur a/2007/10/06/actualidad/1191621605_8502 15.html). El País. 6 de octubre de 2007. ISSN 1134-6582 (https://portal.issn.org/resource/iss n/1134-6582). Consultado el 14 de noviembre de 2020. ",
+        "bbox": [
+            504,
+            285,
+            931,
+            396
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "11. UNESCO (http://whc.unesco.org/es/list/43 8) (en inglés) ",
+        "bbox": [
+            504,
+            400,
+            929,
+            433
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "12. «Torre de defensa de la Gran Muralla» (htt ps://www.nationalgeographic.com.es/histori a/grandes-reportajes/la-gran-muralla-china 8272/6). www.nationalgeographic.com.es. Consultado el 12 de noviembre de 2018. ",
+        "bbox": [
+            504,
+            435,
+            929,
+            515
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "13. Ford, Peter (2006, Nov 30). Nueva ley para mantener la Muralla China (http://www.csm onitor.com/2006/1130/p07s02-woap.html). ",
+        "bbox": [
+            504,
+            519,
+            931,
+            567
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "14. Doar, Bruce G.: «La Gran Muralla China: tangible, intangible y destructible.» (http://w ww.chinaheritagenewsletter.org/features.ph p?searchterm=001_greatwall.inc&issue=00 1) ",
+        "bbox": [
+            504,
+            571,
+            927,
+            653
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "15. La Muralla China cada vez menos Grande (http://www.reuters.com/article/latestCrisis/i dUSPEK274699). Reuters. 29 de agosto de 2007. Consultado el 30 de agosto de 2007. ",
+        "bbox": [
+            504,
+            655,
+            929,
+            735
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "16. La Muralla China desde el espacio: un viejo mito (https://web.archive.org/web/200 90126104338/http://www.lagranepoca.com/ articles/2008/02/26/1802.html) ",
+        "bbox": [
+            504,
+            738,
+            931,
+            802
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "17. «Meng Jiang: El Llanto Que Derribó La Muralla» (https://murallachina.info/meng-jia ng-llanto/). ",
+        "bbox": [
+            504,
+            806,
+            931,
+            855
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "18. «Cultura de la Gran Muralla - Icono de China, Leyendas, Poesía...» (https://www.vi aje-a-china.com/gran-muralla/cultura/). ",
+        "bbox": [
+            504,
+            858,
+            931,
+            907
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Arnold, H. J. P, \"The Great Wall: Is It or Isn't It?\" Astronomy Now, 1995.   \nHessler, Peter. \"Walking the Wall\". The New Yorker, May 21, 2007, pp. 56-65.   \nLovell, Julia. The Great Wall: China against the World. 1000 BC - 2000 AD. London: Atlantic Books; Sydney, Australia: Picador, 2006. ISBN 978-0-330-42241-3; ISBN 0-330-42241-3.   \nMan, John. (2008). The Great Wall. Londres: Bantam Press. 335 pages. ISBN 9780593055748. Michaud, Roland (fotógrafo); Sabrina Michaud (fotógrafa) & Michel Jan, The Great Wall of China. Abbeville Press, 2001. ISBN 0-7892-0736-2 Waldron, Arthur, The Great Wall of China: From History to Myth. Cambridge: Cambridge University Press, 1990. Yamashita, Michael; Lindesay, William (2007). The Great Wall — From Beginning to End. Nueva York: Sterling. 160. ISBN 978-1-4027-3160-0. ",
+        "bbox": [
+            78,
+            108,
+            932,
+            306
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            330,
+            290,
+            350
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Imagen satelital de la Gran Muralla china (https://web.archive.org/web/20040811235244/htt p://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=4840), en el Observatorio de la Tierra de la NASA (en inglés)   \n- Sitio oficial thegreatwall.com.cn (http://www.thegreatwall.com.cn/en/#.YKNrfedS-Ul) (en inglés) The great wall of China, en Structurae. (https://structurae.net/en/structures/great-wall-of-chi na,) (en inglés) ",
+        "bbox": [
+            78,
+            371,
+            932,
+            494
+        ],
+        "page_idx": 11
+    }
+]

@@ -1,0 +1,655 @@
+[
+    {
+        "type": "text",
+        "text": "Mismatch repair in Xenopus egg extracts is not strand-directed by DNA methylation ",
+        "text_level": 1,
+        "bbox": [
+            46,
+            165,
+            921,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. PetranoviIc1, K. VlahovIl, D. ZahradkA1, S. Dzidi1, M. Radman2 ",
+        "bbox": [
+            44,
+            251,
+            558,
+            267
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "eaa Médecine Necker-Enfants Malades, Universite R. Descartes, Paris Cedex 15, France ",
+        "bbox": [
+            48,
+            289,
+            869,
+            315
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received June 12, 2000 ",
+        "text_level": 1,
+        "bbox": [
+            48,
+            341,
+            207,
+            353
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Te   :ba lated and fully methylated heteroduplexes was investigated. Filamentous phage $\\mathrm { M l } 3 \\mathrm { m p l } 8$ and its derivative $\\mathsf { M l } 3 \\mathsf { m p l } 8 /$ MP-I (C changed to T inside the sequence $\\mathrm { d C C ^ { * } C }$ GGG, at the position 6248) were used for heteroduplexes construction. T a DNA $\\mathrm { ( m e ^ { - } / m e ^ { + } ) }$ for replication errors; unmethylated $\\mathrm { ( m e ^ { - } / m e ^ { - } ) }$ and fullymethylated DNA $( \\mathrm { m e ^ { + } / m e ^ { + } } )$ for recombination ",
+        "bbox": [
+            98,
+            373,
+            885,
+            470
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In viro methylation was done by HpaI methylase which methylate central Cof dCCGG sequence in the mannero would create the sequence for one of the \"diagnostic\" restriction endonucleases, either BstNI or MspI. ",
+        "bbox": [
+            98,
+            471,
+            885,
+            512
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Correction efficiency was about $1 0 ^ { 8 }$ repair events per egg equivalent. Correction in favor of C:G base pair restoration cate methylation-independent repair of mismatched bases in $X ,$ laevis oocite extracts. ",
+        "bbox": [
+            96,
+            514,
+            883,
+            583
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words: Mismatch repair, heteroduplex DNA, DNA methylation, strand discrimination. ",
+        "bbox": [
+            116,
+            598,
+            698,
+            611
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In vivo mismatched base pairs in DNA arise from replication errors, from 5meC deamination and from recombination that result in the pairing of homologous but nonidentical sequences. An organism may respond to these mispairs and convert them to the normal W-C base pairs or may ignore them and produce nonidentical and mutated progeny, as well as modified transcripts. Since the bases are otherwise normal W-C DNA bases but noncomplementary matched, the cellular mismatch repair (MMR) machinery is faced with the problem how to recognize and specifically eliminate incorrect base. Both prokaryotic and eukaryotic cells are capable to overcome this problem and efficiently repair mismatched bases and protect genom from abundant mutations. The most of our knowledge about MMR comes from the work with Escherichia coli. In this simple organism at least three MMR systems have been identified. They differ in regard to the strand-discrimination signal and to the strand excision-repair tract size. The long-patch mismatch repair (LPMMR) system is generally known as methyl-directed MutS,L,H pathway. Mismatched bases are recognized by MutS and MutL proteins. After mismatch recognition MutH endonuclease specifically introduces a nick in the vicinity of dGATC sequence only if the adenine is not methylated, as it is the case in the newly synthesized DNA strand. Parental, \"old\" DNA is modified by the activity of Dam methylase, the product of dam gene, which methylates A exclusively in dGATC sequence. Methylation stays behind the replication about a half of the minute, transiently resulting in hemimethylated states of DNA strands susceptible to MutH dependent incision. Discontinuities provoked by MutH endonuclease in the new strand are substrate for MutU (helicase II) which catalyses strand displacement from dGATC sequence to the mismatched bases. The displaced strand is subsequently degraded by Exo VII/RecJ or Exo I. SSB protein, DNA pol III as well as DNA ligase necessary for resynthesis and for sealing this up to several kilobases long patchwork [14, 28, 34]. ",
+        "bbox": [
+            48,
+            660,
+            478,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            660,
+            935,
+            903
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            46,
+            87,
+            481,
+            210
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "About $9 9 \\%$ of the spontaneous replication errors are corrected via LPMMR. The same mechanism is very efficient as a control mechanism for recombination fidelity, preventing the recombination of homologous but nonidentical DNA strands [31, 36, 41]. In addition to LPMMR, two pathways for mismatc correction were identified in E. col The first one, very short patch mismatch repair (VSPMMR) corrects T in T:G mispaired bases that occurs in dCCA/TGG sequence. This sequence is a substrate for dcm-encoded methylase which methylates the internal $C '$ at the position 5 in the cytosine ring. 5-meC deaminates spontaneously to T, generating T:G mispair. In VSPMMR, strand-specific mismatch endonuclease is product of vsr gene, located very closely to dcm gene. It recognizes T:G mismatches that occur only in dCT (A/T)GG and dNT(A/T)GG sequences and makes incision $5 '$ of the T. DNA pol I removes the T by its exonucleolytic activity, and then carries out repair synthesis. This pathway is sequenceand mismatch-specific, and depends on MutS,L, Dcm, Vsr, and DNA pol I , with only a few nucleotides long patchwork. ",
+        "bbox": [
+            48,
+            211,
+            483,
+            505
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The $E$ coli MMR does not recognize and repair all mismatches with equal efficiency. In general, transition mismatches G:T and C:A are repaired more efficiently than transversion mismatches G:A; C:T; A:A, G:G, T:T and C:C [10, 18]. One of transversion mismatches, G:A, could be repaired by MutY-dependent mismatch pathway. The MutY protein plays an important role as a DNA glycosylase. The G:A mismatches are repaired to G:C base pairs $( 7 0 \\% )$ or A:T $( 3 0 \\% )$ .This pathway is mismatch-specific, MutS,L,H -independent, DNA pol I-dependent and gives rise to repair patches in the range of 10 to 20 nucleotides [2, 33, 43]. ",
+        "bbox": [
+            50,
+            506,
+            483,
+            675
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There is a lot of convincing evidence that eukaryotes possess very potent MMR activity, and both types of MMR, longpatch and short-patch have been demonstrated in human cells. LPMMR has a large excision tract (90—170 nucleotides) but little or no sequence specificity [14]. The first step of MMR, the recognition of mismatched bases, has been highly conserved during evolution, and homologous of bacterial MutS and MutL have been identified in many eukaryotes from Saccharomyces cerevisiae to humans. Four genes have been characterized as human homologous of $E$ coli MutS, and three as homologous of MutL [30]. Inactivation of genes encoding these activities results in a large increase of spontaneous mutability and in the sporadic or hereditary predisposition to tumor development, like hereditary human nonpoliposis colorectal cancer (HNPCC) [12, 20]. ",
+        "bbox": [
+            50,
+            677,
+            483,
+            904
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mammalian cells have been shown to have capacity to repair specifically G:T mismatch to G:C in a manner very similar to short-patch repair in prokaryotes. By this mechanism, a single T nucleotide in T:G mismatched pairs is removed by thymine-DNA glycosylase; the resulting AP site is subjected to endonucleolytic incision and gap is repaired by the $\\mathrm { p o l } \\beta$ [3, 46, 47]. It was shown that monkey kidney cells repair different mismatches with different efficiencies and repair bias was influenced by mismatch flanking sequences, in a manner similar to $E$ coli [8, 42]. In addition, it is reported that HeLa cells extracts possess the activity of the recognition and nicking A:G mispairs as in the $E$ coli ${ \\mathrm { M u t Y ^ { + } } }$ -dependent pathway [30]. In spite of the homology in mismatch recognition step between prokaryotes and eukaryotes, an analog of the bacterial MutH endonuclease in strand-discrimination step, has not been identified yet in any eukaryotic cell, and chemical nature of this signal is far to be known. ",
+        "bbox": [
+            506,
+            87,
+            937,
+            350
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "By in vitro experiments it was shown that the MMR can be directed in many systems, such as $E$ coli, Xenopus laevis, Drosophila melangaster and human cells, by a nick or a gap in the vicinity of mismatched bases but the signal for mismatch carrying strand recognition is not yet found [27, 45]. ",
+        "bbox": [
+            506,
+            351,
+            939,
+            427
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xenopus laevis egg extracts, earlier shown to possess very efficient MMR activity [6, 44, 45] was used in this work to test the possible role of the DNA methylation as the stranddiscrimination signal. The substrates for this investigations were covalently closed heteroduplexes with either T:G or C:A mismatched base pairs constructed in vitro from two M13 mutants. The first one was well known M13mp18 and the other, $\\mathrm { M } 1 3 \\mathrm { m p } 1 8 / \\mathrm { M P } - 1$ was constructed for this purpose [32]. DNA strands of the heteroduplexes were unmethylated or in vitro methylated in CpG dinucleotide, to get the mismatched bases inside the unmethylated, hemimethylated or fullymethylated DNA strands. Heteroduplexes were treated with a Xenopus laevis egg extracts and the efficiency of MMR and the role of the strand methylation as a putative strand discrimination signal were tested. ",
+        "bbox": [
+            508,
+            430,
+            940,
+            658
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Material and methods ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            684,
+            676,
+            698
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial and phage strains.Bacterial strains were: E. coli JM101 supE, thi, del (lac-proAB), [F/ traD36, proAB, lacI9Z delM15] and E. coli JM110 rpsL, thr, leu, thi, lacY, galK, galT, ara, tonA, tsx, dam, dcm, supE 44, del (lac-proAB), [F/ traD36, proAB, lacl9Z delM15] [28]. Phage mutants were M13mp18 [29] and M13mp18/MP-1 [32]. ",
+        "bbox": [
+            508,
+            722,
+            940,
+            813
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA preparations. $( + )$ strand phage DNA (circular singlestranded DNA from phage particles) and replicative form (RF) phage DNA (closed circular double-stranded DNA from infected cells) were isolated according to Messing [26]. ",
+        "bbox": [
+            506,
+            813,
+            940,
+            874
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Construction of closed circular DNA heteroduplexes. The two DNA heteroduplexes, one with a T:G mismatch at the position 6248 and the other with a C:A mismatch at the same position were prepared by using DNAs from $\\mathrm { M l } 3 \\mathrm { m p l } 8$ and $\\mathrm { M } 1 3 \\mathrm { m p } 1 8 / \\mathrm { M P } - 1$ phages, respectively. RF DNAs were first linearized with Hi:dIII endonuclease, and then denaturated and annealed with overexcess of the $( + )$ strand of the other phage. E. coli DNA ligase was used to seal the nick and closed circular heteroduplexes were isolated after the equilibrium centrifugation in CsCl-EtBr gradient [32, 39]. Viral $( + )$ strand DNA of $\\mathrm { M } 1 3 \\mathrm { m p } 1 8 / \\mathrm { M P } - 1$ and RF DNA of $\\mathrm { M l } 3 \\mathrm { m p l } 8$ were used for the construction of heteroduplex containing T:G mismatch. C:A mismatch containing heteroduplex was constructed by use of $( + )$ strand of $\\mathrm { M l } 3 \\mathrm { m p l } 8$ and RF ofM13mp18/MP-1 according to procedure described in details previously [32]. ",
+        "bbox": [
+            506,
+            875,
+            940,
+            904
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            51,
+            94,
+            483,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Enzymes. Restriction endonucleases (HindIII, HpaII, MspI and BstNI), $E ,$ coli DNA ligase, HpalI methylase and Klenow fragment of DNA pol I were used according to the supplier's recommendation. ",
+        "bbox": [
+            51,
+            294,
+            483,
+            355
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Egg collection and extraction. Xenopus laevis eggs were collected and extracts were made as described [1]. The extracts were adjusted to contain about $5 0 \\mathrm { m g / m l }$ proteins, 30 $5 0 ~ \\mu \\mathrm { M }$ dNTP and $3 - 5 ~ \\mathrm { m M }$ ATP in an appropriate buffer [45]. One $\\mu \\mathrm { l }$ of extract corresponded to about one egg equivalent. The aliquots were stored at $- 8 0 \\mathrm { { } ^ { \\circ } C }$ and used within 3 months. ",
+        "bbox": [
+            53,
+            356,
+            483,
+            461
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Repair assay. $2 5 \\mu \\mathrm { l }$ of egg extract was incubated with 250 ng of homo- or heteroduplex DNA in a total volume of $3 0 \\mu \\mathrm { l }$ . After $^ { 2 \\mathrm { h } }$ at $2 2 ^ { \\mathrm { o } } C$ , the reaction was stopped by the addition of EDTA, SDS and proteinase K. DNA was extracted with phenol/chloroform and precipitated with ethanol. BstNI and MspI were used to probe whether mismatches in heteroduplexes were converted or not to a regular base pairs. After I h incubation at $6 5 ^ { \\mathrm { o } } \\mathrm { C }$ for BstNI or at $3 7 ^ { \\mathrm { o } } \\mathrm { C }$ for MspI, fragments were labeled by Klenow enzyme to fill their recessed $3 ^ { \\circ } -$ ends in the presence of $[ \\mathsf { Q } ^ { 3 2 }$ P] dNTP [39]. BstNI fragments were labeled by using mixture of $[ \\alpha ^ { 3 2 }$ P] dATP and $[ \\alpha ^ { 3 2 } \\mathrm { P } ]$ dTTP. For labeling Mspl fragments, $[ ( x ^ { 3 2 }$ P] dCTP was used. After electrophoresis through $5 \\%$ polyacrylamide gels, the samples were autoradiographed and used to quantify relative amounts of DNA in bands of particular interest. This was done by comparing the densities of \"diagnostic\" bands with those of the nearest ones for the treated and untreated samples [32, 39]. ",
+        "bbox": [
+            53,
+            462,
+            485,
+            723
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "bbox": [
+            55,
+            748,
+            225,
+            761
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The role of DNA methylation in MMR in vertebrates was studied in an in vitro system consisting of model DNA substrates and Xenopus egg extracts. ",
+        "bbox": [
+            53,
+            784,
+            485,
+            829
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Model DNAs were closed circular heteroduplexes containing either a single mismatch of the T:G type within the sequence $5 ^ { \\prime }$ -CCTGGG- $. 3 \\ '$ , $3 ^ { \\prime }$ -GGGCCC $s '$ or a single mismatch of the C:A type within a sequence $5 '$ -CCCGGG-3',3'-GGACCC $\\cdot 5 '$ . The mismatch position was chosen to occupy both eukaryotic methylation specific sequence as well as one of the two diagnostic endonuclease sequence, as it is shown in Fig. 1. ",
+        "bbox": [
+            55,
+            832,
+            485,
+            906
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/aae9c32488df94fae33ce9d759f1fcfbf6f54d5c923d1710e8204c6904171b77.jpg",
+        "image_caption": [
+            "Fig. 1. In vitro assay for mismatch correction. The substrate for mismatch correction was a covalently closed heteroduplex of M13mp18 and its derivative M13mp18/MP-1. Mismatched bases were at the position 6248 within MspI for M13mp18 or BstNI for M13mp18/MP-1 sequences. Mismatch correction to any direction recovers a regular sequence for one of these two endonucleases, resulting in two new bands of corresponding lengths. For BstNI new bands were 110 bp and 81 bp long, and for MspI new bands were 215 bp and 89 bp long, respectively. This RFLP (restriction fragments length polymorphism) indicates MMR activity. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            507,
+            93,
+            942,
+            306
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            493,
+            939,
+            523
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Heteroduplexes were unmethylated $( \\mathrm { m e ^ { - } / m e ^ { - } } )$ , hemimethylated $\\mathrm { ( m e ^ { - } / m e ^ { + } ) }$ or fully methylated $( \\mathrm { m e ^ { + } / m e ^ { + } } )$ . In the case of $\\mathrm { { \\ m e ^ { - } / m e ^ { + } } }$ and $\\mathrm { m e ^ { + } / m e ^ { + } }$ DNAs, methylated C was in CpG dinucleotide of one or both DNA strands, respectively. Mismatches in me?/me+ DNAs mimicked mismatches formed naturally by replication errors, while those in me-/me\" and $\\mathrm { m e ^ { + } } / \\AA$ ${ \\mathrm { m e } } ^ { + }$ DNAs mimicked mismatches formed naturally by recombination in me/me\" and $\\mathrm { m e ^ { + } / m e ^ { + } }$ strands of DNA. T:G mismatch in $\\mathrm { m e ^ { + } / m e ^ { + } }$ mimicked also the mismatch type produced spontaneously by deamination of 5meC in fullymethylated DNA. ",
+        "bbox": [
+            508,
+            525,
+            941,
+            692
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Xenopus eggs are totipotent system with many advantages for in vitro experiments. They exhibit low levels of nucleolytic and nick translation activities. Furthermore, they possess recombination-promoting enzymes, ligase and double-strand break repair activities as well as single-stranded DNA replication activity. As the other germ cells, Xenopus eggs are able to perform at least 12 cell duplications following fertilization, without de novo transcription. Since embryogenesis is one of the most critical developmental stages demanding very precise duplication and maintaining of genetic information, it necessarily requests very active repair systems, including MMR. ",
+        "bbox": [
+            510,
+            693,
+            942,
+            875
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Methylation/demethylation activity of Xenopus laevis egg extracts. Generally, eukaryotic DNA methyltransferases can catalyze two methylation reactions: (i) de novo methylation of unmethylated C in CpG dinucleotide, and (ii) maintenance methylation, in which the enzyme methylate a C in one strand, using a methylated C in the other strand as a recognition signal [9]. ",
+        "bbox": [
+            510,
+            878,
+            942,
+            906
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            41,
+            89,
+            475,
+            165
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recently, the activity of the DNA demethylases were found in some experimental systems, indicating that the active process of DNA methylation is a reversible biological signal which regulates gene and chromosome activity [35, 48]. ",
+        "bbox": [
+            41,
+            166,
+            475,
+            227
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The eukaryotic methylation pattern can be determined by the treatment with Hpall and Mspl endonucleases. The restriction enzymes HpaII and MspI both recognize the sequence dCCGG, but HpalI does not cut if either C is methylated, whereas MspI tolerate the methylation of internal C of the specific sequence but does not cut if the external C is methylated. These traits make Mspl refractory to the eukaryotic type of methylation [29]. In tandem, HpalI and MspI endonucleases make a conventional tool for the determination of the methylation status in eukaryotes. To check the methylation and/ or demethylation activity in our extracts, homoduplexes used in our experiments (unmethylated, hemimethylated and fullymethylated) were incubated with Xenopus egg extracts as it was done in MMR assay. After incubation with egg extracts, they were subjected to the cleavage with either Hpall or MspI endonucleases, and the number and lengths of the fragments were compared. No difference in the number and size of fragments between treated and untreated homoduplex DNAs were found in our experiments (data not shown). Thus our results indicate that unfertilized Xenopus egg extract does not change methylation pattern of unmethylated, hemimethylated and fullymethylated DNA; it carries neither methylation nor demethylation activities. It was necessary to make this control experiments because it is known that once established in the genome of soinatic cells, CpG methylation pattern is very stable and heritable for all the cells of that tissue [13, 38, 40]. In contrast, DNA methylation is very dynamic during early development as well as in certain tumor cells [16], but for the unfertilized Xenopus eggs these data were not known, so far. ",
+        "bbox": [
+            42,
+            227,
+            477,
+            674
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is generally assumed that the DNA methylation generegulatory sequences (like promotors or $5 \\cdot$ sequences of the genes) strongly correlates with gene activity - it can inhibit transcription initiation and arrest transcript elongation. Also, it can act as an imprinting signal for chromosomal inactivation and as a suppressor of homologous recombination [11, 17, 19, 22, 23]. DNA methylation has been conserved during evolution probably because it provides unique possibilities for setting up functions of the various type [9]. Some authors [15] proposed the role of the methylation as strand discrimination signal for MMR in certain experimental system, in the manner very similar to that of $E$ coli methyl-directed repair. The absence of the new data in other experimental systems led us to test the role of DNA methylation as a discrimination signal in MMR in Xenopus oocites. The fact that Xenopus egg extract is not able to replicate covalently closed doublestranded DNA [25] offered the opportunity to examine MMR with no interference with heteroduplex DNA replication. ",
+        "bbox": [
+            44,
+            677,
+            479,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            499,
+            89,
+            932,
+            134
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Unmethylated heteroduplexes with $T { \\cdot } G$ or C:A mismatched bases. Covalently closed heteroduplexes containing T:G mismatched bases were constructed using the $( + )$ strand of $\\mathrm { M } 1 3 \\mathrm { m p } 1 8 / \\mathrm { M P } - 1$ annealed with (-) strand of RF of $\\mathrm { M } \\lfloor 3 \\mathrm { m p } \\lfloor 8$ , as described in details in Material and methods. The combination of $( + )$ strand of $\\mathrm { M l } 3 \\mathrm { m p l } 8$ annealed with (-) strand of $\\mathrm { M } 1 3 \\mathrm { m p } 1 8 / \\mathrm { M P l }$ resulted in heteroduplex bearing C:A mismatched bases at the same position as in the previous one. Both phages were propagated for at least two cycles of infection in the host deficient for both Dam and Dcm methylases, in order to obtain methylation-free heteroduplexes. ",
+        "bbox": [
+            500,
+            135,
+            935,
+            303
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hemimethylated heteroduplexes with $T \\cdot G$ or C:A mismatched bases. Since ss DNA $( + )$ strands from viral DNA are not a substrate for methylases, in our experimental system only a (-) strand could be methylated. RFs of the two phages were first methylated with HpalI methylase, and aliquots were then checked for HpalI cleavage. Samples displaying no fragmentation, were used for denaturation and annealing. The annealing of the $( + )$ strand of $\\mathrm { M } 1 3 \\mathrm { m p } 1 8 / \\mathrm { M P } - 1$ with previously methylated (-) strand of $ { \\mathrm { ~ M ~ l ~ } } 3  { \\mathrm { m p l } } 8$ resulted in hemimethylated T:G heteroduplex, while the combination of $( + )$ strand of $\\mathrm { M l } 3 \\mathrm { m p l } 8$ with previously methylated (-) strand of $\\mathrm { M } 1 3 \\mathrm { m p } 1 8 /$ MP-1 gave rise to hemimethylated C:A heteroduplex. Before treatment with egg extracts, methylase was inactivated by phenol extraction, and heteroduplexes were precipitated with ethanol. ",
+        "bbox": [
+            500,
+            306,
+            935,
+            534
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fullymethylated heteroduplexes with $T \\cdot G$ or C:A mismatched bases. Fullymethylated heteroduplexes with T:G or C:A mismatched bases were prepared as described for the unmethylated ones, and the methylation was done after annealing. The efficiency of methylation and methylase inactivation was determined as in the case of hemimethylated heteroduplexes. ",
+        "bbox": [
+            502,
+            537,
+            935,
+            643
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Repair assay. After exposure to egg extracts, heteroduplexes were cleaved by BstNI or MspI endonucleases. BstNI cuts $\\mathrm { M } 1 3 \\mathrm { m p } 1 8$ RF and M13mp18/MP-1 RF in 7 and 8 fragments, respectively. MspI cuts $\\mathrm { M l } 3 \\mathrm { m p l } 8$ RF and M13mp18/MP-1 RF in 17 and 16 fragments, respectively. After radioactive labeling, labeling the fragments were separated by gel electrophoresis and autoradiographed. Relative amounts of DNA in the bands of particular interest, were determined by densitometry. ",
+        "bbox": [
+            502,
+            645,
+            935,
+            781
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Repair activity of Xenopus eggs extract was detected by restriction fragments length polymorphism (RFLP) since the mismatch correction in any strand recovered a regular sequence for one of the two endonucleases, resulting in two new bands of corresponding lengths (Fig. 1). For BstNI new bands were 110 bp and 81 bp long, and for MspI new bands were 215 bp and 89 bp long. The efficiency of mismatch repair was assessed from the frequency of the reconstruction of a new recognition site either for BstNI or MspI endonuclease at the location of mismatched bases. On the basis of the heteroduplex concentration and egg equivalent we calculated that correction efficiency was about $1 0 ^ { 8 }$ repair events per egg equivalent for the most efficiently repaired mismatch. The results are presented in Table 1. ",
+        "bbox": [
+            502,
+            782,
+            935,
+            905
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/87973cc7071d2639a7c31a46cdb5ff9b7d957f78dca29dbe5bb3abbb89e4274f.jpg",
+        "table_caption": [
+            ""
+        ],
+        "table_footnote": [
+            "undetectable level of the clcavage. "
+        ],
+        "bbox": [
+            41,
+            111,
+            932,
+            221
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            44,
+            303,
+            476,
+            394
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Methylation is detected in all four groups of eukaryotes; protists, plants, fungi and animals with some exceptions like Drosophila melanogaster, yeast Saccharomyces cerevisiae and nematode Caenorahabditis elegans. Widespread distribution of DNA methylation among eukaryotes indicates that methylation could be an ancestral DNA modification which promotes in or interferes with a variety of cellular functions: gene expression, chromosomal structure, genomic imprinting, homologous recombination, and at least in some cases, it acts as a strand-discrimination repair signal [11, 15, 17, 19, 22, 23]. The best documented is the strong correlation between the methylation and gene silencing; methylation can interfere at the level of transcriptional initiation or elongation. ",
+        "bbox": [
+            46,
+            396,
+            476,
+            610
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The consideration that methylation has a suppressing effect on somatic recombination is based on the facts that many cancer cells harbor chromosomal rearrangements that could be explained by the homologous recombination between repeated sequences, and at the same time cancer cells are very often hypomethylated [4, 21]. Even nondividing tissue like human brain has very potent mismatch repair and methylation activities [7]. In such a tissue, errors like those caused by deamination of 5meC should be repaired very efficiently because the neurons are among the longest living cells and must remain functionally intact for decades in human being. ",
+        "bbox": [
+            46,
+            611,
+            476,
+            778
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The pleotropic role of DNA methylation in DNA metabolism and structure implicates the necessity for a faithful maintaining of methylation pattern. On the other hand, chemical instability of methylated C and its deamination to yield T can cause not only mutational event in the genom but also the change in methylation profile. Despite the existence of a G:T to G:C mismatch repair system, it is estimated that $3 5 \\%$ of point mutations causing human genetic disorders have occurred at CpG dinucleotides, and over $9 0 \\%$ of them were transitions from C to $\\mathrm { T }$ or corresponding G to A [37]. ",
+        "bbox": [
+            46,
+            779,
+            478,
+            900
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            500,
+            303,
+            933,
+            334
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We postulate that the same chemical marker as methylation, with so many effects on the DNA activity and structure, can be additionally used as a signal for strand discrimination in the repair of mismatched bases. ",
+        "bbox": [
+            500,
+            335,
+            932,
+            394
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results obtained with the model system used in our experiments indicate that the preferential repair of T:G in hemimethylated DNA presumably belongs to the repair activity of T:G - specific glycosidase [3, 46, 47]. Restoration of C:G base pair from either T:G or C:A in spite of strand-methylation, may indicate the preferential mechanism to save C:G base pair in the context of CpG sequence. The activity that we observed may involve more different mechanisms for MMR which do not entail any particular strand selectivity. ",
+        "bbox": [
+            500,
+            396,
+            933,
+            533
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We propose that nick shown to conduct repair direction in many prokaryotes and eukaryotes, is not methyl-directed in Xenopus eggs. It seams likely that signal for endonucleolytic incision could be created in many ways and most of them still remain to be discovered. ",
+        "bbox": [
+            500,
+            534,
+            933,
+            610
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            501,
+            637,
+            583,
+            650
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] ALMouzNI, G., MÉcHaLI, M.: Xenopus egg extracts: A model system for chromatine replication. Biochim. Biophys. Acta, 951, 1988, 443450.   \n[2] Au, K., CaBrerA, G., MilLER J.H., ModriCII, P.: Escherichia coli mutY gene product is required for specific A/G to C/G mismatch correction. Proc. Natl. Acad. Sci. USA, 85, 1988, 91639166.   \n[3] Barrett T.E., Savva, R., Panayotou G., Barlow T. Jiricny J., PEARL, L.H.: Crystal structure of a G:T/U mismatch-specific DNA glycosilase: Mismatch recogniton by complementary-strand interactions. Cell, 92, 1998, 117-1129.   \n[4] Baylin, S.B., Herman, J.G., GrafF, P.M., J.R, Vertino, P.M., IsSA, J.P.: Alterations in DNA methylation: A fundamental aspect of neoplasia. Adv. Cancer Res., 72, 1998, 141-196.   \n[5] BIRD, A., WoLFFE A.P.: Methylation-induced repression-belts, braces and chromatin. Cell, 99, 1999, 451---454.   \n[6] Brooks, P., Dohet, C., AlmouznI, G., MÉchali, M., RadMAN, M.: Mismatch repair involving localized DNA synthesis in extracts of Xenopus eggs. Proc. Natl. Acad. Sci. USA, 86, 1989, 44254429.   \n[7] BROOKS, P.J., MarIETTA, C., GoLDMAN, D.: DNA mismatch repair and DNA methylation in adult brain neurons. Mutat. Res., 408, 1998, 3746.   \n[8] BRowN, T.C., JiRICNY, J.: Different base/base mispairs are corrected with different efficiencies and specificities in monkey kidney cells. Cell, 54, 1988, 705—711.   \n[9] CoLOT, V., RossiGnoL, J.-L.: Eukaryotic DNA methylation as an evolutionary device. BioEssey, 21, 1999, 402— 411.   \n[10] DOHET, C., WAGNER, R., RADMaN, M.: Repair of defined base pair mismatches in E. coli, Proc. Natl. Acad. Sci. USA, 82, 1985, 503-505.   \n[11] EDEN, S., CEDAR, H.: Role of DNA methylation in the regulation of transcription. Curr. Opin. Genet. Dev., 4, 1994, 255-259.   \n[12] FiSHeL, R., LEsCOE, M.K., RAO M.R.S., CopELand, N.G., JENKins, N.A., GreBER, J., KAnE, M., KolodneR, R.: The human mutator gene homologue MSH2 and its association with hereditary nonpoliposis cancer. Cell, 75, 1993, 1027-- 1038.   \n[13] FREEDMAN, T., PuKILA, P.J.: De novo methylation of repeated sequences in Coprinus cinereus. Genetics, 135, 1993, 357— 366.   \n[14] FRIEDBERG, E.C. WALKER, G.C., SIEDE, W.: MismatCh repair. In: DNA Repair and Mutagenesis. Washington, ASM Press 1995, 367405.   \n[15] HARE, J.T., TayLoR, J.H.: One role for DNA methylation in vertebrate cells is strand discrimination in mismatch repair. Proc. Natl. Acad. Sci. USA, 82, 1985, 73507354.   \n[16] JiRICNY, J.: Eukaryotic mismatch repair: An update. Mutat. Res., 409, 1998, 107—121.   \n[17] KanaaR, R., Hoeimakers, J.H., VAn Gent, D.C.: Molecular mechanisms of DNA double strand break repair. Trends Cell. Biol., 8, 1998, 483—489.   \n[18] KRAMER, B., KRAMER, W., FRITZ, H.J.: Different base/base mismatches are corrected with different efficiencies by the methyl-directed DNA mismatch-repair system ofE. coli. Cell, 38, 1984, 879881.   \n[19] Kricker, M.C., DrAKE, J.W., RadMan, M.: Duplication-targeted DNA methylation and mutagenesis in the evolution of eukaryotic chromosomes. Proc. Natl. Acad. Sci. USA, 89, 1992, 1075—1079.   \n[20] LEACH, F.S., NICOLAIADES, N.C., PAPADOPOULOS, N., LIu, B., JeN, J., PArsOns, R., PELtomakI, P., SIstonEN, P., AaltOnEn, L.A., NysTröm-LaHTI, M. et al.: Mutations of a mutS homolog in hereditary nonpolyposis colorectal cancer. Cell, 75, 1993, 1215—1225.   \n[21] LENGAUER, C., KinZLER, K.W., VogELSTAIN, B.: Genetic instabilities in human cancers. Nature, 396, 1998, 642—649.   \n[22] LI, E., BEARD, C., JANISCH, R.: Role for DNA methylation in genomic imprinting. Nature, 366, 1993, 362365.   \n[23] MaLoIsEL., L., RossiGNOL., J.L.: Suppression of crossin-over by DNA methylation Ascobolus. Genes Dev., 12, 1998, 1381—1389   \n[24] MaRTiEnssEs, R.A., RicHaRDs, E.J.: DNA methylation in eukaryotes. Curr. Opin. Genet. Dev., 5, 1995, 234242.   \n[25] MÉCHALI, M., HARLAND, R.M.: DNA synthesiS in a cell free system from Xenopus eggs: Priming and elongation on single-stranded DNA in vitro. Cell, 30, 1982, 93—101.   \n[26] MessNG, J. New 1 vecors orcloni Methos Eny mol., 101, 1983, 2079.   \n[27] MoDRICH, P.: Mechanisms and biological effects of mismatch repair. Ann. Rev. Genet., 25, 1991, 229—253.   \n[28] MoDRICH, P. LAHUE, R.: Mismatch repair in replication fidelity, genetic recombination and cancer biology. Ann. Rev. Biochem., 65, 1996, 101—133.   \n[29] NELSON, M. McCLELLAND, M.: Site-specific methylation: Effect on DNA modification methyltransferases and restriction endonucleases. Nucleic Acids Res., 19, 1991, 2045-— 2071.   \n[30] PaLBO, F. GallinaRI, P., JaccarinO, I., JiricnY, J.: GtBp, . $1 6 0 – \\mathbf { k D }$ protein essential for mismatch-binding activity in human cells. Science, 268, 1995, 19121914.   \n[31] Petit, M.A., Dimpfl, J., Radman, M., Echols, H.: Control of large chromosomal duplications in Escherichia coli by the mismatch repair system. Genetics, 129, 1991, 327—332.   \n[32] PeTRanovi, M., Petranovic, D., DoHet, C., Brooks, P., RaDMan, M.: Some restriction endonucleases tolerate single mismatches of the pyrimidine-purine type. Nucleic Acids Res., 18, 1990, 2159—2162.   \n[33] RADICELLA, J.P., CLARK, E.A., CHEN, S., Fox, M.S.: Patch length of localizes repair events: The role of DNA polymerase I in mutY-dependent mismatch repair. J. Bacteriol., 174, 1993, 7732—7736.   \n[34] RADMan, M.: Mismatch repair and genetic recombination. In: Genetic Recombination. Eds: Kucherlapati, G.R. Smith, G.R. Washington, ASM Press 1988, 169-—182.   \n[35] RAMcHanDaNI, S. BHaTTacharYA, S.K., CervonI, N., SzyF, M.: DNA methylation is a reversible biological signal. Proc. Natl. Acad. Sci. USA, 96, 1999, 6107—6112.   \n[36] RaySsiguieR, C., Thaler, D.S., RadMaN, M.: The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature, 342, 1989, 396401.   \n[37] RiDEout III, W.M., COetzEE, A., OlUMI, A.F., JonEs, P.A.: 5-Methylcytosine as an endogenous mutagen in the human LDL receptor and p53 genes. Science, 249, 1990, 1288- 1290.   \n[38] RIGGS, A.D., PfEIFER, G.P.: X-chromosome inactivation and cell memory. Trends Genet., 8, 1992, 169—174.   \n[39] SAMBrook, J., FrItscH, E.F., Maniatis, T.: Molecular ClonA Laboratory Manual, 2nd ed. New York, Cold Spring Harbor Laboratory Press 1989.   \n[40] SCHMUTTE, C., JoNEs, P.A.: Involvement of DNA methylation in human carcinogenesis. Biol. Chem., 379, 1998, 377— 388.   \n[41] SHEN, P., HuANG, H.V.: Effect of base mismatches on recombination via the RecBCD pathway. Mol. Gen. Genet., 218, 1989, 358—360.   \n[42] SiBGHAT-ULLAH, DAY, R.S.: DNA-substrate sequence specificity of human G:T mismatch repair activity. Nucleic Acids Res., 21, 1993, 1281—1287.   \n[43] TsAI-Wu, J.-J., RADICELLA, J.P., Lu, A.-L.: Nucleotide sequence of the Escherichia coli micA gene required for A/Gspecific mismatch repair: Identity of MicA and MutY. J. Bacteriol., 173, 1991, 1902—1910.   \n[44] VALERT, I., RADMAN, M., BROoKS, P.: DNA mismatch repair in Xenopus egg extracts: Repair efficiency and DNA repair synthesis for a single base-pair mismatches. Proc. Natl. Acad.Sci. USA, 87, 1990, 7883-7887.   \n[45] Varlet, I., Canard, B., Brooks, P., CErovic, G., Radman, M.: Mismatch repair in Xenopus egg extracts: DNA strand breaks act as signals rather than excision points. Proc. Natl. Acad. Sci. USA, 93, 1996, 10 15610 161.   \n[46] WIEBAUER, K., JiRICNY, J.: In vitro correction of G ·T mispairs in nuclear exract from human cells. Nature, 339, 1989, 234—236.   \n[47] WIEBAUER, K., JiRICNY, J.: Mismatch-specific thymine DNA glycosylase and DNA polymerase $\\beta$ mediate the correction of G ·T mispairs in nuclear extracts from human cells. Proc. Natl. Acad. Sci. USA, 87, 1990, 5842—5845.   \n[48] WOLFFE, A.P., JONES, P.L., WADE, P.A.: DNA demethylation. Proc. Natl. Acad. Sci. USA, 96, 1999, 5894—5896.   \n[49] Yanicsch-Peron, C., VieiRA, J., MEssinG, J.: Improved M13 phage cloning vectors and host strains: Nucleotide sequences of the $\\mathsf { M l } 3 \\mathsf { m p l } 8$ and pUC19 vectors. Gene, 33, 1985, 103-119.   \n[50] YEH, Y.C., CHang, D.J., Masin, J., Lu, A.L.: Two nicking enzyme systems specific for mismatch-containing DNA in nuclear extracts from human cells. J. Biol. Chem., 266, 1991, 64806484. ",
+        "bbox": [
+            500,
+            673,
+            933,
+            896
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            83,
+            491,
+            901
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            76,
+            948,
+            905
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            55,
+            92,
+            491,
+            301
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            92,
+            948,
+            287
+        ],
+        "page_idx": 6
+    }
+]

@@ -1,0 +1,373 @@
+[
+    {
+        "type": "text",
+        "text": "Onda P (electrocardiografía) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            589,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La onda P en el ECG representa la despolarización auricular, que da como resultado una contracción auricular o sístole auricular . ",
+        "bbox": [
+            70,
+            140,
+            642,
+            176
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fisiología ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            212,
+            196,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La onda P es una onda de suma generada por el frente de despolarización a medida que transita por las aurículas. Normalmente, la aurícula derecha se despolariza un poco antes que la aurícula izquierda, ya que la onda de despolarización se origina en el nódulo sinoauricular, en la aurícula derecha superior y luego viaja hacia y a través de la aurícula izquierda. El frente de despolarización se transporta a través de las aurículas a lo largo de vías de conducción semiespecializadas, incluido el haz de Bachmann, lo que da como resultado ondas de forma uniforme. La despolarización que se origina en otra parte de las aurículas (ectópicos auriculares) produce ondas P con una morfología diferente a la normal. ",
+        "bbox": [
+            70,
+            252,
+            640,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            387,
+            578,
+            479
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Patología ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            515,
+            193,
+            540
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Las ondas P puntiagudas (> 0,25 mV) sugieren agrandamiento de la aurícula derecha, cor pulmonale, ( ritmo $P$ pulmonale ),1 pero tienen un valor predictivo bajo (\\~ $2 0 \\%$ ).2 ",
+        "bbox": [
+            70,
+            555,
+            576,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La onda AP con mayor amplitud puede indicar hipopotasemia .3 También puede indicar agrandamiento de la aurícula derecha .4 ",
+        "bbox": [
+            68,
+            648,
+            578,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La onda AP con amplitud disminuida puede indicar hiperpotasemia .5 ",
+        "bbox": [
+            70,
+            722,
+            576,
+            760
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Si se pueden ver al menos tres ondas P de diferentes formas en un trazado de derivación de ECG dado, esto implica que incluso si una de ellas surge del nodo SA, al menos otras dos ",
+        "bbox": [
+            70,
+            775,
+            579,
+            831
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4a473322531f0951f6f4bbca2caf978a0bbdf0ba43101b584f9afdd97feef857.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            668,
+            146,
+            924,
+            327
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Onda P normal, mostrada en rojo más oscuro ",
+        "bbox": [
+            670,
+            332,
+            892,
+            363
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0902116ec8ffc08a3bee30b8d94d1bc0817d9177a9285fedbace8b4d0015ed5f.jpg",
+        "image_caption": [
+            "Diagrama que demuestra las características del electrocardiograma. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            399,
+            924,
+            566
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/98696ea33cc73d471f0903e7a97606722b64e553d0552b0f498870d4f6609af9.jpg",
+        "image_caption": [
+            "Onda P puntiaguda característica de cor pulmonale "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            605,
+            636,
+            924,
+            758
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "surgen en otra parte. Esto se toma como evidencia de focos ectópicos múltiples (es decir, al menos dos) y se denomina ritmo auricular multifocal (o más correctamente, multiforme) si la frecuencia es ${ \\le } 1 0 0$ ) o taquicardia auricular multifocal si la frecuencia es superior a 100.6 Esto aparece con especial frecuencia en las exacerbaciones de la enfermedad pulmonar obstructiva crónica .7 ",
+        "bbox": [
+            70,
+            833,
+            932,
+            910
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Si la línea de base tiene una forma totalmente irregular, esto sugiere ondas fibrilatorias de fibrilación auricular o posiblemente un artefacto; una línea de base en forma de diente de sierra sugiere las ondas de aleteo del aleteo auricular . Con cualquiera de estos ritmos, si la frecuencia ventricular es rápida, las ondas fibrilatorias o de aleteo pueden malinterpretarse fácilmente como ondas P. ",
+        "bbox": [
+            70,
+            42,
+            578,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La ausencia de la onda P con una línea de base plana puede indicar: ",
+        "bbox": [
+            70,
+            190,
+            576,
+            226
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fibrilación auricular fina8   \nParada sinoauricular (con un ritmo de escape secundario) ",
+        "bbox": [
+            80,
+            243,
+            578,
+            299
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b46a5fa52f559dc56bdf5ddca55bfaf4ffdd6256acb6c2e87732df355e260327.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            605,
+            51,
+            924,
+            220
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cambios de la onda P en la hipertrofia auricular izquierda y derecha ",
+        "bbox": [
+            608,
+            224,
+            899,
+            256
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Si las ondas P no están claramente delineadas en el ECG de superficie, se puede utilizar una derivación de Lewis para visualizar mejor las ondas P. ",
+        "bbox": [
+            68,
+            305,
+            929,
+            342
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Repolarización auricular ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            377,
+            396,
+            402
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Esto ocurre una media de $3 2 0 ~ \\mathrm { { m s } }$ después del final de la onda P, con una duración de 2-3 veces la de la onda P y una polaridad siempre opuesta a la de la onda P. Está representado en el ECG de superficie por una llamada onda Ta. La relevancia clínica de esto es que, aunque es un fenómeno normal, el nadir de la onda Ta puede ocurrir justo después del complejo QRS y causar una depresión del ST similar (y fácilmente confundida con) la que ocurre con estados patológicos como la isquemia cardíaca.9 ",
+        "bbox": [
+            70,
+            418,
+            931,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Lista de intervalos ECG ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            548,
+            383,
+            571
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Intervalo PR   \nComplejo QRS   \nIntervalo QT   \nSegmento ST   \nOnda P   \nOnda T   \nOnda U ",
+        "bbox": [
+            80,
+            592,
+            240,
+            729
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            749,
+            262,
+            771
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Electrocardiografia ",
+        "bbox": [
+            80,
+            794,
+            275,
+            812
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            834,
+            225,
+            856
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Longmore, Murray (2004). OxfordHandbook of Clinical Medicine 8th editionpage 90. Oxford University Press. ISBN 978-0-19-852558-5.",
+        "bbox": [
+            77,
+            882,
+            494,
+            915
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            534,
+            872,
+            927,
+            906
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. «Two-dimensional echocardiographic assessment of electrocardiographic criteria for right atrial enlargement.» (https://archiv e.org/details/sim_circulation_1981-08_64 2/page/387). Circulation 64 (2): 387-391. 1981. PMID 6454512 (https://www.ncbi.nlm.nih.go v/pubmed/6454512). doi:10.1161/01.CIR.64.2.387 (https://dx.doi.org/10.1161%2F01.CIR.64.2.387). 3. «Hypokalaemia» (http://lifeinthefastlane.co m/ecg-library/basics/hypokalaemia/). 4. Yanowitz, Frank G. «VII. Atrial Enlargement» (https://web.archive.org/web/ 20100329075100/http://library.med.utah.ed u/kw/ecg/ecg_outline/Lesson7/index.html). ECG Learning Center. Archivado desde el original (http://library.med.utah.edu/kw/ecg/ ecg_outline/Lesson7/index.html) el 29 de marzo de 2010. Consultado el 5 de septiembre de 2009. 5. Levis, Joel T (2013). «ECG Diagnosis: Hyperkalemia» (https://www.ncbi.nlm.nih.g ov/pmc/articles/PMC3627796). The Permanente Journal 17 (1): 69. ISSN 1552- 5767 (https://portal.issn.org/resource/issn/1552-576 7). PMC 3627796 (https://www.ncbi.nlm.nih.gov/pm c/articles/PMC3627796). PMID 23596374 (https://w ww.ncbi.nlm.nih.gov/pubmed/23596374). ",
+        "bbox": [
+            75,
+            42,
+            494,
+            486
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "doi:10.7812/TPP/12-088 (https://dx.doi.org/10.781 2%2FTPP%2F12-088).   \n6. Kastor JA (1990). «Multifocal Atrial Tachycardia». N Engl J Med 322 (24): 1713-1717. PMID 2188131 (https://www.ncbi.nlm. nih.gov/pubmed/2188131). doi:10.1056/NEJM199006143222405 (https://dx.doi. org/10.1056%2FNEJM199006143222405).   \n7. «Evidence supporting a new rate threshold for multifocal atrial tachycardia» (https://ww w.ncbi.nlm.nih.gov/pmc/articles/PMC66542 95). Clin Cardiol 28 (12): 3561-3563. 2006. PMC 6654295 (https://www.ncbi.nlm.nih.gov/pmc/ar ticles/PMC6654295). PMID 16405199 (https://www. ncbi.nlm.nih.gov/pubmed/16405199). doi:10.1002/clc.4960281205 (https://dx.doi.org/10.1 002%2Fclc.4960281205).   \n8. Longmore, Murray (2004). Oxford Handbook of Clinical Medicine 8th edition page 90. Oxford University Press. ISBN 978- 0-19-852558-5.   \n9. Smith, SW. «Atrial Repolarization Wave Mimicking ST Depression» (http://hqmeded -ecg.blogspot.co.uk/2011/11/atrial-repolariz ation-wave-mimicking-st.html). Consultado el 22 de octubre de 2014. ",
+        "bbox": [
+            512,
+            43,
+            931,
+            475
+        ],
+        "page_idx": 2
+    }
+]

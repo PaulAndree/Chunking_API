@@ -1,0 +1,511 @@
+[
+    {
+        "type": "text",
+        "text": "Mismatch repair involving localized DNA synthesis in extracts of Xenopus eggs ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            111,
+            897,
+            155
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(heteroduplex DNA/DNA-repair intermediates/mutagenesis/recombination) ",
+        "bbox": [
+            133,
+            160,
+            573,
+            172
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Peter Brooks, Christiane Dohet, Genevive Almouzni, Marcel Méchali, and Miroslav Radman\\` c oata ",
+        "bbox": [
+            107,
+            183,
+            903,
+            196
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            109,
+            204,
+            861,
+            215
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by Maxine F. Singer, March 22, 1989 (received for review October 14, 1988) ",
+        "bbox": [
+            106,
+            224,
+            645,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Repair of heteroduplex DNA containing G·T or A·C mismatches or containing two tandem unpaired bases occurred in vitro with Xenopus egg extracts as detected by a physical assay. The repair was accompanied by a mismatchstimulated and mismatch-localized DNA synthesis. Repaired molecules, separated from unrepaired molecules, showed a 20- to 100-fold increase in DNA synthesis in the region of the mismatch compared to regions distant from the mismatch. The remaining unrepaired heteroduplex DNA included molecules that also displayed mismatch-stimulated DNA synthesis in the mismatch-proximal regions. These may represent intermediates in the repair process. The patterns of DNA synthesis suggest that repair begins at some distance from the mismatch and that as much as 1 kilobase or more can be involved in the mismatch-stimulated synthesis. ",
+        "bbox": [
+            102,
+            255,
+            495,
+            446
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mispaired or unpaired bases in DNA can arise in vivo by at least three different mechanisms: (i) DNA replication errors, (ii) deamination of 5-methylcytosine to thymine creating a G·T mismatch, and (iii) events that result in the pairing of homologous but nonidentical sequences, such as in genetic recombination or in the formation of cruciform structures with imperfect palindromes. Two global mismatch-repair mechanisms have been well characterized in Escherichia coli and in Streptococcus pneumoniae: very short patch mismatch repair (VSPMR), involved in the repair of 5- methylcytosine deamination, and long patch mismatch repair (LPMR) (14). ",
+        "bbox": [
+            99,
+            462,
+            491,
+            616
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The involvement of LPMR in the maintenance of genetic information during DNA replication and recombination and the role of VSPMR in the conservation and diversification of genetic information have been described (5, 6). The size of eukaryotic genomes and the density of 5-methylcytosine in most eukaryotic genomes suggest a requirement for both LPMR and VSPMR. Mismatch repair was first postulated by Holliday (7) to account for some aspects of genetic recombination in eukaryotes, such as gene conversion or nonreciprocal genetic recombination. Marker-specific effects in meiotic recombination of yeast and fungi (8, 9) offered evidence for mismatch repair in eukaryotes and, indeed, mismatch repair was observed in cell-free extracts of yeast (10). In contrast, there are no genetic studies that predict mismatch repair in the metazoa. Several reports of heteroduplex DNA transfections (11-13) suggest some mismatchrepair process in mammalian cells, but without mismatchrepair mutants, alternative processes such as strand loss, asymmetric replication, mismatch-independent nick-translation, and genetic recombination were not excluded (2, 3). ",
+        "bbox": [
+            96,
+            616,
+            488,
+            867
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To study vertebrate mismatch repair in vitro, we chose extracts of Xenopus laevis eggs because they might be expected to have high levels of DNA-repair activities. Xenopus oocytes and eggs contain high levels of biosynthetic machinery, including reserves of enzymes and substrates sufficient to carry out the first 12 postfertilization cycles of DNA replication (14, 15). Moreover, the faithful conservation of the genome during early development is crucial. Here we report that heteroduplex DNA undergoes mismatch repair in Xenopus egg extracts. ",
+        "bbox": [
+            93,
+            867,
+            483,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            532,
+            255,
+            928,
+            343
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            612,
+            361,
+            844,
+            375
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Egg Collection and Extraction. Eggs were collected and extracts were prepared by differential high-speed centrifugation as described (16) and stored at $- 8 0 \\textdegree$ The extracts contain endogenous cytoplasmic components diluted about 2-fold, including (as final concentrations) $5 0 \\mathrm { - } 7 0 ~ \\mu \\mathrm { M }$ dNTP (17) and about 3 mM ATP, and extraction buffer components: approximately $\\mathbf { 1 0 \\ m M }$ potassium Hepes $\\left( \\mathfrak { p H } \\ 7 . 5 \\right)$ $3 5 \\ \\mathrm { m M }$ potassium acetate, $\\mathbf { 0 . 5 \\ m M }$ dithiothreitol, and $2 . 5 \\%$ sucrose. Protein concentrations were $\\mathbf { 4 0 { - } 8 0 \\ m g / m l }$ Before use, extracts were tested to assure their ability to replicate singlestranded DNA (ssDNA) and for the absence of excessive nuclease activities. ",
+        "bbox": [
+            531,
+            381,
+            924,
+            530
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA Preparation and Heteroduplex Construction. Growth of $\\pmb { \\cal E }$ coli JM110 (dam dcm), infection with M13 phage, and preparation of replicative form I (covalently closed circular double-stranded) DNA and ssDNA were as described (18). $\\mathbf { M } 1 3 \\mathbf { m } \\mathbf { p } 2$ form I was cleaved with Ban II or BamHI and then mixed with a 10-fold molar excess of $\\mathbf { M 1 3 \\ m p 1 }$ ssDNA. Annealing and incubation with $\\pmb { E }$ coli DNA ligase (New England Biolabs) were performed essentially as described (19). Covalently closed circular DNA was purified by $\\mathbf { C s C l } /$ ethidium bromide centrifugation. Homoduplex DNA was prepared identically except with Ban II-cleaved mp2 form I plus mp2 ssDNA. Additional substrates (Fig. 1a) were prepared with Ban II- or BamHI-cleaved mp1 form I and mp2 ssDNA, or with Ban II-cleaved mp2 form I and mp2B ssDNA, or with Sal I-cleaved mp18 form I and mp18N ssDNA. Both mpl/mp2 G·T and $\\bf { \\dot { m } } { \\bf p } { 2 } / \\bf { m p 1 }$ A·C heteroduplexes were resistant to EcoRI cleavage, the mp2B/mp2 T·G heteroduplex was resistant to Bgl II and Acc I, and the mp18N/mp18 2-base-addition heteroduplex was resistant to Nru I and Sal I. Radiolabeled substrates were prepared as described above except that form I mp2 DNA was linearized with BamHI, annealed with either mpl ssDNA or mp2 ssDNA, incubated with DNA polymerase I plus $[ \\alpha \\mathrm { - } ^ { 3 2 } \\mathrm { P l d C } \\dot { \\mathrm { T } } \\mathrm { P }$ and $[ \\alpha \\mathrm { - } ^ { 3 2 } \\mathrm { P } ] \\mathrm { d T T P }$ (Amersham; 15,000 cpm/pmol in reaction) for $3 0 \\ \\mathrm { m i n }$ at ${ \\bf 1 2 ^ { \\circ } C }$ , and then treated with $\\pmb { { \\cal E } }$ coli ligase. Distributive polymerization conditions resulted in synthesis of about 300 nucleotides per molecule. Unincorporated radiolabel was removed by centrifugational Sephadex G-50 sieving. The solution was adjusted to $\\mathbf { p H } 1 2 . 3$ with $1 7 5 \\ \\mathrm { m M }$ NaOH, incubated at room temperature for $\\pmb { 5 } \\mathbf { m i n }$ , neutralized, adjusted to ${ \\bf 0 . 8 \\ M \\ N a C l }$ , and filtered through nitrocellulose (BA85; Schleicher & Schuell) by centrifugation at $1 0 0 0 \\times g$ for 3 min to purify the covalently closed circular DNA. ",
+        "bbox": [
+            526,
+            532,
+            919,
+            905
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2a013b4ee016b66f6d53dce0f031ea8e0c5147044d9c7e721a99a51408a9f84a.jpg",
+        "image_caption": [
+            "FIG. 1. Heteroduplex DNA substrates. (a) Mismatches studied and their positions in restriction enzyme sequences. M13 mp18N was made by digestion of mp18 with Acc I, end-filling, and ligation. M13 mp2B was made by replacing the 2.6-kilobase (kb) Bsm IBan II fragment of mp2 with that of mp18. v, Viral strand; c, complementary strand. (b) Restriction map of $\\mathbf { m } 1 3 \\ \\mathbf { m } \\mathbf { p } 2$ (or mp2B). The positions for EcoRI, Acc I (mp2) or Bgl II (mp2B), Xmn I, Ban II, and BamHI are indicated. The inner ring shows the fragments used for analyzing DNA synthesis in the $\\mathbf { \\hat { m } } \\mathbf { p } \\mathbf { 1 } / \\mathbf { m } \\mathbf { p } \\hat { 2 }$ substrates; the unlabeled cleavage positions are for Taq I. The outer ring shows the fragments for $\\scriptstyle \\mathbf { m p } 2 \\bar { \\mathbf { B } } / \\mathbf { m p } 2$ analysis; the unlabeled positions are for Dra I. Fragment A for the Taq I digestion includes $\\mathbf { A _ { l } }$ and $\\mathbf { A } _ { \\mathbf { r } }$ , and fragment H for the Dra I digestion includes $\\mathbf { H } _ { \\mathbf { l } }$ and $\\mathbf { H _ { r } }$ . Arrows indicate mismatch positions. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            88,
+            75,
+            573,
+            268
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            282,
+            470,
+            321
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Assay for Conversion of Mismatches to Normal Base Pairs. Incubation mixtures contained $\\mathbf { 1 - 2 0 0 } \\ \\mu \\mathbf { M }$ homoduplex or heteroduplex DNA, $[ ^ { 3 2 } \\mathbf { P } ] \\mathbf { d } \\mathbf { N } \\mathbf { T } \\mathbf { P }$ for some experiments, and $7 5 \\mathbf { - } 8 0 \\ \\pmb { \\mu } 1$ of egg extract per $1 0 0 \\ \\mu \\mathrm { l }$ ,with no other additions. Buffers and salts were from the extract. Reactions were at ${ \\mathfrak { 2 } } { \\mathfrak { 2 } } { \\mathfrak { C } }$ for the times stated and were stopped by adjustment to $\\mathbf { 3 0 m M }$ EDTA, $0 . 2 \\%$ SDS, and $\\mathbf { 0 . 4 \\ m g }$ of proteinase K per ml; after $6 0 \\ \\mathrm { m i n }$ at $3 7 \\%$ , the DNA was extracted with phenol/ chloroform, 1:1 $( \\mathbf { v o l } / \\mathbf { v o l } )$ , and precipitated with ethanol. Then the DNA was linearized with BamHI and probed with the restriction enzymes diagnostic for mismatch repair (Fig. 1a). Electrophoresis was in $1 \\%$ agarose with $\\mathbf { 4 0 } \\ \\mathbf { m M }$ Tris acetate $\\left( \\mathfrak { p H } \\ 8 . 2 \\right)$ , 1 mM EDTA, and $\\mathbf { 0 . 5 \\mu \\& }$ of ethidium bromide per ml. Gels included internal sets of standards of the $7 . 2 \\mathbf { - k } \\mathbf { b }$ linear DNA and the repair-diagnostic fragments to estimate the extent of conversion to restriction enzyme sensitivity by ethidium bromide staining intensity (20). ",
+        "bbox": [
+            78,
+            323,
+            470,
+            540
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Distribution of DNA Synthesis. The reaction mixtures were as above except with added $[ \\alpha \\cdot ^ { 3 2 } \\mathbf { P }$ ]dATP and/or $[ \\alpha ^ { - 3 2 } \\mathrm { P } ] \\mathrm { d } \\mathrm { C T P }$ . After postreaction purification as described above and addition of $\\mathbf { 0 . 8 \\mu g }$ of unlabeled mp2 DNA, the DNA was digested with the repair-diagnostic enzyme(s) and additional restriction enzymes to generate multiple fragments (Fig. 1b). Incorporation of radioactivity was determined by Cerenkov counting of excised gel segments. Autoradiography of dried gels showed the expected patterns of discrete bands. The specific incorporation in a fragment was calculated from its radioactivity and base composition. Relative specific incorporation is the ratio of specific incorporation of a given fragment to the specific incorporation of a designated fragment. Specific incorporation was also determined for the linear 7.2-kb DNA and the repair-diagnostic fragments and then normalized to the amount of DNA. ",
+        "bbox": [
+            80,
+            540,
+            472,
+            739
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            238,
+            757,
+            313,
+            771
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Xenopus Egg Extracts Restore Normal Base-Pairing in Heteroduplex DNA. Based on the observation that a restriction site containing a single base-pair mismatch inhibits cleavage by the restriction enzyme (21), a physical assay for the conversion of heteroduplex DNA to homoduplex was developed (19). Mismatch-repair activity in Xenopus egg extracts was tested by this assay with the substrates shown in Fig. 1. For example, the $\\mathbf { M } 1 3 \\mathrm { \\ m p { 1 } } / \\mathrm { m p { 2 } }$ heteroduplex with a mismatch in the EcoRI site (Fig. 1a, substrate 1) was incubated with the extract, and the DNA was purified and linearized with BamHI and then probed with EcoRI as the repairdiagnostic enzyme. In the absence of repair, only the linear $7 . 2 \\mathbf { - k } \\mathbf { b }$ molecule is apparent. In contrast, when heteroduplex molecules are repaired (G·T to A·T) to give the normal EcoRI site, then the two BamHI-EcoRI fragments (4.0 kb and 3.2 kb) are produced. Thus the appearance of these gel bands is diagnostic of mismatch repair. ",
+        "bbox": [
+            80,
+            776,
+            472,
+            939
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            284,
+            901,
+            334
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When $\\mathbf { m p 1 } / \\mathbf { m p 2 }$ heteroduplex $[ ^ { 3 2 } \\mathbf { P } ] \\mathbf { D } \\mathbf { N } \\mathbf { A }$ was incubated with the egg extract, repair to the EcoRI site was evident by the appearance of the diagnostic $3 . 2 \\cdot \\mathbf { k b }$ band (Fig. 2, lanes 3c, 4c, 5c, and 6c). (The $\\pmb { 4 . 0 - k b }$ diagnostic fragment does not appear on the autoradiogram because prelabeling by DNA polymerase was initiated at a nick at the BamHI site with synthesis into the $\\pmb { 3 . 2 - k b }$ fragment.) In this and other experiments using unlabeled DNA, repair increased through 3060 min but no further increase was observed for up to 9 hr of incubation (Fig. 2 and data not shown). The reaction mixture contained a 200-fold excess of unlabeled mp2 DNA to compete for any nonspecific nucleases and to ensure complete recovery of DNA and complete digestion by the restriction enzymes as visualized by ethidium bromide staining. In the absence of excess mp2 DNA the same apparent rate and extent of activity were observed, implying that the activity acting on mismatches is highly specific for the heteroduplex DNA. ",
+        "bbox": [
+            509,
+            335,
+            903,
+            564
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There were no differences between homo- and heteroduplex with respect to nicking, linearization, generation of higher molecular weight forms, substrate loss, or supercoiling (Fig. 2, lanes 3a, 4a, 5a, 6a, and 9a, and data not shown); in addition, no site-specific linearization of heteroduplex DNA was seen (Fig. 2, lanes 3b, 4b, 5b, and 6b). ",
+        "bbox": [
+            509,
+            565,
+            903,
+            640
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mismatches or Unpaired Bases Cause Localized DNA Synthesis. The activity that converted heteroduplex DNA to homoduplex DNA could have been due to a mismatchstimulated process or to random strand-replacement synthesis that occasionally in some molecules passed through the mismatch site. For a mismatch-specific process, localized DNA synthesis might be expected. To test this prediction, unlabeled homoduplex DNA or heteroduplex DNA, with the mismatch at the EcoRI site, and $[ ^ { 3 2 } \\mathbf { P } ] \\mathbf { d } \\mathbf { N } \\mathbf { \\bar { T } } \\mathbf { P }$ were incubated with the extract to determine the intramolecular distribution of DNA synthesis. The DNA was purified and then digested with BamHI, EcoRI, and Taq I to generate fragments of an average size of about 400 base pairs (bp) (see Fig. 1b). This set of fragments includes the 1150-bp Taq I fragment A, containing the mismatch-bearing EcoRI site, and fragments $\\mathbf { A } _ { 1 }$ and $\\mathbf { A } _ { \\mathbf { r } }$ generated by cleavage of the normally base-paired EcoRI site. ",
+        "bbox": [
+            509,
+            641,
+            903,
+            851
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The net relative incorporation in fragments A, $\\mathbf { A } _ { \\mathbf { l } } .$ ,and $\\mathbf { A } _ { \\mathbf { r } }$ was higher than the incorporation in the remainder of the molecule (Fig. 3a). The relative specific incorporation value for the net synthesis in fragments A, $\\mathbf { A } _ { 1 }$ , and $\\mathbf { A } _ { \\mathbf { r } }$ was about 4; fragments $\\mathbf { A } _ { 1 }$ and $\\mathbf { A } _ { \\mathbf { r } }$ accounted for about $2 5 \\%$ of this net synthesis but contained only about $1 . 3 \\%$ of the net DNA in fragments A, $\\mathbf { A } _ { 1 }$ , and $\\mathbf { A } _ { \\mathbf { r } }$ , thus giving relative specific incorporation values of about 20. Therefore, the DNA synthesis in these repair-diagnostic fragments was mismatch-stimulated. Xenopus egg extracts can convert ssDNA to form I DNA even without added primers (17). However, no localized synthesis was observed with ssDNA (Fig. 3c), a potential minor contaminant of heteroduplex preparations, or with homoduplex DNA (Fig. 3b). We conclude that the presence of a mismatch provokes DNA synthesis that occurs preferentially in the region containing the mismatch. ",
+        "bbox": [
+            509,
+            852,
+            903,
+            940
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/94b6defff8e787cb303b5619d26b95d60b5884f328ccf9548c50607147c84c47.jpg",
+        "image_caption": [
+            "FIG. 2. Xenopus egg extracts convert heteroduplex DNA to homoduplex DNA. Reactions were with $1 \\mu \\mathbf { M } ^ { 3 2 } \\mathbf { P }$ -prelabeled DNA (prepared as described in Materials and Methods; homoduplex $\\mathbf { m } \\mathbf { p } 2 / \\mathbf { m } \\mathbf { p } 2$ or heteroduplex $\\mathbf { m } \\mathbf { p } 1 / \\mathbf { m } \\mathbf { p } 2 )$ and $2 0 0 \\ \\mu \\mathbf { M }$ unlabeled mp2 form I DNA; aliquots were removed at the times shown (10, 30, 60, or ${ \\mathfrak { s o m i n } }$ ) and processed as described in Materials and Methods and with the treatments (a, b, A ${ \\bf 3 . 2 \\ k b }$ The al for nonincubated DNA $( 1 \\%$ , lane 2c). The radiolabeled 7.2-kb DNA was accompanied by the excess unlabeled mp2 DNA in lanes b and so migrated more rapidly than in lanes c. RF II, replicative form II (nicked circular double-stranded). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            166,
+            79,
+            854,
+            318
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            450,
+            483,
+            540
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/378b844b83ebd76033eb2642dd0eca1220f820852f4a27fa245947df3d2d1d9c.jpg",
+        "image_caption": [
+            "FIG. 3. A mismatched base pair provokes localized DNA synthesis. Reactions were for 20 min and included $[ \\alpha \\mathrm { - } ^ { 3 2 } \\mathrm { P l d C T P }$ at 3400 cpm/pmol of total dCTP and $8 . 5 \\mu \\mathbf { M } \\ \\mathbf { m p } 2 / \\mathbf { m p } 1$ heteroduplex DNA $\\mathbf { \\Pi } ( \\pmb { a } )$ , $8 . 5 \\mu \\mathbf { M } \\ \\mathbf { m p 1 / m p 1 }$ homoduplex DNA $( b )$ , or 6 $\\pmb { \\mu } \\mathbf { M }$ mp2 ssDNA (c). Postreaction digestion was with EcoRI as the repair-diagnostic enzyme and with BamHI and Taq I. The value for fragment A was calculated from the sum of specific incorporation into fragments A, $\\mathbf { A } _ { 1 }$ ,and $\\mathbf { A } _ { \\mathbf { r } }$ ,Fragments C and D were not well resolved and their values were grouped together with that of the intervening fragment K (fragment DKC). Relative specific incorporation values in individual segments of the molecule were normalized to the specific incorporation in fragment DKC. Fragment designations on the bottom axis are as shown in Fig. $\\mathbf { 1 } b$ . Map positions (kb) are indicated on the top axis; B, the BamHI site (position 2221). Arrow and corresponding vertical line indicate mismatch position. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            137,
+            549,
+            433,
+            775
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            450,
+            915,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 4 shows the results obtained with a heteroduplex with a 2-base addition $\\mathbf { \\left( + G C \\right) }$ in one strand (substrate 3, Fig. 1a, with the addition at a position comparable to the EcoRI site in mp2, Fig. 1b). Repair synthesis was increased and was localized in a region spanning at least 645 bp (fragments H through J) containing the unpaired bases. This profile is similar to that observed with the single base-pair mismatch (Fig. 3a) and therefore, as for the $\\pmb { { \\cal E } }$ coli mutHLS system, one repair system in Xenopus may address both single-base and frameshift mismatches. ",
+        "bbox": [
+            519,
+            478,
+            915,
+            608
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mismatch-Localized Synthesis Is Enhanced in Repaired Molecules. The above results show that the extract has both an activity that converts heteroduplex DNA to homoduplex DNA and an activity that generates mismatch-localized DNA synthesis. To determine whether the repair was caused by the localized synthesis, the pattern of DNA synthesis was examined in repaired molecules that were isolated from the total population of extract-treated heteroduplex molecules. Unlabeled heteroduplex DNA $\\mathbf { ( m p 2 B / m p 2 }$ , with a T·G mismatch in the Bgl II/Acc I site, substrate 4, Fig. 1a) and $[ ^ { 3 2 } \\mathbf { P } ] \\mathbf { d } \\mathbf { N } \\mathbf { T } \\mathbf { P }$ were incubated with the extract. The DNA was extracted and probed with Acc I and/or Bgl II, and then repaired molecules in the form of the repair-diagnostic fragments were gelpurified from the unrepaired $\\bar { 7 } . 2 \\mathbf { - k } \\mathbf { b }$ linear molecules. The isolated repaired or unrepaired molecules were then digested with a set of restriction enzymes for the analysis of the intramolecular distribution of synthesis. The profile and amplification of DNA synthesis for the total population of molecules (Fig. $\\pmb { 5 a } )$ , repaired and unrepaired, were similar to those observed for the heteroduplexes $\\mathbf { m } \\mathbf { p } 2 / \\mathbf { m } \\mathbf { p } 1$ (Fig. 3a) and mp18N/mp18 (Fig. 4). Maximum synthesis occurred in the mismatch-bearing fragment $\\mathbf { H }$ and adjacent fragments (Fig. 5a). For the isolated repaired molecules (4.7 kb and 2.5 $\\mathbf { k } \\mathbf { b } )$ , the relative specific incorporation in regions flanking the mismatch was increased at least 40- to 100-fold versus distal regions of the molecule (Fig. 5 c and $\\pmb { d }$ ), thus showing that repaired molecules display mismatch-localized synthesis. ",
+        "bbox": [
+            516,
+            609,
+            911,
+            954
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef2cb3449b083dfa4e11aca8a5bb1e816ee1ed2711e87810ba968dd4a2a206a0.jpg",
+        "image_caption": [
+            "FIG. 4. Unpaired bases provoke localized DNA synthesis. Reaction with $3 6 \\mu \\mathbf { M }$ mp18N/mp18 heteroduplex DNA was for ${ \\bf 2 0 } { \\bf \\ m i n }$ and included $[ \\alpha \\mathrm { - } ^ { 3 2 } \\mathrm { P } ] \\bar { \\bf d } \\mathrm { C T P }$ at $1 2 , 4 0 0 ~ \\mathrm { c p m / p m o l }$ DNA was digested with the repair-diagnostic enzymes Sal I and $N r u \\textbf { I }$ and with Xmn I and Hae II; relative specific incorporation is with respect to Xmn I Hae III fragment A. The $_ { ( + \\mathbf { G } \\mathbf { C } ) }$ addition mismatch is at position 6266 in Hae III fragment H (arrow); $\\mathbf { x }$ , the Xmn I site at position 2651. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            150,
+            63,
+            421,
+            494
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Extent of Mismatch-Specific Repair. Analysis of the above data permits an estimation of the proportion of repair that occurred by mismatch-dependent DNA synthesis. In the experiments that included $[ ^ { 3 2 } \\mathbf { P } ] \\mathbf { d } \\mathbf { N } \\mathbf { T } \\mathbf { P }$ (such as Figs. 35), it cannot necessarily be assumed that the $[ ^ { 3 2 } \\mathrm { P l d N T P }$ equilibrates with the endogenous ${ \\bf 5 0 } \\mu { \\bf M }$ dNTP. The population of repaired molecules might include a large fraction of nonspecifically repaired DNA $( X _ { \\mathfrak { n } } )$ and a small fraction of specifically repaired DNA $( \\pmb { { X } _ { s } } )$ in which the specific incorporation is high $( X _ { \\mathrm { s } } + X _ { \\mathrm { n } } = 1 )$ It can be shown that a minimum value for $X _ { \\mathrm { s } }$ is typically $\\mathbf { 0 . 1 { - } 0 . 3 . ^ { \\dagger } }$ However, the pattern of intramolecular distribution of DNA synthesis in repaired fragments (such as in Fig. $\\$ { c}$ and $\\pmb { d }$ )fixes an upper limit to their overall specific incorporation. This means that there must be a larger proportion of specifically repaired molecules; for example, for the experiment of Fig. 5, $X _ { \\textrm { s } } \\geq \\ 0 . 8$ (P.B., unpublished analysis). Finally, if it is assumed that there is one dNTP pool, the background level of base replacement can be determined directly; for Fig. 5, this value is $\\mathbf { 0 . 0 2 \\% }$ . Assuming that this represents random synthesis, then, among the total population of molecules, the fraction in which a given base is replaced, such as at the mismatch position, is necessarily also $\\mathbf { 0 . 0 2 \\% }$ Therefore, with these assumptions, for the experiment of Fig. 5, $> 9 9 \\%$ of the repaired molecules were repaired by a mismatch-specific system. ",
+        "bbox": [
+            86,
+            594,
+            480,
+            856
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4db0103cd148ce6187c2d89a8441a8551672971f069eade3e6296cf69a9bda22.jpg",
+        "image_caption": [
+            "FIG. 5. DNA synthesis in repaired and unrepaired heteroduplex DNA. Reaction with $2 0 \\mu \\mathrm { M } \\mathrm { m p } \\bar { 2 } \\mathrm { B } / \\mathrm { m p } 2$ heteroduplex DNA was for 20 min and included $[ \\alpha \\mathrm { - } ^ { 3 2 } \\mathrm { P l d A T P }$ and $[ \\alpha \\mathrm { - } ^ { 3 2 } \\mathrm { P } ] \\dot { \\bf d C } \\dot { \\bf T } \\mathrm { P }$ at $\\mathtt { 1 5 , 0 0 0 \\mathtt { c p m } / }$ pmol. After extraction, the DNA was divided into three reactions: 1, BamHI and Acc I for $\\mathbf { T } \\mathbf { d } \\to$ T·A repair; 2, BamHI and ${ \\pmb B } { \\pmb \\theta } ^ { l }$ II for T-G $\\mathbf { \\nabla } \\to \\mathbf { C } \\mathbf { G }$ repair; 3, BamHI, Acc I, and Bgl II to examine unrepaired DNA. Digestions also included plasmid pHV33 (22) and/or mp18 DNA to verify complete digestion by the enzymes. The ${ \\bf 7 . 2 - k b }$ linear DNA and the 4.7- and $2 . 5 \\cdot \\bar { \\mathbf { k } } \\mathbf { b }$ repair-diagnostic fragments from each of the three reactions were individually gel-purified (GeneClean; Bio 101, La Jolla, CA) and then digested with Ban II, EcoRI, and Dra I. (Digestions of the unrepaired 7.2-kb DNA also included Xmn I to produce fragments I and J, since uncleaved fragment IJ comigrates with fragment H. Xmn I digestion also cleaves fragment FA into F and A.) (a) Specific incorporation values for each fragment were added together and relative specific incorporation (and percent error) was calculated from the average values for the three reactions. Fragment IJ includes values for fragments IJ, I, and J; FA includes FA, F, and A; H includes H, $\\mathbf { H } _ { \\mathrm { l } }$ and ${ \\bf H } _ { \\Gamma } . { \\bf \\Gamma } ( b )$ Relative specific incorporation in unrepaired ${ \\bf 7 . 2 - k b }$ linear DNA from reaction 3. (c and d) Relative specific incorporation in the diagnostic 4.7- and $\\mathbf { 2 . 5 { \\cdot k } b }$ fragments produced by Acc I (reaction $1 , c )$ or by Bgl II (reaction 2, d). Values in $\\pmb { c }$ for fragments FA, C, D, E, and B and in d for fragments FA, C, D, E, and IJ represent maximum values, as radioactivity in these fragments was not different from background. Relative incorporation is with respect to fragment FA for a, c, and d and with respect to fragment A for b. See Fig. 3 legend for notation. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            588,
+            65,
+            843,
+            438
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            765,
+            911,
+            815
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A Mismatch Can Provoke Localized Synthesis But Remain Unrepaired. The distribution of nucleotide incorporation in unrepaired heteroduplex DNA was also determined. The profile of relative incorporation (Fig. 5b) is similar to that for the sum of the fractionated reaction products (Fig. 5a). The increased synthesis observed in fragments $\\mathbf { H _ { l } }$ and $\\mathbf { H } _ { \\mathbf { r } }$ shows that even within 150-bp of the mismatch, specific incorporation occurred that did not result in mismatch repair. With the $^ { + 2 }$ addition heteroduplex, similar distributions of synthesis were also observed for repaired and unrepaired DNA ",
+        "bbox": [
+            516,
+            815,
+            911,
+            940
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Biochemistry: Brooks et al. ",
+        "text_level": 1,
+        "bbox": [
+            160,
+            51,
+            343,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(data not shown). We infer that for some molecules, mismatch-provoked repair synthesis was initiated at some distance from the mismatch but not completed. Hence, intermediates in the repair process may have been identified by this experimental approach. ",
+        "bbox": [
+            99,
+            79,
+            491,
+            143
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            246,
+            161,
+            346,
+            175
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results reported here demonstrate a vertebrate DNArepair activity that responds to mismatches or unpaired bases. Whether or not accompanied by repair, mismatchprovoked nucleotide incorporation was generally observed at distances including at least $\\mathbf { 0 . 5 \\ k b }$ on either side of the mismatch. For isolated repaired molecules, the most pronounced region of increased synthesis included not more than about 150 bp on either side. It remains to be determined whether an individual mismatch-repair event involves contiguous synthesis on both sides of the mismatch or synthesis involving only one side, either the left or the right. The incidence of initiation of DNA synthesis and the likelihood that the synthesis will result in successful repair apparently decrease with the distance from the mismatch (Fig. 5). Thus only initiations of synthesis within a limited distance $\\bf { \\langle < 1 5 0 }$ bp) from the mismatch are likely to produce a repaired molecule. Whatever the mechanism of initiation, the initial steps in repair are not rate-limiting, since substantial mismatch-induced synthesis did not result in repair of the mismatch but was found in apparent intermediates in the repair process (Fig. 5b). ",
+        "bbox": [
+            98,
+            181,
+            490,
+            445
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Several alternatives could account for these intermediates. (i) As has been proposed for $\\pmb { { \\cal E } }$ ,coli mismatch repair (3), initiation might occur via interaction between a mismatchbinding protein and an endonuclease acting at some distance from the mismatch. If excision repair proceeds from the nick toward the mismatch, competing ligation may then have stopped repair synthesis that needed more than about 150 bp of synthesis to reach the mismatch. (ii) Without a stranddiscrimination signal, unrepaired molecules with mismatchstimulated synthesis would also include those for which DNA synthesis was initiated close to the mismatch but on the ${ \\pmb 3 ^ { \\prime } }$ side and thus proceeding in the direction away from the mismatch. (ii) A helicase-mediated, mismatch-stimulated melting might enable initiation of DNA synthesis on either or both strands or might enable an endonucleolytic cleavage on either strand followed by strand-replacement synthesis. Mismatch-stimulated melting has been postulated for E. coli mismatch repair (23) and may be adequate for the removal of newly synthesized Okazaki fragments bearing a mismatch caused by a replication error. (iv) A double-strand break or gap (caused by endonucleolytic attack on both mismatched strands) that is immediately repaired by recombination (24, 25) could also result in localized synthesis with or without mismatch repair. (v) A short-patch repair system might generate the successfully repaired molecules, while an uncompleted long-patch repair may be responsible for the intermediates. ",
+        "bbox": [
+            93,
+            446,
+            486,
+            782
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Estimates of the size of mismatch-repair tracts in diverse experimental systems extend from as little as a few bases for VSPMR in $\\pmb { \\cal E }$ coli (26, 27) up to several kilobases for E. coli LPMR (19, 23, 28, 29) and for yeast (3032). The experiments reported here show that the synthesis associated with successful mismatch repair may range from very short to $\\mathbf { 0 . 3 \\ k b }$ (Fig. 5 c and d). However, the size of the region involved in mismatch-stimulated synthesis for the complete population of molecules may extend from a few hundred base pairs to more than a kilobase of DNA (Fig. 5a). Neither these nor any other published experiments enable a determination of the actual contiguous repair patch size for individual molecules. ",
+        "bbox": [
+            91,
+            784,
+            483,
+            933
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The in vitro eukaryotic system described here for specific mismatch repair permits the assay of signals such as methylation or nicks for their ability to direct strand-specific mismatch correction (33) and enables testing for recombinational repair of mismatches. ",
+        "bbox": [
+            529,
+            78,
+            924,
+            141
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by Association pour la Recherche sur le Cancer Contract 6159, European Economic Community Contract BI6-0154-F, and Caisse Nationale de I'Assurance des Travailleurs Salariés Grant 86-3-34-1-E; P.B. was also supported by the Foundation Philippe. ",
+        "bbox": [
+            529,
+            154,
+            924,
+            210
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Claverys, J. P. & Lacks, S. A. (1986) Microbiol. Rev. 50, 133- 165. 2. Radman, M. & Wagner, R. (1986) Annu. Rev. Genet. 20, 523- 538. 3. Modrich, P. (1987) Annu. Rev. Biochem. 56, 435466. 4. Meselson, M. (1988) in The Recombination of Genetic Material, ed. Low, K. B. (Academic, New York), pp. 91113. 5. Jones, M., Wagner, R. & Radman, M. (1987) Cell 50, 621626. 6. Radman, M. (1988) in Genetic Recombination, eds. Kucherlapati, R. & Smith, G. R. (Am. Soc. of Microbiol., New York), pp. 169192. 7. Holliday, R. (1964) Genet. Res. 5, 282304. 8. White, J. H., Lusnak, K. & Fogel, S. (1985) Nature (London) 315, 350352. 9. Leblon, G. & Rossignol, J.-L. (1973) Mol. Gen. Genet. 122, 165182.   \n10. Muster-Nassal, C. & Kolodner, R. (1986) Proc. Natl. Acad. Sci. USA 83, 76187622.   \nAbastado, J.-P., Cami, B., Dinh, T. H. Igolen, J. & Kourilsky (1984) Proc. Natl. Acad. Sci. USA 81, 57925796.   \n12. Hare, J. T. & Taylor, J. H. (1985) Proc. Natl. Acad. Sci. USA 82, 73507354.   \n13. Brown, T. C. & Jiricny, J. (1988) Cell 54, 705711.   \n14. Gurdon, J. B. & Wickens, M. P. (1983) Methods Enzymol. 101, 370386.   \n15. Zierler, M. K., Marini, N. J., Stowers, D. J. & Benbow, R. M. (1985) J. Biol. Chem. 260, 974981.   \n16. Almouzni, G. & Méchali, M. (1988) EMBO J. 7, 665672.   \n17. Méchali, M. & Harland, R. M. (1982) Cell 30, 93101.   \n18. Messing, J. (1983) Methods Enzymol. 101, 2078.   \n19. Lu, A-L., Clark, S. & Modrich, P. (1983) Proc. Natl. Acad. Sci. USA 80, 46394643.   \n20. Davis, R. W., Botstein, D. & Roth, J. R. (1980) Advanced Bacterial Genetics (Cold Spring Harbor Lab., Cold Spring Harbor, NY).   \n21. Vovis, G. F., Horiuchi, K., Hartman, N. & Zinder, N. D. (1973) Nature (London) New Biol. 246, 1316.   \nte Riele, H., Michel, B. & Ehrlich, S. D. (1986) EMBO J. 5, 631637.   \n23. Längle-Rouault, F., Maenhaut-Michel, G. & Radman, M. (1987) EMBO J. 6, 11211127.   \n24. Wagner, R., Dohet, C., Jones, M., Doutriaux, M.-P., Hutchinson, F. & Radman, M. (1984) Cold Spring Harbor Symp. Quant. Biol. 49, 611615.   \n25. Hastings, P. J. (1984) Cold Spring Harbor Symp. Quant. Biol. 49, 4953.   \n26. Lieb, M. (1983) Mol. Gen. Genet. 191, 118125.   \n27. Jones, M., Wagner, R. & Radman, M. (1987) J. Mol. Biol. 194, 155159.   \n28. Wagner, R. & Meselson, M. (1976) Proc. Natl. Acad. Sci. USA 73, 41354139.   \n29. Lu, A.-L., Welsh, K., Clark, S., Su, S.-S. & Modrich, P. (1984) Cold Spring Harbor Symp. Quant. Biol. 44, 589596.   \n30. Bishop, D. K. & Kolodner, R. D. (1986) Mol. Cell. Biol. 6, 34013409.   \n31. Borts, R. H. & Haber, J. E. (1987) Science 237, 14591465.   \n32. Symington, L. S. & Petes, T. D. (1988) Mol. Cell. Biol. 8, 595 604.   \n33. Brooks, P., Dohet, C., Petranovic, M. & Radman, M. (1988) in Mechanisms and Consequences of DNA Damage Processing, UCLA Symposium on Molecular and Cellular Biology, New Series, eds. Friedberg, E. & Hanawalt, P. (Liss, New York), Vol 83. pn. 167171. ",
+        "bbox": [
+            522,
+            214,
+            919,
+            928
+        ],
+        "page_idx": 4
+    }
+]

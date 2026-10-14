@@ -1,0 +1,105 @@
+[
+    {
+        "type": "text",
+        "text": "La sialorrea o bien salivación y también llamada ptialismo (del griego πτυαλισμός ptyalismós), es la excesiva producción de saliva. Se sugiere definirlo como una exacerbación del reflejo esófago-salivar. ",
+        "bbox": [
+            70,
+            140,
+            497,
+            214
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Etiología ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            251,
+            189,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Puede producirse a partir de una estimulación parasimpática excesiva; sin embargo, se considera un signo orientativo de una enfermedad del tracto gastrointestinal superior. En niños, la causa más frecuente es el crecimiento dentario. Es frecuente también durante el embarazo., algunas personas puede ocurrirles esto durante el sueño pero esto se puede deber más a otro tipo de factores como la relajación de los músculos faciales ",
+        "bbox": [
+            70,
+            292,
+            497,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/6d18b80406125b7e33ca8519f4538ced17d35d6574f928ba9c74914962c7f8ea.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            144,
+            926,
+            397
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            73,
+            425,
+            746,
+            441
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Es un clásico efecto secundario de fármacos colinérgicos muscarínicos o quimioterápicos como el cisplatino. También por intoxicación con organofosforados, carbamatos o mercurio. ",
+        "bbox": [
+            68,
+            457,
+            932,
+            495
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "También puede aparecer en enfermedades como la gonorrea, o los desgarros anales. Además, es una de las manifestaciones que pueden presentarse en la enfermedad de Parkinson. ",
+        "bbox": [
+            65,
+            509,
+            929,
+            546
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            581,
+            262,
+            604
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hiperhidrosis Hiposalivación Xerostomia ",
+        "bbox": [
+            80,
+            625,
+            236,
+            682
+        ],
+        "page_idx": 0
+    }
+]

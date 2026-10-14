@@ -1,0 +1,829 @@
+[
+    {
+        "type": "text",
+        "text": "MISMATCH REPAIR IN ESCHERICHIA COLI ",
+        "text_level": 1,
+        "bbox": [
+            123,
+            232,
+            585,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman and Robert Wagner ",
+        "bbox": [
+            123,
+            333,
+            580,
+            354
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Mutagenese, Institut Jacques Monod, Tour 43, C.N.R.S.—Universite Paris 7, 2 Placc Jussieu, 75251 Paris Cedex 05, France ",
+        "bbox": [
+            128,
+            366,
+            864,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CONTENTS ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            450,
+            252,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION. 523   \nEVIDENCE FOR MISMATCH REPAIR 524   \nSPECIFICITY OF MISMATCH REPAIR.. 527   \nMISMATCH REPAIR AND REPLICATION ERRORS 529   \nMISMATCH REPAIR DURING RECOMBINATION 530   \nMISMATCH REPAIR IN METHYLATED DNA.. 530   \nMISMATCH REPAIR IN UNMETHYLATED DNA.. 532   \nMECHANISMS OF MISMATCH REPAIR—SUMMARY AND SPECULATIONS .. 533   \nMismatch Repair in E. coli. 533   \nMismatch Repair in Eukaryotes. 534 ",
+        "bbox": [
+            123,
+            486,
+            871,
+            656
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            691,
+            345,
+            714
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A mismatch can be defined as any noncomplementary base pair in doublestranded DNA. Mismatched base pairs (or unpaired bases) can occur in vivo as a result of: $\\mathbf { \\Pi } ( \\pmb { a } )$ errors in DNA replication, $( b )$ hybrid DNA formation during recombination between homologous, but nonidentical DNA sequences, and $( c )$ chemical modification of bases in duplex DNA (e.g. deamination of 5-methylcytosine to form thymine). DNA molecules containing mismatched or unpaired bases are referred to as \"heteroduplex molecules\" or \"heteroduplexes.\" Replication of heteroduplexes produces daughter molecules with different sequences at the site where the heteroduplex had a mismatch or an unpaired base. ",
+        "bbox": [
+            126,
+            728,
+            871,
+            919
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The proposal that a process recognizes and repairs incorrect base pairs in double-stranded DNA (mismatch repair) was originally made to account for results obtained from the study of genetic recombination. In particular, it was suggested that the repair of mismatched bases in regions of heteroduplex DNA formed by complementary strands of two different parental molecules could be involved in gene conversion (30) (the nonreciprocal transfer of genetic information from one DNA molecule to another) and could account for the phenomenon of high negative interference (the apparent clustering of recombination events) (2, 83). ",
+        "bbox": [
+            127,
+            111,
+            869,
+            285
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "EVIDENCE FOR MISMATCH REPAIR ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            307,
+            613,
+            330
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The first evidence for the repair of mismatched bases in prokaryotes came from studies of transformation in Streptococcus pneumoniae. Transformation occurs by the insertion of a single strand of donor DNA into the recipient DNA molecule (20). Mismatch repair of the resulting heteroduplex was proposed to account for the differences in transformation efficiencies of different markers (16). In particular, mismatches containing markers that transform with low efficiency (LE markers) were believed to be repaired on the donor strand such that the sequence of the recipient strand was preserved, whereas mismatches containing high efficiency (HE) markers were thought to be refractory to mismatch repair (16, 39, 40, 56, 73). Linking an HE marker with an LE marker caused the HE marker to behave like an LE marker, suggesting that the mismatch-repair process involves excision tracts long enough to include both mismatches (see 73 for review). The idea that mismatch repair acts on LE markers was supported by the finding of a mutant (hex) in which all markers behave as HE markers (39). ",
+        "bbox": [
+            125,
+            344,
+            869,
+            632
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The most direct demonstrations of mismatch repair in Escherichia coli come from transfection experiments using artificially constructed heteroduplexes of phage DNA. If a mismatch-containing heteroduplex replicates without being repaired, both parental phage genotypes should be found among the progeny derived from that heteroduplex. Repair of all mismatches in a heteroduplex results in the production of phages of a single genotype. The phages will have the parental genotype when the heteroduplex contains a single mismatch or if the repair occurs on only one of the two strands. The phages will be of recombinant genotype when the heteroduplex contains two or more mismatches and mismatch repair operates on different strands at the different mismatched sites. Mismatch repair operating on only some of the sites in a heteroduplex with multiple mismatches results in the production of phages of two genotypes, one recombinant and one parental, or two recombinant. ",
+        "bbox": [
+            123,
+            633,
+            869,
+            903
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Most transfection experiments measure either the production of phages of recombinant genotype from multiply mismatched heteroduplexes (81, 83, 84), or the loss of one parental genotype among phages derived from individual heteroduplexes (5, 13, 58, 64). The latter type of experiment requires the use of pure heteroduplex preparations and the ability to recover and identify individual descendants of single heteroduplex molecules, which usually involves plating transfected cells before lysis to produce infective centers or allowing individual transfected cells to lyse in individual tubes (single bursts). ",
+        "bbox": [
+            142,
+            906,
+            864,
+            924
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            123,
+            99,
+            864,
+            253
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The interpretation of the results of transfection experiments purporting to study mismatch repair can be'complicated by several factors. In experiments measuring the production of recombinant genotypes, all bacterial and phage recombination systems must be inactive. If not, recombination between descendants of the heteroduplex will create recombinant gcnotypes. Establishing that recombinant genotypes are produced from heteroduplex molecules at a much higher frequency than from conventional crosses is probably insufficient, since recombination between newly replicated molecules (analogous to sister-chromatid exchange in eukaryotes) may be much more frequent than recombination in crosses. ",
+        "bbox": [
+            123,
+            256,
+            864,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In those experiments that determine the genotypes of phages obtained from single transfected cells, the entry of more than one heteroduplex molecule into a cell can mask the occurrence of mismatch repair (76). Therefore, it is necessary to establish that cells take up only one heteroduplex molecule. Conversely, the failure to recover the progeny of one strand of the heteroduplex can be incorrectly interpreted as mismatch repair. [In one system this \"strand loss\" may involve as many as $70 \\%$ of the transfected cells (81).] It is also necessary in these experiments to determine the extent to which heteroduplex preparations are contaminated by homoduplex, i.e. parental, molecules. ",
+        "bbox": [
+            123,
+            449,
+            866,
+            620
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The best controlled of the early attempts to demonstrate mismatch repair in E. coli (3, 5, 58, 64, 70) was the work of Wildenberg & Meselson (84). Their experiments involved the helper phage-mediated transfection of $E$ coli with bacteriophage $\\lambda$ DNA heteroduplexes containing a pair of mismatched amber markers in trans configuration. Recombination was minimized by using recA cells and red int att DNA and helper phages. Wild-type phages were produced at frequencies characteristic of the particular pair of markers being examined. Wild-type frequency was not related to the separation of the mismatches and did not change when a double-mutant helper was used instead of wild-type, indicating that mismatch repair, rather than recombination, was the major source of wild-type phages. The results also implied that repair events often included both mismatches of pairs spaced less than a few thousand base pairs apart. ",
+        "bbox": [
+            126,
+            624,
+            869,
+            869
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The first suggestion that mismatch repair might be involved in correcting replication errors resulted from the findings that hex mutants of S. pneumo. ",
+        "bbox": [
+            126,
+            870,
+            864,
+            906
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "niae and mutants of $E$ . coli apparently deficient in mismatch repair (uvrD, uvrE) have mutator phenotypes (58, 79). For mismatch repair tq correct replication errors without any interaction between homologous duplexes, it must distinguish newly synthesized strands from parental strands and must act selectively to preserve the sequence of the latter. DNA methylation was proposed as a means for this strand discrimination (81). Evidence supporting this idea was that $E$ . coli dam mutants, which are deficient in adenine methylation of GATC sequences, have a mutator phenotype (53, 54) and that adenine methylation of newly synthesized strands lags somewhat behind replication, such that newly synthesized strands are transiently undermethylated (50, 52). ",
+        "bbox": [
+            123,
+            104,
+            871,
+            315
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To test the hypothesis that adenine methylation directs mismatch repair in E. coli, transfection experiments were performed using mismatch-containing $\\pmb { \\lambda }$ -DNA heteroduplexes prepared with one strand methylated and the complementary strand unmethylated (69). Genotypes carried on the unmethylated strand were underrepresented among the progeny of these heteroduplexes (64, 69). (The presence or absence of cytosine methylation in the heteroduplexes used in these experiments had no effect on the genotype recoveries.) ",
+        "bbox": [
+            123,
+            318,
+            871,
+            452
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The following results established that the loss of genotypes carried on unmethylated strands is due to mismatch repair and not to preferential loss of the unmethylated strand or its progeny: $( a )$ The methyl-directed bias in genotype output is abolished in mismatch repair-deficient mutants (mutH, mutL, mutS, and mutU) (13, 64, 66, 69). $( b )$ Nonrepairable mismatches show no methyl-directed strand loss (64). ",
+        "bbox": [
+            123,
+            454,
+            871,
+            566
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In general; the experiments described above used heteroduplexes prepared from $\\lambda$ DNA isolated from phages grown in wild-type $E$ coli (for methylated strands) or in dam $E$ . coli (for unmethylated strands). The- results indicated that the extent of mismatch repair was similar for heteroduplexes with both strands methylated, one strand methylated (hemimethylated), or neither strand methylated (13, 64, 80). There was, therefore, some question about the efficiency of GATC methylation in preventing mismatch repair. This confusion was alleviated when investigators found that only ca $7 5 \\%$ of the GATC sequences are methylated in the DNA of $\\lambda$ phages grown in wild-type $E$ . coli (15, 64). When $\\lambda$ DNA heteroduplexes are fully adenine methylated, either by methylating the DNA in vitro or by growing the phages in a dam methylase overproducer strain, mismatch repair appears to be completely inhibited (13, 64, 80). (It was the incomplete methylation of wild-type $\\lambda$ DNA that allowed $\\lambda$ DNA heteroduplexes to be useful substrates for the initial demonstrations and characterizations of the $E$ coli mismatch repair system.) ",
+        "bbox": [
+            123,
+            568,
+            871,
+            854
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Full methylation of GATC sequences appears to inhibit completely mismatch repair (13, 64, 80). In addition, the results of transfection experiments using heteroduplexes of $\\Phi \\mathbf { X } 1 7 4$ DNA with and without GATC sequences (wild-type ΦX174 DNA contains no GATC sequences) indicate that mismatch repair requires the presence of unmethylated GATC sequences (41). ",
+        "bbox": [
+            123,
+            856,
+            869,
+            911
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            121,
+            101,
+            861,
+            140
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair appears to occur preferentially on unmethylated strands of hemimethylated heteroduplexes, a situation that presumably occurs in $E$ coli only in the region immediately behind the replication fork. The speed with which methylation occurs following replication should determine the time the mismatch repair system has to recognize and repair replication errors and, therefore, the efficiency of mismatch repair. Dam methylase overproducer strains, in which the dam gene is cloned in a multicopy plasmid, are mutators (28). Methylation may occur more rapidly in these strains than in wild-type strains, thus shortening the time available for mismatch repair. ",
+        "bbox": [
+            123,
+            142,
+            866,
+            313
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results of a series of in vitro experiments by Modrich and colleagues (48, 49) confirm many of the characteristics of the mismatch repair system in $E$ . coli discovered by means of the genetic experiments described above. Using a circular-DNA substrate with a mismatch in a restriction enzyme recognition sequence, such that mismatch repair of one strand creates a functional restriction site, mismatch repair activity was detected in extracts of wild-type $E$ . coli cells (48). Extracts of mutH, mutL, mutS, and mutU (uvrE) cells do not show mismatch repair activity. However, the deficient extracts do complement in vitro, which has allowed the isolation and purification of the products of the mutH, mutL, and mutS genes (49, 59, 77). As is the case in vivo, the in vitro reaction requires unmethylated GATC sequences (P. Modrich, personal communication) and shows methyl direction of repair, i.e. repair occurs efficiently only on unmethylated strands. In addition, the in vitro reaction requires ATP and single-strand DNA-binding protein (48, 49). ",
+        "bbox": [
+            123,
+            315,
+            866,
+            586
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "SPECIFICITY OF MISMATCH REPAIR ",
+        "text_level": 1,
+        "bbox": [
+            128,
+            607,
+            621,
+            630
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $E$ . coli mismatch repair system does not recognize and repair all mismatches with equal efficiency. The extent of repair depends on both the mismatch and the neighboring nucleotide sequence. In general, transition mismatches (G-T and A-C) are apparently better repaired than are transversion mismatches (G-A, C-T, A-A, G-G, T-T, and C-C) (12, 36, 80), and for a given mismatch, repair efficiency increases with increasing G-C content in the neighboring nucleotide sequence (M. Jones, R. Wagner & M. Radman, submitted). This correlation between G:C content and mismatch repair efficiency is strongest for transversion mismatches (G-A and C-T) and was observed for a region including four base pairs on either side of the mismatch. The correlation is less evident when the region considered is smaller than four base pairs on either side of the mismatch, but is still apparent when the region is as large as ten base pairs on either side of the mismatch. ",
+        "bbox": [
+            126,
+            645,
+            866,
+            893
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $E$ . coli mismatch repair system can recognize and repair frameshiftwild-type heteroduplexes (13). Frameshift-wild-type heteroduplexes do not contain a mismatch, but rather have one strand in which there is an extra, and therefore unpaired, base. When such heteroduplexes are unmethylated, mismatch repair works equally well on either strand, and the nature of the unpaired base does not influence the extent of repair. The repair of frameshift—wild-type heteroduplexes is methyl directed. Thus, the $E$ coli mismatch repair system is able to correct both addition and deletion frameshift mutations arising during the course of replication. ",
+        "bbox": [
+            142,
+            895,
+            864,
+            915
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            127,
+            104,
+            869,
+            259
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although heteroduplexes with a single unpaired base are substrates for the mismatch repair enzymes, heteroduplexes with a large, single-stranded loop are not (12a, 37, 80). However, some repair of such looped structures is apparent even in fully GATC-methylated DNA and in mismatch repair— deficient cells (mutH, mutL, mutS, and mutU) (12a). Heteroduplex regions with such large non-homologies are not likely to occur frequently as a result of replication errors, but do occur in the course of bacteriophage A recombination (43). (The repair of such heteroduplexes during recombination may allow the insertion or deletion of large nonhomologies and thus contribute to the formation of recombinant genotypes even under conditions, e.g. in fully GATC-methylated DNA, where mismatch repair does not occur.) ",
+        "bbox": [
+            125,
+            261,
+            869,
+            472
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The $E$ coli mismatch repair system can apparently recognize and act upon some chemically induced lesions in DNA. Dam mutants are more sensitive than wild-type cells to base analogs (2-aminopurine and 5-bromouracil) and small alkylating agents (22, 23, 32, 33, 67). These sensitivities depend on the operation of the mismatch repair system, i.e. they can be alleviated by the addition of a mutH, mutL, mutS, or mutU mutation (22, 32, 67). In addition, mismatch repair-deficient cells are hypermutable by 5-bromouracil, noncovalent intercalating agents (9-aminoacridine and elipticines), and methylating agents (70, 72, 75; B. Rene & C. Paoletti, personal communication). ",
+        "bbox": [
+            125,
+            475,
+            869,
+            648
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Increasing the number of G-C base pairs close to a mismatch increases the extent of repair of that mismatch. This finding suggests that mismatch repair operates most efficiently in regions of stable double helix. The common feature of repairable heteroduplexes with mismatches or unpaired bases may be the ability of all bases in the heteroduplex to exist primarily in an intrahelical configuration. Model building and NMR studies show that single unpaired bases, as in frameshift-wild-type heteroduplexes, can assume an intrahelical configuration (7, 8, 29, 60). Further, the results of an NMR study of synthetic oligonucleotide heteroduplexes revealed that a poorly repaired mismatch can assume an extrahelical configuration (V. Fazakerley, A. Guignard, W. Guschlbauer, J. H. van Boom, M. Jones & M. Radman, submitted). The sequences of the oligonucleotides used in this study were taken from the phage $\\lambda$ heteroduplexes used in the study of M. Jones, R. Wagner and M. ",
+        "bbox": [
+            123,
+            650,
+            869,
+            900
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Radman (submitted) and consisted of the mismatch flanked by five base pairs on either side. Three better-repaired mismatches were also examined (two G-T and one G-A) and all were found only in a helical form (see also 31, 34). ",
+        "bbox": [
+            124,
+            104,
+            870,
+            161
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The work of Kolodner and colleagues (17, 18) seems to contradict the idea that repairable heteroduplexes must be in a helical form. These investigators found that a plasmid DNA heteroduplex with an eight-base nonhomology is apparently repaired by the $E$ . coli mismatch repair system. However, the sequence of the nonhomology is such that it could exist in a double-stranded form; the slight disruption of the helix at the junction between the plasmid DNA and the DNA of the nonhomology may be what is recognized by the mismatch repair system. ",
+        "bbox": [
+            126,
+            163,
+            870,
+            318
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MISMATCH REPAIR AND REPLICATION ERRORS ",
+        "text_level": 1,
+        "bbox": [
+            129,
+            339,
+            789,
+            362
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The potent mutator effect of mutH, mutL, mutS, and mutU mutants indicates that over $9 9 \\%$ of all replication errors are repaired by the mismatch repair system in $E$ coli (22). In other words, nonrepairable mismatches (e.g. transversion mismatches in A-T-rich DNA) and replication errors not recognized by the mismatch repair system (e.g. large, single-stranded loops) comprise less than $1 \\%$ of all replication errors. The polymerase may simply not attempt to incorporate incorrect bases in regions of DNA where mismatch repair functions poorly, i.e. A-T-rich regions. However, the proofreading exonuclease activity associated with the T4 phage polymerase is apparently most active in A-T-rich regions (62). Thus, the findings that poorly or unrepaired mismatches can exist in extrahelical configurations, and that T4 phage-DNA polymerase makes fewer mistakes in A-T-rich than in G-C-rich regions suggest that poorly repaired mismatches formed in DNA replication (e.g. transversions in A-T-rich regions) may disrupt base pairing between the newly synthesized and template strands such that the incorrect bases are most often removed by the single-strand-specific \"proofreading\" exonuclease associated with the DNA polymerase. The net effect of the differences in specificity between mismatch repair and polymerase proofreading may be that all substitution mutations arise with similar frequencies throughout the $E$ .coli genome. Support for these ideas is provided by experiments examining the spontaneous-reversion rates of a series of trpA mutations in wild-type and mut $E$ . coli (9). In the wild-type background, all sites revert at a similar rate $1 0 ^ { - 1 0 } {  } 1 0 ^ { - 9 }$ mutants/base pair replicated). However, in a mutL or mutS background a wide range of reversion rates occurs, from $1 0 ^ { - 6 }$ for a site requiring a G-C-A-T transition, i.e. involving repairable mismatches, to $4 \\times$ $1 0 ^ { - 1 0 }$ for a site requiring an $\\mathbf { A { \\mathrm { - } } T { \\mathrm {  } } C { \\mathrm { - } } \\mathbf { G } }$ transversion, i.e. involving nonrepairable mismatches. ",
+        "bbox": [
+            126,
+            375,
+            870,
+            895
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "MISMATCH REPAIR DURING RECOMBINATION ",
+        "text_level": 1,
+        "bbox": [
+            130,
+            102,
+            766,
+            125
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The results of a large number of pairwise crosses between genetic markers in the immunity region of bacteriophage $\\lambda$ indicate that recombination frequency is generally proportional to the number of nucleotides between the markers (24, 44). It was therefore suggested that mismatch repair does not occur in recombining DNA (24). If so, this lack of repair may result from the partial methylation of $\\lambda$ DNA and the brief existence of recombinational heteroduplexes due to their formation, in general, in replicating DNA. Alternatively, the intervals examined may have been small enough that corepair of both sites on the same strand was much more frequent than independent repair. ",
+        "bbox": [
+            126,
+            147,
+            873,
+            321
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Lieb (45, 46) found a group of markers in the λ cl gene that do not behave normally in pairwise crosses with other markers, but rather appear to be hyperrecombinogenic. A cross between one of these markers and any other marker yields more recombinants (as many as 30-fold more) than would be predicted from the number of nucleotides separating them. These \"hyper-rec\" mutations were $\\mathbf { C - G { \\ \\to } T - A }$ transitions in the sequence $\\mathbf { C A G G } \\to \\mathbf { T A G G }$ (M. Lieb, E. Allen & D. Read, submitted). Lieb (45) proposed that, although these markers are included in hybrid DNA at a normal frequency (i.e. they do not stimulate recombination initiation), their hyperrecombinogenicity results from mismatch repair of acting on the mismatches formed in hybrid DNA, even in GATC-methylated DNA, and involving a short excision tract that does not cause corepair of close markers. Markers as close as ten base pairs on either side of one of these hyperrecombinogenic markers are not corepaired with it (45). In addition, the repair is apparently unidirectional, i.e. it favors preservation of the CAGG sequence regardless of whether the sequence is the wild-type or mutant sequence for a particular marker. ",
+        "bbox": [
+            123,
+            325,
+            871,
+            632
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Such a repair process could account for many earlier findings showing high negative interference in crosses with λ Pam80 (2, 22, 56a, 83, 84). The wild-type sequence at Pam80 is CAGG (the Pam80 sequence is TAGG). Thus, Pam80-wild-type heteroduplexes formed during recombination will be efficiently and selectively repaired to wild type by the short-patch repair system. ",
+        "bbox": [
+            123,
+            633,
+            871,
+            750
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MISMATCH REPAIR IN METHYLATED DNA ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            779,
+            714,
+            802
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Transfection experiments by M. Jones, R. Wagner & M. Radman (unpublished) have confirmed the existence of short-patch repair. Using a series of heteroduplexes with individual mismatches in and surrounding a CCAGG sequence in the λ cl gene, these investigators found that mismatch repair occurred in fully GATC-methylated DNA only when the mismatch was at the second position (from either end) of the sequence. (This position is also the site for methylation by the $E$ . coli cytosine methylase.) No repair was observed when the mismatch occurred at the first base pair outside the CCAGG sequence or at the middle base pair of the sequence. The repair acts on the G-T mismatch and not on the A-C mismatch. It replaces the thymine residue and thus restores the G-C base pair. A second site where repair of the thymine of a G-T mismatch gave a mutant CCAGG sequence revealed that the process does not repair only to wild type, but'rather acts to restore the CCAGG sequence. Repair events did not extend ten base pairs to either side, but did frequently include a mismatch two base pairs away on the $5 1$ side of the excised thymine. ",
+        "bbox": [
+            123,
+            823,
+            871,
+            898
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            123,
+            106,
+            866,
+            338
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Short-patch repair also operates in GATC unmethylated or hemimethylated DNA, but its effects are less noticeable owing to the operation of methyldirected mismatch repair. As is the case for methyl-directed repair, shortpatch repair requires intact mutL and mutS genes. However, short-patch repair is fully operational in mutH or mutU bacteria and requires a functional dcm gene, which codes for the $E$ . coli cytosine methylase (unpublished results: M. Jones, R. Wagner & M. Radman; M. Lieb). Because transfections using DNA from phages grown in dcm bacteria were performed in $d c m ^ { + }$ cells in order to see short-patch repair, the results do not conclusively show that cytosine methylation is not required for short-patch repair. However, the finding of M. Lieb, E. Allen & D. Read (submitted) that mutants at the cytosine of CAGG sequences are subject to short-patch repair suggests that cytosine methylation is not required. The requirement of the short-patch repair system for functional mutL and mutS genes explains the hyporecombinogenic effect of these mutations on $\\lambda \\ \\mathbf { P a m } 3 \\ \\times \\ \\mathbf { P a m } 8 0$ crosses (22). The fact that mutH and mutU have a slightly hyperrecombinogenic effect on these same crosses (22) suggests that it may have been uniform corepair, rather than the absence of repair, that allowed linear mapping of markers in the studies discussed above. ",
+        "bbox": [
+            123,
+            343,
+            869,
+            707
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The specific action of $E$ .coli short-patch repair on cytosine-methylation sequences suggests that it might function on the $E$ . coli chromosome to reduce mutations arising from deamination of ${ \\mathfrak { s m e } } { \\mathrm { - } } \\mathbf { C }$ to form thymine. However, it has been reported that all three 5me-C sites in the lacI gene are hotspots for $5 { \\cdot } \\mathrm { m e C }  \\mathrm { T }$ transitions (11). These hot spots may be even \"hotter\" in the absence of mismatch repair. However, the lacl studies were conducted with F-lac episomes in which the number of mismatch repair enzymes may be small enough that nonchromosomal DNA is not efficiently repaired. [An estimate from lacZ gene-fusion experiments is that there are only 1020 mismatch repairenzyme molecules per cell (A. Brandenburger, J. D. Franssen & M. Radman, unpublished).] This idea is supported by the findings that mutH and mutS affect the F-lac episome less strongly than the $E$ coli chromosome (42) and that sequencing of spontaneous chromosomal lacl mutants revealed no obvious 5me-C mutational hot spots (21). ",
+        "bbox": [
+            128,
+            709,
+            871,
+            900
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            130,
+            107,
+            872,
+            184
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A case of similar specific mismatch repair has been reported in S. pneumoniae where a system acts to preserve the ATTCAT sequence (73, 74). It is not known if this sequence has any particular biological significance. ",
+        "bbox": [
+            130,
+            187,
+            872,
+            245
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MISMATCH REPAIR IN UNMETHYLATED DNA ",
+        "text_level": 1,
+        "bbox": [
+            130,
+            266,
+            753,
+            289
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair occurs with equal efficiency in hemimethylated DNA heteroduplexes, where it is restricted to the unmethylated strand, and unmethylated DNA heteroduplexes, where repair occurs on either strand (13, 64, 80). However, the mutator effect of mutH, mutL, mutS, and mutU mutants and dam mut double mutants, which are deficient in mismatch repair, is about an order of magnitude higher than that of dam mutants (22), which have undirected mismatch repair. (Theoretically, no mismatch repair and undirected mismatch repair should have the same effect on mutation frequencies.) The mismatch repair system may be able to correct ca $90 \\%$ of the replication errors, even in the absence of methyl direction. Alternatively, the undirected action of the mismatch repair system on a large fraction of the replication errors occurring in dam cells may cause cell death; thus, presumptive mutants would be selectively lost from the population. It was suggested that the mechanism of such mismatch-stimulated killing might be the introduction of double-strand breaks at or near mismatches in unmethylated DNA, due to the action of the mismatch repair system on both strands (22, 68). This idea is supported by the results of a series of transfection experiments with unmethylated $\\pmb { \\lambda }$ DNA heteroduplexes. These results indicate that unmethylated heteroduplexes containing one or more repairable mismatches transfect cells with a functioning mismatch repair system less efficiently than they transfect cells deficient in mismatch repair (14). No difference is observed when the heteroduplexes either contain a nonrepairable mismatch or are fully methylated or hemimethylated. ",
+        "bbox": [
+            125,
+            302,
+            869,
+            750
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$E$ . coli mutations reducing the repair of double-strand breaks (recA, recB, polA, lexA, ind, ruv) are lethal when combined with a dam mutation (22, 53, 55, 61). This lethality can be overcome by the addition of a mut mutation because the triple mutants (e.g. dam recA mutL) are viable (22, 55). These facts suggest that double-strand break repair may rescue DNA inactivated by the mismatch repair system. Such repair must result in the correction of replication errors in order to account for the lower mutation frequency of dam mutants relative to mut and dam mut mutants. ",
+        "bbox": [
+            123,
+            751,
+            869,
+            905
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "MECHANISMS OF MISMATCH REPAIR—SUMMARY AND SPECULATIONS ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            102,
+            811,
+            143
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mismatch Repair in E. coli ",
+        "bbox": [
+            128,
+            150,
+            454,
+            171
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The data reviewed here suggest three distinct mechanisms of mismatch repair in $E$ coli: $( a )$ methyl-directed repair, $( b )$ short-patch repair, and $( c )$ recombinational repair via double-strand breaks. (As discussed earlier, the repair of heteroduplexes containing unpaired loops will not be considered as mismatch repair.) ",
+        "bbox": [
+            123,
+            178,
+            866,
+            274
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The three mechanisms have at least one common feature, i.e. all require functional mutL and mutS genes. The requirement for these gene products suggests that they are involved in steps common to allthree mechanisms (e.g. recognition of the mismatch). The results of in vitro experiments demonstrate that purified mutS protein binds to some mismatches (77). ",
+        "bbox": [
+            123,
+            276,
+            866,
+            372
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Methyl-directed repair appears to be the primary mechanism for the correction of replication errors, i.e. repairable mismatches and single unpaired bases, in wild-type $E$ coli. In addition to the mutL and mutS gene products, methyl-directed repair requires mutH and mutU gene products, single-strand binding protein (at least in vitro), hemimethylated GATC sequences, and repairable mismatches. (The methyl-directed repair system acts on unmethylated DNA as well, but in an undirected fashion.) The results of in vitro experiments indicate that repair at a mismatch is accompanied by repair synthesis originating at a neighboring GATC sequence (49). It has been suggested that the mutH gene product may be the GATC recognizing protein (36) and may nick the DNA at GATC sequences flanking or on one side of a mismatch (P. Modrich, unpublished). If nicks are introduced in the two GATC sequences flanking a mismatch or at the mismatch (perhaps by the mutL and/or mutS gene products) and at a GATC sequence to one side of it, then the mutU gene product, which has been identified as DNA helicase II (38, 51), may facilitate the displacement of the single-stranded fragment containing the incorrect base. Repair synthesis could fill the resulting gap. ",
+        "bbox": [
+            123,
+            374,
+            866,
+            700
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Short-patch repair operates only on a specific base of a specific mismatch in a specific sequence. Because it is unaffected by GATC methylation, shortpatch repair can operate in the nonreplicating DNA of wild-type $E$ coli. Short-patch repair involves very short excision tracts; whatever repair synthesis is involved does not normally begin at a GATC sequence and removal of the strand fragment presumably does not require helicase. Thus, the activities suggested for the mutH and mutU gene products in methyl-directed repair are not required in short-patch repair. Short-patch repair requires the dcm methylase, whose function may be to protect the CCAGG or CAGG sequences and/or to activate the mutL and mutS gene products so that they are able to recognize the mismatch and/or introduce nicks into the DNA at or near the mismatched thymine. ",
+        "bbox": [
+            126,
+            702,
+            869,
+            892
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            127,
+            102,
+            864,
+            140
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Recombinational repair via double-strand breaks occurs only in unmethylated DNA and requires all of the components of the methyl-directed repair system as well as the products of those genes involved in double-strandbreak repair. The methyl-directed repair system acting on unmethylated DNA may introduce double-strand breaks or gaps in the DNA in the vicinity of the mismatch (14). These breaks or gaps would then be substrates for the $E$ coli recombinational repair system. Recombination with the sister duplex would regenerate the parental sequence in the region of the mismatch. Models of such recombination have been proposed (78). ",
+        "bbox": [
+            127,
+            143,
+            869,
+            316
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Mismatch Repair in Eukaryotes ",
+        "text_level": 1,
+        "bbox": [
+            125,
+            328,
+            502,
+            349
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The similarities in mismatch repair specificities in $E$ . coli (see above), S. pneumoniae (10, 40), and Saccharomyces cerevisiae (82) suggest that some characteristics of mismatch repair are shared among diverse organisms, including both prokaryotes and eukaryotes. Clearly, most organisms do not use GATC methylation to direct mismatch repair, as GATC sequences are methylated only in a limited number of bacterial species (4). Methylation is unlikely to be involved in directing mismatch repair in eukaryotes, since the chromosomal DNA of yeast and Drosophila contains no detectable methylation, and mammalian DNA contains only 5me-C, which appears to be involved in gene regulation (26, 63). It has been suggested that mismatch repair in eukaryotes acts at nicks in the DNA and is, therefore, directed to the newly synthesized strands by their transient nicks (25). Such a directed repair may occur in eukaryotes, although the experiments purporting to demonstrate this repair have lacked controls sufficient to eliminate other interpretations (19, 25). ",
+        "bbox": [
+            125,
+            357,
+            869,
+            647
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The presence of considerable amounts of 5me-C in mammalian cells (26) and the high rate of spontaneous deamination of 5me-C to form thymine (47) suggest the need for a repair system analogous to the short-patch repair system in $E$ . coli. There is currently no evidence for such a repair system in eukaryotes. It has been suggested that a short-patch repair system, similar to that of $E$ coli, but perhaps less specific, could promote the diversification of genes by acting on heteroduplexes formed from different members of repetitive gene families such as the histocompatibility genes (35) or the variable region of the immunoglobulin genes (65). (Directed repair of such heteroduplexes would tend to homogenize divergent sequences.) The results of transfections of mouse cells with complex heteroduplexes containing many mismatches and small unpaired regions indicate that cellular processing of such heteroduplexes can produce \"patchwork\" sequences (1). ",
+        "bbox": [
+            123,
+            648,
+            869,
+            898
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The best candidate for a eukaryotic mechanism for repairing replication errors may be recombinational repair via double-strand breaks, as this mechanism requires no means of strand discrimination. However, the model does require that an additional copy of the genetic information be readily available for recombination. This requirement could be fullfilled in higher organisms by restricting the process to the region of the DNA immediately behind the replication fork. The DNA in this region might be accessible to mismatch repair enzymes because of the relative absence of chromatin proteins. Recombination events in this region that terminate with a crossover could be detected as sister-chromatid exchanges. Recombinational mismatch repair could explain the occurrence of much higher levels of sister-chromatid exchange than are predicted from the frequency of mitotic recombination. The stimulation of sister chromatid exchanges by double-strand breaks produced in vivo (57) and the occurrence of homologous recombination as a result of double-strand gap repair (6) have recently been demonstrated in cultured mammalian cells. ",
+        "bbox": [
+            123,
+            900,
+            864,
+            936
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            123,
+            106,
+            866,
+            377
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            128,
+            400,
+            319,
+            416
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "We thank Dr. R. D'Ari, C. Dohet, M.-P. Doutrioux, and M. Jones for critical reading of the manuscript. R. Wagner was supported by the Association pour la Recherche sur le Cancer (A.R.C.) and Centre National de la Recherche Scientifique (C.N.R.S.). A.R.C., C.N.R.S. and Ligue National Francaise contre le Cancer provided funds for our research. ",
+        "bbox": [
+            123,
+            426,
+            869,
+            521
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Literature Cited ",
+        "text_level": 1,
+        "bbox": [
+            123,
+            550,
+            285,
+            566
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1.Abastado, J. P., Cami, B., Dinh, T. H., Igolen, J., Kourilsky, P. 1984. Processing of complex heteroduplexes in Escherichia coli and Cos-1 monkey cells. Proc. Natl. Acad. Sci. USA 81:579296   \n2. Amati, P., Meselson, M. 1965. Localized negative interference in bacteriophage lambda. Genetics 51:36979   \n3. Baas, P. D., JaNSz, H. S. 1972. Asymmetric inforination transfer during X174 DNA replication. J. Mol. Biol. 63:55768   \n4.Barbeyron, T., Kean, K., Forterre, P. 1984. DNA adenine methylation of GATC sequences appeared recently in the Escherichia coli lineage. J. Bacteriol. 160:58690   \n5. Bauer, J., Krammer, G., Knippers, R. 1981. Asymmetric repair of bacteriophage T7 heteroduplex DNA. Mol. Gen. Genet. 181:54147   \n6. Brenner, D. A., Smigocki, A. C., Camerini-Otero, D. R. 1986. Doublestrand gap repair results in homologous recombination in mouse L cells. Proc. Natl. Acad. Sci. USA 83:176266   \n7. Brown, T., Hunter, W. N., Kneale, G., Kennard, O. 1986. Molecular structure of the G:A base pair in DNA and its implications for the mechanism of ransversion mutations. Proc. Natl. Acad. Sci. USA 83:24026   \n8. Brown, T., Kennard, O., Kneale, G., Rabinovich, D. 1985. High resolution structure of a DNA helix containing mismatched base pairs. Nature 315:6046   \n9. Choy, H. E., Fowler, R. G. 1985. The specificity of base pair substitutions induced by the mutL and mutS mutators in E. coli. Mutat. Res. 142:9397   \n10. Claverys, J. P., Mejean, V., Gasc, A. M., Sicard, A. M. 1983. Mismatch repair in Streptococcus pneumoniae: Relationship between base mismatches and ransformation efficiencies. Proc. Natl. Acad. Sci. USA 80:595660   \n11. Coulondre, C., Miller, J. H., Farabaugh, P. J., Gilbert, W. 1978. Molecular basis of base substitution hot spots in Escherichia coli. Nature 274:77580   \n12. Dohet, C., Wagner, R., Radman, M. 1985. Repair of defined single base pair mismatches in E. coli. Proc. Natl. Acad. Sci. USA 82:5035   \n12a. Dohet, C., Dzidic, S., Wagner, R., Radman, M. 1986. Large non-homology in heteroduplex DNA is processed differently than single base pair mismatches. Mol. Gen. Genet. In press   \n13. Dohet, C., Wagner, R., Radman, M. 186. Methyl-directed repair of frameshift mutations in heteroduplex DNA. Proc. Natl. Acad. Sci. USA 83: 339597   \n14. Doutrioux, M. P., Wagner, R., Radman, M. 1986. Mismatch-stimulated killing. Proc. Natl. Acad. Sci. USA 83:2576-78   \n15. Dreiseikelmann, B., Eichenlaub, R., Wackernagel, W. 1979. The effect of differential methylation by Escherichia coli of plasmid DNA and phage T7 and λDNA on the cleavage by restriction endonuclease MboI from Moraxella bovis. Biochim. Biophys. Acta 562:418 28   \n1.Ephrussi-Taylor, H., Gray, T. C. 1966. Genetic studies of recombining DNA in pneumococcal transformation. J. Gen. Physiol. 49:21131   \n17. Fishel, R. A., Kolodner, R. 1983. Gene conversion in Escherichia coli: The identification of two repair pathways for mismatched nucleotides. UCLA Symp. Mol. Cell. Biol. 11:309--26   \n18. Fishel, R. A., Siegel, E. C., Kolodner, R. 1986. Gene conversion in Escherichia coli. Resolution of heteroallelic mismatched nucleotides by co-repair. J. Mol. Biol. 187:In press   \n19. Folger, K. R., Thomas, K., Capecchi, M. R. 1985. Efficient correction of mismatched bases in plasmid heteroduplexes injected into cultured mammalian cells. Mol. Cell. Biol. 5:70-74   \nFox, M. S., Allen, M. 1964. On the mechanisms of desoxyribonucleate integration in pneumococcal transformation. Proc. Nail. Acad. Sci. USA 52:412- 19   \n1.Glickman, B. W., Fix, D. E., Yatagai, F., Burms, P. A., Schaaper, R. M. 1986. Mechanism of spontaneous mutagenesis: Clues from mutational specificity. In Mechanisms of DNA Damage and Repair, ed. M. Simic, L. Grossman, A. Upton, pp. 42538. NY: Plenum   \n22. Glickman, B. W., M. Radman. 1980. Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc. Natl. Acad. Sci. USA 77:106367   \n23. Glickman, B. W., van der Elsen, P., Radman, M. 1978. Induced mutagenesis in dam mutants of Escherichia coli: A role for 6-methyladenine in mutation avoidance. Mol. Gen. Genet. 163:307- 12   \n24. Gussin, G. N., Rosen, E. D., Wulff, D. L. 1981. Mapability of very close markers of bacteriophage λ. Genetics 96:1 24   \nHare, J. T., Taylor, H. 1985. On role of DNA methylation in vertebrate cells in strand discrimination in mismatch repair. Proc. Natl. Acad. Sci. USA 82:7350-54   \nHattman, S. 1981. DNA methylation. Enzymes 14:517-48   \nDeleted in proof   \n28. Herman, G. E., Modrich, P. 1981. Escherichia coli K12 clones that overproduce dam methylase are hypermutable. J. Bacteriol. 145:644-46   \nHo, P. S., Frederick, C. A., Quigley, G. J., van der Marel, G. A., van Boom, J. H., et al. 1985. G:T wobble basepairing in Z-DNA at 1.0 atomic resolution: the crystal structure of d(CGCGTG). EMBO J. 4:3617-23   \n3. Holliday, R. 1964. A mechanism for gene conversion in fungi. Genet. Res. 5:282304   \n31. Hunter, W. N., Brown, T., Anand, N. N., Kennard, O. 1986. Structure of an adenine-cytosine base pair in DNA and its implications for mismatch repair. Nature 320:55255   \n32. Jones, M., Wagner, R. 1981. N-methyl$N ^ { \\prime }$ -nitro $. N .$ nitrosoguanidine sensitivity of $E$ coli mutants deficient in DNA methylation and mismatch repair. Mol. Gen. Genet. 184:562--63   \n3 Karran, P., Marinus, M. G. 1982. Mismatch correction at ${ \\bf O } ^ { 6 } \\cdot$ methylguanine residues in $E$ coli DNA. Nature 296: 868--69   \n34. Kennard, O. 1985. Structural studies of DNA fragments: the G:T wobble pair in A,B and Z DNA; the G:A base pair in B-DNA. J. Biomolec. Struct. Dyn. 3:205-25   \nKourilsky, P. 1983. Genetic exchanges between partialy homologous nucleotide sequences: possible implications for multigene families. Biochimie 65:8593   \n3 Kramer, B., Kramer, W., Fritz, H. J. 1984. Different base/base mismatches are corrected with different efficiencies by the methyl-directed DNA mismatchrepair system of E. coli. Cell 38:879--81   \nKramer, W. Schughart, K., Fritz, H. J. 1982. Directed mutagenesis of DNA clones in filamentous phage: influence of hemimethylated GATC sites on marker recovery from restriction fragments. Nucleic Acids Res. 10:647585   \n38. Kumura, K., Sekiguchi, M. 1984. Identification of tne uvrD gene proauct of E. coli as DNA helicase II and its induction by DNA damaging agents. J. Biol. Chem. 259:1560-65   \nLacks, S. 1970. Mutants of Diplococcus pneumoniae that lack deoxyribonucleases and other activities possibly pertinent to genetic transformation. J. Bacteriol. 101:37383   \nLacks, S.A., Dunn, J. J. Greenberg, B. 1982. Identification of base mismatches recognized by the heteroduplex DNA repair system of Streptococcus pneumoniae. Cell 31:32736   \n41.Laengle-Roualt, F., Maenhaut-Michel, G., Radman, M. 1986. GATC sequence and mismatch repair in E. coli. EMBO J. In press   \nLeong, P. M. Hsia, H. C., Miller, J.H. 1986. Analysis of spontaneous base substitutions generated in mismatch repair deficient strains of Escherichia coli. J. Bacteriol. In press   \n43. Lichten, M. J., Fox, M. S. 1984. Evidence for inclusion of regions of nonhomology in heteroduplex products of bacteriophage lambda recombination. Proc. Natl. Acad. Sci. USA 81:718084   \n. Lieb, M. 1981. A fine structure map of spontaneous and induced mutations in the lambda repressor gene, including insertions of Is elements. Mol. Gen. Genet. 184:36471   \n4. Lieb, M. 1983. Specific mismatch correction in bacteriophage lambda crosses by very short patch repair. Mol. Gen. Genet. 191:118-125   \n46. Lieb, M. 1985. Recombination in the lambda repressor gene: evidence that very short patch (VSP) mismatch corrcction restores a specific scquence. Mol. Gen. Genet. 199:46570   \n47.Lindahl, T. 1982. DNA repair enzymes. Ann. Rev. Biochem. 51:61-87   \nL A.L.Clark, S. Mic, P. 1983. Methyl-directed repair of DNA base-pair mismatches in vitro. Proc. Natl. Acad. Sci. 80:463943   \n4Lu, A. L., Welsh, K., Su, S. J., Modrich, P. 1984. Repair of DNA base pair mismatches in extracts of Escherichia coli. Cold Spring Harbor Symp. Quant. Biol. 49:589-96   \n50. Lyons, S. M., Schendel, P. F. 1984. The kinetics of methylation in E. coli K12. J. Bacteriol. 159:42123   \n51. Maples, V. F., Kushner, S. R. 1982. DNA repair in Escherichia coli: Identification of the uvrD gene product. Proc. Natl. Acad. Sci. USA 79:561620   \nMarinus, M. G. 1.Adenine thlation of Okazaki fragments in Escherichia _ coli. Mol. Gen. Genet. 128:853-54   \n53. Marinus, M. G., Morris, N. R. 1973. Isolation of deoxyribonucleic acid methylase mutants of Escherichia coli K12. J. Bacteriol. 114:114350   \n54. Marinus, M. G., Morris, N. R. 1975. Pleiotropic effects of a DNA adenine methylation mutation (dam-3)in Escherichia coli K12. Mutat. Res. 28:15 26   \n55. McGraw, B. R., Marinus, M. G. 1980. Isolation and characterization of dam revertants and suppressor mutations that modify secondary phenotypes of dam-3 strains of Escherichia coli K12. Mol. Gen. Genet. 178:30915   \n5 Mejean, V., Claverys, J. P. 1984. Effect of mismatched base pairs on the fate of donor DNA in transformation of Streptococcus pneumoniae. Mol. Gen. Genet. 1974671   \n56a. Meselson, M. 1986. Methyl-directed repair of DNA mismatches. In The Recombination of Genetic Material, ed. K. B. Low. New York: Academic. In press   \n57. Natarajan, A. T., Mullenders, L. H. F., Meijers, M., Mukherjee, U. 1985. Induction of sister-chromatid exchanges by restriction endonucleases. Mutat. Res. 144:3339   \n58. Nevers, P., Spatz, H. C. 1975. Escherichia coli mutants uvrD and uvrE deficient in gene conversion of lambdaheteroduplexes. Mol. Gen. Genet. 139: 23343   \nPan,P. P. LuerA. S. Walker, G. 'C. 1985. Identification and characterization of the mutL and mutS gene products of Salmonella typhimurium LT2. J. Bacteriol. 163:100715   \n6 Pardi, A., Morden, K. M., Patel, D. J., Tinoco, I. Jr. 1982. Kinetics for exchange of imino protons in the d(C-G-C. G-A-A-T-T-C-G-C-G) double helix and in two similar helices that contain a G.T base pair, d (C-G-T-G-A-A-T-T-C-G-CG), and an extra adenine, d(C-G-C-A-GA-A-T-T-C-G-C-G). Biochemistry 21: 656774   \n61. Peterson, K. R., Wertman, K. F., Mount, D. W., Marinus, M. G. 1985. Viability of Escherichia coli K12 DNA adenine methylase (dam) mutants requires increased expression of specific genes in the SOS regulons. Mol. Gen. Genet. 201:1419   \n6Petruska, J., Goodman, M. F. 1985. Influence of neighboring bases on DNA polymeras insertion and proofreading fidelity. J. Biol. Chem. 260:753339   \nProfftt, J. H., Davie, J. R., Swinton, D., Hattman, S. 1984. 5-Methylcytosine is not detectable in Saccharomycees cerevisiae DNA. Mol. Cell. Biol. 4:98588   \n6.Pukkila, P. J., Peterson, J., Herman, G., Modrich, P., Meselson, M. 1983. Effects of high levels of DNA adenine methylation on methyl-directed mismatch repair in Escherichia coli. Genetics 104:57182   \n65. Radman, M. 1983. Diversification and conservation of genes by mismatch repair: a case for immunoglobulin genes. See Ref. 17, pp. 28798   \n6Radman, M., Dohet, C., Bourguignon, M. F., Doubleday, O. P., Lecomte, P. 1981. High fidelity devices in the reproduction of DNA. In Chromosome Damage and Repair, ed. E. Seeberg, K. Kleppe, pp. 431-45. NY: Plenum   \nRadman, M., Villani, G., Boiteux, S., Kinsella, A. R., Glickman, B. W., Spadari, S. 1979. Replication fidelity: mechanisms of mutation avoidance and mutation fixation. Cold Spring Harbor Symp. Quant. Biol. 43:937-46   \n68. Radman, M., Wagner, R. 1984. Effects of DNA methylation on mismatch repair, mutagenesis, and recombination in Escherichia coli. Curr. Top. Microbiol. Immunol. 108:2328   \n69. Radman, M., Wagner, R. E., Glickman, B.W., Meselson, M. 1980. DNA methylation, mismatch correction and genetic stability. In Progress in Environmental Mutagenesis, ed. M. Alacevic, pp. 121-30. Amsterdam: Elsevier   \n70. Rydberg, B. 1978. Bromouracil mutagenesis and mismatch repair in mutator strains of Escherichia coli. Mutat. Res. 52:1124   \n1. Deleted in proof   \n72. Shanabruch, W. G., Rein, R. P., Behlau, I., Walker, G. C. 1983. Mutagenesis by methylating and ethylating agents in mutH, mutL and uvrD mutants of Salmonella typhimurium LT2. J. Bacteriol. 153:33   \n73. Sicard, M., Lefevre, J. C., Mostachfi, P. Gasc, A. M. Mejean, V. Claverys, J. P. 1985. Long-and short-patch gene conversions in Streptococcus pneumoniae transformation.\" Biochimie 67:377 84   \n7 Sicard, M., Lefevre, J. C., Mostachfi, P., Gasc, A. M., Sarda, C. 1985. Localized conversion in Streptococcus pneumoniae recombination: Heteroduplex preference. Genetics 110:55768   \n75. Skopek, T. R., Hutchinson, F. 1984. Frameshift mutagenesis of lambda prophage by $^ { 9 }$ -aminoacridine, proflavin and ICR-191. Mol. Gen. Genet. 195:41823   \n7Spatz, H. C., Trautner, T. A. 1970. One way to do experiments on gene conversion? Mol. Gen. Genet. 109:84-106   \n77. Su, S. S., Modrich, P. 1986. Escherichia coli mutS protein binds to mismatched DNA base pairs. Proc. Natl. Acad. Sci. In press   \n78.Szostak, J. W., Orr-Weaver, T. L., Rothstein, R. J., Stahl, F. W. 1983. The double-strand break repair model for recombination. Cell 33:25-35   \n7 Tiraby, G., Fox, M. S. 1979. Marker discrimination in transformation and mutation of pneumococcus. Proc. Natl. Acad. Sci. USA 70:354145   \n80 Wagner, R., Dohet, C., Jones, M., Doutriaux, M. P., Hutchinson, F., Radman, M. 1984. Involvement of Escherichia coli mismatch repair in DNA replication and recombination. Cold Spring Harbor Symp. Quant. Biol. 491-15   \n81Wagner, R., Meselson, M. 1976. Repair tracts in mismatched DNA heteroduplexes. Proc. Natl. Acad. Sci. USA 73:4135-39   \n82. White, J. H., Lusnak, K., Fogel, S. 1985. Mismatch-specific post-meiotic segregation frequency in yeast suggests a heteroduplex recombination intermediate. Nature 315:350-52   \n8.White, R. L., Fox, M. S. 1974. On the molecular basis of high negative interference. Proc. Natl. Acad. Sci. USA 71:154448   \n84. Wildenberg, J., Meselson, M. 1975. Mismatch repair in heteroduplex DNA. Proc. Natl. Acad. Sci. USA 72:22026 ",
+        "bbox": [
+            145,
+            583,
+            485,
+            931
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            523,
+            584,
+            869,
+            931
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            128,
+            91,
+            480,
+            913
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            98,
+            869,
+            916
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            125,
+            109,
+            480,
+            911
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            91,
+            871,
+            905
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            129,
+            101,
+            483,
+            772
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            99,
+            870,
+            774
+        ],
+        "page_idx": 15
+    }
+]

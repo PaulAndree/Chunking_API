@@ -1,0 +1,429 @@
+[
+    {
+        "type": "image",
+        "img_path": "images/4ea8c4ed97bc6f6f1b8702cd7c72c2154632c268878ec5d08b2557df2f4be337.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            70,
+            217,
+            348,
+            431
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mismatch recognition in chromosomal interactions and speciation ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            216,
+            857,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman and Robert Wagner ",
+        "bbox": [
+            515,
+            299,
+            787,
+            314
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institute Jacques Monod, CNRS-Université Paris 7, 2, Place Jussieu, F-75251 Paris Cedex 05, France ",
+        "bbox": [
+            515,
+            319,
+            832,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 15 March 1992/ Accepted: 25 May 1993 ",
+        "bbox": [
+            515,
+            359,
+            825,
+            371
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract. Homologous chromosomes interact during meiosis by means of proteins involved in recombination and in the recognition and repair of mismatched base pairs. Recombination proteins bring homologous chromosomes or chromosomal regions together by facilitating the search for DNA homology and by catalyzing strand exchange between homologous molecules or regions. Mismatch recognition and repair proteins act as editors of recombination and appear to disrupt those DNA associations that contain mismatched base pairs. Thus, it may be that, as chromosomes diverge in their primary sequence and become increasingly polymorphic, recombinational interactions leading to chromosome pairing and recombination tend to be inhibited. Decreasing homologous interactions within and between chromosomes will clearly contribute to maintaining the integrity of individual chromosomes and may utimately lead, as a result of sterile meioses, to the reproductive isolation of closely related species. ",
+        "bbox": [
+            75,
+            477,
+            484,
+            750
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pairing, recombination und meiotic segregation of chromosomes ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            793,
+            410,
+            821
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Meiosis is the cellular event wherein the genetic information derived from the two parents is compared. The results of the comparison determine whether the parents belong to the same species (fertile meiosis producing viable gametes) or to different species (sterile meiosis producing infertile gametes or none at all). The pairing and recombination of chromosomes are critical events in this comparison of genetic material (reviews, Hawley 1988; ",
+        "bbox": [
+            73,
+            835,
+            484,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Roeder 1990). Homologous chromosomes recombine frequently during meiosis, both by reciprocal recombination (crossovers) and by non-reciprocal recombination (gene conversion). Both reciprocal and non-reciprocal recombination involve the formation of a hybrid or heteroduplex region in which one strand of the DNA duplex is derived from each of the two recombining duplexes (Holliday 1964). It may be that the formation and editing of this heteroduplex region determine whether or not a pair of chromosomes is homologous and therefore able to stimulate the formation of a synaptonemal complex (Carpenter 1987; Roeder 1990). ",
+        "bbox": [
+            514,
+            476,
+            924,
+            648
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The results of cytological and genetic studies of chromosome pairing suggest that, during the early stages of meiotic prophase, some gene conversion-type recombinational intermediates are formed (review, Hawley 1988). These structures involve the interaction of a single strand of one DNA molecule with another DNA molecule and may be part of the homology search process, since temporary unstable, conversion-type structures are formed even between homologous repeats in non-homologous chromosomes (Carpenter 1987). The homology search is presumably carried out by single-stranded DNA coated with homology search/strand exchange proteins similar to the E. coli RecA protein (review, West 1992). Single-stranded DNA associated with homologous chromosome pairing has been detected in meiotic cells of lilies (Hotta et al. 1984). It may be that chromosome pairing and formation of the synaptonemal complex occurs only when an invading strand finds perfect homology. If a sufficient length of perfect homology is not found, the exploratory connection is broken, the chromosomes separate, and new searches are undertaken to find homologous partners (Carpenter 1987; Roeder 1991). There is clearly a strong association between sequence homology, double-strand breaks, reciprocal recombination and chromosomal disjunction (review, Hawley and Arbel 1993; Kleckner et al. 1991; Goldway et al. 1993). However, it is not clear whether doublestrand breaks (DSBs) precede or follow chromosomal pairing, that is, whether DSBs are required for the homology search or occur following pairing to stimulate reciprocal recombination and ensure correct homolog disjunction. This remains uncertain, because the presence of sister chromatids makes it impossible to perform meiotic DSB tests on truly single-copy sequences. ",
+        "bbox": [
+            515,
+            649,
+            924,
+            950
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            72,
+            484,
+            259
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dependence of pairing and recombination on extent and degree of homology ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            289,
+            438,
+            318
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The high fidelity of homologous genetic recombination ensures that only perfectly homologous, i.e., identical, sequences of significant length engage in effective recombination. It appears that this fidelity is achieved by virtue of the requirement that the heteroduplex region be relatively long, usually from one to several kilobases (Schultes and Szostack 1990; Voelker and Roeder 1990), and perfectly base-paired. The results of experiments in mitotic cells utilizing genetic constructs consisting of cloned repeats of variable length integrated \"ectopically\" into the same or different chromosomes (i.e., embedded in non-homologous sequences) indicate that recombination frequency decreases roughly linearly with the decrease in the length of homology down to a minimum size required for efficient recombination, below which recombination frequency decreases sharply. By extrapolating the linear portion of the curve to zero recombination, it is possible to define a minimum efficient processing segment, or MEPS (Shen and Huang 1986). MEPSs have been found to be 2530 base pairs long in $E _ { \\mathrm { { \\ell } } }$ coli (Shen and Huang 1986), about 250 base pairs in yeast (Jinks-Robertson and Michelich 1993) and 250 300 base pairs in cultured mouse cells (review, Bollag et al. 1989). ",
+        "bbox": [
+            73,
+            332,
+            482,
+            677
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fact that the length of MEPS is significantly less than the length of heteroduplex regions in recombinational intermediates in both prokaryotes and eukaryotes suggests that recombination enzymes are highly selective for sequence identity only at the initial stage of the strand exchange process. The results of in vitro studies with purified E. coli RecA protein indicate that 15 bases of single-stranded DNA in a filamentous complex with RecA is sufficient for the search for homology along single- or double-stranded DNA, although at least 26 bases (equivalent to one MEPS) are required for a stable initial homologous pairing intermediate (Hsieh et al. 1992). ",
+        "bbox": [
+            72,
+            678,
+            482,
+            863
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Once initiated, strand exchange can proceed through large heterologies. Large loop heteroduplexes have been observed both in RecA-catalyzed strand exchange reactions in vitro (Bianchi and Radding 1983) and in RecAdependent crosses of lambda phages in $E$ coli (Lichten and Fox 1984). In yeast meiosis, efficient recombination occurs between 1-kb blocks of perfect homology embedded in non-homologous regions (Haber et al. 1991), whereas random divergence of as little as $10 \\%$ completely prevents recombination between entire chromosomes (Resnick et al. 1989). These counter-intuitive findings that in vivo recombination between DNAs differing by large blocks of heterologies is quite efficient, whereas recombination between DNAs differing by well-spaced point mutations is inhibited and the findings that the length of heteroduplex DNA requiring perfect homology is significantly longer than one MEPS can be explained by the involvement of the mismatch repair system as an editor of genetic recombination (Jones et al. 1987; Radman 1988; Rayssiguier et al. 1989; Shen and Huang 1989). ",
+        "bbox": [
+            72,
+            866,
+            482,
+            949
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            72,
+            924,
+            289
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair systems and the editing of recombination intermediates ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            318,
+            804,
+            346
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair was originally postulated to explain some unusual aspects of genetic recombination such as gene conversion and other aberrant (i.e., non-Mendelian) segregation in fungi, the apparent clustering of exchanges between closely spaced markers in phage and fungi (high negative interference) and marker effects in pneumococcal transformation (review, Radman 1988). The results of more than 2 decades of work have finally established that the combination of long-patch mismatch repair (long excision tracts) and short-patch mismatch repair (short or no excision tracts) can account for all these phenomena. Long-patch mismatch repair has the effect of decreasing the frequency of genetic recombination, presumably by disrupting early intermediates (Rayssiguier et al. 1989), whereas short-patch mismatch repair allows exchanges between closely spaced genetic markers by means of localized and independent repair of specific mismatches within the heteroduplex region (review, Radman 1988). ",
+        "bbox": [
+            514,
+            361,
+            922,
+            634
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The specificity of the long-patch mismatch repair systems apparently evolved to correct errors in DNA synthesis. The most frequent polymerase errors, i.e., G:T and A:C mismatches and single-base insertions or deletions, are repaired efficiently, whereas loops larger than four bases and C:C mismatches are not recognized or are not repaired (reviews, Modrich 1991; Radman and Wagner 1986). This specificity explains the tolerance of looped structures and C:C mismatches in yeast and pneumococcal recombination (Schar and Kohli 1993; Lichten et al. 1990; Claverys and Lacks 1986). Although the best characterized substrate for mismatch repair proteins is DNA duplex containing mispaired or unpaired bases, the possibility cannot be excluded that a threeor four-stranded structure may also be recognizable, at least by some mismatch binding proteins. Such structures may be involved in the homology searches leading to chromosome pairing at meiosis. ",
+        "bbox": [
+            514,
+            635,
+            922,
+            892
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Elements of the $E$ coli long patch mismatch repair system appear to have been conserved throughout evolution. In particular, genes coding for homologs to the mismatch binding protein (MutS) have been found in other bacteria, yeast, frog, mouse and man (Reenan and Kolodner 1992; Miret et al. 1993; I. Varlet and M. Radman, unpublished; New et al. 1993; Fujii and Shimada 1989) and multiple homologs to a protein which binds to the MutS-mismatched DNA complex (MutL) have been found in eukaryotes (Kramer et al. 1989; M. Liskay, unpublished communication). (The precise function of MutL and its homologs is not known; however, like MutS, MutL is required for all functions of the long-patch mismatch repair system. MutL appears to be a limiting protein in E. coli mismatch repair and there is evidence that, unlike MutS, it is consumed during mismatch repair rather than turned over (Schaaper and Radman 1989; Damagnez et al. 1989).) The large number and distribution of conserved sequence blocks among MutS homologs (New et al. 1993; G. Crouse, unpublished) suggests a highly specialized structurefunction relationship in MutS-like proteins. ",
+        "bbox": [
+            512,
+            894,
+            921,
+            950
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            73,
+            71,
+            482,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The multiple phenotypes of mutS and mutL mutants in $E .$ coli suggest that the long-patch mismatch repair system may be the most versatile and multifaceted DNAediting system known. The system involves mismatch detection (MutS and, perhaps, MutL proteins) and mismatch-stimulated DNA unwinding by a helicase (helicase II, encoded by the mut $U$ or uorD gene). E. coli deficient in MutS, MutL or MutU are genetically destabilized and show large increases in: (1) deletions (exemplified by precise and imprecise transposon excision) (Lundblad and Kleckner 1984); (2) spontaneous point and frameshift mutagenesis (mutator phenotype) (review, Modrich 1991); (3) large chromosomal rearrangements resulting from crossovers between sequence diverged repeats (chromosomal instability phenotype) (Petit et al. 1991); (4) recombination of genetic markers (hyper-rec phenotype) (Feinstein and Low 1986); and (5) recombination with related species such as Salmonella (disrupted genetic barrier phenotype) (Rayssiguier et al. 1989). The increases relative to wild type bacteria, are from 10-fold to 100000-fold, depending on the particular phenotype measured. All of these phenotypes result directly from the failure of the mismatch repair system or its components to operate on mismatched DNA. Deletions result from the replicative bypass of secondary structures (e.g., hairpins) in template strands, which, when mismatch repair is in operation, are presumably melted by the mismatch repair helicases, since such structures generally contain mispaired or unpaired bases. The mutator phenotype is prevented in wild type bacteria by the operation of the mismatch repair system, in a strand-directed fashion, to repair newly synthesized strands to restore the parental sequence (strand direction occurs via adenine methylation of GATC sequences or via strand discontinuities) (review, Modrich 1991). The chromosomal instability, hyper-rec and disrupted genetic barrier phenotypes all result from the failure of the disabled mismatch repair system to disrupt recombinational intermediates containing mismatches in their heteroduplex regions. ",
+        "bbox": [
+            73,
+            329,
+            484,
+            912
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Multiple MutS-like proteins have been found in eukaryotes, and it appears that they have become specialized in such a way that some are associated with replication, as editors of newly synthesized DNA, some are associated with recombination, as editors of heteroduplexes in recombinational intermediates, and some are associated with mitochondrial DNA. In addition, some appear to be regulated with the cell cycle. In yeast, msh1 (mutS homolog 1) mutants have no discernible nuclear phenotype, but yield $1 0 0 \\%$ mitochondrial (petite) point or deletion mutations (Reenan and Kolodner 1992b). Msh2 mutants show both mitotic mutator and meiotic hyperrec phenotypes (the Msh2 sequence is closest to the bacterial MutS sequence) (Reenan and Kolodner 1992a). Msh3 mutants show a weak mutator phenotype but show an increase in recombination between diverged repeated sequences (New et al. 1993; G. Crouse, pers. commun.). The Msh4 gene is expressed only during meiosis, and msh4 mutants' phenotypes are under investigation (S. Roeder, personal communication). Sequence comparisons suggest that MutS-like proteins of the Msh2 and Msh3 kind also exist in frogs and mice as well (I. Varlet, N. de Wind and M. Radman, unpublished). Specialization and compartmentalization of Msh and Mlh (MutL homolog) proteins may have been required to deal with the large numbers of active replication origins and repeated sequences in the more complex eukaryotic genomes. ",
+        "bbox": [
+            73,
+            909,
+            484,
+            951
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            72,
+            924,
+            431
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Homologous DNA interactions in the evolution of gene and chromosome structure ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            462,
+            847,
+            490
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Repeated sequences would presumably present enormous problems in maintaining chromosomal integrity, since they would allow large amounts of ectopic recombination, leading to chromosomal rearrangements (Haber et al. 1991 and references therein). However, it turns out that repeated elements have sufficient sequence divergence for them, not only not to support frequent ectopic recombination (review, Petes and Hill 1988), but even apparently to prevent both ectopic and mitotic recombination between homologous chromosomes (Petit et al. 1991; Radman in 1991). The question still remains as to how the genomes manage to survive the creation of these repeated elements, particularly the invasion of numerous copies of retrotranscribed sequences that were initially identical in sequence. A small amount of divergence, perhaps as much as $0 . 1 \\%$ , may have occurred during reverse transcription as a result of the intrinsic imprecision of reverse transcriptases. However, a more potent mechanism for the functional and recombinational inactivation of repeated sequences is likely to have played a major role in the generation of sequence divergence of duplicated DNA sequences. Analysis of mammalian genomic sequences suggests that the mutagenesis of methylatable CpG dinucleotides to TpG (either by deamination of 5-methylcytosine or by methylase-stimulated cytosine deamination; Shen et al. 1992) occurs preferentially in repeated sequences (Kricker et al. 1992). It may be that processes similar to the MIP (methylation induced premeiotically) (Rhounim et al. 1992) and RIP (repeat induced point mutations) (review, Selker 1990) phenomena observed in fungi also operate in other eukaryotes (Kricker et al. 1992). MIP and RIP involve highly efficient and precise pairing of homologous DNA sequences (at the haploid nuclei stage in post-fertilization dikaryons) which triggers extensive cytosine methylation (MIP) and subsequent C to $\\mathrm { T }$ mutagenesis (RIP). Thus, the multicopy \"parasitic\" DNA elements would be recognized via homologous pairing, transcriptionally inactivated by DNA methylation (Rhounim et al. 1992) and mutated by C-to-T transitions that would inactivate them irreversibly and, because the patterns of methylation and mutagenesis will be different in the different copies, produce sequence divergence sufficient to prevent inter-repeat recombination (Radman 1991). Such a process may be responsible for the germ-line inactivation of multicopy transgenes in mice (Rassoulzadegan et al. 1990) and plants (Jogensen 1990). ",
+        "bbox": [
+            515,
+            504,
+            924,
+            950
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            72,
+            484,
+            301
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In those organisms that do not methylate cytosines, e.g., yeast and Drosophila, repeated elements are present less frequently than in organisms with C-methylation; in addition, the extent of divergence of such sequences is much less than the extent of divergence $( 1 5 \\% )$ of even the most recently arising repeated sequences (Alu) in mammals (see Kricker et al. 1992 and references therein). ",
+        "bbox": [
+            75,
+            304,
+            484,
+            403
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The processes of MIP and RIP provide a feasible mechanism for the inactivation of DNA \"parasites\", but they could also be extremely dangerous, since many vital genes exist in multicopy form or have their processed pseudogenes present within the genome, often in multiple copies. Any interaction between repeated genes, or between genes and their pseudogenes, be it MIP, RIP or any recombination event, could be lethal. It has been proposed that, since the MEPS for both recombination and duplication-targeted mutagenesis is about $0 . 3 \\mathrm { \\ k b }$ (Kricker et al. 1992) and since mammalian exons are generally shorter that $0 . 3 \\mathrm { \\ k b }$ (Dorit et al. 1990), the intron-exon structure of eukaryotic genes makes them \"immune\" to homologous interactions with other copies (due to intron divergence) or with processed pseudogenes (due to the lack of MEPSs) (Radman 1991; Kricker et al. 1992). ",
+        "bbox": [
+            75,
+            405,
+            484,
+            649
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal stability and speciation as phenotypes of neutral mutations: useful \"junk \" DNA? ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            678,
+            445,
+            708
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It seems clear that the structure of eukaryotic genes serves to protect them from recombination; however, it is less clear why no mechanism evolved to rid chromosomes of useless inert DNA sequences (\"junk\" DNA) to prevent ectopic recombination and reduce the load imposed on the cellular machinery involved in replicating and maintaining the excess DNA. It may be that there is a selective advantage in maintaining well-distributed \"junk\" DNA. Because junk DNA elements are not coding sequences, they can be the principal carrier of sequence polymorphism. All mutations within junk DNA are neutral mutations and will, therefore, accumulate rapidly. As discussed above, sequence polymorphism is a powerful barrier to homologous recombination. Gene targeting experiments with mice show that isogenic DNA is some orders of magnitude more effective than non-isogenic DNA when used as donor DNA for homologous gene replacement (Te Riele et al. 1992), indicating that natural mammalian sequence polymorphism (in the order of $0 . 1 \\mathrm { - } 0 . 5 \\%$ is sufficient to act as recombinational barrier (as suggested by Radman 1988, 1989; Rayssiguier et al. 1989). The first demonstration of the value of neutral mutations in preventing recombination came from bacterial studies in which it was shown that both inter-repeat and inter-species recombination are blocked by sequence divergence consisting of neutral mutations and that the block is alleviated by the inactivation of the mismatch repair components, in particular MutS or MutL (Rayssiguier et al. 1989; Petit et al. 1991). Neutral mutations can provide a selective advantage because they can prevent recombination and will, therefore, contribute to chromosomal integrity and facilitate speciation (Radman 1991). ",
+        "bbox": [
+            73,
+            722,
+            484,
+            950
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            72,
+            924,
+            317
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The effect of neutral mutations on speciation can perhaps best be illustrated by comparing bacteria and mammals. Escherichia and Salmonella separated some $1 0 0 -$ 150 million years ago and have diverged, primarily by the slow accumulation of neutral mutations within their coding sequences (mainly in the third position of codons), in such a way that their DNAs are currently $1 5 \\%$ diverged (Ochman and Wilson 1987). This extent of sequence divergence represents a potent genetic barrier. However, it can be overcome by the removal of mismatch repair (Rayssiguier et al. 1989). In the same $1 0 0 -$ 150 million years, all mammalian species have evolved. The excess of dispersed non-coding DNA in mammalian chromosomes presumably permitted a much faster accumulation of neutral mutations than in the bacteria, which would establish genetic barriers initially at the level of meiotic sterility (as in mules and hinnies). Thus, neutral polymorphism may function as a genetic barrier that, at least to some extent, can be overcome by the inhibition of mismatch detection or repair systems during meiosis. ",
+        "bbox": [
+            515,
+            318,
+            924,
+            620
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements. We thank Dr. Christa Heyting for reviewing several versions of this paper. We have been privileged to quote unpublished results communicated to us by Drs. S. Roeder and M. Liskay (Yale University), G. Crouse and S. Jinks-Robertson (Emory University) as well as by our colleagues Isabelle Varlet and Niels de Wind. Published and unpublished work in our laboratory was supported by grants to M.R. from the C.N.R.S., I.N.S.E.R.M., A.R.C. and European Communities. R.W. was supported by the C.N.R.S. ",
+        "bbox": [
+            515,
+            633,
+            924,
+            743
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            775,
+            591,
+            788
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bianchi M, Radding CM (1983) Insertions, deletions and mismatches in heteroduplex DNA made by recA protein. Cell 35:511520   \nBollag RJ, Waldman AS, Liskay RM (1989) Homologous recombination in mammalian cells. Annu Rev Genet 23:199225   \nCarpenter ATC (1987) Gene conversion recombination nodules and the initiation of meiotic synopsis. BioEssays 6:232236   \nClaverys JP, Lacks SA (1986) Heteroduplex deoxyribonucleic acid base mismatch repair in bacteria. Microbiol Rev 50: 133165   \nDamagnez V, Doutriaux MP, Radman M (1989) Saturation of mismatch repair in the muntD5 mutator strain of Escherichia coli. J Bacteriol 171 :44944497   \nDorit RL, Schoenbach $\\mathbf { L } ,$ Gilbert W (1990) How big is the universe of exons? Science 250: 13771382   \nFeinstein SI, Low KB (1986) Hyper-recombining recipients strains in bacterial conjugation. Genetics 113 : 1333   \nFujii H, Shimada T (1989) Isolation and characterization of cDNA clones derived from divergently transcribed gene in the region upstream from human dihydrofolate reductase gene. J Biol Chem 264: 1005710064   \nGoldway M, Sherman A, Zenvirth D, Arbel T, Simchen G (1993) A short chromosomal region with major in yeast chromosome III meiotic disjunction, recombination and double strand break. Genetics 133:159169   \nHaber JE, Leung WY, Borts RH, Lichten M (1991) \"The frequency meiotic recombination in yeast is independent of the number and position of homologous donor sequences: implications for chromosome pairing\". Proc Natl Acad Sci USA 88:1120-1124   \nHawley RS (1988) Exchange and chromosomal segregation in Eucaryotes. In: Kucherlapati $\\mathbb { R } ,$ Smith GR (eds) Genetic recombination, pp 497527. American Society for Microbiology, Washington, DC   \nHawley RS, Arbel T (1993) Yeast genetics and the fall of the classical view of meiosis. Cell 72:301303   \nHolliday R (1964) A mechanism for gene conversion in fungi. Genet Res 5: 282304   \nHotta Y, Tabata S, Stern H (1984) Replication and nicking of zygotene DNA sequences. Control by a meiosis-specific protein. Chromosoma 90:243253   \nHsieh P, Camerini-Otero S, Camerini-Otero D (1992) The synapsis n in the homologous pairing  DNAs: RecA recognizes and pairs less than one helical repeat of DNA. Proc Natl Acad Sci USA 89:64926496   \nJones M, Wagner R, Radman M (1987) Mismatch repair and recombination in E. coli. Cell 50:621626   \nJorgensen R (1990) Altered gene expression in plants due to trans interactions between homologous genes. Trends Biotech 8: 340 344   \nKleckner N, Padmore R, Bishop DK (1991) Meiotic chromosome metabolism: one view. Cold Spring Harbor Symp Quant Biol 56 : 729743   \nKramer W. Kramer M, Williamson S, Fogel S (1989) Cloning and Saccharomyces cerevisiae: homology to procaryotic MutL and HexB. J Bacteriol 171 : 53395346   \nKricker MC, Drake JW, Radman M (1992) Duplication-targeted DNA methylation and mutagenesis in the evolution of eucaryotic chromosomes. Proc Natl Acad Sci USA 89:10751079   \nLichten M, Goyon C, Schultes NP, Tieco D, Szostak JW, Haber JE, Nicolas A (1990) Detection of heteroduplex. DNA molecules among the products of Saccharomyces cerevisiae meiosis. Proc Natl Acad Sci USA 87:76537657   \nLichten M, Fox M (1984) Evidence for inclusion of regions of non-homology in heteroduplex products of bacteriophage lambda recombination. Proc Natl Acad Sci USA 81 : 71807184   \nLundblad V, Kleckner N (1984) Mismatch repair mutations in E. coli enhance transposon excision. Genetics 109:319   \nJinks-Robertson S, Michelitch M (1993) Substrate length requirement for efficient mitotic recombination in yeast; Mol Cell Biol (in press)   \nMiret JJ, Milla MG, Lahue RS (1993) Characterisation of a DNA mismatch-binding activity in yeast extracts. J Biol Chem 268:35073513   \nModrich P (1991) Mechanisms and biological effects of mismatch repair. Annu Rev Genet 25:229253   \nNew L, Liu K, Crouse GF (1993) The yeast gene MSH3 defines a new class of eukaryotic MutS homologs. Mol Gen Genet (in press)   \nOchman H, Wilson AC (1987) Evolution in bacteria: evidence for a universal rate in cellular genomes. J Mol Evol 26:7486 Petes TD, Hill CW (1988) Recombination between repeated genes in microorganisms. Annu Rev Genet 22:147168 Petit MA, Dimpfl J, Radman M, Echols H (1991) Control of chromosomal rearrangements in $E$ coli by the mismatch repair system. Genetics 129: 327332 Radman M (1988) Mismatch repair and genetic recombination. In: Kucherlapati R, Smith GR (eds) Genetic recombination, pp 169192. American Society for Microbiology, Washington, DC Radman M (1989) Mismatch repair and the fidelity of genetic recombination. Genome 31:6873 Radman M (1991) Avoidance of inter-repeat recombination by sequence divergence and a mechanism of neutral evolution. Biochimie 73:357361 Radman M, Wagner R (1986) Mismatch repair in Escherichia coli. Annu Rev Genet 20: 523538 Rassoulzadegan M, Cuzin F, Radman M (1990) Progressive extinction and methylation of transgenes in the somatic tissues of transgenic mice. In: Abstract book of the Cold Spring Harbor meeting on mouse genetics, p 70 Rayssiguier C, Thaler DS, Radman M (1989) The barrier to recombination between Escherichia coli and Salmonella typhirium is disrupted in mismatch-repair mutants. Nature 342: 396401 Reenan RAG, Kolodner RD (1992a) Isolation and characterization of two Saccharomyces cerevisiae genes encoding homologs of the bacterial HexA and MutS mismatch repair proteins. Genetics 132:963-973 Reenan RAG, Kolodner RD (1992b) Characterization of insertion mutations in the Saccharomyces cerevisiae MSH1 and MSH2 genes: evidence for separate mitochondrial and nuclear functions. Genetics 132:975985 Resnick MA, Skaanild M, Nilsson-Tilgren T (1989) Lack of DNA homology DNA damage. Proc Natl Acad Sci USA 86:2276   \n2280 Rhounim L, Rossignol JL, Faugeron G (1992) Epimutation of repeated genes in Ascolobus immersus. EMBO J 11:4451-4457 Roeder GS (1990) Chromosome synapsis and genetic recombination: their roles in meiotic chromosomal segregation. Trends Genet 6: 385389 Schaaper RM, Radman M (1989) The extreme mutator effect of Escherichia coli mutD5 results from saturation of mismatch repair by excessive DNA replication errors. EMBO J 8:3511   \n3516 Schultes NP, Szostack JW (1990) Decreasing gradients of gene conversion in both sides of the initiation site for meiotic recombination at the ARGY locus in yeast. Genetics 126:813822 Selker EU (1990) Premeiotic instability of repeated sequences in Neurospora crassa. Annu Rev Genet 24:579613 Shar P, Kohli J (1993) Marker effects of G to C transversions on intragenic recombination and mismatch repair in Schizosaccharomyces pomble. Genetics 133: 825835 Shen P, Huang HV (1986) Homologous recombination in Escherichia coli: dependence on substrate length and homology. Genetics 112:441457 Shen P, Huang HV (1989) Effect of base pair mismatches on recombination via RecBCD pathway. Mol Gen Genet 218:358360 Shen JC, Rideout III WM, Jones PA (1992) High frequency mutagenesis by a DNA methyltransferase. Cell 71 : 10731080 Te Riele H, Mandaag, Berns A (1992) Highly efficient gene targeting in embryonic stem cells through homologous recombination with isogenic DNA constructs. Proc Natl Acad Sci USA   \n89:51285132 Voelker-Meiman K, Roeder SG (1990) Gene conversion tracts stimulated by HOTI-promoted transcription are long and continuous. Genetics 126:851867 West SC (1992) Enzymes and molecular mechanisms of genetic recombination. Annu Rev Biochem 61:603640 ",
+        "bbox": [
+            514,
+            803,
+            924,
+            949
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            54,
+            484,
+            927
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            56,
+            926,
+            908
+        ],
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,1052 @@
+[
+    {
+        "type": "text",
+        "text": "Rapid #: -26308054 ",
+        "text_level": 1,
+        "bbox": [
+            47,
+            92,
+            346,
+            119
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CROSS REF ID: 469919870009370 ",
+        "bbox": [
+            45,
+            142,
+            439,
+            162
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LENDER: ",
+        "bbox": [
+            47,
+            178,
+            148,
+            196
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZXY (University of Liege) : Main Library ",
+        "text_level": 1,
+        "bbox": [
+            243,
+            176,
+            681,
+            199
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BORROWER: ",
+        "bbox": [
+            47,
+            212,
+            192,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HR-ZAIRB (Znanstvene knjinice) :: HR-ZalRB ",
+        "bbox": [
+            241,
+            212,
+            740,
+            234
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TYPE: ",
+        "bbox": [
+            47,
+            248,
+            96,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article CC:CCL ",
+        "bbox": [
+            243,
+            248,
+            356,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JOURNAL TITLE: IARC scientific publications ",
+        "bbox": [
+            45,
+            272,
+            444,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JSER JOURNAL TITLE: IARC (International Agency for Research on Cancer) Scientific Publications ",
+        "bbox": [
+            53,
+            297,
+            792,
+            315
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE TITLE: ",
+        "bbox": [
+            45,
+            324,
+            171,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal events in carcinogenic initiation and promotion: implications for carcinogenicity esting and cancer prevention strategies ",
+        "bbox": [
+            248,
+            324,
+            919,
+            353
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLE AUTHOR: ",
+        "bbox": [
+            45,
+            361,
+            194,
+            377
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M Radman, A R Kinsella ",
+        "bbox": [
+            243,
+            362,
+            421,
+            377
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VOLUME: ",
+        "bbox": [
+            45,
+            387,
+            122,
+            402
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "27 ",
+        "bbox": [
+            241,
+            387,
+            264,
+            401
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ISSUE:",
+        "bbox": [
+            47,
+            412,
+            102,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MONTH: ",
+        "bbox": [
+            45,
+            438,
+            112,
+            453
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YEAR: ",
+        "bbox": [
+            47,
+            463,
+            98,
+            477
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1980   \n75-90   \n0300-5038 ",
+        "bbox": [
+            240,
+            462,
+            325,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ISSN: ",
+        "bbox": [
+            47,
+            513,
+            91,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OCLC #: ",
+        "bbox": [
+            47,
+            539,
+            112,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Processed by RapidX: 3/5/2026 2:50:58 AM ",
+        "bbox": [
+            45,
+            588,
+            398,
+            604
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CHROMOSOMAL EVENTS IN CARCINOGENIC INITIATION AND PROMOTION: IMPLICATIONS FOR CARCINOGENICITY TESTING AND CANCER PREVENTION STRATEGIES ",
+        "text_level": 1,
+        "bbox": [
+            545,
+            115,
+            927,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "M. RADMAN ",
+        "bbox": [
+            716,
+            237,
+            770,
+            254
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Department of Molecular Biology, Free University of Brussels, Rhode-St-Genèse, Belgium ",
+        "bbox": [
+            656,
+            269,
+            834,
+            324
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A.R. KINSELLA ",
+        "bbox": [
+            705,
+            354,
+            780,
+            372
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Paterson Laboratories, Christie Hospital and Holt Radium Institute, Withington, Manchester, UK ",
+        "bbox": [
+            616,
+            388,
+            861,
+            439
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "HYPOTHESES ",
+        "text_level": 1,
+        "bbox": [
+            715,
+            522,
+            773,
+            539
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "'Cancer epidemiology and experimental carcinogenesis have established that the carcinogenic process is multifactor in its causation and multistep in its development' (Weinstein, 1979). The two-stage mouse skin carcinogenesis system was defined in classical studies by Berenblum (1954); carcinogenic initiation and promotion have since been observed in several other organs and organisms and in cell culture systems (Kennedy et al., 1978 and references therein), and have been well reviewed by Ryser (1971), Boutwell (1974), Berenblum (1975) and Weinstein et al. (1979). Since initiation occurs rapidly and is 'memorized' as a latently premalignant state, which can be transformed into an irreversible malignancy by a tumour promoter (which is not carcinogenic for noninitiated cells), promotion appears to complete a process begun by initiators. Therefore, definition of the initiation and promotion processes is mutually dependent and complementary. ",
+        "bbox": [
+            537,
+            555,
+            944,
+            792
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The best studied and most powerful tumour promoter, 12-O-tetradecanoyl-phorbol-13-acetate (TPA), causes two distinct classes of events, both in vivo and in cell cultures: (i) early, reversible events and (ii) late, irreversible events. In vivo, TPA stimulates the growth of benign papillomas, which usually revert when TPA application is discontinued (Burns et al., 1978). In cell cultures, TPA causes the expression of multiple phenotypes that mimic cell transformation; these are all early, inducible and reversible upon removal of TPA (Weinstein et al., 1979). ",
+        "bbox": [
+            535,
+            800,
+            941,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            49,
+            70,
+            428,
+            156
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "'How a cellular response mechanism that is normally inductive is converted into one which is constitutive or autonomous, remains one of the major dilemmas in carcinogenesis' (Weinstein, 1979). Essentially, only two hypotheses have been presented. One, proposed by Berenblum in 1954 and elaborated recently by Weinstein et al. (1979) and by Cairns (1977), postulates that initiation involves an aberrant differentiation programme or a mutation in a nonexpressed gene, which remains dormant until the expression of relevant genes is induced by the promoting agent. In an alternative hypothesis proposed by Kinsella & Radman (1978), the initiating event results in a cell that carries specific recessive chromosomal mutational or epigenetic change(s), while tumour promoters and complete carcinogens cause their segregation to homozygosity or hemizygosity by inducing aberrant mitotic segregation events (e.g., mitotic recombination, nondisjunction and other chromosomal rearrangements) (Fig. 1). Obviously, the latter hypothesis applies to the late and irreversible step in tumour promotion. Tumour promotion is likely to be a complex phenomenon involving several qualitatively different steps (Boutwell, 1974). For example, the TPA-stimulated expansion of the pool of initiatec cells during the growth of benign papillomas (Burns et al., 1978) is also expected to increase the chance that one of them will eventually become malignant. ",
+        "bbox": [
+            50,
+            162,
+            464,
+            516
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "THE LATENT PERIOD IN CARCINOGENESIS ",
+        "text_level": 1,
+        "bbox": [
+            144,
+            549,
+            337,
+            566
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When humans and animals are exposed to moderate doses of a carcinogen, there is a long latent period (usually $1 / 4$ to l/3 of the life span) before the appearance of induced tumours (review by Cairns, 1978). Tumour promoters such as TPA shorten this latent period when applied to carcinogen-treated cells both in vivo and in cell cultures (Kennedy et al., 1978). Inhibitors of tumour promotion, such as the antiproteases (antipain, leupeptin) and the anti-inflammatory hormones, appear to inhibit the carcinogenic process or to prolong the latent period (Hozumi et al., 1972; Slaga et al., 1978).\" Understanding of the mechanism of latency and of tumour promotion at the cellular level [promotion and latency phenomena also exist in cell cultures (Kakunaga, 1977; Kennedy et al., 1978)] is of great practical interest, since artificial prolongation of the latent period would be a desirable method of cancer prevention. ",
+        "bbox": [
+            49,
+            581,
+            466,
+            801
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FIG. 1. SCHEMATIC REPRESENTATION OF THE 'TWO CHROMOSOMAL EVENTS' HYPOTHESIS ",
+        "text_level": 1,
+        "bbox": [
+            633,
+            85,
+            870,
+            121
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Carcinogenic initiation, step I, is postulated to be due to a recessive chromosomal (mutational or epigenetic) change (m). This change remains latent in diploid somatic cells until an aberrant mitotic segregation, i.e., chromosomal rearrangement, brings about a homozygous (m/m) or hemizygous $( { \\mathfrak { m } } / { \\mathfrak { o } } )$ state. The recessive premalignant character can now be expressed (promotion, step II), but the expression may require some additional (e.g., differentiational) events.  For the complete scheme, see Kinsella & Radman (1978). ",
+        "bbox": [
+            546,
+            127,
+            947,
+            265
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0968c25e1739d46f60d2b82f8e3d053d6bc036efa58b9278bc3a81461d0f6bb1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            696,
+            322,
+            839,
+            691
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure l illustrates a hypothesis that we first tested by examining the chromosomal effects of TPA. The most striking effect of TPA on V79 Chinese hamster cells was the induction of sister chromatid exchanges (SCEs) (Kinsella & Radman, 1978). This suggested an enhancement of cellular recombinational activity, since TPA is neither mutagenic nor binds to DNA (review by Weinstein et al., 1979). More extensive studies have revealed that TPA also causes the appearance of a specific class of chromosomal effects (centromeric), associations reminiscent of interchromosomall. This correlation between tumour-promoting and recombinational activities was reinforced by the finding that $4 { - } O \\cdot$ -methyl-TPA, a nonpromoter, was inactive and that inhibitors of promotion (antipain, leupeptin, fluocinolone acetonide) inhibited the SCE-inducing effect of TPA (Kinsella & Radman, 1978). These results were confirmed with ${ \\tt C } 3 { \\tt H } 1 0 \\mathbb { T } _ { 2 } ^ { 1 }$ mouse fibroblast cells; moreover, an excellent correlation was found between the antipain-inhibited, SCE-inducing effect of X-rays and TPA and malignant transformation in cell culture (Nagasawa & Little, 1979). Both TPA and X-rays seemed to induce a class of SCEs that was inhibited by antipain, an inhibitor of X-ray-induced oncogenic transformation (Kennedy & Little, 1978). ",
+        "bbox": [
+            548,
+            801,
+            955,
+            906
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            44,
+            59,
+            454,
+            279
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If, as speculated by Peto et al. (1975) and Kinsella & Radman (1978), a complete carcinogen must provoke sequentially mutational (or epigenetic) events related to initiation and the chromosomal rearrangements related to promotion (Fig. l), one would expect antipain, as an inhibitor of complete carcinogenesis (Kennedy & Little, 1978), to inhibit carcinogen-induced mutagenesis and/or chromosomal rearrangements. We found that antipain inhibited all classes of $ { \\mathcal { V } }$ -nitroso-N-methyl-N'-nitroguanidine (MNNG)- induced chromosomal aberrations in V79 cell cultures but had no effect on either MNNG-induced mutagenesis to 6-thioguanine-resistance or MNNGinduced SCEs (Kinsella & Radman, 1980; Radman et al., 1979; Tables 1 & 2). ",
+        "bbox": [
+            44,
+            294,
+            455,
+            480
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This finding suggests that MNNG (or, more likely, MNNG-induced DNA lesions) causes the induction of a cellular process that is responsible for the creation of chromosomal aberrations and that happens to be inhibited by antipain. Furthermore, chromosomal rearrangement(s) is probably a rate-limiting step in carcinogenesis, while mutagenesis, if required, is probably not sufficient for carcinogenesis. ",
+        "bbox": [
+            44,
+            486,
+            440,
+            589
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "COMPARISON OF THE CHROMOSOMAL EVENTS INDUCED BY CARCINOGENIC AGENTSIN NORMAL CELLS AND SPONTANEOUS CHROMOSOMAL EVENTSIN HUMAN CANCER-PRONE DISEASES",
+        "text_level": 1,
+        "bbox": [
+            58,
+            620,
+            431,
+            673
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows all of the observed classes of exchange-type aberrations, so-called quadriradial (QR) and triradial (TR) chromosomes, that have resulted either from carcinogen treatment of normal human and animal cells or from human, cancer-prone, hereditary diseases. Bloom's syndrome causes mostly type I QR exchanges, corresponding to reciprocal mitotic crossing-over among homologous chromosomes, as well as an appreciable amount of other QR forms (Schroeder & German, 1974). ",
+        "bbox": [
+            43,
+            689,
+            455,
+            808
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/58aa9183606afa99a6de97751785b67c1ad2dff63da7a04767d4534bc10003d6.jpg",
+        "table_caption": [
+            "Table l. Time course of the appearance of exchange-type aberrations induced by 0.5 μg/ml N-nitroso-N-methyl-N'-nitroguanidine (MNNG) in V79 cells and their inhibition in the presence of 1 mM antipaina "
+        ],
+        "table_footnote": [
+            "a v79-4 Chinese hamster lug fibroblasts were grown in Dulbecco's modification of Eagle's mim, supplemented with l0% fetal bovine serum and treated for sister chromatid exchanges (not shown) and chromosomal aberration analyses as described previously (Kinsella & Radman, 1978). MNNG was added from a  mg/ml solution in concentrated acetate buffer pH 5. Antipain was a gift of Drs T. Sugimura, National Cancer Research Center, Tokyo, and W. Troll, New York University. Antipain inhibition of MNNG-induced chromosomal aberrations was more efficient in other experiments (Kinsella & Radman, 1980; Radman et al., 1979). QR - quadriradial chromosomes; TR - triradial chromosomes "
+        ],
+        "bbox": [
+            545,
+            143,
+            920,
+            330
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b111b476819adaeef544d7f2186ef983f29ad53511a76468a1eff61c4c728a1c.jpg",
+        "table_caption": [
+            "Table 2. Antipain does not inhibit mutagenesis towards 6-thioguanine resistance induced by $N \\cdot$ -nitroso- $\\cdot \\mathcal { N } \\cdot$ -methyl- $. 7 7 ^ { 1 }$ -nitroguanidine (MNNG) in V79 cells. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            598,
+            516,
+            887,
+            741
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "I When added, antipain was present for the entire treatment and expression period. ",
+        "bbox": [
+            549,
+            756,
+            899,
+            792
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6-Thioguanine-resitant $( 6 7 6 ^ { 7 } )$ clones were selected in 1 ug/ml 6TG plates seeded (6TG.) with $4 \\times 1 0 ^ { 4 }$ treated cells per plate. ",
+        "bbox": [
+            551,
+            795,
+            929,
+            837
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "C Quantitation of the frequency of MNNG-induced $6 \\mathsf { { T G } ^ { R } }$ mutants was performed essentially as described by Myhr & Di Paolo (l975), involving cell dispersion during an expression period of 200 hrs prior to selection in 6TG. ",
+        "bbox": [
+            548,
+            842,
+            957,
+            912
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FIG. 2. VARIOUS CLASSES OF CHROMATID INTERCHANGESOBSERVED IN CARCINOGEN-TREATED NORMAL HUMAN AND ANIMAL CELLSAND AS SPONTANEOUS EVENTS IN SEVERAL HUMAN CANCER-PRONE SYNDROMES",
+        "text_level": 1,
+        "bbox": [
+            64,
+            71,
+            428,
+            124
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The order of genes is indicated by an alphabetic sequence. Bloom's syndrome causes predominantly class I quadriradial (QR) chromosomes, while Fanconi's anaemia causes those of class V, VI and VII. About 90% of exchanges in V79 cells induced by N-nitroso-N-methyl-N'-nitroguanidine are types $\\mathsf { V }$ -VII. The scheme indicates chromosomal aberrations resulting from the segregation of chromatids from QR and triradial (TR) chromosomes. ",
+        "bbox": [
+            44,
+            131,
+            429,
+            251
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/fa733fafcc842b2757ff0388d9594adf7be1f58c1e7be8e672f7a4066320b6da.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            101,
+            269,
+            383,
+            904
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Fanconi's anaemia causes predominantly QR chromosome types V, VI and VII, i.e., translocations among nonhomologous chromosomes (Schroeder & German, 1974). It is striking that MNNG caused a Fanconi's anaemia pattern of QR chromosomes; thus, about $9 0 \\%$ were exchanges among nonhomologues (Fig. 3). TPA caused chromosomal associations in or near the centromere of both homologous and nonhomologous chromosomes (Fig. 4). ",
+        "bbox": [
+            553,
+            65,
+            959,
+            168
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FIG. 3. A CLASS VI QUADRIRADIAL (QR) CHROMOSOME INDUCED BY N-NITROSO-N-METHYL-N'-NITROGUANIDINE WHICH IS A TRANSLOCATION AMONG NONHOMOLOGOUS CHROMOSOMES ",
+        "text_level": 1,
+        "bbox": [
+            599,
+            205,
+            912,
+            258
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e35d69b658ab9f0687bc53b540eccda27e20b8ceab447e939898a785c59e57d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            610,
+            274,
+            911,
+            728
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the light of our hypothesis (Fig. l), both Bloom's syndrome and Fanconi's anaemia would appear to be constitutive in the second step (chromosomal rearrangement) of the carcinogenic process. Fanconi's anaemia, as well as ataxia telangiectasia, may in addition be constitutive for deletion type mutagenesis, which is perhaps related to the first, mutagenic, event. It is important to stress that at least three cancer-prone human syndromes show spontaneous chromosomal rearrangements analogous to those induced in normal cells by carcinogenic agents (Shaw & Cohen, 1965; Therman & Meyer Kuhn, 1976). ",
+        "bbox": [
+            558,
+            753,
+            977,
+            909
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "FIG. 4. AN EXAMPLE OF TWO TYPICAL CENTROMERIC ASSOCIATIONS INDUCED BY 12-0-TETRADECANOYL-PHORBOL-13-ACETATE (TPA) ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            71,
+            407,
+            107
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "These are the predominant TPA-induced chromosomal effects. True centromeric quadriradial (QR) chromosomes may also be induced at low frequencies (M. Pouls, A.R. Kinsella, P. Jeggo and M. Radman, unpublished data). ",
+        "bbox": [
+            39,
+            115,
+            444,
+            184
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/31e7cce585a9999e2f4573fd3544ce0634602e6da4965c031fae532234542b10.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            103,
+            205,
+            387,
+            625
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "ON THE ORIGIN AND GENETIC CONTROL OF CHROMOSOMAL ABERRATIONS: A HYPOTHESIS ",
+        "bbox": [
+            71,
+            661,
+            411,
+            695
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our finding that antipain inhibits simultaneously MNNG-induced exchange-type aberrations (QR and TR chromosomes) and all other aberrations is consistent with the hypothesis that all chromosomal aberrations result from intra- and interchromosomal recombinations. Figure 2 illustrates the observation that, indeed, most if not all chromosomal aberrations can be derived from the segregated QR and TR chromosomes. If the latter, exchange-type aberrations were the precursors of other aberrations, then one would expect that following the administration of an inducing agent, the QR and TR chromosomes would appear before dicentrics and other aberrations. This prediction has yet to be tested, although two recently published papers showed exactly this pattern in the case of X-ray-induced aberrations (van Buul et al., 1978; Tanzarella et al., 1979). ",
+        "bbox": [
+            39,
+            712,
+            445,
+            932
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The hypothesis that chromosomal aberrations arise as a result of DNA damage-stimulated induction of recombinational activity has support from tests in lower eukaryotes, yeast and Ustilago, in which the effect of radiation-induced mitotic recombination enzymes has been clearly demonstrated (Fabre & Roman, 1977; Holliday, 1975). On the basis of the results shown in Table 1, we postulate that, as in lower eukaryotes, mammalian cells possess genetic control of mitotic recombination and other chromosomal rearrangements and that DNA damage triggers the activation of recombination enzymes. Consequently, Bloom's syndrome, Fanconi's anaemia and ataxia telangiectasia are human somatic hyperrecombination mutants affecting different pathways or mechanisms of chromosomal rearrangements. ",
+        "bbox": [
+            550,
+            71,
+            952,
+            271
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "IMPLICATIONS FOR CARCINOGENICITY TESTING STRATEGIES ",
+        "text_level": 1,
+        "bbox": [
+            610,
+            305,
+            896,
+            322
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Figure 5 illustrates in a qualitative, schematic fashion the 'two chromosomal events' hypothesis in relation to the mutagenic and recombinogenic potencies of various carcinogens. The ordinate gives 'mutagenesis', which is a reasonable but not exclusive assumption for the mechanism of carcinogenic initiation. In favour of the mutation hypothesis is socalled 'organ-specific' carcinogenesis, in which nonrepair of a specific, well-known mutagenic DNA lesion ( $O ^ { 6 }$ -alkylguanine) correlates with carcinogenesis (Rajewsky et al., 1977). ",
+        "bbox": [
+            549,
+            338,
+            970,
+            474
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Another reason for postulating mutagenesis as the initiating event is the challenging, testable prediction that direct mutagens such as suitable base analogues and ethylmethane sulfonate (EMs) might be almost pure initiators, i.e., promotion-dependent carcinogens. ",
+        "bbox": [
+            549,
+            482,
+            960,
+            549
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The abscissa gives 'chromosomal rearrangements'; by this is meant any mechanism of aberrant mitotic segregation, which we equate with tumour promotion (again, to challenge experimental tests). Hence, a mutagen with no chromosomal effects would be a pure initiator, whereas a nonmutagen that induces chromosomal rearrangements (e.g., TPA) would be a pure promoter. Arrows indicate increasing doses of the agent, while the interrupted line indicates relative mutagenic versus chromosomal aberration effects, as estimated from the literature, numerous personal communications and our own experience. The area in which we predict that potent carcinogens will lie is that which is the least rate-limiting for either of the two effects. We place Bloom's syndrome as a promotion constitutive human mutant (Kinsella & Radman, 1978); this is also true for Fanconi's anaemia, which, on the other hand, could be active in producing deletion mutagenesis, possibly contributing to the initiation process as well. Xeroderma pigmentosum, involving a defect in the repair of ultra-violet (UV)- induced pyrimidine dimers, is both hypermutable by Uv light and shows excess UV-induced chromosomal events (Mc Cormick & Maher, 1978; Wolff, 1978). ",
+        "bbox": [
+            548,
+            556,
+            967,
+            859
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We hope that this deliberately simplified diagram (Fig. 5) provides a clear framework for experimental tests: 'false positives' in various ",
+        "bbox": [
+            547,
+            868,
+            942,
+            903
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FIG. 5. A QUALITATIVE ILLUSTRATION OF THE MUTAGENIC VERSUS CHROMOSOMAL REARRANGEMENT EFFECTS OF VARIOUS AGENTS ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            65,
+            406,
+            101
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Arrows indicate increasing doses of the agent (x.P. - xeroderma pigmentosum; UV - ultra-violet radiation; Bloom's - Bloom's syndrome; FA- Fanconi's anaemia; EMS - ethylmethane sulfonate; mit. C - mitomycin C; TPA - 12-O-tetradecanoyl-phorbol-13-acetate) ",
+        "bbox": [
+            36,
+            107,
+            432,
+            177
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7bb58ae1567897cd8e490432854a9e2822852f740f14bef35976d9d488bf8fc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            109,
+            204,
+            399,
+            574
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "mutagenicity tests might simply be pure initiators and must therefore be tested in conjunction with a promoting treatment; 'false negatives' in mutagenicity tests might be 'pure promoters', such as TPA, which are nevertheless active in causing chromosomal events (Kinsella & Radman, 1978; and unpublished observations in our laboratory). X-Rays appear to be close to promoters in this mechanistic diagram, and, indeed, epidemiologists have suggested that X-rays act essentially as promoters (Peto, 1977). The diagram in Figure 5 invites comparative quantitative studies of the dose-effect relationships for mutagenesis and chromosomal rearrangements for several classes of agents of different carcinogenic potencies, similar to the study of Carrano et al. (1978) relating mutagenesis to SCEs. ",
+        "bbox": [
+            37,
+            611,
+            443,
+            815
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PROLONGATION OF THE LATENT PERIOD AS A POSSIBILITY FOR CANCER PREVENTION? ",
+        "text_level": 1,
+        "bbox": [
+            640,
+            90,
+            859,
+            126
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have established that the mutagenic effect of potent carcinogens in bacteria is under genetic control and that it is an inducible mechanism: the SOs repair phenomenon (Caillet-Fauquet et al., 1977; Radman, 1974; Radman et al., 1977; Witkin, 1976). Evidence is accumulating in favour of the SOs-induction mechanism in mammalian cells (Das Gupta & Summers, 1978, and references therein). We have presented here some indirect evidence that carcinogen-induced chromsomal rearrangements are also caused by the induction or activation of recombination enzymes. Most significant is that the inhibitor of this induction, antipain, appears to be a known inhibitor of induced carcinogenesis. ",
+        "bbox": [
+            546,
+            141,
+            948,
+            326
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hence, if indeed both carcinogen-induced mutagenesis and chromosomal rearrangements are inducible processes, then they are also preventable, and it would be a matter of luck to find suitable inhibitors (e.g., among protease inhibitors, anti-inflammatory agents, retinoids, etc.) which would abolish either initiation or promotion. ",
+        "bbox": [
+            547,
+            333,
+            948,
+            418
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Elucidation of the role of mutagenesis in carcinogenesis would be facilitated by the discovery of an inhibitor reciprocal to antipain, i.e. an inhibitor of mutagenesis but not of chromosomal rearrangements, and by investigation of whether such an agent is also an inhibitor of carcinogenesis. Both the specific antipain inhibition of chromosomal rearrangements (Table l) and the spontaneous chromosomal rearrangements seen in several human cancer-prone syndromes, as well as the conspicuous lack of reported spontaneous mutator mutants among human cancer-prone diseases, point to a certain role of chromosomal rearrangements in carcinogenesis and a yet-to-be-tested involvement of mutagenesis. In the meantime, screening for nontoxic agents which act in simple tests (see Table l) as inhibitors of chromosomal rearrangements could perhaps bring to reality the medical fiction of the 'anti-cancer preventive pill', which would act to prolong the latent period in carcinogenesis. This medical fiction approach could become a complementary alternative to current cancer prevention strategy (i.e., elimination of carcinogens from our environment), in particular for high-risk situations such as occupational and medical exposures to carcinogenic radiations and drugs. ",
+        "bbox": [
+            546,
+            425,
+            954,
+            730
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/237fc9873cb1d712836d3a3f7bfbdebe521e2020aeafbb9d1313b011d80583c7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            221,
+            73,
+            341,
+            191
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We have provided experimental evidence in favour of the hypothesis that carcinogenesis is triggered by at least two chromosomal events, which must occur in a single diploid somatic cell in a specific time sequence: (i) specific recessive mutational or epigenetic chromosomal change(s) resulting in a heterozygous $( \\mathfrak { m } / . { + } )$ , latently premalignant state (initiation); this must be followed by (ii) a chromosomal rearrangement involving the affected locus, and leading to homozygosity $\\left( \\mathfrak { m } / \\mathfrak { m } \\right)$ or hemizygosity $\\left( \\mathfrak { m } / \\mathfrak { o } \\right)$ , and subsequent expression of the recessive malignant character (promotion). ",
+        "bbox": [
+            46,
+            204,
+            441,
+            355
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The complete carcinogen, MNNG, induced mutations (6-thioguanineresistance), chromosomal rearrangements and SCEs in V79 Chinese hamster cells. TPA, a potent tumour promoter, induced only SCEs and specific chromosomal effects. Antipain, a protease inhibitor and a known inhibitor of both carcinogenesis and tumour promotion, inhibited only the MNNG-induced chromosomal rearrangements (but not mutagenesis and SCEs) and the TPA-induced chromosomal events. ",
+        "bbox": [
+            46,
+            361,
+            426,
+            480
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "These results suggest that (1) both TPA-induced and MNNG-induced chromosomal'rearrangements are caused by the activation or induction of mitotic recombination and hence appear to be preventable; (2) chromosomal rearrangement is a rate-limiting step in carcinogenesis; and (3) if mutagenesis is involved in carcinogenesis, it is probably not sufficient. The existence of the human cancerprone syndromes, Bloom's, Fanconi's anaemia and ataxia telangiectasia, which involve spontaneous chromosomal rearrangements analogous to those induced by carcinogens in normal cells, strongly supports our hypothesis that carcinogenesis involves two chromosomal events. We discuss the implications of this work to carcinogenicity testing and cancer prevention strategies. ",
+        "bbox": [
+            46,
+            488,
+            436,
+            692
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank Ms S. Osborn and Mr R. Legas for their assistance,   \nProfessor M. Errera for encouragement and research facilities, Professor T. Schroeder for discussion on quadriradials, and the U.S.-Japan Cooperative Cancer Research Program for the gift of antipain. ",
+        "bbox": [
+            573,
+            198,
+            922,
+            283
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Part of this work was done while A.R.K. was holding a Royal Society Fellowship. This work was supported by Euratom, Université Libre de Bruxelles research contract 224-76-1 BI0 B, by Fonds Cancérologique of the Caisse Générale d'Epargne et de Retraite of Belgium and by a grant-in-aid from IARC, Lyon, France. ",
+        "bbox": [
+            580,
+            290,
+            911,
+            393
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            716,
+            474,
+            774,
+            492
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Berenblum, I. (1954) Carcinogenesis and tumor pathogenesis. Adv. Cancer Res., 2, 129-175   \nBerenblum, I. (1975) Sequential aspects of chemical carcinogenesis. In: Becker, F.F., ed., Cancer: A Comprehensive Treatise, Vol. 1, New York, Plenum Press, Pp. 323-344   \nBoutwell, R.K. (1974) The function and mechanism of promoters of carcinogenesis. Crit. Rev. Toxicol., 2, 419-443   \nBurns, F.J., Vanderlaan, M., Snyder, E. & Albert, R.E. (1978) Induction and progression kinetics of mouse skin papillomas. In: Slaga, T.J., Sival, A. & Boutwell, R.K., eds, Carcinogenesis, A Comprehensive Survey, Vol. 2, Mechanisms of Tumor Promotion and Cocarcinogenesis, New York, Raven Press, pp. 9l-96   \nvan Buul, P.P.W., Ricordy, R., Spirito, F. & Tates, A.D. (1978) The symmetry of radiation-induced chromatid exchanges in relation to the cell cycle in Chinese hamster cells in vivo and in vitro. Mutat. Res., 50, 377-382   \nCaillet-Fauquet, P., Defais, M. & Radman, M. (1977) Molecular mechanisms of induced mutagenesis. I. Replication in vivo of bacteriophage ØXl74 single-stranded UV light irradiated DNA in intact and irradiated host cells. J. mol. Biol., 117, 95-112   \nCairns, J. (1977) Some thoughts about cancer research in lieu of a surmary. In: Hiatt, H.H., Watson, J.D. & Winsten, J.A., eds, Origins of Human Cancer, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, pp. 1813-1820   \nCairns, J. (1978) Cancer: Science and Society, San Francisco, W.H. Freeman   \nCarrano, A.V., Thompson, L.H., Lindl, P.A. & Minkler, J.L. (1978) Sister chromatid exchange as an indicator of mutagenesis. Nature, 271, 551-553   \nDas Gupta, U.B. & Summers, W.C. (1978) Ultraviolet reactivation of herpes simplex virus is mutagenic and inducible in mammalian cells. Proc. natl Acad. Sci. USA, 75, 2378-2382   \nFabre, F. & Roman, H. (1977) Genetic evidence for inducibility of recombination competence in yeast. Proc. natl Acad. Sci. USA, 74, 1667-1671   \nHolliday, R. (1975) Further evidence for an inducible recombination repair in Ustilago maydis. Mutat. Res., 29, 149-155   \nHozumi, M., Ogawa, M., Sugimura, T., Takeuchi, T. & Umezawa, H. (1972) Inhibition of tumorigenesis in mouse skin by leupeptin, a protease inhibitor from actinomycetis. Cancer Res., 32, 1725-1728   \nKakunaga, T. (1977) The transformation of human diploid cells by chemical carcinogens. In: Hiatt, H.H., Watson, J.D. &Winsten, J.A., eds, Origins of Human Cancer, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, pp. 1537-1548   \nKennedy, A.R. & Little, J.B. (1978) Protease inhibitors suppress radiation-induced malignant transformation in vitro. Nature, 276,·825-826   \nKennedy, A.R., Mondal, S., Heidelberger, C. & Little, J.B. (1978) Enhancement of X-ray transformation by 12-O-tetradecanoyl-phorbol13-acetate in a cloned line of C3H mouse embryo cells. Cancer Res., 38, 439-443   \nKinsella, A.R. & Radman, M. (1978) Tumor promoter induces sister chromatid exchanges: relevance to mechanisms of carcinogenesis. Proc. natl Acad. Sci. USA, 75, 6149-6153   \nKinsella, A.R. & Radman, M. (1980) Inhibition of carcinogen-induced chromosomal aberrations by an anticarcinogenic protease inhibitor. Proc. natl Acad. Sci. USA (in press)   \nMc Cormick, J.J. & Maher, V.M. (1978) Mammalian cell mutagenesis as a biological consequence of DNA damage. In: Hanawalt, P.C., Friedberg, E.C. & Fox, C.F., eds, DNA Repair Mechanisms, New York, Academic Press, pp. 739-749   \nMyhr, B.C. & Di Paolo, J.A. (1975) Requirement for cell dispersion prior to selection of induced azaguanine-resistant colonies of Chinese hamster cells. Genetics, 80, 157-169   \nNagasawa, H. & Little, J.B. (1979) Effect of tumor promoters, protease inhibitors and repair processes on X-ray-induced sister chromatid exchanges in mouse cells. Proc. natl Acad. Sci. USA, 76, 1943-1947   \nPeto, R. (1977) Epidemiology, multistage models and short-term mutagenicity tests.  In: Hiatt, H.H., Watson, J.D. & Winsten, J.A., eds, Origins of Human Cancer, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, pp. 1403-1428   \nPeto, R., Roe, F.J.C., Lee, P.N., Levy, L. & Clack, J. (1975) Ageing and cancer in mice and men. Br. J. Cancer, 32, 421-426   \nRadman, M. (1974) Phenomenology of an inducible mutagenic DNA repair pathway in E. coli: SOS repair hypothesis.  In: Prakash, L., Sherman, F., Miller, M.W., Lawrence, C.W. & Taber, H.W., eds, Molecular and Environmental Aspects of Mutagenesis, Springfield, IL, C.C. Thomas, Pp. 128-142   \nRadman, M., Villani, G., Boiteux, S., Defais, M., Caillet-Fauquet, P. & Spadari, S. (1977). On the mechanism and genetic control of mutagenesis induced by carcinogenic mutagens. In: Hiatt, H.H., Watson, J.D. & Winsten, J.A., eds, Origins of Human Cancer, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, Pp. 903-922   \nRadman, M., Villani, G., Boiteux, S., Kinsella, A.R., Glickman, B.W. & Spadari, S. (1979) Replicational fidelity: mechanisms of mutation avoidance and mutation fixation. Cold Spring Harbor Symp. Quant. Biol., 43 (in press)   \nRajewsky, M.F., Augenlicht, L.H., Biessman, H., Goth, R., Hülser, D.F., Laerum, 0.D. & Lomakina, L.Y. (1977) Nervous-system-specific carcinogenesis by ethylnitrosourea in the rat: molecular and cellular aspects. In: Hiatt, H.H., Watson, J.D. & WinstEn, J.A., eds, Origins of Human Cancer, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, pp. 709-726   \nRyser, H.J. (1971) Chemical carcinogenesis. New Engl. J. Med., 285, 721-731   \nSchroeder, T.M. & German, J. (1974) Bloom's syndrome and Fanconi's anemia: demonstration of two distinctive patterns of chromosome disruption and rearrangement. Humangenetik, 25, 299-306   \nShaw, M.W. & Cohen, M.M. (1965) Chromosome exchanges in human leukocytes induced by mitomycin C. Genetics, 51, 181-190   \nSlaga, T.J., Fischer, S.M., Viaje, A., Berry, D.L., Bracken, W.M., Le Clerc, S. & Miller, R.J. (1978) Inhibition of tumor promotion by antiinflammatory agents: an approach to the biochemical mechanism of promotion. In: Slaga, T.J., Sivall, A. & Boutwell, R.K., eds, Carcinogenesis, A Comprehensive Survey, Vol. 2, Mechanisms of Tumor Promotion and Cocarcinogenesis, New York, Raven Press, pp. 173-195 .   \nTanzarella, C., Modesti, A., de Silva, R. & Vitagliano, E. (1979) Variation of the symmetrical/asymmetrical ratio in chromatid interchanges during the various phases of the cell cycle of human lymphocytes 'in vitro'. Mutat. Res., 59, 135-138   \nTherman, E. & Meyer Kuhn, E. (1976) Cytological demonstration of mitotic crossing-over in man. Cytogenet. Cell Genet., 17, 254-267   \nWeinstein, I.B. (1979) Cell regulation and cancer. Differentiation (in press)   \nWeinstein, I.B., Yamasaki, H., Wigler, M., Lee, L.-S., Fisher, P., Jeffrey, A. & Grunberger, D. (1979) Molecular and cellular events associated with the action of initiating carcinogens and tumor promoters. In: Griffin, A.C. & Show, C.R., eds, Carcinogens: Identification and Mechanisms of Action, New York, Raven Press, pp. 399-418   \nWitkin, E.M. (1976) Ultraviolet mutagenesis and inducible DNA repair in Escherichia coli. Bacteriol. Rev., 40, 869-907   \nWolff, s. (1978) Relationship between DNA repair, chromosome aberrations and sister chromatid exchanges. In: Hanawalt, P.C., Friedberg, E.C. & Fox, C.F., eds, DNA Repair Mechanisms, New York, Academic Press, pp. 751-760 ",
+        "bbox": [
+            544,
+            521,
+            936,
+            907
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            46,
+            60,
+            441,
+            925
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            546,
+            60,
+            951,
+            881
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            47,
+            70,
+            446,
+            447
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REVERSIBLE INHIBITION OF CELL DIFFERENTIATION BY PHORBOL ESTERS AS A POSSIBLE MECHANISM OF THE PROMOTION STEP IN CHEMICAL CARCINOGENESIS ",
+        "text_level": 1,
+        "bbox": [
+            577,
+            127,
+            927,
+            187
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "H. YAMASAKI ",
+        "bbox": [
+            724,
+            249,
+            788,
+            266
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Unit of Chemical Carcinogenesis, International Agency for Research on Cancer, Lyon, France ",
+        "bbox": [
+            636,
+            282,
+            880,
+            335
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            725,
+            416,
+            793,
+            433
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Animal experiments on chemical carcinogenesis indicate that the cause of cancer is usually multifactorial and multistep. There is increasing evidence that human carcinogenesis processes, for example, lung cancer associated with cigarette smoking, are also multistep (Armitage & Doll, 1961; Peto, 1977). The best defined system for multistage carcinogenesis is the mouse skin, in which one can clearly see at least two distinct phases during chemical carcinogenesis: initiation and promotion (for review see Berenblum, 1954a, 1975; Boutwel1, 1974; Hecker, 1971, 1975; Van Duuren, 1969); this is presented schematically in Table 1. These two steps can be elicited by different groups of compounds (e.g., polycyclic hydrocarbons act as initiators and phorbol esters as promoters on mouse skin), and it seems that an independent mechanism is involved for each step. Recently, two-stage malignant cell transformation has also been reported in several cell culture systems (Lasne et al., 1974; Mondal et al., 1976; Poiley et al., 1979). ",
+        "bbox": [
+            558,
+            450,
+            966,
+            703
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Study of the mechanism of action of initiators has made significant progress during the last decade, mainly because the fact that they are complete carcinogens, acting by thenselves, drew the attention of investigators. Owing, to such studies (see Ames & McCann, 1976; Sugimura et al., 1976)1, it is now well established that most carcinogens (initiators in two-stage carcinogenesis) are mutagenic; it is therefore proposed that somatic mutation is involved in chemical carcinogenesis, at least in its initial phase. ",
+        "bbox": [
+            558,
+            711,
+            964,
+            847
+        ],
+        "page_idx": 9
+    }
+]

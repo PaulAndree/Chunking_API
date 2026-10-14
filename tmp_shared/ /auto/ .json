@@ -1,0 +1,13 @@
+[
+    {
+        "type": "text",
+        "text": "This is the test. ",
+        "bbox": [
+            116,
+            92,
+            225,
+            106
+        ],
+        "page_idx": 0
+    }
+]

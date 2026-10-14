@@ -1,0 +1,291 @@
+[
+    {
+        "type": "text",
+        "text": "Role of mutator alleles in adaptive evolution ",
+        "text_level": 1,
+        "bbox": [
+            63,
+            81,
+            401,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "F. Taddei\\*#, M. Radman\\*, J. Maynard-Smith†, B. Toupance‡, P. H. Gouyon‡ & B. Godelle‡§ ",
+        "bbox": [
+            63,
+            139,
+            403,
+            167
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\\* Laboratoire de Mutagene\\`se, Institut J. Monod, CNRS Universite´ Paris 7,   \n2 Place Jussieu, 75251 Paris, France   \n† University of Sussex, Microbial Genetics Group, School of Biological Sciences,   \nFalmer, Brighton BN1 9QG, UK   \n‡ Universite´ de Paris-Sud CNRS, Laboratoire E´volution et Syste´matique,   \nBat. 362 F91405 Orsay cedex, France   \n$\\ S$ Institut National Agronomique Paris-Grignon, 16 rue Claude Bernard,   \n75005 Paris and # Ecole Nationale du Ge´nie Rural, des Eaux et des Foreˆts,   \n19 avenue du Maine, 75732 Paris, France ",
+        "bbox": [
+            63,
+            171,
+            473,
+            284
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Because most newly arising mutations are neutral or deleterious, it has been argued1–3 that the mutation rate has evolved to be as low as possible, limited only by the cost of error-avoidance and error-correction mechanisms. But up to one per cent of natural bacterial isolates are ‘mutator’ clones that have high mutation rates4–6. We consider here whether high mutation rates might play an important role in adaptive evolution. Models of large, asexual, clonal populations adapting to a new environment show that strong mutator genes (such as those that increase mutation rates by 1,000-fold) can accelerate adaptation, even if the mutator gene remains at a very low frequency (for example, $1 0 ^ { - 5 }$ ). Less potent mutators (10 to 100-fold increase) can become fixed in a fraction of finite populations. The parameters of the model have been set to values typical for Escherichia coli cultures, which behave in a manner similar to the model in long-term adaptation experiments7 . ",
+        "bbox": [
+            63,
+            302,
+            484,
+            515
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Early models of the evolution of the mutation rate were based on group selection for an optimal compromise between adaptability and adaptedness2,3. However, later models, incorporating mutators and antimutators (modifiers of the mutation rate) showed that a mutator can reduce individual fitness while increasing the probability for an adaptive mutation to appear in the population. The prediction of these models was that a minimal mutation rate would be selected in a stable environment (reduction principle8 ), whereas in an oscillating environment, infinite populations at equilibrium could have a non-minimal mutation rate3,9,10. ",
+        "bbox": [
+            63,
+            517,
+            484,
+            650
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, most of evolution may take place with the population being far from equilibrium, with organisms facing an ever-changing environment11, a situation that favours a non-minimal mutation rate12–14. Previous studies did not consider the effects of random drift. In fact, finite population size with moderate mutation rates maintains favourable mutants at such low frequencies that they are absent in many natural populations. Experiments with Escherichia coli held for many generations in a chemostat lead to a paradoxical unpredicted outcome: a mutator allele (monitored by the use of a linked selectable marker) increased in frequency when abundant but decreased in frequency when rare15–19. The present work targets the difference between finite and infinite populations under directional selection. Our model uses mutation rates typical for E. coli (see Fig. 1 for a general overview and Methods for details), using the large amount of mutagenesis data available for this organism (see refs 1, 20). ",
+        "bbox": [
+            63,
+            650,
+            484,
+            678
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c63fa4ff7445b087cbe9be2d69eae76cefd7c38e9c4cea98c59d942509a33fd.jpg",
+        "image_caption": [
+            "Figure 2 Mutators speed up evolution even when they are not fixed in infinite populations. Major effect mutators remain at very low frequency (a) but allow rapid fitness increase of the whole population (b) thanks to reversion to nonmutator genotypes associated with favourable mutations. a, Evolution of the frequency of mutator genotypes. Intermediate strength mutators become fixed, and then disappear from the population when all favourable mutations are fixed (an arrow symbolizes the time when relative fitness has reached 0.99, generation 3,100, 2,650, 2,200 and 1,850 for populations with no mutator, a 10-, a 100- and a 1,000-fold mutator, respectively.) b, Evolution of the mean fitness of asexual populations subjected to mutation and selection. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            499,
+            63,
+            926,
+            490
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/287affbcc5a7cbd02a4e6158529038c65a5412048a16d515fc257bbbb9260176.jpg",
+        "image_caption": [
+            "Figure 1 Mutators as a fast track to generate adaptive mutations. Fixation of adaptive mutations can proceed in two ways: favourable mutants appear in a nonmutator genetic background, and then spread by selection; mutator genotypes, obtained by mutating an antimutator gene (such as a mismatch repair gene) can also be transiently involved by generating favourable mutations and then reverting to the wild-type allele. (See Methods for values of parameters.) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            65,
+            739,
+            482,
+            947
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            61,
+            492,
+            249
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the absence of selection for adaptive mutations, a mutation/ selection equilibrium is reached where the spontaneous generation of mutator alleles by inactivation of an ‘antimutator’ gene at a frequency of $5 \\times 1 0 ^ { - 7 }$ is balanced by increased production of deleterious and lethal mutations by the mutator (the cost of deleterious mutations was set at 0.05). The equilibrium value observed in the simulations was, respectively, $6 \\times 1 0 ^ { - 4 }$ , $6 \\times 1 0 ^ { - 5 }$ and $1 0 ^ { - 5 }$ for 10-, 100- and 1,000-fold mutator alleles. ",
+        "bbox": [
+            73,
+            250,
+            492,
+            316
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            62,
+            931,
+            102
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The evolution of a population can be very different when adapting to a new environment if adaptation is limited by mutation availability. Mutator genotypes generate adaptive mutations efficiently. Therefore we suggest that a transient increase in mutator frequencies should be a common event in natural asexual populations subjected to sporadic adaptive evolution (Fig. 1). ",
+        "bbox": [
+            510,
+            103,
+            929,
+            182
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We modelled this by assuming that favourable alleles were possible in 15 to $3 9 \\ \\mathrm { l o c i }$ , with selective advantages ranging from 0.005 to 0.03, values that are consistent with those observed in longterm experiments with $E , c o l i ^ { 2 1 , 2 2 }$ . In an infinite population, 10- and 100-fold mutator alleles can be fixed by ‘hitch-hiking’ with favourable mutations in about 500 generations (Fig. 2a), whereas a 1,000- fold mutator will not be fixed during the course of evolution. ",
+        "bbox": [
+            510,
+            183,
+            931,
+            275
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, provided there are enough adaptive mutations, there is a positive correlation between the speed of increase in fitness and the strength of the mutator allele. A population containing a 1,000-fold ",
+        "bbox": [
+            510,
+            277,
+            929,
+            316
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/bb7c801ef6277dd8e1c01dd782139beed96ee5c417d364113e686aad8043ca7c.jpg",
+        "image_caption": [
+            "Figure 3 Intermediate mutators can be fixed during adaptation of finite size populations (10-fold mutators are shown). The model is similar to the one described in Fig. 2. Here, however, finite populations were allowed to grow exponentially from $1 0 ^ { 8 }$ to $1 0 ^ { 1 0 }$ individuals and then were diluted back to $1 0 ^ { 8 }$ , with random sampling occurring every 7 generations for frequency classes lower than $1 3 \\times 1 0 ^ { - 8 }$ (see Methods for more details about the sampling procedure). Each of "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            352,
+            926,
+            860
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "100 independent simulations is represented on these plots. Dotted lines symbolize the populations where the mutator allele has reached over $5 0 \\%$ . a, Change in mutator frequency. Mutators can be favoured by hitch-hiking with adaptive mutations and thus become fixed in the population. b, Evolution of the mean fitness of populations subjected to mutation, selection and drift. Fixation of mutator genotypes can accelerate fitness increase. ",
+        "bbox": [
+            510,
+            876,
+            931,
+            955
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "mutator evolves much faster than a population without a mutator (Fig. 2b). The fact that an allele can have such a dramatic effect, and yet remain rare, can be explained by its high reversion rate (we assumed a point mutation that can easily be reverted by such a strong mutator), which eliminates linkage disequilibrium with favourable mutations. When its reversion rate was set to zero (modelling a deletion of the antimutator gene), the presence of a strong mutator at low frequency did not improve the rate of increase of the fitness of the population, because the favourable mutants produced were handicapped by continued linkage to this mutator allele and thus by its deleterious effects on the whole genome. Once the adaptive peak has been reached, the frequency of the mutator will decline (Fig. 2a), albeit very slowly for a 10-fold mutator, which requires about 20,000 generations to reach its equilibrium value, thus showing a strong hysteresis effect. ",
+        "bbox": [
+            65,
+            62,
+            482,
+            261
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "After modelling infinite populations, we have simulated more realistic finite populations. In the colon of mammals, population sizes of $E _ { i }$ . coli vary between ${ 1 0 } ^ { 6 }$ and ${ 1 0 } ^ { 8 }$ cells per $\\mathbf { g }$ of intestinal content23, whereas in a liquid culture density typically reaches $1 0 ^ { 9 } \\mathrm { m l } ^ { - 1 }$ . Finite size populations were simulated by periodical probabilistic samplings (see details below). Repeated simulations of a finite population, oscillating between $1 0 ^ { 8 }$ and ${ 1 0 } ^ { 1 0 }$ cells, showed stochastic behaviour (Fig. 3a). Mutators with 10- and 100-fold effects reached a frequency of above $5 0 \\%$ in a fraction of the trials (19 and $7 \\%$ respectively). On average the fitness of populations with a high frequency of mutators increased faster during the process of adaptation (Fig. 3b). However, once all adaptive mutations were fixed, the load of deleterious mutations generated by the mutator, that had not yet reverted, lowered the fitness of the populations (Fig. 3a). ",
+        "bbox": [
+            65,
+            263,
+            484,
+            462
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The stochastic pattern observed in Fig. 3a is due to the low probability that a mutator present in a small population will produce a favourable mutation. Once this happens, the mutator allele increases in frequency by hitch-hiking, thus facilitating the appearance of a second adaptive mutation. Mutators can then become fixed by this reiterated process, which is hampered by reversion to the non-mutator genotype. These patterns, obtained as a result of drift in finite populations, can explain why mutators have a high probability of disappearing when rare, but increase in frequency when abundant. ",
+        "bbox": [
+            65,
+            463,
+            482,
+            596
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "One of the main assumptions that we have made in this analysis is the absence of recombination, which would disrupt the hitch-hiking effect of the mutator and the linkage of favourable with deleterious mutations. Some bacterial populations are largely asexual, and these results should apply to them, but for bacteria with high levels of genetic exchange24 further modelling is needed; such a model should take into account that some mutator alleles increase the rate of these genetic exchanges (see ref. 25 for a review) and that sex might allow the recovery of favourable mutations from a deleterious background26. The high frequency of mutators associated with pathogenic bacteria6 suggests that the evolution of increased mutation rates is relevant to the evolution of parasites13. Our conclusions might also apply to clonal eukaryotic lineages such as large populations of autogamous plants (similarly, the outcrossing rate of autogamous plants can increase under directional selection27) or tumours where mutators are associated with malignancy28, but key parameters are not as well known as in the case of bacteria, and accurate modelling will have to be delayed. ",
+        "bbox": [
+            65,
+            597,
+            484,
+            836
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, these results show that during the course of evolution, where phases of adaptation and stasis alternate29, there is no pure strategy of mutation rate. Rather, selection seems to result in an alternation of high and low mutation rate through forward and reverse mutations at the mutator locus. Alternatively, transient mutators20 might allow clonal populations to enhance their adaptability by increasing their mutation rate: for example, inducible mechanisms (see ref. 30 for a review) might be particularly useful in response to stress. M ",
+        "bbox": [
+            65,
+            837,
+            482,
+            956
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "bbox": [
+            500,
+            77,
+            552,
+            88
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mutation rates and selection. Mutation occurs at fixed rates (deleterious mutations, $1 0 ^ { - 4 }$ ; lethal mutations, $1 0 ^ { - 5 }$ ; favourable mutations, $1 0 ^ { - 8 }$ ). All mutation rates are increased by a given factor $m$ in the mutator genotype. Exchange between the mutator and the wild type occurs by mutation at fixed rates $( 5 \\times 1 0 ^ { - 7 } $ forward and $5 \\times { 1 0 } ^ { - 1 0 } \\times m$ reverse). Each deleterious mutation causes an additive loss of fitness of 0.05. Different adaptive mutations are possible, allowing an additive increase in fitness of 0.005, 0.01, 0.015, 0.02, 0.025, 0.03, respectively. In infinite populations there were 21, 8, 4, 3, 2 and 1, respectively, of each class whereas in finite populations these numbers were limited to 7, 3, 2, 1, 1 and 1. ",
+        "bbox": [
+            502,
+            90,
+            921,
+            222
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sampling procedure used to model drift. After each 7 generations, we used a Poisson sampling procedure except for classes larger than 13 individuals, for which the size of the sample was set to the expected value (for these classes, the probability that a genotype is lost by drift is lower than $1 0 ^ { - 6 }$ ). ",
+        "bbox": [
+            500,
+            224,
+            921,
+            275
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Drake, J. W. A constant rate of spontaneous mutation in DNA-based microbes. Proc. Natl Acad. Sci. USA 88, 7160–7164 (1991).   \n2. Kimura, M. On the evolutionary adjustment of spontaneous mutation rates. Genet. Res. 9, 23–34 (1967).   \n3. Leigh, E. G. The evolution of mutation rates. Genetics 73, 1–18 (1973).   \n4. Jyssum, K. Observation of two types of genetic instability in Escherichia coli. Acta Pathol. Microbiol. Immunol. Scand. 48, 113–120 (1960).   \n5. Gross, M. D. & Siegel, E. C. Incidence of mutator strains in Escherichia coli and coliforms in nature. Mutat. Res. 91, 107–110 (1981).   \n6. LeClerc, J. E., Li, B., Payne, W. L. & Cebula, T. A. High mutation frequencies among Escherichia coli and Salmonella pathogens. Science 274, 1208–1211 (1996).   \n7. Sniegowski, P. D., Gerrish, P. J. & Lenski, R. E. Evolution of high mutation rates in experimental populations of E. coli. Nature 387, 703–705 (1997).   \n8. Liberman, U. & Feldman, M. W. Modifiers of mutation rate: a general reduction principle. Theor. Pop. Biol. 30, 125–142 (1986).   \n9. Leigh, E. G. Natural selection and mutability. Am. Nat. 104, 301–305 (1970).   \n10. Ishii, K., Matsuda, H., Iwasa, Y. & Sasaki, A. Evolutionary stable mutation rate in a periodically changing environment. Genetics 121, 163–174 (1989).   \n11. Van Valen, L. A new evolutionary law. Evol. Theory 1, 1–30 (1973).   \n12. Moxon, E. R., Rainey, P. B., Nowak, M. A. & Lenski, R. E. Adaptive evolution of highly mutable loci in pathogenic bacteria. Curr. Biol. 4, 24–33 (1994).   \n13. Haraguchi, Y. & Sasaki, A. Host-parasite arms race in mutation modifications: indefinite escalation despite a heavy load. J. Theor. Biol. 183, 121–137 (1996).   \n14. Mao, E. F., Lane, L., Lee, J. & Miller, J. H. Proliferation of mutators in a cell population. J. Bacteriol. 179, 417–422 (1997).   \n15. Chao, L. & Cox, E. C. Competition between high and low mutating strains of Escherichia coli. Evolution 37, 125–134 (1983).   \n16. Tro¨bner, W. & Piechocki, R. Competition growth between Escherichia coli mutL and mut+ in continuously growing cultures. Z. Allg. Mikrobiol. 21, 347–349 (1981).   \n17. Tro¨bner, W. & Piechocki, R. Competition between isogenic mutS and mutþ populations of Escherichia coli K12 in continuously growing cultures. Mol. Gen. Genet. 198, 175–176 (1984).   \n18. Tro¨bner, W. & Piechocki, R. Selective advantage of polA1 mutator over polA+ strains of Escherichia coli in a chemostat. Naturwissenschaften 72, 377–378 (1985).   \n19. Chao, L., Vargas, C., Spear, B. B. & Cox, E. C. Transposable elements as mutator genes in evolution. Nature 303, 633–635 (1983).   \n20. Ninio, J. Transient mutators: a semiquantitative analysis of the influence of translation and transcription errors on mutation rates. Genetics 129, 957–962 (1991).   \n21. Lenski, R. E., Rose, M. R., Simpson, S. C. & Tadler, S. C. Long-term experimental evolution in E. coli. I, Adaptation and divergence during 2000 generations. Am. Nat. 138, 1315–1341 (1991).   \n22. Lenski, R. E. & Travisano, M. Dynamics of adaptation and diversification: a 10,000-generation experiment with bacterial populations. Proc. Natl Acad. Sci. USA 91, 6808–6814 (1994).   \n23. Hartl, D. L. & Dykhuizen, D. E. The population genetics of Escherichia coli. Annu. Rev. Genet. 18, 31– 68 (1984).   \n24. Maynard-Smith, J., Smith, N. H., O’Rourke, M. & Spratt, B. G. How clonal are bacteria? Proc. Natl Acad. Sci. USA 90, 4384–4388 (1993).   \n25. Matic, I., Taddei, F. & Radman, M. Genetic barriers among bacteria. Trends Microbiol. 4, 69–73 (1996).   \n26. Peck, J. R. A ruby in the rubbish: beneficial mutations, deleterious mutations and the evolution of sex. Genetics 137, 597–606 (1994).   \n27. David, J. L., Savy, Y. & Brabant, P. Outcrossing and selfing evolution in populations under directional selection. Heredity 71, 642–651 (1993).   \n28. Tomlinson, I. P. M., Novelli, M. R. & Bodmer, W. F. The mutation rate and cancer. Proc. Natl Acad. Sci. USA 93, 14800–14803 (1996).   \n29. Magnasco, M. O. & Thaler, D. S. Changing the pace of evolution. Phys. Lett. A 221, 287–292 (1996).   \n30. Taddei, F., Vulic, M., Radman, M. & Matic, I. in Environmental Stress, Adaptation and Evolution (eds Bijlsma, K. & Loeschcke, V.) (Birkha¨user, Basel, in the press). ",
+        "bbox": [
+            502,
+            302,
+            921,
+            841
+        ],
+        "page_idx": 2
+    }
+]

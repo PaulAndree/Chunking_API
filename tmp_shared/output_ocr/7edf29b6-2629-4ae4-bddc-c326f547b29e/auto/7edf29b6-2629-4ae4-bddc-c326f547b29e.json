@@ -1,0 +1,800 @@
+[
+    {
+        "type": "text",
+        "text": "A Proteome-Centric View of Ageing, including that of the Skin and Age-Related Diseases: Considerations of a Common Cause and Common Preventative and Curative Interventions ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            122,
+            911,
+            258
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Isabelle Benoit', Elodie Burty-Valin², Miroslav Radman34 ",
+        "bbox": [
+            114,
+            273,
+            565,
+            292
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            112,
+            306,
+            908,
+            332
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            114,
+            343,
+            839,
+            356
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a approaches and perspectives by targeting proteome protection as an age and ARDD management strategy. ",
+        "bbox": [
+            112,
+            383,
+            913,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "i ",
+        "bbox": [
+            119,
+            579,
+            862,
+            594
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            631,
+            250,
+            648
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "t y information about the role of the healthy or damaged/stressed proteome. ",
+        "bbox": [
+            114,
+            651,
+            915,
+            741
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "urae ocu  pa sa  h uemlmW t DNA  l chains adopt,and native proteins keep their properl olded conformation, even during stressful situations. ",
+        "bbox": [
+            112,
+            742,
+            915,
+            867
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The concept that protein carbonylation determines ageing and age-related degeneration and diseases (ARDD) was promoted in 2016 by quantifying the capacity of individual $E$ coli cells infected after irradiation to produce phage ",
+        "bbox": [
+            111,
+            869,
+            913,
+            902
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA   o ec hreo po ro isitivmee uri UV iadiaton, sice suffint residual proteome activiy is required to tur n the DNA damage resons which v ep pronewal prsThsathatiativmeare ec c p eul- eoy  a ei coul e hoyu proteome damage patterns progressing with age. ",
+        "bbox": [
+            84,
+            64,
+            885,
+            186
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Proei amage was uggested  be he main issue  .Anially ilent proten polymorphism bemes phenotypic triggering ARDD through protein damaging, resulting inurepaired DNA and thus in DNA damage and e treatendegenerativdiseaseargetiproteome protection rathehan conventional Acentriapae. ",
+        "bbox": [
+            84,
+            188,
+            885,
+            256
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Oxativ rs cuse byitivetabolisaneviental cors pears s ema sour pom damage ince proteome is the carrierof biological funcions, i damage has mmediate phenotypicand geneic consequences related to ageing and ARDD.2 ",
+        "bbox": [
+            86,
+            258,
+            887,
+            309
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following work provides a comprehensive overview of what is known about proteostasis and proteotoxicity, pm n lacundis eluk therapeutic perspectives. ",
+        "bbox": [
+            86,
+            311,
+            887,
+            362
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To d o wecnducted a lerature revi  52manucripts publishe and availabl fromPubM focusin  the foeuohr pote prota protoic pro ltion, related inflammatory diseases, ARDD and the impact of damaged proteome on ageing. ",
+        "bbox": [
+            86,
+            364,
+            885,
+            415
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Healthy versus Pathogenic and Toxic Proteomes: The Role of Oxidative Damage ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            438,
+            864,
+            481
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ql ool ( pe .i u  aly o mnslatioolola lar amyloid  fris.1 It has bee shown that protei xidation pres aegation, the extent that v $90 \\%$ of mp uo ha  lan.u v   ha o to prtect he prte agis ental nd rcr hat nis mht be ntedur lifespan and are not equal in terms of sensitivity to oxidative stress.12 ",
+        "bbox": [
+            86,
+            482,
+            885,
+            674
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ovee pas d anrhas beededicatohorystanhon t i asby  asbly egula ndansalnnd prevt oldipeomele hi e cl folding factors, proteases and non-proteinaceous chaperones. C interact without being part of the latter.8 ",
+        "bbox": [
+            84,
+            676,
+            885,
+            815
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein Carbonylation and Proteotoxicity ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            838,
+            537,
+            858
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "u ",
+        "bbox": [
+            86,
+            861,
+            887,
+            911
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "c  idan .luRO a ",
+        "bbox": [
+            112,
+            63,
+            915,
+            116
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "latei ali ha oxidative damage affecting proteins.22 ",
+        "bbox": [
+            112,
+            118,
+            915,
+            170
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Prooxic procylaioneteiacelutivideaonniat involved in the progression of ARDD, including neurodegeneration and cancer.23 ",
+        "bbox": [
+            111,
+            171,
+            908,
+            205
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein Carbonylation and ARDD ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            228,
+            480,
+            250
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Oxivate ualpo vl i u T ul s ou reatdsfncion  roteostass, protein-aggregation iseases suc asAlzheier'disase and Parkin's disease (PD) may develop. ",
+        "bbox": [
+            112,
+            251,
+            915,
+            320
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Patylod-dpis neurodegenerative diseases such as AD, PD and other ARDD.18,24 ",
+        "bbox": [
+            112,
+            323,
+            908,
+            356
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "During theatural process  aging screasingly pacted by agrowng load misoled and d p,ecl ns.eeeepe deti paciy auional proteoe  considere s a mai causeAR. Moreover, it as been eported that  heu brai-ependent hapeoe bece hibid durg he ge roehuceasiheis misfolding, oxidation and aggregation.27 ",
+        "bbox": [
+            112,
+            358,
+            915,
+            446
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Both AD and PD share several common pathological features, comprising the accumulation of protein aggregate: linked with defects in autophagy, preventing the maintenance of neuronal proteostasis.28 ",
+        "bbox": [
+            112,
+            449,
+            906,
+            482
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In diabetes, both insulin deficiency and insulin resistance are linked to inefficient mitohondrial couplingand i oligomerisation and the aggregation of a specific protein (IAPP or amylin). ",
+        "bbox": [
+            112,
+            484,
+            915,
+            536
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proteome Damage and Human Skin ",
+        "text_level": 1,
+        "bbox": [
+            112,
+            559,
+            509,
+            579
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I n e  v 03 Wit skin cancer mechanisms involving not only proteins but also DNA damage, the repar o which is reduin proportion to protein damage. This review does not further expand on DNA damage. ",
+        "bbox": [
+            114,
+            582,
+            915,
+            651
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Skin Ageing ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            675,
+            225,
+            695
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The sk protect he bodoevental physil and bilogial essions. It  drely epose nunyc peal pollunts. UVUVAUVBn VC cns    cu excessive ROS production and protein carbonylation in the skin.32 ",
+        "bbox": [
+            112,
+            696,
+            915,
+            766
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inre pr alatihketivac  lexinydann aculatioanylat rotisroblast as beehowe proteigatio ndorpho accumulation, as askin ageing bmarke.,35 ",
+        "bbox": [
+            112,
+            768,
+            915,
+            857
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In an ssyWanlaha Vnt e eow dermis, fibroblast apoptosis and DNA damage, while UVB triggers protein carbonylation and keratinocyte proliferation. 36 ",
+        "bbox": [
+            114,
+            858,
+            915,
+            910
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Several molecular mechanisms, including oxidative stress, mitochondrial DNA mutations, DNA damage, telomere oal a  he av  s hov Most of these mechanisms relate to proteotoxicity or proteome damage. ",
+        "bbox": [
+            86,
+            64,
+            885,
+            116
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Psoriasis and Atopic Dermatitis ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            138,
+            383,
+            159
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "T lu      n cause various skin diseases.38 Among these, psoriasis and atopic dermatitis are frequently reported.12,39 ",
+        "bbox": [
+            88,
+            160,
+            885,
+            194
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "While the pathogenesis of psoriasis is still unclear, the role of damaged proteins is increasingly proposed.40 Ihac   w  nlast innate and adaptive). Tumour necrosis factor $( \\mathrm { T N F } \\alpha )$ has been implicated in the pathogenesis of psoriasis. It triggers ROS c  prueehie in u hediotoki and protein carbonylation.41 ",
+        "bbox": [
+            84,
+            195,
+            885,
+            281
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reid  l evaluated the plasma proteme prole patints wi psorisisand healthy dividuals.Am 208 proteins with signifcantly altered levels in psoriatic plasma, changes in levels of desmoplakin, complement C3, polymeric immunoglobulin receptor, and cytokeratin 17 correlated well with PASI (soriasis Area Severity Index). Thus, incrase level o carbonyated therwisdamaged plasma proteins might sgal a lk betwe protome damage and disease. ",
+        "bbox": [
+            84,
+            285,
+            887,
+            371
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In owic vtatheeahbtw teniativ aal caatinhboe pt  pTheutor owe ha acti p   o uho proteome in blood cells of patients with psoriasis.41 ",
+        "bbox": [
+            84,
+            372,
+            887,
+            460
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As in psoriasis, protein carbonylation may play a significant role in atopic dermatitis. 43 ",
+        "bbox": [
+            102,
+            462,
+            694,
+            478
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Therapeutic Perspectives ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            501,
+            361,
+            521
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In 2020,a reliable method or the measurement  human plasma prote carbonylation, which can be used r the assessment of carbonylome age-related biomarkers, was described for the first time.44 ",
+        "bbox": [
+            88,
+            523,
+            887,
+            555
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tal s   ur o  i, catalase, peroxiredoxins, glutathione peroxidases, as well as non-enzymatic components, such as L-ascorbate,α- tocopherol, $\\beta$ -carotene, uric acid, CoQ10, and the whole glutathione system. The skin is well equipped with several of these enzymes, including enzymatic and non-enzymatic antioxidants. Of those, $\\alpha \\cdot$ -tocopherol and $\\beta$ -carotene applied toically wee hown  be eive  studi ",
+        "bbox": [
+            84,
+            558,
+            887,
+            643
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "proedeleeriuxidativmagusl hemicl haperone-intxidants.Miihaperoe could also be effective in preventing the protein disorder cascade.47 ",
+        "bbox": [
+            84,
+            647,
+            885,
+            715
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "D (AHR that aciva natiuny, aapor3 AQ that reduc necnc  ski froblast y pr yian v e taav protostasis by stimulating and balancing the production and reprocessing of ntracellular proteins hav been mitigating ARDD or skin ageing. ",
+        "bbox": [
+            84,
+            717,
+            885,
+            876
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "T culd bebeneicayntheatal molecul whiispyaperneintidant activiy n pro h pomagais prote aylatongegationngdatonduce  vee volviROS another interesting novel approach to preserve proteostasis. ",
+        "bbox": [
+            83,
+            877,
+            885,
+            911
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            109,
+            64,
+            913,
+            97
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Abal ex acahatisplyapee-ktian ctin proteth k pagis ylatonmy us beoe  w ac he protetion he protem nd n he y  e ",
+        "bbox": [
+            114,
+            99,
+            913,
+            151
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            171,
+            228,
+            189
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "toidativeamag y oldipeectio appearuce heeisanceidatonuc dmage pro q u e o ",
+        "bbox": [
+            114,
+            193,
+            915,
+            261
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For decades, biomedical research has focused on ARDD as oposed to the ageing process itself and much  this research has centred on studying and treating consequences rather than causes. There are many mechanisms for ageing may come from protection against incurring damage, in particular protein damage. ",
+        "bbox": [
+            112,
+            262,
+            915,
+            332
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "I ",
+        "bbox": [
+            114,
+            333,
+            915,
+            385
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Am ru paemolecule hat ispyhapeonintxian vi n roteche ki p ylatybee e c  e ohe pe n ne e p   ai e ally s ha   u ge h ",
+        "bbox": [
+            114,
+            386,
+            915,
+            438
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "M   p ctihapeve osiolpou-ian perpeti henRAlhomuvgati he    efe ",
+        "bbox": [
+            114,
+            439,
+            913,
+            526
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Data Sharing Statement ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            546,
+            379,
+            565
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "T  ha or  d   ova Iae B  u reasonable request. ",
+        "bbox": [
+            112,
+            568,
+            906,
+            601
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            621,
+            313,
+            640
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The authors acknowledge the writing support of Karl Patrick Göritz, SMWS, France. ",
+        "bbox": [
+            116,
+            642,
+            686,
+            657
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Funding ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            679,
+            202,
+            698
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This project was financed by NAOS les Laboratoires. ",
+        "bbox": [
+            114,
+            700,
+            473,
+            714
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Disclosure ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            736,
+            228,
+            753
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Isabel Benoitnd ElodBurty-Val  plyee NAOS-LS&AOS Ls Laborat, ranceMirosaRam reive n fomS Les Labrate, ranceTheuthors port ohe conlict terst h r ",
+        "bbox": [
+            114,
+            756,
+            906,
+            790
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            808,
+            233,
+            827
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Electrophoresis. 1995;16(7):10771322. / aac4354 Re1001.01 ",
+        "bbox": [
+            114,
+            834,
+            915,
+            911
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "a012765a012/65. do1:10.1101/cshperspect.a012/65 MMBR.00015-10   \njournal.pgen.1003810 s41580-019-0101-y   \n02801   \n10. Kaushik S, Cuervo AM. Proteostasis and aging. Nat Med. 2015;21(12):14061415. doi:10.1038/nm.4001   \n. doi:10.1038/srep19311   \nfactors. J Eur Acad Dermatol Venereol. 2021;35(10):19631975. doi:10.1111/jdv.17432   \nnature10317   \n  \nmolcel.2017.12.021 Rev Clin Lab Sci. 2009;46(56):241281. doi:10.3109/10408360903142326   \ndoi:10.3390/ijms21165646   \ndoi:10.1016/S1471-4914(03)00031-5 jdermsci.2016.09.015 adaptation. Biotechnol Biofuels. 2018;11:272. doi:10.1186/s13068-018-1275-9   \nSpectrom Rev. 2014;33(2):7997. doi:10.1002/mas.21381 B Analyt Technol Biomed Life Sci. 2016;1019:178190. doi:10.1016/jchromb.2015.11.052   \n2017;11:482501. doi:10.1016/j.redox.2016.12.001 Biol. 2018;19(12):755773. doi:10.1038/s41580-018-0060-8   \ndisease. Proc Natl Acad Sci U S A. 2017;114(28):E5703E5711. doi:10.1073/pnas.1618417114 jcb.201709072 (3):11351150. doi:10.1016/j.celrep.2014.09.042   \ndoi:10.1016/j.pneurobio.2013.10.004   \nInvest. 2018;128(9):36713681. doi:10.1172/JCI120843   \npromotion and progression. Cancers. 2020;12(1):110. doi:10.3390/cancers12010110 and skin aging. J Drugs Dermatol. 2014;13(3):274281.   \nbiom5020545 a salicylic acid derivative. Free Radic Biol Med. 2022;181:98104. doi:10.1016/j.freeradbiomed.2022.01.029 Dermatol. 2019;28(Suppl 1):3237. doi:10.1111/exd.13821   \nimmunohistochemistry. Antioxidants. 2019;8(12):569. doi:10.3390/antiox8120569   \n1381612827666211104154928 2020;17(5):377391. doi:10.1080/14789450.2020.1773261   \ndoi:10.3389/fcell.2021.682414 doi:10.1007/BF02439252   \ncells of psoriatic patients. Int J Mol Sci. 2020;21(20):7608. doi:10.3390/ijms21207608 jprot.2016.03.040   \ndoi:10.3390/antiox9030196   \nqntatio carlat proteu plasmaCt Me 2020;61(2:1192doi:10.32/.2020.19   \nmatrix damaged by carbonylated proteins. J Oleo Sci. 2021;70(5):647655. doi:10.5650/jos.ess20193 VX-809. Proc Natl Acad Sci U S A. 2011;108(46):1884318848. doi:10.1073/pnas.1105787108   \nB):246251. doi:10.1016/j.bbagen.2015.06.010   \nBull. 2006;29(5):991996. doi:10.1248/bpb.29.991 Sci. 2018;19(12):3851. doi:10.3390/ijms19123851   \n50. Burgess C. Topical vitamins. J Drugs Dermatol. 2008;7(7 Suppl):s2s6.   \n2021;22(13). doi:10.3390/ijms22136814   \nAging Cell. 2019;18(1):e12876. doi:10.1111/acel.12876 ",
+        "bbox": [
+            84,
+            82,
+            887,
+            905
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            65,
+            915,
+            382
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Clinical, Cosmetic and Investigational Dermatology ",
+        "text_level": 1,
+        "bbox": [
+            137,
+            799,
+            475,
+            813
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Publish your work in this journal ",
+        "text_level": 1,
+        "bbox": [
+            140,
+            821,
+            441,
+            838
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "C l dovepress.com/testimonials.php to read real quotes from published authors. ",
+        "bbox": [
+            138,
+            848,
+            898,
+            890
+        ],
+        "page_idx": 6
+    }
+]

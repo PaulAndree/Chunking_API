@@ -1,0 +1,539 @@
+[
+    {
+        "type": "text",
+        "text": "La Oda a la Alegría (An die Freude, en alemán) es una composición poética lírica escrita por Friedrich von Schiller en noviembre de 1785 y publicada por primera vez en 1786. Es el actual himno de la Unión Europea desde 1985.1 ",
+        "bbox": [
+            70,
+            140,
+            576,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Según una leyenda del siglo XIX la oda iba a ser originariamente una Ode an die Freiheit (libertad; en la época revolucionaria los estudiantes la cantaban con la música de La Marsellesa), pero luego se convirtió en la Ode an die Freude definitiva, para ampliar su significado: aunque el destino del hombre es la libertad, el desarrollo completo de ese destino debe desembocar en la alegría.2 ",
+        "bbox": [
+            157,
+            235,
+            563,
+            359
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/6417800ed9b877cf2e7a84f354d4cd62e5f1f5e131ee3bda8fb47a1d25fc65df.jpg",
+        "image_caption": [
+            "Oda a la Alegría, Manuscrito original "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            148,
+            922,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Todos los versos del poema son trocaicos de 4 hemas sin preludio. En las estrofas de 8 versos, las rimas masculinas y femeninas se alternan en rima cruzada, mientras que el estribillo consiste en una rima abrazada. ",
+        "bbox": [
+            72,
+            378,
+            931,
+            433
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En la primera estrofa, el contexto del poema se crea abordando directamente la alegría como una alegoría y describiéndola como divina en relación con la Elysion de la mitología griega. A través de \"Deine Zauber binden wieder …\" (Tus hechizos unen de nuevo...), se atribuye a la alegría una cualidad que une a las personas. Aunque puede entenderse que \"Brüder\" (Hermanos) sólo tiene un significado masculino, ya que se refiere a todas las personas, el término debe entenderse en general en el sentido de hermandad. Además, el texto también es cantado por mujeres en la composición de Ludwig van Beethoven.3 ",
+        "bbox": [
+            70,
+            450,
+            931,
+            562
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Schiller terminó la \"Oda a la alegría\" en noviembre de 1785 y la envió al librero Georg Göschen de Leipzig el 29 de noviembre para que la imprimiera para el segundo número de Thalia.4 La carta de Schiller dice: \"Das Gedicht an die Freude ist von Körnern sehr schön komponiert. Wenn Sie meinen, so können wir die Noten, welche nur eine $\\%$ Seite betragen, dazu stechen lassen?\" (en español: \"El poema A la alegría está bellamente compuesto por Körnern. Si a usted le parece bien, ¿podría grabarse con él la partitura, que sólo tiene $\\%$ página?\"), que Schiller recibió de vuelta con el poema impreso los días 13 y 23 de febrero de 1786. ",
+        "bbox": [
+            70,
+            579,
+            931,
+            711
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La versión original incluía una última estrofa que fue eliminada de la edición póstuma de 1808: ",
+        "bbox": [
+            65,
+            728,
+            843,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb2b62c72498e4dc17e42681c9ec8e1aab82d52046bdc8548c1dcfb7cbf08466.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            73,
+            40,
+            816,
+            304
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la primera estrofa también se introdujeron dos modificaciones: ",
+        "bbox": [
+            70,
+            317,
+            606,
+            333
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8061b3940e5cea49d6e9516847e602bf43b2ab0e3fa0aaadd223703485d9e06d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            347,
+            929,
+            448
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1793, cuando tenía 23 años, Ludwig van Beethoven conoció la obra en su forma original y enseguida quiso musicalizar el texto,2  surgiendo así la idea que acabaría siendo con los años su novena y última sinfonía en Re menor, Op. 125, cuyo movimiento final es para coro y solistas sobre la versión posterior de la “Oda a la Alegría” de Schiller. ",
+        "bbox": [
+            68,
+            460,
+            932,
+            536
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Texto (de la versión de 1808) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            571,
+            443,
+            596
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/844af827c1672e304c3c026a68c162d8687b21280ad97b015b243bc77c7fff5c.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            611,
+            843,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Wem der große Wurf gelungen,   \nEines Freundes Freund zu sein,   \nWer ein holdes Weib errungen,   \nMische seinen Jubel ein!   \nJa - wer auch nur eine Seele   \nSein nennt auf dem Erdenrund!   \nUnd wer's nie gekonnt, der stehle   \nWeinend sich aus diesem Bund! Was den großen Ring bewohnet,   \nHuldige der   \nSympathie!   \nZu den Sternen leitet sie,   \nWo der Unbekannte thronet. Unser Schuldbuch   \nsei vernichtet!   \nAusgesöhnt die   \nganze Welt!   \nBrüder - überm   \nSternenzelt   \nRichtet Gott - wie wir gerichtet. Freude sprudelt in Pokalen,   \nIn der Traube gold'nem Blut   \nTrinken Sanftmuth Kannibalen,   \nDie Verzweiflung Heldenmut --   \nBrüder, fliegt von euren Sitzen,   \nWenn der volle Römer kreist,   \nLaßt den Schaum zum Himmel spritzen:   \nDieses Glas dem guten Geist. ",
+        "bbox": [
+            73,
+            60,
+            322,
+            344
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            122,
+            378,
+            321,
+            508
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            374,
+            40,
+            569,
+            171
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            326,
+            203,
+            573,
+            505
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/05582a874a2dabbed2e9fccd31a52f94cc2f99a976d5ba9c83a0fe52ff931da0.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            52,
+            922,
+            346
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Friedrich Schiller, retratado por Anton Graff (1736-1813), iniciado en la primavera de 1786 y terminado 1791. ",
+        "bbox": [
+            608,
+            351,
+            890,
+            399
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Freude trinken alle Wesen An den Brüsten der Natur; Alle Guten, alle Bösen   \nFolgen ihrer Rosenspur.   \nKüsse gab sie uns und Reben,   \nEinen Freund, geprüft im Tod;   \nWollust ward dem Wurm gegeben,   \nUnd der Cherub steht vor Gott. Ihr stürzt nieder,   \nMillionen?   \nAhnest du den   \nSchöpfer, Welt?   \nSuch' ihn überm   \nSternenzelt!   \nÜber Sternen muss er wohnen. ",
+        "bbox": [
+            73,
+            541,
+            322,
+            767
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            122,
+            801,
+            302,
+            931
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Den der Sterne Wirbel loben Den des Seraphs Hymne preist, Dieses Glas dem guten Geist Überm Sternenzelt dort oben! ",
+        "bbox": [
+            374,
+            540,
+            547,
+            669
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Festen Muth in schwerem Leiden,   \nHülfe, wo die Unschuld weint,   \nEwigkeit geschwor'nen Eiden,   \nWahrheit gegen Freund und Feind,   \nMännerstolz vor Königsthronen, -   \nBrüder, gält es Gut und Blut - ",
+        "bbox": [
+            326,
+            703,
+            573,
+            931
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Freude heißt die starke Feder In der ewigen Natur. Freude, Freude treibt die Räder In der großen Weltenuhr. Blumen lockt sie aus den Keimen, Sonnen aus dem Firmament, Sphären rollt sie in den Räumen, Die des Sehers Rohr nicht kennt. ",
+        "bbox": [
+            73,
+            61,
+            381,
+            212
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Froh, wie seine Sonnen fliegen Durch des Himmels prächt'gen Plan, Laufet, Brüder, eure Bahn, Freudig, wie ein Held zum Siegen. ",
+        "bbox": [
+            122,
+            245,
+            453,
+            311
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Dem Verdienste seine Kronen, Untergang der Lügenbrut. ",
+        "bbox": [
+            457,
+            43,
+            732,
+            78
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Schließt den heil'gen Zirkel dichter Schwört bei diesem goldnen Wein: Dem Gelübde treu zu sein, Schwört es bei dem Sternenrichter! ",
+        "bbox": [
+            505,
+            112,
+            821,
+            178
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "En itálica las introducciones de Beethoven ",
+        "bbox": [
+            70,
+            422,
+            416,
+            439
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Original5 ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            466,
+            163,
+            485
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Traducción 6 ",
+        "text_level": 1,
+        "bbox": [
+            341,
+            471,
+            465,
+            490
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "O Freunde, nicht   \ndiese Töne! ¡Oh amigos, dejemos esos   \nSondern laßt uns tonos!7   \nangenehmere   \nanstimmen ¡Entonemos otros más   \nund agradables y más alegres!   \nfreudenvollere!   \nFreude! Freude! Freude, schöner (Texto de Beethoven) Alegría, Götterfunken hermosa chispa de los Dioses, Tochter aus hija del Eliseo. Entramos, oh Elysium, celeste deidad, en tu templo Wir betreten ebrios de tu fuego. Tu hechizo feuertrunken,Himmlische, dein funde de nuevo lo que los Heiligtum. tiempos separaron. Los Deine Zauber hombres se vuelven hermanos binden wieder, allí por donde reposan tus Was die Mode suaves alas.   \nstreng geteilt;   \nAlle Menschen   \nwerden Brüder, ",
+        "bbox": [
+            122,
+            520,
+            574,
+            650
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            122,
+            674,
+            574,
+            907
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3c020b8f25c8a8a30af225f9c1ad3d8b744818a4b34256eec959084e65efa757.jpg",
+        "image_caption": [
+            "Ludwig van Beethoven. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            431,
+            924,
+            700
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wo dein sanfter Flügel weilt. ",
+        "bbox": [
+            124,
+            41,
+            321,
+            74
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": ":Wem der große Wurf gelungen, ",
+        "bbox": [
+            73,
+            99,
+            322,
+            131
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eines Freundes   \nFreund zu sein;   \nWer ein holdes Weib Quien haya tenido la dicha   \nerrungen, de poder contar con un amigo, quien haya logrado conquistar a Mische seinen Jubel   \nein! una mujer amada, que su júbilo se una al nuestro. Aún aquel que Ja, wer auch nur eine pueda llamar suya siquiera a un alma sobre la tierra. Mas quien ni Seele siquiera esto haya logrado, ¡que se aleje llorando de esta Sein nennt auf dem hermandad!   \nErdenrund!   \nUnd wer's nie   \ngekonnt, der stehle   \nWeinend sich aus   \ndiesem Bund! Freude trinken alle   \nWesen   \nAn den Brüsten der   \nNatur;   \nAlle Guten, alle   \nFolgen Bösen ihrer Todos los seres beben de la alegría   \nRosenspur. del seno abrasador de la naturaleza. Los buenos como los malos, Küße gab sie uns siguen su senda de rosas. Ella nos da besos y vino y un fiel amigo und Reben, hasta la muerte,   \nEinen Freund,   \ngeprüft im Tod;   \nWollust ward dem   \nWurm gegeben,   \nUnd der Cherub steht   \nvor Gott.   \nVor Gott! Froh, wie seine Volad alegres como sus soles   \nSonnen fliegen   \nDurch des Himmels a través del inmenso espacio celestial, prächt'gen Plan,   \nLaufet, Brüder, eure seguid, hermanos, vuestra órbita,   \nBahn,   \nFreudig, wie ein Held alegres como héroes en pos de la victoria. zum Siegen. Seid umschlungen,   \nMillionen!   \nDiesen Kuß der   \nganzen Welt!   \nBrüder, über'm ¡Abrazaos millones de hermanos!   \nSternenzelt Que este beso envuelva al mundo entero! Hermanos! Sobre la Muss ein lieber Vaterwohnen. bóveda estrellada habita un Padre bondadoso! ¿Flaqueáis, Ihr stürzt nieder, millones de criaturas? ¿No intuyes, mundo, a tu Creador? Búscalo Millionen? a través de la bóveda celeste, ¡Su morada ha de estar más allá de Ahnest du den las estrellas!   \nSchöpfer, Welt?   \nSuch' ihn über'm   \nSternenzelt!   \nÜber Sternen muss   \ner wohnen. ",
+        "bbox": [
+            124,
+            146,
+            927,
+            371
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            126,
+            416,
+            931,
+            691
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            124,
+            739,
+            707,
+            870
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            122,
+            65,
+            931,
+            324
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. El himno europeo (http://europa.eu/abc/symbols/anthem/index_es.htm), en el portal de la Unión Europea. Consultado el 15/6/2008. ",
+        "bbox": [
+            75,
+            412,
+            934,
+            444
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Recepción literaria de Schiller (http://books.google.es/books?id=qi_jA1gdkngC&lpg=PA59&o ts=Y8jTY3hJYu&dq=%22ode%20an%20die%20freiheit%22%20schiller&pg=PA59#v=onepa ge&q=%22ode%20an%20die%20freiheit%22%20schiller&f=false) ",
+        "bbox": [
+            75,
+            447,
+            931,
+            495
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Baensch, Otto (14 de febrero de 2012). Aufbau und Sinn des Chorfinales in Beethovens neunter Symphonie (https://books.google.es/books?id=fuAySpSpIw4C&printsec $=$ frontcover &dq=Otto $^ +$ Baensch:+Aufbau+und+Sinn+des+Chorfinales+in+Beethovens+neunter+Sympho nie. $^ +$ Berlin/Leipzig,+Walter+de+Gruyter+1930.&hl=en&newbks $\\underline { { \\underline { { \\mathbf { \\delta \\pi } } } } }$ 1&newbks_redir $\\underline { { \\underline { { \\mathbf { \\delta \\pi } } } } }$ 0&sa=X&r edir_esc=y#v=onepage&q=Otto%20Baensch:%20Aufbau%20und%20Sinn%20des%20Chor finales%20in%20Beethovens%20neunter%20Symphonie.%20Berlin/Leipzig,%20Walter%20 de%20Gruyter%201930.&f=false) (en alemán). Walter de Gruyter. ISBN 978-3-11-155431-0. Consultado el 29 de abril de 2024. ",
+        "bbox": [
+            77,
+            498,
+            931,
+            628
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. «Schiller an Georg Göschen, 29. November 1785» (https://www.friedrich-schiller-archiv.de/br iefe-schillers/an-georg-goeschen/schiller-an-georg-goeschen-29-november-1785/). Friedrich Schiller Archiv (en de-DE). 20 de agosto de 2013. Consultado el 29 de abril de 2024. ",
+        "bbox": [
+            77,
+            631,
+            932,
+            680
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. «Beethoven Foundation - Schiller's \"An die Freude\" and Authoritative Translation» (https://w eb.archive.org/web/20080923211420/http://www.raptusassociation.org/ode1785.html). Archivado desde el original (http://raptusassociation.org/ode1785.html) el 23 de septiembre de 2008. Consultado el 20 de enero de 2011. ",
+        "bbox": [
+            77,
+            682,
+            931,
+            747
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. «Texto de la 9ª Sinfonía de L. V. Beethoven Traducción alemán - español» (http://www.orque stafilarmonia.com/wp-content/uploads/2014/01/Beethoven.Texto-Oda-a-la-alegría.-AlemánEspañol.pdf). ",
+        "bbox": [
+            75,
+            750,
+            931,
+            799
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. «Web de Beethoven, versión española del himno» (http://www.lvbeethoven.com/Oeuvres/Lv Beethoven-HimnoEuropeo-OdaALaAlegria.html). ",
+        "bbox": [
+            82,
+            802,
+            926,
+            836
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            865,
+            289,
+            885
+        ],
+        "page_idx": 5
+    }
+]

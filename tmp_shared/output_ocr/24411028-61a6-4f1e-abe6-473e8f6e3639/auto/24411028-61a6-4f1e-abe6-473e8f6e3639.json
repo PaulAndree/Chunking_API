@@ -1,0 +1,1326 @@
+[
+    {
+        "type": "text",
+        "text": "Recombination and Replication in DNA Repair of Heavily Irradiated Deinococcus radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            125,
+            737,
+            225
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dea Slade,1 Ariel B. Lindner,1 Gregory Paul,1 and Miroslav Radman1,2, \\*   \n1Universite´ Paris Descartes, Faculte´ de Me´ decine, INSERM U571, 156 rue de Vaugirard, 75015 Paris, France   \n2Mediterranean Institute for Life Sciences, Mestrovicevo setaliste bb, 21000 Split, Croatia   \n\\*Correspondence: miroslav.radman@inserm.fr   \nDOI 10.1016/j.cell.2009.01.018 ",
+        "bbox": [
+            96,
+            237,
+            740,
+            303
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            336,
+            172,
+            349
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deinococcus radiodurans’ extreme resistance to ionizing radiation, desiccation, and DNA-damaging chemicals involves a robust DNA repair that reassembles its shattered genome. The repair process requires diploidy and commences with an extensive exonucleolytic erosion of DNA fragments. Liberated single-stranded overhangs prime strand elongation on overlapping fragments and the elongated complementary strands reestablish chromosomal contiguity by annealing. We explored the interdependence of the DNA recombination and replication processes in the reconstitution of the D. radiodurans genome disintegrated by ionizing radiation. The priming of extensive DNA repair synthesis involves RecA and RadA proteins. DNA polymerase III is essential for the initiation of repair synthesis, whereas efficient elongation requires DNA polymerases I and III. Inactivation of both polymerases leads to degradation of DNA fragments and rapid cell death. The present in vivo characterization of key recombination and replication processes dissects the mechanism of DNA repair in heavily irradiated D. radiodurans. ",
+        "bbox": [
+            98,
+            364,
+            496,
+            713
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            742,
+            209,
+            755
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deinococcus radiodurans is a robust bacterium capable of recovering from high exposures to desiccation, ionizing and ultraviolet radiation, and diverse genotoxic chemicals (Battista, 1997; Blasius et al., 2008; Cox and Battista, 2005). Unlike other extremophile organisms, D. radiodurans does not thrive on extreme conditions but can recover from damage inflicted by such conditions, all causing extensive DNA double-strand breakage, the most severe form of DNA damage. Survival therefore depends on the capacity to efficiently and accurately repair heavily damaged DNA and reconstitute a functional genome from numerous DNA fragments. A similarly potent DNA repair capacity is shared by small aquatic desiccation and ionizing radiation-resistant animals, the bdelloid rotifers (Gladyshev and Meselson, 2008). ",
+        "bbox": [
+            98,
+            772,
+            496,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            337,
+            911,
+            363
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A high genome copy number may facilitate recombinational repair of double-strand breaks (Hansen, 1978; Harsojo et al., 1981), whereas a condensed genome is expected to restrict diffusion of DNA fragments (Levin-Zaidman et al., 2003) and promote efficient recombination through their homologous interactions (Minton and Daly, 1995). Excretion of damaged oligonucleotides (Vukovic-Nagy et al., 1974) and degradation of oxidized nucleotides by Nudix hydrolases (Xu et al., 2001) further contribute to D. radiodurans’ robustness. D. radiodurans also displays many protective features against oxygen free radical damage to proteins and nucleic acids. Carotenoids function as scavengers of radiation-induced reactive oxygen species (Tian et al., 2007) and a high intracellular $\\mathsf { M n } ^ { 2 + } / \\mathsf { F e } ^ { 2 + }$ ratio protects proteins from oxidative damage (Daly et al., 2004, 2007). Arguably, the extreme radiation resistance of D. radiodurans is due to the synergistic effects of efficient protection from macromolecular damage and potent DNA repair enhanced by functional redundancies in both systems. ",
+        "bbox": [
+            514,
+            364,
+            913,
+            616
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "D. radiodurans survives $7 \\ \\mathsf { k G y }$ of ionizing radiation with marginal lethality $( 1 0 \\% )$ . This dose shatters its 3.28 Mb genome into $2 0 { - } 3 0 ~ { \\mathsf { k b } }$ fragments by introducing 100–150 double-strand breaks $_ { ( \\sim 0 . 0 2 }$ DSBs/Gy/genome) and, presumably, at least 10 times as many single-strand breaks. After this dose follows a 1.5 hr period during which DNA is progressively degraded, and neither significant DNA repair nor DNA synthesis take place (Zahradka et al., 2006). However, in the following hour, the genome is fully reassembled in parallel with massive DNA synthesis. It was proposed that the reassembly of the fragmented chromosomes proceeds through a two-step mechanism requiring DNA polymerase I (Pol I)-dependent DNA synthesis and RecA-dependent recombination processes (Zahradka et al., 2006). In the first step, called extended synthesisdependent strand annealing (ESDSA), recessed chromosomal fragments with overlapping homologies prime synthesis on complementary strands of overlapping fragments, generating newly synthesized single strands extending from the doublestranded core. Subsequent annealing of complementary single strands produces a duplex of newly synthesized DNA that assembles colinear fragments into long linear intermediates. Such intermediates are matured by RecA-dependent crossovers into circular chromosomes that are patchworks of old (synthesized before irradiation) and new (synthesized after irradiation) DNA blocks. ",
+        "bbox": [
+            514,
+            617,
+            913,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8fe3b1ceafb0bec72c472e1f5cde250ddefb89b706d91d3141881e6b51061b14.jpg",
+        "image_caption": [
+            "",
+            "Figure 1. Inhibition of DNA Degradation, Synthesis, and Repair by Hydroxyurea in 7 kGy-Irradiated D. radiodurans (A) PFGE of irradiated cells incubated in $6 6 0 ~ \\mathsf { m M }$ hydroxyurea after irradiation. PFGE shows NotI-treated DNA from unirradiated cells (lane labeled C) and from irradiated cells immediately after irradiation (0) and at indicated incubation times (hours). $\\gimel$ shows $\\gimel$ DNA concatamer markers. (B) PFGE of irradiated cells incubated without hydroxyurea. (C) Rate of DNA synthesis and fraction of repaired DNA in 7 kGy-irradiated cells incubated with or without hydroxyurea after irradiation. The rate of DNA synthesis is expressed as [3 H]thymidine (pM) incorporated into DNA per minute. DNA repair was quantified by densitometric analysis of SYBR Gold-stained PFGE gels and expressed as the amount of dsDNA in the course of postirradiation incubation relative to the amount of dsDNA at zero time after irradiation. Data are represented as mean $\\pm$ SEM. See Experimental Procedures for more details. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            144,
+            126,
+            848,
+            323
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            462,
+            483,
+            489
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D. radiodurans polA mutants are highly sensitive to ionizing radiation (Gutman et al., 1993) and show a substantial defect in DNA synthesis and repair, indicating that ESDSA-associated massive DNA synthesis requires Pol I (Zahradka et al., 2006). Pol I could itself catalyze such massive DNA resynthesis, initiate single-strand elongation further catalyzed by DNA polymerase III (Pol III), or contribute only to the maintenance of fragments (e.g., by providing the short-patch repair synthesis for base excision repair of oxidized bases). In Escherichia coli, Pol I functions primarily to fill DNA gaps that arise during replication, excision repair, and recombination (Kornberg and Baker, 1992), whereas the Pol III holoenzyme is the essential multiprotein complex that carries out DNA replication (Johnson and O’Donnell, 2005). In addition to Pol I and Pol III, D. radiodurans also possesses Pol X, a DNA polymerase of the $\\mathsf { X }$ family, endowed with $\\mathsf { M n } ^ { 2 + }$ - dependent DNA synthesis and $3 ^ { \\prime } \\to 5 ^ { \\prime }$ exonuclease acitivities (Blasius et al., 2006). However, Pol X-deficient cells are sensitized to $\\Upsilon$ rays only at doses exceeding 7 kGy (Lecointe et al., 2004). ",
+        "bbox": [
+            86,
+            491,
+            485,
+            755
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The RecA mutant is among the most radiation-sensitive mutants found in D. radiodurans (Moseley and Copland, 1975). RecA promotes DNA strand-exchange reactions, relevant for the repair of stalled replication forks, double-strand break repair, and general recombination (Cox, 2003). In contrast to E. coli RecA, D. radiodurans RecA promotes an inverse DNA strandexchange reaction, binding the duplex DNA first and the homologous ssDNA substrate second (Kim and Cox, 2002). Deletion of radA, a recA homolog, confers modest radiation-sensitivity to D. radiodurans (Zhou et al., 2006). ",
+        "bbox": [
+            86,
+            757,
+            485,
+            896
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This study was aimed at dissecting the mechanics of ESDSA by identifying the key steps and enzymes involved in ESDSA with emphasis on the DNA repair synthesis. To investigate the role of Pol III and its potential interaction with Pol I in ESDSA, we have engineered thermosensitive dnaE mutants (dnaEts) and found that both Pol I and Pol III activities are essential for recombinational DNA repair in irradiated D. radiodurans. In this process, hundreds of overlapping genomic fragments can be used as respective primers and templates for ${ \\boldsymbol { 3 } } ^ { \\prime }$ end elongations. RecA- and RadA-mediated priming of ${ \\mathfrak { z } } ^ { \\prime }$ end extensions allows Pol III to initiate repair synthesis, whereas Pol I enables efficient elongation of single strands that subsequently anneal by complementarity, thus reassembling intact genomes. ",
+        "bbox": [
+            86,
+            897,
+            485,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            462,
+            903,
+            602
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            630,
+            571,
+            644
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Postirradiation DNA Degradation, Synthesis, and Repair Are All Inhibited by Hydroxyurea ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            659,
+            892,
+            686
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The requirement for DNA synthesis in DNA repair of heavily irradiated D. radiodurans was assessed using hydroxyurea (HU). HU presumably arrests all DNA synthesis by inhibiting ribonucleotide reductase, which converts rNDPs into dNDPs, thus preventing the regeneration of dNTP pool via kinase activities (Sinha and Snustad, 1972). When nonirradiated D. radiodurans cells were incubated in HU, DNA synthesis and cell division were completely inhibited at $6 6 0 ~ \\mathsf { m M }$ concentration in the medium, without affecting cell viability upon HU removal (see Figure S1 available online). In 7 kGy-irradiated cells, HU prevented all DNA repair steps: DNA fragment degradation, synthesis, and fragment reassembly (Figure 1). This effect was transient: upon removal of HU at different times after irradiation, the usual extensive DNA fragment degradation, massive DNA synthesis and rapid fragment reassembly were all restored and the repair complete within 3 hr (Figures S2A and S2B). Even after an 8 hr exposure, HU had only a slight effect on the viability of irradiated cells upon its removal (up to $1 5 \\%$ survival reduction; ",
+        "bbox": [
+            503,
+            687,
+            903,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/c7a898b8f8780c8ac74882cbd85e8f986e06d4ae8bad8a5d0d6ad59fca7d3ff3.jpg",
+        "image_caption": [
+            "Figure 2. DNA Synthesis and Repair in recA and radA Mutants ",
+            "(A) Rate of DNA synthesis in unirradiated (UNIR) and 7 kGy-irradiated (IR) WT, radA, recA, and radA recA. Pulses of [3 H]thymidine were applied at different time points to exponentially grown cultures and to 7 kGy-irradiated WT, radA, recA, and radA recA. (B) Kinetics of DNA repair in 7 kGy-irradiated radA, recA, and radA recA followed by PFGE with the corresponding densitometric gel analysis showing the amount of dsDNA relative to zero time after irradiation. PFGE shows NotI-treated DNA from unirradiated cells (lane labeled C) and from irradiated cells immediately after irradiation (0) and at indicated incubation times (hours). (C) DNA degradation measured in $[ ^ { 3 } \\mathsf { H } ]$ -prelabeled unirradiated and 7 kGy-irradiated WT and recA cells. Data are represented as mean $\\pm$ SEM. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            129,
+            852,
+            492
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figure S2C). These HU effects highlight the importance of DNA fragment resection and extensive synthesis in deinoccocal DNA repair and cellular survival, such that a significant contribution of any DNA repair mechanism that does not involve extensive DNA synthesis can be excluded, at least at this level of damage. ",
+        "bbox": [
+            98,
+            615,
+            496,
+            698
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Erosion of DNA Fragments and Priming of DNA Repair Synthesis ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            716,
+            426,
+            741
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The quantification of DNA repair showed that after $7 \\ \\mathsf { k G y }$ g-radiation, over $90 \\%$ of the double-stranded DNA fragment mass was lost during the DNA degradation period (Figure 1C). However, when bacterial DNA was prelabeled with radioactive [ 3 H]thymidine before irradiation, the global loss of DNA during the latency period did not exceed $40 \\%$ (see below; Figure 5B). This suggests that DNA breakdown occurs by exonucleolytic single-strand erosion producing long single-stranded overhangs. This DNA resection is indispensible for DNA synthesis and repair (see below). ",
+        "bbox": [
+            98,
+            744,
+            496,
+            882
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "End-recessed fragments can prime DNA synthesis upon single-strand invasion of overlapping single-stranded or double-stranded (via D-loop formation) templates (Paques and Haber, 1999; for illustration, see below; step C in Figure 7). As ",
+        "bbox": [
+            98,
+            883,
+            496,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "D-loop formation usually involves RecA-like activities, two such genes, recA and radA, were deleted in D. radiodurans. Figure 2A shows that RecA deficiency impeded DNA synthesis, whereas RadA deficiency reduced it considerably. Consequently, after $7 ~ \\mathsf { k G y }$ irradiation, the fragment assembly was delayed for $2 \\mathsf { h r }$ in the radA mutant, and the recA mutant failed to reconstitute the entire genome even after ${ 2 4 } \\mathsf { h r }$ (as diagnosed by the deficit of the largest NotI fragment in PFGE; Figure 2B). Whereas $7 \\ \\mathsf { k G y }$ irradiation reduces the survival of recA to $< 1 0 ^ { - 7 }$ , the survival of the radA mutant is decreased only 2-fold relative to the wild-type (Figure S3A). A more severe repair defect (Figure 2B) and the higher radiation sensitivity (Figure S3B) of the radA recA double mutant compared with the recA mutant suggest that RadA functions in a different, synthesis-independent pathway in the absence of RecA. In addition, the initial partial degradation of DNA fragments appears less pronounced in the recA mutant, as seen in both the PFGE gels (Figure 2B) and the DNA degradation measurements in the $[ ^ { 3 } \\mathsf { H } ]$ -prelabeled recA mutant (Figure 2C). ",
+        "bbox": [
+            514,
+            615,
+            913,
+            881
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA Synthesis and Repair in the polA Mutant ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            897,
+            833,
+            910
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although D. radiodurans polA mutants are radiation sensitive, radiation-induced DNA fragments are eventually reassembled, albeit with a considerable delay dependent on the amount of DNA damage (Figure 3). For instance, following 7 kGy irradiation, DNA repair requires 3 hr in wild-type cells and $1 5 \\mathsf { h r }$ in the polA mutant (Figures 1B and 3B). At lower doses of ionizing radiation, the delay is shorter, but still at least $\\mathsf { 3 x }$ longer than in the wildtype (Figure S4). During this delay in DNA repair, the irradiated polA cells died rapidly in measure with their radiosensitivity, suggesting a futile DNA repair in dead cells. The reappearance of the genomic NotI pattern in the irradiated polA mutant is not a result of the multiplication of rare survivors, as the increase in CFU was manifest only after genome reconstitution was visible in PFGE (Figures 3B and S5). ",
+        "bbox": [
+            514,
+            911,
+            913,
+            938
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc8c9e51d818693bc9c03f59ada925e5aa12edd9068a0c3e6a50a7852bd75c52.jpg",
+        "image_caption": [
+            "Figure 3. ESDSA Repair in the polA Mutant (A) Rate of DNA synthesis and fraction of repaired DNA in $7 \\kappa G \\gamma$ -irradiated WT and 2.45 kGy-irradiated polA. Data are represented as mean $\\pm$ SEM. (B) Kinetics of DNA repair in polA after 7 kGy gamma irradiation followed by PFGE. PFGE shows NotI-treated DNA from unirradiated cells (lane labeled C) and from irradiated cells immediately after irradiation (0) and at indicated incubation times (hours). (C) UV photolysis of DNA in polA cells irradiated by indicated doses of ionizing radiation and repaired in the presence of BrdU. For each dose, the left lane shows DNA from irradiated cells repaired in BrdU, and the right lane shows DNA from the same cells irradiated with 1000 $\\mathsf { J } / \\mathsf { m } ^ { 2 }$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            142,
+            126,
+            842,
+            328
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            86,
+            434,
+            485,
+            602
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Even in the absence of Pol I, delayed chromosome reassembly coincided with extensive DNA synthesis (albeit less extensive than in the wild-type cells) before the onset of cell division (shown for $2 . 4 5 \\mathsf { k G y }$ in Figure S6). UV photolysis of DNA in polA cells that have repaired their DNA in BrdU-containing medium resulted in DSBs (Figure 3C). This is indicative of a patchwork structure of old and new DNA blocks, diagnostic of ESDSA. In ESDSA, newly synthesized DNA (containing BrdU) is present in both strands for a given region and is degraded by double-strand breakage after exposure to UV, thus reversing the repair process. ",
+        "bbox": [
+            86,
+            603,
+            485,
+            755
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Clearly, in addition to Pol I, another DNA polymerase is involved in the ESDSA repair in D. radiodurans, and Pol III is the prime candidate. ",
+        "bbox": [
+            86,
+            757,
+            485,
+            797
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Temperature-Sensitive dnaE (Pol III) Mutants in D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            813,
+            401,
+            840
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As Pol III is an essential enzyme, investigation of the effects of Pol III deficiency on DNA repair necessitated the construction of a conditional mutant. Temperature-sensitive (ts) mutation in the dnaE gene (encoding the catalytic subunit of Pol III) was generated by targeting single missense mutations in conserved dnaE codons conferring temperature sensitivity in E. coli (Vandewiele et al., 2002). Target codons in D. radiodurans dnaE were mutated in vitro by site-directed mutagenesis, transferred onto the carrier pRAD1 shuttle vector, and transplaced by recombination into the D. radiodurans genomic dnaE locus. This approach allowed for the introduction of single relevant mutations at the three target sites and yielded one ts mutant incorporating the dnaE1035 mutation that was characterized and used in DNA repair experiments. This is the first ts mutation obtained by gene engineering in D. radiodurans. (The construction and characterization of thermosensitive mutants is described in the Supplemental Experimental Procedures and Supplemental Results.) ",
+        "bbox": [
+            86,
+            842,
+            485,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            434,
+            901,
+            588
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Ts phenotypes appear to be more stringent in D. radiodurans dnaEts mutants than in the matching E. coli mutants. In D. radiodurans, dnaEts mutant viability is reduced $1 0 ^ { 5 }$ -fold at the restrictive temperature $( 3 7 ^ { \\circ } \\mathsf { C } )$ relative to the permissive temperature $( 3 0 ^ { \\circ } \\mathsf { C }$ ; Figure 4A), whereas in the analogous E. coli mutant the viability is reduced only 1000-fold at $4 2 ^ { \\circ } \\mathrm { C }$ (Vandewiele et al., 2002). ",
+        "bbox": [
+            503,
+            589,
+            903,
+            686
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Growth of dnaE $1 0 3 5 ^ { t s }$ was arrested at $3 7 ^ { \\circ } \\mathrm { C }$ after an initial lag period of $1 . 5 \\ \\mathsf { h r }$ , and its viability decreased with prolonged incubation (Figure 4B). Even wild-type cells grew somewhat slower at $3 7 ^ { \\circ } \\mathrm { C }$ than at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ but remained viable even after ${ 2 4 } \\mathsf { h r }$ . Restoration of growth in $d n a E 1 0 3 5 ^ { t s }$ after shifting the cells from liquid medium at $3 7 ^ { \\circ } \\mathrm { C }$ to agar plates at $_ { 3 0 ^ { \\circ } \\mathrm { C } }$ is evidence of the reversibility of the heat inactivation of Pol III replicative activity (Figure 4B). ",
+        "bbox": [
+            503,
+            686,
+            901,
+            797
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Microscopic examination of exponential-phase dnaE1035ts cells incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for various time periods revealed changes in the cell size, shape, and nucleoid compared with the cells incubated at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ (Figure 4C). Incubation at $3 7 ^ { \\circ } \\mathrm { C }$ gave rise to inflated cocci (up to 2-fold larger than at $3 0 ^ { \\circ } \\mathrm { C } )$ unable to divide. Cell expansion was in many cases asymmetric within diplococci. After a $3 { \\mathfrak { h r } }$ incubation at $3 7 ^ { \\circ } \\mathrm { C }$ , the enlarged cells contained a large nucleoid mass with multiple small nucleoids either localized or dispersed throughout the cell. In some cells, dispersed DNA was observed instead of well-defined ",
+        "bbox": [
+            503,
+            800,
+            901,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/22a903bcb0e1afea60c49d012b2381b800772c2a703c462698ad26a0f7e1d92c.jpg",
+        "image_caption": [
+            "Figure 4. Characterization of dnaEts Mutants "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            204,
+            125,
+            802,
+            668
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(A) Viability of WT, dnaE $1 0 3 5 ^ { t s }$ , $p o I A$ , and polA dnaE $\\boldsymbol { \\mathsf { 1 0 3 5 } } ^ { t s }$ on solid medium at different temperatures. The values are expressed as the fraction of viable colonies relative to ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ .   \n(B) Viability in liquid medium of WT and dnaE $1 0 3 5 ^ { t s }$ at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ and $3 7 ^ { \\circ } \\mathrm { C }$ . Cultures exponentially grown at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ were diluted to $\\mathsf { O D } _ { 6 5 0 } = 0 . 2$ ${ \\sim } 2 . 5 \\times 1 0 ^ { 7 }$ cells/ml) and incubated in TGY at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ and $3 7 ^ { \\circ } \\mathrm { C }$ .   \n(C) Cell size and nucleoid changes in dnaE $\\boldsymbol { 1 0 3 5 } ^ { t s }$ at restrictive temperature. Exponential dnaE $\\boldsymbol { 1 0 3 5 } ^ { t s }$ cultures were incubated at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ and shifted to $3 7 ^ { \\circ } \\mathrm { C }$ for $3 \\mathsf { h r }$ , $\\mathfrak { s h r }$ , and ${ 2 4 } \\mathsf { h r }$ and stained with DAPI. Representative phase-contrast and DAPI fluorescence images of dnaE1035ts grown at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ and $3 7 ^ { \\circ } \\mathrm { C }$ are shown. Scale bar represents $1 ~ { \\mu \\mathrm { m } }$ .   \n(D) Rate of DNA synthesis in unirradiated (UNIR) and irradiated (IR) WT, dnaE $\\boldsymbol { \\mathit { 1 0 3 5 } } ^ { t s }$ , polA, and polA dnaE $\\boldsymbol { 1 0 3 5 } ^ { t s }$ at permissive and restrictive temperature. Pulses of $[ ^ { 3 } \\}$ H]thymidine were applied at different time points to exponentially grown cultures and to 7 kGy-irradiated WT and dnaE1 $\\boldsymbol { O 3 5 ^ { t s } }$ and 2.45 kGy-irradiated polA and polA dnaE1035ts. Data are represented as mean $\\pm$ SEM. ",
+        "bbox": [
+            91,
+            693,
+            916,
+            814
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "condensed nucleoids—a prevalent feature after 9 hr incubation at $3 7 ^ { \\circ } \\mathrm { C }$ (Figure 4C). A 24 hr exposure at $3 7 ^ { \\circ } \\mathrm { C }$ produced one of the two distinct nucleoid phenotypes: nucleoid dispersion throughout the cell or nucleoid contraction removed from the cell center. ",
+        "bbox": [
+            98,
+            841,
+            496,
+            910
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNA synthesis in exponential dnaE $\\boldsymbol { 1 0 3 5 ^ { t s } }$ cells ceased immediately after the temperature upshift and remained at background level, whereas the thymidine incorporation rate in the wild-type was up to 4-fold higher at $3 7 ^ { \\circ } \\mathrm { C }$ than at $_ { 3 0 ^ { \\circ } \\mathrm { C } }$ (Figure 4D, panel 1). ",
+        "bbox": [
+            96,
+            911,
+            495,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            841,
+            913,
+            882
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Similar patterns of DNA synthesis appeared for polA single and polA dnaE1035ts double mutants at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ (Figure 4D, panel 3). The level of DNA synthesis in the absence of both Pol I and Pol III activity (polA dnaE1035ts at $3 7 ^ { \\circ } \\mathrm { C } )$ ) reached the same background level as in the absence of Pol III alone $( d n a E 1 O 3 5 ^ { t s }$ at $3 7 ^ { \\circ } \\mathrm { C } )$ . Furthermore, the rate of DNA synthesis in the $p o { } A$ mutant was very similar to the wild-type, showing that Pol III is the principal contributor to global DNA synthesis under normal growth conditions. Unlike dnaE1 $\\boldsymbol { O 3 5 ^ { t s } }$ cells, which exhibited a slow gradual loss in viability at $3 7 ^ { \\circ } \\mathrm { C }$ , the viability of polA dnaE $1 0 3 5 ^ { t s }$ cells decreased sharply and steadily at $3 7 ^ { \\circ } \\mathrm { C }$ (Figure S7, panels 1 and 3). ",
+        "bbox": [
+            513,
+            883,
+            913,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            86,
+            126,
+            485,
+            237
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Extensive DNA Repair Synthesis and ESDSA Are Abolished in the Absence of DNA Polymerase III Activity ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            253,
+            473,
+            280
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Postirradiation DNA synthesis in 7 kGy-irradiated wild-type cells comprised two periods: a DNA degradation period for $1 . 5 \\mathsf { h r }$ and a burst of DNA synthesis in the subsequent $1 . 5 \\mathsf { h r }$ coinciding with the genome reconstitution (Zahradka et al., 2006 and Figure 4D, panel 2). Under Pol III-deficient conditions, DNA synthesis was abolished throughout the postirradiation period, showing that Pol III activity is indispensible for the bulk of DNA repair synthesis (Figure 4D, panel 2). ",
+        "bbox": [
+            86,
+            281,
+            485,
+            392
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "PolA and polA dnaE1035ts mutants were irradiated at $2 . 4 5 \\mathsf { k G y }$ , a dose effecting $80 \\%$ survival similar to $7 \\kappa G \\gamma$ irradiation of the wild-type (Figure S7). During the postirradiation incubation of the D. radiodurans polA mutant, the rate of DNA synthesis increased (Figure 4D, panel 4) while the viable cell count decreased (Figure S7, panel 4). Whereas the rate of DNA synthesis in irradiated wild-type cells was 5-fold higher than in unirradiated cells (Figure 4D, panels 1 and 2), the $2 . 4 5 { \\mathsf { \\ k G y - } }$ irradiated $p o l A$ cells exhibited an increase in the rate of DNA synthesis similar to the unirradiated polA cells, although the level of DNA synthesis was 5-fold lower (Figure 4D, panels 3 and 4). Deficiency in both DNA polymerases abolished DNA repair synthesis, just as in the absence of Pol III alone (Figure 4D, panel 4). Whereas the $2 . 4 5 \\mathsf { k G y }$ -irradiated polA cells died slowly during the first 6 hr of incubation and resumed division thereafter, polA $d n a E 1 0 3 5 ^ { t s }$ cells at $3 7 ^ { \\circ } \\mathrm { C }$ died rapidly (Figure S7, panel 4). The important contribution of Pol I to the survival potential, even in the absence of significant DNA synthesis, is consistent with its involvement in base excision repair (BER) of oxidatively damaged DNA fragments. ",
+        "bbox": [
+            86,
+            392,
+            485,
+            671
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "No apparent DNA repair was detected in the PFGE experiments in the absence of Pol III activity (Figure 5A). Whereas after $7 \\kappa \\mathsf { G y } \\gamma$ -irradiation, wild-type cells were equally efficient in restoring their genome within 3 hr at ${ } ^ { 3 0 ^ { \\circ } \\mathsf { C } }$ and $3 7 ^ { \\circ } \\mathrm { C }$ (Figure S8), the dnaE $1 0 3 5 ^ { t s }$ mutant at $3 7 ^ { \\circ } \\mathrm { C }$ showed no genome repair, even after ${ 2 4 } \\mathsf { h r }$ (Figure 5A). At lower doses of ionizing radiation, limited fragment reassembly occurred $( < 1 0 \\% )$ , pointing to the inefficiency of Pol III-independent repair (Figure S9). The additional absence of Pol I did not significantly change the repair pattern (Figure 5A). By comparison, DNA fragment reassembly in the 2.45 kGy-irradiated single $p o l A$ mutant was completed within 4 hr at both $_ { 3 0 ^ { \\circ } \\mathrm { C } }$ and $3 7 ^ { \\circ } \\mathrm { C }$ (Figures 5A and S10). ",
+        "bbox": [
+            86,
+            673,
+            485,
+            840
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pol III Is Required during Different Stages of Postirradiation Recovery ",
+        "text_level": 1,
+        "bbox": [
+            84,
+            855,
+            378,
+            882
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fast heat inactivation and rapid reversibility of the activity of the dnaE1035ts gene product at the permissive temperature (Figure 4B) were employed to investigate the Pol III requirement, and the dependence of Pol III activity on cooperation with Pol I, at different stages of DNA repair. We incubated 7 kGy-irradiated dnaE1 $\\boldsymbol { 0 3 5 } ^ { t s }$ and $2 . 4 5 \\ \\mathsf { k G y }$ -irradiated polA dnaE $\\boldsymbol { 1 0 3 5 ^ { t s } }$ cells at $_ { 3 0 ^ { \\circ } \\mathrm { C } }$ and $3 7 ^ { \\circ } \\mathrm { C }$ and then shifted at different times, and for different time intervals, to $3 7 ^ { \\circ } \\mathrm { C }$ (upshift) and ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ (downshift) respectively. Thus, Pol III activity was turned on and off during different postirradiation periods, and DNA repair was monitored by PFGE gels (Figures 5A, S11, and S12). ",
+        "bbox": [
+            84,
+            883,
+            485,
+            938
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            126,
+            901,
+            223
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Temperature upshifts demonstrated that the initial $0 . 5 \\mathsf { h r }$ incubation with functional Pol III was critical to DNA repair, permitting full restoration of all NotI fragments (Figure 5A). The lower band intensity of the restored fragments suggests that the recovery of the DNA amount equivalent to that observed prior to irradiation requires continuous Pol III activity. Pol III appears to be instrumental for the initiation of DNA repair synthesis and for the completion of extensive resynthesis of DNA. However, in the absence of Pol I, Pol III activity during the initial $0 . 5 ~ \\mathsf { h r }$ after irradiation was not sufficient to allow for the restitution of all genomic NotI fragments even after 30 hr (Figure 5A), and the minimum duration of Pol III activity required for fragment reassembly was $3 h r$ (Figures S12A–S12C). The effectiveness of Pol III in DNA repair synthesis appears limited by the Pol I activity, possibly by Pol I preserving the integrity of DNA fragments via gap-filling during BER, or by enabling the elongation of DNA synthesis initiated by Pol III (Figure 7). ",
+        "bbox": [
+            503,
+            225,
+            903,
+            461
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Temperature downshifts further substantiated the requirement for Pol III in the initiation and elongation phases of DNA repair synthesis and its dependence on Pol I. The absence of Pol III activity only during the initial 0.5 or $1 \\ \\mathsf { h r }$ period caused a slight delay in fragment reassembly, which was considerably more pronounced for longer periods of inactivation of Pol III (Figures S11D–S11F). Although Pol III-deficient cells failed to restore any NotI fragments within $3 h r$ after irradiation, when shifted to permissive temperature, they rapidly (within 1.5 hr) restored all fragments and ceased to die (Figures 5A and S11F). Even after $2 4 ~ \\mathsf { h r }$ incubation at $3 7 ^ { \\circ } \\mathrm { C }$ , the cells managed to resuscitate when shifted to ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ (data not shown). Conversely, the inactivation of both Pol III and Pol I for more than 1 hr delayed fragment reassembly beyond $8 { \\textrm { h r } }$ (Figures 5A and S12D–S12F). At more than $3 \\ \\mathsf { h r }$ of inactivity of both Pol III and Pol I, fragment reassembly (at $3 0 ^ { \\circ } \\mathrm { C } )$ ) was irrecoverable even ${ 3 0 } \\mathsf { h r }$ after irradiation. The complete absence of DNA repair synthesis caused an unabated DNA degradation, which irreversibly abrogated DNA repair and led to cell death. ",
+        "bbox": [
+            504,
+            462,
+            901,
+            728
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DNA Degradation Is Limited by DNA Polymerases and Promoted by RecA ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            742,
+            848,
+            769
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The effect of Pol I, Pol III, and RecA on DNA degradation was quantified by measuring the amount of radioactively prelabeled DNA during postirradiation recovery (Figures 2C and 5B). ",
+        "bbox": [
+            503,
+            772,
+            901,
+            813
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In 7 kGy-irradiated wild-type cells and $2 . 4 5 { \\mathsf { \\ k G y } }$ -irradiated $p o I A$ cells, $10 \\% - 1 5 \\%$ of DNA was degraded during irradiation, reaching a maximum of $40 \\%$ degradation after $1 - 1 . 5 \\ \\mathsf { h r }$ of incubation at $_ { 3 0 ^ { \\circ } \\mathrm { C } }$ (Figure 5B). The radioactive thymidine released by DNA degradation was recycled (reincorporated) during the subsequent DNA synthesis. In dnaEts cells at $3 7 ^ { \\circ } \\mathrm { C }$ , DNA degradation was $20 \\%$ higher than in wild-type cells throughout the 1.5 hr period. DNA degradation was even more dramatic in the absence of both Pol I and Pol III: continuous degradation reached $70 \\%$ after 6 hr (Figure 5B), an indication of the likely involvement of Pol I in BER. ",
+        "bbox": [
+            503,
+            813,
+            903,
+            938
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/ef6d50b370f2dceb3104c7f555b8e9cba7bfd8ab05cbd84b676c37ce8dcbe634.jpg",
+        "image_caption": [
+            "Figure 5. Involvement of Pol III during Different Stages of Postirradiation Recovery ",
+            "(A) Kinetics of genome reconstitution monitored by PFGE in 7 kGy-irradiated dnaE1035ts (left column) and 2.45 kGy-irradiated polA dnaE1035ts (right column) at $_ { 3 0 ^ { \\circ } \\mathrm { C } }$ , $3 7 ^ { \\circ } \\mathrm { C }$ , after a temperature upshift at $0 . 5 \\mathsf { h r }$ after irradiation, and after a temperature downshift at $3 \\mathtt { h r }$ after irradiation. (B) DNA degradation measured in $[ ^ { 3 } \\mathsf { H } ]$ -prelabeled unirradiated and 7 kGy-irradiated WT and dnaE1035ts cells, and in 2.45 kGy-irradiated polA and polA dnaE1 $\\boldsymbol { O 3 5 } ^ { t s }$ cells incubated at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ or $3 7 ^ { \\circ } \\mathrm { C }$ . Data are represented as mean $\\pm$ SEM. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            207,
+            124,
+            807,
+            742
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            96,
+            841,
+            496,
+            868
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The effect of RecA on DNA degradation was the opposite: even in the 7 kGy-irradiated recA mutant, DNA was not degraded during irradiation, whereas postirradiation processing resulted in a maximum $20 \\%$ degradation (Figure 2C), suggesting that RecA promotes DNA degradation. ",
+        "bbox": [
+            98,
+            869,
+            496,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Annealing of Newly Synthesized Single Strands ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            841,
+            847,
+            854
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To monitor the single-strand annealing of newly synthesized strands, the final step in the process of the reassembly of DNA fragments, we used a previously developed fluoresence microscopy method based on the detection of ssDNA substituted with BrdU (a thymidine analog) by a fluorescent anti-BrdU antibody (Zahradka et al., 2006). The fluorescence intensity of the (A) D. radiodurans 7 kGy-irradiated cells were pulse labeled with BrdU for 15 min at different time points, transferred into a fresh medium with extra thymine, and retrieved after 15, 30, and 60 min. Immunofluorescence analysis performed under native conditions revealed the rate of disappearance of newly synthesized singlestranded DNA (estimated half-life $\\mathfrak { t } _ { 1 / 2 } = 2 4 \\pm 2 \\mathrm { \\ m i n } _ { \\mathrm { , } }$ ), and denaturing conditions revealed global BrdU incorporation levels in double-stranded DNA, including single-strand to double-strand conversion. Representative images (fluorescence and phase contrast) of irradiated cells (only native condition) at different times after irradiation and different times after pulse are shown. ",
+        "bbox": [
+            513,
+            855,
+            913,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d9f366d4e77c5b32b14079851aa569080be27c35b54ba696c72f592eb00a0a6.jpg",
+        "image_caption": [
+            "Figure 6. Conversion of Newly Synthesized SingleStranded DNA into Double-Stranded DNA during ESDSA Repair in D. radiodurans "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            83,
+            122,
+            581,
+            662
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            604,
+            163,
+            901,
+            319
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "(B) Quantitative image analysis involved ${ > } 5 0 { , } 0 0 0$ cells for each condition described in (A). The upper panel represents native DNA conditions, and the lower panel represents denatured DNA conditions. Asterisks denote a statistically significant difference when compared with zero time after pulse for the respective time after irradiation (t test, $\\mathsf { p } < 0 . 0 1$ ). ",
+        "bbox": [
+            604,
+            320,
+            901,
+            405
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "chronological order as they appear in the proposed DNA repair model (Figure 7). ",
+        "bbox": [
+            604,
+            450,
+            901,
+            476
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            86,
+            841,
+            177,
+            854
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DNA Fragment Erosion, Priming of Synthesis, and Recombinational Repair in D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            604,
+            492,
+            848,
+            531
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DNA-bound anti-BrdU antibody after a 15 min BrdU pulse measures the amount of nonannealed newly synthesized single-stranded DNA (about $1 5 \\%$ of the total synthesis). The subsequent decrease in fluorescence in the course of growth in thymidine-containing medium measures the lifetime of newly synthesized single strands before they become doublestranded, or degraded. DNA denaturation revealed no significant degradation of the newly synthesized DNA strands (Figure 6B). The half-life $( \\ t _ { 1 / 2 } )$ of the single-stranded DNA revealed at 165 min after irradiation was $2 4 \\pm 2$ min (Figure 6A). ",
+        "bbox": [
+            86,
+            673,
+            485,
+            813
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DNA degradation was already proposed as an integral part of the genome recovery process (Vukovic-Nagy et al., 1974), as its inhibition by BrdU substitution prior to irradiation leads to increased lethality (Lett et al., 1970). Clearly, uncontrolled exonucleolytic activity should exterminate damaged DNA, thus precluding its repair. We have shown that the activity of both Pol III and Pol I is required to counterbalance DNA erosion by exonucleases: without both ",
+        "bbox": [
+            604,
+            534,
+            901,
+            672
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We explored the sequence of key molecular events, and in particular the interdependence of DNA recombination and replication processes, in the course of the reconstitution of D. radiodurans chromosomes disintegrated by ionizing radiation. What follows is a discussion of molecular events in the same ",
+        "bbox": [
+            86,
+            869,
+            485,
+            938
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Pol I and Pol III, DNA is rapidly degraded (Figure 5B). Competition between exonucleases and DNA polymerases for binding to free DNA ends is presumably required to maintain the balance between degradation of damaged DNA by repair exonucleases and its resynthesis by polymerases. ",
+        "bbox": [
+            503,
+            673,
+            901,
+            742
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "RecA appears to promote degradation of fragmented DNA (Figures 2B and 2C) and efficient priming of DNA synthesis (Figure 2A). Although priming of DNA synthesis requires both RecA homologs of D. radiodurans—the genuine RecA and the RadA—the RecA function is dominant (Figure 2). There is an epistatic relationship between RecA and RadA, whereby RadA contributes to the priming of DNA synthesis in ESDSA only when RecA is present. However, in the absence of RecA (Figure 2B), RadA appears to function in a different, RecAindependent pathway (see below and Figure 2B). By controlling both DNA degradation and DNA synthesis, RecA itself may regulate these two opposing processes. Given the capacity of RecA to unwind DNA by hydrolyzing ATP (Bianchi and Radding, 1983), RecA bound to dsDNA ends may, in a helicase-like fashion, stimulate DNA unwinding, thereby allowing access to exonucleases. The $5 ^ { \\prime }$ exonuclease-mediated strand erosion presumably liberates ${ \\mathfrak { z } } ^ { \\prime }$ overhangs (White and Haber, 1990) that become involved in RecA-RadA catalyzed strand invasion. In this fashion, RecA may prepare substrates for its own strand-invasion activities required for the priming of DNA synthesis. ",
+        "bbox": [
+            504,
+            744,
+            901,
+            938
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/9435e5f0ec6d4a0b1de76d34672bac57e780a699481e15e8240338ebed64b414.jpg",
+        "image_caption": [
+            "Figure 7. A Model for DNA Repair in Heavily Irradiated D. radiodurans Following severe DNA damage (ionizing radiation, desiccation) (A), the fragmented DNA is end recessed in $5 ^ { \\prime } \\to 3 ^ { \\prime }$ direction liberating single-stranded ${ } ^ { 3 \\prime }$ overhangs (B), which, through RecA- and RadA-mediated strand invasion, prime synthesis on overlapping fragments (C). DNA synthesis is initiated by Pol III and (D1) elongated by Pol III with Pol I filling up gaps arising from excision repair of damaged bases or (D2) by Pol I alone. (E) Two noncontiguous fragments are linked by convergent elongations on a third ‘‘bridging’’ fragment. (F) Newly synthesized single strands anneal to complementary single-stranded extensions forming dsDNA intermediates, which are (G) assembled into intact circular chomosomes by RecA-mediated homologous recombination. See the last paragraph in Discussion for more details. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            255,
+            126,
+            802,
+            539
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            98,
+            659,
+            496,
+            742
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The time-pulsed inactivation and reactivation of Pol III activity, in different time sequence frames, identified Pol III as the polymerase that initiates DNA synthesis (Figure 5A) following RecA-RadA catalyzed priming. ${ \\mathfrak { z } } ^ { \\prime }$ -ended single strands may prime strand elongation by forming a D-loop that can become a ‘‘migrating’’ D-loop (Formosa and Alberts, 1986) or a new replication fork via recruitment of DNA polymerases by the clamp protein (Holmes and Haber, 1999; Paques and Haber, 1999; Wang et al., 2004). The requirement for Pol III in DNA repair synthesis parallels similar findings in yeast where Pol3 and Pold, together with the clamp protein (PCNA), are required for DSB repair (Holmes and Haber, 1999), which involves only leadingstrand synthesis (Wang et al., 2004). In break-induced replication (BIR), only one end of a DSB establishes a modified replication fork, which can traverse long distances by processive leadingand lagging-strand synthesis (Kraus et al., 2001; Lydeard et al., 2007). In an alternative template-switching variant of BIR, strand invasion creates a D-loop that migrates down the template, and the extended ${ \\mathfrak { z } } ^ { \\prime }$ end may undergo several rounds of strand invasion until captured by annealing with a complementary strand (Smith et al., 2007). A substantial fraction of singlestranded DNA as the primary product of DNA repair synthesis in D. radiodurans (Figure 6) argues against replication fork models where newly synthesized single-stranded DNA should be close to nonexistent or short-lived. Nevertheless, we cannot exclude the possibility that a form of BIR operates to some extent alongside ESDSA, the major deinococcal DNA repair pathway. ",
+        "bbox": [
+            98,
+            744,
+            496,
+            938
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            659,
+            913,
+            840
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DNA Polymerases and Recombinational Repair in D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            855,
+            843,
+            882
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We have engineered a Pol III ts $( 3 7 ^ { \\circ } \\mathsf { C } )$ mutant, dnaE $\\boldsymbol { \\mathit { 1 0 3 5 } } ^ { t s }$ , which readily regains activity at the permissive temperature $( 3 0 ^ { \\circ } \\mathrm { C } )$ . ",
+        "bbox": [
+            513,
+            883,
+            913,
+            910
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "DNA Pol III in D. radiodurans is responsible for more than $9 6 \\%$ of DNA synthesis in logarithmic phase cells, whereas DNA Pol I’s contribution is insignificant (Figure 4D), and the mutagenic SOS polymerases are absent in the D. radiodurans’ genome. Our results show that Pol III and Pol I are essential for the efficient and rapid assembly of short DNA fragments in heavily irradiated D. radiodurans (Figures 4D and 5A). ",
+        "bbox": [
+            513,
+            911,
+            913,
+            938
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            86,
+            126,
+            485,
+            195
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Pol III-associated DNA synthesis during the early stages of postirradiation recovery was found to be crucial for the reassembly of the fragmented genome (Figure 5A). The initial repair-boosting effect of Pol III is, however, dependent on Pol I (Figures 5 and S12). Pol III activity appears to be a prerequisite for initiating DNA repair synthesis, whereas Pol I enables its continuation. The contribution of Pol I may involve the elongation of DNA repair synthesis and/or the protection of DNA fragments from further degradation by the completion of the excision repair of oxidized bases, which allows for unhindered Pol III-mediated elongation (Figure 7). Moreover, proximal gaps generated by BER in the absence of Pol I may result in more double-strand breaks, fostering additional DNA degradation. ",
+        "bbox": [
+            86,
+            196,
+            485,
+            377
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The rapidity by which fragments are assembled upon reactivation of Pol III as late as 3 hr after irradiation implies a highly coordinated process. This may entail the prealignment of overlapping DNA fragments and D-loop formation as the substrate for Pol III-mediated synthesis of single strands. Based on the swift rate by which newly synthesized single strands are converted into double strands, we have hypothesized that the synthesis of complementary single strands is a synchronized process coinciding in time and space (Zahradka et al., 2006). The reassembly of two noncontiguous fragments by copying a third ‘‘bridging’’ fragment (Figure 7E) would enable such rapid annealing of newly synthesized single strands. The slight advance of DNA synthesis over the fragment assembly (Figure 3A) is consistent with the short lifetime of newly synthesized single strands $( \\ t _ { 1 / 2 } 2 4 \\mathrm { m i n }$ ; Figure 6). ",
+        "bbox": [
+            86,
+            379,
+            485,
+            588
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "RecA-Independent Repair in D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            603,
+            393,
+            616
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Another mechanism capable of repairing the majority of DSBs without reconstituting full chromosomes became evident in the absence of RecA (Figure 2). This mechanism is characterized by different kinetics of the repair process (Figure 2B), absence of significant DNA synthesis (Figure 2A), and a smaller extent of DNA degradation (Figure 2C). Whereas in the wild-type cells no DNA buildup was observed during the first $1 . 5 \\ \\mathsf { h r }$ after 7 kGy irradiation (Figure 1B), many DSBs are rejoined in RecAdeficient cells during this early period, resulting in the reconstitution of the four smallest NotI fragments (Figure 2B). Given the severe reduction in DNA synthesis observed in the recA mutant (Figure 2A), two synthesis-independent mechanisms can be taken into consideration: single-strand annealing (SSA) and nonhomologous end joining (NHEJ). Unlike NHEJ, SSA depends on exonucleolytic end resection to produce tails with overlapping sequence complementarity (Paques and Haber, 1999). The low level of DNA degradation $( 1 0 \\% - 2 0 \\% )$ in the recA mutant (Figure 2C) may generate enough ${ \\boldsymbol { 3 } } ^ { \\prime }$ single-stranded substrates for SSA. The analysis of incomplete DNA repair products formed in the dead recA cells could reveal the nature of the residual RecA-independent repair (SSA or NHEJ) and its fidelity. At this point, SSA appears a more likely candidate for the residual repair in the recA mutants (Daly and Minton, 1996). ",
+        "bbox": [
+            86,
+            617,
+            485,
+            938
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "A Scenario for Recombinational Repair in D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            126,
+            892,
+            139
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our interpretation of the presented results is illustrated as a working model in Figure 7. At 1.5 hr after 7 kGy irradiation, over half of the fragmented DNA mass is in the form of singlestranded overhangs (Figures 1C and 5B) that engage in some form of SDSA or BIR with extensive DNA synthesis. DNA repair synthesis is primed by the RecA and RadA proteins (Figure 2) on partially overlapping fragments as templates. The elongation step in deinococcal repair is performed either by (i) Pol III alone with Pol I protecting the DNA fragments’ integrity following BER or (ii) Pol I after Pol III dissociation caused, for instance, by unrepaired lesions in the template. At least $1 5 \\%$ of the primary product of DNA synthesis is single-stranded DNA, which is rapidly converted to a double-stranded form (Figure 6). This observation is consistent with those versions of ESDSA and BIR that involve the migrating D-loops akin to the mechanism of transcription (Formosa and Alberts, 1986). This mode of DNA synthesis allows a processive dissociation of the newly synthesized strands that can readily anneal with complementary strands. A plausible mechanism for the assembly process consists of linking two noncontiguous fragments via annealing of complementary single-strand extensions produced by convergent synthesis of the missing sequence on a third ‘‘bridging’’ fragment (Figure 7E). The long linear products of ESDSA require crossovers within overlapping homologies to mature into circular chromosomes (Kowalczykowski et al., 1994; Zahradka et al., 2006). ",
+        "bbox": [
+            503,
+            141,
+            903,
+            489
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Of final importance to our findings, the presence of hydroxyurea after heavy irradiation seems to ‘‘freeze’’ all cellular activities relevant to deinococcal DNA repair and fully preserve the potential to recover from irradiation, suggesting that the cell death due to a failing DNA repair is an active process akin to apoptosis in multicellular eukaryotes. ",
+        "bbox": [
+            503,
+            491,
+            903,
+            574
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTAL PROCEDURES ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            588,
+            686,
+            601
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Bacterial Strains and Plasmids, Culture Conditions, and Ionizing Radiation ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            613,
+            802,
+            636
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "D. radiodurans strain R1, isolated by Anderson et al. (1956), a DNA polymerase I mutant IRS501 (polA, J.R. Battista, unpublished work) and a RecA mutant GY0974, D(cinA ligT recA::tet; Jolivet et al., 2006) were used. E. coli competent cells JM109 (Promega) were used for cloning and SCS110 cells (Stratagene) were used to propagate plasmids prior to transformation of $D _ { \\ast }$ . radiodurans. ",
+        "bbox": [
+            503,
+            638,
+            901,
+            696
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "All D. radiodurans strains were grown at $_ { 3 0 ^ { \\circ } \\mathrm { C } }$ in TGY broth $0 . 5 \\%$ tryptone, $0 . 1 \\%$ glucose, $0 . 1 5 \\%$ yeast extract) with agitation or on TGY agar plates $0 . 5 \\%$ tryptone, $0 . 1 \\%$ glucose, $0 . 3 \\%$ yeast extract, $1 . 5 \\%$ agar) and scored after 3 or 4 days. All E. coli strains were grown in LB broth at $3 7 ^ { \\circ } \\mathrm { C }$ with agitation or on LB agar plates. When necessary, media were supplemented with the following antibiotics: kanamycin, $6 ~ { \\mu \\ g } / { \\ m }$ for D. radiodurans; chloramphenicol, $3 \\mu \\ g / \\mathsf { m l }$ for D. radiodurans; tetracyclin, $2 \\ | | { \\bf { q } } / | { \\bf { \\bar { m } } } |$ for D. radiodurans; and ampicillin, $1 0 0 ~ \\mu \\ g / \\mu |$ for E. coli. Hydroxyurea was used at a concentration of $6 6 0 ~ \\mathsf { m M }$ . When required, hydroxyurea was removed from the medium by cell centrifugation and resuspended in the same volume of fresh TGY. ",
+        "bbox": [
+            503,
+            698,
+            901,
+            818
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Cells grown to a density of ${ \\sim } 1 0 ^ { 8 } /  { \\mathrm { m } } |$ were washed in a $1 0 \\mathsf { m } \\mathsf { M }$ sodium phosphate buffer and concentrated $1 0 \\times$ in the same buffer prior to gamma irradiation. Cell suspension was exposed in $5 0 0 \\mu \\up$ volumes on ice to a $^ { 1 3 7 } \\mathrm { C s }$ gamma ray source at a dose rate of 30 Gy/min (Institut Curie, Paris, France). ",
+        "bbox": [
+            503,
+            819,
+            901,
+            867
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Construction of dnaEts mutants, polA dnaEts, DradA, and DradADrecA is described in Supplemental Data. ",
+        "bbox": [
+            503,
+            868,
+            903,
+            891
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Fluorescence Microscopy of dnaE1035ts Nucleoid at $_ { 3 0 ^ { \\circ } \\mathbb { C } }$ and 37\u0004C ",
+        "text_level": 1,
+        "bbox": [
+            503,
+            902,
+            895,
+            914
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Overnight cultures of dnaE $\\boldsymbol { \\mathrm { 1 0 3 5 ^ { t s } } }$ were diluted 100-fold and grown to early exponential phase. Half of the culture was incubated at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ and half at ",
+        "bbox": [
+            503,
+            915,
+            901,
+            938
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "$3 7 ^ { \\circ } \\mathrm { C }$ . Samples of each were taken at indicated time intervals, incubated in DAPI $( 0 . 1 \\mu \\ g / \\mathrm { m l } )$ for $2 0 \\mathsf { m i n }$ , and mounted onto an agarose film on a glass slide. Phase-contrast and fluorescence images were taken at $\\mathsf { 1 0 0 \\times }$ magnification with a Zeiss Axioplan 2 fluorescence microscope. ",
+        "bbox": [
+            96,
+            126,
+            496,
+            173
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Measurement of the Rate of DNA Synthesis and the Rate of DNA Degradation ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            190,
+            426,
+            213
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The rate of DNA synthesis was measured according to a modified protocol from Zahradka et al. (2006), which included more extensive washing of filters. The rate of DNA synthesis was expressed as the radioactive thymidine (pM) incorporated into DNA per minute. ",
+        "bbox": [
+            96,
+            214,
+            495,
+            262
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The rate of DNA degradation was determined as described in Driedger et al. (1970). D. radiodurans cultures were grown for $1 8 ~ \\mathsf { h r }$ in $2 0 \\mathrm { \\ u C i / m } |$ [methyl-3 H]thymidine (GE Healthcare; specific activity $8 3 \\mathrm { \\ C i / m m o l } _ { \\mathrm { \\ell } }$ ) and for another hour in fresh TGY to exhaust intracellular pools of radioactive thymidine. The radioactively prelabeled unirradiated and irradiated cultures were diluted in TGY to an $\\mathtt { O D } _ { 6 5 0 }$ of 0.2 and incubated at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ and $3 7 ^ { \\circ } \\mathrm { C }$ with agitation. Fifty-microliter samples were withdrawn at various times onto Whatman GF/C filters, which were dried and washed twice with $10 \\%$ TCA, once with $5 \\%$ TCA, and briefly with $9 6 \\%$ ethanol. Nondegraded DNA content was measured by scintillation counting of the dried filters (Packard Tri-Carb 2100TR). ",
+        "bbox": [
+            98,
+            263,
+            496,
+            395
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Pulsed-Field Gel Electroporesis and Quantification of DNA Repair ",
+        "text_level": 1,
+        "bbox": [
+            96,
+            411,
+            478,
+            423
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Irradiated D. radiodurans cultures and unirradiated controls were diluted in TGY to an $\\mathtt { O D } _ { 6 5 0 }$ of 0.2 and either harvested immediately or incubated at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ . At different time points after irradiation, $7 . 5 ~ \\mathsf { m l }$ samples were taken to prepare DNA plugs from WT. Sample volumes were adjusted for the mutant strains to correspond to the viable cell number contained in $7 . 5 ~ \\mathsf { m }$ of the wild-type culture. DNA plugs were prepared for pulsed-field gel electroporesis (PFGE) as described in Mattimore and Battista (1996), digested with 10 units of NotI restriction enzyme for $1 6 ~ \\mathsf { h r }$ at $3 7 ^ { \\circ } \\mathrm { C }$ , and subjected to PFGE under the conditions described in Harris et al. (2004). Gels were stained with SYBR Gold (Invitrogen) and analyzed by measuring intensity profiles for each lane using ImageJ software. Intensity profiles were plotted against DNA size and the area under the curve (AUC) was determined. For each lane, AUC was normalized against AUC for the corresponding zero time after irradiation. Gel analysis was presented graphically with normalized AUC as a function of time after irradiation. Such presentation of DNA repair facilitates quantitative correlations between DNA repair and other cellular activities (e.g., DNA synthesis; Figure 1C). ",
+        "bbox": [
+            98,
+            425,
+            496,
+            629
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "UV-Induced Photolysis ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            645,
+            229,
+            656
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "UV-induced photolysis of D. radiodurans polA thy grown in 5-bromo- $\\cdot 2 ^ { \\prime }$ -deoxyuridine (BrdU; $2 0 \\mu \\ g / \\mathrm { m l } )$ was performed as previously described for thy (Zahradka et al., 2006). D. radiodurans polA thy culture irradiated with 1.4, 2.45, and $3 . 5 \\mathsf { k G y }$ was diluted to an $\\mathsf { O D } _ { 6 5 0 } = 0 . 2$ and grown in BrdU-supplemented TGY for the time required to rebuild the shattered genome. The cells were subsequently incubated in the phosphate buffer for $1 \\ \\mathsf { h r }$ at ${ } ^ { 3 0 ^ { \\circ } \\mathrm { C } }$ . After exposure to $1 0 0 0 \\ \\mathsf { J } / \\mathsf { m } ^ { 2 }$ of $2 5 4 ~ \\mathsf { n m }$ , UV light cells were embedded in agarose plugs for DNA analysis by PFGE (see above). BrdU is highly photosensitive and sensitizes DNA to strand breaks by UV photolysis. The presence of BrdU in only one DNA strand of a given DNA region results in single-strand breaks, whereas two-strand substitution also causes double-strand breaks. ",
+        "bbox": [
+            98,
+            657,
+            496,
+            790
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Immunofluorescent Microscopy of Newly Synthesized DNA ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            806,
+            438,
+            818
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "D. radiodurans 7 kGy-irradiated cells were pulse labeled with BrdU for $1 5 \\mathrm { { m i n } }$ at different time points, transferred into a fresh medium with extra thymine $( 2 0 0 ~ \\mu \\ g / \\ m \\up$ ), and retrieved after 15, 30, and 60 min (pulse-chase experiment). Newly synthesized BrdU-labeled ssDNA was detected by a fluorescent antiBrdU antibody (Zahradka et al., 2006). Cell culture aliquots fixed in methanol $( 7 5 \\% )$ and treated with lysozyme (Sigma; $2 \\ m { \\mathsf { g } } / { \\mathsf { m l } } _ { \\cdot }$ ) were incubated with a mouse anti-BrdU monoclonal antibody (Becton Dickinson; $4 \\ \\mu { \\sf g } / \\sf m \\| )$ and in an anti-mouse IgG-FITC (Sigma; $1 2 \\ \\mu { \\sf g } / \\mathsf { m l } _ { \\ r }$ ). Fluorescently labeled cells were examined with a Zeiss Axioplan 2 fluorescence microscope at $\\mathsf { 1 0 0 \\times }$ magnification. Image analysis was performed using Metamorph software. ",
+        "bbox": [
+            98,
+            818,
+            496,
+            938
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Statistical Methods ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            126,
+            627,
+            138
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Figure graphs depict the mean values of at least three independent experiments with SEM. In Figure 6, Student’s t test was performed on samples of ${ > } 5 0 { , } 0 0 0$ cells each to deduce whether the difference is statistically significant in comparison with the samples corresponding to zero time after pulse for the respective time after irradiation $( \\mathsf { p } < 0 . 0 1 $ ). ",
+        "bbox": [
+            513,
+            139,
+            913,
+            198
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "SUPPLEMENTAL DATA ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            213,
+            649,
+            225
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Supplemental Data include Supplemental Results, Supplemental Discussion, Supplemental Experimental Procedures, Supplemental References, 1 table, and 12 figures and can be found with this article online at http://www.cell. com/supplemental/S0092-8674(09)00066-X. ",
+        "bbox": [
+            513,
+            237,
+            913,
+            285
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            299,
+            646,
+            309
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "D.S. wishes to thank Dragana Ahel and Rupert Thorough for revision and editing of the manuscript. We thank Marina Elez and Dennis R. Harris for comments pertaining to the manuscript. We acknowledge generous gifts: Mary E. Lidstrom for pRAD1, John R. Battista for the polA mutant, and Suzanne Sommer for the recA mutant. We also thank Sophie Viel at Institut Curie in Paris for using $^ { 1 3 7 } \\mathsf { C s } \\ \\mathsf { \\Omega }$ -ray source, Kathleen Smith of Eucodis for lending the PFGE equipment, and Ge´ ly Chantal of INSERM unit 876 for using the scintillation counter. This work was funded by Institut National de la Sante´ et de la Recherche Me´ dicale (INSERM). D.S. is a Boehringer Ingelheim Fonds Ph.D. fellow. D.S. carried out all the experiments. D.S. and M.R. designed the experiments. D.S., A.B.L., and M.R. interpreted the results. G.P. computed an algorithm for quantitative analysis of PFGE gels. D.S. and M.R. wrote the manuscript. ",
+        "bbox": [
+            514,
+            323,
+            913,
+            479
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Received: August 26, 2008   \nRevised: October 27, 2008   \nAccepted: January 6, 2009   \nPublished: March 19, 2009 ",
+        "bbox": [
+            513,
+            492,
+            657,
+            540
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            552,
+            598,
+            563
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Anderson, A.W., Nordan, H.C., Cain, R.F., Parrish, G., and Duggan, D. (1956). Studies on a Radio-Resistant Micrococcus. 1. Isolation, Morphology, Cultural Characteristics, and Resistance to Gamma Radiation. Food Technol. 10, 575–578.   \nBattista, J.R. (1997). Against all odds: the survival strategies of Deinococcus radiodurans. Annu. Rev. Microbiol. 51, 203–224.   \nBianchi, M.E., and Radding, C.M. (1983). Insertions, deletions and mismatches in heteroduplex DNA made by recA protein. Cell 35, 511–520.   \nBlasius, M., Shevelev, I., Jolivet, E., Sommer, S., and Hubscher, U. (2006). DNA polymerase X from Deinococcus radiodurans possesses a structuremodulated $3 ^ { \\prime }  5 ^ { \\prime }$ exonuclease activity involved in radioresistance. Mol. Microbiol. 60, 165–176.   \nBlasius, M., Sommer, S., and Hubscher, U. (2008). Deinococcus radiodurans: what belongs to the survival kit? Crit. Rev. Biochem. Mol. Biol. 43, 221–238. Cox, M.M. (2003). The bacterial RecA protein as a motor protein. Annu. Rev. Microbiol. 57, 551–577.   \nCox, M.M., and Battista, J.R. (2005). Deinococcus radiodurans—the consummate survivor. Nat. Rev. Microbiol. 3, 882–892.   \nDaly, M.J., and Minton, K.W. (1996). An alternative pathway of recombination of chromosomal fragments precedes recA-dependent recombination in the radioresistant bacterium Deinococcus radiodurans. J. Bacteriol. 178, 4461– 4471.   \nDaly, M.J., Gaidamakova, E.K., Matrosova, V.Y., Vasilenko, A., Zhai, M., Venkateswaran, A., Hess, M., Omelchenko, M.V., Kostandarithes, H.M., Makarova, K.S., et al. (2004). Accumulation of Mn(II) in Deinococcus radiodurans facilitates gamma-radiation resistance. Science 306, 1025–1028.   \nDaly, M.J., Gaidamakova, E.K., Matrosova, V.Y., Vasilenko, A., Zhai, M., Leapman, R.D., Lai, B., Ravel, B., Li, S.M., Kemner, K.M., et al. (2007). Protein oxidation implicated as the primary determinant of bacterial radioresistance. PLoS Biol. 5, e92.   \nDriedger, A.A., James, A.P., and Grayston, M.J. (1970). Cell survival and X-ray-induced DNA degradation in Micrococcus radiodurans. Radiat. Res. 44, 835–845.   \nFormosa, T., and Alberts, B.M. (1986). DNA synthesis dependent on genetic recombination: characterization of a reaction catalyzed by purified bacteriophage T4 proteins. Cell 47, 793–806.   \nGladyshev, E., and Meselson, M. (2008). Extreme resistance of bdelloid rotifers to ionizing radiation. Proc. Natl. Acad. Sci. USA 105, 5139–5144.   \nGutman, P.D., Fuchs, P., Ouyang, L., and Minton, K.W. (1993). Identification, sequencing, and targeted mutagenesis of a DNA polymerase gene required for the extreme radioresistance of Deinococcus radiodurans. J. Bacteriol. 175, 3581–3590.   \nHansen, M.T. (1978). Multiplicity of genome equivalents in the radiationresistant bacterium Micrococcus radiodurans. J. Bacteriol. 134, 71–75. Harris, D.R., Tanaka, M., Saveliev, S.V., Jolivet, E., Earl, A.M., Cox, M.M., and Battista, J.R. (2004). Preserving genome integrity: the DdrA protein of Deinococcus radiodurans R1. PLoS Biol. 2, e304.   \nHarsojo, Kitayama, S., and Matsuyama, A. (1981). Genome multiplicity and radiation resistance in Micrococcus radiodurans. J. Biochem 90, 877–880. Holmes, A.M., and Haber, J.E. (1999). Double-strand break repair in yeast requires both leading and lagging strand DNA polymerases. Cell 96, 415–424. Johnson, A., and O’Donnell, M. (2005). Cellular DNA replicases: components and dynamics at the replication fork. Annu. Rev. Biochem. 74, 283–315. Jolivet, E., Lecointe, F., Coste, G., Satoh, K., Narumi, I., Bailone, A., and Sommer, S. (2006). Limited concentration of RecA delays DNA double-strand break repair in Deinococcus radiodurans R1. Mol. Microbiol. 59, 338–349. Kim, J.I., and Cox, M.M. (2002). The RecA proteins of Deinococcus radiodurans and Escherichia coli promote DNA strand exchange via inverse pathways. Proc. Natl. Acad. Sci. U.S.A. 99, 7917–7921.   \nKornberg, A., and Baker, T. (1992). DNA Replication, Second edition (New York: W.H. Freeman).   \nKowalczykowski, S.C., Dixon, D.A., Eggleston, A.K., Lauder, S.D., and Rehrauer, W.M. (1994). Biochemistry of homologous recombination in Escherichia coli. Microbiol. Rev. 58, 401–465.   \nKraus, E., Leung, W.Y., and Haber, J.E. (2001). Break-induced replication: a review and an example in budding yeast. Proc. Natl. Acad. Sci. USA 98, 8255–8262.   \nLecointe, F., Shevelev, I.V., Bailone, A., Sommer, S., and Hubscher, U. (2004). Involvement of an X family DNA polymerase in double-stranded break repair in the radioresistant organism Deinococcus radiodurans. Mol. Microbiol. 53, 1721–1730.   \nLett, J.T., Caldwell, I., and Little, J.G. (1970). Repair of $\\times$ -ray damage to the DNA in Micrococcus radiodurans: the effect of 5-bromodeoxyuridine. J. Mol. Biol. 48, 395–408. Levin-Zaidman, S., Englander, J., Shimoni, E., Sharma, A.K., Minton, K.W., and Minsky, A. (2003). Ringlike structure of the Deinococcus radiodurans genome: a key to radioresistance? Science 299, 254–256.   \nLydeard, J.R., Jain, S., Yamaguchi, M., and Haber, J.E. (2007). Break-induced replication and telomerase-independent telomere maintenance require Pol32. Nature 448, 820–823.   \nMattimore, V., and Battista, J.R. (1996). Radioresistance of Deinococcus radiodurans: Functions necessary to survive ionizing radiation are also necessary to survive prolonged desiccation. J. Bacteriol. 178, 633–637.   \nMinton, K.W., and Daly, M.J. (1995). A model for repair of radiation-induced DNA double-strand breaks in the extreme radiophile Deinococcus radiodurans. Bioessays 17, 457–464.   \nMoseley, B.E., and Copland, H.J. (1975). Isolation and properties of a recombination-deficient mutant of Micrococcus radiodurans. J. Bacteriol. 121, 422–428.   \nPaques, F., and Haber, J.E. (1999). Multiple pathways of recombination induced by double-strand breaks in Saccharomyces cerevisiae. Microbiol. Mol. Biol. Rev. 63, 349–404.   \nSinha, N.K., and Snustad, D.P. (1972). Mechanism of inhibition of deoxyribonucleic acid synthesis in Escherichia coli by hydroxyurea. J. Bacteriol. 112, 1321–1324.   \nSmith, C.E., Llorente, B., and Symington, L.S. (2007). Template switching during break-induced replication. Nature 447, 102–105.   \nTian, B., Xu, Z., Sun, Z., Lin, J., and Hua, Y. (2007). Evaluation of the antioxidant effects of carotenoids from Deinococcus radiodurans through targeted mutagenesis, chemiluminescence, and DNA damage analyses. Biochim. Biophys. Acta 1770, 902–911.   \nVandewiele, D., Fernandez de Henestrosa, A.R., Timms, A.R., Bridges, B.A., and Woodgate, R. (2002). Sequence analysis and phenotypes of five temperature sensitive mutator alleles of dnaE, encoding modified alpha-catalytic subunits of Escherichia coli DNA polymerase III holoenzyme. Mutat. Res. 499, 85–95.   \nVukovic-Nagy, B., Fox, B.W., and Fox, M. (1974). The release of a deoxyribonucleic acid fragment after $\\times$ -irradiation of Micrococcus radiodurans. Int. J. Radiat. Biol. Relat. Stud. Phys. Chem. Med. 25, 329–337.   \nWang, X., Ira, G., Tercero, J.A., Holmes, A.M., Diffley, J.F., and Haber, J.E. (2004). Role of DNA replication proteins in double-strand break-induced recombination in Saccharomyces cerevisiae. Mol. Cell. Biol. 24, 6891–6899. White, C.I., and Haber, J.E. (1990). Intermediates of recombination during mating type switching in Saccharomyces cerevisiae. EMBO J. 9, 663–673. Xu, W., Shen, J., Dunn, C.A., Desai, S., and Bessman, M.J. (2001). The Nudix hydrolases of Deinococcus radiodurans. Mol. Microbiol. 39, 286–290. Zahradka, K., Slade, D., Bailone, A., Sommer, S., Averbeck, D., Petranovic, M., Lindner, A.B., and Radman, M. (2006). Reassembly of shattered chromosomes in Deinococcus radiodurans. Nature 443, 569–573.   \nZhou, Q., Zhang, X.J., Xu, H., Xu, B.J., and Hua, Y.J. (2006). RadA: A protein involved in DNA damage repair processes of Deinococcus radiodurans R1. Chin. Sci. Bull. 51, 2993–2999. ",
+        "bbox": [
+            513,
+            576,
+            915,
+            938
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            126,
+            486,
+            751
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            501,
+            125,
+            903,
+            750
+        ],
+        "page_idx": 11
+    }
+]

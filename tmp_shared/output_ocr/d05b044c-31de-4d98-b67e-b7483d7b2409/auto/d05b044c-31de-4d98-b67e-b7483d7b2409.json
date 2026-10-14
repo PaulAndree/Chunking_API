@@ -1,0 +1,1692 @@
+[
+    {
+        "type": "text",
+        "text": "Rapid #: -26255858 ",
+        "text_level": 1,
+        "bbox": [
+            47,
+            92,
+            346,
+            119
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CROSS REF ID: 455801510009370 ",
+        "bbox": [
+            45,
+            142,
+            437,
+            162
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LENDER: ",
+        "bbox": [
+            47,
+            178,
+            148,
+            196
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ZXY (University of Liege) : Main Library ",
+        "text_level": 1,
+        "bbox": [
+            243,
+            176,
+            681,
+            199
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "BORROWER: ",
+        "bbox": [
+            45,
+            212,
+            192,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "HR-ZAIRB (Znanstvene knjinice) :: HR-ZalRB ",
+        "bbox": [
+            245,
+            212,
+            743,
+            234
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "TYPE: ",
+        "bbox": [
+            47,
+            248,
+            96,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article CC:CCL ",
+        "bbox": [
+            243,
+            248,
+            356,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JOURNAL TITLE: ",
+        "bbox": [
+            45,
+            273,
+            178,
+            289
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "IARC monographs on the evaluation of carcinogenic risks to humans ",
+        "bbox": [
+            246,
+            272,
+            743,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "JOURNAL TITLE:IARC Monographs on the Evaluation of the Carcinogenic Risk of Chemicals to Human: ",
+        "bbox": [
+            98,
+            297,
+            867,
+            314
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Long-term and Short-term Screening Assays for Carcinogens: A Critical Appraisal ",
+        "bbox": [
+            240,
+            324,
+            839,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Davis A, Devoret R, Green MHL, Hofnung M, Radman M ",
+        "bbox": [
+            243,
+            348,
+            656,
+            364
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "VOLUME: ",
+        "bbox": [
+            45,
+            375,
+            122,
+            390
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ISSUE:",
+        "bbox": [
+            47,
+            400,
+            102,
+            415
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supplement 2 ",
+        "bbox": [
+            241,
+            375,
+            346,
+            390
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MONTH: ",
+        "bbox": [
+            45,
+            425,
+            114,
+            440
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "YEAR: ",
+        "bbox": [
+            45,
+            450,
+            98,
+            465
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1980   \n85-106   \n1017-1606 ",
+        "bbox": [
+            240,
+            449,
+            325,
+            517
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ISSN: ",
+        "bbox": [
+            47,
+            501,
+            91,
+            516
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "OCLC #: ",
+        "bbox": [
+            47,
+            526,
+            112,
+            541
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Processed by RapidX: 2/26/2026 6:36:14 AM ",
+        "bbox": [
+            45,
+            575,
+            406,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            47,
+            274,
+            431,
+            331
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            706,
+            244,
+            796,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Short-term tests in bacteria for predicting carcinogenicity measure the ability of an agent to damage DNA. Such damage can be measured by assaying for mutations, for increased killing of DNA-repair-deficient strains of bacteria, or for induction of lysogenic bacteria. There is increasing evidence that DNA damage in somatic cells can give rise to cancer (and possibly other diseases) and that DNA damage in germ cells can cause heritable genetic defects; hence, results from tests that measure DNA damage can be useful in assessing the potential of a chemical to cause cancer and/or heritable genetic effects. Although these tests can be used very effectively in distinguishing different types of DNA damage, there is at present no evidence as to which of the specific types of DNA damage are causally related to the initiation of carcinogenesis in humans. Bacterial tests are particularly well suited for inclusion in screening batteries, and for detecting and identifying mutagenic components in complex mixtures, for detecting mutagenic trace contaminants in industrial chemicals or drugs, for studying metabolic activation pathways, for testing human body fluids and in host-mediated assays, and for analysis of the specific types of DNA damage caused by carcinogens and mutagens. Among the various short-term tests available (see this volume), those using bacteria are among the simplest to conduct, are very rapid (some take only a few hours) and are inexpensive. The genetics of bacteria are also well understood; this has enhanced the usefulness of bacterial tests by permitting the development of several strains with greater sensitivity than the wild type to a wide range of mutagenic agents. ",
+        "bbox": [
+            549,
+            295,
+            955,
+            694
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The recognition that many carcinogens require metabolic activation to reactive electrophiles led to the development of assays that combine mammalian metabolic systems with a variety of these sensitive bacterial strains. It has become increasingly apparent, however, that tests that include mammalian metabolic systems are subject to limitations imposed by the particular metabolizing systems used (for a discussion of metabolizing systems see Report 10, p. 277). It is therefore likely that in using bacterial test results to predict a carcinogenic/mutagenic risk to mammals most problems arise from the metabolizing systems rather than from the genetic endpoint. In most test systems, a $9 0 0 0 \\texttt { x g }$ supernatant (s9) fraction from animals (rats) treated with an enzyme inducer is used. It is highly desirable, wherever possible, to corroborate results using an alternative metabolizing system. ",
+        "bbox": [
+            549,
+            710,
+            939,
+            795
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            45,
+            84,
+            447,
+            218
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The predictive value of these tests, as for all short-term tests, is being established empirically, using for the most part data from carcinogenicity tests in experimental animals. The relevance of results from bacterial tests for mammals is thus being established largely by a comparison of how well the results from short-term tests agree with those that show chemicals to be either positive or negative in animal carcinogenicity tests. ",
+        "bbox": [
+            45,
+            234,
+            451,
+            351
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Since carcinogenicity tests in animals have limitations in their ability to predict carcinogenicity in humans (see Report 1, p. 21), this validation process must be an imperfect one, and some degree of noncorrelation is therefore to be expected. When results do not correlate, it must be decided whether it is the short-term test or the animal carcinogenicity test that is incorrect. There is considerable variation in the extent to which the various test systems have been validated by comparison with results of long-term animal carcinogenicity studies; nevertheless, in those cases where detailed studies have been made, there was qualitative correlation between results obtained from animals and those obtained from bacterial and the other short-term tests. ",
+        "bbox": [
+            45,
+            366,
+            448,
+            548
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The amount of available information on heritable mutagenic effects in mammals is relatively small. Thus, even though this criterion cannot at present play an important role in the evaluation of results from shortterm tests, certain categories of genetic damage may turn out to be important in causing heritable effects, and it might become an important factor in the selection of short-term tests. ",
+        "bbox": [
+            46,
+            565,
+            448,
+            665
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The Working Group was aware of several validation studies in progress, the results of which may provide further data in relation to the recommendations made herein. In the following discussion, several of the most commonly used bacterial assays are outlined (for other reviews, see Hollstein et al., 1979, and Norpoth & Garner, 1980). ",
+        "bbox": [
+            46,
+            682,
+            452,
+            765
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. CRITERIA FOR SELECTING TESTS AND INTERPRETING RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            593,
+            149,
+            905,
+            166
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A number of criteria are important in evaluating the usefulness of the various tests. A decision to use one test, or a combination of several tests, should rely on a compromise, taking into account the various criteria. The importance given to each criterion may depend on the general purpose of the testing being done; for example, extreme rapidity might be preferred in purifying biologically active compounds from mixtures, even if this test is not valid for many other compounds. Two other criteria should always be considered before selecting a test: these are 'quantitation' and 'present experience'. 'Quantitation' refers to a reproducible dose-response effect and is an essential condition of any reliable test. 'Present experience' refers to how many chemicals (including carcinogens, noncarcinogens and chemicals of unknown carcinogenicity) and how many chemical classes have been tested, how many laboratories are using the test, and for how many years the test has been used. The complexity of the variables involved in doing even the simplest biological test necessitates a certain degree of pragmatic evaluation over time with a variety of chemicals and laboratories. However, these criteria are only one element among others discussed below and should not be taken by themselves as a complete measure of the usefulness of the test. ",
+        "bbox": [
+            548,
+            198,
+            960,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Other technical criteria are: ",
+        "bbox": [
+            576,
+            531,
+            733,
+            548
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(1) reproducibility in the same laboratory (a measure of the assay) and reproducibility between laboratories; ",
+        "bbox": [
+            550,
+            562,
+            939,
+            597
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2 sensitivity, on the basis of three parameters: (a) the minimum dose that will give a positive response, (b) the possible range of variation of the minimal to maximal response, and (c) the maximum dose level that can be tested. The maximal obtainable response may be limited by nongenetic toxic effects on the cells. Differences in sensitivity of bacterial tests may be due to several factors: permeability, differences in repair, experimental procedures (e.g., the fluctuation test as compared with the plate test); ",
+        "bbox": [
+            551,
+            613,
+            963,
+            748
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(3) rapidity, including how long it takes to do a single experiment and how many experiments (including controls and replicate testing) are needed for a complete test of a chemical. The bacteria used in these tests have very short generation times (of the order of an hour or even less), and the various tests take little time; ",
+        "bbox": [
+            552,
+            762,
+            954,
+            847
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(4) manpower and cost: the range of costs of the various bacterial tests is small. Cost considerations should not be made at the expense of quality. In many tests, omission of a single control or lack of replicate ",
+        "bbox": [
+            552,
+            862,
+            949,
+            915
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "testing can completely invalidate results, and there is a certain level of complexity below which one should not go for the sake of economy; ",
+        "bbox": [
+            48,
+            84,
+            449,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(5) complexity: bacterial assays are relatively easy to conduct, but they require a certain level of technical expertise and cannot be reduced to simple routine procedures; ",
+        "bbox": [
+            48,
+            134,
+            450,
+            184
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(6) insight into basic mechanisms: bacteria are particularly well suited to detailed molecular biological analysis, and a number of the bacterial screening tests are flexible enough to permit an evaluation of DNA-damaging potential, for example, by using isogenic strains to analyse different mutational effects of a compound. A battery of bacterial tests can also be designed to detect different types of genetic damage; ",
+        "bbox": [
+            50,
+            201,
+            452,
+            300
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "(7) protocols (degree of standardization): although well-defined protocols and appropriate internal controls are crucial for obtaining reliable results from screening programmes, the methods should never be interpreted as reducible to a recipe. Nevertheless, for each test (and/or each class of chemicals) there should be a well-recognized procedure for carrying out the assay which has been used to test a reasonable number of chemicals. ",
+        "bbox": [
+            49,
+            315,
+            453,
+            417
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+            49,
+            548,
+            142,
+            565
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The section which follows describes in some detail the scientific basis and practical application of three classes of genetic tests: (i) mutation, (ii) DNA-repair and (iii) induction of lysogenic bacteria. Experience has shown that each class of test has certain strengths and weaknesses and that combinations of tests may constitute the best use of bacterial test systems. ",
+        "bbox": [
+            48,
+            582,
+            442,
+            681
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A mutation may be defined as a stable heritable change in a DNA nucleotide sequence, which may be detected as a phenotypic change. Heritable changes in nucleotide sequences can be due to base substitution (transitions, transversions), frameshifts (deletions or additions of one or a few base pairs), large deletions, insertions and translocations. Few, if any, mutagens induce only one type of mutational change: rather, most mutagenic agents tend to exhibit a characteristic mutational spectrum which depends upon (i) the nature of the primary DNA alteration (e.g., modification of base, phosphate or sugar, strand break, incorporation of modified base), and (ii) the subsequent secondary effects of DNA repair and replication. The same mutagen may therefore produce different mutational spectra in organisms of different genetic background. ",
+        "bbox": [
+            48,
+            697,
+            455,
+            899
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In practice, mutations are assayed by methods which detect forward or reverse mutations. Forward mutations (e.g., from drug sensitivity to drug resistance) have the theoretical advantage of presenting a large . genetic target and should indicate many types of mutagenic effects (including deletions), all of which will be expressed in the same phenotype. However, a forward mutation system may fail to detect an increase in the induced frequency of a rare event against a background of common events. ",
+        "bbox": [
+            547,
+            77,
+            945,
+            194
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reverse mutation assays use bacteria that are already mutated at an easily.detectable locus (e.g., amino acid auxotrophy); the frequency with which the test chemical induces a second mutation which abolishes the effect of the pre-existing mutation is then determined. The genetic target presented to the test chemical is therefore small, specific and selective. Several indicator strains or a single strain with multiple markers may be necessary to overcome effects of mutagen specificity. ",
+        "bbox": [
+            549,
+            209,
+            957,
+            326
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Several techniques can be used to measure mutational changes in bacteria, e.g., assays using liquid incubation (Malling, 1971), the agar overlay method, with or without liquid preincubation (Ames et al., 1975; Nagao et al., 1977; Yahagi et al., 1977) and the fluctuation test (Green et al., 1976). These assays approach the theoretical limit of sensitivity because neither a single spontaneous nor an induced mutation is scored as more than one event, so that the smallest possible increase over spontaneous mutation can be detected. For most purposes, the agar overlay procedure is far less laborious than the fluctuation test; however, the fluctuation test may offer advantages for special applications. For example, it has been used with intact hepatocytes as an alternative to activation by a liver S9 preparation, and it may be more effective in detecting some toxic, weakly mutagenic agents (Green et al., 1977). ",
+        "bbox": [
+            550,
+            342,
+            950,
+            559
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 The Salmonella/microsome test ",
+        "text_level": 1,
+        "bbox": [
+            552,
+            591,
+            736,
+            608
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The sensitivity and versatility of the Salmonella/microsome test are due to several factors. (see Ames & McCann, 1976 and McCann & Ames, 1977, for a detailed discussion): (1) The tester strains contain, in the histidine operon, either base-pair substitutions (strains TAl535 and TA100) or frameshift mutations (strains TAl537 and strains TA98 and TAl538). The frameshift mutations are long strings of repetitive bases (-C-G-C-GC-G-C-G- or -C-C-C-C-) that are 'hot spots' for mutagenesis by certain classes of mutagens. (2) The tester strains contain a mutation that deletes the uvrB gene, which causes loss of the excision repair system; this greatly increases the sensitivity of the test for the detection of many mutagens. (3) Two of the tester strains (TAl00 and TA98) were developed by transferring a resistance transfer factor, pkMlol, to strains TA1535 and TAl538, respectively (McCann et al., 1975b). Error prone repair is greatly enhanced in these strains (McCann et al., 1975b; \"Walker, 1978), and the sensitivity of the strains to reversion with a variety of carcinogens (e.g., 7,12-dimethylbenz[a]anthracene, benzo[a]pyrene, the fungal ",
+        "bbox": [
+            552,
+            624,
+            959,
+            892
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "toxin aflatoxin $\\mathbf { \\Delta B _ { 1 } } \\mathbf { \\Delta }$ and a variety of nitrofurans) is greatly increased. (4) Finally, all of the standard tester strains contain an additional mutation $( r f \\alpha )$ which causes partial loss of the outer lipopolysaccharide permeability barrier, facilitating diffusion of large organic molecules (e.g., polycyclic hydrocarbons, aflatoxins and many aromatic amines) into the bacteria. ",
+        "bbox": [
+            46,
+            80,
+            444,
+            180
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(i) Description of the test: The test takes about three days to complete (Ames et al., 1975) and involves use of several specially constructed strains of Salmonella typhimurium (usually TA100, TA98, TA1537, TAl535) for detection of frameshift or base-repair substitution reverse mutations (Ames et al., 1973a; $\\because$ McCann et al., 1975b). In most studies, rodent (or human) liver tissue (or other S9 preparations plus an exogenous NADPH-generating system, $\\mathbf { S 9 } { \\mathrm { ~ } } { \\mathrm { ~ m i x } } .$ are used to metabolize chemicals to their active mutagenic forms (Ames et al., 1973b). ",
+        "bbox": [
+            45,
+            195,
+            449,
+            329
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In routine screening, chemicals are tested on all four strains, both with and without ${ \\mathsf { s 9 } } \\ { \\mathsf { m i x } }$ . None of the tester strains can grow unless histidine is added to the growth medium. Different concentrations of the test compound in solution are placed in a Petri dish with a bacterial tester strain and the S9 mix. Usually, a standard, intermediate amount of rat liver S9 fraction is used (see, e.g., Ames et $\\dot { \\alpha } \\iota$ ., 1975); however, some mutagens are most efficiently activated with different concentrations of S9. Therefore, to optimize conditions for a positive test response or to confirm a negative response, several tests should be run using different amounts of S9 fraction (see also Report 10, p.277). A modification of the plate test method in which bacteria, the chemical to be tested and $\\mathbf { S 9 } \\ \\mathtt { m i x }$ are preincubated in liquid medium at $3 7 ^ { \\circ } \\mathfrak { C }$ before being poured onto the Petri dish is being proved quite useful (Nagao et $\\alpha 2 . , \\cdot 1 9 7 7$ ; Yahagi $e t ~ \\alpha \\mathcal { l } . ~ , ~ 1 9 7 7 )$ ; $\\it { \\Delta } N .$ -nitrosodimethylamine and several azo dye carcinogens are more efficiently detected using this procedure than the usual plate assay. A trace of histidine, which is not enough to permit colonies to form but which will allow sufficient growth for expression of mutations, is added. About ${ 1 0 ^ { 8 } } { - 1 0 ^ { 9 } }$ bacteria can be added to a single Petri plate. The number of bacteria reverted back to an ability to grow without added histidine is measured by counting the revertant colonies on the plate after 48 hrs of incubation. Dose-response curves are obtained which, with few exceptions, can be considered to be linear over at least part of the dose range. The method can usually detect microgram, and in some cases even nanogram, quantities of mutagens. ",
+        "bbox": [
+            45,
+            345,
+            448,
+            747
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Rat liver S9 fractions have been used routinely, but mouse and hamster liver S9 fractions have facilitated detection of several carcinogens that are weak mutagens or negative in the usual assay using rat liver S9 fraction. Their use is a helpful adjunct to the standard test procedures (Bartsch et al., 1975a; Camus et al., 1976; Matsushima et al., 1980). Other procedural modifications have been described: for example, procedures for testing volatile mutagens (Bartsch et al., 1975b; Simmon et al., 1977). The Salmone $2 7 a$ test has also been adapted for testing human urine for the presence of mutagens (Durston & Ames, 1974; Yamasaki & Ames, 1977). ",
+        "bbox": [
+            45,
+            762,
+            448,
+            881
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            547,
+            80,
+            943,
+            132
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A chemical is positive in the test if it causes a reproducible doseresponse in at least one tester strain. A chemical that is negative in the standard plate test (Ames et al., 1975) may be tested further, by varying the experimental conditions (e.g., liquid preincubation, hamster liver, other tester strains). ",
+        "bbox": [
+            548,
+            146,
+            944,
+            231
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "(ii) Present status: The Salmonella/microsome assay is currently the most widely used short-term test. Up to 1978, over 400 publications reporting tests with some 2600 chemicals using this method appeared in the bibliography of the Environmental Mutagen Information Centre (EMIC). A great deal of work has also been done by industrial laboratories; much of this is not published in scientific journals, although McMahon et al. (1979) reported results of tests on 855 industrial chemicals and a discussion is given by Donahue et al. (1978). ",
+        "bbox": [
+            549,
+            246,
+            948,
+            380
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Salmonella test detects almost all of the known organic chemicals that are human carcinogens (notable exceptions are benzene and diethylstilboestrol). In several extensive studies designed to examine the ability of the Salmonella test to detect chemicals that were carcinogenic or noncarcinogenic in experimental animals, over 200 carcinogens, or about 90% of those tested, were positive (Heddle & Bruce, 1977; McCann & Ames, 1976; McCann et al., 1975a; Purchase et al., 1976, 1978; Sugimura et al., 1976)', and no mutagenic effects were observed for almost all of those chemicals that were negative in animal carcinogenicity tests. In general, most classes of chemical carcinogens are detected in this test; important exceptions are urethane, 1,2-dimethylhydrazine and some heavily chlorinated carcinogens such as dieldrin and carbon tetrachloride (for discussion, see Hooper et.al., 1979; McCann & Ames, 1976, 1977). The importance of using a battery of short-term tests is emphasized by the fact that most carcinogens that are negative in the Salmonella test have been reported to be positive in at least one other short-term test (Hollstein et al., 1979), although in many cases they were weakly so. In general, metal carcinogens are negative in the Salmonella assay (dichromate is an exception), and the standard test system is thus not suitable for detecting metal carcinogens. For an additional, recent review of applications of the Salmonella test, see Hollstein et al. (1979). ",
+        "bbox": [
+            551,
+            395,
+            959,
+            745
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3 Tests with strains of Escherichia coli wP2 in combination with S. typhimurium ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            86,
+            415,
+            123
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "E. coli wP2 has an ochre mutation in the tryptophan synthetase operon, and the test detects reversions due to a mutation at the structural gene and at a suppressor locus. A series of derivatives altered with regard to DNA repair are available; the differential mutagenic response of these strains gives an indication of the type of DNA damage induced by the test compound and, in some cases, allows confirmation of a weak response. For example, many mutagens are detectable only in bacteria proficient in inducible error-prone DNA repair, so that a weak response in a lex+ strain in conjunction with a totally negative response in the isogenic lex strain is good supporting evidence for a mutagenic effect (Venitt et al., 1977). The addition of the plasmid pkMl0l to an excisionrepair strain of wP2 further enhances sensitivity, so that this strain (WP2 uvrA pKMlol) will reliably detect many classes of mutagen, such as alkylating agents, phosphoramides, cyanoethylating agents, aromatic amines, polycyclic aromatic hydrocarbons, tetrazolium salts, azo dyes, polycyclic lactones and metals. ",
+        "bbox": [
+            51,
+            137,
+            453,
+            402
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In practice, the set of WP2 tester strains is best used in an integrated bacterial mutation test in combination with several of the S. typhimurium strains described above. The same techniques of plating and metabolic activation are used for each set of strains, except, of course, that the essential amino acid appropriate to each set of bacterial strains is used. Similarly, both species can be used in the fluctuation test. Results obtained in a blind trial of 42 compounds indicate that the use of both species in a single protocol is far more valuable than use of either species alone (Anon., 1978; Ashby & de Serres, 1980). $\\because \\mathsf { A }$ similar conclusion was reached by McMahon et $\\alpha \\iota$ . (1979), using S. typhimurium and E. coli wP2 in a survey of over 800 chemicals. ",
+        "bbox": [
+            49,
+            417,
+            456,
+            604
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.4 Tests with Escherichia coli K-12 ",
+        "text_level": 1,
+        "bbox": [
+            51,
+            633,
+            254,
+            651
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A wide variety of mutational systems in strains of E. coli K-l2 can be used to test for chemical mutagens; some of these have been given attention in systematic studies. These include specific back-mutation systems from auxotrophy to prototrophy, such as those present in strain ND 160 (Herman & Dworkin, 1971), which is sensitive to the mutagenic activity of caffeine, steroidal diamines and other compounds (Clarke & Wade, 1975); those present in strain AB 1157 (see Bachman, 1972), in which different classes of base-pair substitutions can be distinguished (Todd et al., 1979); and those in several tryptophan auxotrophs suitable for the detection of base-pair changes and frameshifts (Berger et $\\alpha \\boldsymbol { \\mathrm { ? } }$ , 1968; Yanofsky et al., 1966). A number of forward mutation test systems have also been investigated, broadening the spectrum of genes under study, since they can be assayed simultaneously; examples are wild type genes in which mutations lead to resistance to antimetabolites such as phenetyl alcohol (Yura & Wada, 1968), nalidixic acid (Hane & Wood, 1969), 2-deoxygalactose (Rotman et al., 1968) and valine (Glover, 1962); and mutated genes in which further mutations are detected because they lead to resistance against sugars such as galactose (Adhya & Shapiro, 1969; Malamy, 1966) and fucose (Englesberg et al., 1962). The induction of suppressor mutations in the streptomycin-dependent strain $\\mathtt { S d - 4 }$ , which lead to spreptomycin-independent colonies, has also been used to screen for the mutagenicity of many chemicals (Hemmerly & Demerec, 1955; Iyer & Szybalski, 1958) and has proved useful in quantitative assessment of the relationship between mutagenic potency and chemical reactivity of chemicals (Hussain & Ehrenberg, 1977). The recent elucidation of DNA base sequences in the lac i gene, which correspond colinearly with amino acid sequences in the $2 \\alpha \\mathscr { c } .$ repressor protein, makes it possible, finally, to analyse the molecular changes induced by chemicals in a forward mutation system $( \\mathbb { Z } \\alpha e \\cdot i ^ { + } + \\mathbb { Z } \\alpha e \\ i ^ { - } )$ (Coulondre & Miller, 1977). ",
+        "bbox": [
+            46,
+            668,
+            451,
+            870
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            541,
+            84,
+            941,
+            366
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A further derivative of $E \\cdot \\boldsymbol { c o l i } \\ : \\ : \\mathrm { K } \\mathrm { - } 1 2$ , known as strain 343/113, has been specifically constructed for the simultaneous detection of forward mutations and of several specific back mutations and is sensitive to a large variety of mutagens. (for a review and further references see Mohn & Ellenberger, 1977). In the present state of development, genetic effects can be determined as forward mutations in the $g a l \\mathbb { R }$ gene and in. several genes that lead to resistance to 5-methyltrytophan; specific auxotrophy back-mutation systems include $\\alpha { \\bf { r } } g _ { 5 6 } ^ { - } \\stackrel { \\cdot } { + } \\alpha { \\bf { { r } } } g ^ { + }$ (base-pair substitutions), $n \\alpha d _ { 1 1 3 } ^ { - }  n \\alpha d ^ { + }$ (frameshifts induced by acridine-type compounds) and $2 e u \\overline { { 8 } } \\ + \\ 2 e u ^ { + }$ (frameshifts induced by polycyclic hydrocarbon-type compounds). The influence of several DNA repair-deficient mutations on gene mutability can be determined in substrains with uvrB, recA, $d a m _ { 4 } / d a m _ { 3 }$ - and lexA genetic backgrounds as well as in derivatives containing the plasmid $\\tt p K M O 1 ^ { 1 }$ : ",
+        "bbox": [
+            543,
+            382,
+            950,
+            616
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Mutagenicity test procedures include several variations of the hostmediated assay (for review see:Mohn, 1977) and liquid suspension tests. Permeability to chemicals with a large molecular configuration is increased by pretreating the growing indicator cells for a short time with ethylenediaminetetraacetic acid, which removes major parts of the lipopolysaccharide cell-wall fraction without loss of cell viability (Leive, 1968); this treatment greatly enhances the mutagenic efficiency of polycyclic hydrocarbons1. ",
+        "bbox": [
+            544,
+            630,
+            941,
+            767
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since liquid suspension tests are more laborious and time-consuming than plate tests (see above), the primary purpose of tests using E.coli 343/ll3 'and derivatives is not to prescreen for mutagens but rather to verify and confirm results and to quantify mutagenic potency in bacteria of different genetic backgrounds (e.g., leading to repair deficiencies and/ or metabolic alterations) with concomitant precise determination of chemical dose in critical macromolecules (Aaron et al., 1980). ",
+        "bbox": [
+            544,
+            781,
+            936,
+            832
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            57,
+            84,
+            464,
+            152
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5 Forward mutation in other systems ",
+        "text_level": 1,
+        "bbox": [
+            59,
+            184,
+            266,
+            201
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Skopek et al. (1978a,b) have developed a forward mutation system employing strain TM35 derived from a spontaneous $\\hbar i s ^ { + }$ revertant of S. typhimurium TAl535; this test,in which resistance to the purine analogue of 8-azaguanine is used as a genetic marker, is currently being evaluated. ",
+        "bbox": [
+            59,
+            217,
+            457,
+            285
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1.6 Tests using induction and mutagenesis of prophage lambd ",
+        "text_level": 1,
+        "bbox": [
+            64,
+            315,
+            385,
+            334
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Most bacteria, if not all, are lysogenic: they carry in their genome the DNA of a virus (phage) in a dormant state (prophage). Phage lambda, whose host is Escherichia coli Kl2, is one virus that has been most studied (Hershey, 1971). ",
+        "bbox": [
+            60,
+            349,
+            455,
+            416
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The dormant state of prophage lambda is maintained by a 'repressor' protein which is the product of the prophage cI gene. The repressor prevents transcription of. the prophage genes by binding to the two operator sites flanking the cI gene. ",
+        "bbox": [
+            59,
+            432,
+            464,
+            499
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DNA damage, produced by various agents, triggers the development of the prophage into vegetative phage (prophage induction). Prophage induction is caused by inactivation of the repressor synthesized by the dormant prophage. As soon as there is no repressor left in the cell, the prophage develops. Within 60 minutes, the host cell lyses and releases about 100 phage particles. When induced cells are mixed with indicator bacteria and plated on nutrient agar plates, the viruses released from the induced lysogenic cells lyse the indicator bacteria. An induced lysogenic cell is therefore recorded as a plaque on a lawn of indicator bacteria. The efficiency of lysogenic induction is indicated by the ratio of the number of plaques formed to the number of lysogenic cells present before exposure to the inducing treatment. ",
+        "bbox": [
+            58,
+            516,
+            461,
+            714
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The use of prophage induction as a screening method to detect mutagens and potential carcinogens was suggested as early as 1953 by Andre Lwoff and was reviewed in 1971 (Heinemann, 1971). New tester strains have been developed by introducing into an E. coli K12 lysogen an envA mutation that increases permeability to many mutagens and an uvrB mutation that inactivates the excision repair system (Moreau et al., 1976). Procedures (including incorporation of a mammalian metabolic activation system) have been defined for testing for lysogenic induction (the 'inductest'). ",
+        "bbox": [
+            58,
+            731,
+            459,
+            881
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to detect lambda mutations ('lambda mutatest') (Moreau & Devoret, 1977), other bacterial tester strains carrying a modified prophage were constructed in which forward mutations occur at the operator regions of the modified prophage. The prophage becomes insensitive to its repressor, and infective centres are formed which produce phages that are spilt onto a lawn of indicator bacteria on which the parental phage cannot grow. Using the combined protocol, the mutagenic and inducing activities of aflatoxin B1, ethylmethane sulphonate and methylmethane sulphonate were tested in the same cell type (Moreau & Devoret, 1977). ",
+        "bbox": [
+            533,
+            77,
+            931,
+            228
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The inductest has certain advantages over mutagenicity tests: mutations can be scored only in bacteria that survive exposure to a chemical treatment, which is often toxic as well as mutagenic, and no more than one bacterium out of a thousand is likely to be detected, e.g., as a histidine revertant, in the Salmonella system. In contrast, prophage induction can be observed, when it takes place, in the bulk of a cell population. Prophage induction is a mass effect, largely independent of whether or not cells would survive the chemical treatment; a cell that is induced to produce a progeny of phage would die in any case. The inductest can therefore continue to give a positive response for a highly toxic potential carcinogen at dose levels that would kill tester bacteria in a mutagenicity test. ",
+        "bbox": [
+            535,
+            243,
+            942,
+            445
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The fact that the induction process occurs in a large proportion of cells permitted Levine et al. (1978), Elesperu & Yarmolinsky (1979) and Toman et al. (1980) to design a biochemical assay for prophage induction. In a bacterial strain in which, for instance, the gene for the enzyme galactokinase is linked to the lambda DNA in such a way that the lambda repressor blocks synthesis of the enzyme, the repressor is cleaved and the enzyme is synthesized; the enzyme activity thus reveals DNA damage. This biochemical assay may be the most rapid of the short-term tests: it takes only half a day to test for a potential carcinogen. ",
+        "bbox": [
+            537,
+            459,
+            940,
+            610
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Although neither the inductest nor the lambda mutatest has yet been validated as extensively as the mutagenicity tests, tests using lysogenic bacteria provide valuable complementary assays. Perhaps more important in the long run, a biological system comprising both a cell and a dormant virus should be a valuable tool for analysing the various lesions imposed on DNA by carcinogens. ",
+        "bbox": [
+            538,
+            625,
+            937,
+            728
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.7 DNA-repair tests ",
+        "text_level": 1,
+        "bbox": [
+            540,
+            761,
+            655,
+            779
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "These assays use isogenic DNA repair-deficient and DNA repair-proficient bacterial strains in which modification of DNA or genotoxic effects are scored as the preferential killing of the DNA repair-deficient strain. The assays can be run in several modes, involving either agar diffusion or liquid suspension procedures. The routine screening tests use broad-spectrum, DNA repair-deficient strains, i.e., polA, recA, uvrA/ recA; the use of mutants with specific deficiencies in DNA repair pathways can also provide information about the nature of the DNA lesion. Protocols using E. coli, Bacillus subtilis, Proteus mirabilis and S. typhimurium strains have been published (Adler et al., 1976; Ames et al., 1975; Kada et al., 1972; Rosenkranz et al., 1976). ",
+        "bbox": [
+            539,
+            791,
+            940,
+            842
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            64,
+            83,
+            466,
+            217
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results from the testing of approximately l000 chemicals in one or more of these assays have been reported. In several studies, chemicals were tested simultaneously in DNA repair-deficient strains and in the Salmonella mutagenicity assay, and these results showed a correlation with those of carcinogenicity tests in animals (Poirier & De Serres, 1979; Rosenkranz & Poirier, 1979): $7 9 \\%$ of 99 carcinogens tested preferentially inhibited the DNA repair-deficient E. coli pol $\\mathtt { A } ^ { - }$ strain; in parallel mutagenesis tests using Salmonella strains, $6 5 \\%$ were positive; $9 2 \\%$ of the carcinogens were detected by a combination of the two procedures; and $5 9 \\%$ of the carcinogens were active in both assays. ",
+        "bbox": [
+            64,
+            232,
+            469,
+            399
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The major problems with these assays relate to the disc-diffusion procedure. In this mode, poorly diffusible chemicals give uninterpretable results, and metabolic activation is inadequate. These disadvantages can be overcome by use of liquid suspension assay procedures (as in the studies quoted above). ",
+        "bbox": [
+            65,
+            414,
+            469,
+            499
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "These assays have been used to test environmental mixtures, but there is no report of their use for the detection of substances in urine or in the host-mediated assay. Strains with greater permeability have become available\", and their increased use may be useful. ",
+        "bbox": [
+            64,
+            514,
+            467,
+            582
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. GENERAL DISCUSSION AND CONCLUSIONS ",
+        "text_level": 1,
+        "bbox": [
+            163,
+            664,
+            371,
+            681
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Experimental design and evaluation of data ",
+        "text_level": 1,
+        "bbox": [
+            65,
+            714,
+            323,
+            733
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A satisfactory experimental protocol for bacterial mutagenicity tests must include a range of doses. For inactive chemicals, the highest dose tested should be the limit of solubility or toxicity (see also Report 10, p.277). The occurrence of extremely low levels of impurities should be ",
+        "bbox": [
+            64,
+            747,
+            468,
+            816
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "taken into consideration when testing chemicals at very high doses (see, e.g., Donahue et al., 1978). Therefore, whenever possible the chemical compound tested must be clearly characterized, i.e., its Chemical Abstracts Service number, its chemical structure, its purity and the source from which it was obtained should be specified. ",
+        "bbox": [
+            539,
+            75,
+            948,
+            161
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The description of the experimental protocol should be detailed enough to allow independent repetition of the test. Experiments should be.of sufficient scale to allow adequate statistical analysis, and any test should be capable of providing reproducible dose-response curves susceptible to appropriate statistical analysis. Some statistical analysis of the data should be made (see Ehrenberg, 1977; Katz, 1979; Norpoth, 1978; Weinstein & Lewinson, 1978); however, it is also important to provide the 'raw' data, to enable others to make their own analyses. At the least, mean values (including the number of replicate plates used to calculate the mean) and indications of variability (for example, standard deviation) of plate counts for the negative control, the positive controls and each dose of the test compound should also be indicated. The amounts of chemical used should be expressed in weight or in molarity and not in volume. ",
+        "bbox": [
+            542,
+            175,
+            945,
+            411
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Results should not be expressed as '+' or '-'. Nor should they be expressed as transformed data, i.e., as percentages, by subtracting spontaneous counts, or expressed as revertants per nanogram or nanomole or as a ratio of colonies on treated and control plates. Such transformations make independent evaluation impossible. ",
+        "bbox": [
+            544,
+            423,
+            942,
+            510
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "A positive result obtained in several tests, preferably with different endpoints, is of much greater value in establishing the DNA-damaging capacity of a compound than a result obtained in one test alone. In this way, advantage can be taken of the unique characteristics of the different bacterial tests. ",
+        "bbox": [
+            545,
+            523,
+            941,
+            610
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.2 Detection of DNA-damaging agents ",
+        "text_level": 1,
+        "bbox": [
+            547,
+            642,
+            747,
+            661
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Short-term test systems using specially designed bacterial strains proyide a powerful tool for detecting chemicals that can interact with DNA or modify its metabolism. They also allow characterization of the type of interactions and elucidation of their biological consequences at the molecular level. At present, it is theoretically possible to detect almost any type of DNA-damaging or otherwise mutagenic agent by using a battery of several bacterial tester strains. There are, however, some intrinsic limitations: for example, there are chemicals, such as mitotic spindle poisons and hormones, that are likely to produce genetic or stable epigenetic effects in mammalian cells through mechanisms that are not present in bacteria. ",
+        "bbox": [
+            546,
+            673,
+            950,
+            862
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Addition of appropriate mammalian metabolizing systems (e.g., S9 fractions, hepatocytes) to these bacterial test systems greatly enhances the relevance of the results to higher organisms. Even so, extrapolation of results of bacterial tests to predict results in mammals is hazardous and involves many factors. For example, metabolic differences may exist between the target cells or between the in vivo and the in vitro metabolic activation and detoxification systems (Some of the limitations due to the use of the subcellular metabolic activation system can be overcome by using complementary assays based on eukaryotic cells). In addition, pharmacokinetic factors render correlations, especially quantitative ones, difficult (see Report 10, p. 277). ",
+        "bbox": [
+            63,
+            77,
+            469,
+            261
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "These tests can also be used as a biological endpoint for the preliminary investigation of complex mixtures and as bioassays for isolation of their mutagenic components. Such complex mixtures include body fluids, excreta, water, food, effluents and air samples. They can also be used to detect impurities in drugs or industrial chemicals. ",
+        "bbox": [
+            64,
+            277,
+            466,
+            360
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The specific biological consequences that are measured as endpoints in these short-term tests are mutations, lethal effects and prophage induction. The detailed mechanisms of these phenomena at the molecular level are beginning to be understood. Since the primary DNA lesions are acted upon by various DNA repair systems (pre- and post-replicative, error-free and error-prone), several consequences of the same initial interactions are possible; although the final genetic consequences depend upon the genetic backgound of the organism. ",
+        "bbox": [
+            64,
+            375,
+            466,
+            510
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.3 Extrapolation of results ",
+        "text_level": 1,
+        "bbox": [
+            65,
+            542,
+            224,
+            559
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "There is a qualitative correlation between results in bacterial short-term tests and those in animal carcinogenicity tests. However, it is much less certain whether a quantitative correlation can be made, and therefore a strong positive response in these tests does not necessarily indicate that the substance would have a strong carcinogenic effect. The converse is also true: a potent carcinogen would not necessarily be a potent mutagen. ",
+        "bbox": [
+            65,
+            574,
+            462,
+            693
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The carcinogenic potency of chemicals in animal carcinogenicity tests varies by more than a million-fold (Anes & Hooper, 1978; Meselson & Russell, 1977); and there is a similarly wide range of mutagenic activity of chemicals in some short-term tests (Clive, 1977; McCann & Ames, 1977). Determination of the relationships between the potency of chemicals in short-term tests, in animal carcinogenicity tests, in tests in animals for heritable effects and, when possible, in humans, will be of importance in developing methods to assess human risk on the basis of these various sources of data. Some exploratory work on correlations between carcino",
+        "bbox": [
+            65,
+            707,
+            467,
+            859
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "genic potency and mutagenic potency in the Salmonella/microsome test (Ames, 1979; Meselson & Russell, 1977) and in the mouse lymphoma test (Clive et al., 1979) are encouraging. However, there is not likely to be a perfect correlation, and it will be important to identify classes of chemicals for which there may be some correlation as well as classes for which no correlation exists (see, e.g., Bartsch, 1980). ",
+        "bbox": [
+            542,
+            70,
+            937,
+            174
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5. REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            704,
+            254,
+            782,
+            271
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Aaron, C.S., van Zeeland, A.A., Mohn, G.R. Knaap, A.G.A.C., Tates, A.D. & Glickman, B.W. (1980) Molecular dosimetry of the chemical mutagen ethyl methanesulfonate: quantitative comparison of mutation induction in Escherichia coli, V-79 Chinese hamster cells, L5178 mouse lymphoma cells and some in vitro and in vivo cytological results. Mutat. Res. (in press) ",
+        "bbox": [
+            543,
+            303,
+            941,
+            406
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Adhya, S.L. & Shapiro, J.A. (1969) The galactose operon of E. coli K-12.1 Structural and pleiotropic mutations of the operon. Genetics, 62, 231-247 ",
+        "bbox": [
+            543,
+            419,
+            946,
+            473
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Adler, B., Braun, R., Schöneich, J. & Böhme, H. (1976) Repair-defective mutants of Proteus mirabilis as a prescreening system for the detection of potential carcinogens. Biol. Zbl., 95, 463-469 ",
+        "bbox": [
+            544,
+            485,
+            935,
+            537
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ames, B.N. (1979) Identifying environmental chemicals causing mutations and cancer. Science, 204, 587-593 ",
+        "bbox": [
+            545,
+            551,
+            931,
+            587
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ames, B.N. & Hooper, K. (1978) Does carcinogenic potency correlate with mutagenic potency in the Ames assay? Nature, 274, 19-20 ",
+        "bbox": [
+            547,
+            600,
+            936,
+            637
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ames, B.N. & McCann, J. (1976) Carcinogens are mutagens: a simple test system. In: Montesano, R., Bartsch, H. & Tomatis, L., eds, Screening Tests in Chemical Carcinogenesis (IARC Scientific Publications No. 17), Lyon, pp. 493-504 ",
+        "bbox": [
+            545,
+            651,
+            932,
+            721
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ames, B.N., Lee, F. & Durston, W. (1973a) An improved bacterial test system for the detection and classification of mutagens and carcinogens. Proc. natl Acad. Sci. USA, 70, 782-786 ",
+        "bbox": [
+            546,
+            734,
+            941,
+            788
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ames, B.N., Durston, W., Yamasaki, E. & Lee, F. (1973b) Carcinogens are mutagens: a simple test system combining liver homogenates for activation and bacteria for detection. Proc. natl Acad. Sci. USA, 70, 2281-2285 ",
+        "bbox": [
+            547,
+            801,
+            937,
+            872
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ames, B.N., McCann, J. & Yamasaki, E. (1975) $\\cdot \\ \\cdot$ Methods for detecting carcinogens and mutagens with the Salmonella/mammalian-microsome mutagenicity test. Mutat. Res., 31, 347-364 ",
+        "bbox": [
+            62,
+            77,
+            464,
+            130
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Anon. (1978) International programme for the evaluation of short-term tests-for carcinogenicity. Mutat. Res., 54, 203-206   \nAshyby, J. & de Serres, F.J., eds (1980) International Programme for the Evaluation of Short-Term Tests for Carcinogenicity, Amsterdam, Elsevier/North-Holland Biomedical Press (in press)   \nBachmann, B. (1972) Pedigrees of some mutant strains of Escherichia coli K-12. Bacteriol. Rev., 36, 525-557   \nBartsch, H., Malaveille, C. & Montesano, R. (1975a) In vitro metabolism and microsome-mediated mutagenicity of dialkylnitrosamines in rat, hamster and mouse tissues. Cancer Res., 35, 644   \nBartsch, H., Malaveille, C. & Montesano, R. (1975b) Human, rat and mouse liver-mediated mutagenicity of vinyl chloride in S. typhimurium strains. Int. J. Cancer, 15, 429-437   \nBartsch, H., Malaveille, C., Camus, A.-M., Martel-Planche, G., Brun, G., Hautefeuille, A., Sabadie, N., Barbin, A., Kuroki, T., Drevon, C., Piccoli, C. & Montesano, R. (1980) Bacterial and mammalian mutagenicity tests: validation and comparative studies on 180 chemicals. In: Montesano, R., Bartsch, H. & Tomatis, L., eds, Molecular and Cellular Aspects of Carcinogen Screening Tests (IARC Scientific Publications No. 27), Lyon, International Agency for Research on Cancer, pp. 179-241   \nBerger, H., Brammar, W.J. & Yanofsky, C. (1968) Spontaneous and ICR-191 induced frameshift mutations in the A gene of Escherichia coli tryptophan synthetase. J. Bacteriol., 96, 1672-1679   \nCamus, A., Bertram, B., Krüger, F.W., Malaveille, C. & Bartsch, H. (1976) Mutagenicity of $\\mathsf { \\beta }$ -oxidized N,N-di-n-propylnitrosamine derivatives in S. typhimurium mediated by rat and hamster tissues. Z. Krebsforsch., 86, 293-302   \nClarke, C.H. & Wade, M.J. (1975) Evidence that caffeine, 8-methoxypsoralen and steroidal diamines are frameshift mutagens for E. coli K-l2. Mutat. Res., 28, 123-125   \nClive, D. (1977) A linear relationship between tumorigenic potency in vivo and mutagenic potency at the heterozygous thymidine kinase (TK+/-) locus of L5178Y mouse lymphoma cells coupled with mammalian metabolism. In: Scott, D., Bridges, B.A. & Sobels, F.H., eds, Progress in Genetic Toxicology, Amsterdam, Elsevier, pp. 241-247 ",
+        "bbox": [
+            61,
+            92,
+            471,
+            901
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Clive, D., Johnson, K.O., Spector, J.F.S., Batson, A.G. & Brown, M.M.M. (1979) Validation and characterization of the L5178Y/TK+/- mouse 1ymphoma mutagen assay system. Mutat. Res., 59, 61-108 ",
+        "bbox": [
+            544,
+            80,
+            928,
+            132
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Coulondre, C. & Miller, J.H. (1977) Genetic studies of the lac repressor. IV. Mutagenic specificity in the lacI gene of Echerichia coli. J. mol. Biol., 117, 577-606 ",
+        "bbox": [
+            543,
+            146,
+            943,
+            200
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Donahue, E.V., McCann, J. & Ames, B.N. (1978) Detection of mutagenic impurities in carcinogens and noncarcinogens by high-pressure liquid chromotography and the Salmonella/microsome test. Cancer Res., 38, 431-438 ",
+        "bbox": [
+            543,
+            212,
+            942,
+            281
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Durston, W.E. & Ames, B.N. (1974) A simple method for the detection of mutagens in urine: studies with the carcinogen 2-acetylaminofluorene. Proc. natl Acad. Sci. USA, 71, 737-741 ",
+        "bbox": [
+            543,
+            294,
+            946,
+            349
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ehrenberg, L. (1977) Aspects of statistical inference in testing for genetic toxicity.  In: Kilbey, B.J., Legator, M., Nichols, W. & Ramel, C., eds, Handbook of Mutagenicity Test Procedures, Amsterdam, Elsevier, pp. 419-459 ",
+        "bbox": [
+            545,
+            362,
+            942,
+            431
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Elesperu, R.K. & Yarmolinsky, M.B. (1979) A colorimetric assay of lysogenic induction designed for screening potential carcinogenic and carcinostatic agents. Environ. Mutagenesis, 1, 65-78 ",
+        "bbox": [
+            544,
+            445,
+            936,
+            499
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Englesberg, E., Anderson, R.L., Weinberg, R., Lee, N., Hoffee, P., Huttemhauer, G. & Boyer, H. (1962) L-Arabinose-sensitive, L-ribulose 5-phosphate 4-epimerase-deficient mutants of Escherichia coli. J. Bacteriol., 84, 137-146 ",
+        "bbox": [
+            546,
+            511,
+            948,
+            582
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Glover, S.W. (1962) Valine-resistant mutants of Escherichia coli K-12. Genet. Res., 3, 448-460 ",
+        "bbox": [
+            545,
+            594,
+            932,
+            631
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Green, M.H.L., Muriel, W.J. & Bridges, B.A. (1976) Use of a simplified fluctuation test to detect low levels of mutagens. Mutat. Res., 38, 33-42 \" ",
+        "bbox": [
+            545,
+            644,
+            932,
+            699
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Green, M.H.L., Bridges, B.A., Rogers, A.M, Horspool, G., Muriel, W.J., Bridges, J.W. & Fry, J.R. (1977). Mutation screening by a simplified bacterial fluctuation test: use of microsomal preparations and whole liver cells for metabolic activation. Mutat. Res., 48, 287-294 ",
+        "bbox": [
+            547,
+            711,
+            950,
+            781
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Hane, M.W. & Wood, T.H. (1969) Escherichia coli K-12 mutants resistant to nalidixic acid: genetic mapping and dominance studies. J. Bacteriol., 99, 238-241 ",
+        "bbox": [
+            545,
+            793,
+            933,
+            848
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Heddle, J.A. & Bruce, W.R. (1977) Comparison of tests for mutagenicity or carcinogenicity using assays for sperm abnormalities, formation of micronuclei, and mutations in Salmonella. In: Hiatt, H.H., Watson, J.D. & Winsten, J.A., eds, Origins of Human Cancer, Book C, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, PP. 1549-1557 Heinemann, B. (197l) Prophage induction in lysogenic bacteria as a method of detecting potential mutagenic, carcinogenic, carcinostatic and teratogenic agents. In: Hollaender, A., ed, Chemical Mutagens: Principles and Methods for Their Detection, Vol. 1, New York, Plenum Press, pp. 235-266 Hemmerly, J. & Demerec, M. (1955) Tests of chemicals for mutagenicity. Cancer Res., Suppl. 3, 69-75 Herman, R.K. & Dworkin, N.B. (1971) Effect of gene induction on the rate of mutagenesis by ICR-191 in Escherichia coli. J. Bacteriol., 106,   \n543-550 Hershey, A.D. (1971) The Bacteriophage Lambda, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory Hollstein, M.J., McCann, J., Angelosanto, F.A. & Nichols, W.W. (1979) Short-term tests for carcinogens and mutagens. Mutat. Res., 65,   \n133-226 1 Hooper, N.K., Ames, B.N., Saleh, M.A. & Casida, J.E. (1979) ToxaphEne, a complex mixture of polychloroterpenes and the most widely used insecticide, is mutagenic. Science, 205, 591-593 Hussain, S. & Ehrenberg, L. (1977) Gene mutations: dose-response relationships and their significance for extrapolation to man. Abhandl. Akad. Wissensch. DDR, N9, 95-100 Iyer, V.N. & Szybalski, W. (1958) Two simple methods for the detection of chemical mutagens. Appl. Microbiol., 6, 23-29 Kada, T., Tutikawa, K. & Sadaie, Y. (1972) In vivo and host-mediated rec-assay procedures for screening chemical mutagens; and phloxine, a mutagenic dye detected. Mutat. Res., 16, 165-174 Katz, A.J. (1979) Design and analysis of experiments on mutagenicity. II. Assays involving microorganisms. Mutat. Res., 64, 61-77 Leive, L. (1968) Studies on the permeability change produced in coliform bacteria by ethylenediaminetetraacetate. J. biol. Chem., 243,   \n2373-2380 Levine, A., Moreau, P.L., Sedgwick, S.G., Devoret, R., Adhya, S., Gottesman, M. & Das, A. (1978) Expression of a bacterial gene turned on by a potent carcinogen. Mutat. Res., 50, 29-35 Malamy, M.H. (1966) Frameshift mutations in the lactose operon of E. coli. Cold Spring Harbor Symp. Quant. Biol., 31, 189-201 Malling, H.V. (197l) Dimethylnitrosamine: formation of mutagenic compounds by interaction with mouse liver microsomes. Mutat. Res.,   \n13, 425-429 Matsushima, T., Yahagi, T., Takamoto, Y., Nagao, M. & Sugimura, T. (1980) Species differences in microsomal activation of mutagens and carcinogens, with special reference to new potent mutagens from pyrolysates of amino acids and proteins. In: Microsomes, Drug Oxidations, and Chemical Carcinogenesis, London, New York, Academic Press (in press) McCann, J. & Ames, B.N. (1976) Detection of carcinogens as mutagens in the Salmonella/microsome test: assay of 300 chemicals: discussion. Proc. natl Acad. Sci. USA, 73, 950-954 McCann, J. & Ames, B.N. (1977) The Salmonella/microsome mutagenicity test: predictive value for animal carcinogenicity, In: Hiatt, H.H., Watson, J.D. & Winsten, J.A., eds, Origins of Human Cancer, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, Pp. 1431-1450 McCann, J., Choi, E., Yamasaki, E. & Ames, B.N. (1975a) Detection of carcinogens as mutagens in the Salmonella/microsome test: assay of   \n300 chemicals. Proc. natl Acad. Sci. USA, 72, 5135-5139 McCann, J., Spingarn, N.E., Kobori, J. & Ames, B.N. (1975b) Detection of carcinogens as mutagens: bacterial tester strains with R factor plasmids. Proc. natl Acad. Sci. USA, 72, 979-983 McMahon, R.E., Cline, J.C. & Thompson, C.Z. (1979) The assay of 855 test chemicals in 10 tester strains employing a new modification of the , Ames test. Cancer Res., 39, 682-693 Meselson, M. & Russell, K. (1977) Comparisons of carcinogenic and mutagenic potency. In: Hiatt, H.H., Watson, J.D. & Winsten, J.A., eds, Origins of Human Cancer, Book C, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, Pp. 1473-1481 Mohn, G.R. (1977) Actual status of mutagenicity testing with the hostmediated assay. Arch. Toxicol., 38, 109-133 ",
+        "bbox": [
+            57,
+            89,
+            465,
+            869
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            540,
+            75,
+            959,
+            858
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Mohn, G.R. & Ellenberger, J. (1977) The use of Escherichia coli Kl2/343/113(λ) as a multi-purpose indicator strain in various mutagenicity testing procedures. In: Kilbey, B.J., Legator, M., Nichols, W. & Ramel, C., eds, Handbook of Mutagenicity Test Procedures, Amsterdam, Elsevier, pp. 95-118 ",
+        "bbox": [
+            65,
+            86,
+            440,
+            172
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Moreau, P., Bailone, A. & Devoret, R. (1976) Prophage λ induction in Escherichia coli Kl2 envA uvrB: a highly sensitive test for potential carcinogens. Proc. natl Acad. Sci. USA, 73, 3700-3704 ",
+        "bbox": [
+            65,
+            186,
+            470,
+            238
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Moreau, P. & Devoret, R. (1977) Potential carcinogens tested by induction and mutagenesis of prophage λ in Escherichia coli Kl2. In: Hiatt, H.H., Watson, J.D. & Winsten, J.A. eds, Origins of Human Cancer, Book C, Cold Spring Harbor, NY, Cold Spring Harbor Laboratory, pp. 1451-1472 ",
+        "bbox": [
+            68,
+            252,
+            472,
+            338
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Nagao, M., Yahagi, T., Seino, Y., Sugimura, T. & Ito, N. (1977) Mutagenicities of quinoline and its derivatives. Mutat. Res., 42, 335-342 ",
+        "bbox": [
+            66,
+            352,
+            453,
+            403
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Norpoth, K. (1978) Qualitätsscherung bei der mikrobiologischen fremdstofftestung auf mutagenität im routine-laboratorium. Staub-Reinhalt. Luft, 38, 235-239 ",
+        "bbox": [
+            66,
+            419,
+            474,
+            471
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Norpoth, K. & Garner, R.C., eds (1980) Short-term Mutagenicity Test Systems for Detecting Carcinogens, Berlin, Heidelberg, New York, Springer (in press) ",
+        "bbox": [
+            67,
+            485,
+            442,
+            537
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Poirier, L. & De Serres, F. (1979) Initial National Cancer Institute studies on mutagenesis as a prescreen for chemical carcinogens: an appraisal. J. natl Cancer Inst., 62, 919-926 ",
+        "bbox": [
+            67,
+            551,
+            454,
+            605
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Purchase, I.F.H., Longstaff, E., Ashby, J., Styles, J.A., Anderson, D., Lefevre, P.A. & Westwood, F.R. (1976) Evaluation of six short-term tests for detecting organic chemical carcinogens and recommendations for their use. Nature, 264, 624-627 ",
+        "bbox": [
+            67,
+            617,
+            465,
+            688
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Purchase, I.F.H., Longstaff, E., Ashby, J., Styles, J.A., Anderson, D., Lefevre, P.A. & Westwood, F.R. (1978) An evaluation of six shortterm tests for detecting organic chemical carcinogens. Br. J. Cancer, 37, 873-959 ",
+        "bbox": [
+            67,
+            701,
+            457,
+            771
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Rinkus, S.J. & Legator, M.S. (1979) Chemical characterization of 465 known or suspected carcinogens and their correlation with mutagenic activity in the Salmonella typhimurium system. Cancer Res., 39 3289-3318 ",
+        "bbox": [
+            68,
+            785,
+            460,
+            853
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Rosenkranz, H. & Poirier, L. (1979) Evaluation of the mutagenicity and DNA-modifying activity of carcinogens and non-carcinogens in microbial systems. J. natl Cancer Inst., 62, 873-892 ",
+        "bbox": [
+            544,
+            83,
+            931,
+            137
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Rosenkranz, H.S. Gutter, B. & Speck, W.T. (1976) Mutagenicity and DNAmodifying activity: a comparison of two microbial assays. Mutat. Res., 41, 61-70 ",
+        "bbox": [
+            546,
+            149,
+            930,
+            206
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Rotman, B., Ganesan, A.K. & Guzman, R. (1968) Transport systems for galactose and galactosides in Escherichia coli.\" II. Substrate and inducer specificities. J. mol. Biol., 36, 247-260 ",
+        "bbox": [
+            544,
+            215,
+            932,
+            269
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Simmon, V., Kauhanen, K. & Tardiff, R. (1977) Mutagenic activity of chemicals identified in drinking water. In: Scott, D., Bridges, B.A. & Sobels, F.H., eds, Progress in Genetic Toxicology, Amsterdam, Elsevier, pp. 249-258 ",
+        "bbox": [
+            548,
+            281,
+            947,
+            352
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Skopek, T.R., Liber, H.L., KadEn, D.A. & Thilly, W.G. (1978a) Relative sensitivities of forward and reverse mutation assays in Salmonella typhimurium. Proc. natl Acad. Sci. USA, 75, 4465-4469 ",
+        "bbox": [
+            547,
+            365,
+            937,
+            419
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Skopek, T.R., Liber, H.L., Krolewski, J.J. & Thilly, W.G. (1978b) Quantitative forward mutation assay in Salmonella typhimurium using 8-azaguanine resistance as a genetic marker. Proc. natl Acad. Sci. USA, 75, 410-414 ",
+        "bbox": [
+            548,
+            431,
+            941,
+            506
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Sugimura, T., Sato, S., Nagao,.M., Yahagi, T., Matsushima, T., Seino, Y., Takeuchi, M. & Kawachi, T. (1976) Overlapping of carcinogens and mutagens. In: Magee, P.N., Takayama, S., Sugimura, T. & Matsushima, T., eds, Fundamentals in Cancer Prevention, Tokyo, University of Tokyo Press/Baltimore, University Park Press, pp. 19l-215 ",
+        "bbox": [
+            551,
+            514,
+            946,
+            600
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": ".Todd, P.A., Monti-Bragadin, C. & Glickman, B.W. (1979) MMS mutagenesis in strains of Escherichia coli carrying the R46 mutagenic enhancing plasmid: phenotypic analysis of arg² revertants. Mutat. Res., 62, 227-237 ",
+        "bbox": [
+            548,
+            613,
+            944,
+            685
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Toman, Z., Dambly, C. & Radman, M. (1980) Induction of a stable, heritable epigenetic change by mutagenic carcinogens: a new test system. In: Montesano, R., Bartsch, H. & Tomatis, L., eds, Molecular and Cellular Aspects of Carcinogen Screening Tests (IARC Scientific Publications No. 27), Lyon, International Agency for Research on Cancer, pp. 243-255 ",
+        "bbox": [
+            552,
+            696,
+            931,
+            799
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Venitt, S., Bushell, C.T. & Osborne, M. (1977) Mutagenicity of acrylonitrile (cyanoethylene) in Escherichia coli. Mutat. Res., 45, 283-288 ",
+        "bbox": [
+            552,
+            813,
+            939,
+            867
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Walker, G.C. (1978) Isolation and characterization of mutants of the. plasmid pKM 10l deficient in their ability to enhance mutagenesis and repair. J. Bacteriol., 133, 1203-1211   \nWeinstein, D. & Lewinson, T.M. (1978) A statistical treatment of the Ames mutagenicity assay. Mutat. Res., 51, 433-434   \nYahagi, T., Nagao, M., Seino, Y., Matsushima, T., Sugimura T. & Okada, M. (1977) Mutagenicities of N-nitrosamines on Salmonella. Mutat. Res., 48, 121-130   \nYamasaki, E. & Ames, B.N. (1977) Concentration of mutagens from urine by adsorption with the nonpolar resin XAD-2: cigarette smokers have mutagenic urine. Proc. natl Acad. Sci. USA, 74, 3555-3559   \nYanofsky, C., Ito, J. & Horn, V. (1966) Amino acid replacements and the genetic code. Cold Spring Harbor Symp. Quant. Biol., 3l, 151-162   \nYura, T. & Wada, C. (1968) Phenetyl alcohol resistance in Escherichia coli. 1. Resistance of strain C600 and its relation to azide resistance. Genetics, 59, 177-190 ",
+        "bbox": [
+            58,
+            89,
+            460,
+            440
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            689,
+            240,
+            780,
+            260
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A number of 'short-term' tests have been developed for the detection of environmental mutagens/carcinogens. These employ a variety of organisms, from bacteriophages and bacteria to mammalian cells, together with the appropriate metabolic activation system. Genetic responses are measured by diverse biological endpoints. ",
+        "bbox": [
+            534,
+            289,
+            932,
+            379
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Several experimental systems have been developed to measure speciric locus mutations in mammalian cells in culture. The most commonly used genetic markers are resistance to 8-azaguanine, 6-thioguanine and ouabain in V79 and CHO Chinese hamster cells, and to 5-bromo-2'-deoxyuridine (BUdR) in L5178Y mouse cells. The mutagenesis assay using mammalian cells has been reviewed by several workers (Abbondandolo, 1977; Arlett, 1977; DeMars, 1974; Siminovitch, 1976; Thompson & Baker, 1973). The purpose of the present report is to assess the relevance of this assay system to detect carcinogens. ",
+        "bbox": [
+            536,
+            389,
+            944,
+            548
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "2. EVIDENCE THAT PHENOTYPIC CHANGES ARE THE RESULT OF TRUE MUTATIONS ",
+        "text_level": 1,
+        "bbox": [
+            555,
+            616,
+            933,
+            642
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(1) The altered phenotype is stable and is transmitted to the cell progeny. ",
+        "bbox": [
+            542,
+            667,
+            935,
+            716
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "(2) The appearance of the altered phenotype can be enhanced by application of mutagenic agents. ",
+        "bbox": [
+            542,
+            718,
+            935,
+            762
+        ],
+        "page_idx": 12
+    }
+]

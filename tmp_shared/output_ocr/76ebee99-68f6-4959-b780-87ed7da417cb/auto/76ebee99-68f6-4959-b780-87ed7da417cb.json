@@ -1,0 +1,728 @@
+[
+    {
+        "type": "text",
+        "text": "Induced Mutagenesis in dam\" Mutants of Escherichia coli : A Role for 6-Methyladenine Residues in Mutation Avoidance ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            188,
+            682,
+            230
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Barry Glickman 1, Peter van den Elsen 1\\*, and Miroslav Radman 2 1 Laboratory for Molecular Genetics, University of Leiden, Wassenaarseweg 64, Leiden, The Netherlands 2 Département de Biologie Moleculaire, Université de Bruxelles, B1640 Rhode St. Genèse, Belgium ",
+        "bbox": [
+            93,
+            248,
+            717,
+            292
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. E. coli strains carrying the dam-3 and dam4 mutations resulting in reduced levels of 6-methyladenine in the DNA have been found to be more sensitive to base analogue mutagenesis than dam+ strains. Mutagenesis by EMS was also found to be enhanced in dam\\~ strains. Dam\\~ mutants however were not found to be hypermutable by UV light. It is concluded that the dam\" strains are deficient in the correct repair of mispairing lesions. The data are consistent with the hypothesis that 6-methyladenine residues in the DNA are involved in strand discrimination during mismatch correction. ",
+        "bbox": [
+            95,
+            324,
+            483,
+            505
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The occurrence of mismatch correction suggests that mismatch repair could also act in a directed manner to correct errors arising during DNA replication thus making a major contribution to overall replication fidelity. However, any repair system which can correct mismatch base pairs resulting from replication errors would likely require a mechanism allowing discrimination between the \"correct\" parental strand and the \"error-containing\" newly synthesized strand. Wagner and Meselson (1976) have suggested that the undermethylation of newly replicated DNA might provide the basis for such discrimination. Moreover, Radman, Wagner and Meselson (unpublished results), using E. coli transfection assays with heteroduplex λ DNA prepared from methylated and undermethylated DNA found that the undermethylated strands were always preferentially corrected yielding the phenotype of the methylated strands. This finding strongly supports the hypothesis that generalized methylation provides the basis for strand discrimination in the repair of mismatched DNA. ",
+        "bbox": [
+            515,
+            324,
+            903,
+            642
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            552,
+            182,
+            565
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The repair of mismatched bases is thought to be involved in gene conversion (Holliday, 1964; Whitehouse and Hastings, 1965) and certain facets of recombination between closely linked markers (White and Fox, 1975; Meselson and Radding, 1975). Evidence for mismatch repair has been obtained from genetic studies with transfection assays with heteroduplex DNA in E. coli with bacterophage $\\Phi { \\bf X } 1 7 4$ DNA (Baas and Jansz, 1972), T4 DNA (Berger and Pardoll, 1976) and bacteriophage λ DNA (Nevers and Spatz, 1975; Wildenberg and Meselson, 1976) and more recently in mammalian cells in the case of SV40 viral heteroduplex DNA (Wilson, 1977). ",
+        "bbox": [
+            96,
+            584,
+            483,
+            777
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Indirect evidence for mismatch repair in $E$ .coli was also obtained by Rydberg (1977) who showed the reversibility of 5-bromouracil induced mutagenesis by amino acid starvation and the hypermutability of the repair deficient uvrD and uvrE mutants. ",
+        "bbox": [
+            96,
+            779,
+            483,
+            854
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The DNA of E. coli contains about 0.5 mole per cent of 6-methyladenine (6Me-A), the great majority of which is under the control of the dam gene (Marinus and Morris, 1973). Dam mutants are deficient in the methylation of the $5 ^ { \\prime }$ -G-A-T-C $. 3 ^ { \\prime }$ sequence (Lacks and Greenberg, 1977), implying that the residual methylation, which is about $10 \\%$ , must be due to some other sequence. ",
+        "bbox": [
+            515,
+            643,
+            903,
+            763
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dam mutants show pleiotropic effects including: increased spontaneous mutagenesis; increased spontaneous induction of prophage $\\lambda$ ; increased sensitivity to methylmethanesulphonate (MMS); slight sensitivity to UV light; increased single-strand breakage in the DNA and a hyper-recombination phenotype (Marinus and Morris, 1974 and 1975; Marinus and Konrad, 1976). ",
+        "bbox": [
+            516,
+            764,
+            903,
+            884
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present study we examine the mutability of isogenic dam+ and dam strains following exposure to UV light, the base analogues 2-aminopurine (2AP) and 5-bromouracil (5-BU) and ethylmethanesulphonate (EMS). Our results support and extend the hypothesis according to which the excision repair of mismatched bases occurs preferentially from the newly synthesized strand using dam-directed methylation to discriminate between the old and new strands. We have called this process, methylation-instructed mismatch correction. ",
+        "bbox": [
+            516,
+            885,
+            903,
+            913
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            95,
+            82,
+            481,
+            217
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            249,
+            260,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The strains of $E .$ coli K12 used in this study and their origin are given in Table 1. ",
+        "bbox": [
+            93,
+            281,
+            481,
+            307
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media. The minimal medium used was that of Vogel and Bonner, supplemented as previously described (Glickman et al., 1971). Enriched medium contained $\\mathrm { 1 0 ~ g / 1 }$ Difco Bacto tryptone, $5 ~ \\mathrm { g } / 1$ Difco yeast extract, $8 ~ \\mathbf { g } / 1$ NaCl and $1 0 ^ { - 3 } \\mathbf { M }$ Tris, $\\mathrm { p H } ~ 7 . 0$ Solid medium contained $1 . 8 \\%$ Difco bacto agar in the case of minimal medium and $1 . 6 \\%$ Opti-agar in the case of enriched medium. ",
+        "bbox": [
+            95,
+            307,
+            481,
+            380
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemicals. The 2-aminopurine (2AP) was purchased from Sigma Chemical Company, Ethyl methanesulphonate (EMS) from KochLight Laboratories Ltd., and 5-bromodeoxyuridine (5BU) from Calbiochem. ",
+        "bbox": [
+            93,
+            382,
+            481,
+            430
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Strain Construction. Plkc-mediated transductions were carried out as described previously (Glickman et al., 1971) and conjugations were done as described by Miller (1972). Thymine requiring derivatives were produced as described by Miller (1972) on minimal medium plates supplemented with $5 0 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ thymine and $1 0 ~ { \\mu \\mathrm { g / m l } }$ trimethoprim (TRIM). Dam\" strains were found to be sensitive to 2AP and screening for dam\" derivatives was done on either minimal medium plates containing $2 0 0 ~ \\mu \\mathrm { g } / \\mathrm { m l } ~ 2 \\mathrm { A P }$ or enriched medium plates containing $4 0 0 ~ \\mu \\mathrm { g / m l }$ 2AP. ",
+        "bbox": [
+            93,
+            431,
+            481,
+            480
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bc2a4961bfa943e8140c83f6f1d4c3e0cc13ff9f902c204738049d2b0e56d0e3.jpg",
+        "table_caption": [
+            "Table 1. The strains of E. coli K12 used in this study "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            91,
+            528,
+            483,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            82,
+            897,
+            143
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis. For mutation experiments, ten single colonies were grown from each strain and examined for their spontaneous reversion levels to $\\mathrm { A r g ^ { + } }$ and $\\mathrm { H i s ^ { + } }$ and their mutation frequency to Valr. The subculture with the lowest spontaneous mutation level was selected for further experiments and stored in $50 \\%$ glycerol at $- 2 0 ^ { \\circ } \\mathrm { C }$ The selection for $\\mathrm { V a l ^ { r } }$ was done as described by Glover (1962) on minimal medium plates with the necessary growth requirements and $4 0 ~ \\mu \\mathrm { g / m l }$ L-valine. The reversion of the arg and his mutations (both ochre) was measured using top agar $( 0 . 8 \\%$ bactoagar) supplemented with both $5 . 8 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ histidine and $1 3 ~ \\mu \\mu /$ ml L-arginine to allow expression of the mutation and reduce the dependence of the reversion frequency upon cell concentration (Witkin, 1976). ",
+        "bbox": [
+            513,
+            145,
+            897,
+            304
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis by 2AP: The glycerol cultures were diluted in steps into minimal medium to a cell concentration of about $1 \\times 1 0 ^ { 5 }$ cells per ml and grown overnight in various concentrations of 2AP. The following morning the cells were centrifuged and washed twice with unsupplemented minimal medium and the appropriate dilutions were plated to determine both cell viability and mutation induction. ",
+        "bbox": [
+            513,
+            305,
+            899,
+            392
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ethyl methanesulphonate (EMS) mutagenesis: EMS mutagenesis was done in enriched medium with exponentially growing cultures at $3 7 ^ { \\circ }$ with aeration. After the treatment the cells were cooled, centrifuged, washed twice and plated to determine viability and mutation induction. ",
+        "bbox": [
+            513,
+            393,
+            899,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV-light mutagenesis: UV light treatment was carried out as described by Glickman et al. (1971). The dose rate was measured with a Latarjet UV dosimeter. ",
+        "bbox": [
+            515,
+            454,
+            899,
+            491
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5-Bromodeoxyuracil mutagenesis: 5BU mutagenesis was carried out in overnight cultures as described for 2AP mutagenesis. However, the minimal medium was supplemented with $0 . 4 \\%$ Difco vitamin free amino acids and a total of $5 0 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ of the pyrimidines thymine and 5BU in the appropriate ratio. ",
+        "bbox": [
+            515,
+            492,
+            901,
+            554
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Calculations : The mutation frequency is defined as the number of mutants per $1 0 ^ { 7 }$ viable cells. The mutation rates, expressed as mutations per cel per generation, were calculated by the formula: ",
+        "bbox": [
+            515,
+            555,
+            901,
+            591
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$a { = } \\frac { M } { g \\cdot N }$ where a is the mutation rate, $M$ the number of mutants induced, $g$ the number of generations which the cells were allowed to grow and $N$ the population size (Stabl, 1969). ",
+        "bbox": [
+            516,
+            593,
+            903,
+            647
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            681,
+            565,
+            695
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spontaneous Mutability ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            710,
+            685,
+            724
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dam-3, dam- $\\mathbf { \\mathcal { A } }$ and dam+ derivatives of AB1157 were examined for their spontaneous mutation levels by determining the frequency of forward mutations from Vals to Val\". As can be seen in Table 2, the mutation frequency in the dam-3 and dam- $^ { 4 }$ strains is respectively 10 and 40 times higher than in the dam+ strain. ",
+        "bbox": [
+            515,
+            735,
+            901,
+            838
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Effect of UV-Irradiation ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            858,
+            722,
+            872
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The dam strains are slightly UV-sensitive (particularly at higher dosis) (Marinus and Morris, 1973). ",
+        "bbox": [
+            515,
+            884,
+            901,
+            912
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/b694e4bd3ad11d227b0e6346e51060e66268267c265f5772157b83b31aaf322d.jpg",
+        "table_caption": [
+            "Table 2. Spontaneous mutation frequency for Val. The frequency given is the average of at least 6 experiments, each performed using 20 independent growth tubes. The $9 5 \\%$ confidence limits are shown "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            93,
+            138,
+            483,
+            217
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/47113b3020cef48b65f664d2846a52b4aabdae278912ef7b3e842e9412778382.jpg",
+        "image_caption": [
+            "Fig. 2 A and B. The effects of growth with 2AP. A. Relative survival during growth in minimal medium containing various concentrations of 2AP. B. The induction of $\\mathrm { V a l } ^ { \\mathrm { r } }$ mutants. The symbols used are the same as in Figure 1 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            253,
+            481,
+            484
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this study we have concentrated on low UV fluences where the survival in all strains at all doses was greater than $1 0 \\%$ (Fig. 1 a). In this way the effect of cell viability upon mutation induction was minimized (Witkin, 1976). ",
+        "bbox": [
+            515,
+            81,
+            903,
+            157
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Although the spontaneous mutation frequency was higher in the dam\\~ strains (Fig. 1b and 1c), the actual slope of the mutation induction dose response is similar in all three strains whether the Val' forward mutation is considered or the reversion of argE3, an ochre mutation. Similar results were found for the histidine marker, his- $^ { 4 }$ (ochre). ",
+        "bbox": [
+            515,
+            159,
+            903,
+            264
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1108d71b453c89cb9c8c26aa00861b1daa32353fff6219f249d4bba46f03c1d.jpg",
+        "table_caption": [
+            "Table 3. 2AP induced Val in dam\\* (AB1157), dam-3 (KMBL 3703) and dam-4 (KMBL 3704) strains. The mutation rate $\\left( \\mathbb { M } / \\mathbf { g } \\right)$ signifies mutations per generation. $\\operatorname { M x } / \\operatorname { M o }$ is the relative mutation rate at dose $\\times$ compared to the control "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            513,
+            359,
+            903,
+            536
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/13359da5640e16b9c3a97837f2616cb7a92f75399113e40525e70369a99fb778.jpg",
+        "image_caption": [
+            "Fig. 1 A-C. The effects of UV irradiation. Symbols: AB1157 (dam+), $\\bullet$ ; KMBL 3703 (dam-3), $\\triangle - \\triangle$ ; KMBL 3704 (dam-4), ${ \\bf \\nabla } \\times - { \\bf \\nabla } \\times . { \\bf A }$ .Survival. B. Mutation induction scoring for Val. C. Mutation induction scoring for $\\mathbf { A r g } ^ { + }$ reversion "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            93,
+            603,
+            782,
+            887
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/502faa92e5a108557ec51901f4f20a0399a85e6ceb5b52639f1efb3acf292a90.jpg",
+        "image_caption": [
+            "Fig. 3 A and B. The effects of growth with 5BU. Symbols: KMBL 3732 $( d a m ^ { + } ,$ , • $\\bullet$ ; KMBL 3730 (dam-3), ∆-Δ; KMBL 3731 (dam- $\\cdot 4 \\cdot$ , ${ \\times - x }$ . A. Relative viability in minimal medium containing various concentrations of 5BU given as the percentage of the total concentration of pyrimidines which is 5BU. B. The induction of Val mutants during growth in medium containing 5BU. Note that mutation induction in the dam\\* strain in only slightly above the background "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            91,
+            80,
+            484,
+            322
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9a51eeb98ef93c729053364d9ff9112b117a2dee0a2f8aba22de8e6631d4192.jpg",
+        "table_caption": [
+            "Table 4. 5BU induced mutation rate for Val' in thymine requiring derivatives of the strains given in Table 3. The level of 5BU in the medium is given as the $\\%$ of 5BU with respect to the total pyrimidine ${ 5 } \\mathrm { B U + }$ thymine) concentration "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            93,
+            500,
+            483,
+            642
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis by 2-Aminopurine ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            81,
+            734,
+            96
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The influence of the dam mutation upon mutagenesis by 2AP was examined. Cultures grown overnight in various concentrations of 2AP were examined for viable cell count and induced mutation. Although there was considerable variation in cell viability after growth in 2AP, the dam strains were always more sensitive to growth inhibition by 2AP than the dam\\* strain (Fig. 2a). In fact this difference in sensitivity provides a quick and reliable test by which dam strains can be identified. ",
+        "bbox": [
+            513,
+            112,
+            897,
+            262
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis by 2AP was much more effective in the dam\\~ strain than in the dam\\* strain. The mutation induction curves for Val are given in Figure $^ { 2 \\mathrm { b } }$ . Similar results were obtained for the reversion of the argE3 and his-4 loci (results not shown). The mutation rates are presented in Table 3. The magnitude of the dam-effect is massive. For example, at $7 0 \\mu \\mathrm { g } / \\mathrm { m l } 2 \\mathrm { A P }$ the dam- $^ { 3 }$ and dam $\\boldsymbol { \\cdot } \\boldsymbol { 4 }$ strains are 56 and 500 times more mutable than the wild type strain. ",
+        "bbox": [
+            513,
+            264,
+            899,
+            400
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bromouracil Mutagenesis ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            431,
+            695,
+            445
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mutagenesis by 5BU was examined by growing thymine requiring dam\\~ and dam+ strains for 8 to 12 generations in minimal medium containing various percentages of the pyrimidine (thymine) substituted by 5BU. As can be seen in Figure 3a, growth of the dam\\~ strains was inhibited to a greater extend by the presence of 5BU than in the case of the dam+ strain. Moreover, the dam strains are much more mutable by 5BU than the dam+ strains (Fig. 3b). The 5BU induced mutation rate is summarized in Table 4. It should be noted that while 5BU induces Val mutants efficiently, the ochre mutations his-4 and argE3 were not affected by growth with 5BU. This observation is in agreement with that made by Rydberg (1977). ",
+        "bbox": [
+            515,
+            462,
+            899,
+            643
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/f6b72d480dedb150cdb1c698017a391d5a830347df97e6d7c6610405b7a72fb9.jpg",
+        "image_caption": [
+            "Fig. 4 A-C. The effects of EMS. A. Effect upon survival. B. The induction of $\\mathrm { V a l ^ { r } }$ mutants. C. The induction of $\\mathrm { A r g ^ { + } }$ revertant: The symbols are the same as in Figure 1 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            666,
+            770,
+            899
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            84,
+            478,
+            129
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Effect of Ethyl Methanesulfonate ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            160,
+            361,
+            175
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The dam\" strains were found to be slightly sensitive to killing by the alkylating agent, EMS (Fig. 4a), and enhanced mutagenesis was observed for Val' (Fig. 4b) as well as for $\\mathrm { H i s ^ { + } }$ and $\\mathrm { A r g } ^ { + }$ reversion (not shown). ",
+        "bbox": [
+            93,
+            191,
+            479,
+            250
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            298,
+            168,
+            312
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "There appear to be two major pathways responsible for mutagenesis in E. coli: \"Indirect mutagenesis\" provoked by non-pairing DNA lesions which inhibit DNA synthesis and \"direct mutagenesis\" provoked by subtle modifications of the DNA template or incorporated precursors. In the case of indirect mutagenesis, the nonpairing lesion (e.g. a pyrimidine dimer) obstructs DNA synthesis and results in the induction of the recA dependent S.O.S. repair system (see Witkin, 1976 for a review) which, at the cost of fidelity, enables the cell to bypass the lesion (Radman, 1975; Radman et al., 1977). ",
+        "bbox": [
+            95,
+            328,
+            481,
+            508
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Direct mutagenesis on the other hand can be due to tautomers and isomers of normal bases (Watson and Crick, 1953; Topal and Fresco, 1976) or the incorporation of base analogues such as 2-aminopurine and 5-bromouracil, deaminating agents such as bisulphite, hydroxylamine and nitrous acid or some alkylating agents (for a review see Drake and Baltz, 1976). Direct mutagenesis encompasses both spontaneous mutagenesis and recA independent modes of mutagenesis. ",
+        "bbox": [
+            96,
+            510,
+            483,
+            659
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The correction of mispairing lesions seems to occur at two levels; one directly following precursor incorporation in a $3 ^ { \\prime } { - } 5 ^ { \\prime }$ exonucleolytic proofreading reaction by DNA polymerase itself (Brutlag and Kornberg, 1972; Bessman et al., 1974), the other depending upon mismatch repair analogous to gene conversion as suggested by Wagner and Meselson, (1976). ",
+        "bbox": [
+            98,
+            661,
+            484,
+            766
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The occurrence of an \"error-avoidance\" excision type of repair mechanism for mismatched bases necessitates the existence of a discriminatory mechanism by which the parental (i.e. correct) and the newly synthesized strands (i.e. containing replication errors) can be differentiated. Generalized methylation has been suggested to provide the means for strand discrimination (Wagner and Meselson, 1976) and evidence supporting this hypothesis has been obtained by Radman, Wagner and Meselson (see Introduction). ",
+        "bbox": [
+            98,
+            768,
+            484,
+            931
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the present study it was found that the dam mutants, deficient in generalized methylation, are hypermutable by the base analogues 2AP and 5BU but normally mutable by UV light. These results are in agreement with the hypothesis that replicational errors can be corrected by a methylation-instructed correction system. Furthermore this hypothesis also helps to explain the pleiotropic effects of the dam mutation. The greatly reduced levels of methylation in the dam\\~ mutants reduce strand discrimination and where mismatched bases are detected the responsible correndonuclease can incise either strand. Thus where mispairing occurs single-strand breakage will occur in both parental and newly replicated strands. This may well account for the increased number of single-strand breaks seen in dam strains, the inviability of strains carrying the dam mutation in combination with other repair genes such as recA, lexA, recB, recC, and polA and the hyper-recombination phenotype of dam mutants (Marinus and Morris, 19741975; Marinus and Konrad, 1976). Furthermore, the loss of methylation-instructed correction of mismatched bases accounts for the increase in the spontaneous mutation frequency observed in the dam\" strains. ",
+        "bbox": [
+            516,
+            86,
+            903,
+            462
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The observation that the dam mutants are more mutable by EMS than the isogenic dam+ suggests that EMS damage is at least partially repaired by the mismatch correction pathway. This implies that EMS must also effect the newly synthesized DNA, either at the single-strand level at the growing point or directly at the level of the precursors. The ability of EMS to act with a high degree of specificity at the replication fork has been demonstrated by genetic mapping in synchronized cells of Anacystis nidulans (Delaney and Carr, 1975). ",
+        "bbox": [
+            518,
+            464,
+            904,
+            630
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion we support and extend the yet unpublished proposal of Radman, Wagner and Meselson that the correction of mispaired bases in DNA occurs through a methylation-instructed excision event. This model depends upon the reduced levels of adenine methylation present in newly synthesized DNA to discriminate between the parental and daughter strands. A correndonuclease-exonuclease complex which can recognize the presence of a mismatched base pair excises specifically the mismatched base present in the undermethylated, newly synthesized strand in a reaction similar to that proposed for other lesions (Wagner and Meselson, 1976; Hanawalt, 1975). Resynthesis then occurs using the intact parental strand as template. The direction of excision (Wagner and Meselson, 1976) and the increased spontaneous mutagenesis found in polA strains (Kondo, 1973; Vaccaro and Siegel, 1975) suggest that DNA polymerase I may be responsible for this step. ",
+        "bbox": [
+            518,
+            633,
+            906,
+            917
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Finally, we would like to propose that methyla. ",
+        "bbox": [
+            543,
+            918,
+            901,
+            931
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "tion-instructed error avoidance may be a general phenomenon. Newly synthesized DNA in mammalian cells is also undermethylated (Adams, 1974) and mismatch correction has been demonstrated (Wilson, 1977). This together with the well studied gene conversion phenomena in fungi and Drosophila suggests that mutation suppression by methylation-instructed mismatch correction is likely to be ubiquitous. ",
+        "bbox": [
+            95,
+            82,
+            481,
+            202
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements. The authors wish to acknowledge the technical help of N. Guijt. We thank Drs. R. Wagner and M. Meselson for allowing us to cite unpublished experiments. Appreciation is also due to Dr. M.G. Marinus for making the dam mutants available and to Dr. J. Von Borstel, Dr. P. Van de Putte and Dr. C.A. Van Sluis for their helpful discussions. This work was supported by EURATOM contract BIAN T102-72-1. M.R. is supported by EURATOM contract No. 224-76-I BIOB and by a grant from the International Atomic Energy Agency (No. 1939/ RB). ",
+        "bbox": [
+            95,
+            220,
+            481,
+            347
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            379,
+            170,
+            393
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Adams, R.: Newly synthesized DNA is not methylated. Biochim. Biophys. Acta 335, 365373 (1974)   \nBaas, P.D., Jansz, H.S.: Asymetric information transfer during $\\Phi \\mathbf { X } 1 7 4$ DNA replication. J. molec. Biol. 63, 557568 (1972)   \nBerger, H. Pardoll, D. : Evidence that mismatched bases in heteroduplex T4 bacteriophage are recognized in vivo. J. Bact. 20, 441445 (1976)   \nBessman, M.J., Muzyczka, N., Goodman, M.F., Schnaar, R.L.: Studies on the biochemical basis of spontaneous mutation II. The incorporation of a base and its analogue into DNA by wild type, mutator and antimutator DNA polymerases. J. molec. Biol. 88, 409421 (1974)   \nBrutlag, D., Kornberg, A.: Enzymatic synthesis of deoxyribonucleic acids. XXXVI. A proofreading function for the $3 ^ { \\prime } { - } 5 ^ { \\prime }$ exonuclease activity in DNA polymerases. J. biol. Chem. 247, 241248 (1972)   \nDelaney, S.F., Carr, N.G.: Temporal Genetic Mapping in the Blue-green Alga Anacystis nidulans using Ethylmethase sulphonate. J. gen. Microbiol. 88, 257268 (1975)   \nDrake, J.W., Baltz, R.H.: The biochemistry of mutagenesis. Ann. Rev. Biochem. 45, 1137 (1976)   \nGlickman, B.W., Zwenk, H., Sluis, C.A. Van, Rörsch, A.: The isolation and characterization of an $\\mathrm { x }$ -ray-sensitive ultraviolet light-resistant mutant of Escherichia coli. Biochim. biophys. Acta (Amst.) 254, 144154 (1971)   \nGlover, S.W.: Valine-resistant mutants of Escherichia coli K12. Genet. Res. 3, 448457 (1962)   \nHolliday, R.: A mechanism for gene conversion in fungi. Genet. Res. Camb. 5, 282304 (1964)   \nKondo, S. : Evidence that mutations are induced by errors in repair and replication. Genetics (Suppl.) 73, 109122 (1973)   \nLacks, S., Greenberg, B.: Complementary specificity of restriction endonucleases of Diplococcus pneumoniae with respect to DNA methylation. J. molec. Biol. 114, 153168 (1977)   \nMarinus, M.G.: Location of DNA methylation genes on the Escherichia coli map. Molec. gen. Genet. 127, 4755 (1973)   \nMarinus, M.G., Bruce Konrad, E.: Hyper-recombination in dam mutants of E. coli K12. Molec. gen. Genet. 149, 273277 (1976)   \nMarinus, M.G., Morris, N.R.: Pleiotropic effects of a DNA adenine methylation mutation (dam-3) in Escherichia coli K12. Mutation Res. 28, 1526 (1975)   \nMarinus, M.G., Morris, R.N. : Biological function for the 6-methyladenine residues in the DNA of Escherichia coli K12. J. molec. Biol. 85, 309322 (1974)   \nMeselson, M.S., Radding, C.M.: A general model for genetic recombination. Proc. nat. Acad. Sci. (Wash.) 72, 358361 (1975)   \nMiller, J.H. : Experiments in molecular genetics. New York: Cold Spring Harbour Laboratory 1972   \nNevers, P., Spatz, H.: Escherichia coli mutants uvrD and uurE deficient in gene conversion of -heteroduplexes. Molec. gen. Genet. 139, 133143 (1975)   \nRadman, M. : SOS repair hypothesis: phenomenology of inducible repair which is accompanied by mutagenesis. In: Molecular mechanisms for the repair of DNA (Hanawalt, P.C., Setlow, R.B., eds.), pp. 355-367. New York: Plenum Press 1975   \nRaman, M., Villai, G., Boiteux, S. Defais, M., Caillet-Fauquet, P., Spidari, S. : On the molecular mechanism of induced mutagenesis. In: Origins of human cancer (Hiatt, H., Watson, J.D., Winstein, J.D., eds.) Cold Spring Harbour: Cold Spring Harbour Laboratory 1977   \nRydberg, B.: Bromouracil mutagenesis in Escherichia coli: Evidence for involvement of mismatch repair. Molec. gen. Genet. 152, 1928 (1977)   \nStahl, F.W.: The mechanics of inheritance, 2nd edition. Englewood Cliffs: Prentice Hall Inc. 1969   \nTopal, M.D., Fresco, J.R.: Complementary base pairing and the origin of substitution mutations. Nature (Lond.) 263, 285293 (1976)   \nVoccaro, K.K., Siegel, E.: Increased spontaneous reversion of certain frameshift mutations in DNA polymerase I deficient strains of Escherichia coli. Molec. gen. Genet. 141, 251262 (1975)   \nWagner, R., Jr., Meselson, M.: Repair tracts in mismatched DNA heteroduplexes. Proc. nat. Acad. Sci. (Wash.) 73, 41354139 (1976)   \nWatson, J.D., Crick, F.H.C.: A structure for deoxyribose nucleic acids. Nature (Lond.) 171, 737738 (1953)   \nWhite, R., Fox, M.: Genetic consequences of transfection with heteroduplex bacteriophage λ DNA. Molec. gen. Genet. 141, 163171 (1975)   \nWhitehouse, H.L.K., Hastings, P.J.: The analysis of genetic recombination on the poloron hybrid DNA model. Genet. Res. Camb. 6, 2792 (1965)   \nWildenberg, J., Meselson, M.: Mismatch repair in heteroduplex DNA. Proc. nat. Acad. Sci. (Wash.) 72, 22022206 (1975)   \nWilson, J.H. Genetic analysis of host range mutant viruses suggests an uncoating defect in simian virus 40-resistant monkey cells. Proc. nat. Acad. Sci. (Wash.) 74, 3503 3507 (1977)   \nWitkin, E.M.: Ultraviolet mutagenesis and inducible DNA repair in Escherichia coli. Bact. Rev. 40, 869907 (1976) ",
+        "bbox": [
+            95,
+            411,
+            483,
+            831
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            77,
+            901,
+            775
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Communicated by W. Arber ",
+        "text_level": 1,
+        "bbox": [
+            518,
+            785,
+            727,
+            800
+        ],
+        "page_idx": 5
+    }
+]

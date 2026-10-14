@@ -1,0 +1,259 @@
+[
+    {
+        "type": "text",
+        "text": "To be a mutator, or how pathogenic and commensal bacteria can evolve rapidly ",
+        "text_level": 1,
+        "bbox": [
+            98,
+            112,
+            831,
+            231
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "François Taddei, Ivan Matic, Bernard Godelle and Miroslav Radman ",
+        "bbox": [
+            238,
+            237,
+            686,
+            278
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The fragile equilibrium between humans and pathogenic microorganisms, established as a result of the efforts to control and eradicate infectious diseases, is constantly being challenged by microorganisms developing new survival strategies. Results from recent studies suggest that specialized 'mutator' cell phenotypes might play a major role in this cycle of adaptation. In a recent article in Science, LeClerc et al. reported more than $1 \\%$ of mutators in populations of Escherichia coli and Salmonella enterica pathogens1. This paper inspired a comment in the same issue, entitled 'Quick-change pathogens gain an evolutionary edge', which discussed the impact of such mutators on the rapid emergence of new pathogens such as E. coli O157:H7 (Ref. 2). The mutator phenotypes characterized in this paper are defective in methyl-directed mismatch repair. This repair pathway, encoded by mutH, mutL, mutS and mutU genes, is necessary for editing replication and recombination3. For example, a defect in the mutS gene, the mutator allele most often found by LeClerc et al., enhances mutation among, and recombination between, E. coli and Salmonella typhimurium by up to 1000-fold3. ",
+        "bbox": [
+            80,
+            307,
+            323,
+            753
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The importance of mutator alleles for the evolution of pathogens is directly linked to their particular lifestyle. They must enter a host, find a unique niche, circumvent competing microorganisms and host defence barriers to replicate to a sufficient number to be transmitted to a new susceptible host. Potentially, the evolution of such organisms from their commensal ancestor not only requires the acquisition of additional genes, for example those that encode virulence determinants, but also the modification of existing functions. ",
+        "bbox": [
+            81,
+            753,
+            325,
+            905
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            341,
+            307,
+            583,
+            358
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "One example of the way pathogens use their genetic variability to escape immune surveillance and drug therapy comes from 3TCresistant HIV-1. The reverse transcriptases of the viruses resistant to this nucleotide analogue have an enhanced fidelity that delays the appearance of drug resistance in vitro and appears to be associated with lower viral burden in vivo4. Thus, it seems that if HIV has such a high mutation rate, it is not because it could not evolve a more faithful reverse transcriptase but because a higher mutation rate favours its adaptation. ",
+        "bbox": [
+            341,
+            359,
+            584,
+            574
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Among the different Yersinia species, increased virulence correlates with increased genetic instability5. Although this system has been less studied than the HIV system, the same logic might apply, and this instability might be the result of an adaptation. Another example of how mutator alleles can help cells to evade host defences comes from human cancer research. Some tumour cells have been shown to have a defect in their mismatch repair system6: such cells are prime targets for cytotoxic T cells because they express many antigenically modified proteins that have arisen from increased mutagenesis. However, these cells often lose their human leukocyte antigen (HLA) presentation system, probably also because of mutational inactivation, which might suggest that they have undergone selection to evade T-cell surveillance and killing. Similarly, to evade host defence strategies, some parasites show increased mutation rate at specific loci (leading, for example, to antigenic variation). ",
+        "bbox": [
+            341,
+            576,
+            584,
+            763
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            604,
+            309,
+            846,
+            486
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "During evolution towards a parasitic lifestyle, an organism may lose a function that can be replaced by a function in its host. Parasitic regression, in which parasitic species are almost unrecognizable because of the loss of many structures and functions, has a genetic counterpart in prokaryotes. One such example is the reduction of genome size and the loss of complete anabolic and metabolic pathways in Mycoplasma pneumoniae during its reductive evolution from ancestral bacteria8. Its obligate parasitic lifestyle depends on the availability of exogenous essential metabolites within its host. These observations support the view that many mutations that would be deleterious in a commensal species would be neutral, or maybe even advantageous, in a parasitic one (e.g. it is in the interest of the parasite to lose or modify a function that can lead to immune recognition by its host). Hence, the cost of a mutator phenotype would be lower. This is supported by the absence in M. pneumoniae of the mut gene homologues that are seen in all other bacterial taxa, and by the increased mutation rate observed in parasitic lineages. ",
+        "bbox": [
+            604,
+            489,
+            848,
+            903
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A good example of the role of mutators in adapting populations is provided by a recent study by Mao et al., which shows mutator proliferation in an initially mut cell population. In a population of $1 0 ^ { 1 0 }$ individuals grown overnight from a single colony of E. coli, fewer than $3 \\times 1 0 ^ { - 5 }$ mutators were found. The mutation rate per base is estimated to be $\\sim 1 0 ^ { - 9 }$ , but ${ \\sim } 5 0 0$ base changes (spread between ten antimutator genes) will lead to a mutator phenotype. Thus, the probability of generating a single _mutator is in the order of $5 \\times \\mathrm { { 1 0 ^ { - 7 } } }$ .The simulations published recently in Naturel11 show that it would take some time for mutations to accumulate to levels higher than $1 0 ^ { - 5 }$ Hence, the observed frequency is not surprising. When Mao et al.0 selected for a lacZ frameshift reversion, they found one mutator per $2 0 0 l a c ^ { + }$ cells. If the cell population is previously mutagenized and submitted to a few cycles of selection, then the mutators can become the majority. Although this paper is discussed mainly in the light of carcinogenesis, it has implications for the evolution of any clonal cell population, including that of pathogens and commensals. ",
+        "bbox": [
+            148,
+            116,
+            390,
+            537
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { \\ t i o n ^ { 1 1 } }$ . What limits the probability of fixation of a mutator allele is the genetic load generated by deleterious mutation. Moreover, recurrent selection for rare mutants, which is likely to occur in pathogens (whose standing challenge is to adapt to host defences), can lead to a stable combination of differing mutation rates or, in extreme cases, to an escalation of the mutation rates15. ",
+        "bbox": [
+            410,
+            118,
+            651,
+            256
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All these recent papers suggest that the mutation rate in evolving bacteria is certainly not minimal and probably not constant. The occurrence of mutators at high frequencies can be viewed as a symptom of recent or current adaptation to a new environment, a common situation for commensals and pathogens. Moreover, enhanced mutation rates are likely to be an efficient strategy for tumour cells, bacteria and viruses to resist any new drugs employed in medicine. ",
+        "bbox": [
+            408,
+            260,
+            651,
+            436
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pathogenicity is simply one manifestation of the extraordinary versatility of microorganisms. Therefore, mutators might play a more general role in bacterial evolution, as suggested by the high variability of mutation rates in pathogens and commensals12. These results suggest that both types of bacteria are subject to a permanent evolution to adapt to their ever-changing environment. ",
+        "bbox": [
+            148,
+            538,
+            390,
+            677
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgement ",
+        "text_level": 1,
+        "bbox": [
+            410,
+            453,
+            532,
+            464
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "F.T. is supported by the Institut National d la Santé et de la Recherche Médicale. ",
+        "bbox": [
+            410,
+            465,
+            650,
+            488
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            673,
+            120,
+            748,
+            130
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 LeClerc, J.E. et al. (1996) Science 274, 1208-1211   \n2 Grady, D. (1996) Science 274, 1081   \n3 Radman, M. et al. (1995) Philos. Trans. R. Soc. London Ser. B 347, 97103   \n4 Wainberg, M.A. et al. (1996) Science 271, 12821285   \n5 Najdenski, H., Iteman, I. and Carniel, E. (1995) Contrib. Microbiol. Immunol. 13, 281-284   \n6 Branch, P. et al. (1995) Nat. Genet. 9, 231-232   \n7 Moxon, E.R. et al. (1994) Curr. Biol. 4, 24-33   \n8 Himmelreich, R. et al. (1996) Nucleic Acids Res. 24, 4420-4449   \n9 Woese, C.R. (1984) J. Mol. Evol. 21, 305-316   \n10 Mao, E.F. et al. (1997) J. Bacteriol. 179, 417-422   \n11 Taddei, F. et al. (1997) Nature 387, 700-702   \n12 Matic, I. et al. (1997) Science 277, 18331834   \n13 Chao, L. and Cox, E.C. (1983) Evolution 37, 125134   \n14 Sniegowski, P.D., Gerrish, P.J. and Lenski, R.E. (1997) Nature 387, 703-705   \n15 Haraguchi, Y. and Sasaki, A. (1996) J. Theor. Biol. 183, 121137 ",
+        "bbox": [
+            674,
+            130,
+            915,
+            488
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This possibility is supported by experiments performed in chemostats, where different mutator strains show a competitive advantage over otherwise isogenic non-mutator strains13, and during long-term adaptive studies, where a mutator can take over in some populations14. The role of mutators in adaptive evolution has also been highlighted in theoretical studies11,15. Under directional selection, a population can transiently fix a mutator allele if its effect on the mutation rate is not too high (for example, an increase of one or two orders of magnitude). Such fixation has a dramatic effect on the speed of population evolu",
+        "bbox": [
+            148,
+            678,
+            392,
+            906
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Response from Cebula and LeClerc ",
+        "text_level": 1,
+        "bbox": [
+            434,
+            519,
+            629,
+            549
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When the nexpecte hih intype among human pathogens was first reported', we suggested that this phenotype could be of advantage to the pathogen, contributing to its long-term survival and ultimate success. We reasoned that a bacterium so endowed might adapt more readily to the unstable environment of its new host, or it might be more effective in escaping the onslaught of the host's defense systems. Taddei et al. now suggest several more examples where genetic variability might benefit the pathogen-host relationship and the roles that a mutator phenotype may have in establishing successful infection. ",
+        "bbox": [
+            408,
+            562,
+            653,
+            803
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the mutation rate of a cell is controlled by multiple pathways, any of which can lead to a mutator phenotype when defective and, hence, rapid variation, we place particular significance on the fact that all mutators identified among our natural isolates are defective in methyl-directed mismatch repair (MMR) (Refs 1,2). The unique role of MMR defects in promoting homeologous recombination  gene exchange between and among species - could provide the selective advantage for successful pathogens. That is, a mutator, with speciation barriers relaxed, could acquire sequence elements (e.g. pathogenicity islands or islets³) from either similar or disparate genomes4, after which this rare recombinant might rise to prominence by selective enrichment in particular environments. ",
+        "bbox": [
+            411,
+            804,
+            653,
+            905
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            671,
+            524,
+            915,
+            714
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although mutators may play a role in the evolution of pathogens and nonpathogens alike, we suggest that their occurrence in Salmonella and pathogenic isolates of Escherichia coli reflects selective advantages of gene acquisition for the transient and accidental processes of infection5.6. Up to $2 0 \\%$ of genomes differ within Salmonella species', and even greater sequence difference is expected between the genomes of $E$ coli and Salmonella. These estimates are indicative of the impact that genetic transfer between ",
+        "bbox": [
+            673,
+            715,
+            916,
+            903
+        ],
+        "page_idx": 1
+    }
+]

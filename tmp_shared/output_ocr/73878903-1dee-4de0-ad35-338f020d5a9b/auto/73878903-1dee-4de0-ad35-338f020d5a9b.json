@@ -1,0 +1,115 @@
+[
+    {
+        "type": "text",
+        "text": "Mutation Rate of the F Episome ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            126,
+            522,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mutation rate per replication of all DNA-based genomes (including viruses like M13 and lambda, bacteria, and yeast) appears to be constant (on the order of one per 300 genomes replicated — Drake’s rule) (1). This constant likely reflects an optimal or minimal rate of mutation. There is one noticeable exception to this rule, the F episome. Although the F episome is not generally considered itself a microorganism, ",
+        "bbox": [
+            115,
+            165,
+            872,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "rather a plasmid-like replicon, the various aspects of its life cycle — that is, vegetative growth, prolonged periods of nongrowth, and the ability to transmit its genetic material through conjugation — provide a basis for comparison with virions that are dependent on host factors for propagation. ",
+        "bbox": [
+            115,
+            260,
+            878,
+            324
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The rate of mutation of the F episome depends on the stage of its life cycle. During vegetative growth, the mutation rate per base of the F episome is the same as its Escherichia coli host, which has a genome about 20-fold larger. Thus during vegetative growth, more mutations accumulate in the host chromosome than in the F episome. However, during conjugal transfer, the mutation rate of the F episome increases at least 20-fold (2) compared to the host chromosome. Furthermore, Radicella et al. (21 Apr., p. 418) report that, when cells carrying an F episome bearing a frame shift mutation that prevents growth on lactose are incubated for a prolonged period, the reversion rate increases up to 50-fold as compared with the chromosomal locus. Therefore, if one takes into account the different aspects of the life cycle, the F episome fine tunes its mutation rate. The overall mutation rate per genome of the F episome thereby appears to conform to Drake’s rule, rather than provide an exception to it. ",
+        "bbox": [
+            114,
+            340,
+            880,
+            517
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            712,
+            206,
+            726
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. J. W. Drake, Proc. Natl. Acad. Sci. U.S.A. 88, 7160 (1991).   \n2. B. A. Kunz and B. W. Glickman, Genetics 105, 489 (1983); ibid. 106, 347 (1984); R. B. Christensen, J. R. Christensen, C. W. Lawrence, Mol. Gen. Genet. 201, 35 (1985). ",
+        "bbox": [
+            144,
+            744,
+            870,
+            793
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Response: Taddei et al. have overinterpreted recent reports on adaptive reversion of an F plasmid-borne mutant locus. Neither our report nor that of Radicella et al. allows conclusions to be made about mutation rates during F replication, either sexual or vegetative. Our reports suggest only that, under selective conditions, the observed reversion seen in nongrowing cells requires transfer replication. The point is that replicating DNA (the F plasmid) is more mutable than nonreplicating DNA (the chromosome). In order to determine rates of mutation for evaluation in terms of Drake’s rule (1), one would need to know how many times the sequence was replicated; neither we nor Radicella et al. have assessed this. Also, the observed Rec dependence of reversion under selective conditions indicates a fundamental difference that may be related to the form of the replicated product. Standard F plasmid transfer experiments show no Rec dependence. Conclusions regarding whether F, or any other genetic entity, conforms to Drake’s rule under conditions of strong selection and adversity are premature. ",
+        "bbox": [
+            112,
+            841,
+            872,
+            873
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            114,
+            124,
+            882,
+            285
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tim Galitski   \nJohn Roth   \nDepartment of Biology,   \nUniversity of Utah,   \n201 Biology Building,   \nSalt Lake City, UT 84112, USA ",
+        "bbox": [
+            114,
+            334,
+            371,
+            430
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            447,
+            205,
+            462
+        ],
+        "page_idx": 1
+    }
+]

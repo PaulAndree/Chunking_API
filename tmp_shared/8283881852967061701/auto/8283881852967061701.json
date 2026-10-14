@@ -1,0 +1,476 @@
+[
+    {
+        "type": "text",
+        "text": "Los términos presión parcial de un gas en sangre o tensión de un gas en sangre, como el propio nombre lo explica se refiere a la presión parcial de un determinado gas en la sangre.1 El medir la tensión de los gases en sangre puede tener varios propósitos;2  las presiones más comúnmente medidas son la tensión de oxígeno3 $( \\mathrm { P } _ { \\mathrm { X } } \\mathrm { O } _ { 2 } )$ , la presión parcial de de dióxido de carbono3 $( \\mathrm { P _ { x } C O _ { 2 } } )$ y la tensión de monóxido de carbono3 $( \\mathrm { P _ { x } C O } )$ . El subíndice $x$ en cada símbolo representa la fuente del gas que está siendo medido; siendo \"a\" arterial,3 $\" A \"$ alveolar,3  \"v\" venosa,3  \"c\" capilar.3 Los análisis de gases en sangre, miden estas presiones parciales. ",
+        "bbox": [
+            68,
+            140,
+            932,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de oxígeno ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            315,
+            413,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de oxígeno arterial (normal) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            362,
+            490,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { P _ { a } O _ { 2 } }$ — La presión parcial de oxígeno en sangre arterial a nivel del mar ( presión atmosférica $=$ 765   \nmmHg) se encuentra entre los 75 mmHg y los 100 mmHg.4 5 6 ",
+        "bbox": [
+            65,
+            395,
+            931,
+            434
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de oxígeno venosa (normal) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            447,
+            494,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { P _ { v } O _ { 2 } }$ — La presión parcial de oxígeno en sangre venosa a nivel del mar se encuentra entre los $3 0 \\mathrm { m m H } \\mathrm { g }$ y los 40 mmHg.6 7 ",
+        "bbox": [
+            65,
+            480,
+            931,
+            519
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de dióxido de carbono ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            553,
+            561,
+            578
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El dióxido de carbono es un subproducto del metabolismo de los alimentos, y en grandes cantidades tiene efectos tóxicos que incluyen: disnea, acidosis, y alteraciones de la conciencia.8 ",
+        "bbox": [
+            65,
+            595,
+            927,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de dióxido de carbono arterial ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            646,
+            514,
+            665
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { P _ { a } C O _ { 2 } } - \\mathrm { L a }$ presión parcial de dióxido de carbono a nivel del mar $( 7 6 5 \\ \\mathrm { m m H g } )$ en sangre arterial se encuentra entre 35 mmHg y 45 mmHg.9 ",
+        "bbox": [
+            70,
+            679,
+            932,
+            717
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de dióxido de carbono venosa ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            730,
+            515,
+            749
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { P _ { v } C O _ { 2 } }$ — La presión parcial de dióxido de carbono a nivel del mar en sangre venosa se encuentra entre 40 mmHg y 50 mmHg.9 ",
+        "bbox": [
+            70,
+            763,
+            932,
+            802
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de monóxido de carbono ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            837,
+            591,
+            862
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Presión parcial de monóxido de carbono (normal) ",
+        "bbox": [
+            70,
+            884,
+            549,
+            903
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { P _ { a } C O }$ — La presión parcial de CO a nivel del mar (765 $\\mathrm { m m H } \\{ \\mathrm { g } \\}$ en sangre arterial es de aproximadamente 0,02 $\\mathrm { m m H g }$ . Puede ser ligeramente mayor en fumadores y en personas que viven en áreas urbanas densamente pobladas. ",
+        "bbox": [
+            70,
+            42,
+            581,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Importancia ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            154,
+            235,
+            178
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La presión parcial de gases en sangre es importante porque se encuentra directamente relacionado con los parámetros fisiológicos de ventilación y oxigenación.10 Cuando se acompaña del balance sanguíneo de pH, la $\\mathbf { P a C O } _ { 2 }$ , concentración de bicarbonato $\\mathrm { ( H C O } _ { 3 } )$ (y lactato) estos parámetros ayudan al profesional de la salud a decidir que intervenciones, si son necesarias, debería hacer.10 11 ",
+        "bbox": [
+            70,
+            194,
+            581,
+            330
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Se han hecho estudios para determinar cuales son los valores \"normales\" de las presiones de los gases en sangre, y como varían estos con la edad, sexo, peso y estatura.12 Como es lógico también se ha determinado que estos parámetros varían con la presió barométrica, y con la altitud. Existen algunas calculadoras en línea (http://dynamicmt.com/abgpred.html) Archivado (https://web.archive.org/web/20150813211015/htt p://dynamicmt.com/abgpred.html) el 13 de agosto de 2015 en Wayback Machine. que pueden computar el valor normal predicho para las tensiones de gases en sangre y pH de acuerdo a la edad, sexo, estatura y peso de un paciente, de acuerdo a la presión barométrica a la cual está sometido. ",
+        "bbox": [
+            70,
+            346,
+            581,
+            573
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ecuaciones ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            610,
+            218,
+            633
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Contenido de oxígeno ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            672,
+            321,
+            692
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7211081c7662b999efb48e1c380c3cd174d9caaf17f16e7533e2aae2e26d2cf4.jpg",
+        "text": "$$\nC _ { a } O _ { 2 } = 1 . 3 6 * H g b * { \\frac { S _ { a } O _ { 2 } } { 1 0 0 } } + 0 . 0 0 3 1 * P _ { a } O _ { 2 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            114,
+            697,
+            532,
+            733
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La constante, 1,36; es la cantidad de oxígeno (ml a 1 atmósfera de presión) unido por gramo de hemoglobina. El valor exacto de esta constante varía entre 1,34 a 1,39, dependiendo de la referencia y de la forma en que esta constante se deriva. La constante 0,0031 representa la cantidad de oxígeno disuelto en plasma. El término de oxígeno disuelto, es por lo general más pequeño que el término correspondiente al oxígeno unido a hemoglobina, pero se vuelve bastante significativo a valores muy altos $\\mathrm { P _ { a } O _ { 2 } }$ (como ocurre en una cámara hiperbárica) o en casos severos de anemia.13 ",
+        "bbox": [
+            70,
+            738,
+            581,
+            889
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            42,
+            583,
+            100
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Saturación de oxígeno ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            129,
+            327,
+            149
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ff5caf2e0e647554840b0822ef8d1bdc5ebc008cd06952768867c551b915bb74.jpg",
+        "text": "$$\nS O _ { 2 } = ( \\frac { 2 3 , 4 0 0 } { p O _ { 2 } ^ { 3 } + 1 5 0 p O _ { 2 } } + 1 ) ^ { - 1 }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            179,
+            154,
+            470,
+            199
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Esta es una estimación y no toma en cuenta las diferencias en temperatura, $\\mathrm { p H }$ y concentración de 2,3 BPG.14 ",
+        "bbox": [
+            70,
+            205,
+            579,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Véase también o ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            277,
+            284,
+            300
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Leyes de Fick Ecuación del aire alveolar ",
+        "bbox": [
+            80,
+            321,
+            337,
+            358
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            381,
+            223,
+            402
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Severinghaus JW, Astrup P, Murray JF (1998). «Blood gas analysis and critical care medicine.». Am J Respir Crit Care Med 157 (4 Pt 2): S114-22. PMID 9563770 (https://www. ncbi.nlm.nih.gov/pubmed/95 63770). doi:10.1164/ajrccm.157.4.nh lb1-9 (https://dx.doi.org/10.1 164%2Fajrccm.157.4.nhlb1- 9). ",
+        "bbox": [
+            75,
+            431,
+            319,
+            655
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Bendjelid K, Schütz N, Stotz M, Gerard I, Suter PM, Romand JA (2005). «Transcutaneous PCO2 monitoring in critically ill adults: clinical evaluation of a new sensor.» (http://ww w.ncbi.nlm.nih.gov/entr ez/eutils/elink.fcgi?dbfro m=pubmed&tool=sums earch.org/cite&retmode =ref&cmd=prlinks&id=1 6215371). Crit Care Med 33 (10): 2203-6. PMID 16215371 (https://ww w.ncbi.nlm.nih.gov/pubmed/ ",
+        "bbox": [
+            80,
+            656,
+            319,
+            932
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "16215371). doi:10.1097/01.ccm.000018 1734.26070.26 (https://dx.do i.org/10.1097%2F01.ccm.00 00181734.26070.26).   \n3. Yildizdaş D, Yapicioğlu H, Yilmaz HL, Sertdemir Y (2004). «Correlation of simultaneously obtained capillary, venous, and arterial blood gases of patients in a paediatric intensive care unit.» (https://www. ncbi.nlm.nih.gov/pmc/ar ticles/PMC1719810). Arch Dis Child 89 (2): 176-80. PMC 1719810 (htt ps://www.ncbi.nlm.nih.gov/p mc/articles/PMC1719810). PMID 14736638 (https://ww w.ncbi.nlm.nih.gov/pubmed/ 14736638). doi:10.1136/adc.2002.01626 1 (https://dx.doi.org/10.113 6%2Fadc.2002.016261).   \n4. Shapiro BA (1995). «Temperature correction of blood gas ",
+        "bbox": [
+            347,
+            419,
+            581,
+            896
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "values.». Respir Care Clin N Am 1 (1): 69-76. ",
+        "bbox": [
+            339,
+            844,
+            581,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/d44524e2ee36d3c183ea688a02cfb447f7b614a65b0226c98f6d9f1883aa7076.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            611,
+            59,
+            922,
+            933
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PMID 9390851 (https://www. ncbi.nlm.nih.gov/pubmed/93 90851).   \n5. Malatesha G, Singh NK, Bharija A, Rehani B, Goel A (2007). «Comparison of arterial and venous pH, bicarbonate, PCO2 and PO2 in initial emergency department assessment.» (https://w ww.ncbi.nlm.nih.gov/pm c/articles/PMC266008 5). Emerg Med J 24 (8): 569-71. PMC 2660085 (htt ps://www.ncbi.nlm.nih.gov/p mc/articles/PMC2660085). PMID 17652681 (https://ww w.ncbi.nlm.nih.gov/pubmed/ 17652681). doi:10.1136/emj.2007.04697 9 (https://dx.doi.org/10.113 6%2Femj.2007.046979).   \n6. Chu YC, Chen CZ, Lee CH, Chen CW, Chang HY, Hsiue TR (2003). «Prediction of arterial blood gas values from venous blood gas values in patients with acute respiratory failure receiving mechanical ventilation.». J Formos Med Assoc 102 (8): 539-43. PMID 14569318 (h ttps://www.ncbi.nlm.nih.gov/ pubmed/14569318).   \n7. Walkey AJ, Farber HW, O'Donnell C, Cabral H, Eagan JS, Philippides GJ (2010). «The accuracy of the central venous blood gas for acid-base monitoring.» (http://www.ncbi.nlm.ni h.gov/entrez/eutils/elin k.fcgi?dbfrom=pubmed &tool=sumsearch.org/ci te&retmode=ref&cmd=p rlinks&id=20018607). J Intensive Care Med 25 (2): 104-10. PMID 20018607 (https://ww w.ncbi.nlm.nih.gov/pubmed/ ",
+        "bbox": [
+            72,
+            42,
+            321,
+            941
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "20018607). doi:10.1177/0885066609356 164 (https://dx.doi.org/10.11 77%2F0885066609356164). 8. Adrogué HJ, Rashad MN, Gorin AB, Yacoub J, Madias NE (1989). «Assessing acid-base status in circulatory failure. Differences between arterial and central venous blood.». N Engl J Med 320 (20): 1312-6. PMID 2535633 (htt ps://www.ncbi.nlm.nih.gov/p ubmed/2535633). doi:10.1056/NEJM19890518 3202004 (https://dx.doi.org/1 0.1056%2FNEJM19890518 3202004). ",
+        "bbox": [
+            337,
+            42,
+            581,
+            366
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. Williams AJ (1998). «ABC of oxygen: assessing and interpreting arterial blood gases and acidbase balance.» (https:// www.ncbi.nlm.nih.gov/p mc/articles/PMC111416 0). BMJ 317 (7167): 1213-6. PMC 1114160 (htt ps://www.ncbi.nlm.nih.gov/p mc/articles/PMC1114160). PMID 9794863 (https://www. ncbi.nlm.nih.gov/pubmed/97 94863). doi:10.1136/bmj.317.7167.1 213 (https://dx.doi.org/10.11 36%2Fbmj.317.7167.1213).   \n10. Hansen JE (1989). «Arterial blood gases.» (https://archive.org/deta ils/sim_clinics-in-chestmedicine_1989-06_10_ 2/page/227). Clin Chest Med 10 (2): 227-37. PMID 2661120 (https://www. ncbi.nlm.nih.gov/pubmed/26 61120).   \n11. Tobin MJ (1988). «Respiratory monitoring in the intensive care unit.». Am Rev Respir Dis 138 (6): 1625-42. PMID 3144222 (https://www. ",
+        "bbox": [
+            327,
+            133,
+            581,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/b6ae4f50be9660efb6dcdc8db4d1bf51e8ed848b94f1c900bbf06e8d7e8d9a4c.jpg",
+        "table_caption": [
+            "la tabla nos muestra un promedio de los gases en la sangre "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            611,
+            78,
+            924,
+            275
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ncbi.nlm.nih.gov/pubmed/3144222). doi:10.1164/ajrccm/138.6.1625 (https://dx.doi.org/1 0.1164%2Fajrccm%2F138.6.1625). ",
+        "bbox": [
+            99,
+            43,
+            494,
+            90
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Arterial Blood Gas Reference Values for Sea Level and an Altitude of 1,400 Meters ROBERT O. CRAPO, ROBERT L. JENSEN, MATHEW HEGEWALD, and DONALD P. TASHKIN American Journal of Respiratory and Critical Care Medicine 1999 160:5, 1525-1531 ",
+        "bbox": [
+            67,
+            93,
+            494,
+            205
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. http://wwwusers.med.cornell.edu/\\~spon/picu/calc/oxy cont.htm (http://www-users.med.cornell.ed u/\\~spon/picu/calc/oxycont.htm). Consultado el 7 de octubre de 2014. Falta el |título $=$ (ayuda)   \n14. Severinghaus, J. W. Simple, accurate equations for human blood O2 dissociation computations. J Appl Physiol. 46(3): 599- 602. 1979. ",
+        "bbox": [
+            504,
+            43,
+            931,
+            210
+        ],
+        "page_idx": 4
+    }
+]

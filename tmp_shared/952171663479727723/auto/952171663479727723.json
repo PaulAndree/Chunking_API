@@ -1,0 +1,84 @@
+[
+    {
+        "type": "text",
+        "text": "La Serie Mundial Universitaria (CWS) es un torneo de béisbol anual que se celebra en junio en Omaha, Nebraska. El CWS es culminación del béisbol de División I de la NCAA. El torneo presenta 64 equipos en la primera ronda y determina quien es el campeón nacional. ",
+        "bbox": [
+            68,
+            140,
+            931,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Historia ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            231,
+            179,
+            254
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Desde 1950, la Serie Mundial Universitaria (CWS) ha sido albergada en Omaha, Nebraska.1 2 Fue celebrada en el Rosenblatt Stadium desde 1950 hasta 2010; Desde 2011, se juega en el Charles Schwab Field Omaha. ",
+        "bbox": [
+            70,
+            271,
+            931,
+            328
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Récords ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            364,
+            179,
+            387
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Más Campeonatos NCAA ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            404,
+            297,
+            421
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/625e566ec9824c14ccbfb71a0e822d9fde8fe7c85ce545133b2ef3048f178736.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            438,
+            931,
+            831
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. «College World Series of Omaha, Inc. - Creighton University» (http://www.cwsomaha.com/in dex.php?option $=$ com_content&task=view&id $=$ 58016). Consultado el 28 de junio de 2017. 2. «CWS History» (http://www.cwsomaha.com/index.php?option=com_contents&task $\\underline { { \\underline { { \\mathbf { \\Pi } } } } }$ view&di d=58264&Itemid=247). CWS Omaha, Inc. Consultado el 11 de febrero de 2017. ",
+        "bbox": [
+            73,
+            106,
+            931,
+            175
+        ],
+        "page_idx": 1
+    }
+]

@@ -1,0 +1,796 @@
+[
+    {
+        "type": "text",
+        "text": "Toxicity of the spike protein of COvID-19 is a redox shift phenomenon: A novel therapeutic approach ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            244,
+            811,
+            284
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laurent Schwartz a, \", Manuel Aparicio-Alonso b, Marc Henry , Miroslav Radman d, Romain Attal e, Ashraf Bakkar ",
+        "bbox": [
+            62,
+            297,
+            712,
+            328
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Assistance Publique des Hopitaux de Paris, Paris, France b General Director Centro Médico Jurica, Queretaro, Mexico c Institut Lebel, Faculté de chimie, Université de Strasbourg, 67000, Strasbourg, France editerrane Institute for Life Scienc (edL), 100, Split,Ca ié des Sciences et de 'Industrie, 30 avenue Corentin-Cariou, 75019, Paris, France Faculty of Biotenology, October University for Modern Sciences and Arts, Giza, Egpt ",
+        "bbox": [
+            60,
+            337,
+            463,
+            399
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ARTICLEINFO ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            427,
+            193,
+            439
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            337,
+            428,
+            433,
+            439
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords Spike protein Methylene blue Redox potential Long-term Covid-19 Chlorine dioxide ",
+        "bbox": [
+            62,
+            452,
+            157,
+            512
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We previously demonstrated that most diseases display a form  anabolism due to mitochondrial impairment: in cancer, a daughter cell is formed; in Alzheimer's disease, amyloid plaques; in inflammation cytokines and lymphokines. ",
+        "bbox": [
+            337,
+            451,
+            934,
+            484
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Theifecion y Covioows siilr patten. Long-ermectcuereox shian cela - olisas a result  the Warbur effect andmitohondrial dysfunction. This urelentianabolism lead t the ctokin storm, hronicfatigue,cronicilammation  neurodegenerativediseases. Drugs such as Lip and Methylene Blue have been shown to enhance the mitochondrial activity, relieve the Warburgect and incrase catabolism. Similarly, coMeBining Methylene Blue, Chlorine dioxide and Lipoic acid may help reduce long-term Covid-19 effects by stimulating the catabolism. ",
+        "bbox": [
+            337,
+            486,
+            936,
+            553
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Covid-19 patients, can suffer post-acute sequelae and some symptoms can last for months [1]. These symptoms may be secondary to Covid-19 induced hypoxia, reduced cardiac output, myalgia, or persisting symptoms akin to encephalomyelitis or chronic fatigue syndrome [1]. Other long-term side effects may include cardiovascular complications such as stroke or cardiac infarct [2], Alzheimer's disease, Creutzfeldt-Jakob disease [3] and cancer [4]. In this paper, we strongly suggest that these symptoms are the direct consequence of redox iMeBalance, itself a consequence of decreased energy yield by the mitochondria. ",
+        "bbox": [
+            62,
+            590,
+            484,
+            715
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We previously demonstrated the central role of metabolic alterations in diseases [5,6]. ",
+        "bbox": [
+            60,
+            716,
+            485,
+            740
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is obvious mitochondrial dysfunction and increased levels of lactate, which are important characteristics of metabolic shift and Warburg effect in many diseases. In cancer, altered energy metabolism is a well-known hallmark [7]. Clear experimental data has been reported in other diseases such as cardiac diseases [8,9], some autoimmune diseases [1014], Alzheimer's disease [1517], and Parkinson's disease [18]. Finally, increased lactate dehydrogenase activity (LDH) was observed in COvID-19 patients, and this may boost glycolysis, similar to the Warburg effect, to redirect fuel and produce anabolic intermediates [1921]. Therefore, almost every disease presents an increased anabolism [5,6]. ",
+        "bbox": [
+            62,
+            741,
+            485,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            590,
+            936,
+            639
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To preserve homeostasis our cells must release their entropy: either in $\\mathrm { C O _ { 2 } }$ , $_ \\mathrm { H _ { 2 } O }$ and heat (catabolism) or in larger molecules (anabolism). Thus, cell division is the most sophisticated way to release entropy [4,5]. The transition from catabolism to anabolism is driven by a redox shift measured by higher ratios [NADH]/[NAD+], [NADPH]/[NADP+] or $\\mathrm { [ F A D H _ { 2 } ] / [ F A D ] }$ . ",
+        "bbox": [
+            514,
+            641,
+            937,
+            715
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The goal of this paper is to hypothesize that Covid-19's short- and long-term complications are a result of a similar redox shift and anabolism, due to the reduced cell environment originally caused by the spike protein of the virus. ",
+        "bbox": [
+            512,
+            716,
+            936,
+            764
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The binding of spike protein to Angiotensin-Converting Enzyme 2 (ACE2) is a redox phenomenon ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            781,
+            892,
+            805
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To initiate infection, the viral spike protein binds to ACE2 receptor o ",
+        "bbox": [
+            536,
+            819,
+            932,
+            830
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the host cell [22,23]. ",
+        "bbox": [
+            62,
+            66,
+            186,
+            78
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It has been established that S-proteins and ACE2 have intramolecular disulfide bonding and contain a lot of cysteine (Cys) residues [24]. When the disulfide linkages of both ACE2 and the SARS-CoV-2 spike protein, which binds ACE2, were converted to thiol groups, it was discovered that the binding affinity was dramatically reduced [24]. There are 40 cysteine residues in the spike protein, some of which support the stability of the connection with the host's ACE2 receptor [23]. It was revealed that the Cys480-Cys488 pair of the spike protein is directly involved in binding to the ACE2 receptor [1,25,26]. The host's ACE2 protein's specific cysteine residues also play crucial roles in the interaction between the two proteins. At the dimer interface, Cys133 and Cys141 form a disulfide bond that has been associated with CovID-19 sensitivity [23]. ",
+        "bbox": [
+            62,
+            80,
+            485,
+            249
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cysteine (Cys) residues in S-proteins and ACE2 are abundant, many of which take part in intra-molecular disulfide bonding. When all of the disulfide linkages of the ACE2 and SARS-CoV/CoV-2 spike proteins were converted to thiol groups, the binding affinity was considerably lowered [24]. It is then the intramolecular disulfide bonds that are important. In fact, the presence of redox-active disulfides in ACE2, an S-protein interaction domain, and a ferredoxin-like fold region in ACE2 strongly suggest that redox iMeBalance plays a key role in the development and severity of COVID-19 [1]. ",
+        "bbox": [
+            62,
+            250,
+            485,
+            368
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.covID-19 is more virulent in a reduced environment, such as in the elderly ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            383,
+            475,
+            408
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The aggressive forms of Covid-19 are usually limited to a welldefined sub-population. People at high risk are the elderly, patients suffering from metabolic syndrome such as obesity, or those suffering from chronic diseases such as cancer or inflammation [27]. Aging is associated with a poor control of the redox balance, such as the thio1/disulfide homeostasis of all organs, leading to an enhancement of inflammatory and fibrotic pathways [22]. ",
+        "bbox": [
+            62,
+            422,
+            485,
+            514
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moreover, the decline of the thiol/disulfide equilibrium with age is even more rapid in inflammatory and premature aging diseases [22]. This partially explains the reduced extracellular environment in the elderly and the increased susceptibility to Covid-19 infection [22]. ",
+        "bbox": [
+            60,
+            515,
+            485,
+            567
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.The cytokine storm is a redox phenomenon ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            581,
+            363,
+            593
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A controlled acute inflammatory response is necessary to fight off infections. However, if the inflammatory process becomes chronic, it can lead to local and systemic deleterious effects [28]. Inflamed tissues have elevated levels of reactive oxygen species (ROs) and reactive nitrogen species (RNS) generated during the respiratory burst of immune cells. Redox signaling tightly modulates the inflammatory response and oxidative stress has been reported in acute Covid-19 [1]. ",
+        "bbox": [
+            62,
+            607,
+            485,
+            699
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "There is a substantial body of evidence to suggest that an iMeBalance in redox signaling pathways may contribute to the infectivity and development of cytokine storm in COvID-19 patients. This is because redox signaling plays an important role in regulating immune function and inflammation, and disruptions in this signaling can lead to excessive cytokine production and immune system activation 8 [23,2932]. Furthermore, studies have found that COvID-19 patients with severe disease have higher levels of oxidative stress markers and lower antioxidant levels [3]. Furthermore, oxidative stress can activate the NLRP3 inflammasome, which is a protein complex that plays a key role in the cytokine storm [1,32]. ",
+        "bbox": [
+            62,
+            701,
+            485,
+            844
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Redox iMeBalance and inflammation are mutually dependent processes [33]; inflammation leads to the formation of ROS and RNS, while redox iMeBalance results in cellular damage, which in turn triggers an inflammatory response [34,35]. Endothelial cell injury in COvID-19 causes lung injury, throMeBosis, and chronic inflammation. These inflammatory pathways are controlled by endothelial mitochondria through mtROs. However, persistently elevated mtROs triggers endothelial dysfunction and inflammation, which results in a vicious loop involving ROs, inflammation, and mitochondrial dysfunction [3638]. Damaged mitochondria releasing ROS induce inflammation via the NLRP3 inflammasome, which participates in the release of IL- $1 \\beta$ and IL-18 [1,31,32,39]. ",
+        "bbox": [
+            62,
+            846,
+            485,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            66,
+            937,
+            131
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thiol levels are decreased in the serum of Covid-19 patients [37]. This leads to the accumulation of ROS and RNS by inducing mitochondrial dysfunction and the production of pro-inflammatory cytokines [40]. These cytokines act as signaling molecules to recruit immune cells to the site of inflammation and stimulate the generation of free radicals. For example, IFNr, IL-1B, IL-6 and TNFα can all stimulate the generation of nitric oxide (NO) [41]. These cytokines are secreted because of the reduced environment during the cytokine storm [41]. IL-2 is highly up-regulated in Covid-19 patients [37], and IL-2 is known to significantly stimulate the generation of NO in patients. Nitric acid is also the key mediator of IL-2-induced hypotension and vascular leak syndrome [42]. ",
+        "bbox": [
+            514,
+            132,
+            937,
+            290
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Moreover, mitochondrial dysfunction has been linked to the pathogenesis of Covid-19. Indeed, mitochondrial dysfunction triggered by SARS-CoV-2 leads to damage to the mitochondria [37]. As catabolism is decreased, entropy is released through anabolism. SARS-CoV-2 infection of white blood cells leads to decreased oxidative phosphorylation [43]. Elevated levels of lactate, a characteristic of the Warburg effect, were also reported in the high-risk Covid-19 [44]. ",
+        "bbox": [
+            514,
+            291,
+            937,
+            382
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Long-term Covid-19 complications ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            397,
+            756,
+            409
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Covid-19 causes or worsens cardiac injury in infected patients via cytokine storm, endotheliosis, throMeBosis or lymphocytopenia. Autopsies of Covid-19 patients reveal an infiltration of inflammatory mononuclear cells in the myocardium, confirming the role of the immune system in mediating cardiovascular damage in response to Covid19 infection [45]. ",
+        "bbox": [
+            514,
+            423,
+            937,
+            501
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The inflammatory response, coupled with the direct effects of SARS on different organs via ACE2, has been associated with renal failure, liver damage and multi-organ failure [46]. ",
+        "bbox": [
+            514,
+            503,
+            936,
+            540
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Acute lung damage may be followed by pulmonary fibrosis and chronic impairment of lung function. Also, it has been shown that SARSCoV-2 infection affects the central and peripheral nervous systems and damages neurons, leading to long-term neurological sequelae including Alzheimer's disease, Parkinson's disease and multiple sclerosis [47,48]. ",
+        "bbox": [
+            512,
+            542,
+            937,
+            607
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A common consequence of Covid-19 appears to be chronic fatigue syndrome [1]. It is a common disease characterized by decreased mitochondrial energy yield because of decreased oxidative phosphorylation [1]. Multiple redox stress biomarkers, such as lower levels of antioxidants and higher levels of peroxides and superoxides, are linked to the severity of symptoms in chronic fatigue syndrome. These markers of redox iMeBalance also correlate with the severity of symptoms and elevated levels of ventricular lactic acid consistent with oxidative stress [1]. Brain hypometabolism, akin to Alzheimer's disease, can be also seen [49]. There is a concomitant increase in lactate acid levels in the blood characteristic of decreased oxidative phosphorylation [50]. The mitochondrial meMeBrane potential $\\left( \\Delta \\Psi _ { \\mathrm { m } } \\right)$ is a parameter often used to determine mitochondrial functions. A decrease of $\\Delta \\Psi _ { \\mathrm { m } }$ is implicated in several inflammation-related diseases. There is a decrease in $\\Delta \\Psi _ { \\mathrm { m } }$ in leucocytes from Covid-19 patients [51]. ",
+        "bbox": [
+            514,
+            609,
+            937,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many people have been vaccinated with RNA or DNA vaccines triggering the synthesis of the viral spike protein in human cells. Many suffered from COvID-19-like symptoms (blood clots, severe inflammation, tissue destruction and organ failure). Xing et al., 2021 [52], reviewed ten studies evaluating the short-term side effects of vaccination. Most of the adverse reactions were mild to moderate and resolved within 24 hours after vaccination. The most common systemic adverse reactions were fatigue, fever or bodily pain [52]. ",
+        "bbox": [
+            514,
+            807,
+            937,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although the newly developed Covid-19 vaccines are supposed to have established a safe profile, yet some individuals experience adverse effects [53,54]. Most of them are benign, such as dizziness, vomiting or transient pyrexia [54]. Other side effects are viral reactivation in varicella-zoster virus [55] or hepatitis [56], coagulopathy and resulting stroke and myocarditis following both DNA-based vaccines [57] and RNA-based vaccines [58]. ",
+        "bbox": [
+            512,
+            911,
+            937,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/abb99be8919625ef63e1f1a51ea8272ca36cc314db228fe1a6b5de2b2fb8f103.jpg",
+        "table_caption": [
+            "Table 1 Effect of treatment of redox shift by drugs targeting Warburg's effect in different diseases. "
+        ],
+        "table_footnote": [
+            "NA: Not available, RCT: positive randomized control trial (human). "
+        ],
+        "bbox": [
+            58,
+            103,
+            485,
+            226
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            255,
+            484,
+            321
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Enhanced coagulation and throMeBosis are associated with higher levels of ROS. Accumulated ROS a consequence of the redox state control of blood coagulation and throMeBosis [59,60]. CreutzfeldtttJakob disease is characterized by severe neurological destruction and has an extremely high mortality rate. More recently a report of increased prevalence of Creutzfeldtt Jacob disease among the vaccinated population [61]. Creutzfeldttt-Jakob, the emergence of prions (misfolded proteins) which damage the neurons, appears to be a redox phenomenon [61,62]. ",
+        "bbox": [
+            62,
+            322,
+            485,
+            440
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. Long term Covid-19 complications: a shift toward anabolism ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            456,
+            473,
+            469
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Long-term complications of Covid-19 point out to a shift toward anabolic mode in the cell. They can be seen as a kind of premature ageing [63]. Like in Covid-19, mitochondrial impairment characteristic of the Warburg effect is present in almost every disease and appears to be a central feature in most of the hallmarks of cancer [6]. ",
+        "bbox": [
+            60,
+            482,
+            484,
+            548
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Neurons feed on lactate released by the glial cells. During brain inflammation, the glial cells are under pressure. They secrete more lactic acid, which is taken up by neurons. This increased uptake of lactic acid results in intracellular acidosis of the neurons a signature of mitochondrial dysfunction [64]. Alzheimer's, Parkinson's and Huntington's diseases, cardiac infarction, cardiac failure, stroke, cancer and ageing have all been linked to inflammation, mitochondrial dysfunction and increased lactate concentrations in the extracellular fluid [65]. ",
+        "bbox": [
+            62,
+            549,
+            485,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            66,
+            885,
+            78
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In Covid-19, like any inflammation, there is a metabolic rewiring where cells rely on glycolysis [66]. As the mitochondria are impaired, the infected cell cannot catabolize efficiently. It will release lactic acid in the blood stream. The high level of lactate in the blood of Covid-19 patients is a marker of poor prognosis [50]. Other molecules are released into the cellular environment and will accumulate around the infected cells, such as cytokines and lymphokines responsible for the inflammation. Striking similarities are seen between cancer, Alzheimer's disease and Covid-19, all related to the Warburg effect [66]. However, some research work pointed out to the role of catabolism in COvD-19. However, some studies suggest that catabolism may play a role in the disease process. According to one study, patients with COvID-19 who had more severe disease had higher levels of catabolic indicators such as cortisol than those with milder disease. This has been suggested to be because of how the body reacts to the virus-induced stress and inflammation, which cause more protein catabolism and increased muscle breakdown [67]. In another study, critically ill coronavirus-infected individuals demonstrated an accelerated urea generation rate and protein breakdown, most likely of muscle origin, indicating a highly catabolic state [68]. ",
+        "bbox": [
+            514,
+            79,
+            937,
+            343
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. Drugs relieving the Warburg effect may be effective in the treatment of long term Covid-19 complications ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            356,
+            910,
+            382
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cancer, inflammation, Alzheimer's, and Parkinson's diseases share a common peculiarity, the inability of the cell to export entropy outside the body in the harmless form of heat, $\\mathrm { C O } _ { 2 }$ and $\\mathrm { H _ { 2 } O } .$ In these clinically diverse diseases, drugs targeting the mitochondria appear to be effective treatments (Table 1). ",
+        "bbox": [
+            514,
+            395,
+            937,
+            461
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lipoic acid has been tested for diseases related to aging. It slows the development of Alzheimer's disease [74,75], and in animals it appears to improve memory [78], decrease the impact of stroke [83], reduce inflammation [85] and slow cancer growth [7072]. ",
+        "bbox": [
+            512,
+            462,
+            936,
+            514
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Methylene blue (MEB) was proven to be effective in the treatment of malaria, leprosy and tuberculosis. Most drugs synthesized between 1920 and 1950 derive from this lead product [73]. Moreover, MEB relieves the Warburg effect [87], improves memory [77], is active in the treatment of depressive episodes [79,80] and reduces the importance of ischemic strokes [82]. ",
+        "bbox": [
+            514,
+            514,
+            937,
+            592
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the case of Covid-19, MEB has been shown to inhibit SARS-Cov-2 replication in vitro [88]. It has been shown that Covid-19-patients treated with MEB, have a significant reduction in hospital stay ",
+        "bbox": [
+            514,
+            593,
+            937,
+            633
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/73f564b00e1baa1640e0d1b466aa837ae9b38a33575f783b65cdea89b329792d.jpg",
+        "image_caption": [
+            "Fi 1. the Clo2 molecule traps five electrons, making it a one-shot electron trap. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            208,
+            658,
+            789,
+            891
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "duration and mortality [86]. ",
+        "bbox": [
+            62,
+            66,
+            230,
+            79
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Chlorine dioxide could also be suggested as a treatment for COVID19 because of its strong affinity for electrons and the fact that it is rapidly decomposed into chloride ions and water. It is also a potent antiviral agent against SARS-CoV-2 [89]. Chlorine dioxide and methylene blue have different modes of action (Fig. 1). On the one hand, MeB is an acceptor-donor molecule [90]: MeB + can take a pair of electrons (of H atoms) and MeBH can release this pair easily, so that MeB is partially recycled like a catalyst [91]. On the other hand, the oxidation nuMeBer of chlorines in ClO2 is $+ \\mathrm { I V }$ and goes to I in Cl-, which is stable and excreted by the human body. Therefore, each ClO2 molecule trap five electrons in this process. ClO2 is thus a one-shot electron trap, whereas MeB acts as an electron bridge between a donor (FADH2, FMNH, NADH) and an acceptor (complex IV of ETC or oxygen itself) [91]. As a coenzyme of pyruvate dehydrogenase (PDH), alpha-lipoic acid (ALA) initiates the formation of acetyl-CoA to feed the TCA cycle [92,93]. Thus, ALA enhances the catabolism of carbon. cycle and therefore may reduce the Warburg effect and consequently, lactate production [94]. Methylene Blue plays a similar role after the TCA cycle, by carrying electrons to complex IV of the electron transport chain [90]. Chlorine dioxide also lowers the redox shift by taking excedentary electrons carried away by Cl- and water. ",
+        "bbox": [
+            62,
+            80,
+            485,
+            354
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            369,
+            152,
+            382
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In Covid-19, like in any disease, some entropy cannot be exported in the harmless form of heat, $_ \\mathrm { H _ { 2 } O }$ and $\\mathrm { C O } _ { 2 }$ (catabolism) and is released in larger biomolecules (anabolism). Drugs such as lipoic acid and MeB, which target the metabolism, decrease the redox shift by increasing catabolism. It is possible that a treatment based on MeB, Chlorine dioxide and lipoic acid will decrease the long-term complications of Covid19 due to the spike protein of SARS-Cov-2. ",
+        "bbox": [
+            62,
+            397,
+            485,
+            488
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            501,
+            131,
+            513
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "[1] B.D. Paul, M.D. Lemle, A.L. Komaroff, S.H. Snyder, Redox iMeBalance links COVID19 and myalgic encephalomyelitis/chronic fatigue syndrome, Proc. Natl. Acad. Sci. U. S. A. 118 (34) (2021).   \n[2] B. Long, W.J. Brady, A. Koyfman, M. Gottlieb, Cardiovascular complications in COVID-19, Am. J. Emerg. Med. 38 (7) (2020) 15041507.   \n[3] A. Filatov, P. Sharma, F. Hindi, P.S. Espinosa, Neurological complications of coronavirus disease (COvID-19): encephalopathy, Cureus 12 (3) (2020), e7352.   \n[4] G. Saini, R. Aneja, Cancer as a prospective sequela of long COVID-19, Bioessays 43 (6) (2021), e2000331.   \n[5] L. Schwartz, M. Henry, K.O. Alfarouk, S.J. Reshkin, M. Radman, Metabolic shifts as the hallmark of most common diseases: the quest for the underlying unity, Int. J. Mol. Sci. 22 (8) (2021).   \n[6] L. Schwartz, A. Devin, F. Bouillaud, M. Henry, Entropy as the driving force of peett s cassat a Substantia 4 (2) (2020).   \n[7] D. Hanahan, R.A. Weinberg, Hallmarks of cancer: the next generation, Cell 144 (5) (2011) 646674.   \n[8] E. Calva, A. Mujica, R. Nunez, K. Aoki, A. Bisteni, D. Sodi-Pallares, Mitochondrial biochemical changes and glucose-KCl-insulin solution in cardiac infarct, Am. J. Physiol. 211 (1) (1966) 7176.   \n[9] R.J. Henning, M.H. Weil, F. Weiner, Blood lactate as prognostic indicator of survival in patients with acute myocardial infarction, Circ. Shock 9 (3) (1982) 307315.   \n[10] G. Reimer, Autoantibodies against nuclear, nucleolar, and mitochondrial antigens in systemic sclerosis (scleroderma), Rheum. Dis. Clin. N. Am. 16 (1) (1990) 169183.   \n[11] S.K. Yang, H.R. Zhang, S.P. Shi, Y.Q. Zhu, N. Song, Q. Dai, W. Zhang, M. Gui, H. Zhang, The role of mitochondria in systemic lupus erythematosus: a glimpse of various pathogenetic mechanisms, Curr. Med. Chem. 27 (20) (2020) 33463361.   \n[12] L.M. McCaffrey, A. Petelin, B.A. Cunha, Systemic lupus erythematosus (SLE) cerebritis versus Listeria monocytogenes meningoencephalitis in a patient with systemic lupus erythematosus on chronic corticosteroid therapy: the diagnostic importance of cerebrospinal fluid (CSF) of lactic acid levels, Heart Lung 41 (4) (2012) 394397.   \n[13] Z. Daniil, O.S. Kotsiou, A. Grammatikopoulos, S. Peletidou, H. Gkika, F. Malli, K. Antoniou, E. Vasarmidi, Z. Mamuris, K. Gourgoulianis, E. Zifa, Detection of mitochondrial transfer RNA (mt-tRNA) gene mutations in patients with idiopathic pulmonary fibrosis and sarcoidosis, Mitochondrion 43 (2018) 4352.   \n[14] J. Talreja, H. Talwar, C. Bauerfeld, L.I. Grossman, K. Zhang, P. Tranchida, L. Samavati, HIF-1alpha regulates IL-1beta and IL-17 in sarcoidosis, Elife 8 (2019).   \n[15] J.T. Newington, R.A. Harris, R.C. Cumming, Reevaluating metabolism in model, J Neurodegener Dis 2013 (2013), 234572.   \n[16 A.G. Vlassenko, M.E. Raichle, Brain aerobic glycolysis functions and Alzheimer's disease, Clin Transl Imaging 3 (1) (2015) 2737.   \nTJ.. Her DS    , A. Santagostino, Y. Kim, R.K. Agarwal, J.C.M. Schlachetzki, C.K. Glass, JL DGalasko,F.. A.DAleso J Mers War-i metabolic transformation underlies neuronal degeneration in sporadic Alzheimer's disease, Cell Metabol. 34 (9) (2022) 12481263 e6.   \n.Ge-R  Z, K.A.Su J.N.Gz E.  B., T. Tkatch, M.A. Stavarache, D.L. Wokosin, L. Gao, M.G. Kaplitt, J. Lopez-Barneo, P. T. Schumacker, D.J. Surmeier, Disruption of mitochondrial complex I induces progressive parkinsonism, Nature 599 (7886) (2021) 650656.   \n[19] P. Icard, H. Lincet, Z. Wu, A. Coquerel, P. Forgez, M. Alifano, L. Fournel, The key le uARs-Co response, Biochimie 180 (2021) 169177.   \n[20] L. Szarpak, K. Ruetzler, K. Safiejko, M. Hampel, M. Pruc, L. Kanczuga-Koda, K. J. Filipiak, M.J. Jaguszewski, Lactate dehydrogenase level as a CovID-19 severity marker, Am. J. Emerg. Med. 45 (2021) 638639.   \n. CoV-2 and host for producing therapeutic opportunities, Antioxidants 11 (10) (2022).   \nF  T decline of the extracellular thiol-disulfide balance and its role in SARS-CoV-2 infection, Redox Biol. 41 (2021), 101902.   \n[23] J. Singh, R.S. Dhindsa, V. Misra, B. Singh, SARS-CoV2 infectivity is potentially modulated by host redox status, Comput. Struct. Biotechnol. J. 18 (2020) 37053711.   \n19 spike protein with angiotensin-converting enzyme 2 receptor, ACS Omega 5 (26) (2020) 1629216298.   \nn JJ  H .Fn . X. , X.WS ARS-C ACE2 receptor, Nature 581 (7807) (2020) 215220, 19 R.   \n[26] R. Yan, Y. Zhang, Y. Li, L. Xia, Y. Guo, Q. Zhou, Structural basis for the recognition of SARS-CoV-2 by full-length human ACE2, Science 367 (6485) (2020) 14441448.   \n[27] A.S. LeRoy, B. Robles, L.S. Kilpela, L.M. Garcini, Dying in the face of the COVID-19 pandemic: contextual considerations and clinical recommendations, Psychol Trauma 12 (S1) (2020) S98S99.   \n[28] Y. Lei, K. Wang, L. Deng, Y. Chen, E.C. Nice, C. Huang, Redox regulation of ionollm,   ry, Me R. Rev  (01 00.   \n[29] P. Checconi, M. De Angelis, M.E. Marcocci, A. Fraternale, M. Magnani, A. T. Palamara, L. Nencioni, Redox-modulating agents in the treatment of viral infections, Int. J. Mol. Sci. 21 (11) (2020).   \n[0D. Zendelovska, E. Atanasovska, M. Petruhevska, K. Spasovska, M. Stevanovikj, I. Demiri, N. Labachevski, Evaluation of oxidative stress markers in hospitalized patients with moderate and severe COvID-19, Rom. J. Intern. Med. 59 (4) (2021) 375383.   \n[A. Nasi . McArde, G. Gaudeack, G. Westan, C. Mele, J.Rocer, R.rens, D. Kouretas, J. Sjolin, S. Mangsbo, Reactive oxygen species as an initiator of toxic innate immune responses in retort to SARS-CoV-2 in an ageing population, er   p Txio 768771.   \nR. Zo, .Yz P.Me, J. cop,  ole oro  LRP3 inflammasome activation, Nature 469 (7329) (2011) 221225.   \n[33] J. Muri, M. Kopf, Redox regulation of immunometabolism, Nat. Rev. Immunol. 21 (6) (2021) 363381.   \n[]M.Mial, M.R. S K. Tran, S.P. Redy, A.B. Malik, Reaiv ye s in inflammation and tissue injury, Antioxidants Redox Signal. 20 (7) (2014) 11261167.   \n[35] S.K. Biswas, Does the interdependence between oxidative stress and inflammation explain the antioxidant paradox? Oxid. Med. Cell. Longev. 2016 (2016), 5698931.   \n[36] R. Chang, A. Mamun, A. Dominic, N.T. Le, SARS-CoV-2 mediated endothelial dysfunction: the potential role of chronic oxidative stress, Front. Physiol. 11 (2020), 605908.   \n[ J. Sale, C. Peyssonnaux, K.K. Singh, M. Edeas, Mitochondria and microbota dysfunction in COVID-19 pathogenesis, Mitochondrion 54 (2020) 17.   \n[ M. Gouenu, D. Sarigiannis, A. Tsatsak, O.Anest, A.O. Docea, D. Petrkis, D. Tsoukalas, R. Kostoff, V. Rakitskii, D.A. Spandidos, M. Aschner, D. Calina, CVNoe a:aivv osl the sharp increase of the outbreak (Review), Mol. Med. Rep. 22 (1) (2020) 2032.   \n[39] D. Sadatomi, K. Nakashioya, S. Mamiya, S. Honda, Y. Kameyama, Y. Yamamura, S. Tanimura, K. Takeda, Mitochondrial function is required for extracellular ATPinduced NLRP3 inflammasome activation, J. Biochem. 161 (6) (2017) 503512.   \n[40] J. Wu, Tackle the free radicals damage in CoVID-19, Nitric Oxide 102 (2020) 3941.   \n[41] J.M. Gostner, K. Becker, D. Fuchs, R. Sucher, Redox regulation of the immune response, Redox Rep. 18 (3) (2013) 8894.   \nY.Q.Xi, H.ri, Li Y. eg H. Sh, J. Ivi, L T Rokel l  a memory precursor differentiation of tumor-reactive T-cells, Biomater. Sci. 7 (4) (2019) 13451357.   \n[P. Prasun, COVID-19: a mitochondrial perspective, DNA Cell Biol. 40 (6) (2021) 713719.   \n[K.O. Al, S.T.S. A A. H L. Scr, A.S. Aa S.B. M. Ahmed, A.M. Alqahtani, S.S. Alqahtani, A.K. Muddathir, H. Ali, A.H.H. Bashir, M.E. Ibrahim, M.R. Greco, R.A. Cardone, S. Harguindey, S.J. Reshkin, Of mitochondrion and COvID-19, J. Enzym. Inhib. Med. Chem. 36 (1) (2021) 12581267.   \n[45] S.D. Unudurthi, P. Luthra, R.J.C. Bose, J.R. McCarthy, M.I. Kontaridis, Cardiac inflammation in COVID-19: lessons from heart failure, Life Sci. 260 (2020), 118482.   \n[46] S. Zaim, J.H. Chong, V. Sankaranarayanan, A. Harky, COVID-19 and multiorgan response, Curr. Probl. Cardiol. 45 (8) (2020), 100618.   \n[47] F. Wang, R.M. Kream, G.B. Stefano, Long-term respiratory and neurological sequelae of COVID-19, Med. Sci. Mon. Int. Med. J. Exp. Clin. Res. 26 (2020), 922896.   \n[48] R.K. Kaundal, A.K. Kalvala, A. Kumar, Neurological implications of COVID-19: role of redox IMeBalance and mitochondrial dysfunction, Mol. Neurobiol. 58 (9) (2021) 45754587.   \n[49] T. Rudroff, C.D. Workman, LL.B. Ponto, (18)F-FDG-PET imaging for post-COVID19 brain and skeletal muscle alterations, Viruses 13 (11) (2021).   \n.Care, D.O, R. Noc G. Forto, J.G. Rizk, B.M. Hey, G. Lippi, Blood lactate concentration in CovID-19: a systematic literature review, Clin. Chem. Lab. Med. 60 (3) (2022) 332337.   \n[51] K.J.G. Diaz-Resendiz, A.B. Benitez-Trinidad, C.E. Covantes-Rosales, G.A. ToledoIbarra, P.C. Ortiz-Lazareno, D.A. Giron-Perez, A.Y. Bueno-Duran, D.A. Perez-Diaz, R.G. Barcelos-Garcia, M.I. Giron-Perez, Loss of mitochondrial meMeBrane potential (DeltaPsi(m)) in leucocytes as post-CovID-19 sequelae, J. Leukoc. Biol. 112 (1) (2022) 2329.   \n[52] K. Xing, X.Y. Tu, M. Liu, Z.W. Liang, J.N. Chen, J.J. Li, L.G. Jiang, F.Q. Xing, Y. Jiang, Efficacy and safety of covID-19 vaccines: a systematic review, Zhong Guo Dang Dai Er Ke Za Zhi 23 (3) (2021) 221228.   \n[53] J.H. Kim, F. Marks, J.D. Clemens, Looking beyond COVID-19 vaccine phase 3 trials, Nat. Med. 27 (2) (2021) 205211.   \n[54] T.T. Shimabukuro, COVID-19 Vaccine Safety Updates, 2021.   \n[55] K. Katsikas Triantafyllidis, P. Giannos, I.T. Mian, G. Kyrtsonis, K.S. Kechagias, Varicella zoster virus reactivation following covD-19 vaccination: a systematic review of case reports, Vaccines 9 (9) (2021).   \n[6] R. Lensen, M.G. Netea, F.R. Rosendaal, Hepati Cvirus reactivation followng COVID-19 vaccination - a case report, Int. Med. Case Rep. J. 14 (2021) 573576.   \n[57] S. Aghabaklou, S.M. Razavi, P. Mohammadi, S. Gholamin, A. Mowla, Cerebral coagulation complications following CovID-19 adenoviral vector vaccines: a systematic review, J. Neurol. Res. 11 (5) (2021) 6976.   \n[58] M. De Michele, J. Kahan, I. Berto, O.G. Schiavo, M. Iacobucci, D. Toni, A. E. Merkler, Cerebrovascular complications of COvID-19 and COVID-19 vaccination, Circ. Res. 130 (8) (2022) 11871203.   \n[59] A. Gorlach, Redox regulation of the coagulation cascade, Antioxidants Redox Signal. 7 (9-10) (2005) 13981404.   \n[0] D. Gregg, D.D. de Carvalho, H. Kovacic, Integrins and coagulation: a role for ROS/ redox signaling? Antioxidants Redox Signal. 6 (4) (2004) 757764.   \n[61] S. Serine, H. Sungurtekin, Creutzfeldttt-Jakob Disease after the COvID-19 Vaccination, 2020.   \n[62] N. Singh, A. Singh, D. Das, M.L. Mohan, Redox control of prion and disease pathogenesis, Antioxidants Redox Signal. 12 (11) (2010) 12711294.   \n[63] E. Duan, K. Garry, L.I. Horwitz, H. Weerahandi, \"I Am not the same as I was before\": a qualitative analysis of CovID-19 survivors, Int. J. Behav. Med. (2022) 110.   \n[64] L. Schwartz, C.T. Supuran, K.O. Alfarouk, The Warburg effect and the hallmarks of cancer, Anti Cancer Agents Med. Chem. 17 (2) (2017) 164170.   \n[65] L. Schwartz, A. Devin, F. Bouillaud, M. Henry, Entropy as the driving force of pathogenesis: an attempt of diseases classification based on the laws of physics, Substantia 4 (2) (2020).   \n[66] D.C. Wallace, Mitochondria and cancer: Warburg addressed, Cold Spring Harbor Symp. Quant. Biol. 70 (2005) 363374.   \n[67] N. Amiri-Dashatan, M. Koushki, N. Parsamanesh, H. Chiti, Serum cortisol concentration and covID-19 severity: a systematic review and meta-analysis, J. Invest. Med. 70 (3) (2022) 766772.   \n[J.Uribr .  Shay, SSar, J.Winsn, C--Assc acute y injury and quantified protein catabolic rate: a likely effect of cytokine storm on muscle protein breakdown, Kidney Med 3 (1) (2021) 6063 e1.   \n[9] E. Poteet, G.R. Choudhury, A. Winters, W. Li, M.G. Ryou, R. Liu, L. Tang, A. Ghorpade, Y. Wen, F. Yuan, S.T. Keir, H. Yan, D.D. Bigner, J.W. Simpkins, S. H. Yang, Reversing the Warburg effect as a treatment for glioblastoma, J. Biol. Chem. 288 (13) (2013) 91539164.   \n[70] P.M. Bingham, S.D. Stuart, Z. Zachar, Lipoic acid and lipoic acid analogs in cancer metabolism and chemotherapy, Expet Rev. Clin. Pharmacol. 7 (6) (2014) 837846.   \n[71] R. Abolhassani, E. Berg, G. Tenenbaum, M. Israel, Inhibition of Scot and ketolysis decreases tumor growth and inflammation in the lewis cancer model, JJ Oncol Clin Res 3 (2022) 12.   \nL' cancer: intermediate results of a prospective case series, Anticancer Res. 34 (2) (2014) 973980.   \n[73] R.H. Schirmer, H. Adler, M. Pickhardt, E. Mandelkow, Lest we forget you methylene blue, Neurobiol. Aging 32 (12) (2011), 2325-e7.   \n[74] K. Hager, M. Kenklies, J. McAfoose, J. Engel, G. Munch, Alpha-lipoic acid as a new treatment option for Alzheimer's disease—a 8 months follow-up analysis, J. Neural. Transm. Suppl (72) (2007) 189193.   \n[75] L. Shinto, J. Quinn, T. Montine, H.H. Dodge, W. Woodward, S. Baldauf-Wagner, D. Waichunas, L. Bumgarner, D. Bourdette, L. Silbert, J. Kaye, A randomized placebo-controlled pilot trial of omega-3 fatty acids and alpha lipoic acid in Alzheimer's disease, J Alzheimers Dis 38 (1) (2014) 111120.   \n[76] G.S. Mijnhout, B.J. Kollen, A. Alkhalaf, N. Kleefstra, H.J. Bilo, Alpha lipoic Acid for symptomatic peripheral neuropathy in patients with diabetes: a meta-analysis of randomized controlled trials, Internet J. Endocrinol. 2012 (2012), 456279.   \n[77] P. Rodriguez, W. Zhou, D.W. Barrett, W. Altmeyer, J.E. Gutierrez, J. Li, J. L. Lancaster, F. Gonzalez-Lima, T.Q. Duong, Multimodal randomized functional MR imaging of the effects of methylene blue in the human brain, Radiology 281 (2) (2016) 516526.   \n[78] J.F. Quinn, J.R. Bussiere, R.S. Hammond, T.J. Montine, E. Henson, R.E. Jones, R. W. Stackman Jr., Chronic dietary alpha-lipoic acid reduces deficits in hippocampal memory of aged Tg2576 mice, Neurobiol. Aging 28 (2) (2007) 213225.   \n[7] L.A. Zoellner, M. Telch, E.B. Foa, F.J. Farach, C.P. McLan, R. Gallop, E.J. Bluett, ACobb, F. Gonzalez-Lima, Enhancing extincion learning in posttraumatic ress disorder with brief daily imaginal exposure and methylene blue: a randomized controlled trial, J. Clin. Psychiatry 78 (7) (2017) e782e789.   \n[80] M. Alda, M. McKinnon, R. Blagdon, J. Garnham, S. MacLellan, C. O'Donovan, T. Hajek, C. Nair, S. Dursun, G. MacQueen, Methylene blue treatment for residual symptoms of bipolar disorder: randomised crossover study, Br. J. Psychiatry 210 (1) (2017) 5460.   \n[81] M.R. Salazar, Alpha lipoic acid: a novel treatment for depression, Med. Hypotheses 55 (6) (2000) 510512.   \n[82] Q. Shen, F. Du, S. Huang, P. Rodriguez, L.T. Watts, T.Q. Duong, Neuroprotective effiacy of methylene blue in ischemic stroke: an MRI study, PLoS One 8 (11) (2013), e79833.   \n...rk HS.mK.T.i H.S.m J.T.m B.C. . J T. Park, K.H. Cho, Alpha-lipoic acid treatment is neurorestorative and promotes functional recovery after stroke in rats, Mol. Brain 8 (2015) 9.   \n[84] M. Henry, M. Summa, L. Patrick, L. Schwartz, A Cohort of Cancer Patients with No Reported Cases of SARS-CoV-2 Infection: the Possible Preventive Role of Methylene Blue, Substantia, 2020, p. 888.   \n[85] F.A. Moura, K.Q. de Andrade, J.C. dos Santos, M.O. Goulart, Lipoic Acid: its antioxidant and anti-inflammatory role and clinical applications, Curr. Top. Med. Chem. 15 (5) (2015) 458483.   \n[86] D. Hamidi-Alamdari, S. Hafizi-Lotfabadi, A. Bagheri-Moghaddam, H. Safari, . Mozdourian, Z. Javidarabshahi, A.Peivandi-Yazdi, A.Ali-Zeraati, A. Sedaat, F. Poursadegh, F. Barazandeh-Ahmadabadi, M. Agheli-Rad, S.M. Tavousi, S. Vojouhi, S. Amini, M. Amini, S. Majid-Hosseini, A. Tavanaee-Sani, A. Ghiabi, S. Nabavi-Mahalli, N. Morovatdar, O. Rajabi, G. Koliakos, Methylene blue for treatment of hospitalized covid-19 patients: a randomized, controlled, open-label clinical trial, phase 2, Rev. Invest. Clin. 73 (3) (2021) 190198.   \n[87] M. Israël, L. Schwartz, The metabolic rewiring observed in cancer renders tumor cells dependent of ketone bodies and vulnerable to SCoT inhibition, Endocrinol Diabetes Metabol 4 (2020) 14.   \n[88] M. Gendrot, J. Andreani, I. Duflot, M. Boxberger, M. Le Bideau, J. Mosnier, P. Jardot, I. Fonta, C. Rolland, H. Bogreau, S. Hutter, B. La Scola, B. Pradines, Methylene blue inhibits replication of SARS-CoV-2 in vitro, Int. J. Antimicrob. Agents 56 (6) (2020), 106202.   \n[89] N. Hatanaka, B. Xu, M. Yasugi, H. Morino, H. Tagishi, T. Miura, T. Shibata, S. Yamasaki, Chlorine dioxide is a more potent antiviral agent against SARS-CoV-2 than sodium hypochlorite, J. Hosp. Infect. 118 (2021) 2026.   \n[90] A. Pullman, B. Pullman, Quantum Biochemistry, Wiley-Interscience, New York, 1963.   \n[91 1F. Bouillaud, C. Ransy, M. Moreau, J. Benhaim, A. LoMeBes, P. Haouzi, Methylene blue induced O(2) consumption is not dependent on mitochondrial oxidative phosphorylation: implications for salvage pathways during acute mitochondrial poisoning, Respir. Physiol. Neurobiol. 304 (2022), 103939.   \n[92] J.A. Mayr, R.G. Feichtinger, F. Tort, A. Ribes, W. Sperl, Lipoic acid biosynthesis defects, J. Inherit. Metab. Dis. 37 (4) (2014) 553563.   \n[93] L.G. Korotchkina, S. Sidhu, M.S. Patel, R-lipoic acid inhibits mammalian pyruvate dehydrogenase kinase, Free Radic. Res. 38 (10) (2004) 10831092.   \n[ J. Veiga Morra, L. De Staerke, P.Cesar Martz-Basio, S. GhrThibodeau, L. Montegut, L. Schwartz, M. Jolicoeur, Hyperosmolarity triggers the Warburg effect in Chinese hamster ovary cells and reveals a reduced mitochondria horsepower. Metabolites 11 (6) (2021). ",
+        "bbox": [
+            63,
+            525,
+            484,
+            930
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            52,
+            936,
+            926
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            58,
+            70,
+            484,
+            819
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            73,
+            936,
+            818
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Update ",
+        "text_level": 1,
+        "bbox": [
+            452,
+            416,
+            547,
+            437
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Free Radical Biology and Medicine ",
+        "text_level": 1,
+        "bbox": [
+            275,
+            452,
+            722,
+            475
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Volume 207, Issue , October 2023, Page 226 ",
+        "bbox": [
+            324,
+            479,
+            675,
+            494
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Corrigendum to \"Toxicity of the spike protein of COvID-19 is a redox shift phenomenon: A novel therapeutic approach\" [Free Radical Biology and Medicine 206 (2023) 106110] ",
+        "text_level": 1,
+        "bbox": [
+            62,
+            206,
+            816,
+            269
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Laurent Schwartz a, \", Manuel Aparicio-Alonso b, Marc Henry , Miroslav Radman d, Romain Attal e, Ashraf Bakkar ",
+        "bbox": [
+            62,
+            283,
+            712,
+            316
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "a Assistance Publique des Hopitaux de Paris, Paris, France b General Director Centro Médico Jurica, Queretaro, Mexico cInstitut Lebel, Faculté de chimie, Université de Strasbourg, 67000, Strasbourg, France Mediterranen Institute for Life Sciencs (MedIL), 2100, Split, Crtia des Sciences et d 'ndusrie, 30 avenue Corenti-Cario75019, Paris, Fane uly  Biotnology, October Universiy or oden Scis andArt, iza t ",
+        "bbox": [
+            60,
+            326,
+            467,
+            390
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When the authors replaced Methylene Blue (MB) with MeB throughout the paper, it unintentionally changed the words imbalance to iMeBalance, thrombosis to throMeBosis, and membrane to meMEbrane throughout the paper. This also affected references 1, 48, 51 and the author's name Lombès in refernce 91. ",
+        "bbox": [
+            60,
+            416,
+            485,
+            481
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Reference 61 also had some details missing: ",
+        "bbox": [
+            80,
+            482,
+            344,
+            495
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Anl Kuvandk, Ecenur Özcan, Simay Serin, Hülya Sungurtekin (2021) Creutzfeldt - Jakob disease After the COVID-19 Vaccination. Turk J Intensive Care DOI: 10.4274/tybd.galenos.2021.91885 ",
+        "bbox": [
+            512,
+            416,
+            937,
+            455
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The authors apologize for any inconvenience caused. ",
+        "bbox": [
+            532,
+            456,
+            850,
+            469
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Please do not hesitate to contact me if you still need further information. ",
+        "bbox": [
+            510,
+            470,
+            937,
+            494
+        ],
+        "page_idx": 6
+    }
+]

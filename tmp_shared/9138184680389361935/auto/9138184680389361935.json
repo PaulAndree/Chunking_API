@@ -1,0 +1,234 @@
+[
+    {
+        "type": "text",
+        "text": "Cliente (informática) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            450,
+            129
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El cliente es una aplicación informática o un ordenador que consume un servicio remoto en otro ordenador conocido como servidor, normalmente a través de una red de telecomunicaciones.1 También se puede definir que un cliente es cualquier cosa (que no sea un servidor) que se conecta a un servidor.2 3 ",
+        "bbox": [
+            70,
+            140,
+            514,
+            255
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El término se usó inicialmente para los llamados terminales bobos, dispositivos que no eran capaces de ejecutar programas por sí mismos, pero podían conectarse e interactuar con computadores remotos por medio de una red y dejar que este realizase todas las operaciones requeridas, mostrando luego los resultados al usuario. Se utilizaban sobre todo porque su costo en esos momentos era mucho menor que el de un computador. Estos terminales bobos eran clientes de un computador mainframe por medio del tiempo compartido. ",
+        "bbox": [
+            70,
+            270,
+            514,
+            477
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Actualmente se suele utilizar para referirse a programas que requieren específicamente una conexión a otro programa, al que se denomina servidor y que suele estar en otra máquina. Ya no se utilizan por criterios de costo, sino para obtener datos externos (por ejemplo páginas web, información actualizada sobre los parámetros climáticos, o bases de datos), interactuar con otros usuarios a través de un gestor central (como por ejemplo los protocolos BitTorrent o IRC), compartir información con otros usuarios (servidores de archivos y otras aplicaciones Groupware) o utilizar recursos de los que no se dispone en la máquina local (por ejemplo impresión). ",
+        "bbox": [
+            70,
+            495,
+            514,
+            549
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f25778f0b22349966023a041e1eb8f8af41a7670da963a8961be1aa3d2e33275.jpg",
+        "image_caption": [
+            "Comparación en tamaño entre un cliente liviano y un cliente pesado. El cliente híbrido pudiera ser de cualquier tamaño entre estos dos. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            542,
+            149,
+            924,
+            459
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            552,
+            932,
+            644
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Uno de los clientes más utilizados, sobre todo por su versatilidad, es el navegador web. Muchos servidores son capaces de ofrecer sus servicios a través de un navegador web en lugar de requerir la instalación de un programa específico. ",
+        "bbox": [
+            70,
+            660,
+            932,
+            716
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tipos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            752,
+            144,
+            775
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Existen varios tipos de clientes, dependiendo de la cantidad de tareas que realice el cliente en comparación con el servidor. ",
+        "bbox": [
+            67,
+            792,
+            929,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/18eadd941803e2b0906f02c38d1cc0d907ae3108efbf7ff6bb1dbce13229a7c7.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            41,
+            692,
+            143
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cliente pesado ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            171,
+            243,
+            191
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Un cliente pesado puede almacenar datos locales, y tiene la capacidad de procesar datos. ",
+        "bbox": [
+            65,
+            198,
+            786,
+            216
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cliente liviano ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            245,
+            235,
+            264
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Un cliente liviano no puede almacenar datos locales, ni tiene la capacidad de procesar datos. ",
+        "bbox": [
+            70,
+            271,
+            818,
+            289
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            326,
+            223,
+            347
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Sadoski, Darleen. Client/Server Software Architectures--An Overview, Software Technology Roadmap, 1997-08-02. Retrieved on 2008-09-16. ",
+        "bbox": [
+            75,
+            369,
+            927,
+            402
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Oikarinen, J (mayo de 1993). «Protocolo de Charla Basado en Internet (Internet Relay Chat, IRC)» (http://www.rfc-es.org/rfc/rfc1459-es.txt). Consultado el 28 de diciembre de 2015. ",
+        "bbox": [
+            75,
+            406,
+            926,
+            439
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Oikarinen, J (mayo de 1993). «Proveedor de servicios de TI» (https://www.esc-it.at/). Consultado el 28 de diciembre de 2015. ",
+        "bbox": [
+            75,
+            441,
+            924,
+            473
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            503,
+            262,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cliente ligero, cliente pesado, cliente híbrido   \nServidor   \nArquitectura Cliente-servidor   \nProtocolos Peer-to-peer   \nEstación de trabajo ",
+        "bbox": [
+            80,
+            546,
+            504,
+            643
+        ],
+        "page_idx": 1
+    }
+]

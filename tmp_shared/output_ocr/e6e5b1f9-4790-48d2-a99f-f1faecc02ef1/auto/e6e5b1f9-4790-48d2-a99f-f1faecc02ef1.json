@@ -1,0 +1,641 @@
+[
+    {
+        "type": "text",
+        "text": "Editing DNA Replication and Recombination by Mismatch Repair: From Bacterial Genetics to Mechanisms of Predisposition to Cancer in Humans ",
+        "text_level": 1,
+        "bbox": [
+            77,
+            142,
+            922,
+            203
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. Radman, I. Matic, J. A. Halliday and F. Taddei ",
+        "bbox": [
+            77,
+            211,
+            528,
+            226
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phil. Trans. R. Soc. Lond. B 1995 347, 97-103   \ndoi: 10.1098/rstb.1995.0015 ",
+        "bbox": [
+            77,
+            235,
+            500,
+            262
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            77,
+            293,
+            198,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article cited in: http://rstb.royalsocietypublishing.org/content/347/1319/97#related-urls ",
+        "bbox": [
+            348,
+            293,
+            926,
+            317
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Email alerting service ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            324,
+            289,
+            340
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Riv eail alet h w ce h r ue ox right-hand corner of the article or click here ",
+        "bbox": [
+            346,
+            324,
+            951,
+            344
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Editing DNA replication and recombination by mismatch repair: from bacterial genetics to mechanisms of predisposition to cancer in humans ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            63,
+            828,
+            138
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "M. RADMAN1, I. MATIC1,3, J. A. HALLIDAY1 AND F. TADDEI1, 2 ",
+        "bbox": [
+            90,
+            157,
+            758,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1 Laboratoire de Mutagénèse, Institut J. Monod, 2 Place Jussieu, 75251 Paris, France   \n2 Ecole Nationale du Génie Rural des Eaux et des Forêts, 19 Avenue du Maine, 75015 Paris, France   \nLabayBilgy nMicbal Gee FacuyFoTecogy n BioolgUnivery Zagb   \n41000 Zagreb, Croatia ",
+        "bbox": [
+            92,
+            180,
+            861,
+            232
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "SUMMARY ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            290,
+            186,
+            301
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A hereditary form of colon cancer, hereditary non-polyposis colon cancer (HNpc), is characterized by high instability of short repeated sequences known as microsatellites. Because the genes controlling microsatellite stability were known in bacteria and yeast, as was their evolutionary conservation, the search for human genes responsible for HNpcc became a 'targeted' search for known sequences. Mismatch-repair deficiency in bacteria and yeast produces multiple phenotypes as a result of its dual involvement in the editing of both replication errors and recombination intermediates. In addition, mismatch-repair functions are specializein eukaryotes, characterized by speciicmitotic (versus meiic functions, and nuclear (versus mitochondrial) localization. Given the number of phenotypes observed so far, we predict other links between mismatch-repair deficiency and human genetic disorders. For example, a similar type of sequence instability has been found in Hnpcc tumours and in a number of neuro-muscular genetic disorders. Several human mitochondrial disorders display genomic instabilities reminiscent of yeast mitochondrial mismatch-repair mutants. ",
+        "bbox": [
+            92,
+            309,
+            845,
+            458
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In general, the process of mismatch repair is responsible for the constant maintenance of genome stability and its faithful transmission from one generation to the next. However, without genetic alteration, species would not be able to adapt to changing environments. It appears that nature has developed both negative and positive controls for genetic diversity. In bacteria, for example, an inducible system (sos) exists which generates genetic alterations in response to environmental stress (e.g.radiation, chemicals, starvation). Hence, the cost of generating diversity to adapt to changing conditions might be paid as sporadic gene alterations associated with disease. ",
+        "bbox": [
+            92,
+            460,
+            845,
+            546
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            595,
+            264,
+            606
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Perhaps the most telling lesson of the past forty years has been the recognition that very different forms of life are built around essentially similar mechanisms. All species are discovered to have more in common with each other than their differences would suggest. ",
+        "bbox": [
+            113,
+            613,
+            464,
+            686
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(.John Maddox in 'News and Views' Nature, Lond. 1993 363, 13.) ",
+        "bbox": [
+            216,
+            688,
+            485,
+            712
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The identification of two genes (and other unpublished candidates) (Fishel et al. 1993; Leach et al. 1993; Bronner et al. 1994; Papadopoulos et al. 1994) linked to a predisposition to a hereditary form of colon cancer, hereditary non-polyposis colon cancer (HNpcc), was made possible due to the strong conservation among DNA repair functions between prokaryotes such as $E$ . coli and eukaryotes such as the yeast S. cerevisiae (Reenan & Kolodner 1992b). The two genes discovered are human homologues to two components, mutS and mutL, from E. coli, of the so called mismatchrepair system (mRs). Indeed, the crucial observations which led to the discovery of two genes involved in HNPcc were clearly reminiscent of the known phenotypes of such genes in other organisms (see below) with E. coli being the best studied. Linkage was detected using a 'microsatellite marker' on chromosome 2 revealing a previously unknown location for a colon cancer gene (Peltomaki et al. 1993). Such probes were designed to detect changes in microsatellite DNA characterized as short (1-6 base pair [b.p.]), repetitive DNA sequences occurring on average every $1 0 ^ { 5 }$ b.p. in genomic DNA. Surprisingly, the microsatellite linkage markers varied in size throughout the genome in most of the HNPcc tumours examined, indicating that nucleotides were both being added and deleted in microsatellite blocks $\\mathbf { \\Delta } ^ { \\mathrm { ( R E R ^ { + } } }$ phenotype for replication error) (Aaltonen et al. 1993; Thibodeau et al. 1993). ",
+        "bbox": [
+            94,
+            714,
+            485,
+            849
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            588,
+            907,
+            798
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During DNA replication, DNA polymerases frequently misalign the newly synthesized template strand on short, tandemly repeated sequences creating small 'loop-outs' of unpaired bases that are normally recognized and corrected by mismatch-repair enzymes (Dohet et al. 1986). Specific gene products encoded by the mutS, mutL, mutH genes are thought to operate on replication errors as a complex (Modrich 1991). Mutation in any of these three genes produces a strong mutator phenotype characterized by enhanced levels of base-substitution events, frameshift mutations at repetitive sequences, and recombination between homeologous (diverged) DNA sequences (Radman & Wagner 1986; Modrich 1991; Radman & Wagner 1993). As a result, it was thought that the genetic instability observed in human colon cancer cells probably reflected a defect in the maintenance of DNA integrity. This prediction was reinforced by the demonstration of a similar instability in $\\left( \\mathrm { C A } \\right) _ { n }$ repeats, the most frequent form of microsatellite DNA in eukaryotes, in $E$ coli mutL and mutS mutants (Levison & Gutman 1987) and $S$ cerevisiae msh2 (mutS homologue) pms1 and mlh1 (mutL homologues) mutants (Strand et al. 1993). ",
+        "bbox": [
+            516,
+            799,
+            909,
+            848
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/b372cd88e71e4276921c42a905c8f73764d6ab4b9d364faf3c5f1a0e016dca3e.jpg",
+        "image_caption": [
+            "urFrom bactlmia rep stem )umn ene ses: ronogy.The cenr the figure presents the alignment of a well conserved region (including the ATP binding site) of the $E$ coli mutS gene with oueThe icacsirThe yeardicaprov h at mornsatnshe v hle x  enTet e anarcros isypohetical but s gesterom stumuaenei  onaliyrto pl Bnit &Beni The ss et e    e text. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            97,
+            82,
+            897,
+            357
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            467,
+            485,
+            730
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The striking sequence homology between components of the $E$ coli $\\mathrm { ( M u t S , L ) }$ and yeast (MSH2, MLH1, PMS1) mismatch-proteins was exploited and used to clone the first human homologue hMSH2 and more recently, hMLH1, as well as homologues in Xenopus and mice (I. M. Varlet, M. Radman & N. D. Wind, unpublished results) (see figure 1). The Hopkins group speculated that approximately $4 0 \\%$ of HNPCC non-hMSH2 tumours might be accounted for by another component of the mismatch-repair complex. To this end, a search for potential mutL homologues was initiated, using the expressed sequence tag method (EsT) sequence data base which contains sequence information for approximately $1 0 ^ { 5 }$ cDNA fragments. ",
+        "bbox": [
+            94,
+            732,
+            485,
+            914
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Three candidates were found: one with homology to the yeast MLH1 counterpart and the other two with homology to the other yeast mutL homologue PMS1. Confirmation that the two genes hMSH2 and hMLH1 were indeed responsible for the majority of Hnpcc cases was provided by substantial evidence. This included the mapping of these two genes to the regions of chromosomes 2 and 3 known to contain the Hnpcc loci, the finding of mutations in these two genes in HNPCCafficted individuals (as heterozygotes in somatic cells and homozygotes in tumours) and the hypermutability of microsatellite-like $( \\mathrm { C A } ) n$ repetitive sequences in tumour cell lines compared to somatic cell lines (Fishel et al. 1993; Ionov et al. 1993; Leach et al. 1993; Bronner et al. 1994; Papadopoulos et al. 1994), and from the failure of nuclear extracts to repair known heteroduplex DNA substrates for mismatch-repair enzymes (Parsons et al. 1993). ",
+        "bbox": [
+            516,
+            467,
+            907,
+            705
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. AN ARRAY OF DIFFERENT DISORDERS ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            738,
+            888,
+            750
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "HNPcc has been hallmarked as one of the most common genetic diseases of man, affecting as many as one in 200 individuals. In addition, as judged by microsatellite instability, afflicted individuals appear to manifest an increased susceptibility to other epithelial cancers such as endometrial cancer. However, microsatellite changes have also been detected at significantly high incidence in sporadic cases of colon, bladder (Gonzalez-Zulueta 1993), pancreas and gastric carcinomas (Han et al. 1993) and to a much lesser extent in breast and ovarian cancers (Wooster et al. 1994). These findings demonstrate that this type of genetic instability is not unique to HNPcc and suggests that sporadic tumours can acquire this phenotype during tumour initiation and/or progression. ",
+        "bbox": [
+            518,
+            759,
+            907,
+            914
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            85,
+            85,
+            478,
+            124
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition to a likely association of a mismatchrepair-deficient phenotype with the above mentioned cancers, a genetic instability that produces an expansion of $5 ^ { \\prime } \\mathrm { C X G } 3 ^ { \\prime }$ trinucleotide repeat sequences has been observed in seven other hereditary neurological and neuromuscular diseases, including Huntington's disease and Fragile-X syndrome (Nelson & Warren 1993). Although at present the mechanism underlying the relatively large expansions observed for these syndromes is not known, it is possible that the instability associated with these syndromes results from a compromised DNA-editing function. ",
+        "bbox": [
+            87,
+            125,
+            480,
+            282
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As the search for further human DNA repair homologues continues a number of cancer and hereditary disease-associated loci may emerge. For example, some mitochondrial disorders characterized by gene deletions, duplications and the accumulation of point mutations (reviewed by Schapira 1993) could be linked to mismatch-repair deficiencies. As described below, yeast mshl mutants display a 'petite' phenotype due to mtDNA mutations resulting in the loss of mitochondrial functions (Reenan & Kolodner 1992a). Because of the apparent specialization of eukaryotic mismatch-repair components (described below) in terms of compartmentalization (nuclear versus mitochondrial), life cycle (mitotic versus meiotic functions) and repair substrates recognized (replication versus recombination mismatches), malfunctions in components of the mismatch-repair machinery can be predicted to manifest an array of different disorders. ",
+        "bbox": [
+            87,
+            283,
+            480,
+            520
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. MULTIPLE PHENOTYPES OF MISMATCH REPAIR ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            540,
+            478,
+            565
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair was first postulated thirty years ago to explain particular aspects of genetic recombination including non-mendelian segregation of genetic markers (e.g. gene conversion) and excess recombination between closely linked markers (Holliday 1964; Ephrussi-Taylor et al. 1965). The molecular evidence confirming that such marker effects result from two different mechanisms of mismatch repair was obtained in 1987 using a phage lambda assay for the repair of specific mismatches (Jones et al. 1987). The characterization of pneumococcal hex mutants which display a mutator phenotype and no marker effects (Lacks 1966; Lacks 1970; Tiraby and Fox, 1973) raised the question of how the repair of replication errors could be directed to the newly synthesized strand. In 1975, Meselson proposed that the transient hemi-methylated state of newly replicated DNA could provide the signal to differentiate nascent and template strands (for a historical review, see Radman & Wagner 1988). One year later this was demonstrated experimentally using hemi-methylated heteroduplex molecules (Radman et al. 1978, 1980). The isolation and characterization of E. coli mutS, mutL, and mutH mutants soon confirmed the first observation (Glickman & Radman 1980) and since then many laboratories have further characterized the specificity of the generalized mRs (Radman & ",
+        "bbox": [
+            90,
+            574,
+            483,
+            915
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wagner 1986; Claverys & Lacks 1986; Modrich 1991). In vitro repair assay has been developed (Lu et al. 1983) and the repair proteins have been purified facilitating in vitro reconstitution of mismatch-repair (Lahue et al. 1989). ",
+        "bbox": [
+            509,
+            84,
+            902,
+            149
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The multiple phenotypes of mutS and mutL mutants in E. coli suggest that the mRs is the most versatile and multifaceted DNA-editing system known (see figure 2). The system involves mismatch (base-base or small insertion/deletion DNA loops) detection by MutS and MutL proteins and mismatch-stimulated unwinding by a helicase (helicase II, encoded by the mut $U$ gene also known as uvrD). E. coli deficient in MutS, MutL, or MutU functions are genetically destabilized and show large increases in: (i) deletion events resulting from excision of transposable elements (Tex phenotype) (Lundblad & Kleckner 1985); (ii) spontaneous base substitution and frameshift mutagenesis (mutator phenotype) (Levison & Gutman 1987; Modrich 1991); (iii) large chromosomal rearrangements resulting from crossovers between diverged DNA repeats (chromosomal instability phenotype) (Petit et al. 1991; Radman & Wagner $1 9 9 3 b$ ; Radman et al. 1993); (iv) recombination of genetic markers (hyper-rec phenotype) (Feinstein & Low 1986) and (v) recombination with related species such as Salmonella (disrupted genetic barrier phenotype) (Rayssiguier et al. 1989). The increases relative to wild-type bacteria range from tenfold to $1 0 ^ { 3 }$ -fold, depending on the particular phenotype measured. All of these phenotypes result directly from the failure of the MRs or its components to operate on mismatched DNA. Deletions result from the replicative bypass of secondary structures (e.g. hairpins) in template strands which, when mismatch repair is functional, are presumably melted by the mismatchstimulated helicase activity because such structures generally contain mispaired or unpaired bases. MRS controls the fidelity of DNA replication by repairing the newly synthesized strands and restores the parenta sequence; strand direction occurs via adenine methy. lation of GATC sequences or strand discontinuities (for a review, see Modrich 1991). The chromosoma instability, hyper-rec and disrupted genetic barrier phenotypes all result from the failure of the disablec MRs to disrupt mismatched recombination-inter. mediates. ",
+        "bbox": [
+            511,
+            148,
+            902,
+            691
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As previously mentioned, it appears that the bacterial mRs may also be well-conserved functionally in eukaryotes ranging from yeast to man and possibly plants as well (G. Cerovic & M. Radman, unpublished results) (see figure 1). The main difference is that mismatch repair genes in eukaryotes appear to be specialized, interacting with either nuclear or mitochondrial DNA. In yeast, mshl mutants (mutS homologue 1) accumulate mitochondrial DNA deletions and rearrangements and therefore display a 'petite' phenotype even when the wild type MSHl gene is subsequently reintroduced (Reenan & Kolodner 1992). msh2 and pmsl mutants show both mitotic mutator and meiotic hyper-rec phenotypes (Williamson et al. 1985; Kramer et al. 1989; Reenan & Kolodner $1 9 9 2 a , b )$ . msh3 mutants show a weak mutator phenotype but show an increase in recombination between ",
+        "bbox": [
+            512,
+            692,
+            905,
+            914
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4ef8765feed98efdeabc2225838447e4a2968369295d2c1dbc22f68218d40956.jpg",
+        "image_caption": [
+            "Figure 2. The maintenance of DNA integrity by the mismatch repair system (mRs). Array  arows indicate repeats of mono, i-triucleotides.Mismatche bass re indicated by posin arrowheads. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            156,
+            86,
+            842,
+            463
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Eihee heivn   ls  le excision of the nascent DNA strand containing mismatched or unpaired bases. ",
+        "bbox": [
+            123,
+            509,
+            874,
+            532
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "p v eel  e  le structures containing mismatched base pairs. ",
+        "bbox": [
+            121,
+            533,
+            874,
+            556
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.Editing of recombination intermediates. Prevention of the formation of recombination intermediates between divere euene, hu voidiroa reanment nintrspecrebinatiTheplicatio for speciation and the prevention of horizontal gene transfer are discussed in Radman & Wagner $1 9 9 3 b$ . ",
+        "bbox": [
+            121,
+            557,
+            874,
+            593
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The MutS protein detects mismatched and non-paired bases. The MutL protein binds to the complex to which helicase II (encoded by mutU) associates. The MutH protein of $E$ coli cleaves the newly synthesized strand at hemimethylated GATC sites. ",
+        "bbox": [
+            121,
+            593,
+            876,
+            629
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "diverged repeated sequences (New et al. 1993). The MSH4 gene is expressed only during meiosis and msh4 mutant phenotypes are under investigation (S. Roeder, personal communication). ",
+        "bbox": [
+            92,
+            653,
+            485,
+            705
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. MODEL ORGANISMS AND GENETIC DISEASE ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            724,
+            433,
+            750
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because of the overall conservation of the MRs between prokaryotes and eukaryotes and the fact that phenotypes of mismatch repair mutants in model prokaryotic and lower eukaryotic organisms are known, a number of predictions can be made concerning the implications for human genetics. To begin with, one would predict that a mismatch-repair deficiency could be responsible for predisposition to a number of human genetic disorders as for the predicted and recently demonstrated mutator phenotype in human colon tumours. Furthermore, since the MRs is also involved in the editing of recombination intermediates, a link between enhanced frequencies of chromosome rearrangements (as observed for such disorders as Fanconi's anemia or breast cancer) and a deficiency in mismatch repair could be predicted. Deletions between inverted repeat elements (such as Alu sequences or LINE elements) could be linked to a 'Tex-like' phenotype as described above. Ageing, in particular cases like progeria, could be linked to a mitochondrial mismatch repair deficiency, as characterized for yeast msh1 'petites'. The existence of a yeast gene (MSH-4) expressed only during meiosis and the hyper-rec effect of msh2, pms1 and mlh1 suggest a role for mismatch repair in fertility, as exemplified by bacteria in the maintenance of the genetic barrier between closely related species. ",
+        "bbox": [
+            92,
+            758,
+            483,
+            913
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            653,
+            905,
+            836
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The specificity of mismatch recognition by the MutS protein facilitates, on one hand, the diagnostic identification of mutation (based on the formation of heteroduplex DNA between normal and test DNA (Wagner et al. 1995)) and, on the other hand, provides an explanation for the instability of microsatellite sequences. The microsatellite sequences monitored during the mapping of the human genome are found to be more or less stable. In 'normal' cells, tetranucleotide repeats are apparently the most unstable (Weber & Wong 1993). Yet it is well known that polymerase slippage occurs more frequently at mono-, di-, and trinucleotides (as seen in HNpcc tumours) whereas the MutS protein has been shown to efficiently recognize small base loop-outs up to three bases in size. The degree of the 'accordion' effect observed at microsatellites in normal cells is therefore due both to polymerase slippage errors and the specificity of recognition of such errors by MutS. Therefore, repetitions of mono-, di- and trinucleotides are highly destabilized as seen in HNpcc tumours where the mismatch repair system is defective. Larger repeats, not well recognized by the MutS protein, are much less destabilized but for the same reason, appear as the most unstable microsatellites in cells with functional mismatch-repair. ",
+        "bbox": [
+            514,
+            837,
+            907,
+            914
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            87,
+            82,
+            480,
+            346
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. EVOLUTIONARY IMPLICATIONS ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            362,
+            403,
+            374
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In general, the MRs is an essential negative regulator of genetic alterations (see figures 2 and 3) linked to genetic disease (germinal mutation) or sporadic cases (somatic mutation). To avoid the toll of deleterious mutations, all organisms have evolved highly sophisticated mechanisms of mutation avoidance. However, without genetic diversity it would be impossible to adapt to a changing environment. Undesirable genetic alterations therefore can be seen as the price paid for the capacity to evolve. To minimize this cost to the organism, evolution has selected inducible systems for the creation of genetic diversity, i.e. positively regulated systems for the generation of genetic alterations (see figure 3). The induction of a mutator system, like the sos system in $E$ coli (Radman 1974; Walker 1984), increases on demand, the plethora of genetic alterations that the MRs normally suppresses (see figure 2). An inducible system is advantageous: in a favourable environment the mutation rate is maintained at a low level as compared to conditions of environmental stress (as a response to radiation, chemical agents, conditions of starvation etc.) when the sos-system is induced and variability enhanced. In this way, an inducible system, like the bacterial sos system, responding to environmental factors could be responsible for sporadic as well as hereditary forms of a number of human diseases. Bloom's syndrome, which constitutively synthesizes a number of proteins which are inducible in normal cells, could be an example of an unregulated sos-like response in humans which in turn could explain the associated enhanced genetic instability and elevated frequency of cancers characteristic of this syndrome (Mallick et al. 1982; Herrlich et al. 1984). Analogously to research on mismatch repair, pursuit of the mechanisms of inducible genetic alteration systems like the bacterial sos system should provide an understanding of the potential link between environment and genetic disease. ",
+        "bbox": [
+            87,
+            383,
+            480,
+            514
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/f89aa1274215a866701b454a1f24a43c30c40b2881eae2b64fe1916afbe9143a.jpg",
+        "image_caption": [
+            "Figure 3. Genetic alterations and evolution. Too many mutations cause immediate death by error catastrophe. Too few mutations prevent adaptation to changing environments and lead to evolutionary death. The mutation rate which maximizes population fitness varies with adaptation to the environment, hence the necessity for fine tuning of the rate of genetic variability. Genetic diversification is fine tuned by an antagonistic control couple : mismatch repair and sos systems. The MRs appears to be constitutive and prevents all aspects of genetic diversification; whereas the sos system, which creates variability, is inducible and allows adaptation to adverse conditions. Genetic alterations, cancers and genetic diseases could appear as a price to pay for evolution. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            128,
+            532,
+            432,
+            752
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            85,
+            900,
+            452
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have speculated that clones presenting a mutator phenotype in nature (found in approximately $1 \\%$ of bacterial and human populations (Tröbner & Piechocki 1984; Peltomaki et al. 1993)) may represent population 'hotspots' for genetic defects and speciation events (Rayssiguier et al. 1989; Matic et al. 1994). Now we suggest that, in addition, conditions causing sos induction provide time 'hotspots' for the population of cells or organisms to produce sporadic genetic defects and stimulate speciation events. These considerations further weaken the notion of random genetic alterations. Untangling genetic control mechanisms involved in the timing of DNA sequence evolution will be instrumental to our understanding of the origins of species and of genetic diseases. The presence of mutator genes in the human population, even in a heterozygous state, raises a question of major concern: what is the impact of this subpopulation on the overall incidence of genetic diseases? ",
+        "bbox": [
+            509,
+            453,
+            902,
+            702
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Thanks to the considerable conservation of systems responsible for the maintenance of DNA integrity from bacteria to man, bacterial genetics remains a source of new paradigms piloting research into the causes of genetic alterations in man. The finding that a defect in the human MRs provides a predisposition to colon cancer is the most recent example of such a 'targeted' research. ",
+        "bbox": [
+            511,
+            703,
+            903,
+            807
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            511,
+            821,
+            631,
+            834
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Aaltonen, L.A., Peltomaki, P., Leach, F.S. et al. 1993 Clues to the pathogenesis of familial colorectal cancer. Science, Wash. 260, 812815. Benditt, E.P. & Benditt, E.P. 1973 Evidence for a monoclonal origin of human atherosclerotic plaques. Proc. natn. Acad. Sci. U.S.A. 70, 1753-1756. ",
+        "bbox": [
+            511,
+            841,
+            903,
+            912
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Bronner, C.E., Baker, S.M., Morrison, P.T. et al. 1994 Mutation in the DNA mismatch repair gene homologue hMLHl is associated with hereditary non-polyposis cancer. Nature, Lond. 368, 258261.   \nClaverys, J.-P. & Lacks, S.A. 1986 Heteroduplex deoxyribonucleic acid base mismatch repair in bacteria. Microbiol. Rev. 50, 133165.   \nDohet, C., Wagner, R. & Radman, M. 1986 Methyldirected repair of frameshift mutations in heteroduplex DNA. Proc. natn. Acad. Sci. U.S.A. 83, 33953397.   \nEphrussi-Taylor, H., Sicard, A. M. & Kamen, R. 1965 Genetic recombination in DNA-induced transformation of pnemococcus. Genetics, 51, 455475.   \nFeinstein, S.I. & Low, K.B. 1986 Hyper-recombining recipient strains in bacterial conjugation. Genetics 113, 13-33.   \nFishel, R., Lescoe, M.K., Rao, M.R.S. et al. 1993 The human mutator gene homolog MSH2 and its association with hereditary nonpolyposis colon cancer. Cell 75, 10271038.   \nGlickman, B.W. & Radman, M. 1980 Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc. natn. Acad. Sci. U.S.A. 77, 10631067.   \nGonzalez-Zulueta, M. 1993 Microsatellite instability in bladder cancer. Cancer Res. 53, 56205623.   \nHan, H.-J, Yanagisawa, A., Kato, Y., Bark, J.-G. & Nakamura, Y. 1993 Genetic instability in pancreatic cancer and poorly diffrentiated type of gastric cancer. Cancer Res. 53, 50875089.   \nHerrlich, P., Mallick, U., Ponta, H. & Rahmsdorf, H.J. 1984 Genetic changes in mammalian cells reminiscent of an sos response. Hum Genet. 67, 360368.   \nHolliday, R. 1964 A mechanism for gene conversion in fungi. Genet. Res. 5, 282304.   \nIonov, Y., Peinada, M.A., Malkhosyan, S., Shibata, D. & Perucho, M. 1993 Ubiquitous somatic mutations in simple repeated sequences reveal a new mechanism for colonic carcinogenesis. Nature, Lond. 363, 558561.   \nJones, M., Wagner, R. & Radman, M. 1987 Mismatch repair and recombination in E. coli. Cell. 50, 621626.   \nKramer, W., Kramer, B., Williamson, M.S. & Fogel, S. 1989 Cloning and nucleotide sequence of DNA mismatch repair gene PMS1 from Saccharomyces cervisiae: Homology pf PMS1 to procaryotic MutL and HexB. J. Bact. 171, 53395346.   \nLacks, S. 1970 Mutants of Diplococcus pneumoniae that lack deoxyriboucleases nd hr tivit possibly petnt to genetic transformation. J. Bact. 101, 373383.   \nLacks, S.A. 1966 Integration efficiency and genetic recombination in pneumococcal transformation. Genetics 53, 207235.   \nLahue, R.S., Au, K.G., & Modrich, P. 1989 DNA mismatch correction in a defined system. Science, Wash. 245, 160164.   \nLeach, F.S., Nicolaides, N.C., Papadopoulos, N. et al. 1993 Mutations o a mutS homologu in hereditary nonpolyposis colorectal cancer. Cell 75, 12151226.   \nLevison, G. & Gutman, G.A. 1987 High frequencies of short frameshifts in poly-CA/TG tandem repeats borne by bacteriophate M13 in Escherichia coli K-12. Nucl. Acids Res. 15, 53235338.   \nLu, A.-L., Clark, S. & Modrich, P. 1983 Methyl-directed repair of DNA base-pair mismatches in vitro. Proc. natn. Acad. Sci. U.S.A. 80, 463943.   \nLundblad, V. & Kleckner, N. 1985 Mismatch repair mutations of Escherichia coli eance transoson excision. Genetics 109, 319.   \nMallick, U., Rahmsdorf, H.J., Ponta, H., Wegner, R.-D. & inducible proteins are synthesized at an increased rate in Bloom syndrome fibroblasts. Proc. natl. Acad. Sci. U.S.A. 79, 7886-7890.   \nMatic, I., Radman, M. & Rayssiguier, C. 1994 Structure of recombinants from conjugational crosses between Escherichia coli donor and mismatch-repair deficient Salmonella typhimurium recipients. Genetics 136, 1726.   \nModrich, P. 1991 Mechanisms and biological effects of mismatch repair. A. Rev. Genet. 25, 229253.   \nNelson, D.L. & Warren, T. 1993 Trinucleotide repeat instability: when and where? Nature Genet. 4, 107108.   \nNew, L., Liu, K. & Crouse, G.F. 1993 The yeast gene MSH3 defines a new class of eukaryotic MutS homologues. Molec. gen. Genet. 239, 97108.   \nPapadopoulos, N., Nicolaides, N.C., Wei, Y.-F. et al. 1994 Mutation of a mutL homolog in hereditary colon cancer. Science, Wash. 263, 16251629.   \nParsons, R., Li, G.-M, Longley, M.J. et al. 1993 Hypermutability and mismatch repair deficiency in RER $^ +$ tumor cells. Cell 75, 12271236.   \nPeltomaki, P., Aaltonen, L.A., Sistonen, P. et al. 1993 Genetic mapping of a locus predisposing to human colorectal cancer. Science, Wash. 260, 810812.   \nPetit, M.A., Dimpfl, J., Radman, M. & Echols, H. 1991 Control of chromosomal rearrangements in $E$ coli by the mismatch repair system. Genetics 129, 327332.   \nRadman, M. 1974 Phenomenology of an inducible mutagenic DNA repair pathway in Escherichia coli: sos repair hypothesis. In Molecular and environmental aspects of mutagenesis (ed. L. Prakash, F. Sherman, M. Miller, C. Lawrence & H. W. Tabor), pp. 128142. Springfield, Illinois: Charles C. Thomas.   \nRadman, M., Villani, G., Boiteux, S., Kinsella, R., Glickman, B.W. & Spadari, S. 978 Replication fideliy: mechanisms of mutation avoidance and mutation fixation. Cold Spring Harb. Symp. quant. Biol. 43,937946.   \nRadman, M. & Wagner, R. 1986 Mismatch repair in Escherichia coli. A. Rev. Genet. 20, 523538.   \nRadman, M. & Wagner, R. 1988 High fidelity of DNA duplication. Scient. Am. 259, 4047.   \nRadman, M. & Wagner, R. 1993a Missing mismatch repair. Nature, Lond. 366, 722.   \nRadman, M. & Wagner, R. 1993 b Mismatch recognition in chromosomal interactions and speciation. Chromosoma 102, 369373.   \nRadman, M., Wagner, R. & Kricker, M.C. $1 9 9 3 b$ Homologous DNA interactions in the evolution of gene and chromosome structure. Genome Analysis 7, 13952. Cold spring Harbor Laboratory Press.   \nRadman, M., Wagner, R.E., Glickman, B.W. & Meselson, M. 1980 DNA methylation, mismatch correction and geneti tabiliy. In rogress inenvomentaltagenes d. M. Alacevic), pp. 121130. Amsterdam: Elsevier.   \nRayssiguier, C., Thaler, D.S. & Radman, M. 1989 The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature, Lond. 342, 396401.   \nReenan, R.A.G. & Kolodner, R.D. $1 9 9 2 a$ Characterization of insertion mutations in the Saccharymyces cervisiae MSH1 and MSH2 genes: Evidence for separate mitochondrial and nuclear functions. Genetics 132, 975985.   \nReenan, R.A.G. & Kolodner, R.D. $1 9 9 2 b$ Isolation and characterization  to Saccharomyces ceevsia en coding homologs of the bacterial HexA and MutS mismatch repair proteins. Genetics 132, 963973.   \nSchapira, A.H.V. 1993 Mitochondrial disorders. Curr. Opin. Genet. Dev. 3, 457465.   \nStrand, M., Prolla, T.A., Liskay, R.M. & Petes, T.D. 1993 Destabilization of tracts of simple repetitive DNA in yeast by mutations affecting DNA mismatch repair. Nature, Lond. 365, 274276.   \nThibodeau, S.N., Bren, G. & Schaid, D. 1993 Microsatellite instability in cancer of the proximal colon. Science, Wash. 260, 816819.   \nTiraby, J.-G. & Fox, M.S. 1973 Marker discrimination in transformation and mutation of pneumococcus. Proc. natn. Acad. Sci. U.S.A. 70, 35413545.   \nTröbner, W. & Piechocki, R. 1984 Competition between isogenic mutS and mut+ populations of Escherichia coli K12 in continuously growing cultures. Molec. gen. Genet. 198, 175176.   \nWagner, R., Debbie, P. & Radman, M. 1995 Mutation detection using immobilized mismatch binding protein (MutS). (Submitted.)   \nWalker, G.C. 1984 Mutagenesis and inducible responses to deoxynucleotide damage in Escherichia coli. Microbiol. Rev. 48, 6093.   \nWeber, J.L. & Wong, C. 1993 Mutation of human short tandem repeats. Hum. Mol. Genet. 2, 11231128.   \nWilliamson, M.S., Game, J.C. & Fogel, S. 1985 Meiotic gene conversion mutants in Saccharomyces cerevisiae I: Isolation and characterization of pmsl-1 and psml-2. Genetics 110, 609646.   \nWooster, R., Cleton-Janson, A.-M., Collins, N. et al. 1994 Instability of short tandem repeats (microsatellites) in human cancers. Nature Genet. 6, 152156. ",
+        "bbox": [
+            87,
+            85,
+            487,
+            920
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            96,
+            905,
+            917
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            89,
+            84,
+            481,
+            255
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            84,
+            905,
+            254
+        ],
+        "page_idx": 7
+    }
+]

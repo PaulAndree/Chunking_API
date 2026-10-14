@@ -1,0 +1,421 @@
+[
+    {
+        "type": "text",
+        "text": "La palabra robot proviene del checo; según el diccionario de la lengua española de la Real Academia, quiere decir \"trabajo o prestación personal\" y la define como \"una máquina o ingenio electrónico programable, capaz de manipular objetos y realizar operaciones antes reservadas sólo a las personas\".1 La cirugía robótica o cirugía robotizada comprende la realización de cirugía utilizando robots. Es una técnica con la cual se pueden realizar procedimientos quirúrgicos con la más avanzada tecnología disponible hoy en día. El uso de esta tecnología le permite al cirujano realizar el procedimiento de una forma más precisa. Tres avances principales han sido, la cirugía a control remoto, la cirugía invasiva mínima, y la cirugía sin intervención humana. Entre las diferentes ventajas de la cirugía robotizada se encuentran su precisión, su miniaturización, incisiones menores, pérdidas sanguíneas reducidas, reducción dolor, y tiempo de recuperación menor. Otras ventajas son la articulación por encima de la manipulación normal e incremento ergonómico. ",
+        "bbox": [
+            70,
+            140,
+            578,
+            482
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/947f6daf66204127e4c1f9baa8a84ca14fefa69860d13bac3617d6a49433e802.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            149,
+            924,
+            473
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Robot de cirugía laparoscópica. ",
+        "bbox": [
+            608,
+            478,
+            848,
+            492
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Antecedentes históricos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            517,
+            376,
+            540
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El primer robot controlador realimentado fue el regulador de 'Watt', inventado en 1788 por el ingeniero británico James Watt. Este dispositivo constaba de dos bolas metálicas unidas al eje motor de una máquina de vapor y conectadas con una válvula que regulaba el flujo de vapor. A medida que aumentaba la velocidad de la máquina de vapor, las bolas se alejaban del eje debido a la fuerza centrífuga, con lo que cerraban la válvula. Esto hacía que disminuyera el flujo de vapor a la máquina y por tanto la velocidad. ",
+        "bbox": [
+            70,
+            558,
+            931,
+            652
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El control por realimentación, el desarrollo de herramientas especializadas y la división del trabajo en tareas más pequeñas que pudieran realizar obreros o máquinas fueron ingredientes esenciales en la automatización de las fábricas en el siglo x v iii. A medida que mejoraba la tecnología se desarrollaron máquinas especializadas para tareas como poner tapones a las botellas o verter caucho líquido en moldes para neumáticos. Sin embargo, ninguna de estas máquinas tenía la versatilidad del brazo humano, y no podía alcanzar objetos alejados y colocarlos en la posición deseada. ",
+        "bbox": [
+            70,
+            667,
+            931,
+            780
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El desarrollo del brazo artificial multiarticulado, o manipulador, llevó al moderno robot. El inventor estadounidense George Devol desarrolló en 1954 un brazo primitivo que se podía programar para realizar tareas específicas. En 1975, el ingeniero mecánico estadounidense Victor Scheinman, cuando estudiaba la carrera en la Universidad de Stanford, en California, desarrolló un manipulador polivalente realmente flexible conocido como Brazo Manipulador Universal Programable (PUMA, siglas en inglés). ",
+        "bbox": [
+            70,
+            795,
+            931,
+            889
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El primer robot cirujano del mundo fue \"Arthrobot\", desarrollado y utilizado por primera vez en Vancouver, Canadá en 1983. El robot fue desarrollado por un equipo liderado por el Dr. James McEwen y Geof Auchinlek, trabajando en colaboración con el cirujano ortopédico Dr. Brian Day. La National Geographic produjo una película sobre robótica que mostraba al Arthrobot. En otros proyectos afines de esa época se desarrollaron otros robots médicos, incluido un brazo robótico que llevó adelante una cirugía de ojo, y otro que se desempeñaba como asistente de operaciones, y le alcanzaba al cirujano los instrumentos de acuerdo a comandos de voz. ",
+        "bbox": [
+            70,
+            42,
+            932,
+            173
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1985, el robot PUMA 560 fue utilizado para insertar una aguja en una biopsia cerebral utilizando como guía un tomógrafo computarizado. El PUMA era capaz de mover un objeto y colocarlo en cualquier orientación en un lugar deseado que estuviera a su alcance. El concepto básico multiarticulado del PUMA es la base de la mayoría de los robots actuales. En 1988, el PROBOT, desarrollado en el Imperial College London, fue utilizado para una cirugía prostática. El ROBODOC, de Integral Surgical Systems, fue presentado en 1992 para tornear una pieza metálica para el fémur en un reemplazo de cadera. Otros desarrollos de sistemas robóticos fueron llevados a cabo por Intuitive Surgical que diseñó el Sistema Quirúrgico Da Vinci y Computer Motion con el AESOP y el ZEUS robotic surgical system. (Intuitive Surgical compró la empresa Computer Motion en 2003; ZEUS ya no se produce más.2 ",
+        "bbox": [
+            70,
+            190,
+            931,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1999 la Empresa Intuitive Surgical lanza al mercado el Sistema quirúrgico Da Vinci, el cual ha tenido mejoras a través del tiempo, pasando por sus modelos S, Si, Xi y el recientemente lanzado \"SP\". Hasta diciembre de 2017 se contabilizan en el mundo alrededor de 4409 sistemas Da Vinci, siendo Estados Unidos el país con más equipos disponibles, con un total de 2,862. En Latinoamérica se cuenta con 120 aproximadamente y en México se contabilizan alrededor de 11 sistemas, con sedes en la CDMX, Guadalajara, Monterrey y Tijuana. ",
+        "bbox": [
+            70,
+            376,
+            931,
+            489
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Utilización ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            524,
+            211,
+            547
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En España, alrededor de un tercio de los servicios de cirugía que utilizan el robot quirúrgico realizan más de 50 procedimientos al año. Las cirugías colorrectales y bariátricas son las que realizan un mayor volumen de estos procedimientos. Todos los servicios que disponen de robot los utilizan para cirugía colorrectal y aproximadamente la cuarta parte de estos para cirugía bariátrica.3 ",
+        "bbox": [
+            70,
+            565,
+            931,
+            641
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ventajas ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            678,
+            184,
+            700
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mejor visión: La imagen del robot es más nítida.   \nVisión en tercera dimensión: El uso del robot le permite al cirujano ver en tercera dimensión en vez de en segunda dimensión Mayor precisión: El robot elimina el temblor natural y da la capacidad de miniaturizar los movimientos del cirujano.   \nMayor rango de movimientos: Facilita las técnicas quirúrgicas avanzadas como el suturar.   \nAcceso a lugares difíciles: Algunos sitios del cuerpo, como la pelvis, son de difícil acceso por cirugía abierta o laparoscópica.   \nProvoca menor dolor postoperatorio y cicatrices más pequeñas4   \nEn cirugías como la Prostatectomía radical, ayuda a obtener mejores resultados funcionales en cuanto a continencia urinaria y potencia sexual, ya que en el área de trabajo ",
+        "bbox": [
+            78,
+            719,
+            932,
+            922
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "quirúrgico se encuentran los nervios cuyas funciones son las mencionadas previamente. ",
+        "bbox": [
+            99,
+            41,
+            897,
+            58
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Desventajas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            81,
+            226,
+            104
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Costo: Actualmente es el mayor impedimento para su uso más frecuente, salvo que se utilice robótica de código abierto. Por otro lado, el uso de esta tecnología no siempre es cubierta por los seguros de gastos médicos menos avanzados.   \nSelección de casos: No todos los casos son apropiados para el uso del robot, y en ocasiones la cirugía pudiera hacerse más compleja. ",
+        "bbox": [
+            78,
+            124,
+            931,
+            210
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Avances de la Cirugía robótica ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            231,
+            468,
+            257
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\"Un nuevo modelo de robot promete revolucionar el campo médico. Se trata de una cápsula inteligente que se introduce en el cuerpo humano y que es capaz de recorrer su interior informando de su descubrimiento. Dirigido desde fuera por un médico, puede detenerse, avanzar más de prisa o despacio por el esófago y otros órganos internos, a voluntad del especialista. El micro robot es una célula endoscópica activa inteligente de $2 0 \\mathrm { m m }$ de largo por 10 de ancho que se introduce en el cuerpo humano mediante ingestión (se toma como una pastilla de medicamento). Utiliza sus patas plegables para moverse de una forma completamente autónoma, desde el esófago hasta el recto. La cápsula inventada por Paolo Dario, y más particularmente, las nuevas generaciones de micro robots que puedan introducirse en el cuerpo y reparar lesiones internas revolucionan todo lo que se ha avanzado hasta ahora en la alianza entre medicina y robótica, abriendo una nueva etapa entre en la historia de la cirugía\".5 ",
+        "bbox": [
+            68,
+            273,
+            931,
+            463
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Accidentes en operaciones ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            498,
+            411,
+            521
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Toda operación tiene sus riesgos asociados debido a que se compromete el bienestar de la persona en el acto. Ajeno a los riesgos normales, el que se opere bajo la cirugía robótica tendrá que asumir los riesgos que existen comprometidos. Entre el año 2000 y el año 2013 fallecieron 144 personas en Estados Unidos a costa de la negligencia de estas máquinas. Las operaciones de cabeza, cervicales y cardiotoraxicas serían las con mayor peligro.6 ",
+        "bbox": [
+            70,
+            538,
+            931,
+            633
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Robots quirúrgicos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            668,
+            321,
+            693
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Catéter robótico Sensei X Cyberknife NeuroArm Operación Lindbergh Proyecto Hipócrates Sistema Quirúrgico Da Vinci Sofia (robot quirúrgico) ZEUS sistema quirúrgico robótico [Da Vinci] cirugía de corazón, próstata, vesícula. [Inch-worm] colonoscopía. [Probot] cirugía benigna de próstata. ",
+        "bbox": [
+            80,
+            711,
+            539,
+            926
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "[Robodoc] prótesis de cadera.   \n(Minerva) neurocirugía.   \n(CASPAR) prótesis de rodilla. ",
+        "bbox": [
+            80,
+            42,
+            374,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            121,
+            262,
+            144
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Cirugía   \nCirugía de mínima invasión   \nCirugía urológica robotizada   \nElectromedicina   \nHardware libre   \nImpresión 3D   \nProducto sanitario   \nRobot   \nRobótica de código abierto   \nRobótica rehabilitadora   \nSistema Quirúrgico Da Vinci   \nTecnología sanitaria   \nSistema de Cirugía Robótica   \nc-assisted-surgery/hugo-ras",
+        "bbox": [
+            80,
+            163,
+            359,
+            433
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            457,
+            223,
+            478
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Arroyo, Carlos. Cirugía robótica Elementos: Ciencia y Cultura (en línea) 2005, 12 (abriljunio): (fecha de consulta: 30 de abril de 2015). Disponible en http://www.redalyc.org/articulo.oa?id $=$ 29405802 ISSN 0187-9073 (https://portal.issn.org/reso urce/ISSN/0187-9073) ",
+        "bbox": [
+            77,
+            501,
+            929,
+            567
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Actualmente, los robots han sido integrados en diferentes campos, entre los que se encuentran la manufactura de automóviles, el manejo de materiales peligrosos para el hombre, e incluso nos sustituyen en viajes al espacio que implicaría un gran riesgo y serían demasiado prolongados para un ser vivo. Especialmente en medicina se han empleado diversas tecnologías que han facilitado el tratamiento de varios padecimientos. Tal es el caso, por ejemplo, de la cirugía del ojo asistida por computadora, en la que se proporciona información acerca de la geometría y características del globo ocular a un sistema computarizado, el cual guía los cortes a realizar para corregir las deficiencias visuales. Sin embargo, robots que tengan inteligencia artificial semejante a la humana, todavía no existen; es factible que en un futuro no tan lejano se diseñen robots con algo comparable a una conciencia y mente propias, que junto con la libertad de movimiento superior a la del hombre, les permitirán realizar actividades imposibles para nosotros o con una mayor eficiencia que la de los humanos. FDA: Computer-Assisted Surgery: An Update (https://web. archive.org/web/20080724144159/http://www.fda.gov/fdac/features/2005/405_computer.htm l) ",
+        "bbox": [
+            75,
+            568,
+            929,
+            811
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Sánchez López, J. Daniel; Acosta Mérida, M. Asunción; Toledano Trincado, Miguel; Segura Sampedro, J. José; Trébol López, Jacobo; Aranzana Gómez, Aurelio; Álvarez Gallego, Mario; Sánchez Guillén, Luis (18 de marzo de 2021). «Implementación tecnológica en los servicios de Cirugía General y del Aparato Digestivo en España. Encuesta nacional y resultados» (https://www.sciencedirect.com/science/article/pii/S0009739X21000518). Cirugía Española. ISSN 0009-739X (https://portal.issn.org/resource/issn/0009-739X). ",
+        "bbox": [
+            78,
+            813,
+            932,
+            910
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "doi:10.1016/j.ciresp.2021.02.008 (https://dx.doi.org/10.1016%2Fj.ciresp.2021.02.008). Consultado el 18 de marzo de 2021. ",
+        "bbox": [
+            94,
+            42,
+            929,
+            73
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. «Robot da Vinci» (http://cirugiaroboticasanrafael.com/robot-da-vinci-cirugia-robotica/). Consultado el 4 de septiembre de 2017. ",
+        "bbox": [
+            84,
+            77,
+            926,
+            109
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Vanessa,Marsh Crean una cápsula de robot capaz de explorar el interior del cuerpo humano Tendencias 21 Tendencias Tecnológicas[en línea] Nov 2004 [Consulta: 2 de mayo de 2015].Disponible en web wwwtendencias21.net 468html ISSN 2174-6850 (https://portal.issn. org/resource/ISSN/2174-6850) ",
+        "bbox": [
+            75,
+            112,
+            931,
+            178
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. «Tendencias Robots \"cirujanos\" han causado la muerte de 144 pacientes en EE.UU» (http s://web.archive.org/web/20150810060540/http://www.latercera.com/noticia/tendencias/2015/ 07/659-639776-9-robots-cirujanos-han-causado-la-muerte-de-144-pacientes-en-eeuu.shtm l). Archivado desde el original (http://www.latercera.com/noticia/tendencias/2015/07/659-639 776-9-robots-cirujanos-han-causado-la-muerte-de-144-pacientes-en-eeuu.shtml) el 10 de agosto de 2015. Consultado el 7 de noviembre de 2015. ",
+        "bbox": [
+            77,
+            180,
+            932,
+            277
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cirugía robótica (https://web.archive.org/web/20110205225948/http://www.cirugiarobotica.or g/)   \nRobótica (https://web.archive.org/web/20101106074832/http://www.salud.bioetica.org/roboti ca.htm) ",
+        "bbox": [
+            80,
+            288,
+            931,
+            359
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            381,
+            289,
+            402
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Esta obra contiene una traducción derivada de «Robotic surgery» de Wikipedia en inglés, publicada por sus editores (https://en.wikipedia.org/wiki/Robotic_surgery?action=history) bajo la Licencia de documentación libre de GNU y la Licencia Creative Commons Atribución-CompartirIgual 4.0 Internacional (https://creativecommons.org/licenses/by-sa/4.0/ deed.es). Ellen McDonald, Ph.D., Un sistema de cirugía robotizado da una mano, extraído de OncoLog, octubre de 2006, Vol. 51, No. 10 (https://web.archive.org/web/20090726142613/h ttp://www2.mdanderson.org/depts/oncolog/sp/articles/06/10-oct/10-06-1.html) Da Vinci, el primer robot cirujano, ya opera en la Argentina (http://www.lanacion.com.ar/not a.asp?nota_id=1034007) ",
+        "bbox": [
+            78,
+            423,
+            932,
+            595
+        ],
+        "page_idx": 4
+    }
+]

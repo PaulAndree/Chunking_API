@@ -1,0 +1,407 @@
+[
+    {
+        "type": "text",
+        "text": "Cantar de Roldán ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            394,
+            127
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El Cantar de Roldán o la Canción de Rolando (La Chanson de Roland, en francés) es un poema épico (cantar de gesta) del siglo x i, basado en el líder militar franco Roldán en la Batalla del Paso de Roncesvalles en el año 778, durante el reino de Carlomagno. Es la obra sobreviviente más antigua de la literatura francesa. Existe en varias versiones manuscritas, que atestiguan su enorme y duradera popularidad entre los siglos x ii y x iv . ",
+        "bbox": [
+            70,
+            140,
+            497,
+            309
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El poema épico es el primer ejemplo1 y uno de los más sobresalientes de los cantares de gesta, una forma literaria que floreció entre los siglos x i y x v i y que celebraba legendarias hazañas. Fue escrito en francés antiguo, y atribuido a un monje normando, Turoldo, cuyo nombre aparece en el último y enigmático verso: «Ci falt la geste que Turoldus declinet». Sin embargo, no queda claro el significado del verbo «declinar» en este verso: puede querer decir ‘entonar’, ‘componer’ o quizás ‘transcribir’, ‘copiar’. Se calcula que fue escrito en el periodo entre los años 1040 y 1115 d. C. Una versión temprana tuvo inicio alrededor del 1040, a la que se hicieron añadiduras y alteraciones hasta alrededor del 1115. El texto final, llamado Manuscrito de Oxford (pues se conserva en la biblioteca Bodleiana de Oxford), escrito en anglonormando (de alrededor de 1170), consta de 4002 versos decasílabos, distribuidos en 291 estrofas de desigual longitud llamadas tiradas (en francés, laisses). ",
+        "bbox": [
+            70,
+            326,
+            497,
+            723
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cantar de Roldán ",
+        "text_level": 1,
+        "bbox": [
+            615,
+            156,
+            828,
+            176
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "de Turoldo ",
+        "bbox": [
+            673,
+            186,
+            771,
+            200
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/18765738dd018bf6cce8eb49597bd078d45119668036a5a4ce9c959375e49ffb.jpg",
+        "image_caption": [
+            "Las ocho escenas del Cantar de Roldán en un manuscrito iluminado "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            546,
+            205,
+            900,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/b932e9bad444e4a0dbbd467523754043006f53ccde3013f400f1eebbaceab944.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            522,
+            513,
+            857,
+            676
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La fecha del texto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            760,
+            302,
+            782
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A pesar de que el texto del manuscrito de Oxford tiene fecha de finales del siglo x ii, es probable que el texto pueda datarse entre 1060 y 1065, ya que Guillermo de Malmesbury dice que los normandos cantaban la Canción de Roldán durante la batalla de Hastings. Esta fecha puede ser corroborada por las investigaciones de Dámaso Alonso, que descubrieron una nota2 en alfabeto visigodo hallada en un manuscrito en San Millán de la Cogolla, que según él no puede ser posterior al tercer cuarto del siglo x i. ",
+        "bbox": [
+            70,
+            799,
+            932,
+            896
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Este cantar de gesta narra, deformando legendariamente, los hechos de la batalla de Roncesvalles, que históricamente no pasó de ser una escaramuza, y que pudo enfrentar a tribus de vascones contra la retaguardia de las fuerzas carolingias al mando del conde Roldán, prefecto de la Marca de Bretaña. No está claro que, por la envergadura del encuentro, llegara a ser considerada una batalla, en los llanos de Roncesvalles y Burguete, o en el Puerto de Ibañeta. Lo más probable es que se tratara de una emboscada sufrida por la columna carolingia el 15 de agosto de 778 en el desfiladero de Valcarlos, en la vertiente norpirenaica, según datos extraídos de anales y crónicas del siglo ix . Por ejemplo, la Vita Caroli de Eginhard, una crónica en latín del reinado de Carlomagno, narra cómo el joven rey Carlos (cuando aún no se había convertido en el emperador Carlomagno), aliado a ciertos caudillos musulmanes en sus luchas contra otros, atraviesa los Pirineos en la primavera de 778, toma la ciudad de Pamplona y sitia Zaragoza. Reclamado en su propio reino debido a un ataque de los sajones y a un amotinamiento en la región de Aquitania, levanta el asedio, saquea Pamplona y emprende el regreso. Es entonces, en venganza por el saqueo de la ciudad de Pamplona, cuando su retaguardia es atacada por montañeses vascones. ",
+        "bbox": [
+            70,
+            104,
+            931,
+            350
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Transformación legendaria de estos hechos ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            384,
+            626,
+            408
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El Cantar de Roldán se escribe unos tres siglos después de los hechos. Tiempo suficiente para que los hechos se transformen y el personaje de Roldán, que solo era el margrave de la Marca de Bretaña, se convierta en el sobrino del viejo emperador Carlomagno, que ahora tiene una «barba florida». Los hechos se adornan y se los dota de una dimensión épica y heroica. El protagonista Roldán se acompaña de un amigo imaginario, Oliveros. La emboscada de los vascones pasa a ser un ataque de 400 000 sarracenos, que solo pueden derrotar a Roldán y a los Doce Pares de Francia (nobles francos amigos del arzobispo), además, debido a la traición del \"pérfido\" Ganelón. ",
+        "bbox": [
+            70,
+            423,
+            932,
+            557
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sinopsis ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            592,
+            178,
+            616
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La obra trata de estos hechos históricos, aunque transformados: los agresores vascones se transforman en sarracenos musulmanes, lo que permite hacer de la expedición una especie de cruzada, y los acontecimientos se desencadenan partiendo de la traición de Ganelón. Roldán es el sobrino del emperador Carlomagno y tiene un amigo inseparable, Oliveros (personaje no histórico). El asunto es el siguiente: tras siete años de Cruzada, el Emperador Carlomagno ha conquistado el norte de la península ibérica a los moros. Solo resiste Zaragoza, ciudad del rey Marsilio. Los francos reciben unas sospechosas propuestas de paz. Roldán propone como embajador a su padrastro Ganelón. Este cree que Roldán pretende enviarlo a la muerte y decide vengarse. Como embajador prepara la traición: azuza a los moros contra Roldán, al que hace responsable del hostigamiento al que están sometidos. Sugiere Ganelón a Marsilio que prometa a Carlomagno lo que sea, que se vayan las tropas y así poder atacar la retaguardia francesa, en la que estarán Roldán y los Doce Pares de Francia. Carlomagno vuelve a Francia y, a propuesta de Ganelón, confía la retaguardia a Roldán. ",
+        "bbox": [
+            70,
+            633,
+            931,
+            858
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Carlomagno cruza los Pirineos, y sobre la retaguardia que dirige Roldán cae el numerosísimo ejército de Marsilio. A pesar de los consejos del sabio Oliveros, Roldán, valiente y temerario, no quiere usar su cuerno (el olifante) para llamar en su auxilio al grueso del ejército, que ha pasado ya el desfiladero. ",
+        "bbox": [
+            70,
+            875,
+            931,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Roldán, asistido por la flor de la caballería francesa, pelea con valentía y rechaza dos oleadas de paganos, pero a un alto precio. Uno a uno van cayendo los caballeros ante el número incalculable de moros que les acosan. Roldán se decide, por fin, a tocar el olifante para avisar a su tío, el Emperador Carlomagno. Lo hace con tal fuerza que le estallan las sienes. Pero es demasiado tarde, se queda solo en la pelea y sucumbe, como los demás, frente al enemigo. Antes de morir desea romper su espada Durandarte para que no caiga en manos del enemigo, pero la piedra contra la que golpea su espada se parte por la fuerza del golpe de Roldán. ",
+        "bbox": [
+            70,
+            42,
+            931,
+            173
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cuando Carlomagno oye el cuerno que demanda socorro, sospecha la traición de Ganelón y lo arresta, y vuelve a Roncesvalles al frente de sus tropas. Persigue a los moros que se baten en retirada y los extermina a las orillas del Ebro. Pero una vez derrotadas las tropas de Marsilio, Carlomagno debe enfrentarse a Baligante, almirante de Babilonia. En esa batalla, Baligante muere a manos de Carlomagno, quien finalmente consigue tomar Zaragoza, donde Marsilio muere furioso. Tras enterrar en la iglesia de Saint-Romain en Blaye a Roldán, Oliveros y al arzobispo Turpín, regresa abatido a Aquisgrán. La hermana de Oliveros, Alda, muere de pena al conocer el fallecimiento de su amado Roldán. ",
+        "bbox": [
+            70,
+            190,
+            932,
+            321
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ganelón es procesado. Niega haberlos traicionado y alega haberse vengado de quien le había enviado a la muerte. Se apela al juicio de Dios. El campeón que defiende a Ganelón, Pinabel, es derrotado por Thierry d'Anjou, que pugna por Roldán. Ganelón muere descuartizado por cuatro caballos. Carlomagno ve cómo el arcángel San Gabriel le anuncia en sus sueños su victoria y desquite. ",
+        "bbox": [
+            70,
+            338,
+            578,
+            469
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Personajes ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            505,
+            211,
+            528
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Los personajes más importantes están fuertemente caracterizados: ",
+        "bbox": [
+            70,
+            546,
+            574,
+            580
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ce27db391dbd5fc8eee9c22c58d29d72a3a6f8805e0958c36e2ebbf98ea54c55.jpg",
+        "image_caption": [
+            "Batalla de Roncesvalles (778). Muerte de Roldán, en las Grandes crónicas de Francia, ilustradas por Jean Fouquet, Tours, hacia 1455-1460, BNF. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            347,
+            922,
+            528
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Roldán, sobrino de Carlomagno, es el prototipo de héroe, de cabellera larga y rubia, barba candado, valiente y fuerte, aunque tiene el defecto de ser demasiado orgulloso y de cometer actos de indisciplina militar. Precisamente su carácter temerario es lo que determina el triste final del ejército francés, ya que el orgullo de Roldán le impide tocar el cuerno (olifante) para pedir ayuda a su tío. Oliveros, compañero del héroe, es el complemento perfecto para Roldán. También es valiente y poderoso, pero además reúne las virtudes de la prudencia y la disciplina militar. Turpín el arzobispo, que muere bendiciendo a sus compañeros de armas después de haber peleado como ellos. Ganelón, es el noble francés que traiciona a Carlomagno. Pese a lo que pudiera creerse, no es presentado como un ser repugnante lleno de defectos, sino como un caballero gallardo y valeroso que tiene el corazón tierno. Lo que pierde a Ganelón es su deseo de venganza al sentirse ofendido por la fanfarronería de su hijastro Roldán. ",
+        "bbox": [
+            78,
+            596,
+            932,
+            833
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Relevancia literaria ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            856,
+            327,
+            878
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Este poema tuvo amplia repercusión en todas las literaturas de Europa y fue fuente de inspiración de otros cantares de gesta del momento. ",
+        "bbox": [
+            68,
+            896,
+            929,
+            933
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Se rumora la existencia de una supuesta versión en provenzal, en la que Roldán era hijo incestuoso de Carlomagno y su hermana. ",
+        "bbox": [
+            65,
+            43,
+            932,
+            78
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            115,
+            262,
+            137
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Batalla de Roncesvalles Doce Pares de Francia ",
+        "bbox": [
+            80,
+            159,
+            322,
+            197
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            218,
+            223,
+            241
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. «The Song of Roland» (https://archive.toda y/20150204235018/http://legacy.fordham.e du/halsall/basis/roland-ohag.asp). ",
+        "bbox": [
+            77,
+            268,
+            492,
+            315
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FordhamUniversity.edu. Archivado desde el original (http://legacy.fordham.edu/halsall/b asis/roland-ohag.asp) el 4 de febrero de 2015. Consultado el 4 de febrero de 2015. ",
+        "bbox": [
+            97,
+            317,
+            492,
+            380
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Nota hallada en el manuscrito 39 de San Millán de la Cogolla: «En el año 778, el rey Carlos vino a Zaragoza: tenía en ese momento doce sobrinos y cada uno de ellos contaba con tres mil caballeros armados; entre ellos se puede mencionar a: Roldán, Bertrand, Ogier el de la espada corta, Guillermo el de la nariz corta, Olivier y el obispo Turpín. Cada uno de ellos acompañaba junto a su séquito al rey durante un mes del año. Sucedió que el rey se detuvo en Zaragoza junto a su ejército al cabo de poco tiempo: recibió el consejo de los suyos de que aceptara numerosos presentes para que el ejército no muriera de hambre y pudiera regresar a la patria. Lo que fue hecho. El rey a continuación decidió que para preservar la seguridad de los hombres del ejército, el valeroso guerrero Roldán permanecería en la retaguardia. Pero cuando el ejército cruzaba el puerto de Cisa en Roncesvalles, Roldán falleció, muerto por los Sarracenos». ",
+        "bbox": [
+            77,
+            383,
+            492,
+            511
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            537,
+            258,
+            929,
+            513
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            546,
+            289,
+            567
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Wikimedia Commons alberga una categoría multimedia sobre Cantar de Roldán. ",
+        "bbox": [
+            102,
+            589,
+            865,
+            608
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Texto anglonormando del Manuscrito de Oxford; transcripción de 1940 de Raoul Mortier (n. 1881) en Wikisource. Texto anglonormando (http://www.hs-augsburg.de/\\~harsch/gallica/Chronologie/11siecle/Rol and/rol_ch04.html) del Manuscrito de Oxford; transcripción de 1940 de Raoul Mortier en el sitio (http://www.hs-augsburg.de/) de la Biblioteca Augustana (Augsburgo). Textos anglonormandos y franceses en Wikisource. Traducción al español del Cantar de Roldán (http://www.ciudadseva.com/textos/poesia/fran/ roldan/el_cantar_de_roldan.htm). Muerte de Roldán (https://web.archive.org/web/20090129203930/http://www.rencesvals.co m/durandal.html) ",
+        "bbox": [
+            78,
+            608,
+            934,
+            788
+        ],
+        "page_idx": 3
+    }
+]

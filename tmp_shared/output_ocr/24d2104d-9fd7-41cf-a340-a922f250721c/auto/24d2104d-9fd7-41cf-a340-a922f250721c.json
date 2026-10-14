@@ -1,0 +1,515 @@
+[
+    {
+        "type": "text",
+        "text": "Inhibition of carcinogen-induced chromosomal aberrations by an anticarcinogenic protease inhibitor ",
+        "text_level": 1,
+        "bbox": [
+            106,
+            132,
+            883,
+            174
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(N-methyl-N-nitro-N-nitrosoguanidine/antipain/mutagenesis/chromosomal rearrangements/carcinogenesis) ",
+        "bbox": [
+            127,
+            181,
+            790,
+            194
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anne R. KinseLla\\* and MirosLav Radmant ",
+        "bbox": [
+            107,
+            204,
+            467,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Libre e Bruxelles, rue des Chevaux 67, B164-Rhode-St-Genèse, Belgum ",
+        "bbox": [
+            101,
+            227,
+            898,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by S. E. Luria, January 29, 1980 ",
+        "bbox": [
+            107,
+            257,
+            390,
+            270
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT It was hypothesized that chemical- and radiation-induced carcinogenesis might require at least two specific chromosomal events that must coincide within a single target cell: $( \\pmb { I } )$ induction of chromosomal changes, possibly mutations, that are recessive and therefore latent in diploid somatic cells and (ii) aberrant mitotic segregation events that will convert the heterozygous cell, created by the first process, into a homozygous or hemizygous cell through chromosomal rearrangements. Hence, we tested the prediction that an inhibitor of induced carcinogenesis may inhibit one or both of these chromosomal events by studying the effects of antipain, a protease inhibitor and known inhibitor of carcinogenesis, on $\\pmb { N }$ -methyl $\\pmb { N } ^ { \\prime }$ -nitro- $\\pmb { N } .$ nitrosoguanidine (MNNG)induced mutagenesis, chromosomal aberrations, sister chromatid exchanges, and cell killing in V79 Chinese hamster cells. We show that antipain inhibited MNNG-induced chromosomal exchanges and all other chromosomal aberrations exclusively. This result leads us to postulate that MNNG-induced DNA lesions cause chromosomal aberrations which arise through an antipainsensitive cellular process, that some chromosomal rearrangement is a rate-limiting step in carcinogenesis, and that mutagenesis alone, if required, is not sufficient to accomplish carcinogenesis. ",
+        "bbox": [
+            106,
+            287,
+            500,
+            550
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The carcinogenic potencies of physical and chemical agents correlate well with their capacity to damage DNA (for a review, see ref. 1). Furthermore, the lack of enzymatic removal of specific lesions (e.g., pyrimidine dimers and oxygen alkylations) from cellular DNA correlates with the increased incidence of carcinogenesis (2, 3). Unrepaired DNA lesions cause two well-known genetic effects in all biological systems in which they can be assayed: mutations and recombinations (or chromosomal rearrangements and aberrations in general). Therefore, apart from possible as yet undefined epigenetic effects, mutagenesis and chromosomal rearrangements should be tested for causal involvement in carcinogenesis. If one or both of these genetic effects constituted major rate-limiting step(s) in carcinogenesis, one would expect to find that some of the human hereditary diseases associated with high risk of spontaneous carcinogenesis might exhibit high spontaneous mutation or chromosomal rearrangement frequencies (or both). Indeed, somatic cells from patients suffering from three major cancer-prone syndromes, Bloom's, Fanconi's anemia, and ataxia telangiectasia, show high levels of spontaneous chromosomal instability (4, 5); their spontaneous mutation rates have not been determined. All tested cells from patients with Bloom's syndrome and Fanconi's anemia show specific patterns of chromatid interchanges (quadriradial chromosomes) consistent with the notion that they represent human hyperrecombination mutants, the former involving predominantly reciprocal mitotic crossovers among homologous chromosomes and the latter involving mostly translocations among nonhomologous chromosomes (4). This latter pattern of chromatid interchanges can be induced in normal human and animal cells treated with carcinogens (refs. 68 and this work). ",
+        "bbox": [
+            107,
+            559,
+            501,
+            886
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            537,
+            289,
+            931,
+            369
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This work is an initial attempt to ask the question whether carcinogen-induced mutagenesis or chromosomal rearrangements (or both) are rate-limiting steps in carcinogenesis. We exploit the fact that antipain, a natural protease inhibitor and an anticarcinogenic agent, is also an inhibitor of cellular transformation induced by radiation (9) and chemical carcinogens (10) in rodent cell cultures. (See Fig. 1 for structure.) We tested whether antipain would exhibit any inhibitory effect upon mutagenesis and chromosomal aberrations induced in Chinese hamster V79 cells by a potent mutagenic carcinogen $\\pmb { N }$ -methyl ${ \\bf \\nabla } \\cdot { \\bf N ^ { \\prime } } .$ nitro $\\pmb { N }$ -nitrosoguanidine (MNNG). We found that only MNNG-induced chromosomal aberrations were strongly inhibited by antipain, whereas mutagenesis and sister chromatid exchanges remained unaffected, suggesting that some chromosomal rearrangement(s) might constitute a ratelimiting step in carcinogenesis, whereas mutagenesis, if required, may not be sufficient to accomplish malignant cell transformation. ",
+        "bbox": [
+            537,
+            371,
+            933,
+            611
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            619,
+            626,
+            852,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "V79-4 Chinese hamster lung fibroblasts were routinely maintained in Dulbecco's modification of Eagle's minimal essential medium supplemented with $1 0 \\%$ $( \\mathbf { v o l } / \\mathbf { v o l } )$ fetal bovine serum, in a humidified incubator at $3 7 ^ { \\circ } \\mathbf { C }$ with a gas phase of $5 \\% \\mathrm { C O } _ { 2 }$ in air. For sister chromatid exchange (SCE) analysis, exponentially growing cells were exposed simultaneously to $3 0 \\mu \\mathbf { M }$ BrdUrd and either 0.2 or ${ \\bf 0 . 5 } \\mu { \\bf g }$ of MNNG per ml (diluted from $\\bf { 1 } \\ m g / m l$ stock solution in concentrated acetate buffer, $\\mathbf { p H 5 . 0 } )$ in the presence and absence of the antipromoter antipain (gift from T. Sugimura, National Cancer Research Center, Tokyo, and W. Troll, New York University). Until chromosome fixation, all cultures were kept in the dark. Twenty-six to twentyeight hours after mutagen treatment, Colcemid $( { \\bf 0 . 2 \\mu M } )$ was added and the cells were incubated for ${ \\mathfrak { Q } } \\mathbf { \\ h r }$ the mitotic cells were isolated by \"mitotic shake off.\" Metaphase preparations and differential staining were essentially as described by Perry and Wolff (12). All visible metaphases were scored for aberrations; a smaller random sample was scored for SCEs. MNNG toxicity had previously been determined by survival experiments. ",
+        "bbox": [
+            539,
+            645,
+            934,
+            907
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b162f4e8d6956eae0db8b3dc66faea74d673c6c025db2a6b7c72d034df8067b3.jpg",
+        "image_caption": [
+            "FIG. 1. Chemical formula of antipain, an inhibitor of papain, trypsin, and cathepsis A and B, isolated from ascomycetes (ref. 11). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            47,
+            75,
+            434,
+            150
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The frequency of MNNG-induced forward mutations to 6-thioguanine (6SGua) resistance was quantitated essentially by the method of Myhr and Di Paolo (13), which involved cell dispersion during an expression period of ${ \\pmb { 2 0 0 } } \\mathbf { h r }$ prior to selection in 6SGua. Plates to determine survival (five per treatment) were inoculated with 500 cells per plate. The mutagenesis assay plates (nine per point) were set up in parallel, at a plating density of $4 \\times 1 0 ^ { 4 }$ cells per plate, and the selective medium containing 6SGua $( 1 ~ \\mu \\mathbf { g } / \\mathbf { m } ] )$ was added. Where necessary, 1 $\\mathbf { m M }$ antipain $( 6 0 0 ~ \\mu \\mathbf { g } / \\mathbf { m l } )$ was present during the entire treatment and expression period. ",
+        "bbox": [
+            44,
+            207,
+            437,
+            352
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            202,
+            361,
+            276,
+            375
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MNNG concentrations of $0 . 2 \\mu \\mathrm { g } / \\mathrm { m l }$ and ${ \\bf 0 . 5 \\mu g / m l }$ caused little toxicity to V79 Chinese hamster cells in culture in the presence of BrdUrd (Table 1), yet high frequencies of SCEs (Table 2) and of exchange-type chromosomal aberrations, such as quadriradials (chromatid exchanges) and triradials (see refs. 4 and 14 for classification) were observed (Fig. 2 and Table 3). MNNG at a concentration of $0 . 5 \\mu \\mathrm { g } / \\mathrm { m l }$ was twice as effective as at 0.2 $\\pmb { \\mu } \\mathbf { g } / \\mathbf { m } \\mathbf { l }$ in inducing chromosomal aberrations (Table 3), but did not cause any further increase in SCEs (Table 2). When 1 mM antipain was added together with MNNG, few chromosomal aberrations could be observed (Table 3). To test whether antipain prevented MNNG-induced cellular and chromosomal damage, we analyzed survival, SCEs, and mutagenesis towards 6SGua resistance. None of these effects appeared to be significantly affected by $\\mathbf { l } \\ \\mathbf { m M }$ antipain (Tables 1, 2, and 4). Hence, antipain does not protect cellular DNA against MNNG-induced DNA lesions. ",
+        "bbox": [
+            40,
+            381,
+            434,
+            602
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many agents exhibit a cell cycle-dependent effect on chromosomal aberrations. To assess the eventual effects of antipain on the cell cycle of MNNG-treated cells, we monitored the incidence of metaphases with harlequin (dark/light-stained) chromosomes (i.e., cells having completed two rounds of DNA replication). No significant effect of antipain was found and ",
+        "bbox": [
+            37,
+            604,
+            431,
+            684
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7673c83de30aa5177c875cb76f2518f844f47a8653b570deb43836f810fa8087.jpg",
+        "table_caption": [
+            "Table 1. Effect of antipain on survival of MNNG-treated V79 cells grown in BrdUrd "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            37,
+            723,
+            428,
+            842
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Average survival values from two independent experiments are shown. Five parallel plates were seeded in each experiment for each experimental point; a total of approximately 3000 colonies were counted per point. Although BrdUrd reduced the plating efficiency to about $80 \\%$ of the control value, the culture group in the presence of BrdUrd was considered to have $100 \\%$ survival in order to allow comparison with the experiments from Tables 3 and 2. The effect of antipain on survival after MNNG treatment is not significant by either the $t$ test or the $\\pmb { F }$ test. ",
+        "bbox": [
+            34,
+            847,
+            428,
+            950
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/28d1ce8bb87d975ad5b54b3cb967e0463229444f54d4253b4d95198f45f27404.jpg",
+        "table_caption": [
+            "Table 2. Induction of SCEs by MNNG is not affected by antipain "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            473,
+            99,
+            870,
+            239
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Roman numbers in parentheses indicate the separate experiments in which the SCEs and chromosomal aberrations were scored simultaneously (see Table 3). The left-hand values for SCEs in treatments 1 and 2 are derived from Exp. II; the right-hand values are derived from a separate experiment (V) designed to investigate the effect of antipain alone (see also Table 3). The differences between treatments 36 are not statistically significant by the $\\pmb { F }$ test. SCEs were evenly distributed among all metaphases. ",
+        "bbox": [
+            472,
+            243,
+            869,
+            337
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "the data presented in Table 3 concern only metaphases with harlequin chromosomes. Furthermore, over the time interval for these experiments, growth in the presence of MNNG was not significantly affected by antipain (Fig. 3). ",
+        "bbox": [
+            470,
+            352,
+            867,
+            405
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Finally, the frequency of MNNG-induced chromosomal aberrations in the presence and absence of antipain was estimated at six different time intervals $( { \\bf 0 } \\mathrm { - } { \\bf 4 0 } { \\bf h r } )$ . The peak effect was 30 hr after MNNG treatment; antipain inhibition of chromosomal aberrations was observed at all time intervals (Table 5). Because the latter experiment was done in the absence of BrdUrd, the phenomenon appears to be independent of BrdUrd labeling. ",
+        "bbox": [
+            470,
+            405,
+            867,
+            511
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            614,
+            523,
+            717,
+            537
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Antipain and leupeptin were originally isolated from ascomycetes as inhibitors of proteases such as papain and trypsin (11). Both were then shown to inhibit chemically induced mouse skin carcinogenesis (15), whereas antipain alone was shown to reduce the frequency of methylcholanthrene- and x-ray-induced malignant cell transformation in C3H 10T1/2 mouse fibroblasts (9, 10). ",
+        "bbox": [
+            468,
+            541,
+            864,
+            635
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MNNG is a powerful carcinogen and the first chemical shown to transform human cells in culture (16). Thus, in agreement with our previous hypothesis (17), one would expect MNNG, as a solitary carcinogen, to induce both recessive chromosomal changes (initiation events) and promotional aberrant mitotic segregation events (e.g., mitotic recombination, nondisjunction, or other chromosomal rearrangements) leading to homozygosity or hemizygosity and the concomitant expression of the malignant phenotype (see also refs. 18 and 19). Indeed, this study showed MNNG to be highly efficient in the ",
+        "bbox": [
+            467,
+            635,
+            862,
+            767
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/90c153451fe509419ab731b5d2b278b1bfdd7c943e552c834e8450a9d370ca00.jpg",
+        "image_caption": [
+            "FIG. 2. MNNG-induced exchange type aberrations. (A) A symmetrical quadriradial configuration involving homologous chromosomes, representative of about $10 \\%$ of MNNG-induced exchange-type aberrations. $\\left( B \\right)$ A quadriradial involving nonhomologous chromosomes. (C) A triradial. Numerous SCEs are evident. $B$ and $c$ are representative of about $90 \\%$ of MNNG-induced exchange-type aberrations. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            493,
+            779,
+            833,
+            866
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/61986be71f2a9f352c9eb3a14a111e9a6f1d021bcd660e3d69e97d12e3bc84eb.jpg",
+        "table_caption": [
+            "Table 3. Inhibition of MNNG-induced chromosomal aberrations by antipain "
+        ],
+        "table_footnote": [
+            "These were dicentric, ring, and bridged chromosomes. "
+        ],
+        "bbox": [
+            163,
+            83,
+            875,
+            202
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Rommber  prnthendicathe epartxperent fom whice at wee pooleT. TheibryiNGrerats et 5 and 6) is highly significant for both doses of MNNG according to the variance analysis $\\pmb { F }$ values for treatments $\\mathbf { 3 / 4 }$ and ${ \\bf 5 / 6 }$ are 30.897 and 34.384, respectively, whereas 6.76 and 6.70 would be sufficient for high significance). ",
+        "bbox": [
+            163,
+            207,
+            872,
+            252
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\\*Thecidenc MNNG-ndu quadriradiroosome involvingohomolgs was rougly 0tims moreequnt than chromosomes involving homologs (see Fig. 2). ",
+        "bbox": [
+            165,
+            253,
+            874,
+            276
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "induction of both mutagenic and chromosomal aberration events. ",
+        "bbox": [
+            106,
+            296,
+            500,
+            323
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because antipain inhibited MNNG-induced morphological transformation in C3H 10T1/2 cell culture (unpublished data), it might be expected to influence either MNNG-induced chromosomal aberrations and SCEs (17) or MNNG-induced mutagenesis or both simultaneously. Antipain, however, suppressed virtually all MNNG-induced chromosomal aberrations (Tables 3 and 5) in the absence of any significant effect on MNNG-induced SCEs, survival, or MNNG-induced mutagenesis to 6SGua resistance (Tables 2 and 4). The possibility that antipain rapidly kills all cells that are to suffer a chromosomal aberration is discouraged by the finding that antipain does not decrease the survival of MNNG-treated cells (certainly not for ${ \\bf 0 . 2 } \\mu { \\bf g }$ of MNNG per ml; Table 1) and that the inhibitory effect can be seen in cells that have completed two cell divisions, as judged from the harlequin staining of chromosomes from treated cells grown in the presence of BrdUrd. Furthermore, the suppression of chromosomal aberrations by antipain cannot be accounted for by the effects of antipain on cell growth rate (see Results and Fig. 3 and Table 5). ",
+        "bbox": [
+            109,
+            324,
+            501,
+            575
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MNNG is a potent inducer of exchange-type aberrations with a few simple chromosome breaks (Tables 3 and 5). Among cells treated with essentially nontoxic doses, $0 . 2 ~ \\mu \\mathbf { g } / \\mathbf { m } ]$ and 0.5 $\\pmb { \\mu } \\mathbf { g } / \\mathbf { m } \\mathbf { l }$ . $5 - 2 5 \\%$ of all metaphases contained either quadriradial ",
+        "bbox": [
+            109,
+            577,
+            503,
+            630
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/cd91830dc5b7525d27ff00e70242e1faf674b68f60b987ce95932fab1e621ebf.jpg",
+        "table_caption": [
+            "Table 4. Antipain does not inhibit MNNG-induced mutagenesis towards 6SGua resistance in V79 cells "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            109,
+            685,
+            503,
+            852
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Four independent experiments were performed and the data from the two experiments (I and II) in which the MNNG mutagenesis was most extensive are shown. The 6SGua-resistant clones represent the total from the nine dishes in each experiment. Although antipain apparently slightly increased the recovery of 6SGua' mutants in Exp. I, in Exp. II it slightly decreased this recovery. When data from all four experiments were averaged, no significant effect of antipain on MNNG-induced mutagenesis could be found. ",
+        "bbox": [
+            112,
+            856,
+            506,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "or triradial chromosomes (Table 3). Such quadriradial chromosomes have been interpreted as mitotic exchanges (i.e., nonsister chromatid exchanges between homologs and nonhomologs) (4, 68, 2022) and triradials, as incomplete mitotic exchanges (7). Thus, if these chromosomal configurations are related to mitotic recombination among homologous and nonhomologous chromosomes and if such recombination were responsible for tumor promotion, MNNG would appear to be an efficient promoter in addition to being a potent mutagen (Table 4). ",
+        "bbox": [
+            539,
+            295,
+            934,
+            429
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The inhibition by antipain of MNNG-induced exchange-type aberrations suggests that MNNG or MNNG-induced DNA lesions stimulate cellular processes that produce chromosomal exchanges and other aberrations and that are inhibited by antipain. Either antipain inhibition of chromosomal aberrations is completely fortuitous or these cellular processes triggered by DNA lesions may require a proteolytic step (e.g., proenzyme activation, repressor inactivation, or removal of some chromatin proteins) and, hence, sensitivity to antipain. Radiation-induced cellular recombinational activity has been demonstrated in mitotic cells of two lower eukaryotes, Ustilago (23) and yeast (24). ",
+        "bbox": [
+            553,
+            429,
+            933,
+            443
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/033f666896dd819b353ec8c0f33376a1c196d35d915db2fc0fc4abe1beae1a9e.jpg",
+        "image_caption": [
+            "FIG. 3. Growth curves of V79 Chinese hamster cells in the presence of MNNG and antipain. Cells were plated onto a number of dishes $\\bf 2 \\times 1 0 ^ { 4 }$ cells per dish). At each sample time, two dishes were trypsinized and the total number of cells was counted with a hemocytometer. $\\pmb { \\chi } ,$ , No addition to the growth medium; O, MNNG (0.5 $\\pmb { \\mu } \\mathbf { g } / \\mathbf { m } \\mathbf { l } )$ was added; •, MNNG $( 0 . 5 ~ \\mathrm { \\mu g / m l } )$ plus antipain $( \\mathbf { 1 } \\mathbf { m } \\mathbf { M } )$ were added. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            552,
+            453,
+            921,
+            859
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/da6214ae13574ab6521ff948f102e2d2e9e0e956767a0205ac777e7c9efb2cf9.jpg",
+        "table_caption": [
+            "Table 5. Time course of appearance of exchange-type aberrations induced by MNNG $( 0 . 5 \\mu \\mathrm { g } / \\mathrm { m l } )$ in V79 cells and their inhibition in the presence of 1 mM antipain\\* "
+        ],
+        "table_footnote": [
+            "MNNG $( 0 . 5 \\mu \\mathbf { g } / \\mathbf { m l } )$ and antipain $( 1 \\ \\mathrm { m M } )$ were added at zero time, after which the medium was not changed. Metaphases were prepared for chromosomal analyses at indicated time intervals after addition of the two chemicals. $\\mathbf { Q } ,$ quadriradial; T, triradial. \\*This was a separate experiment without the BrdUrd labeling of the chromosomes. "
+        ],
+        "bbox": [
+            63,
+            102,
+            890,
+            256
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            60,
+            311,
+            452,
+            457
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The lack of any significant effect of antipain on MNNGinduced SCEs (Table 2) emphasizes that the cellular processes causing SCEs and chromosomal aberrations are not identical; the latter events probably require different or additional steps, some of which appear to be antipain sensitive. ",
+        "bbox": [
+            57,
+            457,
+            450,
+            522
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally, this discussion may be relevant to the interpretation of the chromosomal effects of human cancer-prone diseases. Bloom's syndrome, Fanconi's anemia, and ataxia telangiectasia are all characterized by high levels of spontaneous chromosomal instability (4, 5). Because the spectrum of MNNG-induced chromosomal aberrations inhibited by antipain is similar to that observed in Fanconi's anemia—i.e., triradial chromosomes and quadriradial chromosomes, involving nonhomologs predominantly (Table 3 and Fig. ) (4)—it is interesting to speculate that chromosomal aberrations represent a rate-limiting step in carcinogenesis (17), whereas mutagenesis, if required, may not be sufficient to accomplish carcinogenesis. Chromosomal abetons could bethe bass or bothcrieniatio deletion mutagenesis) and promotion (e.g., chromosomal rearrangements causing segregation to homozygosity) steps. The ${ \\bf q D }$ deletion of one chromosome 13 in cells from hereditary retinoblastoma patients may well represent an inherited initiation event $( + / \\bar { d } e l$ genotype) which requires a second, somatic event, segregational or mutational, leading to the del/del or mut/del genotypes, respectively (see also ref. 25). ",
+        "bbox": [
+            55,
+            523,
+            449,
+            785
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Our thanks are due to Ms. S. Osborn for her assistance, Mr. R. Legas for providing media, Prof. M. Errera for encouragement and research facilities, and Drs. P. Jeggo, D. Scott, and E. C. Friedberg for careful reading of the manuscript. Antipain was a gift from the U.S.-Japan Cooperative Cancer Research Program via Dr. W. Troll (New York University) and Dr. T. Sugimura (National Cancer Research Center Institute, Tokyo). This work was supported by the Euratom-Université Libre de Bruxelles Research Contract 224-76-1 BIO B, by Fonds Cancérologique of the Caisse Générale d'Epargne et de Retraite of Belgium, and by a grant-in-aid from the International Agency for Research on Cancer, Lyon, France. ",
+        "bbox": [
+            50,
+            792,
+            442,
+            922
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "iatt H.aton, J. D.en, J. A.ds. 977 Human Cancer, Cold Spring Harbor Conferences on Cell Proliferation Cold Spring Harbor Laboratory, Cold Spring Harbor NY), Vol. 4. 2. Bootsma, D. (1978) in DNA Repair Mechanisms,; eds. Hanawalt P.C.Frrg, E. C. & Fox, C. F.ic, NewYork, p. 589601. 3. Rajewsky, M. F., Augenlicht, L. H., Biessmann, H., Goth, R., Hülser, D. F., Laerum, O. D. & Lomakina, L. Y. (1977) in Origins of Human Cancer, Cold Spring Harbor Conferences on Cell Proliferation, eds. Hiatt, H., Watson, J. D. & Winsten, J. A. (Cold Spring Harbor Laboratory, Cold Spring Harbor, NY), Vol. 4, Book B, pp. 709726. 4. Schroeder, T. M. & German, J. (1974) Humangenetik 25, 299306. 5. Cohen, M. M., Shaham, M., Degan, J., Shmueli, E. & Kohn, G. (1975) Cytogenet. Cell Genet. 15, 338357. 6. Therman, E. & Meyer-Kuhn, E. (1976) Cytogenet. Cell Genet. 17, 254267. 7. Shaw, M. W. & Cohen, M. M. (1965) Genetics 51, 181190. 8. Huttner, K. M. & Ruddle, F. H. (1976) Chromosoma 56, 1-13. 9. Kennedy, A. R. & Little, J. B. (1978) Nature (London) 276, 825826. 10. Kuroki, T. & Drevon, C. (1980) Cancer Res. 29, 27552761. 11. Umezawa, H. (1976) Methods Enzymol. 45, 678695. 12. Perry, P. & Wolff, S. (1974) Nature (London) 251, 156158. 13. Myhr, B. C. & Di Paolo, J. A. (1975) Genetics 80, 157-169. 14. Savage, J. (1976) J. Med. Genet. 13, 103122. 15. Hozumi, M., Ogawa, M., Sugimura, T., Takeochi, T. & Umezawa, H. (1972) Cancer Res. 32, 17251728. 16. Kakunaga T. 977inOriginsHuman Cancer, Col r Harbor Conferences on Cell Proliferation, eds. Hiatt, H., Watson, J. D. & Winsten, J. A. (Cold Spring Harbor Laboratory, Cold Spring Harbor, NY), Vol. 4, Book C, pp. 1537-1548. 17. Kinsella, A. & Radman, M. (1978) Proc. Natl. Acad. Sci. USA 75, 61496153. 18. Ohno, S. (1974) in Chromosomes and Cancer, ed. German, J. (Wiley, New York), pp. 7794. .9. Pto, R. Roe, F. S. C., Lee, P. N., Levy, L. & Clark, J. (1975) Br. J. Cancer 32, 421426. '0. German, J. (1964) Science 144, 298301. 1. Chaganti, R. S. K. Schonberg, S. & German, J. (1974) Proc. Natl. Acad. Sci. USA 71, 45084512. 2. Meyer-Kuhn, E. (1978) Chromosoma 66, 287297. 3. Holliday, R. (1975) Mutat. Res. 29, 149153. 4. Fabre, F. & Roman, H. (1977) Proc. Natl. Acad. Sci. USA 74, 16671671. 5. Knudson, A. G. (1978) Semin. Oncol. 5, 5760. ",
+        "bbox": [
+            486,
+            303,
+            880,
+            929
+        ],
+        "page_idx": 3
+    }
+]

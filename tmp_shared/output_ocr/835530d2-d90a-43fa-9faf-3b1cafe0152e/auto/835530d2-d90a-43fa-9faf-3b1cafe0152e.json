@@ -1,0 +1,361 @@
+[
+    {
+        "type": "text",
+        "text": "Mismatch-stimulated killing ",
+        "text_level": 1,
+        "bbox": [
+            97,
+            110,
+            423,
+            132
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(bacteriophage λ/heteroduplex DNA/DNA methylation/mismatch repair/double-strand break) ",
+        "bbox": [
+            123,
+            137,
+            657,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Marie-Pascale Doutriaux, Robert Wagner, and Miroslav Radman , Centre National de Recherche Scientiue, Universitaris7, Tour3,  PlaceJuss, 75 ",
+        "bbox": [
+            99,
+            158,
+            630,
+            173
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            187,
+            180,
+            751,
+            191
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by Franklin W. Stahl, December 16, 1985 ",
+        "bbox": [
+            101,
+            200,
+            424,
+            212
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT DNA duplexes with or without mismatches and with or without adenine-methylated GATC sequences were prepared from separated strands of bacteriophage λ DNA and used to transfect Escherichia coli. Unmethylated heteroduplexes containing one or more repairable mismatches transfect cells with a functioning mismatch repair system less efficiently than they transfect cells deficient in mismatch repair. No difference is observed when the duplexes contain no mismatch or a poorly repaired mismatch or when the heteroduplexes are fully or hemimethylated. These results and the phenotypes of E. coli dam mutants suggest that the E. coli mismatch repair system may introduce double-strand breaks in unmethylated DNA at or near repairable mismatches. ",
+        "bbox": [
+            99,
+            230,
+            478,
+            388
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Escherichia coli mismatch repair system is able to recognize noncomplementary base pairs in DNA and acts, apparently via localized excision and resynthesis, to replace mispaired bases (see ref. 1 for review). Regions of DNA in which GATC sequences are fully adenine-methylated appear to be refractory to mismatch repair (2, 3), and it appears to be the transient undermethylation of newly synthesized GATC sequences in the region immediately following the replication fork that allows mismatch repair to operate only on newly synthesized strands and, thereby, to remove replication errors (1-5). ",
+        "bbox": [
+            99,
+            401,
+            478,
+            535
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb { \\cal E }$ coli deficient in adenine methylation (dam) have been found to have a mutator phenotype (6), as would be expected if mismatch repair occurs on either strand of unmethylated DNA-i.e., is undirected-or does not operate at all on unmethylated DNA. The results of experiments utilizing artificially constructed heteroduplexes of bacteriophage λ DNA introduced into $\\pmb { { \\cal E } }$ coli cells by means of $\\mathbf { C a C l } _ { 2 } \\mathbf { \\cdot }$ mediated transfection have shown that mismatch repair can operate on either strand of unmethylated DNA (3, 5, 7). ",
+        "bbox": [
+            101,
+            535,
+            480,
+            644
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Although, theoretically, undirected mismatch repair should have the same effect on mutation frequencies as no mismatch repair, the spontaneous mutation frequency of dam mutants, which have undirected mismatch repair, is lower than that of mutH, mutL, mutS, or mutU single mutants or dam mut double mutants, all of which are deficient in mismatch repair (1-5, 79). Since polymerase errors presumably occur with roughly equal frequency in dam, mut, and dam mut cells and since the mismatch repair system does not appear to be able to distinguish mutant and wild-type strands when both are unmethylated, it may be that the action of the mismatch repair system on some fraction of the replication errors occurring in dam cells causes cell death, such that presumptive mutants are selectively lost from the population (1, 8). Such mismatch-stimulated killing would account for the findings that dam mutants are more sensitive than wild-type bacteria to base analogs, ethyl methanesulfonate, $\\pmb { N }$ -methyl $. N ^ { \\prime }$ -nitro ${ \\pmb N } .$ -nitrosoguanidine, methyl methanesulfonate, and UV irradiation, and that these sensitivities can be alleviated by the addition of a mut mutation, which renders the dam cells deficient in mismatch repair (1). ",
+        "bbox": [
+            101,
+            644,
+            480,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            229,
+            894,
+            253
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The experiments reported here were designed to allow a direct demonstration of mismatch repair-dependent loss of the ability to form infective centers after transfection—i.e., inactivation—of mismatch-containing DNA heteroduplexes. Separated strands of unmethylated bacteriophage λ DNA were annealed to form duplexes with and without base-pair mismatches. These DNA molecules were used to transfect wild-type and mismatch repair-deficient (mut) bacteria. The relative transfection efficiencies of λ DNA duplexes with and without mismatches in wild-type and mut bacteria indicate that mismatch repair-dependent inactivation of mismatchcontaining DNA does occur. ",
+        "bbox": [
+            515,
+            254,
+            895,
+            399
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            592,
+            415,
+            816,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "λ phages with sequenced mutations in the $c _ { I }$ gene were obtained from Franklin Hutchinson (Yale University). Procedures for strand preparation, annealing, and transfection have been described (7). ",
+        "bbox": [
+            513,
+            435,
+            895,
+            484
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unmethylated DNA is prepared from phages grown in dam (deficient in adenine methylation) bacteria, GM 33 (6). Fully methylated DNA is prepared from phages grown in a methylase-overproducer strain (10). [The GATC sequences in λ DNA prepared from phages grown in wild-type E. coli are only ${ \\approx } 7 5 \\%$ methylated (2).] ",
+        "bbox": [
+            515,
+            484,
+            895,
+            557
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The assay for inactivation of mismatch-containing DNA heteroduplexes—i.e., loss of the ability to form infective centers in transfection assays—involves mixing annealed DNA, with or without mismatches, with phenol-extracted DNA of $\\lambda \\ \\mathrm { i m m } ^ { 4 3 4 }$ . Aliquots of the mixtures are used in transfections of wild-type and mut bacteria. Transfected cells are plated, before lysis, to form infective centers. Individual infective centers are transferred to plates seeded with C600, which plates all phages used in these experiments, and C600 $( \\lambda \\ \\mathrm { i m m } ^ { 4 3 4 } )$ , which does not plate λ $\\mathrm { i m i m } ^ { 4 3 4 }$ . Inactivation is detected as a decrease in the fraction of infective centers derived from heteroduplex DNA in transfections of wild-type bacteria relative to transfections of mut bacteria. ",
+        "bbox": [
+            515,
+            558,
+            895,
+            714
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            598,
+            729,
+            813,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It has been suggested that undirected mismatch repair might cause cell death by making double-strand breaks in DNA (1, 8). This idea is supported by the findings that dam recA double mutants are inviable, whereas dam recA mut triple mutants are viable (8, 11). [Double-strand break repair in $\\pmb { \\cal E }$ coli requires recA gene product (see ref. 12).] ",
+        "bbox": [
+            516,
+            750,
+            895,
+            825
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If double-strand breaks are the mechanism of mismatchstimulated killing, and if the mismatch repair system acts in a comparable way on λ DNA heteroduplexes, the effect should be detectable as a decrease in the transfection efficiency of unmethylated mismatch-containing heteroduplexes in transfections of wild-type cells relative to transfections of mismatch repair-deficient cells. It is conceivable that doublestrand breaks could be created by simultaneous, or nearly simultaneous, nuclease attack on both strands of a single mismatch or, alternatively, by overlapping excision tracts from two relatively close mismatches. To allow the detection of heteroduplex inactivation by either mechanism, unmethylated heteroduplexes were prepared with three closely spaced repairable mismatches. ",
+        "bbox": [
+            516,
+            826,
+            895,
+            925
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            118,
+            94,
+            497,
+            167
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiments reported here involve measuring the difference between transfection efficiency of mismatch-containing DNA heteroduplexes in wild-type and mismatch repair-deficient (mut) bacteria. To provide an internal standard against which efficiency can be measured, the heteroduplex DNA is mixed with phenol-extracted DNA from phages $\\left( \\lambda \\ \\mathrm { i m m } ^ { 4 3 4 } \\right)$ , which can be distinguished genetically from the phages from which heteroduplex DNA is prepared. The multiplicity of transfection is low, such that infective centers contain phages derived from only one DNA molecule (7). Relative transfection efficiency is defined as the ratio of the number of heteroduplex-derived infective centers to the number of λ $\\mathrm { i m m } ^ { 4 3 4 }$ -derived infective centers. (Relative transfection efficiency depends on the particular mix of DNAs used and is therefore useful only for purposes of comparison between transfections using the same DNA mixture.) Survival is defined as the ratio of the relative transfection efficiency in wild-type cells to that in mut cells. Inactivation is defined as (1 - survival). ",
+        "bbox": [
+            116,
+            168,
+            494,
+            370
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            532,
+            94,
+            914,
+            131
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The data are presented in Table 1. Each point has been confirmed in at least one separate experiment, most often with at least one different strand preparation. ",
+        "bbox": [
+            532,
+            132,
+            913,
+            167
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The data in Table 1 (line 1) indicate that unmethylated heteroduplexes containing three mismatches are inactivated in wild-type cells relative to cells deficient in mismatch repair. To eliminate the possibility that the inactivation is due to some artifact introduced by the strand separation and annealing procedures, unmethylated DNA duplexes without mismatches were prepared from separated strands under conditions identical to those used to prepare heteroduplexes. No inactivation can be detected when these duplexes are used in the transfection mix (line 10). If the heteroduplexes are either fully adenine-methylated, which inhibits mismatch repair (2, 3), or hemimethylated, which restricts mismatch repair to the unmethylated strand (1-5), inactivation is virtually eliminated (lines 2 and 3). Thus, it appears that the mismatch repair system acts to inactivate unmethylated mismatch-containing DNA. ",
+        "bbox": [
+            530,
+            168,
+            911,
+            370
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/273b4e8222543d3b9f188db53d339346ab723969d5b463ef47e0531810a49a8b.jpg",
+        "table_caption": [
+            "Table 1.Inactivation of mismatch-containing DNA heteroduplexes by the E. coli mismatch repair system "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            164,
+            400,
+            853,
+            807
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The I strands of heteroduplexes in lines 1-3 are λSP27 cI857 ind1 and the r strands are ${ \\pmb { \\lambda } } { \\pmb { c } } ^ { + }$ . Mismatch positions are (from between ${ \\pmb { \\lambda } } { \\pmb { c } } ^ { + }$ and $\\pmb { \\lambda c 1 8 5 7 }$ ind1 ( strand in line 4 is λcI857 ind1). Heteroduplexes in lines 6 and 7 are reciprocal heteroduplexes between λSP27 cI857 indl and $\\pmb { \\lambda } c \\mathbf { I 8 5 7 }$ ind1 (1I strand in line 6 is λSP27 cI857 ind1). The 1 strands of the heteroduplexes in lines 8 and 9 are $\\pmb { \\lambda } c \\mathbf { I 8 5 7 }$ ind1. The $\\boldsymbol { r }$ strand in line 8 is λBL80 cI857 ind1 (13). The r strand in line 9 is λSP39 cI857 ind1 (13). B vatns. The NA upex 0 wa prepa ro separa ran SP2857indDNA sra unehylatedunless otherwise indicated (me. Wild-type cells are E. coli C600 (see re.)and Mut cell are $\\pmb { \\cal E }$ coli C600 muLmu11): str y P1 trc rom29 (15. m result tai  mutHan bacteria (data not shown). \\*Infective centers derived from strand-separated bacteriophage λ DNA. ",
+        "bbox": [
+            161,
+            809,
+            846,
+            924
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "†Infective centers derived from nondenatured DNA of λ $\\mathrm { i m m } ^ { 4 3 4 }$ : ",
+        "bbox": [
+            161,
+            918,
+            567,
+            940
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To estimate the number of mismatches necessary for inactivation, heteroduplexes with one or two repairable mismatches were constructed and tested for inactivation. The data (Table 1, lines 48) suggest that the mismatch repair system can inactivate heteroduplexes with only a single mismatch. However, we cannot exclude the possibility that the heteroduplexes used in these experiments contained hidden or silent mismatches that were phenotypically undetectable but subject to mismatch repair. The finding that heteroduplexes with poorly repaired mismatches are not inactivated (line 9) indicates that hidden repairable mismatches are not a common feature of heteroduplexes and suggests that inactivation is not simply due to the presence of a mismatch in the heteroduplexes but rather reflects some consequence of the typical action of the mismatch repair system. ",
+        "bbox": [
+            102,
+            80,
+            481,
+            273
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inactivation of heteroduplexes with a single repairable mismatch could be the result of a double-strand break produced by simultaneous, or nearly simultaneous, nuclease attack on opposite strands at the site of the mismatch. An alternative possibility, suggested by the finding that the mismatch repair system in vitro appears to initiate repair synthesis in the vicinity of GATC sequences (16), is that inactivation, even for heteroduplexes with a single mismatch, is the result of a double-strand break produced by overlapping excision tracts initiating on opposite strands at GATC sequences flanking the mismatch. ",
+        "bbox": [
+            102,
+            274,
+            481,
+            406
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The observation that the spontaneous mutation frequency of dam mutants is less than that of dam mut double mutants (8) may, as discussed above, reflect the selective loss of presumptive mutants from the cell population. However, the finding that dam recA double mutants are not viable (6, 8) suggests that a substantial fraction of presumptive lethal lesions—i.e., products of the action of the mismatch repair system on unmethylated DNA—are normally repaired by some recA-dependent repair system and do not cause cell death. If the mismatch repair system acts to introduce double-strand breaks at or near a mismatch in the DNA of dam cells, it may be that the double-strand breaks can be repaired by recombination, which would presumably require the recA gene product (1, 12). Mechanisms of recombination involving double-strand breaks in the DNA have been proposed (17). It may be that all mismatch repair in those organisms that lack adenine methylation in their DNA (e.g., eukaryotes) is undirected and occurs immediately behind the replication fork via a pathway involving a double-strand break at the site of the mismatch followed by recombination with the intact sister chromatid to restore the parental sequence. Those mismatch repair events that terminate with crossing-over would produce sister chromatid exchanges. ",
+        "bbox": [
+            102,
+            407,
+            483,
+            623
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            80,
+            898,
+            141
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The sequenced mutants used in this study were provided by Dr. F. Hutchinson. M.-P.D. was supported by a fellowship from the Association pour la Recherche sur le Cancer. R. W. was supported by senior fellowships from the Ligue Nationale Française contre le Cancer and the Association pour la Recherche sur le Cancer. This work was supported by the Centre National de la Recherche Scientifique and by grants from the Ligue Nationale Française contre le Cancer and the Association pour la Recherche sur le Cancer. ",
+        "bbox": [
+            518,
+            152,
+            898,
+            240
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Radman, R. & Wagner, R. (1984) Curr. Top. Microbiol. Immunol. 108, 2328.   \n2. Pukkila, P. J., Peterson, J., Herman, G., Modrich, P. & Meselson, M. (1983) Genetics 104, 571582.   \n3. Wagner, R., Dohet, C., Jones, M., Doutriaux, M.-P., Hutchinson, F. & Radman, M. (1985) Cold Spring Harbor Symp. Quant. Biol. 49, 611615.   \n4. Wagner, R. & Meselson, M. (1976) Proc. Natl. Acad. Sci. USA 73, 41354139.   \n5. Radman, M., Wagner, R., Glickman, B. W. & Meselson, M. (1980) in Progress in Environmental Mutagenesis, ed. Alacevic, M. (Elsevier, Amsterdam), pp. 121130.   \n6. Marinus, M. G. & Morris, N. R. (1975) Mutat. Res. 28, 1526.   \n7. Dohet, C., Wagner, R. & Radman, M. (1985) Proc. Natl. Acad. Sci. USA 82, 503505.   \n8. Glickman, B. W. & Radman, M. (1980) Proc. Natl. Acad. Sci. USA 77, 10631067.   \n9. Lu, A.-L., Clark, S. & Modrich, P. (1983) Proc. Natl. Acad. Sci. USA 80, 46394643.   \n10. Herman, G. E. & Modrich, P. (1981) J. Bacteriol. 145, 644646.   \n11. McGraw, B. R. & Marinus, M. G. (1980) Mol. Gen. Genet. 178, 309315.   \n12. Krasin, F. & Hutchinson, F. (1981) Proc. Natl. Acad. Sci. USA 78, 34503453.   \n13. Skopek, T. R. & Hutchinson, F. (1982) J. Mol. Biol. 159, 19-33.   \n14. Sauer, R. T. (1978) Nature (London) 276, 301302.   \n15. Siegel, E. C., Wain, S. L., Meltzer, S. F., Binion, M. L. & Steinberg, J. L. (1982) Mutat. Res. 93, 2533.   \n16. Lu, A.-L., Welsh, K., Clark, S., Su, S.-S. & Modrich, P. (1985) Cold Spring Harbor Symp. Quant. Biol. 49, 589-596.   \n17. Szostak, J. W., Orr-Weaver, T. L., Rothstein, R. J. & Stahl, F. W. (1983) Cell 33, 2535. ",
+        "bbox": [
+            519,
+            252,
+            898,
+            626
+        ],
+        "page_idx": 2
+    }
+]

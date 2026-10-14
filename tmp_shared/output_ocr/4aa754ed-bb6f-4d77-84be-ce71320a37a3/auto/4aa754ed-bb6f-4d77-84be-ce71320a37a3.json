@@ -1,0 +1,653 @@
+[
+    {
+        "type": "text",
+        "text": "F. Taddei $\\cdot$ J.A. Halliday $\\cdot$ I. Matic $\\cdot$ M. Radman Genetic analysis of mutagenesis in aging Escherichia coli colonies ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            164,
+            863,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received: 30 April 1997 / Accepted: 1 July 1997 ",
+        "bbox": [
+            71,
+            315,
+            373,
+            328
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Bacteria live in unstructured and structured environments, experiencing feast and famine lifestyles. Bacterial colonies can be viewed as model structured environments. SOS induction and mutagenesis have been observed in aging Escherichia coli colonies, in the absence of exogenous sources of DNA damage. This cAMP-dependent mutagenesis occurring in Resting Organisms in a Structured Environment (ROSE) is unaffected by a umuC mutation and therefore diers from both targeted UV mutagenesis and recA730 (SOS constitutive) untargeted mutagenesis. As a recB mutation has only a minor eect on ROSE mutagenesis it also diers from both adaptive reversion of the lacI33 allele and from iSDR (inducible Stable DNA Replication) mutagenesis. Besides its recA and lexA dependence, ROSE mutagenesis is also uvrB and polA dependent. These genetic requirements are reminiscent of the untargeted mutagenesis in $\\lambda$ phage observed when unirradiated $\\lambda$ infects UV-irradiated $E$ . coli. These mutations, which are not observed in aging liquid cultures, accumulate linearly with the age of the colonies. ROSE mutagenesis might oer a good model for bacterial mutagenesis in structured environments such as bio®lms and for mutagenesis of quiescent eukaryotic cells. ",
+        "bbox": [
+            70,
+            361,
+            488,
+            705
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Key words Starvation $\\cdot$ Catabolite repression $\\cdot$ DNA repair $\\cdot$ SOS response $\\cdot$ Evolution ",
+        "bbox": [
+            70,
+            721,
+            469,
+            749
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            368,
+            597,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In nature, bacteria live under variable conditions, experiencing feast and famine lifestyles both in unstructured and structured environments (such as bio®lms, cellular aggregates and colonies). In a structured environment, where bacteria aect dierentially the environment of neighboring cells, generating gradients of environmental variables, cellular organization produces remarkable patterns (see Shapiro 1995 for a review). On motility plates, $E$ . coli and Salmonella typhimurium cells have been shown to form regular patterns by dierentiating and aggregating in response to chemicals, like aspartate, that they excrete (Budrene and Berg 1995). ",
+        "bbox": [
+            508,
+            397,
+            926,
+            569
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aggregation may help bacteria to survive a variety of stresses (for a review, see Costerton et al. 1994). This aggregation is of considerable concern for both industrial applications and medical practices. Bundle-forming pili (BFP) of enteropathogenic $E$ . coli (EPEC) provide for their carriers the ability to colonize mucosal surfaces via auto-aggregation, leading to a structuring of the environment and to increased infectivity (Giron et al. 1993). Further evidence for the importance of structured environments for $E$ . coli comes from population genetic studies which have shown that colicine production is more bene®cial in such environments (Chao and Levin 1981). ",
+        "bbox": [
+            508,
+            570,
+            926,
+            742
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Despite the importance of structured environments, most genetic and biochemical experiments have been performed using actively dividing bacteria in unstructured environments such as agitated liquid cultures, where individual cells aect each other's environment equally. Recently, attention has been drawn to life under famine conditions in liquid cultures (see Kolter 1993 for a review) and to the signi®cance of adaptive mutation in colonies on agar plates (see Foster 1993 for a review). ",
+        "bbox": [
+            508,
+            743,
+            926,
+            872
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have previously shown that resting $E$ . coli cells in a structured environment undergo SOS induction (Taddei et al. 1995). The SOS response is negatively controlled by the LexA protein, which represses more than 20 dierent genes, and positively controlled by the ",
+        "bbox": [
+            506,
+            873,
+            926,
+            945
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RecA protein (for a review see Friedberg et al. 1995). When RecA forms ®laments on single-stranded DNA, it acquires a coprotease activity, stimulating the selfcleavage of several proteins including the LexA repressor. The single-stranded DNA, which is required for activation of RecA, can be generated as a consequence of a variety of treatments (e.g. exposure to diverse DNA-damaging agents, inter-speci®c conjugation, etc.). ",
+        "bbox": [
+            70,
+            99,
+            488,
+            215
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "First characterized as a repair system allowing cells to deal with DNA damage, the SOS response is also well known for increasing genetic variability even in the absence of exogenous sources of DNA damage. The types of genetic changes that are facilitated by the SOS response include point mutations, recombination between similar DNA sequences, transposon mobility and horizontal genetic exchange (see Taddei et al. 1997b and references therein). ",
+        "bbox": [
+            70,
+            215,
+            488,
+            343
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The SOS induction observed in resting bacterial populations, unlike that observed after UV irradiation, has been shown to be dependent on the cya gene (Taddei et al. 1995). The product of this gene is necessary for the synthesis of cAMP, which increases in starving bacteria, and thereby controls a variety of operons that are subject to catabolite repression (Botsford and Harman 1992). Because mutagenesis is one of the SOS phenotypes that could contribute to adaptation, we undertook the study of bacterial mutagenesis in a structured environment, i.e. in colonies growing on ®lters deposited on the surface of a nutrient agar. ",
+        "bbox": [
+            70,
+            345,
+            488,
+            517
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With this system, we have previously shown that the frequency of mutants to rifampicin resistance $( \\mathrm { R i f } ^ { \\mathrm { R } } )$ increases in these Resting Organisms in a Structured Environment (ROSE) (Taddei et al. 1995). This assay dissociated the stress associated with starvation from the lethal selection (the presence of rifampicin) and thus showed that non-adaptive mutations were occuring in resting bacterial populations. Similar observations have now been made by others (Foster 1997; Torkelson et al. 1997), hence we will refer to the adaptive reversion of the lacI33 allele also as a recombination-dependent mutation, even though the role of lactose remains to be elucidated. The increase in mutation frequency in aging colonies is abolished in recA, $l e x A ( \\mathrm { I n d } ^ { - } )$ (producing a non-cleavable LexA repressor) and cya mutants, demonstrating the requirement for an inducible SOS system and for cAMP (Taddei et al. 1995). Here, we sought to assess the roles of the SOS functions, controlled by RecA and LexA, that are involved in ROSE mutagenesis. These results and the potential evolutionary impact of ROSE mutagenesis are discussed. ",
+        "bbox": [
+            70,
+            518,
+            488,
+            820
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            850,
+            241,
+            866
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strains ",
+        "bbox": [
+            70,
+            880,
+            171,
+            891
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Spontaneous rifampicin-resistant mutants were selected in the following $E$ . coli strains, which were derived by P1-mediated transduction from the wild-type strain NR3835 [D(pro-lac) ara thi trpE9777; F¢(pro-lac)]: lexA1(Ind) ) malB::Tn9 (from GC2281; R. ",
+        "bbox": [
+            70,
+            904,
+            488,
+            951
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "D'Ari's collection, Paris, France); lexA1(Ind) ) malB::Tn9 recAo98 srl300::Tn10 (from C. Herman's collection; Paris, France), umuC122::Tn5 (from G. Walker's collection; Cambridge, Mass., USA), polA1 zgj::Tn10 (from GC2752, R. D'Ari's collection) and recB268::Tn10 (Lloyd et al. 1987). The uvrB5 derivative was obtained from R. Schaaper (Research Triangle Park, N.C., USA). ",
+        "bbox": [
+            508,
+            99,
+            926,
+            170
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Selection of rifampicin-resistant mutants ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            192,
+            763,
+            205
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to directly compare our results with those obtained for actively dividing bacteria in agitated liquid cultures (the standard conditions for mutagenesis), we used the well characterized mutation target leading to rifampicin resistance and similar growth conditions. Bacteria were grown overnight in liquid 869 medium $\\mathrm { ( N a C l ~ 5 ~ g / l }$ , Bactotryptone $1 0 ~ \\mathrm { g / l } .$ , yeast extract $5 ~ \\mathrm { g } / 1$ ). Some $1 0 ^ { 2 }$ to $\\mathrm { i } 0 ^ { 3 }$ cells from an overnight culture were inoculated on nitrocellulose ®lters (NC 45 from Schleicher and Schuell) laid on fresh 869 plates $\\mathbf { ( N a C l \\nabla 5  g / l }$ , Bactotryptone $1 0 ~ \\mathrm { g / l }$ , yeast extract $5 ~ \\mathrm { g } / 1$ , agar $\\bar { 1 } 5 \\ \\mathrm { g / l } )$ . Plates were incubated at $3 7 ^ { \\circ } \\mathrm { C }$ for up to 9 days, ®lters were then resuspended in $1 ~ \\mathrm { m l }$ of $1 0 ~ \\mathrm { m M }$ $\\mathrm { M g } \\mathrm { S O } _ { 4 }$ by vigorous vortexing. Bacteria were then incubated for $^ { 1 \\mathrm { ~ h ~ } }$ in liquid 869 medium at $3 7 ^ { \\circ }$ to allow for expression of rifampicin resistance as is usually done after mutagenic treatments (Caillet-Fauquet and Maenhaut-Michel 1988). Appropriate dilutions were then spread on either 869, or 869 rifampicin $( 1 0 0 ~ \\mathrm { \\mu g / m l }$ , Sigma) to select for rifampicin resistance. Plates were then incubated for $4 8 \\mathrm { ~ h ~ }$ at $3 7 ^ { \\circ } \\mathbf { C }$ . The frequency of mutation was calculated and the statistical analyses were performed as described by Halliday and Glickman (1991). ",
+        "bbox": [
+            508,
+            216,
+            926,
+            439
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            468,
+            561,
+            482
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "${ \\mathrm { R i f } } ^ { \\mathbf { R } }$ mutations do not accumulate in aging liquid cultures ",
+        "bbox": [
+            508,
+            496,
+            768,
+            527
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Experiments with aging liquid cultures have shown a cellular turnover, with mutants in the rpoS gene being able to take over populations (Zambrano and Kolter 1996). However, these mutants could have appeared during the growth phase or been generated during the stationary phase. To test the latter hypothesis, we monitored mutation frequency in aging liquid cultures. No increase in the frequency of rifampicin-resistant mutants was detected in aging bacteria in liquid media (Fig. 1). This is strikingly dierent from the 10-fold increase than can be observed in the parallel experiments performed on the equivalent solid media (Taddei et al. 1995). ",
+        "bbox": [
+            508,
+            541,
+            926,
+            685
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/1a11b85135c464c2282923689c13cb67d86f147d961d33ac1268d185339b4c29.jpg",
+        "image_caption": [
+            "Fig. 1 Mutation increase in resting organisms is not observed in liquid cultures. Frequencies of rifampicin-resistant mutant $( \\mathrm { R i f } ^ { \\mathrm { R } } )$ were monitored on day 1 or day 7 in 20 independent liquid cultures (unstructured environment) and in 20 independent colonies (structured environment "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            508,
+            713,
+            931,
+            882
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d309a87af7bbc9fae56b129b3c8f98d918a360c6aa9f03f835bcb3d82e48a44c.jpg",
+        "image_caption": [
+            "Fig. 2 Mutations in ROSE increase linearly with time. Each day colony-forming units (CFU) and frequencies of rifampicin resistant mutant $( \\mathrm { R i f } ^ { \\mathrm { R } } )$ were monitored in 10 independent colonies "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            99,
+            477,
+            310
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            384,
+            488,
+            426
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ROSE mutagenesis increases linearly with time ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            457,
+            424,
+            471
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In our previous study, we had only monitored mutations on day 1 and day 7 (Taddei et al. 1995). The observed increase could be due either to a process triggered in 7- day-old colonies or be cumulative with time. By resuspending colonies of various ages we have shown that the frequency of mutants to rifampicin resistance $( \\mathrm { R i f } ^ { \\mathrm { R } } )$ increases linearly with time in these Resting Organisms in a Structured Environment (ROSE) (Fig. 2). ",
+        "bbox": [
+            70,
+            485,
+            488,
+            601
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The umuC gene is not required for ROSE mutagenesis ",
+        "bbox": [
+            70,
+            630,
+            482,
+            645
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Under exponential growth conditions, the UmuC protein is required for UV-induced and recA730-dependent (the recA730 strain is SOS-constitutive) mutagenesis (see Friedberg et al. 1995) and references therein. Introduction of a umuC::Tn5 allele did not signi®cantly (t-test $P = 0 . 1 5 )$ aect ROSE mutagenesis to rifampicin resistance (Table 1). Therefore, ROSE mutagenesis appears to dier in its genetic requirements from both UV-induced mutagenesis and untargeted SOS mutagenesis of the bacterial chromosome. ",
+        "bbox": [
+            70,
+            659,
+            488,
+            687
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            99,
+            926,
+            214
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Constitutive expression of the recA gene does not restore ROSE mutagenesis in a $l e x A ( \\mathrm { I n d } ^ { - } )$ mutant ",
+        "text_level": 1,
+        "bbox": [
+            506,
+            240,
+            926,
+            268
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Adaptive mutagenesis, or at least the recombinationdependent, stationary-phase reversion of the $\\mathrm { { } } \\mathrm { F ^ { \\prime } }$ lacI33 allele, is reduced in a $l e x A ( \\mathrm { I n d } ^ { - } )$ mutant and is also umuC independent (Cairns and Foster 1991). These similarities between adaptive reversion of the lacI33 allele and ROSE mutagenesis prompted us to test other genes known to be required for adaptive mutagenesis. In a $l e x A ( \\mathrm { I n d } ^ { - } )$ background, increased recA gene expression is sucient to partially restore adaptive mutagenesis of lacI33 (Foster et al. 1996; R. Harris and S. Rosenberg, personal communication) and to cleave the CI repressor in aging colonies (Taddei et al. 1995). However, in the $l e x A ( \\mathrm { I n d } ^ { - } )$ background, where ROSE mutagenesis is abolished (Taddei et al. 1995), the introduction of the recAo98 operator- constitutive mutation does not restore it (Table 1). ",
+        "bbox": [
+            508,
+            284,
+            926,
+            513
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The recB gene has little eect on ROSE mutagenesis ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            542,
+            904,
+            557
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The RecBC helicase unwinds double-strand ends, thus providing single-strand DNA for RecA protein binding (a prerequisite for both coprotease and recombinase activities). The induction of the SOS response is delayed in aging recB mutant colonies (Taddei et al. 1995). Introduction of a recB mutation has little (yet statistically signi®cant: $t$ -test, $P = 0 . 0 0 0 2$ ) eect on ROSE mutagenesis (Table 1), suggesting that none of the RecB ",
+        "bbox": [
+            508,
+            573,
+            926,
+            687
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a Mutation frequencies to rifampicin were measured on days 1 and 7 in the indicated genetic backgrounds. The results obtained on days 1 and 7 for each background were compared using Student's t-test. The asterisks indicate dierences which are signi®cant at a level of $5 \\%$ ",
+        "bbox": [
+            70,
+            833,
+            270,
+            951
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/27e6774a440fbf83da6dae325c7ffbe5e4d9f201cbbb8d9d6fc0d64910ac00ea.jpg",
+        "table_caption": [
+            "Table 1 Genetic analysis of ROSE mutagenesis "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            285,
+            713,
+            928,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "functions is directly involved in the processing of the mutagenic intermediates. This is in contrast to the drastic eect of the recB mutation on adaptive mutagenesis of the lacI33 allele (Harris et al. 1994) and on inducible Stable DNA Replication (iSDR), which has been reported to be mutagenic (Lark and Lark 1979). The small recB mutation eect is not unexpected as it has been shown that SOS induction in aging colonies is delayed in this background (Taddei et al. 1995). ",
+        "bbox": [
+            70,
+            99,
+            488,
+            229
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The uvrB gene is required for ROSE mutagenesis ",
+        "text_level": 1,
+        "bbox": [
+            71,
+            258,
+            441,
+            272
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Nucleotide Excision Repair (NER) of DNA lesions is mediated by the UvrABC excinuclease complex (Friedberg et al. 1995). Induction of the SOS response increases uvrA, uvrB and uvrD expression. The incidence of selection-induced mutations in starving bacterial populations on glucose plates has been reported to increase in mutants that are defective in NER (Hall 1995). In contrast, a uvrB5 strain showed a marked decrease in ROSE mutagenesis, indicating that these two mutagenic pathways are dierent. Another SOS-dependent mutagenesis process that is not observed in strains de®cient in excision-repair is the untargeted mutagenesis (UTM) of $\\lambda$ phage (UTM of $\\lambda$ is observed when unirradiated phage infects UV-irradiated bacteria), which is also umuC independent, but SOS and uvrB dependent, (BrotcorneLannoye and Maenhaut-Michel 1986; Maenhaut-Michel and Caillet-Fauquet 1990). ",
+        "bbox": [
+            70,
+            287,
+            488,
+            531
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA polymerase I is required for ROSE mutagenesis ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            561,
+            479,
+            575
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "DNA polymerase I (encoded by the polA gene) is required to displace UvrB after the incision of damaged DNA by UvrABC excinuclease and for $\\lambda$ UTM (see Friedberg et al. 1995). DNA polymerase I, which has limited processivity, is also involved in repair synthesis in the single-strand DNA gap left by the excinuclease. After UV irradiation, $9 9 \\%$ of the resynthesized DNA patches are small (about 12 bases long), however the remaining $1 \\%$ repair are at least $1 . 5 \\ \\mathrm { k b }$ long and can reach $9 \\ \\mathrm { k b }$ , so that the amount of DNA synthesized in both short and long-patch repair is roughly equal (Cooper 1982). Both short- and long-patch repair synthesis depend on DNA polymerase I (see Friedberg et al. 1995). ",
+        "bbox": [
+            70,
+            591,
+            488,
+            791
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mutants defective in DNA polymerase I show a moderate enhancement of mutagenesis during exponential growth in liquid culture due to SOS induction presumably triggered by a defect in lagging strand synthesis (Bates et al. 1989). Similarly, we have observed an enhanced frequency of mutants in 1-day-old polA1 colonies, but there was no signi®cant increase in mutation frequency between days 1 and 7 (Table 1), showing that ROSE mutagenesis requires DNA polymerase I. ",
+        "bbox": [
+            70,
+            793,
+            488,
+            922
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            109,
+            585,
+            123
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The genetic requirements for ROSE mutagenesis prove that it is an active cellular process: it requires functional cAMP and SOS regulons (Taddei et al. 1995). Functional uvrB and polA genes are required for this process, suggesting the involvement of excision-resynthesis of DNA (Table 1). ROSE mutagenesis does not require DNA lesion by-pass activities of the UmuCD¢ complex (Table 1). These requirements are quite dierent from those observed for UV-induced targeted or untargeted SOS mutagenesis of the bacterial chromosome (Friedberg et al. 1995). ",
+        "bbox": [
+            508,
+            138,
+            926,
+            296
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The moderate eect of a recB mutation and the absence of any eect of RecA overproduction in a lex$A ( \\mathrm { I n d } ^ { - } )$ background demonstrate that the pathways leading to adaptive mutagenesis of the lacI33 allele and to ROSE mutagenesis are distinct, even though they share similarities, such as a requirement for RecA and possibly cAMP. Dierent mutagenic pathways associated with the conditions of sustained bacterial growth are now emerging (for a review see Foster 1993). These pathways may dier at the level of signaling activity (e.g. cAMP for carbon starvation, ppGpp for amino acid starvation, etc.) or at the level of the mutagenic process itself (e.g. RecA, RecBC, PolI, UvrB dependence, etc.). ",
+        "bbox": [
+            508,
+            298,
+            926,
+            484
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ROSE mutagenesis shares similar genetic requirements with untargeted mutagenesis (UTM) of $\\lambda$ phage (UTM of $\\lambda$ is observed when unirradiated phages infect UV-irradiated bacteria), which is also umuC independent but SOS, polA and uvrB dependent (BrotcorneLannoye and Maenhaut-Michel 1986; Maenhaut-Michel and Caillet-Fauquet 1990). The Pol I-dependence of both $\\lambda$ UTM and ROSE mutagenesis could be due to erroneous synthesis by DNA polymerase I on excision tracts left by UvrABC excinuclease. The latter hypothesis might be related to the error-prone form of DNA polymerase I $( \\mathrm { P o l } \\mathrm { I } ^ { * } )$ which has been isolated from SOSinduced cells independently of the UmuC function (Lackey et al. 1985): ",
+        "bbox": [
+            508,
+            485,
+            926,
+            686
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Molecular studies of bacteria in aging colonies are still in their infancy. Hence, it may be too early to propose a detailed mechanism for ROSE mutagenesis. However, the following working hypothesis, compatible with the results described, could help to direct further research. Resting cells may have increased cAMP levels that could induce some functions that trigger the SOS response. This SOS response might in turn induce error-prone DNA synthesis. This synthesis could ®ll gaps left by UvrABC excinuclease. The substrate for the latter complex could be DNA lesions that arise in the course of metabolism in resting cells. This hypothesis predicts that DNA synthesis by cell-free extracts puri®ed from ROSE should be mutagenic and that the newly synthetized DNA in these resting cells should be discontinuous, i.e. patchy. ",
+        "bbox": [
+            508,
+            687,
+            926,
+            901
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A number of molecular questions about ROSE mutagenesis remain open: the identity of the pathway leading to SOS induction, the nature of the mutagenic intermediates and the proteins necessary and sucient for ROSE mutagenesis. Given the broad spectrum of genetic changes induced by the SOS response, other genetic alterations may occur in ROSE. ",
+        "bbox": [
+            508,
+            904,
+            926,
+            947
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            99,
+            489,
+            156
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The linear accumulation of ROSE mutations suggests that the mutation rate is constant per unit time rather than per cellular division. If this result is universally applicable, it could explain how the theory of the molecular clock could pertain to organisms that have very dierent generation times. ",
+        "bbox": [
+            70,
+            157,
+            488,
+            243
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "As mutations to rifampicin resistance do not accumulate in aging liquid cultures, the role of the structured environment in ROSE mutagenesis presents an experimental challenge; one might have to invoke a role for various gradients (oxygen, pH, nutrients, cAMP or other metabolites) as well as osmotic or water stress. These gradients might be responsible for heterogeneity of the mutation rates between dierent subpopulations. ",
+        "bbox": [
+            70,
+            244,
+            488,
+            359
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relative scarcity of genetic and biochemical studies on micro-organisms in structured environments contrasts with the extensive studies, in the area of ecology, medical and applied microbiology, on the prevalence of bio®lms and microcolonies in the wild (Costerton et al. 1994). In most cases, where cells in structured environments are believed to be more adapted than free cells (e.g. more resistant to antibiotics), the relative importance of the structure itself, the changes in cell physiology that it induces and the appearance of de novo mutations has not been sorted out. ",
+        "bbox": [
+            70,
+            360,
+            488,
+            517
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An increase in mutagenesis could allow cells in structured environments such as cellular aggregates and bio®lms to adapt faster to these environments (Taddei et al. 1997a) and to resist to diverse challenges such as antibiotics. Besides its relevance to the understanding of fast evolving microorganisms, the study of ROSE mutagenesis may also serve as a paradigm for mutagenesis in resting eukaryotic cells, such as tumor cells. ",
+        "bbox": [
+            70,
+            518,
+            488,
+            633
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments We wish to thank our colleagues and friends, members of our and R. D'Ari's laboratories, for their interest and advice in the course of this work and for their help in the writing of this manuscript. We thank A.-M. Cirinesi and B. Charbonne for technical help and R. Schaaper for providing strains. J. Halliday was supported by Centre National de la Recherche Scienti®que during this work. This work was supported by grants from Association pour la Recherche contre le Cancer, Fondation pour la Recherche MeÂ dicale, Ligue Nationale FrancË aise contre le Cancer and GREG (Groupement de Recherches et d'Etudes sur les GeÂ nomes). ",
+        "bbox": [
+            70,
+            644,
+            488,
+            774
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            798,
+            152,
+            812
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bates H, Randall SK, Rayssiguier C, Bridges BA, Goodman MF, Radman M (1989) Spontaneous and UV-induced mutations in Escherichia coli K-12 strains with altered or absent DNA polymerase I. J Bacteriol 171:2480±2484   \nBotsford JL, Harman JG (1992) Cyclic AMP in prokaryotes. Microbiol Rev 56:100±122   \nBrotcorne-Lannoye A, Maenhaut-Michel G (1986) Role of RecA protein in untargeted UV mutagenesis of bacteriophage k: evidence for the requirement for the dinB gene. Proc Natl Acad Sci USA 83:3904±3908 Budrene EO, Berg HC (1995) Dynamics of formation of symmetrical patterns by chemotactic bacteria. Nature 376:49±53 Caillet-Fauquet P, Maenhaut-Michel G (1988) Nature of the SOS mutator activity: genetic characterization of untargeted mutagenesis in Escherichia coli. Mol Gen Genet 213:491±498 Cairns J, Foster PL (1991) Adaptive reversion of a frameshift mutation in Escherichia coli. Genetics 128:695±701 Chao L, Levin BR (1981) Structured habitats and the evolution of anticompetitor toxins in bacteria. Proc Natl Acad Sci USA   \n78:6324±6328 Cooper P (1982) Characterization of long patch excision repair of DNA in ultraviolet-irradiated Escherichia coli: an inducible function under rec-lex control. Mol Gen Genet 185:189±197 Costerton JW, Lewandowski Z, DeBeer D, Caldwell D, Korber D, James G (1994) Bio®lms, the customized microniche. J Bacteriol 176:2137±2142 Foster PL (1993) Adaptive mutation: the uses of adversity. Annu Rev Microbiol 47:467±504 Foster PL (1997) Nonadaptive mutations occur on the $\\mathrm { F ^ { \\prime } }$ episome during adaptive mutation conditions in $E$ . coli. J Bacteriol   \n179:1550±1554 Foster PL, Trimarchi JM, Maurer RA (1996) Two enzymes, both of which process recombination intermediates, have opposite eects on adaptive mutation in Escherichia coli. Genetics   \n142:25±37 Friedberg EC, Walker GC, Siede W (1995) DNA repair and mutagenesis. ASM Press, Washington, DC Giron JA, Ho AS, Schoolnik GK (1993) Characterization of ®- mbriae produced by enteropathogenic Escherichia coli. J Bacteriol 175:7391±7403 Hall BG (1995) Genetics of selection-induced mutations: I. uvrA, uvrB, uvrC and uvrD are selection induced speci®c mutator loci. J Mol Evol 40:86±93 Halliday JA, Glickman BW (1991) Mechanisms of spontaneous mutation in DNA repair-pro®cient E. coli. Mutat Res 250:55±   \n71 Harris RS, Longerich S, Rosenberg SM (1994) Recombination in adaptive mutation. Science 264:258±260 Kolter R (1993) The stationary phase of the bacterial life cycle. Annu Rev Microbiol 47:855±874 Lackey D, Krauss SW, Linn S (1985) Characterization of DNA polymerase $\\boldsymbol { \\mathrm { I } } ^ { * }$ , a form of DNA polymerase I found in Escherichia coli expressing SOS functions. J Biol Chem 260:3178±   \n3184 Lark KG, Lark CA (1979) recA-dependent DNA replication in the absence of protein synthesis: characteristics of a dominant lethal replication mutation dnaT, and requirement for recA function. Cold Spring Harbor Symp Quant Biol 43:537±549 Lloyd RG, Buckman C, Benson FE (1987) Genetic analysis of conjugational recombination in Escherichia coli K12 strains de®cient in RecBCD enzyme. J Gen Microbiol 133:2531±2538 Maenhaut-Michel G, Caillet-Fauquet P (1990) Genetic control of the UV-induced SOS mutator eect in single- and doublestranded DNA phages. Mutat Res 230:241±254 Shapiro J (1995) The signi®cances of bacterial colony pattern. Bioessays 17:597±607 Taddei F, Matic I, Radman M (1995) Cyclic AMP-dependent SOS induction and mutagenesis in resting bacterial populations. Proc Natl Acad Sci USA 92:11736±11740 Taddei F, Radman M, Maynard-Smith J, Toupance B, Gouyon PH, Godelle B (1997a) Role of mutators in adaptive evolution. Nature 387:700±703 Taddei F, Vulic M, Radman M, Matic I (1997b) Stress and mutagenesis in bacteria. In: Bijlsma K, Loeschcke V (eds) Environmental stress, adaptation and evolution. BirkhaÈ user Verlag, Basel, pp 273±292 Torkelson J, Harris RS, Lombardo MJ, Nagendran J, Thulin C, Rosenberg SM (1997) Genome-wide hypermutation in a subpopulation of stationary-phase cells underlies recombinationdependent adaptive mutation. EMBO J 16:3303±3311 Zambrano MM, Kolter R (1996) GASPing for life in stationary phase. Cell 86:181±184 ",
+        "bbox": [
+            70,
+            826,
+            489,
+            943
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            81,
+            928,
+            946
+        ],
+        "page_idx": 4
+    }
+]

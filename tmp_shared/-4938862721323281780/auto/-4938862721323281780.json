@@ -1,0 +1,296 @@
+[
+    {
+        "type": "text",
+        "text": "On Golden Pond (también conocida en España como En el estanque dorado, y en Argentina, México y Paraguay como En la laguna dorada) es una película dramática estadounidense de 1981, adaptada de la obra de teatro homónima representada en Broadway, del autor Ernest Thompson. Estuvo dirigida por Mark Rydell, mientras que la música original estuvo a cargo de Dave Grusin. Fue protagonizada por Katharine Hepburn y Henry Fonda; los actores Jane Fonda, Doug McKeon y Dabney Coleman completan el elenco principal. ",
+        "bbox": [
+            70,
+            140,
+            497,
+            366
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La película se estrenó en cines el 4 de diciembre de 1981, con gran éxito de crítica y público. Los críticos elogiaron enormemente la dirección de Rydell, el guion de Thompson y las actuaciones del elenco. Recaudó 119,3 millones de dólares en Estados Unidos, convirtiéndose en la segunda película más taquillera de 1981 en América del Norte. Recibió diez nominaciones en la 54.ª edición de los Premios Óscar , incluida la de Mejor Película , y ganó tres: Mejor Actor (para Henry Fonda), Mejor Actriz (para Hepburn) y Mejor Guion Adaptado. ",
+        "bbox": [
+            70,
+            382,
+            497,
+            609
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sinopsis ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            644,
+            178,
+            669
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La película cuenta la historia de un anciano matrimonio en su casa de veraneo en \"Golden Pond\", el intento de recuperar la relación perdida entre la hija de la pareja y su padre, y el hijastro de esta última que va a pasar un mes al cuidado del matrimonio mientras la hija y su novio se van de vacaciones a Europa. ",
+        "bbox": [
+            70,
+            685,
+            497,
+            817
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reparto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            853,
+            178,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/d7682d3ea0c7683f33537639f92dfbe584103648a045eeaad8516a824fbc8155.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            148,
+            926,
+            473
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Katharine Hepburn – Ethel Thayer Henry Fonda – Norman Thayer Jr. ",
+        "bbox": [
+            80,
+            895,
+            413,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/a40d37f53c71594f178e1e6c98e52210130f5c115f4d5a688a635925f4edf2bc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            476,
+            924,
+            781
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jane Fonda – Chelsea Thayer Wayne Doug McKeon – Billy Ray Dabney Coleman – Bill Ray William Lanteau – Charlie Martin Christopher Rydell – Sumner Todd ",
+        "bbox": [
+            80,
+            42,
+            447,
+            140
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Comentarios ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            161,
+            240,
+            184
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La película fue adaptada por Thompson a partir de su propia obra de teatro y fue dirigida por Mark Rydell, quien también dirigía la obra de teatro \"The West Side Waltz\", en la cual participaba Katharine Hepburn. Ernest Thompson recibió una candidatura a los Premios de la Academia en 1982 por este trabajo. ",
+        "bbox": [
+            70,
+            200,
+            931,
+            275
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La película ganó los Premios de la Academia en las categorías de Mejor actor (Henry Fonda), Mejor Actriz (Katharine Hepburn) y Mejor guion adaptado. También fue candidata en las categorías de Mejor actriz de reparto (Jane Fonda), Mejor fotografía, Mejor director, Mejor montaje, Mejor banda sonora, Mejor película y Mejor sonido. También obtuvo un formidable éxito de taquilla: más de 119 millones de dólares en Estados Unidos,1 en 1981, solo superado por Raiders of the Lost Ark de la saga de Indiana Jones. ",
+        "bbox": [
+            70,
+            290,
+            931,
+            406
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Esta es la única película en la que Henry Fonda y Katharine Hepburn trabajaron juntos. Fonda moriría pocos meses después de finalizar el rodaje, efectuado en el Lago Squam, en Nuevo Hampshire. ",
+        "bbox": [
+            68,
+            421,
+            927,
+            458
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Premios ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            494,
+            178,
+            515
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Óscar ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            554,
+            141,
+            574
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/7eacf29aec8c71d80ad46c15ad7e6e7d062c4e2130d77a3394f62e0efc1dc539.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            587,
+            610,
+            865
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BAFTA ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            45,
+            152,
+            61
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/82bb82869fd824a95c5f632410e798cf9eb1c96606871fddfbb550422724f94f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            77,
+            598,
+            245
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Globo de Oro ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            274,
+            223,
+            292
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea4149bbc254710d76da957886db6cc990521571118a84dfaac5fbc4721ce7ad.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            307,
+            589,
+            473
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            507,
+            225,
+            529
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. On Golden Pond (https://www.imdb.com/title/tt0082846/), consultado el 10 de septiembre de 2019. ",
+        "bbox": [
+            75,
+            549,
+            931,
+            584
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            615,
+            290,
+            636
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "On Golden Pond (https://www.imdb.com/title/tt0082846/) en Internet Movie Database (en inglés) ",
+        "bbox": [
+            77,
+            657,
+            929,
+            692
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de «https://es.wikipedia.org/w/index.php?title=On_Golden_Pond&oldid=168491904» ",
+        "bbox": [
+            70,
+            711,
+            773,
+            728
+        ],
+        "page_idx": 2
+    }
+]

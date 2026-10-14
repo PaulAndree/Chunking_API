@@ -1,0 +1,606 @@
+[
+    {
+        "type": "text",
+        "text": "Sistema de grupos sanguíneos ABO ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            98,
+            707,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El sistema de grupo sanguíneo ABO suele denotar la presencia en la membrana de los glóbulos rojos humanos de uno, ambos o ninguno de los antígenos A y B, también conocidos como aglutinógenos porque aglutinan los glóbulos rojos.1 2 En transfusiones de sangre humana es el más importante de los 38 sistemas de clasificación de grupos de sangre diferente actualmente reconocidos.3 Los donantes de sangre y los receptores deben tener grupos compatibles, ya que una incompatibilidad puede causar una reacción adversa potencialmente fatal después de una ",
+        "bbox": [
+            70,
+            140,
+            376,
+            463
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/c7db297ef76276f6737438c3738f1fa25521dedfdb2bfdadb15e0be879230398.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Antígenos del grupo sanguíneo ABO presentes en los glóbulos rojos y anticuerpos IgM presentes en el suero "
+        ],
+        "bbox": [
+            405,
+            148,
+            924,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "transfusión, o una respuesta inmune indeseada a un órgano trasplantado.4 Los anticuerpos asociados antiA y anti-B son normalmente anticuerpos IgM e IgG, producidos en los primeros años de vida por sensibilización a sustancias medioambientales como alimentos, bacterias, y virus.1 5 6 ",
+        "bbox": [
+            70,
+            466,
+            929,
+            524
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Los tipos de sangre ABO fueron descubiertos por Karl Landsteiner en 1901, recibiendo por sus trabajos el Premio Nóbel en Fisiología o Medicina en 1930.7 Los tipos de sangre ABO están también presentes en otros primates como simios y monos del Viejo Mundo.8 ",
+        "bbox": [
+            70,
+            539,
+            931,
+            598
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genética ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            634,
+            186,
+            655
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Los grupos sanguíneos se heredan de ambos padres. El tipo de sangre ABO está controlado por un único gen (el gen ABO) con tres tipos de alelos nombrados en genética clásica: i, $\\mathrm { I ^ { A } }$ , y I B. 9 El gen codifica una glucosiltransferasa —esto es, una enzima que modifica el contenido de carbohidratos de los antígenos de los glóbulos rojos. El gen está localizado en el brazo largo del cromosoma 9 (9q34).5 6 ",
+        "bbox": [
+            70,
+            673,
+            931,
+            750
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El alelo $\\mathrm { I ^ { A } }$ codifica el antígeno o aglutinógeno A, $\\mathrm { I } ^ { \\mathrm { B } }$ codifica el aglutinógeno B e i codifica un antígeno poco funcional, dando como resultado el grupo O. Como tanto $\\mathrm { I ^ { A } }$ como $\\mathrm { I } ^ { \\mathrm { B } }$ son dominantes sobre i, solo las personas ii tienen sangre grupo O. Las personas con $\\mathrm { I } ^ { \\mathrm { A } } \\mathrm { I } ^ { \\mathrm { A } } \\circ \\mathrm { I } ^ { \\mathrm { A } } \\mathrm { i }$ tienen sangre grupo A, y las personas con $\\mathrm { I } ^ { \\mathrm { B } } \\mathrm { I } ^ { \\mathrm { B } } \\circ \\mathrm { I } ^ { \\mathrm { B } } \\mathrm { i }$ tienen grupo B. Las personas con $\\mathrm { I ^ { A } I ^ { B } }$ tienen ambos fenotipos, porque A y B expresan una relación de codominancia, lo que significa que los padres de grupos A y B pueden tener un niño AB. Una pareja de grupo A y grupo B también puede tener un hijo del grupo $\\mathrm { O }$ si ambos son heterocigotos $( \\mathrm { I } ^ { \\mathrm { B } } \\mathrm { i } ,$ $\\mathrm { I ^ { A } i ) }$ . El fenotipo cis-AB tiene una sola enzima que crea antígenos A y B. Los glóbulos rojos resultantes generalmente no expresan el antígeno A o B al mismo nivel que se esperaría en los glóbulos rojos del grupo A1 o B común, lo que puede ayudar a resolver el problema de un grupo sanguíneo aparentemente genéticamente imposible.10 ",
+        "bbox": [
+            68,
+            764,
+            932,
+            906
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            931,
+            99
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4f92ba03cfe0c48c686e719be5561b7e2ec95d0e72f1e1b8881f9038cab9c390.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            53,
+            55,
+            932,
+            939
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b2d4b0494ab8afec85d466ba8a5dce50b659321034e08658f6239e2252ed01b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            57,
+            39,
+            931,
+            181
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La tabla anterior resume los diferentes grupos sanguíneos que los niños pueden heredar de sus padres.11 12 Los genotipos se muestran en la segunda columna y en letra sencilla para la descendencia: AO y AA dan el grupo A; BO y BB dan el tipo B. Las cuatro posibilidades representan las combinaciones obtenidas cuándo un alelo está tomado de cada padre; cada cual tiene una probabilidad del $2 5 \\%$ , pero algunos ocurren más de una vez. El texto resume los resultados. ",
+        "bbox": [
+            68,
+            198,
+            931,
+            294
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/88969a3ff32ef373f078f9c251f7ac2efe5803d7d169b5876364fb325d9792a8.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            95,
+            319,
+            929,
+            467
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Históricamente, los análisis de sangre ABO se usaban en las pruebas de paternidad, pero en 1957 solo el $5 0 \\%$ de los hombres estadounidenses acusados falsamente podían usarlos como prueba contra la paternidad..13 Ocasionalmente, los tipos de sangre de los niños no son compatibles con las expectativas —por ejemplo, un niño del grupo O puede nacer de un padre AB —debido a situaciones raras, como los fenotipos Bombay y cis AB.14 ",
+        "bbox": [
+            68,
+            483,
+            932,
+            580
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Subgrupos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            609,
+            198,
+            629
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El tipo de sangre A contiene alrededor de 20 subgrupos, de los cuales A1 y A2 son los más comunes (más del $9 9 \\%$ ). A1 constituye aproximadamente el $8 0 \\%$ de toda la sangre de tipo A, y A2 constituye casi todo el resto.15 Estos dos subgrupos no siempre son intercambiables en lo que respecta a la transfusión, ya que algunos individuos A2 producen anticuerpos contra el antígeno A1. A veces pueden surgir complicaciones en casos raros al tipificar la sangre.15 ",
+        "bbox": [
+            70,
+            636,
+            932,
+            732
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Con el desarrollo de la secuenciación del ADN, ha sido posible identificar un número mucho mayor de alelos en el locus ABO, cada uno de los cuales puede categorizarse como A, B u O en términos de la reacción a la transfusión, pero que pueden distinguirse por variaciones en la secuencia de ADN. Hay seis alelos comunes en individuos blancos del gen ABO que producen cada tipo de sangre:16 17 ",
+        "bbox": [
+            70,
+            748,
+            931,
+            825
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/1bd16de6b2ceaf1976afba2a16e776e6041fe979934c2b3bdbedd3d3e736e9cc.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            838,
+            368,
+            915
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El mismo estudio también identificó 18 alelos raros, que generalmente tienen una actividad de glicosilación más débil. Las personas con alelos débiles de A a veces pueden expresar anticuerpos anti-A, aunque estos generalmente no son clínicamente significativos ya que no interactúan de manera estable con el antígeno a temperatura corporal.18 ",
+        "bbox": [
+            70,
+            42,
+            931,
+            118
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cis AB es otra variante rara, en la que los genes A y B se transmiten juntos de un solo padre.[cita requerida] ",
+        "bbox": [
+            72,
+            134,
+            924,
+            154
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Relevancia clínica ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            188,
+            305,
+            211
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Las moléculas de carbohidratos en la superficie de los glóbulos rojos tienen funciones en la integridad de la membrana celular, la adhesión celular, el transporte de moléculas por la membrana y actúan como receptores de ligandos extracelulares y enzimas. Se ha descubierto que los antígenos ABO tienen funciones similares en las células epiteliales y en los glóbulos rojos.1 5 Además, otro gran estudio de GWAS ha asociado los grupos sanguíneos ABO-histo así como el estado secretor de FUT2 con la presencia en el microbioma intestinal de especies bacterianas específicas. En este caso la asociación fue con Bacteroides y Faecalibacterium spp. Se ha demostrado que los bacteroides de la misma OTU (unidad taxonómica operativa) están asociados con la enfermedad inflamatoria intestinal,19 19 por lo que el estudio sugiere un papel importante para los antígenos del grupo histo-sanguíneo ABO como candidatos para la modulación directa del microbioma humano. en salud y enfermedad.20 ",
+        "bbox": [
+            70,
+            228,
+            931,
+            421
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enfermedad hemolítica del recién nacido ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            448,
+            532,
+            470
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La enfermedad hemolítica del recién nacido (EHRN), también llamada eritroblastosis fetal, es un trastorno sanguíneo en el que una madre produce anticuerpos durante el embarazo que atacan los glóbulos rojos de su propio feto, cuando la madre y el bebé tienen tipos de sangre diferentes.21 22 ",
+        "bbox": [
+            70,
+            477,
+            931,
+            534
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Se clasifican varios tipos de EHRN según los aloantígenos que provocan la respuesta. En orden de incidencia, los tipos incluyen ABO, los antígenos del factor RH (anti-RhD, anti-RhE, anti-Rhc, anti-Rhe y anti-RhC), combinaciones de multiantígenos y anti-Kell.[cita requerida] ",
+        "bbox": [
+            70,
+            549,
+            931,
+            606
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            643,
+            262,
+            665
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Sistemas de grupos sanguíneos humanos   \n− ABO (gen) Fenotipo Bombay Estatus secretor – antígenos de secreción de ABO en fluidos de cuerpo Distribución del grupo sanguíneo por países ",
+        "bbox": [
+            80,
+            686,
+            747,
+            783
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            805,
+            225,
+            827
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Guyton, Arthur C. (2006). Tratado de fisiología médica ( $1 1 ^ { \\mathsf { a } }$ edición). Elsevier España S.A. pp. 451-3. ISBN 978-84-8174-926-7. ",
+        "bbox": [
+            77,
+            847,
+            927,
+            882
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. The Editors of Encyclopædia Britannica (18 de julio de 2017). «ABO blood group system» (h ttps://www.britannica.com/science/ABO-blood-group-system). Encyclopædia Britannica (en inglés). Encyclopædia Britannica, Inc. Consultado el 26 de octubre de 2017. ",
+        "bbox": [
+            77,
+            884,
+            927,
+            934
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Storry, J. R.; Castilho, L.; Chen, Q.; Daniels, G.; Denomme, G.; Flegel, W. A.; Gassner, C.; de Haas, M. et al. (2016). «International society of blood transfusion working party on red cell immunogenetics and terminology: report of the Seoul and London meetings» (https://ww w.ncbi.nlm.nih.gov/pmc/articles/PMC5662010). ISBT Science Series (en inglés) 11 (2): 118- 122. ISSN 1751-2816 (https://portal.issn.org/resource/issn/1751-2816). PMC 5662010 (https://www.ncbi.nlm.n ih.gov/pmc/articles/PMC5662010). PMID 29093749 (https://www.ncbi.nlm.nih.gov/pubmed/29093749). doi:10.1111/voxs.12280 (https://dx.doi.org/10.1111%2Fvoxs.12280). ",
+        "bbox": [
+            75,
+            42,
+            932,
+            156
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. «ABO incompatible renal transplants: Good or bad?» (https://www.ncbi.nlm.nih.gov/pmc/arti cles/PMC3964193). World Journal of Transplantation (en inglés) 4 (1): 18-29. 2014. ISSN 2220-3230 (https://portal.issn.org/resource/issn/2220-3230). PMC 3964193 (https://www.ncbi.nlm.nih.go v/pmc/articles/PMC3964193). PMID 24669364 (https://www.ncbi.nlm.nih.gov/pubmed/24669364). doi:10.5500/wjt.v4.i1.18 (https://dx.doi.org/10.5500%2Fwjt.v4.i1.18). ",
+        "bbox": [
+            77,
+            159,
+            932,
+            239
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. Braunwald, Eugene; Isselbacher, Kurt J., eds. (1989) [1987]. Harrison's Principles of Internal Medicine [Principios de Medicina Interna] 2 ( $. 1 1 ^ { \\mathsf { a } }$ ( $7 ^ { \\mathsf { a } }$ en español) edición). México D.F.: Interamericana McGraw-Hill. pp. 1812-6. ISBN 968-422-070-7. ",
+        "bbox": [
+            77,
+            242,
+            931,
+            292
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. Dorland (1986). Diccionario enciclopédico ilustrado de medicina 2 ( $2 6 ^ { \\mathsf { a } }$ edición). Madrid: Interamericana - W.B. Saunders. pp. 708-9. ISBN 84-7605-223-5. ",
+        "bbox": [
+            73,
+            294,
+            932,
+            327
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. Maton, Anthea; Jean Hopkins; Charles William McLaughlin; Susan Johnson; Maryanna Quon Warner; David LaHart; Jill D. Wright (1993). Human Biology and Health (https://archiv e.org/details/humanbiologyheal00scho). Englewood Cliffs, New Jersey, USA: Prentice Hall. ISBN 978-0-13-981176-0. ",
+        "bbox": [
+            75,
+            330,
+            932,
+            395
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8. Segurel, L.; Thompson, E. E.; Flutre, T.; Lovstad, J.; Venkat, A.; Margulis, S. W.; Moyse, J.; Ross, S. et al. (2012). «The ABO blood group is a trans-species polymorphism in primates» (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3494955). Proceedings of the National Academy of Sciences (en inglés) 109 (45): 18493-18498. Bibcode:2012PNAS..10918493S (http://a dsabs.harvard.edu/abs/2012PNAS..10918493S). PMC 3494955 (https://www.ncbi.nlm.nih.gov/pmc/articles/PM C3494955). PMID 23091028 (https://www.ncbi.nlm.nih.gov/pubmed/23091028). arXiv:1208.4613 (https://arxiv. org/abs/1208.4613). doi:10.1073/pnas.1210603109 (https://dx.doi.org/10.1073%2Fpnas.1210603109). ",
+        "bbox": [
+            72,
+            397,
+            932,
+            510
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. Klug, William S.; Cummings, Michael R. (1997). Concepts of Genetics (https://archive.org/de tails/conceptsofgeneti0000klug_w4a5) (5th edición). Upper Saddle River, NJ: Prentice Hall. p. 83 (https://archive.org/details/conceptsofgeneti0000klug_w4a5/page/83). ISBN 978- 0135310625. ",
+        "bbox": [
+            72,
+            514,
+            931,
+            578
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. Yazer M, Olsson M, Palcic M (2006). «The cis-AB blood group phenotype: fundamental lessons in glycobiology». Transfus Med Rev (en inglés) 20 (3): 207-17. PMID 16787828 (https:// www.ncbi.nlm.nih.gov/pubmed/16787828). doi:10.1016/j.tmrv.2006.03.002 (https://dx.doi.org/10.1016%2Fj.tmr v.2006.03.002). ",
+        "bbox": [
+            67,
+            580,
+            932,
+            647
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "11. «ABO inheritance patterns» (http://www.transfusion.com.au/?q=node/77). Inheritance patterns of blood groups. Australian Red Cross Blood Service. Consultado el 30 de octubre de 2013. ",
+        "bbox": [
+            65,
+            649,
+            934,
+            697
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "12. «ABO blood group system» (http://abobloodtypes.webnode.com/). Abobloodtypes.webnode.com. Consultado el 2 de febrero de 2015. ",
+        "bbox": [
+            63,
+            700,
+            926,
+            733
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "13. Cited in «Misattributed paternity rates and non-paternity rates» (https://web.archive.org/web/ 20160530002005/http://www.childsupportanalysis.co.uk/analysis_and_opinion/choices_and_ behaviours/misattributed_paternity.htm). Archivado desde el original (http://www.childsupport analysis.co.uk/analysis_and_opinion/choices_and_behaviours/misattributed_paternity.htm) el 30 de mayo de 2016. Consultado el 3 de diciembre de 2020. ",
+        "bbox": [
+            65,
+            736,
+            932,
+            817
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "14. «Understanding genetics» (https://web.archive.org/web/20200810221828/https://genetics.th etech.org/ask/ask221). Stanford. Archivado desde el original (http://genetics.thetech.org/ask/ ask221) el 10 de agosto de 2020. ",
+        "bbox": [
+            65,
+            820,
+            932,
+            869
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. Blood Group A Suptypes (https://web.archive.org/web/20080802232301/http://www.owenfou ndation.com/Health_Science/Blood_Group_A_Subtypes.html), The Owen Foundation. Retrieved 1 July 2008. ",
+        "bbox": [
+            65,
+            871,
+            932,
+            920
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. Seltsam A, Hallensleben M, Kollmann A, Blasczyk R (2003). «The nature of diversity and diversification at the ABO locus». Blood 102 (8): 3035-42. PMID 12829588 (https://www.ncbi.nlm.ni h.gov/pubmed/12829588). doi:10.1182/blood-2003-03-0955 (https://dx.doi.org/10.1182%2Fblood-2003-03-095 5). ",
+        "bbox": [
+            65,
+            42,
+            932,
+            108
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "17. Ogasawara K; Bannai M; Saitou N et al. (1996). «Extensive polymorphism of ABO blood group gene: three major lineages of the alleles for the common ABO phenotypes». Human Genetics 97 (6): 777-83. PMID 8641696 (https://www.ncbi.nlm.nih.gov/pubmed/8641696). S2CID 12076999 (https://api.semanticscholar.org/CorpusID:12076999). doi:10.1007/BF02346189 (https://dx.d oi.org/10.1007%2FBF02346189). ",
+        "bbox": [
+            65,
+            110,
+            934,
+            192
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "18. Shastry, S; Bhat, S (Octubre 2010). «Imbalance in A2 and A2B phenotype frequency of ABO group in South India» (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957492). Blood Transfusion 8 (4): 267-270. PMC 2957492 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2957492). PMID 20967168 (https://www.ncbi.nlm.nih.gov/pubmed/20967168). doi:10.2450/2010.0147-09 (https://dx.doi.or g/10.2450%2F2010.0147-09). ",
+        "bbox": [
+            65,
+            194,
+            932,
+            275
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "19. McGovern, Dermot P. B.; Jones, Michelle R.; Taylor, Kent D.; Marciante, Kristin; Yan, Xiaofei; Dubinsky, Marla; Ippoliti, Andy; Vasiliauskas, Eric et al. (1 de septiembre de 2010). «Fucosyltransferase 2 (FUT2) non-secretor status is associated with Crohn's disease» (http s://pubmed.ncbi.nlm.nih.gov/20570966/). Human Molecular Genetics 19 (17): 3468-3476. ISSN 1460-2083 (https://portal.issn.org/resource/issn/1460-2083). PMC 2916706 (https://www.ncbi.nlm.nih.go v/pmc/articles/PMC2916706). PMID 20570966 (https://www.ncbi.nlm.nih.gov/pubmed/20570966). doi:10.1093/hmg/ddq248 (https://dx.doi.org/10.1093%2Fhmg%2Fddq248). Consultado el 12 de noviembre de 2021. ",
+        "bbox": [
+            65,
+            279,
+            932,
+            407
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "20. Rühlemann, Malte Christoph; Hermes, Britt Marie; Bang, Corinna; Doms, Shauni; MoitinhoSilva, Lucas; Thingholm, Louise Bruun; Frost, Fabian; Degenhardt, Frauke et al. (2021-02). «Genome-wide association study in 8,956 German individuals identifies influence of ABO histo-blood groups on gut microbiome» (https://pubmed.ncbi.nlm.nih.gov/33462482/). Nature Genetics 53 (2): 147-155. ISSN 1546-1718 (https://portal.issn.org/resource/issn/1546-1718). PMID 33462482 (https://www.ncbi.nlm.nih.gov/pubmed/33462482). doi:10.1038/s41588-020-00747-1 (https://d x.doi.org/10.1038%2Fs41588-020-00747-1). Consultado el 12 de noviembre de 2021. ",
+        "bbox": [
+            65,
+            409,
+            932,
+            523
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "21. Guyton, Arthur C. (2006). Tratado de fisiología médica ( $1 1 ^ { \\mathsf { a } }$ edición). Elsevier España S.A. pp. 421, 427, 454, 1048. ISBN 978-84-8174-926-7. ",
+        "bbox": [
+            63,
+            526,
+            922,
+            558
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "22. Dorland (1986). Diccionario enciclopédico ilustrado de medicina 1 ( $2 6 ^ { \\mathsf { a } }$ edición). Madrid: Interamericana - W.B. Saunders. p. 535. ISBN 84-7605-223-5. ",
+        "bbox": [
+            63,
+            561,
+            926,
+            595
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bibliografía ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            623,
+            226,
+            647
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            685,
+            289,
+            706
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ABO (https://www.ncbi.nlm.nih.gov/gv/mhc/xslcgi.cgi?cmd $=$ bgmut/systems_info&system=ab o) En BGMUT Grupo sanguíneo Antigen Base de datos de Mutación del Gen en NCBI, NIH   \nABO Grupos sanguíneos, anticuerpos y antigens explicó YouTube/Youtube vídeo educativo Encyclopædia Britannica, ABO sistema de grupo sanguíneo (http://www.britannica.com/eb/a rticle-9003372/ABO-blood-group-system) Servicio de Transfusión de Sangre nacional (https://web.archive.org/web/20070607182528/ http://www.blood.co.uk/pages/world_blood.html) Base Genética molecular de ABO (http://abobloodgroup.googlepages.com/) Archivado (http s://web.archive.org/web/20090415140107/http://abobloodgroup.googlepages.com/) el 15 de abril de 2009 en Wayback Machine. ",
+        "bbox": [
+            78,
+            726,
+            932,
+            904
+        ],
+        "page_idx": 6
+    }
+]

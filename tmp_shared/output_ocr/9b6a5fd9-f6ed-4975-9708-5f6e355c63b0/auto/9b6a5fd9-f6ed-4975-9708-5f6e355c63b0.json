@@ -1,0 +1,662 @@
+[
+    {
+        "type": "text",
+        "text": "The rise and fall of mutator bacteria Antoine Giraud, Miroslav Radman, Ivan Matic and François Taddei\\* ",
+        "text_level": 1,
+        "bbox": [
+            88,
+            104,
+            834,
+            148
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacteria with elevated mutation rates are frequently found among natural isolates. This is probably because of their ability to generate genetic variability, the substrate for natural selection. However, such high mutation rates can lead to the loss of vital functions. The evolution of bacterial populations may happen through alternating periods of high and low mutation rates. The cost and benefits of high mutation rates in the course of bacterial adaptive evolution are reviewed. ",
+        "bbox": [
+            91,
+            165,
+            475,
+            296
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Addresses ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            317,
+            155,
+            327
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E9916, Institut National de la Santé et de la Recherche Médicale, Faculté de Médecine ‘Necker — Enfants Malades’, Université René Descartes Paris V, 156 rue de Vaugirard, 75015 Paris, France ${ } ^ { * } \\in$ -mail: taddei@necker.fr ",
+        "bbox": [
+            91,
+            329,
+            459,
+            375
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Current Opinion in Microbiology 2001, 4:582–585 ",
+        "bbox": [
+            93,
+            385,
+            383,
+            398
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1369-5274/01/\\$ — see front matter   \n$\\circledcirc$ 2001 Elsevier Science Ltd. All rights reserved. ",
+        "bbox": [
+            91,
+            407,
+            364,
+            431
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            441,
+            173,
+            451
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "CF cystic fibrosis MRS mismatch repair system ",
+        "bbox": [
+            91,
+            453,
+            276,
+            476
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "bacteria can accelerate the speed of evolution of a bacterial population. Intriguingly, this indicates that being a mutator is an individual disadvantage that can be turned into an advantage at the population level. This observation defines the mutator paradox [5]. Some recent observations, in different experimental and theoretical models, showed that a mutator mutation spontaneously arising within a wild-type bacterial population can be selected for, enriched and even become dominant $[ 4 ^ { \\bullet \\bullet } , 6 - 9 ]$ . Mutator bacteria are selected for because of the adaptive mutations they generate rather than directly because of their high mutation rate $[ 1 0 ^ { \\bullet } ]$ . By selecting the adaptive mutation (first order selection), natural selection indirectly selects the sequence in which this mutation occurred, because of its physical link with the adaptive mutation. During evolution, natural selection retained the mechanisms able to generate mutation (second order selection). This second order selection acts on the genetic process responsible for the generation of genetic adaptation $[ 1 0 ^ { \\bullet } ]$ . By the selection of individual adaptive mutations, second order selection results in an increased global mutation rate of the entire population $[ 4 ^ { \\bullet \\bullet } , 6 - 8 ]$ . ",
+        "bbox": [
+            513,
+            165,
+            908,
+            489
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            504,
+            194,
+            518
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Because new mutations are mainly deleterious or lethal, it has been proposed that the genomic mutation rate of living organisms evolved to be as low as possible [1]. This proposition is corroborated by the existence of numerous genetic systems that prevent the appearance of mutations (DNA repair and DNA protection gene products that remove or prevent the chemical alteration of DNA). Mutations inactivating mutation-avoidance genes (mutator mutations) will lead to a permanent increase in the cellular mutation rate and are called constitutive mutators [2]. Thus, cells with such mutations experience much lower reproductive success (fitness), owing to their high mutation load. However, because mutation is also the substrate for selection (the ‘engine’ of evolution), the possible role of mutator cells in evolution has been a subject of considerable biological and medical interest. ",
+        "bbox": [
+            91,
+            519,
+            486,
+            755
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The rise of mutators ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            771,
+            261,
+            785
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The effects of mutation rates on the fitness of cells have been studied in bacterial populations, mainly Escherichia coli strains. Competition experiments between mutator and wild-type bacterial populations sharing the same environment showed an adaptive advantage of the mutator population $[ 3 , 4 ^ { \\bullet \\bullet } ]$ . This population’s advantage arises from an increased probability in acquiring adaptive mutations, compared to that of the wild-type population of a similar size. Thus, the capacity to generate adaptive mutations faster than the wild-type population leads to an increase in the frequency of mutators in the populations colonising the shared ecosystem $[ 3 , 4 ^ { \\bullet \\bullet } ]$ . Hence, mutator ",
+        "bbox": [
+            91,
+            786,
+            486,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Most of the mutator bacteria isolated in the laboratory $[ 4 ^ { \\bullet \\bullet } , 1 1 ]$ and in nature $[ 1 2 , 1 3 , 1 4 ^ { \\bullet \\bullet } ]$ have been shown to be defective in the mismatch repair system (MRS). Aside from their mutator phenotype, these mutants have a hyper-recombination phenotype [15]. Second order selection also acts on this phenotype because it is a source of genetic diversity [16•]. Thus, the selection for a better adaptation to a specific environment favours the second order selection of MRS-deficient mutator alleles for their capacity to generate wide genetic diversity. Natural selection retains the mutation rate of the best-adapted bacteria. Thus, this rate is not necessarily minimal nor optimal, as it would not ensure a better adaptability to the cells. For example, a theoretical model shows that mutator bacteria are selected in large populations, in which they contribute little to the evolutionary speed, rather than in small populations, the evolutionary speed of which they could dramatically increase [9]. ",
+        "bbox": [
+            513,
+            504,
+            906,
+            770
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The fall of mutators ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            785,
+            678,
+            800
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The study of bacterial mutator populations living in isolated environments revealed that mutator bacteria accumulate numerous mutations in their genomes that are neutral or adaptive in their current environment but that are deleterious in a different environment $[ 4 ^ { \\bullet \\bullet } , 1 7 ^ { \\bullet } ]$ . Such mutations accumulating in a given environment often affect the ability of the mutator bacteria to adapt to other environments. Trade-offs occur when the accumulating mutations are beneficial in the first environment and detrimental in the second one. If the mutations are neutral in the first environment and detrimental in the second, they would also contribute to the narrowing choice of niches that an organism can occupy. Mutator bacteria can rapidly accumulate mutations inactivating genes selected for during evolution by allowing survival in the different environments encountered during the species life cycle. Considering the genome as a selection-imprinted genetic memory of past environments, one can view this mutational loss of key genetic functions in mutator bacteria as a ‘genetic amnesia’. Functions that are not of immediate necessity can be rapidly lost in a mutator background $[ 4 ^ { \\bullet \\bullet } , 1 7 ^ { \\bullet } ]$ . Hence, even though mutator bacteria can be effective at becoming specialists here and now, they would pay a price elsewhere and later because of the rapid loss of their generalist abilities. Like Pyrrhus, the Greek king whose victories against Rome were so costly that he had to withdraw from the part of Italy he had conquered, the victory of mutators in the colonisation of a new environment is won at a staggering cost, revealed by their low fitness in forthcoming recurrent challenges $[ 4 ^ { \\bullet \\bullet } ]$ . ",
+        "bbox": [
+            513,
+            802,
+            906,
+            963
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            104,
+            486,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutator bacteria and pathogenesis ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            401,
+            387,
+            416
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Constitutive mutator cells are not rare in natural bacterial isolates. Different reports show that the frequency of mutator bacteria in natural bacterial populations is much higher than expected if the mutation rate is minimal [7,12,18•]. The first observation of mutator bacteria was reported by Treffers et al. [19], who detected the presence of two mutator strains among 25 isolates. Jyssum [20] found four mutator strains among 110 pathogenic isolates. Later, Gross and Siegel [21] observed one mutator among 408 isolates of pathogenic and commensal bacteria. In a more recent study by LeClerc et al. [12], nine $E$ . coli mutator strains were detected among 349 isolates, including the enterohemorrhagic O157:H7 strain, which was involved in severe disease outbreaks in the USA, Scotland and Japan. Moreover, the mutator strains were all found among pathogenic isolates. In spite of the fact that the number of studied commensal strains was very limited, such observations raised a possible link between pathogenesis and high mutagenesis [12]. Pathogenic bacteria face strong selective pressures when colonising a new host. They have to compete with resident commensal bacteria and face the immune system. Under such conditions, mutator bacteria could efficiently play an important role because of their adaptive capacities. ",
+        "bbox": [
+            91,
+            418,
+            486,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, a later study revealed that mutator bacteria ‘represent’ up to $1 0 \\%$ of the $E$ . coli natural isolates and that, among these, about $1 \\%$ had a strong mutator phenotype because of MRS inactivation [13]. This proportion of mutators was not statically different between commensal and pathogenic isolates. Taken together, all these published observations on $E$ . coli mutator strains in natural isolates do not yet allow the conclusion that a high mutation rate is preferentially associated with pathogenic strains [22]. Indeed, such a relationship depends on the type of pathology caused by $E$ . coli (E Denamur, I Matic, unpublished data). Thus, the question changed from “Are mutator bacteria pathogens?” to “Among pathogens, are mutator strains different from non-mutator strains?”. ",
+        "bbox": [
+            91,
+            786,
+            486,
+            963
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            104,
+            908,
+            133
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The latter question has been addressed in a mouse model $[ 2 3 ^ { \\bullet \\bullet } ]$ . For non-mutator strains, there is a correlation between the number of known pathogenic determinants produced by the strain and its efficacy in killing mice. This correlation disappears in mutator isolates that show an intermediate virulence phenotype independent of the presence of known virulence factors $[ 2 3 ^ { \\bullet \\bullet } ]$ . A high mutation rate is thus associated with a modification of the virulence phenotype. This was the first evidence of an influence of high mutation rates on the evolution of virulence. ",
+        "bbox": [
+            514,
+            150,
+            908,
+            296
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A recent finding revealed that $3 6 \\%$ of cystic fibrosis (CF) patients harbouring Pseudomonas aeruginosa are infected by mutator strains $[ 1 4 ^ { \\bullet \\bullet } ]$ . No mutator strains were found among $P .$ aeruginosa isolated from lungs of non-CF patients. Moreover, this work showed a correlation between high mutation rate and multiple antibiotic resistance. Thus, mutator bacteria may be advantageous in certain pathologies, as predicted by theoretical and laboratories studies that show that heterogeneous and changing environments colonised by clonal populations (as in the case of the lungs of CF patients) would promote the selection of mutator bacteria [6,7,9]. In the case of chronic infections, the infecting population size combined with the duration of infection, the reiterated challenges imposed by antibiotic therapies and the host’s immune response should provide ideal conditions for the fixation of mutator alleles. High mutation rates may help in the generation of mutations that confer resistance to antibiotic [8,24] and in the generation of compensatory mutations that reduce the fitness cost usually associated with antibiotic resistance mutations [25]. ",
+        "bbox": [
+            513,
+            312,
+            908,
+            621
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutator bacteria are not necessarily doomed ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            638,
+            892,
+            651
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Under a strong selective pressure, bacteria that have lost DNA repair gene functions may be selected (through second order selection) for their ability to generate adaptive mutations. However, genomes bearing mutator mutations do not have a bright future because of the accumulation of deleterious and ‘amnesic’ mutations. Therefore, the mutator may be seen as dead-end unless, in the course of evolution, mutator genes have been recurrently lost and reacquired. To test this hypothesis, phylogenetic studies of natural $E$ . coli strains have been carried out to detect the possible hallmarks of this evolutionary scenario. It was observed that phylogenetic trees constructed from MRS genes (genes that, when inactivated, confer a hyperrecombination and mutator phenotype) are incongruent with those constructed from house-keeping genes or genes that, when inactivated, lead only to a mutator phenotype or hyper-recombination phenotype $[ 2 6 ^ { \\bullet \\bullet } ]$ . These incongruences can thus be attributed to the frequent horizontal transfer of the mismatch repair gene sequences $[ 2 6 ^ { \\bullet \\bullet } , 2 7 ^ { \\bullet } ]$ . In fact, DNA mismatch repair genes show a highly mosaic sequence structure. Their sequence is a mixture of short sequences that had diverged in the different $E$ . coli strains before being assembled by recombination. Naturally occurring mutators most often carry a defect in MRS $[ 1 2 , 1 3 , 1 4 ^ { \\bullet \\bullet } ]$ that may help in their own restoration by horizontal transfer from a divergent partner. The association of the hyper-recombination and the mutator phenotypes of MRS-deficient bacteria may allow them to play an important role in bacterial evolution. ",
+        "bbox": [
+            513,
+            654,
+            908,
+            963
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            104,
+            486,
+            223
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Other strategies to generate variability ",
+        "text_level": 1,
+        "bbox": [
+            89,
+            238,
+            418,
+            252
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The separation, by recombination, of the adaptive mutation (subject to direct first order selection) from the mutator allele will limit the second order selection of mutator bacteria [28•]. This is the case only if mutator cells are selected by second order selection. When the loss of a repair function is advantageous in itself (first order selection) [29], recombination should have no effect on the mutator selection. Although there is no experimental evidence, MRS mutator bacteria could be selected for because of a hypothetical increase in replication speed; mutator advantage could also be because of any other unknown pleiotropic effect of MRS deficiency. However, recombination does not limit the mutator’s role in the generation of genetic novelty and it further allows the use of such genetic novelty by the non-mutator population [28•]. The contribution of constitutive mutators in the evolution of a bacterial population is thus probably more important than reflected by the number of mutators present in bacterial natural isolates. Constitutive mutators may have participated in the development of some genetic mechanisms that can increase the mutation rate at only some loci [30,31] or that lead to a transient increase in mutation rate under specific environmental conditions such as prolonged starvation [32] or the presence of DNA-damaging agents. Other systems like these have not been studied as much as constitutive mutator cells have in experimental evolution models, but they could stimulate generation of genetic variability without paying the costs of the mutation load associated with a constitutive increase in mutation rate $[ 3 3 ^ { \\bullet } , 3 4 ^ { \\bullet } ]$ . ",
+        "bbox": [
+            91,
+            255,
+            486,
+            694
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            91,
+            711,
+            196,
+            726
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The rise of constitutive mutator bacteria, due to their high adaptive capacity, results from their rapid specialisation to the environment in which they happen to find themselves. This allows them to take over in some bacterial populations. They succeed better than wild-type bacteria in short-term adaptation to novel challenges, such as generating antibiotic resistance. However, they are less successful in resisting recurrent challenges because of their genetic ‘amnesia’, i.e. the rapid loss of functions that are not being selected for in the current environment. These losses will probably lead to their fall in the future $[ 4 ^ { \\bullet \\bullet } , 1 7 ^ { \\bullet } ]$ . T Dobzhansky, discussing the adaptation of species living in temperate environments, wrote in 1950: “changeable environments put the premium on versatility rather than perfection” [35]. This point of view is supported by the reviewed experimental microevolution of overspecialised, rapidly evolving bacteria. ",
+        "bbox": [
+            91,
+            728,
+            486,
+            963
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "References and recommended reading ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            104,
+            838,
+            118
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Papers of particular interest, published within the annual period of review, have been highlighted as: ",
+        "bbox": [
+            511,
+            119,
+            893,
+            139
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "• of special interest •• of outstanding interest   \n1. Kimura M: On the evolutionary adjustment of spontaneous mutation rates. Genet Res 1967, 23-34.   \n2. Horst JP, Wu TH, Marinus MG: Escherichia coli mutator genes. Trends Microbiol 1999, 7:29-36.   \n3. Chao L, Cox EC: Competition between high and low mutation strains of Escherichia coli. Evolution 1983, 37:125-134.   \n4. Giraud A, Matic I, Tenaillon O, Clara A, Radman M, Fons M, Taddei   \n•• Costs and benefits of high mutation rates: adaptive evolution o bacteria in the mouse gut. Science 2001, 291:2606-2608. ",
+        "bbox": [
+            511,
+            146,
+            890,
+            284
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This article reports the short-term advantage and the long-term disadvantage of constitutive E. coli mutator strains in a gnotobiotic mouse model. This in vivo model allows the exploration of mutator-associated costs and benefits at individual, population and metapopulation levels. ",
+        "bbox": [
+            511,
+            286,
+            908,
+            326
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. Lenski RE: Evolution, experimental. In Encyclopedia of Microbiology, vol 2. Edited by Lederberg J. San Diego: Academic Press Inc.; 1992:125-140.   \n6. Sniegowski PD, Gerrish PJ, Lenski RE: Evolution of high mutation rates in experimental populations of E. coli. Nature 1997, 387:703-705.   \n7. Taddei F, Radman M, Maynard-Smith J, Toupance B, Gouyon PH, Godelle B: Role of mutator alleles in adaptive evolution. Nature 1997, 387:700-702.   \n8. Mao EF, Lane L, Lee J, Miller JH: Proliferation of mutators in a cell population. J Bacteriol 1997, 179:417-422.   \n9. Tenaillon O, Toupance B, Le Nagard H, Taddei F, Godelle B: Mutators, population size, adaptive landscape and the adaptation of asexual populations of bacteria. Genetics 1999, 152:485-493.   \n10. Tenaillon O, Taddei F, Radman M, Matic I: Second-order selection in   \nbacterial evolution: selection acting on mutation and recombination rates in the course of adaptation. Res Microbiol 2001, 152:11-16. ",
+        "bbox": [
+            511,
+            332,
+            905,
+            548
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This review deals with the concept of first and second order selections, and how selection acts on the mechanisms that generate diversity. It describes the main results of experimental evolution experiments with mutator bacteria. ",
+        "bbox": [
+            511,
+            549,
+            906,
+            581
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "11. Brégeon D, Matic I, Radman M, Taddei F: Inefficient mismatch repair: genetic defects and down regulation. J Genet 1999, 78:21-28.   \n12. LeClerc JE, Li B, Payne WL, Cebula TA: High mutation frequencies among Escherichia coli and Salmonella pathogens. Science 1996, 274:1208-1211.   \n13. Matic I, Radman M, Taddei F, Picard B, Doit C, Bingen E, Denamur E, Elion J: Highly variable mutation rates in commensal and pathogenic Escherichia coli. Science 1997, 277:1833-1834.   \n14. Oliver A, Canton R, Campo P, Baquero F, Blazquez J: High frequency   \n•• of hypermutable Pseudomonas aeruginosa in cystic fibrosis lung infection. Science 2000, 288:1251-1254. ",
+        "bbox": [
+            513,
+            586,
+            906,
+            718
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The authors describe a natural ecosystem in which most of the predictions that have been made on the selection of constitutive mutator bacteria can be observed. This work was the first to show a link between high mutation rate and antibiotic resistance in pathogenic bacterial isolates in the natural ecosystem. ",
+        "bbox": [
+            511,
+            720,
+            906,
+            760
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "15. Rayssiguier C, Thaler DS, Radman M: The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 1989, 342:396-401.   \n16. Funchain P, Yeung A, Stewart J, Clendenin WM, Miller JH: Amplification of mutator cells in a population as a result of horizontal transfer. J Bacteriol 2001, 183:3737-3741. ",
+        "bbox": [
+            513,
+            766,
+            906,
+            834
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The authors report that, as for the direct selection of mutation, direct selection for recombinants in an interspecies mating between S. enterica and E. coli raises the percentage of MRS-deficient mutants by second order selection. ",
+        "bbox": [
+            511,
+            834,
+            908,
+            865
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "17. Funchain P, Yeung A, Stewart JL, Lin R, Slupska MM, Miller JH: The consequences of growth of a mutator strain of Escherichia coli as measured by loss of function among multiple gene targets and loss of fitness. Genetics 2000, 154:959-970. ",
+        "bbox": [
+            511,
+            871,
+            905,
+            911
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The authors used an experimental model to observe the accumulation of mutations in more than 700 genes of the E. coli chromosome. They compared the accumulation of deleterious mutations between mutator and wild-type bacteria in different growth conditions They concluded that the rapid accumulation of mutations in constitutive mutators may limit their number in nature. ",
+        "bbox": [
+            511,
+            911,
+            906,
+            963
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "18. Boe L, Danielsen M, Knudsen S, Petersen JB, Maymann J, Jensen PR: The frequency of mutators in populations of Escherichia coli. Mutat Res 2000, 448:47-55. ",
+        "bbox": [
+            91,
+            104,
+            485,
+            134
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The authors of this paper estimated the rate of mutation toward a mutator phenotype and the proportion of mutators in an E. coli population. ",
+        "bbox": [
+            91,
+            136,
+            486,
+            156
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "19. Treffers HP, Spinelli V, Belser NO: A factor (or mutator gene) influencing mutation rates in E. coli. Proc Natl Acad Sci USA 1954, 40:1064-1071.   \n20. Jyssum K: Observations on two types of genetic instability in Escherichia coli. Acta Path 1960, 48:113-120.   \n21. Gross MD, Siegel EC: Incidence of mutator strains in Escherichia coli and coliforms in nature. Mutat Res 1981, 91:107-110.   \n22. Taddei F, Matic I, Godelle B, Radman M: To be a mutator, or how pathogenic and commensal bacteria can evolve rapidly. Trends Microbiol 1997, 5:427-428; discussion 428-429.   \n23. Picard B, Duriez P, Gouriou S, Matic I, Denamur E, Taddei F: Mutator   \n•• natural Escherichia coli isolates have an unusual virulence phenotype. Infect Immun 2001, 69:9-14. ",
+        "bbox": [
+            91,
+            162,
+            480,
+            322
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The role of mutator bacteria in the evolution of virulence has been proposed in numerous papers that deal with the adaptive advantage of mutator bacteria. In this paper, the authors investigated in an experimental mouse model whether or not there was a direct link between the mutator phenotype and virulence. ",
+        "bbox": [
+            89,
+            324,
+            486,
+            364
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "24. Miller JH, Suthar A, Tai J, Yeung A, Truong C, Stewart JL: Direct selection for mutators in Escherichia coli. J Bacteriol 1999, 181:1576-1584.   \n25. Levin BR, Perrot V, Walker N: Compensatory mutations, antibiotic resistance and the population genetics of adaptive evolution in bacteria. Genetics 2000, 154:985-997.   \n26. Denamur E, Lecointre G, Darlu P, Tenaillon O, Acquaviva C, Sayada C, •• Sunjevaric I, Rothstein R, Elion J, Taddei F et al.: Evolutionary implications of the frequent horizontal transfer of mismatch repair genes. Cell 2000, 103:711-721. ",
+        "bbox": [
+            91,
+            370,
+            486,
+            476
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This paper shows that MRS functions had been rapidly lost and reacquired by horizontal transfer during the evolution of E. coli. This suggests that the MRS-deficient strains selected for the adaptive advantage associated with their high mutation rate or hyper-recombinant phenotype during episodes of important selective pressure and could easily restore their normal mutation frequency by recombination. ",
+        "bbox": [
+            89,
+            476,
+            486,
+            537
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "27. Brown EW, LeClerc JE, Li B, Payne WL, Cebula TA: Phylogenetic evidence for horizontal transfer of mutS alleles among naturally occurring Escherichia coli strains. J Bacteriol 2001, 183:1631-1644. ",
+        "bbox": [
+            513,
+            104,
+            895,
+            145
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this article the instability of the mutS gene (a MRS gene) region in the E. coli chromosome is shown to be a hot spot of recombination. The adaptive role of mutS in the MRS-deficient strain in the evolution of $E$ . coli is discussed. ",
+        "bbox": [
+            511,
+            146,
+            908,
+            186
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "28. Tenaillon O, Le Nagard H, Godelle B, Taddei F: Mutators and sex in bacteria: conflict between adaptive strategies. Proc Natl Acad Sci USA 2000, 97:10465-10470. ",
+        "bbox": [
+            513,
+            192,
+            903,
+            223
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this paper, the different adaptive strategies of bacterial populations are discussed. The authors, using a mathematical approach, show that recombination limits the ability of mutator bacteria to take over a wildtype population. ",
+        "bbox": [
+            513,
+            224,
+            908,
+            264
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "29. Glickman BW, Radman M: Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc Natl Acad Sci USA 1980, 77:1063-1067. ",
+        "bbox": [
+            513,
+            271,
+            877,
+            302
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "30. Moxon ER, Thaler DS: The tinkerer’s evolving tool-box. Nature 1997, 387:659, 661-652. ",
+        "bbox": [
+            511,
+            308,
+            877,
+            329
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "31. Field D, Magnasco MO, Moxon ER, Metzgar D, Tanaka MM, Wills C, Thaler DS: Contingency loci, mutator alleles, and their interactions. Synergistic strategies for microbial evolution and adaptation in pathogenesis. Ann New York Acad Sci 1999, 870:378-382. ",
+        "bbox": [
+            513,
+            335,
+            893,
+            387
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "32. Taddei F, Matic I, Radman M: cAMP-dependent SOS induction and mutagenesis in resting bacterial populations. Proc Natl Acad Sci USA 1995, 92:11736-11740. ",
+        "bbox": [
+            513,
+            393,
+            900,
+            424
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "33. Metzgar D, Wills C: Evidence for the adaptive evolution of • mutation rates. Cell 2000, 101:581-584. ",
+        "bbox": [
+            513,
+            431,
+            857,
+            451
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References [33•,34•] review the different mechanisms that allow rapid generation of genetic diversity and comment on their implications in the evolution of organisms. ",
+        "bbox": [
+            513,
+            452,
+            908,
+            482
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "34. Chicurel M: Genetics. Can organisms speed their own evolution? • Science 2001, 292:1824-1827.   \nSee annotation to [33•]. ",
+        "bbox": [
+            513,
+            489,
+            898,
+            520
+        ],
+        "page_idx": 3
+    }
+]

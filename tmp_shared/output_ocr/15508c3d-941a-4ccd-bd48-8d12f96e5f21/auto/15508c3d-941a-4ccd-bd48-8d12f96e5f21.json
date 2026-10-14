@@ -1,0 +1,872 @@
+[
+    {
+        "type": "text",
+        "text": "Highly Mismatched Molecules Resembling Recombination Intermediates Efficiently Transform Mismatch Repair Proficient Escherichia coli ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            87,
+            881,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "James Westmoreland,\\* Gregory Porter,\\*\\*1 Miroslav Radman† and Michael A. Resnick\\* ",
+        "bbox": [
+            140,
+            148,
+            849,
+            167
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "LabyouatalnsalHealSciatalnsHeR Triangle Park, North Carolina 27709 and \\*Institut Jacques Monod, 7251 Paris Cedex 05, France ",
+        "bbox": [
+            101,
+            174,
+            901,
+            201
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manuscript received July 16, 1996 Accepted for publication October 7, 1996 ",
+        "bbox": [
+            359,
+            204,
+            638,
+            230
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            459,
+            252,
+            537,
+            263
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ability of related DNAs to undergo recombination decreases with increased sequence divergence. Mismatch repair has been proposed to be a key factor in preventing homeologous recombination; however, the contribution of mismatch repair is not universal. Although mismatch repair has been proposed to act by preventing strand exchange and/or inactivating multiply mismatched heteroduplexes, there has been no systematic study to determine at what step(s) in recombination mismatch repair acts in vivo. Since heteroduplex is a commonly proposed intermediate in many models of recombination, we have investigated the consequences of mismatch repair on plasmids that are multiply mismatched in heteroduplex structures that are similar to those that might arise during recombination. Plasmids containing multiply mismatched regions were transformed into wild-type and Mut Eschericia coli mutants. There was only a $3 0 - 4 0 \\%$ reduction in transformation of $\\mathrm { \\mathbf { M } } \\mathrm { \\mathbf { u t } } ^ { + }$ as compared to mutS and mutL strains for DNAs containing an $18 \\%$ mismatched heteroduplex. The products obtained from mutS hosts differed from those obtained from $\\mathrm { \\mathbf { M } } \\mathrm { \\mathbf { u t } } ^ { + }$ hosts in that there were many more colonies containing mixtures of two plasmids, due to survival of both strands of the heteroduplex. There were nearly 10 times more recombinants obtained from the mutS as compared to the wild-type host. Based on these results and those from other studies with E. coli and yeast, we propose that the prevention of recombination between highly diverged DNAs may be at a step earlier than heteroduplex formation. ",
+        "bbox": [
+            152,
+            267,
+            844,
+            483
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SEQUENCE LAHue 1996). For complex genomes such as those of humans and plants, this may prevent recombination between frequently occurring diverged DNA repeats, thereby stabilizing the genomes (RADMAN 1989). Since DNA-DNA hybridization is not markedly affected by divergence up to $1 5 - 2 0 \\%$ , reduced recombination presumably reflects limitations on the associated processes. In Escherichia coli, this level of divergence can reduce recombination over 105-fold during conjugation or transduction (RAYsSIGUIER et al. 1989). However, double-strand break-induced intraplasmid recombination between $8 \\%$ diverged DNAs was only reduced 20-fold (ABASTADO et al. 1987). For DNAs that were $1 7 \\%$ diverged, reductions in the yeast Saccharomyces cerevisiae varied from an estimated few-fold for spontaneous interchromosomal (BAILIS and ROTHSTEIN 1990) and chromosome-plasmid recombination (PoRTER et al. 1996) to 20- to 30-fold for double-strand break-mediated mitotic recombination (PrIEBE et al. 1994). Meiotic recombination for this level of divergence was greatly reduced (NILssoN-TILLGREN et al. 1986). Decreases of over 100-fold have been observed for mitotic intrachromosomal recombination between $2 5 \\%$ diverged DNAs in yeast (SELVA et al. 1995). ",
+        "bbox": [
+            71,
+            509,
+            477,
+            836
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            509,
+            925,
+            568
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There is a major role for mismatch repair (MMR) systems in preventing interspecies and intrachromosomal homeologous recombination in bacteria (RAYSSIGUIER et al. 1989; PETIT et al. 1991; ZHART et al. 1994; HUMBERT et al. 1995). Repair of mispaired bases arising from replication errors and from recombination has been best characterized in E. coli. At least four genetic loci have been shown to be required for methyl-directed MMR: mutS, mutL, mutH, and uurD [for review, see MoDRICH (1987) and MODRICH and LAHUE (1996)]. The primary functions of their gene products have been determined from in vitro studies (LAHUE et al. 1989). MutS binds to mismatched DNA. MutL associates with the MutS-mismatch complex and activates MutH, which incises the nonmethylated strand at a hemimethylated GATC site. MutH thus directs excision and resynthesis to the nonmethylated (newly synthesized) strand. Neither MutH nor a nonmethylated strand is required if a single-strand break is present in the substrate DNA and ligase is absent. MutL is still essential under these conditions, however, indicating that the function of MutL is not limited to activation of MutH. The uvrD gene product, helicase II, unwinds the DNA, allowing excision and resynthesis to follow MutH incision. ",
+        "bbox": [
+            518,
+            570,
+            923,
+            924
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In yeast the role of the corresponding repair system is less clear and may depend in part on the organization of the recombining DNAs [summarized in PoRTER et al. (1996)]. In mammalian cells, spontaneous recombination between diverged DNAs is much lower than between homologous DNAs (WALDMAN and LIsKAy 1987); however, the importance of MMR remains to be determined. Recently, it was shown that the Msh2 component of the MMR system prevents gene targeting of diverged DNAs into mouse ES cells (De WIND et al. 1995). ",
+        "bbox": [
+            74,
+            91,
+            478,
+            253
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mismatch recognition/repair systems could act in several ways to prevent recombination between highly diverged DNAs. As demonstrated for in vitro recombination systems, MutS and MutL proteins in combination inhibit RecA-mediated strand transfer between diverged DNAs (WORTH et al. 1994). The MMR systems could similarly prevent the formation of recombinants in vivo. Alternatively MMR could result in inactivation of recombinational intermediates due to coincident repair of both strands in DNA hybrids resulting in doublestrand breaks. This has been proposed for meiotic recombination in yeast in which several mismatches might arise in heteroduplexes (BoRTs et al. 1990). A related phenomenon that results in reduced survival of bacteriophage λ heteroduplex molecules containing a few mismatches has been described by DouTrIAux et al. (1986). In addition, there is the possibility that MMR proteins might strongly bind to multiply mismatched DNAs, thereby preventing replication (see DIsCUssIoN). ",
+        "bbox": [
+            72,
+            255,
+            476,
+            536
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Little is known about how MMR acts in vivo to prevent recombination between highly diverged DNAs or why MMR has only a minor effect on homeologous recombination in some systems. In the only studies to specifically address the in vivo fate of multiply mismatched heteroduplexes, KoURILSKY and colleagues (ABASTADO et al. 1984; CAMI et al. 1984) examined the survival of plasmids containing a l-kb internal region of preformed $8 \\%$ diverged heteroduplex DNA. The multiply mismatched heteroduplex (MMD) region resulted in an approximate 10- to 20-fold reduction in transformation as compared to homoduplex (HOD) molecules. While a recA mutation led to an additional threefold decrease, there appeared to be a further two- to threefold reduction in mutL recA or mutS recA double mutants (ABASTADO et al. 1984). However, the MMR effects were not systematically investigated. The frequency of recombined molecules (propagated plasmids having sequence from both strands of the original heteroduplex) was increased in the MMR-deficient strains. There have been no comparable studies in $r e c A ^ { + }$ strains. From these studies, it would appear that multiple mismatches may not always be strong inhibitors of recombination and the role of the MutL/S system in processing long heteroduplexes may be small under some circumstances. ",
+        "bbox": [
+            72,
+            540,
+            476,
+            904
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because so little is known about how MMR might prevent recombination between highly diverged DNAs and why in some systems it has no impact, we investigated the consequences of the MMR system on model molecules that may correspond to intermediates in recombination between highly diverged DNAs. To do this, several types of preformed MMD molecules were transformed into various $\\mathrm { \\mathbf { M } } \\mathrm { \\mathbf { u t } } ^ { + }$ and Mut\" E. coli strains, and the possible effects of MMR were determined. The level of divergence $( 1 8 \\% )$ between the heteroduplexes was comparable to that in various studies of homeologous recombination between diverged genes in mammalian cells (WALDMAN and LIsKAY 1987), between chromosomes of the bacteria $E .$ coli and Salmonella typhimurium (RAyssIGUIER et al. 1989), or chromosomes and genes of the yeast S. cerevisiae and S. carlsbergensis (described above). The intermediates included, but were not limited to, proposed heteroduplexes that might arise during conservative and nonconservative (singlestrand annealing between direct repeats) (MAaryoN and CARROLL 1991; OzENBERGER and ROEDER 1991) recombination. The heteroduplexes were developed from molecules that were fully methylated (i.e., obtained from $E _ { i }$ coli $\\mathrm { D a m } ^ { + }$ strains), since recombination is likely to involve fully methylated DNAs. The heteroduplexes contained single-strand nicks at both ends or a nick at one end and a tail at the other end to facilitate access to MMR (see Figure 1). ",
+        "bbox": [
+            70,
+            904,
+            478,
+            933
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            95,
+            920,
+            478
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Specifically, we have asked (1) can MMD molecules efficiently transform E. coli and what are the structural limitations, (2) does the mismatch repair system act on MMD molecules and is the action affected by the structure of the heteroduplex, and (3) what are the products and is there small-patch and/or long-patch repair? We have found that the $E _ { * }$ coli MMR system has only a small effect on the propagation of multiply mismatched DNAs, suggesting that the impact of MMR may be at steps before or during the formation of large heteroduplexes. ",
+        "bbox": [
+            516,
+            478,
+            920,
+            639
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            613,
+            656,
+            822,
+            668
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Strains: The following isogenic strains were provided by ROEL SCHAAPER of the National Institute of Environmental Health Sciences: KA796: mut\\* ara thi Δprolac, NR8041: mutS101 ara thi Δprolac; NR8040: mutL101 ara thi Δprolac, and NR8039: mutH101 ara thi Δprolac. ",
+        "bbox": [
+            516,
+            676,
+            920,
+            736
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media: LB media and LB-agar plates containing antibiotics were prepared using standard recipes. $\\mathrm { L B } _ { \\mathrm { T e t } }$ plates contained tetracycline at $2 0 ~ \\mu \\bf { \\vec { g } } / m l$ and $\\mathbf { L B _ { a m p } }$ plates contained ampicillin at $1 5 0 ~ \\mu \\mathrm { g / m l }$ . ",
+        "bbox": [
+            516,
+            737,
+            920,
+            786
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Plasmids and oligomers: Plasmid pAL9 was constructed by incorporating the EcoRV-SmaI segment of the thymidine kinase $\\bar { ( } t h )$ gene from HSV1 into the XbaI site of the polylinker region of pTZ18U (purchased from U.S. Biochemicals). pTK9 contains the corresponding portion of the tk gene from HSV2, also at the XbaI site of pTZ18U. Since the XbaI sites were destroyed during manipulations, the BamHI and SalI sites flanking the inserts were used for the preparation of the renatured forms described in Figure 1. The orientations of the 797-bp inserts are shown in Figure 1A. The sources for the tk gene segments were plasmids pAL2 and pTK2 (WALDMAN and LisKAy 1987), which gave rise to pAL9 and pTK9, respectively. ",
+        "bbox": [
+            516,
+            786,
+            920,
+            932
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To form circular plasmids containing HOD and MMD tk inserts flanked by a nick on the BamHI end and a single- or double-strand tail on the opposite strand of the SalI end of the insert, the plasmid pTK9m was constructed. Oligonucleotides were made using an ABI 392 DNA synthesizer and were used to generate the following double-strand molecule: ",
+        "bbox": [
+            70,
+            90,
+            476,
+            164
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Sal Sallconserved destroyed$\\bar { \\mathbf { \\zeta } } ^ { \\prime }$ -TCGACTTCCGTGTTTGAACTAAACT -3'vector → tk HSV2${ \\mathfrak { z ^ { \\prime } } }$ GAAGGCACAAACTTGATTTGAAGCT-5'",
+        "bbox": [
+            69,
+            171,
+            464,
+            234
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This molecule was ligated into the SalI site of pTK9 and the ligation mix was transformed into DH5α. Transformants were analyzed to select for the desired orientation, shown above, in which a Sall site is conserved at the vector/oligo junction but not at the oligo/tk junction. The region containing this insert was then sequenced (Sequenase kit, U. S. Biochemicals) to confirm the sequence and orientation shown above. ",
+        "bbox": [
+            70,
+            243,
+            476,
+            329
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Two other oligomers were also synthesized and used to hybridize to the single-strand tail of tailed plasmids, thus converting the single-strand tail to a double-strand tail. These were pTKmer, $5 ^ { \\prime }$ -AGTTTAGTTCAAACACGGAAGTCGA ${ \\cdot } 3 ^ { \\prime }$ and pTKrevmer, ${ \\mathfrak { z } } ^ { \\prime }$ -ACGTTCAAATCAAGTTTGTGCCTTC-3' (see Figure 1B). ",
+        "bbox": [
+            70,
+            329,
+            478,
+            403
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The transformation efficiencies of the various ampicillinresistant circular constructs shown in Figure 1 were standardized against the tetracycline-resistant plasmid, pACYC184. ",
+        "bbox": [
+            70,
+            403,
+            478,
+            440
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Preparation and purification of HOD and MMD circular constructs: Supercoiled forms of plasmids pAL9, pTK9, and $\\mathbf { p } \\mathbf { T K 9 m }$ were isolated by $\\mathbf { C s C l }$ gradient centrifugation. Each plasmid was linearized at a concentration of $2 0 ~ \\mu \\mathbf { g } / \\mathbf { m } \\mathbf { l }$ using $\\bar { 0 } . 5 ~ \\mathrm { U } / \\mu \\mathrm { l }$ of either SalI or BamHI (NEB). Restriction digests were incubated $6 0 \\ \\mathrm { m i n }$ at $3 7 ^ { \\circ }$ in the manufacturer's recommended buffers. The samples were desalted using Centricon 30 spin filters (Amicon) and final concentrations were adjusted to $1 0 ~ \\mu \\mathbf { g } / \\mathrm { m l }$ in TE $1 0 \\mathrm { \\ m M }$ Tris-HCl $\\mathbf { p H } ~ 8 . 0$ , $1 \\ \\mathrm { m M }$ EDTA). A portion of each desalted sample was run on a $1 . 5 \\%$ agarose gel to ensure that there was no detectable circular DNA remaining in the samples. As little as $2 \\%$ contaminating circular DNA would have been detected, and this amount would not have had a significant effect on our results, because the transformation efficiencies of the multiply mismatched molecules were quite high in every experiment $( \\geq 4 1 \\%$ of that of the corresponding homoduplex form, see Table 1). ",
+        "bbox": [
+            72,
+            441,
+            478,
+            649
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To prepare the constructs shown in Figure 1, $1 0 ~ \\mu \\mathbf { g }$ of a plasmid linearized with BamHI was combined with $1 0 ~ \\mu \\mathbf { g }$ of a plasmid linearized with $s a l$ at a final concentration of 5 $\\mu \\mathrm { { g } / m l }$ each in $2 \\ m 1$ TE. These DNAs were denatured by adding $4 0 0 ~ \\mu 1$ of $1 \\ \\mathrm { N \\ N a O H }$ (final concentration $\\mathbf { 0 . 1 7 N }$ and ${ \\sim } \\mathsf { p H } \\ \\bar { 1 } 3 \\rangle$ and incubating at room temperature for $1 0 \\ \\mathrm { m i n }$ . The samples were then neutralized by adding $5 0 0 \\mu \\mathrm { l }$ of renaturation buffer $_ { \\mathbf { 0 . 8 \\ M \\ N a O A c } }$ , $\\mathbf { 0 . 2 \\ M }$ Tris-HCl ${ \\sim } \\tt p H \\ 3 . 7 )$ and $2 0 0 ~ \\mu \\mathrm { I } ~ 4 ~ \\mathrm { M } ~ \\mathrm { N a C l }$ , followed by incubation at $6 5 ^ { \\circ }$ for $3 0 \\ \\mathrm { m i n }$ to allow renaturation of vector backbone, followed by another incubation at $5 5 ^ { \\circ }$ for $3 0 \\ \\mathrm { m i n }$ to allow multiply mismatched heteroduplex to form between the homeologous th portions of the DNAs. To make constructs with double-strand tails, 1.2 nmol of either pTKmer or pTKrevmer oligomer were included in the annealing mix, and annealing was done in the same way as for the other constructs, except that the $3 0 { \\cdot } \\mathrm { m i n }$ incubation at $5 5 ^ { \\circ }$ was followed by slow cooling to room temperature. The samples were then desalted and concentrated to a volume of $\\mathbf { 0 . 5 \\ : \\dot { m } l }$ TE using Centricon 30 spin filters. ",
+        "bbox": [
+            72,
+            650,
+            479,
+            881
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "From each desalted, concentrated annealing reaction, 0.5 ml was run on a preparative $1 . 5 \\%$ SeaKem GTG agarose gel in TAE buffer containing $7 5 \\ \\mathrm { n g } / \\mathrm { m l }$ ethidium bromide at 75 $\\mathbf { V }$ for ${ \\sim } 5 \\ \\mathrm { h r }$ The gel was then placed on a sheet of aluminum foil on a transilluminator such that when the UV source was turned on, the sides of the gel were barely illuminated. The left and right edges of the gel were quickly marked just above and below the region containing the relaxed circular forms so that the entire band could be removed after the UV source had been turned off. The left and right edges of the gel slice were also discarded. These procedures were used to assure that the DNA was not exposed to UV. The gel slice was placed in a dialysis bag and the DNA was removed from the gel by electrophoresis at ${ \\bf 1 0 0 ~ V }$ for $2 \\ \\mathbf { h r }$ in TAE without ethidium bromide. This also removed the ethidium bromide from the DNA. The gel slice was then removed from the dialysis bag, and the dialysis bag containing the DNA was electrophoresed an additional 2 hr in fresh TAE to remove any remaining ethidium bromide from the DNA. This was followed by extensive dialysis in TE at $4 ^ { \\circ }$ Usually a volume of $\\mathbf { 4 - 6 } \\ \\mathrm { m l }$ of sample was recovered from the bag, and this was clarified by centrifugation to remove agarose gel particles. Centricon 30 filter units were used to concentrate the DNA to $1 0 - 3 0 \\ \\mu \\mathbf { g } / \\mathbf { m l }$ and the samples were quantitated by running them alongside known standard concentrations of linearized pAL9. A portion of each sample was diluted to $0 . 2 \\mathrm { n g } / \\mu 1$ for use in transformation experiments, and both the stock and dilute solutions were stored at $4 ^ { \\circ }$ for up to 12 months with no detectable loss in transformation efficiency. ",
+        "bbox": [
+            70,
+            882,
+            478,
+            930
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            88,
+            920,
+            397
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Constructs containing single-strand tails formed significant amounts of complexes during the processing that followed gel-purification, probably as a result of duplex formation between $5 ^ { \\prime }$ and ${ \\mathfrak { z ^ { \\prime } } }$ tails from different tailed molecules (such complexes did not form in preparations of nicked or doublestrand tailed circular forms). Warming the preparation to $6 5 ^ { \\circ }$ for $5 \\ \\mathrm { m i n }$ eliminated the complexes from the preparation without linearizing the relaxed circular molecules. ",
+        "bbox": [
+            516,
+            397,
+            922,
+            496
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Transformation: Competent $E _ { i }$ coli cells were prepared using the procedure of CHUNG and MILLER (1988) and stored at $\\overline { { - 7 0 ^ { \\circ } } }$ Transformation efficiencies were usually in the range of $\\mathsf { 5 } \\mathrm { - } \\mathsf { 5 } 0 \\times \\mathsf { 1 } 0 ^ { 7 }$ transformants per $\\mu \\mathbf { g }$ of circular DNA. For each transformation, $1 ~ \\mathrm { \\mathrm { n g } }$ of one of the ampicillin-resistant HOD or MMD constructs shown in Figure 1 was combined with $1 \\ \\mathrm { n g }$ of the tetracycline-resistant plasmid, pACYC184, used as a standard. (Constructs containing single-strand tails were warmed to $6 5 ^ { \\circ }$ for $5 \\ \\mathrm { m i n }$ to dissociate complexes and then placed on ice just before transformation.) Then $1 0 0 ~ \\mu \\mathrm { l }$ of freshly thawed competent cell suspension was added to the DNA. The mixture of cells and DNA was incubated $1 5 \\ \\mathrm { m i n }$ on ice and heat shocked for $1 0 \\ \\mathrm { m i n }$ at room temperature. After this, 1 ml LB was added and the culture was aerated at $3 7 ^ { \\circ }$ for $4 0 \\ \\mathrm { m i n }$ before plating dilutions to $\\mathbf { L B _ { a m p } }$ and $\\mathbf { L B _ { t e t } }$ plates. In several transformation experiments, cells were also plated to $\\mathbf { L B _ { a m p + t e t } }$ to determine the rate of cotransformation. The proportion of tetracycline-resistant colonies that were also ampicillin resistant ranged from 2 to $5 \\%$ , and we regard this as an approximation of the proportion of ampicillin-resistant transformants in which at least two heteroduplexes were incorporated. ",
+        "bbox": [
+            518,
+            497,
+            922,
+            767
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Characterization of transformant plasmids: Plasmids from mutS colonies that arose after transformation with nicked or single-strand tailed circles were isolated using a standard boiling miniprep method. The $^ { t k }$ inserts of these plasmids were characterized using ApaI and KpnI restriction enzymes (NEB) according to the manufacturer's recommended conditions. ",
+        "bbox": [
+            518,
+            769,
+            922,
+            841
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            685,
+            865,
+            753,
+            877
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Generation of multiply mismatched molecules for transformation into $\\pmb { \\mathscr { E } } .$ \\*coli: We examined the consequences of mismatch repair on MMD molecules that are considered to represent DNAs that have undergone early steps in recombination (Figure 1). Three types of circular MMD and HOD molecules were prepared. These were nicked, single-strand tailed, and doublestrand tailed forms. ",
+        "bbox": [
+            516,
+            888,
+            922,
+            932
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/55071ef5948bfb64e18ee95040bd477dc552709a366e375c5ca9b8c8f7e5c787.jpg",
+        "image_caption": [
+            "FIGURE 1.—Generation of circular MMD molecules for transformation into $\\mathrm { { \\bf { M u t } ^ { + } } }$ and $\\mathbf { M } \\mathbf { u } \\mathbf { t } ^ { - }$ hosts. (A) Nicked MMD molecules containing 797 bp of heteroduplex DNA were constructed by linearizing the tkHSV2-containing plasmid (pTK9) with SalI (s), and the tkHSV1-containing plasmid (pAL9) with BamHI (b). The linearized plasmids were combined, denatured and renatured to yield a mix of linear, parental molecules and two types of circular MMD molecules having either $3 ^ { \\prime }$ or $5 ^ { \\prime }$ terminal tk nucleotides at the nicks. The two circular forms were separated from the linear molecules by preparative agarose gel electrophoresis. (B) Tailed MMD molecules were constructed in the same way except that pTK9 was replaced by $\\mathbf { p } \\mathbf { T K 9 m }$ , which has an additional 25 bp at the SalI end of the tkHSV2 insert. (The 25-bp insertion conserved the SalI site at the vector junction, but not at the tkHSv2 junction.) The resulting gel-purified circular molecules were a mixture of ${ \\mathfrak { Z } } ^ { \\prime }$ and ${ \\bar { 5 } } ^ { \\prime }$ single-strand tailed forms, corresponding to the two nicked circular forms mentioned above. For some preparations, oligonucleotides complementary to the $3 ^ { \\prime }$ or $5 ^ { \\bar { \\prime } }$ single-strand tails were used in the annealing mix to make circular MMD molecules with double-strand tails. By using either or both oligonucleotides in the annealing mix, it was possible to make preparations in which the tails of only the ${ \\bar { \\boldsymbol { 3 } } } ^ { \\prime }$ or $5 ^ { \\prime }$ tailed form, or of both forms of circular, tailed MMD molecules were double-stranded. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            71,
+            91,
+            482,
+            392
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            73,
+            731,
+            478,
+            802
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The nicked MMD forms were made by cleaving the parental molecules in different positions, followed by denaturation and reannealing. The sites used were SalI for plasmid pTK9, which contained a segment of the thymidine kinase gene from herpes simplex virus 2 (tkHSV2), and BamHI for plasmid pAL9, which was identical to pTK9 except that tkHSV2 was replaced by tkHSV1, which is homeologous to tkHSV2. Preparative gel electrophoresis was used to separate the circular hybrids from linear homoduplex molecules that arose from reannealed parental strands. The purified circular MMD molecules contained flanking, ligatable nicks on opposite strands at the BamHI and SalI cut sites, and there were 797 bp of heteroduplex between these nicks. This heteroduplex region contained 140 base-base mismatches, corresponding to $1 8 \\%$ divergence, and included nine and 13 bases of precise homology at the Sall and BamHI ends, respectively. ",
+        "bbox": [
+            73,
+            804,
+            478,
+            935
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            92,
+            926,
+            226
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tailed circular MMD forms were made by substituting Sall linearized $\\mathrm { p T K 9 m }$ (see MATERIALS AND METHODs) for Sall linearized pTK9 in the annealing mix. The heteroduplex region of the tailed forms was identical to that of the nicked forms, except for the presence of a 25-nucleotide (nt) tail at the Sall end instead of a nick (Figure 1B). Hybridization of a 25-nt oligomer to the single-strand tailed molecules resulted in a tripartite structure containing a double-strand tail (Figure 1B) that is similar to commonly proposed recombination intermediates, although there is no opportunity for branch migration. The HOD versions of each form were prepared by replacing BamHI-linearized pAL9 with BamHI-linearized pTK9 in the annealing mix. ",
+        "bbox": [
+            521,
+            229,
+            926,
+            438
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Heteroduplex molecules with multiple mismatches efficiently transform ${ { \\bf { M u t } } ^ { + } }$ and Mut\" strains: To assess the ability of MMR to act on a multiply mismatched recombination intermediate, the various DNAs were transformed into $\\mathrm { M m r ^ { + } }$ and $\\mathbf { M } \\mathbf { m } \\mathbf { r } ^ { - }$ strains and the efficiencies of transformation were determined. To compare the transformation ability of MMD and HOD molecules within and between strains, cells were transformed with a DNA mixture containing approximately equal amounts of circular hybrid molecules (MMD or HOD identified by $\\mathrm { A m p ^ { R } } \\}$ and control plasmid pACYC184 (Tet\"), and the ratio of MMD (or HOD) to control transformants was determined $( \\mathbf { R _ { M M D / C } }$ and ${ \\bf R } _ { \\mathrm { H O D / C } } ,$ The relative efficiency of transformation by MMD vs. HOD was calculated as $\\mathrm { R _ { M M D / H O D } = \\langle R _ { M M D / C } \\rangle / ( R _ { H O D / C } ) }$ . ",
+        "bbox": [
+            519,
+            441,
+            926,
+            666
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The transformation efficiencies of the various types of molecules described in Figure 1 are presented in Table 1. There is generally good agreement for individual strains, and hybrid molecules between experiments and between preparations in the values ${ \\bf R } _ { \\mathrm { M M D / C } } , \\ { \\bf R } _ { \\mathrm { H O D / C } } ,$ and ${ \\bf R _ { M M D / H O D } }$ . The Wilcoxon Rank Sum test was used to compare ${ \\bf R _ { M M D / H O D } }$ values in Table 1. The ${ \\bf R _ { M M D / H O D } }$ values for the various molecules were pooled for each genotype and comparisons were made between the pools. (In general, there were insufficient data to compare results between different types of molecules.) Based on the Wilcoxon Rank Sum test, the wild-type values differed significantly from those obtained with the mutS and mutL strains indicating that the corresponding functions in wild-type strains could reduce the ability of MMD molecules to be propagated. However, the observed differences were small; the mean values for the pooled data were 0.49, 0.78 and 0.67, respectively, for the wild-type, b Indicates different preparations of DNA. ",
+        "bbox": [
+            519,
+            666,
+            925,
+            934
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e0813e592b4d36b609598e35fe78c501b852b0200ac4402b73929d2be41e0bb.jpg",
+        "table_caption": [
+            "TABLE 1 Transformation efficiencies of mismatch proficient and mutant strains by multiply mismatched and homoduplex tailed and nicked molecules "
+        ],
+        "table_footnote": [
+            "MMD, multiply mismatched; HOD, homoduplex. Values are the average of the individual experiments with the values from separate experiments arranged in paired order in parentheses. Values in parentheses correspond to results from different experiments with the same DNA preparations. "
+        ],
+        "bbox": [
+            129,
+            137,
+            869,
+            680
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            149,
+            733,
+            431,
+            745
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The definitions of $R$ are described in the text ",
+        "bbox": [
+            151,
+            747,
+            466,
+            758
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The relativency taie by viing the vergevalus for $( \\mathbf { R } _ { \\mathrm { { M M D / C } } } )$ and $( \\bf R _ { H O D / C } )$ ",
+        "bbox": [
+            146,
+            758,
+            779,
+            770
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "mutS and mutL strains. The wild-type and mutH values were not significantly different. ",
+        "bbox": [
+            71,
+            788,
+            480,
+            816
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since the same mixture of DNAs (i.e., MMD or HOD plus control plasmid) was used to transform the various isogenic strains, a relative transformation ability $\\mathbf { R _ { A } } =$ $( \\mathrm { R _ { M M D / H O D } } ) w t / ( \\mathrm { R _ { M M D / H O D } } )$ mut of the wild-type strains us. the various mutants could be determined (Table 2). The relative ability of branched double-stranded molecules containing a multiply mismatched region to transform wild-type cells was only reduced approximately one-third as compared to isogenic mutS and mutL strains (Table 2). These results suggest that whereas the MMR system can almost eliminate recombination between diverged DNAs during conjugation, it has a small effect on preformed molecules that have structures similar to those expected during recombination. The small decrease in the $\\mathbf { R _ { A } }$ appears to be specific to the presence of the MutS/MutL components since the transformation abilities of the MMD molecules in isogenic mutH and wild type were comparable (Table 2). ",
+        "bbox": [
+            73,
+            817,
+            480,
+            934
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            789,
+            926,
+            934
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/f8e60902a02c6101392c1cc8eb80fcff8f5e2ed414f80bbb028661e96535a726.jpg",
+        "table_caption": [
+            "TABLE 2 Relative transformation ability of MMD molecules in mismatch repair deficient strains "
+        ],
+        "table_footnote": [
+            "Relative ability corresponds to relative efficiency in wildtype us. Mut\" strains (see text). Values in parentheses correspond to results with different DNA preparations (see Table 1). "
+        ],
+        "bbox": [
+            71,
+            142,
+            480,
+            320
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Four other groups of heteroduplexes were examined. One group was a mixture of molecules that had either a ${ 3 ^ { \\prime } }$ or ${ \\mathfrak { H } } ^ { \\prime }$ protruding single-strand tail at the proximal end (see Figure 1B) of the heteroduplex and a nick on the complementary strand at the opposite end of the heteroduplex. Two other groups of proximal tailed molecules were composed of a mixture of singlestranded $3 ^ { \\prime }$ and double-stranded $5 ^ { \\prime }$ tails or singlestranded ${ \\mathfrak { z } } ^ { \\prime }$ and double-stranded ${ \\mathfrak { z ^ { \\prime } } }$ tails. We also examined the consequences of a ligatable nick at each end of the heteroduplex (Figure 1B). Such molecules might be efficiently ligated and less likely to be subject to MMR. The results were comparable to those obtained with the double-strand tailed molecules (Table 2). For all molecules tested, there was reduction in the values of $\\mathbf { R _ { A } }$ for the mutS and mutL strains and the reduction was generally ${ \\sim } 3 0 { \\ - } 4 0 \\%$ . The reduction was specific to the presence of these genes; the $\\mathbf { R _ { A } }$ of MutH did not appear different from a value of one (Table 2). The absence of a tail had little effect on interactions of MMR with the heteroduplex, although restriction analysis of transformant plasmid products showed that there was preferential loss of the tailed strand among transformants arising from tailed HOD molecules (see below and Table 3). ",
+        "bbox": [
+            73,
+            396,
+            478,
+            736
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            92,
+            926,
+            120
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis of MMD transformants from Mut+ and mutS strains: The reduction in relative transformation efficiency of the wild type as compared to mutS and mutL indicated that the MMR system could act to a limited extent on the multiple mismatches in the tailed and the nicked heteroduplexes. The effect of MutS was examined further through restriction analysis of the resulting transformants (Table 3). Transformants could be classified according to whether they contained plasmids derived from both strands of the original heteroduplex (mixed) or the plasmids corresponded to one or the other original strand (pure). The former would be expected if there were no MMR processing of the preformed heteroduplex. This could occur if the potential entry sites for excision/resynthesis (tails and nicks flanking the heteroduplex) were made covalently continuous. For the tailed forms, this would require removal of the tail as well as ligation of both nicks followed by replication of both strands. It was also possible to assess whether a plasmid was recombinant, i.e., it contained sequence corresponding to both strands in the original heteroduplex (also see ABAsTADo et al. 1984; CAMI et al. 1984). Two categories of recombinant molecules were observed, one-end mosaic and patched mosaic. The first category could have resulted from partial copying of the complementary strand from one end and the patched mosaic molecules could have resulted from repair events in which both ends of the repair tract were contained within the initial heteroduplex. ",
+        "bbox": [
+            519,
+            121,
+            925,
+            545
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Transformants of wild-type cells with tailed or nicked heteroduplex molecules contained primarily (85- $90 \\%$ one kind of plasmid. Almost all the remaining transformants had plasmids that were derived from both strands of the transforming heteroduplex (mixed) and there were few recombinants. As expected, there was no preference for either strand among the pure colonies derived from nicked heteroduplex. For the pure colonies derived from the tailed plasmids, there was an approximate 2:1 bias toward retention of the nicked strand. This may reflect a greater opportunity for the nicked strand to be ligated or for the tailed strand to be attacked. ",
+        "bbox": [
+            519,
+            547,
+            925,
+            734
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e9522c6c849907f05f589c05aefdba6333ed18e849690bec479204886d7fd1ac.jpg",
+        "table_caption": [
+            "TABLE 3 "
+        ],
+        "table_footnote": [
+            "RALHVTV whi   i p asbn "
+        ],
+        "bbox": [
+            71,
+            793,
+            926,
+            907
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The effect of MMR is revealed in plasmids obtained from the wild-type us. mutant transformants. There was a reduction in pure colonies and a threefold increase in the mixed category along with the increase in transformation efficiency in the mutS host. There was also a considerable increase in one-end recombinants recovered after transformation of the mutS $( 9 \\% )$ as compared to $\\mathbf { M u t } ^ { + }$ strains $( < 1 \\% )$ with either nicked or tailed molecules. This latter observation is unexpected if it is assumed that excision is dependent on the MutS pathway (see DIscussIoN). Only two patched molecules were identified among 407 transformants examined, suggesting that internal excision of large regions was rare in the wild-type and the mutS strains. There may have been additional patched mosaics that were not detectable by restriction analysis because the patches did not span any of the six restriction site locations that were analyzed. ",
+        "bbox": [
+            71,
+            90,
+            477,
+            357
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Using ApaI and KpnI, the breakpoints of the recombinants could be assigned to restriction fragments (Table 4) in regions 240 bp from one end and 122 bp from the other end. After accounting for the size of the fragments in which the breakpoints occurred and the extent of DNA divergence, there did not appear to be any preference for breakpoint position over the 435-bp region in which breakpoints were analyzed. ",
+        "bbox": [
+            72,
+            358,
+            478,
+            477
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            230,
+            497,
+            323,
+            511
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The opportunity to recombine two molecules in vivo is reduced with increased divergence of the partners. Possible reasons for reduced recombination are inhibition of association (a problem with synapsis), reduced capability for strand exchange, and inactivation of DNA containing a multiply mismatched heteroduplex intermediate. While MMR systems have been implicated in the latter two, their role has not always been clear. In E. coli, conjugational and intrachromosomal homeologous recombination are greatly reduced (RAYssIGUIER et al. 1989; PETIT et al. 1991). However, MMR shows only a small effect on transformation with highly diverged DNAs in Pneumococcus (HuMBERT et al. 1995). In yeast, the E. coli MutL homologue, Pms1p, has little influence on recombination and the ability of MutS homologues to specifically affect homeologous recombination depends on the arrangements of the recombining molecules and the extent of divergence (PRIEBE et al. 1994; SELVA et al. 1995; DATTA et al. 1996; PORTER et al. 1996). ",
+        "bbox": [
+            74,
+            522,
+            480,
+            816
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A heteroduplex is generally considered to be an intermediate in recombination. A heteroduplex with many mismatches might be expected to be a target for MMR, potentially resulting in its destruction through overlapping repair of opposite strands. The system we developed directly addressed the potential for MMR to inactivate a MMD in $E _ { i }$ coli. Two categories of MMD molecules were examined that had discontinuities at each end of the heteroduplex to provide greater access to MMR. In one category there was a ligatable nick at each end and in the other category one of the ends had a tail that was expected to result in a longer-lived discontinuity. As shown in Figure 1B, the molecules with double-strand tails are similar to proposed intermediates in many models of recombination in that there is a nicked or continuous strand (if ligation occurs) and an invading strand. The DNA in the present experiments was methylated as might be expected for recombining molecules. The level of divergence $( 1 8 \\% )$ was comparable to that which is known to prevent conjugational recombination (RAYssIGUIER et al. 1989). ",
+        "bbox": [
+            74,
+            818,
+            480,
+            933
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            90,
+            922,
+            282
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Relative to transformation into a mutS and mutL host, the presence of multiple mismatches reduced the wildtype transformation efficiency to a comparable extent for all categories of molecules examined. However, the effect of the MMR on transformation efficiency was considerably smaller than its reported effects in preventing genetic recombination in $E _ { \\mathrm { { \\ell } } }$ coli in that there was only a $3 0 - 4 0 \\%$ reduction (vs. orders of magnitude). There was little effect of mismatches us. no mismatches on efficiency of transformation in the mutS and mutL strains, based on comparisons between the various MMD molecules and either the HOD molecules or control covalent homoduplex plasmids (Table 1). These results are supported by studies of CAMI et al. (1984) and ABAsTADO et al. (1984) in which preformed heteroduplexes containing $8 \\%$ diverged DNAs were used. However, they did not use molecules that were similar to recombination intermediates nor was there a systematic study of the role of the MMR system. ",
+        "bbox": [
+            519,
+            283,
+            923,
+            564
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The transformation efficiency of MMD molecules in the mutH strain was approximately the same as in $\\mathrm { { \\mathbf { M } } u t ^ { + } }$ . This result is consistent with studies involving a single mismatch that show that the role of MutH is to incise an unmethylated GATC distant from the mismatch to provide an access point for excision and resynthesis of the unmethylated strand (LAHUE et al. 1989). Although the molecules in our system were methylated, thus preventing MutH incision, the presence of nicks or tails in the constructs were expected to serve as excision/ resynthesis entry sites. ",
+        "bbox": [
+            519,
+            565,
+            925,
+            727
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "While small, the reduction in transformation in Mut\\* compared to mutS or mutL strains argues that the MMR system had access to the transforming molecules even though there was a potential for ligation of at least one end and possibly both ends of the heteroduplex. Along with the reduction in transformation, there was a change in the spectrum of plasmid products recovered from the $\\mathrm { \\mathbf { M } u t ^ { + } }$ transformants as compared to mutS. For the nicked molecules, $8 5 - 9 0 \\%$ of the MMD transformants of the $\\mathbf { M } \\mathbf { u t } ^ { + }$ host contained plasmids derived from only one or the other strand of the original MMD, whereas for the mutS host over $4 0 \\%$ contained mixtures of two plasmids. The approximately threefold increase in mixed transformants suggests a greater likelihood of both strands surviving in the mutS strain. An unexpected consequence of transformation of MMDs into the mutS strain was the appearance of one-ended mosaics and the lack of such molecules among transformants of $\\mathbf { M u t } ^ { + }$ strains (discussed below). Similar results were obtained in the studies of ABAsTADO et al. (1984) in that there were more recombinants from a recA Mut as compared to a recA $\\mathrm { { \\mathbf { M } } u t ^ { + } }$ host. It thus appears that while inactivation of the MMR system has only a small effect on transmission of MMD plasmids, there is a nearly 10-fold increase in the likelihood that the sequence will be modified in an MMR-independent fashion to yield mosaics (Table 3). ",
+        "bbox": [
+            519,
+            730,
+            925,
+            934
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/ff46375f399af09bf66458957633866c32d9be062dfd87e23bf24d6f3576a101.jpg",
+        "table_caption": [
+            "TABLE 4 Breakpoints of recombinants "
+        ],
+        "table_footnote": [
+            "rgons  whih reao cc wte y rstn naly us p  n . Te restriction sites are identified by the enzyme and the position (i.e., A240). bSingle and double breakpoints correspond to the one-ended and patched recombinants described in the text. as well as a recombinant. determined. restriction patterns. "
+        ],
+        "bbox": [
+            66,
+            131,
+            923,
+            562
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            701,
+            478,
+            892
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "These results, which demonstrate only a small effect of the MMR system on transformation ability by diverged molecules, are in many ways comparable to results for transformation in Pneumococcus (HuMBERT et al. 1995) and for recombination between some types of diverged molecules in the yeast S. cerevisiae, where eukaryotic homeologous recombination has been most extensively studied (see MODRICH and LAHUE 1996; PORTER et al. 1996 and references therein). While it has been established in E. coli that DNA divergence acts as a large barrier to recombination, the present results suggest that if a heteroduplex intermediate is formed between diverged DNAs, it is relatively insensitive to MMR. There are no in vitro results addressing MMR of molecules containing multiple mismatches; however, results of WoRTH et al. (1994) have demonstrated that mismatches in conjunction with MutS and MutL proteins can strongly inhibit RecA-mediated strand exchange from a homologous into a diverged region. In yeast, it appears that recombination between highly diverged DNAs $( 1 0 - 2 0 \\% )$ is prevented by MMR for some organizations of DNA but not for others (discussed in PoRTER et al. 1996). A model has been developed to explain this (PRIEBE et al. 1994; PORTER et al. 1996) wherein replication-driven recombination between diverged DNAs is not subject to MMR (discussed below). It was suggested that recombination that is initiated in a region external to the diverged sequences might be prevented from extending into the diverged regions by MMR. ",
+        "bbox": [
+            71,
+            893,
+            478,
+            936
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            701,
+            923,
+            935
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            73,
+            91,
+            482,
+            240
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The present results demonstrate an interaction between Mut proteins and the MMD molecules resulting in mostly pure plasmid products and few mosaics in Mut+ colonies. We suggest that either (1) the MMR proteins bind to many of the mismatches thereby affecting subsequent processes or (2) there is efficient degradation of one of the two strands. In the first scenario the MMR MutS plus MutL complexes bind to several sites and somehow preclude MMR interactions of the sort typically observed for single mismatches, which would account for the lack of mosaic molecules. Possibly complete MMR complexes are prevented from binding in close proximity. Such multiple binding could be responsible for the $3 0 - 4 0 \\%$ reduction in transformation, possibly by inhibiting replication. If that were the case, both strands could be more efficiently replicated in ${ \\bf M m r } ^ { - }$ strains, consistent with the results described in Table 3. The binding to heteroduplex could also prevent nick translation. Nick translation might account for the frequent one-ended mosaics recovered from mutS transformants. The lack of patched recombinant molecules in both the Mut\\* and mutS strains is consistent with this interpretation. An alternative interpretation is based on efficient MMR starting at one of the nicks or tails that flank the diverged heteroduplex. Once initiated on a strand, the frequent mismatches assure that the MMR continues to the homoduplex region. The one-end mosaic molecules in the Mmr\\~ strains could still be due to nick translation. ",
+        "bbox": [
+            73,
+            241,
+            480,
+            669
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our results differ from those of ABAsTADo et al. (1984) where the frequencies of patched molecules among mutS transformants were much higher. Among the possible reasons for the differences are that the molecules they used were less diverged (8 vs. $1 8 \\%$ in the present study), the strains were recA, and the heteroduplex regions were covalently imbedded within large stretches of homologous heteroduplex. Regardless, it would be interesting to determine the reasons for the patched and multiply patched molecules that they observed and whether other systems such as excision repair (HuANG et al. 1994) might be responsible. ",
+        "bbox": [
+            73,
+            671,
+            480,
+            847
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We suggest that the action of MMR on highly diverged DNAs undergoing recombination may occur primarily at the strand exchange step or earlier, and this would account for the barrier to recombination in $\\pmb { { \\cal E } } .$ coli (MATIC et al. 1995). However, once multiply mismatched heteroduplexes are formed, MMR has only a small effect. For heteroduplex DNAs that are generated with few mismatches, MMR would be expected to be efficient, as has been reported. This proposal is also consistent with our model for replication-initiated recombination between highly diverged DNAs in yeast. Based on results observed for double-strand break initiated recombination and spontaneous plasmid/chromosome recombination in various Mut\" strains, we suggested that recombination between highly diverged DNAs might be initiated and stabilized by strand invasion into a short region of homology followed by replication (PRIEBE et al. 1994; PORTER et al. 1996). The stable heteroduplex containing the newly synthesized strand would not have mismatches and therefore would not be subject to MMR. ",
+        "bbox": [
+            71,
+            848,
+            478,
+            935
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            91,
+            926,
+            313
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to ALLEN WALDMAN and MICHAEL LISKAY for the plasmids pAL2 and pTK2, and to ROEL SCHAAPER for the isogenic Mut\\* and Mut\" series of E. coli strains. This work was supported in part by a NATO Collaborative Research Grant 910135 to M.A.R. ",
+        "bbox": [
+            519,
+            323,
+            926,
+            371
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LITERATURE CITED ",
+        "text_level": 1,
+        "bbox": [
+            646,
+            391,
+            797,
+            405
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ABASTADO, J.-P., B. CAMI, T. H. DINH, J. IgOLEN and P. KOURILSKY, 1984 Processing of complex heteroduplexes in Escherichia coli and Cos-1 monkey cells. Proc. Natl. Acad. Sci. USA 81: 5792- 5796.   \nABASTADO, J.-P., S. DARCHE, F. GODEAU, B. CAMI and P. KOURILSKY, 1987 Intramolecular recombination between partially homologous sequences in Escherichia coli and Xenopus laevis oocytes. Proc. Natl. Acad. Sci. USA 84: 64966500.   \nBAILIS, A. M., and R. RoTHSTEIN, 1990 A defect in mismatch repair in Saccharomyces cerevisiae stimulates ectopic recombination between homeologous genes by an excision repair dependent process. Genetics 126: 535547.   \nBORTS, R. H., W.-Y. LEUNG, W. KrAMER, B. KrAMER, M. WILLIAMSON et al., 1990 Mismatch repair-induced meiotic recombination requires the PMS1 gene product. Genetics 124: 573584.   \nCAMI, B., P. CHAMBON and P. KOURILSKY, 1984 CorrectiOn of complex heteroduplexes made of mouse H-2gene sequences in Escherichia coli K-12. Proc. Natl. Acad. Sci. USA 81: 503-507.   \nCHUNG, C. T., and R. H. MILER, 1988 A rapid and convenient method for the preparation and storage of competent bacterial cells. Nucleic Acids Res. 16: 3580.   \nDATTA, A., A. AdoUDA, L. NEw, G. CrousE and S. Jinks-RobeRtSOn, 1996 Mitotic crossovers between diverged sequences are regulate byismatch epair rotens in Saccayc crisia. Mol. Cell. Biol. 16: 10851093.   \nDe Wind, N., M. Dekker, A. Berns, M. RadMan and H. TE RieLe, 1995 Inactivation of the mouse Msh2 gene results in mismatch repair deficiency, methylation tolerance, hyperrecombination, and predisposition to cancer. Cell 82: 321330.   \nDOUTRIAUX, M.-P., R. WAGNER and M. RADMAN, 1986 Mismatchstimulated killing. Proc. Natl. Acad. Sci. USA 83: 25762578.   \nHUANG, J.-C., D. S. HSU, K. ALEKSEY and A. SANCAR, 1994 Substrte spectrum of human excinuclease: repair of abasic sites, methylated bases, mismatches and bulky adducts. Proc. Natl. Acad. Sci. USA 91: 12213-12217.   \nHUMBERT, O., M. PRUDHOMME, R. HAkENBECK, C. G. DOWSON and J. P. CLAVERYs, 1995 Homeologous recombination and mismatch repair during transformation in Streptococcus pmeumoniae: saturation of the Hex mismatch repair system. Proc. Natl. Acad. Sci. USA 92: 90529056.   \nLAHUE, R. S., K. G. AU and P. MODRICH, 1989 DNA mismatch correction in a defined system. Science 245: 160164.   \nMARYON, E., and D. CARROLL, 1991 Characterization of recombination intermediates from DNA injected into Xenopus lacvis oocytes: evidence for a nonconservative mechanism of homologous recombination. Mol. Cell. Biol. 11: 32783287.   \nMATIC, I., C. RAYSSIGUIER and M. RADMAN, 1995 Interspecies gene exchange in bacteria: the role of SOS and mismatch repair systems in evolution of species. Cell 80: 507515.   \nMODRICH, P., and R. LAHUE, 1996 Mismatch repair in replication fidelity, genetic recombination, and cancer biology. Ann. Rev. Biochem. 65: 101133.   \nNiLsson-TiLlgren, T., C. GJErMansen, S. HolmBerG, J. G. L. PetERSEN and M. C. KIELLAND-BRANDT, 1986 Analysis of chromosome Vand the ILV1 gene from Saccharomyces carlsbergensis. Carlsberg Res. Commun. 51: 309-326.   \nOZENBERGER, B. A., and G. S. RoEDER, 1991 A unique pathway of double strand break repair operates in tandemly repeated genes. Mol. Cell. Biol. 11: 12221231.   \nPETIT, M.-A., J. DIMPFL, M. RADMAN and H. ECHOLS, 1991 Control of large chromosomal duplications in Escherichia coli by the mismatch repair system. Genetics 129: 327332.   \nPORTER, G., J. WESTMORELAND, S. PRIEBE and M. A. RESNICK, 1996 Homologous and homeologous intermolecular recombination are not differentially affected by mutations in the DNA damage or the mismatch repair genes Radl, Rad50, Rad51, Rad52, Rad54, Pmsl and Msh2. Genetics 143: 755767.   \nPriEBE, S. D., J. WEsTMoreLANd, T. Nilsson-TiLLgrEN and M. A. Res NICK, 1994 Induction of recombination between homologous and diverged DNAs by double-strand gaps and breaks and role of mismatch repair. Mol. Cell. Biol. 14: 48024814.   \nRADMAN, M., 1989 Mismatch repair and the fidelity of genetic recombination. Genome 31: 6873.   \nRAYSSIGUIER, C., D. S. THALER and M. RADMAN, 1989 The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342: 396 401.   \nSELVA, E. M., L. NEW, G. F. CROUSE and R. S. LAHUE, 1995 Mismatch correction acts as a barrier to homeologous recombination in Saccharomyces cerevisiae. Genetics 139: 1175-1188.   \nWALDMAN, A. S., and R. M. LIsKAY, 1987 Differential effects of basepair mismatch on intrachromosomal us. extrachromosomal recombination in mouse cells. Proc. Natl. Acad. Sci. USA 84: 5340 5344.   \nWORTH, L., S. CLARK, M. RADMAN and P. MODRICH, 1994 Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs. Proc. Natl. Acad. Sci. USA 91: 32383241.   \nZHART, T. C., G. C. MORA and S. MALOY, 1994 Inactivation of mismatch repair overcomes the barrier to transduction between Salmonella typhimurium and Salmonella typhi. J. Bacteriol. 176: 1527 1529. ",
+        "bbox": [
+            519,
+            410,
+            926,
+            936
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            89,
+            480,
+            351
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            89,
+            926,
+            329
+        ],
+        "page_idx": 9
+    }
+]

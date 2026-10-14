@@ -1,0 +1,492 @@
+[
+    {
+        "type": "text",
+        "text": "How good is our genome? ",
+        "text_level": 1,
+        "bbox": [
+            297,
+            112,
+            693,
+            136
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jean-Claude Weill and Miroslav Radman ",
+        "bbox": [
+            279,
+            177,
+            712,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Faculte de Medecine Necker Enfants-Malades, Universite´ de Paris-V, Paris, France (weill@necker.fr; radman@necker.fr) ",
+        "bbox": [
+            100,
+            202,
+            889,
+            214
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Our genome has evolved to perpetuate itself through the maintenance of the species via an uninterrupted chain of reproductive somas. Accordingly, evolution is not concerned with diseases occurring after the soma’s reproductive stage. Following Richard Dawkins, we would like to reassert that we indeed live as disposable somas, slaves of our germline genome, but could soon start rebelling against such slavery. Cancer and its relation to the TP53 gene may offer a paradigmatic example. The observation that the latency period in cancer can be prolonged in mice by increasing the number of TP53 genes in their genome, suggests that sooner or later we will have to address the question of heritable disease avoidance via the manipulation of the human germline. ",
+        "bbox": [
+            130,
+            236,
+            862,
+            344
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: evolution; germline modification; cancer; latency; p53 ",
+        "bbox": [
+            264,
+            353,
+            727,
+            366
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As long as they are mortals, human beings won’t be totally relaxed. W. Allen ",
+        "bbox": [
+            100,
+            399,
+            463,
+            421
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            436,
+            352,
+            449
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Why do we age and die and have we evolved to do so? Many propositions have been formulated on this issue, the prevalent one being that in most species evolution has invested in their reproductive capacity at the expense of potential longevity. Thus, lifespan is not selected directly but as a by-product of selection for lifetime reproductive performance. We have apparently evolved to spend most of our ‘life capital’ for the selfish objective of evolution: maintaining the species through immortality of the germline and disposing of the post-reproductive soma. Although evolution may not ‘care’ about our postreproductive soma, we certainly do. ",
+        "bbox": [
+            81,
+            457,
+            481,
+            619
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recent analyses of human life expectancy over the last two centuries suggest that there is a priori no particular limit to lifespan (Oeppen & Vaupel 2002), and it has been shown that life expectancy can be increased by up to onethird in several animal models by slowing down the metabolic rate or increasing the resistance to oxidative damage (Finkel & Holbrook 2000; Gaurente & Kenyon 2000). ",
+        "bbox": [
+            81,
+            620,
+            481,
+            714
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "An interesting philosophical question therefore emerges: could evolution have ‘done better’ to protect us against lethal diseases of old age such as cancer, neurodegenerative diseases and senescence itself, without altering our reproductive performance? In other words, might it be feasible to delay or even avoid cancer with a better-adapted genome? ",
+        "bbox": [
+            81,
+            715,
+            481,
+            795
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "in, is mutated in most human cancers (Soussi & Beroud 2001). Moreover, there is a known TP53 gene dosage effect on cancer incidence as Li-Fraumeni patients, who nare born with only one functional TP53 allele display a $50 \\%$ incidence of cancer at the age of 30 years (Nichols et al. 2001; table 1), peak cancer incidence in normal individuals occurring at 60–65 years (Depinho 2000). ",
+        "bbox": [
+            511,
+            398,
+            911,
+            491
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Under normal conditions p53 is highly unstable and is activated only during cellular stresses such as DNA damage, hypoxia or oncogene activation. Under these conditions p53 becomes stabilized and can transcriptionally activate a large number of genes that induce cell cycle arrest, more efficient DNA repair and/or apoptosis (Vogelstein et al. 2000). ",
+        "bbox": [
+            511,
+            492,
+            911,
+            587
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "p53 does not seem to be significantly involved in normal development (Donehower et al. 1992). It is, however, thought to be involved in normal senescence (Itahana et al. 2001). The question then arises as to whether we would protect an animal against spontaneous or experimentally induced cancer by increasing the copy number of genomic TP53 without affecting normal development, senescence and ageing? ",
+        "bbox": [
+            511,
+            588,
+            911,
+            695
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This project was conceptualized by one of us ( J.-C.W.) a long time ago, designed by Manuel Serrano and carried out in his laboratory. Serrano and colleagues chose the BAC cloning approach that assured a physiological control of TP53 and the final success of the experiment (Garcia-Cao et al. 2002). ",
+        "bbox": [
+            511,
+            696,
+            911,
+            777
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. MORE TP53 GENES? ",
+        "text_level": 1,
+        "bbox": [
+            190,
+            816,
+            372,
+            829
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The TP53 gene has surfaced as a provocative candidate for such an approach as it, or the pathway it is involved ",
+        "bbox": [
+            80,
+            837,
+            481,
+            863
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. THE EXPERIMENT ",
+        "text_level": 1,
+        "bbox": [
+            630,
+            808,
+            790,
+            821
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The results are unambiguous (Garcia-Cao et al. 2002). TP53 transgenic mice that have three or four $T I 5 5 3$ genes develop normally. They also seem to age normally and show no evidence of early senescence. A precise experimental determination of cancer incidence is still in progress but there seems to be a sustained resistance to spontaneous lymphomas (the cause of death in $50 \\%$ of old ‘wild-type’ mice) and also to chemically induced tumours (Garcia-Cao et al. 2002). ",
+        "bbox": [
+            511,
+            832,
+            911,
+            926
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/2aeaeac038fbd9c8bdaa7965666c53150ed5bef995f6c5bc6563bae595580f2e.jpg",
+        "table_caption": [
+            "Table 1. Tumour spectrum in carriers of a heterozygous germline p53 mutation: (Li-Fraumeni syndrome) and their firstdegree relatives with a $50 \\%$ chance of carrying the mutation. (One hundred and sixty-nine tumours were less frequently associated with Li-Fraumeni (stomach, ovary, colon, anal rectum); 738 cancers were identified in 185 patients and families with a p53 germline mutation. These patients developed 224 cancers $( 3 0 \\% )$ before the age of 20 and 265 cancers $( 3 6 \\% )$ in the third and fourth decades. Data taken from Nichols et al. (2001).) "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            81,
+            186,
+            483,
+            316
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            80,
+            343,
+            481,
+            369
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "While these experiments were in progress, Donehower and colleagues reported that mice carrying a truncated form of one TP53 gene in conjunction with a single wild-type allele displayed increased resistance to spontaneous tumours, but underwent accelerated ageing (Tyner et al. 2002). Although these different results might initially seem surprising, the two experiments are clearly distinct. The Donehower mice express a constitutively activated (truncated) TP53 gene, whereas in Serrano’s experiments the added TP53 gene copies are under the same regulation as the endogenous TP53 genes. We posit that constitutively activated p53 biases the fate of stressed cells towards the apoptotic, rather than the repair and survival, pathway leading to the accelerated depletion of stem cells. This would result in ageing unaccompanied by cancer, a result that is consistent with the data presented by the Donehower group (Tyner et al. 2002; figure 1). ",
+        "bbox": [
+            81,
+            370,
+            481,
+            600
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The preliminary results of Serrano and colleagues are exciting, but many questions still need to be addressed. Their super p53 mice show an enhanced response to DNA damage. Might this lead to enhanced apoptosis in certain tissues that are more exposed to genotoxic stress during development leading to some abnormalities if the embryo cannot compensate for the loss of cells (Wubah et al. 1996)? Obviously these questions will need to be explored after several generations of super p53 mice are bred and also on larger mammals in which development more closely mimics that of humans. One would also like to know the status of the extra TP53 copies in tumours that arise in the super p53 mice. Are they mutationally inactivated, or has another oncogenic event occurred during this prolonged latency period? ",
+        "bbox": [
+            81,
+            601,
+            481,
+            804
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. LATENCY PERIOD IN CARCINOGENESIS ",
+        "text_level": 1,
+        "bbox": [
+            113,
+            824,
+            448,
+            838
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the interim, the results of Serrano and colleagues (Garcia-Cao et al. 2002) prompt us to make a suggestion on the latency period in cancer. This latency period can be viewed as a ‘biological clock’ that is related to the longevity of the organism, tumour progression taking many months or years in mice and humans, respectively. ",
+        "bbox": [
+            81,
+            845,
+            481,
+            926
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/3b5a347f1d5c19023264fd0961484970c0f41b77c519f57707549d1daf54d524.jpg",
+        "image_caption": [
+            "Figure 1. (a) In the mutant TP53 mice, in which p53 is constitutively activated, cancer incidence is delayed at the expense of accelerated ageing (Tyner et al. 2002). (b) In the super p53 mice, in which the number of genomic copies of p53 is increased, cancer incidence is delayed and does not appear to affect normal ageing and senescence (Garcia-Cao et al. 2002). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            540,
+            72,
+            881,
+            361
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, the frequencies of spontaneous and induced mutations seem very similar in cells of different mammalian species (Kumar & Subramanian 2002) and the number of cells at risk (stem cells) is much higher in large long-lived animals. What then causes this species-specific longevity-related latency period in carcinogenesis? ",
+        "bbox": [
+            511,
+            492,
+            911,
+            573
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One explanation is gene related; more genetic steps are required to transform a human stem cell than a mouse stem cell (Hahn & Weinberg 2002). Alternatively, a ‘functional memory’ (e.g. an abundant and very stable protein) may prolong the time from genotype change to phenotype change; the phenotypic expression of some mutations being delayed in a species-specific mode (Feinberg 2001). New approaches to the study of the latency period should become a priority for cancer research because little can be done to lower mutation rates in people, and full-blown malignant disease is characterized by extensive genetic diversity that usually defies successful therapeutic interventions (Lippman & Hong 2002). ",
+        "bbox": [
+            511,
+            575,
+            911,
+            750
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The studies reported with super p53 mice (Garcia-Cao et al. 2002) show the feasibility of genetically manipulating the germline to prolong the latency period in carcinogenesis, presumably by increasing the number of mutational steps required for malignant transformation. Ideally, we should be able to bolster TP53 status at the somatic level by introducing extra copies of TP53 in tissues of choice. This could also be done at the stem cell level before grafting any tissue derived from them (see Appendix A). Can the gene dosage of other tumour suppressor genes, such as the CDKN2A locus, which encodes the tumour suppressors INK4A and $A R F ,$ be artificially increased in the mouse genome without altering normal development and ageing? The list of candidate genes for such germline modification is long. ",
+        "bbox": [
+            511,
+            752,
+            913,
+            926
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            72,
+            483,
+            98
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5. A NATURAL EXPERIMENT? ",
+        "text_level": 1,
+        "bbox": [
+            165,
+            120,
+            397,
+            133
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Let us consider now that nature has already done the experiment of human germline modification, that is, that there are rare individuals or families who are resistant to cancer. Families who are resistant to infectious diseases, for example, can be identified during epidemics, but an inherited resistance to cancer would be difficult to identify even in the case of resistance to all cancers (in particular if it is a recessive trait). Because cancer kills mainly people in their post-reproductive age, such resistance would not be positively selected for. Furthermore, people do not tend to signal to their doctors the absence of disease, and an extensive epidemiological search for cancer-free families was apparently not undertaken. What if there is a human subpopulation, however rare, that is resistant to cancer? If identified, might it not occur by the mechanism of TP53 duplication as indicated by the mouse experiment? Such individuals, except for their cancer resistance, might be indistinguishable from the general population. So, if evolution has blindly performed the experiment of cancer prevention, and if we knew the mechanism should we do it ourselves? Such an intervention is not to cure disease; it is to prevent disease occurring—a sort of heritable once-and-forever vaccination against cancer. Similar approaches can be taken for any, including infectious, diseases because rare resistance alleles are regularly found in large human populations. ",
+        "bbox": [
+            81,
+            143,
+            483,
+            494
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. CONCLUSION ",
+        "text_level": 1,
+        "bbox": [
+            217,
+            517,
+            346,
+            530
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Biologically, our genome has evolved to maximize its own reproduction, not our longevity and health. There, we may have a ‘conflict of interest’ with our genome! Although human germline modification is science fiction today, we may have to ask, sooner or later, the general question posed by Richard Dawkins (1976). Do we want to remain forever the slaves of our selfish genes—the docile disposable soma serving only for the benefit of our immortal germline genes? Answering this question is clearly not only a scientific, but also a vast and complex ethical issue. However, it is clear that in relation to human health and quality of life, nothing is better than the avoidance of all diseases. If we could achieve this in the distant future, is it ethical not to do it? Are there any other reasons—short of countless scientific and medical problems, all subject to scientific and ethical enquiry—why we should not start thinking about the issue of human germline modification? ",
+        "bbox": [
+            81,
+            539,
+            481,
+            768
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "p53-dependent cellular response to damaged DNA are paradigmatic. The common structural element signalling that DNA is in trouble are free DNA ends that are often processed by helicases/nucleases to single-stranded DNA, which seems to be the ultimate DNA distress signal. Because DNA ends trigger cellular responses irrespective of the identity and origin of DNA, the introduction of exogenous transgenic DNA (as free DNA or within vectors derived from viral genomes) into the patient’s cells in the course of somatic gene therapy is likely to trigger a checkpoint response. Such activation may arrest the cell cycle and/or trigger the apoptotic death of healthy cells. On the contrary, patient’s cells with weak checkpoint and apoptotic responses will be much less affected by the entry of transgenic DNA. Therefore, irrespective of whether the deficit in checkpoint response in some of the patient’s cells is of genetic (e.g. $T P 5 3 _ { + / - }$ or $T P 5 _ { - / - }$ status) or epigenetic origin, the transgenic DNA transfer procedure is expected to select, or enrich, for the checkpoint-deficient cells. The lower the activity, the stronger the selection. Therefore, cancers arising as the consequence of gene therapy need not necessarily be caused only by insertional mutagenesis, but perhaps also by selection of rare pre-existing deficient cells that are bound to become cancerous. ",
+        "bbox": [
+            511,
+            72,
+            911,
+            395
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Jean-Marie Andrieu for suggesting that natural resistance to cancer could arise by amplification of the TP53 locus, Errol Friedberg and Robert Wagner for discussing and editing the manuscript, and John Cairns, Richard Peto and Francois Taddei for helpful discussions. ",
+        "bbox": [
+            81,
+            783,
+            481,
+            842
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To alleviate these potential problems, we propose that once it is firmly established that there is no adverse effect of extra copies of TP53 on stem cell development, all transgenic DNA could carry one (or more) functional TP53 gene(s) (or other checkpoint genes). It is expected that this transgene could complement for a putative cellular checkpoint deficiency during the gene therapy and/or delay malignant growth of already transformed cells. ",
+        "bbox": [
+            511,
+            398,
+            911,
+            504
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX A: SHOULD ALL GENE THERAPY INCLUDE REINFORCEMENT OF CHECKPOINT GENES? ",
+        "text_level": 1,
+        "bbox": [
+            85,
+            864,
+            479,
+            892
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "All living cells are endowed with DNA check-up systems: the bacterial SOS response and the mammalian ",
+        "bbox": [
+            81,
+            900,
+            481,
+            926
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The authors thank Jean-Marie Andrieu for suggesting that natural resistance to cancer could arise by amplification of the TP53 locus, Errol Friedberg and Robert Wagner for discussing and editing the manuscript, and John Cairns, Richard Peto and Francois Taddei for helpful discussions. ",
+        "bbox": [
+            511,
+            517,
+            911,
+            577
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            657,
+            597,
+            765,
+            610
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dawkins, R. 1976 The selfish gene. Oxford University Press.   \nDepinho, R. A. 2000 The age of cancer. Nature 408, 248–254.   \nDonehower, L. A., Harvey, M., Slagle, B. L., McArthur, M. J., Montgomery, C. A., Butel, J. S. & Bradley, A. 1992 Mice deficient for p53 are developmentally normal but susceptible to spontaneous tumors. Nature 356, 215–221.   \nFeinberg, A. P. 2001 Cancer epigenetics takes center stage. Proc. Natl Acad. Sci. USA 98, 392–394.   \nFinkel, T. & Holbrook, N. J. 2000 Oxidants, oxydative stress and the biology of ageing. Nature 408, 239–247.   \nGarcia-Cao, I., Garcia-Cao, M., Martin-Caballero, J., Criado, L. M., Klatt, P., Flores, J. M., Weill, J. C., Blasco, M. A. & Serrano, M. 2002 ‘Super p53’ mice exhibit enhanced DNA damage response, are tumor resistant and age normally. EMBO J. 21, 6225–6235.   \nGuarente, L. & Kenyon, C. 2000 Genetic pathways that regulate ageing in model organisms. Nature 408, 255–262.   \nHahn, W. C. & Weinberg, R. A. 2002 Modeling the molecular circuitry of cancer. Nature Rev. Cancer 2, 331–341.   \nItahana, K., Dimri, G. & Campisi, J. 2001 Regulation of cellular senecscence by p53. Eur. J. Biochem. 268, 2784–2791.   \nKumar, S. & Subramanian, S. 2002 Mutation rates in mammalian genomes. Proc. Natl Acad. Sci. USA 99, 803–808.   \nLippman, S. M. & Hong, K. W. 2002 Cancer prevention by delay. Clin. Cancer Res 8, 305–313. ",
+        "bbox": [
+            510,
+            616,
+            911,
+            926
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nichols, K. E., Malkin, D., Garber, J. E., Fraumeni, J. F. & Li, F. P. 2001 Germ-line p53 mutations predispose to a wide spectrum of early-onset cancers. Cancer Epidemiol. Biomark. Prev. 10, 83–87. Oeppen, J. & Vaupel, J. W. 2002 Broken limits to life expectancy. Science 296, 1029–1031. Soussi, T. & Beroud, C. 2001 Assessing TP53 status in human tumors to evaluate clinical outcome. Nature Rev. Cancer 1, 1–8. ",
+        "bbox": [
+            80,
+            71,
+            483,
+            157
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tyner, S. D. (and 14 others) 2002 p53 mutant mice that display early ageing-associated phenotypes. Nature 415, 45–53. Vogelstein, B., Lane, D. & Levine, A. J. 2000 Surfing the p53 network. Nature 408, 307–310. Wubah, J. A., Ibrahim, M. M., Gao, X., Nguyen, D., Pisano, M. M. & Knudsen, T. B. 1996 Teratogen-induced eye defects mediated by p53-dependent apoptosis. Curr. Biol. 6, 60–66. ",
+        "bbox": [
+            511,
+            71,
+            913,
+            157
+        ],
+        "page_idx": 3
+    }
+]

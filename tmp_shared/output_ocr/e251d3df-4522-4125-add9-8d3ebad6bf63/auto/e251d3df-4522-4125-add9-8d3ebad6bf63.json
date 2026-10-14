@@ -1,0 +1,2660 @@
+[
+    {
+        "type": "text",
+        "text": "Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey ",
+        "text_level": 1,
+        "bbox": [
+            141,
+            147,
+            860,
+            202
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Aoran $\\mathbf { G A N ^ { 1 } }$ , Hao $\\mathbf { Y U }$ , Kai ZHANG1, Qi $\\mathbf { L I U } ( \\boxtimes )$ , Wenyu $\\mathbf { Y A N ^ { 1 } }$ , Zhenya HUANG1, Shiwei TONG3, Enhong CHEN1, Guoping $\\mathbf { H } \\mathbf { U } ^ { 1 , 4 }$ ",
+        "bbox": [
+            132,
+            236,
+            867,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China, Hefei, China 2 McGill University, Montreal, Canada 3 Tencent Company, Shenzhen, China 4 Artificial Intelligence Research Institute, iFLYTEK Co., Ltd, Hefei, China ",
+        "bbox": [
+            121,
+            287,
+            878,
+            350
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { © }$ Higher Education Press 2025 ",
+        "bbox": [
+            78,
+            384,
+            273,
+            397
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract Recent advancements in Retrieval-Augmented Ge eration (RAG) have revolutionized natural language processing by integrating Large Language Models (LLMs) with external information retrieval, enabling accurate, up-to-date, and verifiable text generation across diverse applications. However, evaluating RAG systems presents unique challenges due to their hybrid architecture that combines retrieval and generation components, as well as their dependence on dynamic knowledge sources in the LLM era. In response, this paper provides a comprehensive survey of RAG evaluation methods and frameworks, systematically reviewing traditional and emerging evaluation approaches, for system performance, factual accuracy, safety, and computational efficiency in the LLM era. We also compile and categorize the RAG-specific datasets and evaluation frameworks, conducting a meta-analysis of evaluation practices in high-impact RAG research. To the best of our knowledge, this work represents the most comprehensive survey for RAG evaluation, bridging traditional and LLM-driven methods, and serves as a critical resource for advancing RAG development. ",
+        "bbox": [
+            78,
+            442,
+            490,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords Retrieval Augmented Generation, System Evaluation, Large Language Model ",
+        "bbox": [
+            78,
+            752,
+            487,
+            782
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            816,
+            220,
+            833
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Retrieval Augmented Generation (RAG) has emerged as a powerful methodology that enhances natural language generation by incorporating information from external knowledge. ",
+        "bbox": [
+            78,
+            843,
+            487,
+            887
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This approach significantly improves Large Language Models through non-parametric learning, multi-source knowledge integration, and specialized domain adaptation [1, 2]. By connecting LLMs with external databases, RAG produces responses that are both contextually appropriate and grounded in authoritative, up-to-date information, marking a substantial advancement in developing more sophisticated natural language processing (NLP) systems [3, 4]. ",
+        "bbox": [
+            510,
+            442,
+            919,
+            563
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As a sophisticated and expansive system that encompasses numerous elements from both the LLM and retrieval domains, RAG can be approximately segmented into two principal sections from a macroscopic viewpoint: retrieval and generation. The retrieval section typically entails diverse operations including preprocessing, dense or sparse retrieval, reranking and pruning, etc [5, 6]. The generation section comprises components such as retrieval planning, the integration of multi-source knowledge, and logical reasoning [7, 8]. Additionally, RAG systems incorporate interconnected upstream and downstream elements such as document chunking, embedding generation, and mechanisms for ensuring security and credibility [9]. The overall performance of RAG systems depends not only on each individual component but also on their interactions and integrated functionality. ",
+        "bbox": [
+            510,
+            568,
+            919,
+            794
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When faced with such complex systems, a fundamental and practical question arises regarding the evaluation framework for assessing the efficacy of architectural methodologies governing both the holistic system and its constituent components. This challenge proves particularly pronounced in RAG systems, where three factors - the expansive scope of implementation domains, the heterogeneity of internal components, and the dynamic progression of current developments - collectively render the establishment of a unified systematic evaluation paradigm an ongoing research frontier. In response to this, we conducted this survey on RAG Evaluation to gather methods for multi-scale assessment of RAG in recent years. The comprehensiveness of this survey is demonstrated in four aspects: 1) Systematic completeness, encompassing both the evaluation of RAG’s internal components and the system as a whole; 2) Methodological variety, including both traditional statistically-based evaluation metrics and the innovative methods characteristic of the LLM era; 3) Source diversity, incorporating both structured evaluation frameworks, as well as cutting-edge methods scattered across various papers; and 4) Practicality, both in terms of metrics’ definition to be evaluated and their subsequent application. Through this multi-dimensional approach, we aim to provide researchers and practitioners with a comprehensive toolkit for evaluating and improving RAG systems. ",
+        "bbox": [
+            510,
+            798,
+            919,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            76,
+            487,
+            318
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The remainder of this paper is organized as follows: Section 2 offers a concise review of the existing LLM-based RAG system to provide the reader with relevant background knowledge. Our comprehensive evaluation is divided into two distinct sections: Internal Evaluation (Section 3) and External Evaluation (Section 4). Internal Evaluation assesses component level performance and methodology-specific metrics within basic RAG systems, focusing on technical advancement. External evaluation examines system-wide factors like safety and efficiency, emphasizing practical viability. We pay particular attention to the emerging trend of LLM-based evaluation methods, which represent a novel assessment approach unique to the current era. Section 5 presents existing RAG evaluation frameworks, datasets, and methods, providing a practical resource for researchers. Furthermore, we compiled a comprehensive collection of high-level RAG studies spanning multiple dimensions in recent years, and conducted a preliminary analysis and discussion from the perspective of evaluation (Section 6). ",
+        "bbox": [
+            78,
+            321,
+            487,
+            608
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Background ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            642,
+            216,
+            658
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 Large Language Model (LLM) ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            668,
+            326,
+            682
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Large Language Models, with billions of parameters, are a class of generative neural language models trained on extensive natural language data [10, 11]. Due to the wide coverage of the training corpus, LLMs are considered to implicitly integrate world knowledge [12]. LLMs are capable of adhering to human instructions or requests though instruction tuning, thus being able to effectively understand and generate human-like text [13]. Its generalization open up a wide range of applications, such as NLP, signal processing, and recommender systems [14, 15]. However, LLM’s capability remains circumscribed by their training data. It is sometimes predisposed to generating factually inconsistent outputs (hallucinations), particularly when processing novel information beyond training data [16]. Despite the adaptability of LLMs to diverse downstream tasks through post-training or fine-tuning on specific datasets, these methods encounter challenges related to arithmetic, timeliness, flexibility, or usability (on close models). Optimization techniques during the LLM inference phase have thus garnered significant attention. One of the representative techniques is Prompt Engineering, in which artificially constructed task descriptions and commands are used to enhance LLMs’ understanding of task objectives. In-context learning is designed to enable LLMs to analyze patterns and generalize from task samples, offering substantial advantages in few-shot scenarios [17,18]. Unlike these approaches, RAG aims to address the issue of knowledge limitations inherent in LLM by incorporating external knowledge. Both LLM and RAG possess complementary strengths: RAG can effectively leverage the superior reasoning capabilities of LLMs, combined with the broad knowledge scope of external data, to explore the potential applications of LLMs more extensively [19]. On the other hand, LLMs can serve as crucial components in RAG, functioning as the decision maker, reasoner, generator, or even evaluating certain aspects of RAG [20, 21]. ",
+        "bbox": [
+            78,
+            691,
+            487,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            76,
+            919,
+            379
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2 Retrieval Augmented Generation (RAG) ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            396,
+            820,
+            411
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RAG is a technical framework that enhances NLP systems by integrating external knowledge retrieval, whose core innovation enables extra non-parametric optimization of parameterfixed neural language models after training, effectively expanding their operational domains while maintaining architectural stability [22]. Prior to the widespread adoption of LLM, scholarly investigations had already established methods for enhancing NLP tasks through external knowledge infusion [23]. Initial researches on RAG adhered to an elementary indexing and reading paradigm [24, 25]. Later formulations delineated two core components: (1) the retriever, which identifies, indexes, filters, and structures relevant knowl edge fragments from external data sources; (2) the generator, which synthesizes the curated segments through analysis and logical reasoning to produce outputs [9]. Figure 1 shows the workflow of an RAG system with recommendations of components implementation using LLMs at present. We provide a concise description of each module’s process below. ",
+        "bbox": [
+            510,
+            416,
+            922,
+            691
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The retrieval component of RAG systems is inspired by the retrieval technologies in multiple domains, such as information retrieval [26], open-domain question answering [27], and recommender systems [28, 29]. Before the retrieval, it is necessary to construct a suitable corpus for the retrieval component at the beginning. The sources of data are diverse, such as domain-specific datasets like Wikipedia, specialized corpora (e.g., scientific articles, financial reports) [30], or realtime data gathered from web scraping or search engines [31]. The corpus is subsequently filtered and preprocessed to conform to the retrieval-friendly structure via offline chunking and embedding. Chunking involves segmenting large documents into smaller, more manageable units guided by the original structure or context information [32–34]. Embedding (or text vectorization) aims to represent the textual content in a high-dimensional, dense semantic space for efficient retrieval computation [5, 35]. ",
+        "bbox": [
+            510,
+            692,
+            919,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2b9bd4841ab1d1e0a3d0b1f4c4319dc5c5f69f4988551eb52383d071010e327.jpg",
+        "image_caption": [
+            "Fig. 1 The workflow of the RAG system and component implementation in the LLM era. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            87,
+            78,
+            910,
+            421
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            462,
+            487,
+            491
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Typically, RAG assessments convert the task into a conversational format of Question Answering (QA) comprising question and the ground-true answers with doc candidates [36, 37]. In the online RAG workflow, some additional components are introduced before the retrieval, such like intent recognition, query rewriting and routing [38]. The retriever then indexes document collections from the data source. In this core step, multiple retrieval strategies can be employed, including sparse retrieval, dense retrieval, graph retrieval or hybrid methods [6, 39]. Certain systems conduct additional dynamic searches through search engines, typically found in commercialized products. Some systems may introduce an extra post-retrieval step to rerank the documents or fuse the data scross different sources [7,40]. In the generation pipeline, the responding progress based on the relevant documents is assigned to the LLM, which serves primarily as a decisionmaker or reasoner [8]. Instead of generating knowledge independently, the LLM synthesizes retrieved information to form coherent responses, thereby reducing the risk of internal hallucination. Additionally, a range of methods of prompt engineering are available, including CoT [18], ToT [41], SelfNote [42] and RaR [43], etc. Depending on the specific task and expected output, a post-processing step may be required after the knowledge-oriented response, such as Entity Recognition for multi-choice questions or classification task, and the translation component for multilingual task. Moreover, the utility of the model’s application is a point of concern, particularly regarding safety and efficiency [44]. ",
+        "bbox": [
+            78,
+            494,
+            489,
+            919
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.3 Related Surveys ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            462,
+            658,
+            476
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Li et al. [23] summerrized and formalized the key definitions of RAG while providing a synthesis of early-stage methodologies and practical applications. Expanding the scope beyond NLP, Zhao et al. [45] traced the developmental trajectory of multimodal RAG across the broader AIGC landscape. The emergence of LLM has since triggered an accelerated development of RAG methods, with numerous survey papers emerging to document this growing research domain [1,9,19, 20, 46]. Current researches mainly focus on collecting methods or applications, but lack substantive discussion about systematic evaluation mechanisms. While Yu et al. [21] provided an initial review outlining conceptual approaches for RAG evaluation, their analysis was predominantly confined to mainstream the frameworks, offering limited insights into emerging assessment methods applicable to diverse contexts. Building upon previois foundational work, this comprehensive survey extends beyond these limitations, offering deeper insights into emerging evaluation methods. ",
+        "bbox": [
+            510,
+            487,
+            919,
+            763
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This study extends the research [21] by incorporating a broader array of RAG evaluation methods within a systems theory context. We differentiate between internal and external evaluations: the former examines the RAG component assessments and their interactive processes within the system architecture, while the latter focuses on holistic system evaluation and environmental considerations, where environment specifically denotes the external tasks or particular evaluation contexts. We extend our horizons beyond collecting conceptual definitions of evaluation methods to exploring and analyzing their practical application in the actual RAG studies. Simultaneously, we focuses on RAG evaluation in LLM contexts, prioritizing unstructured text retrieval as the prevailing paradigm. Domain-specific variants of RAG evaluation (e.g., knowledge graph, multimodal retrieval) are excluded due to fundamental architectural gaps. Unless otherwise indicated, all the ‘RAG’ hereafter pertain to the narrow operational training-free framework employing unstructured documents as external knowledge resources. ",
+        "bbox": [
+            510,
+            769,
+            919,
+            919
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            76,
+            487,
+            212
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3 Internal Evaluation ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            243,
+            278,
+            261
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In this section, we summarize and organize the evaluations of the internal components with their interactions within a RAG system from prior studies. We deconstruct the evaluation of a whole RAG system, focusing on internal component interactions. A range of evaluation approaches are then introduced, from traditional to new ones. The elements mentioned and the implication of internal evaluation point to a framework for evaluating the strengths of the RAG system’s core functionality, that is, generating accurate and credible output. ",
+        "bbox": [
+            78,
+            268,
+            489,
+            405
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1 Evaluation Target ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            424,
+            236,
+            438
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The diverse components of the RAG system can be boiled down to solving two core problems: the retrieval of the ground truth, and the generation of the response that closely aligns with the gold answer. They correspond to the respective evaluation objectives of the retrieval and generation modules. ",
+        "bbox": [
+            78,
+            447,
+            489,
+            522
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 summarizes the evaluation targets of the retrieval and generation component. The retrieval component includes two main stages, recall and ranking. The outputs, relevant documents, for both are similar to evaluate. Then we can construct several pairwise relationships for the retrieval component by defining the target as follows: ",
+        "bbox": [
+            78,
+            523,
+            487,
+            614
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Relevance (Relevant Documents $ Q u e r y )$ evaluates how well the retrieved documents match the information needed expressed in the query. It measures the precision and specificity of the retrieval process. ",
+        "bbox": [
+            78,
+            615,
+            489,
+            675
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Comprehensiveness (Relevant Documents Relevant Doc uments) evaluates the diversity and coverage of the retrieved documents. This metric assesses how well the system captures a wide range of relevant information, ensuring that the retrieved documents provide a comprehensive view of the topic according to the query. ",
+        "bbox": [
+            78,
+            676,
+            499,
+            766
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Correctness (Relevant Documents Documents Candidates) assesses how accurate the retrieved documents are in comparison to a set of candidate documents. It is a measure of the system’s ability to identify and score relevant documents higher than less relevant or irrelevant ones. ",
+        "bbox": [
+            510,
+            76,
+            919,
+            151
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The similar pairwise relations and targets for the generation component are outlined below. ",
+        "bbox": [
+            510,
+            152,
+            919,
+            182
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Relevance $( R e s p o n s e  Q u e r y )$ measures how well the generated response aligns with the intent and content of the initial query. It ensures that the response is related to the query topic and meets the query’s specific requirements. ",
+        "bbox": [
+            509,
+            184,
+            919,
+            243
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Faithfulness (Response Relevant Documents) evaluates how the generated response accurately reflects the information contained in the relevant documents and measures the consistency between the generated and source documents. ",
+        "bbox": [
+            509,
+            244,
+            919,
+            304
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Correctness (Response Sample Response) Similar to the accuracy in the retrieval component, this measures the accuracy of the generated response against a sample response, which serves as a ground truth. It checks if the response is correct in terms of factual information and appropriate in the context of the query. ",
+        "bbox": [
+            510,
+            305,
+            919,
+            396
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Conventional Evaluation Methods ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            414,
+            776,
+            428
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RAG is a cross-disciplinary system founded on traditional research fields including information retrieval (IR) and natural language generation (NLG). Adhering to the conventional methods of them, numerous traditional metrics are employed to evaluate the retrieval and generation of RAG as follows. ",
+        "bbox": [
+            510,
+            436,
+            919,
+            512
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 IR-related Metrics ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            529,
+            685,
+            545
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The IR-related metrics refer to the indicators associated with conventional retrieval systems. These metrics are categorized into two groups based on their correlation to ranking: ",
+        "bbox": [
+            510,
+            554,
+            919,
+            598
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "• Non-rank-based Metrics ",
+        "bbox": [
+            510,
+            601,
+            692,
+            615
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The non-rank-based metrics typically evaluate binary outcomes, that is, whether an item is relevant or not, without taking into account the item’s position in a ranked list. ",
+        "bbox": [
+            509,
+            616,
+            934,
+            661
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Accuracy/Hit $@ \\mathbf { K }$ is the proportion of true results (both true positives and true negatives) among the cases examined. ",
+        "bbox": [
+            510,
+            662,
+            919,
+            691
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f20dc9b55a0a5587df47f59530d9964dde975be356d255e1adf68c75bf6124e2.jpg",
+        "text": "$$\n\\mathrm { A c c u r a c y } = { \\frac { T P + T N } { T o t a l N u m b e r } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            620,
+            699,
+            808,
+            729
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $T P$ is the number of true positives, $T N$ is the number of true negatives in the response. ",
+        "bbox": [
+            509,
+            736,
+            919,
+            766
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ea20a4e3209730f24de850253f84ba29c66656a3e9ef574a892f0983eb53493a.jpg",
+        "image_caption": [
+            "Fig. 2 The evaluation target of the Retrieval and Generation component in RAG. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            194,
+            787,
+            808,
+            896
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recall $@ \\mathbf { K }$ is the portion of relevant instances that have been retrieved over the total amount of relevant cases, considering only the top $k$ results. ",
+        "bbox": [
+            77,
+            76,
+            487,
+            122
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ea4f4df4d81db083c5fa1d17073bdcaa509e08782cc023e3f9f859ace3758cf7.jpg",
+        "text": "$$\n{ \\mathrm { R e c a l l } } = { \\frac { | R D \\cap T o p _ { k d } | } { | R D | } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            201,
+            128,
+            364,
+            161
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R D$ is the relevant documents, and $T o p _ { k d }$ is the top-k retrieved documents. ",
+        "bbox": [
+            78,
+            169,
+            489,
+            198
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Precision $@ \\mathbf { K }$ is the fraction of relevant instances among the retrieved instances, considering only the top $k$ results. ",
+        "bbox": [
+            78,
+            200,
+            489,
+            229
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/584fe9bf1ec84362519e863bdb03a407fda1a0016a821e0432fc435a6be4db54.jpg",
+        "text": "$$\n\\mathrm { P r e c i s i o n } = { \\frac { T P } { T P + F P } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            206,
+            236,
+            361,
+            268
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $T P$ represents true positives and $F P$ represents false positives, respectively. ",
+        "bbox": [
+            78,
+            275,
+            487,
+            304
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "F1 Score measures the balance between precision and recall, defined as the Harmonic Mean of the two. ",
+        "bbox": [
+            78,
+            305,
+            487,
+            335
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/48f44b539048ad6ac7c78a5f7577bad4cd3660fdfaa4cee5173236d4411409ec.jpg",
+        "text": "$$\n\\mathrm { F 1 } = \\frac { 2 \\times { \\mathrm { P r e c i s i o n } } \\times \\mathrm { R e c a l l } } { \\mathrm { P r e c i s o n } + \\mathrm { R e c a l l } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            184,
+            341,
+            381,
+            373
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "• Rank-Based Metrics ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            382,
+            233,
+            396
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The rank-based metrics focuse on the sequential presentation of relevant items, assigning greater significance to the positioning of these items within the ranking list. ",
+        "bbox": [
+            77,
+            398,
+            487,
+            443
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MRR (Mean Reciprocal Rank) is the average of the reciprocal ranks of the first correct answer for a set of queries. ",
+        "bbox": [
+            78,
+            443,
+            487,
+            473
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/2dba5b752aee3725b0df22f57a138a8e204d1a7029c7641c4dc6e0edda9164d8.jpg",
+        "text": "$$\nM R R = \\frac { 1 } { | Q | } \\sum _ { i = 1 } ^ { | Q | } \\frac { 1 } { r a n k _ { i } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            208,
+            481,
+            359,
+            524
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $| Q |$ is the number of queries and ranki is the rank position of the first relevant document for the $i \\cdot$ -th query. ",
+        "bbox": [
+            78,
+            532,
+            489,
+            561
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "NDCG (Normalized Discounted Cumulative Gain) accounts for the position of the relevant documents by penalizing relevant documents that appear lower in the search results [47]. ",
+        "bbox": [
+            78,
+            563,
+            497,
+            607
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/ff8493251f0d5970c537c2746328535ee40f14b8dfe9c26053f606b541cc860f.jpg",
+        "text": "$$\nN D C G @ k = { \\frac { D C G @ k } { I D C G @ k } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            200,
+            615,
+            368,
+            647
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $D C G @ k$ is the Discounted Cumulative Gain at rank $k$ and $I D C G @ k$ is the Ideal Discounted Cumulative Gain at rank $k$ , which represents the maximum possible $D C G @ k$ . $D C G @ k$ is defined as: ",
+        "bbox": [
+            77,
+            653,
+            489,
+            713
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/267ff78fd2c8f5022ec6cbe6212350ba6d7b123d9761532a006a142930b8a60d.jpg",
+        "text": "$$\nD C G @ k = \\sum _ { i = 1 } ^ { k } { \\frac { 2 ^ { r e l _ { i } } - 1 } { \\log _ { 2 } ( i + 1 ) } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            191,
+            718,
+            376,
+            761
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $r e l _ { i }$ being the graded relevance of the result at position $i$ . ",
+        "bbox": [
+            78,
+            769,
+            489,
+            783
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MAP (Mean Average Precision) is the mean of the average precision scores for each query. ",
+        "bbox": [
+            78,
+            785,
+            487,
+            815
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/4acb2084041eb916ccbea3fb4eb014425c4ae868f809ab5d27dbc315106adb08.jpg",
+        "text": "$$\nM A P = \\frac { 1 } { | Q | } \\sum _ { q = 1 } ^ { | Q | } \\frac { \\sum _ { k = 1 } ^ { n } ( P ( k ) \\times r e l ( k ) ) } { | \\mathrm { { r e l e v a n t d o c u m e n t s } } _ { q } | }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            152,
+            821,
+            411,
+            867
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $P ( k )$ is the precision at cutoff $k$ in the list, $r e l ( k )$ is an indicator function equaling 1 if the item at rank $k$ is a relevant document in the $n$ retrieved documents, 0 otherwise. ",
+        "bbox": [
+            78,
+            873,
+            489,
+            921
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 NLG-related Metrics ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            76,
+            704,
+            90
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The NLG-related metrics focus on the content of the text output, dedicated to the evaluation on the char or semantic level. ",
+        "bbox": [
+            510,
+            99,
+            919,
+            128
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "EM (Exact Match) is a simple, stringent and widely-used evaluation metric that assesses the accuracy of model-generated answers compared to the ground truth. It scores as 1 if a generated answer precisely aligns with the standard otherwise 0. Typically, the responses need standardization and preprocessing (e.g., conversion to lowercase, removal of punctuation, elimination of articles, and standardization of number formats) before comparison. A general approach involves combining EM and Precision / Recall / F1 or edit distance [48,49]. ",
+        "bbox": [
+            510,
+            131,
+            931,
+            266
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ROUGE (Recall-Oriented Understudy for Gisting Evaluation) [50] is a set of metrics designed to evaluate the quality of summaries by comparing them to human-generated reference summaries. ROUGE can be indicative of the content overlap between the generated text and the reference text. The variants of ROUGEs measure the overlap of n-grams (ROUGE-N, ROUGGE-W), word subsequences (ROUGE-L, ROUGGE-S), and word pairs between the system-generated summary and the reference summaries. ",
+        "bbox": [
+            510,
+            267,
+            919,
+            403
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BLEU (Bilingual Evaluation Understudy) [51] is a metric for evaluating the quality of machine-translated text against one or more reference translations. BLEU calculates the precision of n-grams in the generated text compared to the reference text and then applies a brevity penalty to discourage overly short translations. Beyond machine translation evaluation, BLEU can also be used for supervised comparison evaluation for general natural language generation. BLEU has limitations, such as not accounting for the fluency or grammaticality of the generated text. ",
+        "bbox": [
+            510,
+            405,
+            919,
+            556
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "METEOR [52] is a metric designed to assess the quality of machine translation or text generation. It enhances BLEU by incorporating mechanisms like synonymization, stemming matching, and word order penalties, demonstrating a stronger correlation with results obtained from manual evaluations. METEOR is defined as: ",
+        "bbox": [
+            509,
+            557,
+            919,
+            647
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e2e94e8cf8bc3d9ffc4599701fb1ea0ce3268ad38e51be54336ebfd6fe54a593.jpg",
+        "text": "$$\n\\mathbf { M E T E O R } = ( 1 - p ) \\frac { ( \\alpha ^ { 2 } + 1 ) \\mathrm { P r e c i s i o n } \\times \\mathrm { R e c a l l } } { \\mathbf { R e c a l l } + \\alpha \\mathrm { P r e c i s i o n } } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            551,
+            653,
+            877,
+            686
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ is the balanced factor, and $p$ is the penalization factor αfor word order. ",
+        "bbox": [
+            510,
+            691,
+            919,
+            722
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BertScore [53] leverages the contextual embedding from pre-trained transformers like BERT to evaluate the semantic similarity between generated text and reference text. BertScore computes token-level similarity using contextual embedding and produces precision, recall, and F1 scores. Unlike n-grambased metrics, BertScore captures the meaning of words in context, making it more robust to paraphrasing and more sensitive to semantic equivalence. It has multiple variants, including backbone advanced pre-trained models (e.g. BERT, RoBERTa and BART) and supervised evaluation based on external classifier design. ",
+        "bbox": [
+            510,
+            723,
+            924,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Textual Similarity measures the semantic variety in retrieved documents. It can be calculated using metrics like ",
+        "bbox": [
+            510,
+            890,
+            919,
+            919
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Intra-Document Similarity or Inter-Document Similarity, which assess the similarity between documents within a set. ",
+        "bbox": [
+            77,
+            76,
+            500,
+            105
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8b9b825b214fad98359703bcf1968283a6ee29e45f921ca098132325ad4ee0c7.jpg",
+        "text": "$$\n\\mathrm { S i m i l a r i t y } = \\frac { 1 } { | D | ^ { 2 } } \\sum _ { i = 1 } ^ { | D | } \\sum _ { j = 1 } ^ { | D | } s i m ( d _ { i } , d _ { j } )\n$$",
+        "text_format": "latex",
+        "bbox": [
+            161,
+            115,
+            406,
+            160
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $D$ is the set of retrieved documents, $d _ { i }$ and $d _ { j }$ are embeddings of individual documents, and $s i m ( d _ { i } , d _ { j } )$ is a simi,larity measure (e.g.,the most commonly used cosine similarity) between the two documents. ",
+        "bbox": [
+            78,
+            169,
+            487,
+            229
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Coverage measures the proportion of relevant documents retrieved from the total number of relevant documents available in the dataset. It quantifies how comprehensively the system captures all pertinent information across the corpus, across topics, categories, or entities defined by humans or in the knowledge base. ",
+        "bbox": [
+            78,
+            231,
+            487,
+            322
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/61e8d74fc4eb67e771e74eec0cb3957babd77b6693fd08a43ccaddae802d68cd.jpg",
+        "text": "$$\n\\mathrm { C o v e r a g e } = \\frac { | R D \\cap R e t r i e \\nu e d | } { | R D | }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            179,
+            329,
+            386,
+            364
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "where $R D$ is the set of relevant documents and the notation Retrieved is the set of retrieved documents. The coverage can also be calculated at the group level, where the relevant documents are grouped into different categories or topics. ",
+        "bbox": [
+            78,
+            371,
+            489,
+            433
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f4ff02e33aa18b7ef83e49f3adec67d34aa6405d6f11e01527dc168f177c3ce0.jpg",
+        "text": "$$\n\\mathrm { C o v e r a g e } = { \\frac { | { \\mathrm { R e l e v a n t G r o u p s } } \\cap { \\mathrm { R e t r i e v e d G r o u p s } } | } { | { \\mathrm { R e l e v a n t G r o u p s } } | } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            107,
+            440,
+            458,
+            476
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Perplexity (PPL) gauges a language model’s predictive prowess, illustrating its level of uncertainty concerning test data. Essentially, it is an exponential variation of cross-entropy, quantifying the model’s fit to the probability distribution of the text. It is defined base on the generative LM output as ",
+        "bbox": [
+            78,
+            484,
+            495,
+            560
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "equation",
+        "img_path": "images/10556f4af54183eb62be8a332e41455437945ce317a3c14d55c9cdd9a0dce27b.jpg",
+        "text": "$$\n{ \\mathrm { P e r p l e x i t y } } = \\exp \\left( - { \\frac { 1 } { N } } \\sum _ { i = 1 } ^ { N } \\log p ( w _ { i } | w _ { 1 } , w _ { 2 } , \\ldots , w _ { i - 1 } ) \\right) .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            99,
+            569,
+            465,
+            611
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It’s important to note that the IR-related and NLG-related methods are not directly equivalent to retrieval and generation assessment methods. In RAG systems, retrieval and generation operations typically alternate. For instance, the query understanding and document fusion component are considered as pre- and post-retrieval operations in the retriever, respectively, yet the evaluation is sometimes based on the NLG-like methods. SCARF [54] used BLEU / ROUGE to evaluate the query relevance of the retriever. Blagojevic et al. [40] utilized cosine similarity to assess the retrieval diversity. Additionally, the metrics can be adapted into various designs with new label based on the specific subject of study, such as EditDist [55], Fresheval [56], etc. ",
+        "bbox": [
+            78,
+            620,
+            487,
+            817
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.2.3 Upstream Evaluation ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            836,
+            272,
+            850
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Given the rapid advancement of RAG systems, it is crucial to emphasize the significance of offline preprocessing of the corpus. We supplement the evaluation method of preprocessing modules, including chunking and embedding. ",
+        "bbox": [
+            78,
+            859,
+            487,
+            921
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The evaluation of chunking methods can be conducted at two levels. First, chunk-specific evaluation focuses on intrinsic metrics such as Accuracy, measured by Full Keyword Coverage—the percentage of required keywords present in at least one retrieved chunk—and the Tokens To Answer metric, which tracks the index of the first fully comprehensive chunk and cumulative token count needed for full context coverage [57]. Second, extrinsic evaluation analyzes how different chunking approaches influence retrieval performance on downstream tasks. For example, [34] and [58] evaluate chunking methods by comparing retrieval recall, precision, and response quality using metrics like ROUGE, BLEU, and F1 scores against ground truth evidence paragraphs, while considering computational overhead. Other works extend this evaluation using domain-specific datasets, such as financial reports [57], to observe how structure-based and semantic chunking improves retrieval accuracy while reducing latency and token usage during inference. ",
+        "bbox": [
+            510,
+            76,
+            919,
+            350
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Before retrieval, the embedding model determines the actual performance of retrieving relevant documents. Comprehensive benchmarks like Massive Text Embedding Benchmark (MTEB) [59] and Massive Multicultural Text Embedding Benchmark (MMTEB) [60] have become standard for the evaluation of embedding models. MTEB introduced the first large-scale benchmark covering 8 embedding tasks across 58 datasets and 112 languages, establishing that no single embedding method excels across all tasks. MMTEB significantly expanded this work through a community-driven effort, encompassing over 500 evaluation tasks across $^ { 2 5 0 + }$ languages and introducing novel challenges like instruction following, long-document retrieval, and code retrieval. ",
+        "bbox": [
+            510,
+            351,
+            919,
+            547
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the models of chunking and embedding have broad applications, they primarily serve as an upstream component of the retriever in RAG. The primary benefit to the entire system, involving chunking and embedding, is reflected in the enhancement of the retriever’s evaluation metrics. ",
+        "bbox": [
+            509,
+            549,
+            919,
+            624
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3 Evaluation Methods via LLMs ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            643,
+            754,
+            657
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The advancement of LLM has catalyzed refined investigations into RAG system architectures. Contemporary studies increasingly employ LLM-driven assessment metrics, which establish quantifiable benchmarks for iterative improvements across different RAG modules. They can be broadly categorized into the output and representation based methods. ",
+        "bbox": [
+            509,
+            666,
+            919,
+            756
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3.3.1 LLM Output based Methods ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            775,
+            752,
+            789
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The LLM-output based evaluation methods perform content identification or statistical analysis of the text-format output of the RAG components assumed by the LLM. These methods feature a concise and easily understandable process without restrictions regarding whether the LLM is open or closed. ",
+        "bbox": [
+            510,
+            798,
+            919,
+            873
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The most straightforward approach is to instruct the LLM to explicitly evaluate or score the textual output of the component by prompt engineering. Methods like RAGAS [61] and ",
+        "bbox": [
+            510,
+            875,
+            919,
+            921
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Databricks Eval [62] prompt GPT-based judges with explicit instructions, such as “Check if the response is supported by the retrieved context.” or “Assess completeness with respect to the user query.” Zhang et al. [63] utilized GPT-4 with a few-shot prompt design to determine whether the generated answer matches the gold ones comprehensively. Finsås et al. [64] implemented a multi-agent LLM framework to evaluate the retrieval performance and reported a higher relevance with the human preference than the traditional methods. Patil et al. [65] proposed an Abstract Syntax Tree (AST) based method to measure the hallucination in RAG, which indicates the accuracy of calling external APIs in the RAG system. These methods typically benefit from CoT reasoning. ",
+        "bbox": [
+            78,
+            75,
+            489,
+            273
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In addition, numerous researchers have proposed novel definitions of statistical metrics derived from the LLM output, facilitating a multi-perspective approach to evaluating the RAG components. ",
+        "bbox": [
+            77,
+            275,
+            487,
+            335
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dai et al. [66] proposed a new metric Semantic Perplexity $( S e P e r )$ to capture the LLM’s internal belief about the correctness of the generated answer. Given the query $q$ and the reference answers $a ^ { * }$ , SePer is defined as the output sequence likelihood with clustered entity target as: ",
+        "bbox": [
+            78,
+            336,
+            489,
+            411
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0c96455998cf9dec36663aec02f49514222cdfe0d8d4fd8a2e61e59337028a55.jpg",
+        "text": "$$\nS e P e r _ { M } ( q , a ^ { * } ) = P _ { M } ( a ^ { * } \\mid q ) \\approx \\sum _ { C _ { i } \\in C } k ( C _ { i } , a ^ { * } ) p _ { M } ( C _ { i } \\mid q ) ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            99,
+            416,
+            465,
+            452
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $M$ is the specific LLM. $c$ is the cluster set that the another clustering model groupes the responses into. $p _ { M } ( C _ { i } \\mid$ $q$ ) means the probability that a response generated by $M$ is mapped to the cluster $C _ { i }$ . $k ( C _ { i } , a ^ { * } )$ is a simple kernal fuc,tion to measure the distance between the meaning of semantic cluster $C _ { i }$ and $a ^ { * }$ by utilizing char-level matching or simply asking the LLM to get a True / False response. ",
+        "bbox": [
+            78,
+            458,
+            489,
+            565
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Qi et al. [67] introduced the key point extraction to the RAG evaluation and designed $K P R$ metric to evaluate the extent to which LLMs incorporate key points extracted from the retrieved documents into their generated responses: ",
+        "bbox": [
+            78,
+            566,
+            489,
+            626
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/600ccfdbbc94bc55b4e9acd6f5f1dfaee067a88264c31c916a3848cda31dc2a0.jpg",
+        "text": "$$\nK P R ( \\cdot ) = \\frac { 1 } { | Q | } \\sum _ { q \\in Q } \\frac { \\sum _ { x \\in { \\bf x } ^ { { \\mathfrak { q } } } } I ( x , M ( q | | d ^ { q } ) ) } { | { \\bf x } ^ { { \\mathfrak { q } } } | } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            151,
+            633,
+            416,
+            672
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "where $Q$ is the global query set, and $I ( x , M ( q | | d ^ { q } ) )$ is a fuc,tion to judge whether a single LLM output sequence $\\textstyle { \\mathcal { M } } ( q | | d ^ { q } )$ based on the query $q$ and the recalled documents $d ^ { q }$ entails the predefined key points $\\mathbf { X ^ { q } }$ . ",
+        "bbox": [
+            78,
+            678,
+            489,
+            740
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the inconsistency of the different retrievers in RAG, Li et al. [68] proposed a pair of naive metrics called Mean Relative Win/Lose Ratio (MRWR/MRLR). Given $M$ different retrievers $\\mathcal { R } = \\{ r _ { 1 } , r _ { 2 } , . . . , r _ { M } \\}$ and the dataset with $N$ query $\\&$ , , ..., answer pairs, the correctness of model response for each sample $< q _ { n } , a _ { n } >$ is first cauculated, denoted by ${ \\bf { I } } ^ { m } ( n ) =$ <1 if the retriever $r _ { m }$ >answers correctly on sample $s _ { n }$ otherwise 0. Then the Relative Win Ratio (RWR) of retriever $r _ { i }$ over another retriever $r _ { j }$ is defined as: ",
+        "bbox": [
+            78,
+            741,
+            489,
+            877
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/61fc4adbd4db004710dfc2f1889a00c4e15325322b8f5efdf765d92edba59c58.jpg",
+        "text": "$$\nR W R ( i , j ) = \\frac { \\sum _ { n = 1 } ^ { N } \\mathbf { I } ^ { i } ( n ) * ( 1 - \\mathbf { I } ^ { j } ( n ) ) } { \\sum _ { n = 1 } ^ { N } 1 - \\mathbf { I } ^ { j } ( n ) } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            156,
+            885,
+            408,
+            926
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "which represents the proportion of questions answered incorrectly by retriever $r _ { j }$ that were correctly answered by retriever $r _ { i }$ . MRWR and MRLR are calculated by respectively averaging RWR across rows and columns among the retrievers: ",
+        "bbox": [
+            509,
+            76,
+            919,
+            137
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/031faf010519fb8172f76bc354b24bd37aa74b3f7a3e7160ed0be7f84a4d1379.jpg",
+        "text": "$$\n\\begin{array} { l l } { { \\displaystyle { \\mathrm { M R W R } } ( i ) = \\frac { 1 } { M - 1 } \\sum _ { j \\neq i } { \\mathrm { R W R } } ( i , j ) } , } \\\\ { ~ } \\\\ { { \\displaystyle { \\mathrm { M R L R } } ( i ) = \\frac { 1 } { M - 1 } \\sum _ { j \\neq i } { \\mathrm { R W R } } ( j , i ) } . } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            593,
+            145,
+            833,
+            233
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Especially, $\\mathbf { M R L R } ( i ) = 0$ implies that retriever $r _ { i }$ consistently outperforms all of the other ones. ",
+        "bbox": [
+            509,
+            236,
+            917,
+            266
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Min et al. [69] proposed FactScore to messure whether the generated content matches the given knowledge source by breaking the generations into atomic facts. Chiang et al. [70] further consideder the synonym expression and proposed the advanced $D$ -FAatScore. FactScore is a simple statistical determination whether the factual content $a$ in the generated text $y$ matches the external knowledge base $c$ : ",
+        "bbox": [
+            510,
+            267,
+            919,
+            373
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/a93e2502d33a3e7fe5b0ef656ad0b76581f588e676a814fa9b7942f522671609.jpg",
+        "text": "$$\n\\mathrm { F S } ( y ) = \\frac { 1 } { \\vert \\mathcal { A } _ { y } \\vert } \\sum _ { a \\in \\mathcal { A } _ { y } } \\mathbb { I } _ { [ a \\mathrm { \\ i s \\ s u p p o r t e d \\ b y } \\ : C ] } .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            596,
+            382,
+            831,
+            421
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "D-FActScore links synonymous entities into the same cluster ${ \\mathcal { A } } _ { { \\mathrm { y } } _ { i } }$ and consider a cluster-level evaluation: ",
+        "bbox": [
+            509,
+            430,
+            919,
+            461
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/1fb2dce7c7ad0eca06ae91fb6f40e3c2460732b8921c766feede96e784e7b53e.jpg",
+        "text": "$$\n\\mathrm { D F S } ( y ) = \\frac { 1 } { | \\mathcal { A } _ { y } | } \\sum _ { \\mathcal { A } _ { y _ { i } } \\in \\mathcal { A } _ { y } } \\sum _ { a \\in \\mathcal { A } _ { y _ { i } } } \\mathbb { I } _ { [ a \\mathrm { i s } \\mathrm { s u p p o r t e d b y } C _ { i } ^ { * } ] } .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            564,
+            470,
+            862,
+            510
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "To evaluate the risk in the generator’s response, Chen et al. [71] introduced the divided cases of the generated answer, answerable(A) and unanswerble(U), along with the different prediction process in the RAG system, keep(K) and discard(D). Four risk-aware evaluation metrics from various aspects are defined as: ",
+        "bbox": [
+            509,
+            519,
+            919,
+            611
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1) Risk that measures the proprotion of risky casess among the kept samples: ",
+        "bbox": [
+            509,
+            611,
+            919,
+            642
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f5adfe6ca3a8d9a6d6708d6ba4b65a89b1bfadff3f41d629e45ff2d14d310bea.jpg",
+        "text": "$$\nR i s k = { \\frac { \\left| \\mathrm { U K } \\right| } { \\left| \\mathrm { A K } \\right| + \\left| \\mathrm { U K } \\right| } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            645,
+            649,
+            784,
+            684
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "2) Care f ulness indicates the percentage of incorrect and discarded samples that are equivalent to recall for the unanswerable samples: ",
+        "bbox": [
+            509,
+            691,
+            919,
+            737
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/65724cf61e83599b5b8ed14d1741f199162687b9b294339c1ad0063a45cd9cb0.jpg",
+        "text": "$$\nC a r e f u l n e s s = \\frac { \\left| \\mathrm { U D } \\right| } { \\left| \\mathrm { U K } \\right| + \\left| \\mathrm { U D } \\right| }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            616,
+            746,
+            813,
+            779
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3) Alignment refers to the proportion of samples in which the system’s judgment align with the assigned labels: ",
+        "bbox": [
+            509,
+            787,
+            919,
+            817
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7bb90ced1c128002de029634bd86f28dfdd630dfa3fe1bc5e7421d933940265b.jpg",
+        "text": "$$\nA l i g n m e n t = \\frac { \\left| \\mathrm { A K } \\right| + \\left| \\mathrm { U D } \\right| } { \\left| \\mathrm { A K } \\right| + \\left| \\mathrm { A D } \\right| + \\left| \\mathrm { U K } \\right| + \\left| \\mathrm { U D } \\right| }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            574,
+            825,
+            853,
+            859
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4) Coverage quantifies the proportion of samples retained: ",
+        "bbox": [
+            509,
+            867,
+            904,
+            882
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "equation",
+        "img_path": "images/9296fc48104af43c0e103d6a248258f7dfa9863a9a35f0bdd531a5af285a128a.jpg",
+        "text": "$$\nC o \\nu e r a g e = \\frac { \\left| \\mathrm { { A K } } \\right| + \\left| \\mathrm { { U K } } \\right| } { \\left| \\mathrm { { A K } } \\right| + \\left| \\mathrm { { A D } } \\right| + \\left| \\mathrm { { U K } } \\right| + \\left| \\mathrm { { U D } } \\right| }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            578,
+            890,
+            852,
+            924
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.3.2 LLM Representation based Methods ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            76,
+            376,
+            91
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The representation-based methods, conversely, captures valuable metrics by modeling vector representation in the intermediate or final layers of the LLM. These methods can mitigate overreliance on surface lexical patterns, but they may lose interpretability since the final numeric similarity does not necessarily clarify which factual detail is correct or not. ",
+        "bbox": [
+            78,
+            99,
+            487,
+            191
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Certain methods are inspired by the conventional metrics, demonstrated as expansions of existing metrics on the LLM. For instance, GPTScore [72] is a GPT based LLM-scoring method inspired by BertScore, which has been widely used as a convincing metric. ARES [73] combined a classifier with LLM embeddings to check whether a generative answer is semantically aligned with ground-truth evidence. RAGAS [61] uses a cosine similarity approach on LLM-generated embeddings to gauge answer relevance. ",
+        "bbox": [
+            78,
+            191,
+            487,
+            327
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Moreover, numerous researchers have developed novel representation based metrics, which serve not only to evaluate the components but also to guide the further enhancement. ",
+        "bbox": [
+            78,
+            328,
+            490,
+            373
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhao et al. [74] introduced a novel metric, Thrust, which assesses the LLM’s knowledgeability by leveraging the representation distribution of the instances produced by the LLM. A hypothesis was proposed that if an LLM has acquired adequate knowledge pertaining to a task, it should effectively cluster samples related to that task through its hidden states. The Thrust metric was defined as: ",
+        "bbox": [
+            78,
+            374,
+            487,
+            480
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f9a11a5d7ac20b32b2a68dbcfca584009ef4e612dac9e11d3698a6c46b226140.jpg",
+        "text": "$$\ns _ { \\mathrm { t h r u s t } } ( q ) = \\left\\| \\frac { 1 } { N \\cdot K } \\sum _ { l = 1 } ^ { N } \\sum _ { k = 1 } ^ { K } \\frac { | C _ { k l } | } { \\| d _ { k l } ( q ) \\| ^ { 2 } } \\cdot \\frac { d _ { k l } ( q ) } { \\| d _ { k l } ( q ) \\| } \\right\\| ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            122,
+            486,
+            443,
+            529
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $N$ is the number of classes for the specific task, $K$ is the number of clusters per class, $| C _ { k l } |$ denotes the cardinality of the set. $d _ { k l } ( q )$ is a vector pointing from the representacion of the query to the centroid. ",
+        "bbox": [
+            78,
+            538,
+            489,
+            600
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Zhu et al. [75] introduced the information bottleneck theory into retrieval component to messure the relevance of the recalled document and candidate document. Moreover, a new information bottleneck-based loss function was derived and used to train a better noise filter for the retriever. Given the sample $\\{ q , x , y \\}$ from the dataset and the noise filter $p ( \\tilde { x } | x , q )$ , , ,(need tuning), the information bottleneck in the RAG task is derived and formulated as: ",
+        "bbox": [
+            78,
+            600,
+            489,
+            722
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7483b378cefcbdbc34fb28a0a406392853dc7238e6a5eaf76b3e7d7bd8bc5e81.jpg",
+        "text": "$$\n\\mathrm { I B } ( \\tilde { x } ) = P _ { \\mathrm { L L M } } ( x | [ q , \\tilde { x } , y ] ) - \\alpha P _ { \\mathrm { L L M } } ( y | [ q , \\tilde { x } ] ) ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            136,
+            733,
+            430,
+            750
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $[ \\cdot ]$ means the concatenation operation. $P _ { \\mathrm { L L M } }$ means the final output probability of the LLM. ",
+        "bbox": [
+            78,
+            761,
+            487,
+            792
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Li et al. [76] proposed a new metric $G E C E$ based on METEOR for assessing the extent of the long-tailness of the generated text in RAG: ",
+        "bbox": [
+            77,
+            792,
+            487,
+            836
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/2af0718e924fd407c1c3093c5259a8efc5d6df381831b053f0d4a7a5c10bbf6b.jpg",
+        "text": "$$\nG E C E = \\frac { | \\mathbf { M E T E O R } ( p r e d , r e f ) - \\frac { 1 } { n } \\sum _ { i = 1 } ^ { n } P _ { L L M } ( t _ { i } ) | } { \\alpha \\cdot [ E ( \\nabla _ { i n s } ) \\cdot \\nabla _ { i n s } ] } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            107,
+            844,
+            458,
+            882
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\alpha$ is the average word frequency, $\\nabla _ { i n s }$ and $E ( \\nabla _ { i n s } )$ are αthe gradient w.r.t. the current instance and the mean gradient ",
+        "bbox": [
+            77,
+            890,
+            489,
+            921
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "of the total dataset, separately. A long-tail instance usually has a smaller $\\alpha$ and $\\nabla _ { i n s }$ , obtaining a larger $G E C E$ , which αimplies larger degree of long-tailness. ",
+        "bbox": [
+            509,
+            76,
+            919,
+            122
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To assess the extent to which external knowledge is utilized in the RAG response, Sun et al. [77] proposed External Context Score $\\varepsilon$ , which is defined on the response level as: ",
+        "bbox": [
+            509,
+            123,
+            919,
+            166
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/1cd10523de4595f2f8cc058c4187dbe0eb59547a4f54cf7b6ddc1dcd2b22bbf7.jpg",
+        "text": "$$\n\\mathcal { E } _ { \\mathbf { r } } ^ { l , h } = \\frac { 1 } { | \\mathbf { r } | } \\sum _ { t \\in \\mathbf { r } } \\mathcal { E } _ { t } ^ { l , h } = \\frac { 1 } { | \\mathbf { r } | } \\sum _ { t \\in \\mathbf { r } } \\frac { e \\cdot \\mathbf { x } _ { t } ^ { L } } { | | e | | | x _ { t } ^ { L } | | } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            591,
+            174,
+            835,
+            214
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\vert \\mathbf { r } \\vert$ means the length of the response $\\mathbf { r }$ , $\\pmb { x } _ { t } ^ { L }$ is the $t$ -th token’s vector logit of the last layer $L , \\ e$ is a pooled vector of the most relevant vectors of $\\pmb { x } _ { t } ^ { L }$ according to the attention weights in the middle layer: ",
+        "bbox": [
+            509,
+            221,
+            919,
+            282
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "equation",
+        "img_path": "images/a5d1744eac15e23301087f37318adeea5499e50cf103a8366ac1d2cf068d6283.jpg",
+        "text": "$$\ne = \\frac { 1 } { | \\bar { \\mathcal { I } } _ { t } ^ { l , h } | } \\sum _ { j \\in \\bar { \\mathcal { I } } _ { t } ^ { l , h } } \\boldsymbol { x } _ { j } ^ { L } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            652,
+            290,
+            774,
+            332
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "where $\\boldsymbol { \\mathcal { I } } _ { t } ^ { l , h }$ means the attended times where the token has larger than top- $1 \\%$ attention scores with $\\pmb { x } _ { t } ^ { L }$ in the $l$ -th layer. ",
+        "bbox": [
+            510,
+            342,
+            921,
+            373
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Noted that some of these LLM based evaluation metrics represent research specializations. While they may not be directly targeted towards an actual RAG system, their presentation is an integral part of advancing researches in the field of RAG, indicating significant contributions as well. ",
+        "bbox": [
+            509,
+            374,
+            919,
+            449
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4 External Evaluation ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            476,
+            715,
+            492
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We have dissected the components of RAG and provided a comprehensive account of its internal evaluation. This section shifts our focus to the external utility that RAG, as a complete system, encounters. We summarize the external utility in two areas: safety and efficiency, the evaluation of whom are introduced below. ",
+        "bbox": [
+            509,
+            499,
+            919,
+            589
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.1 Safety Evaluation ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            607,
+            668,
+            622
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Safety pertains to the RAG system’s capacity to ensure the generation of stable and harmless content within a dynamic, even noisy or hazardous environment. As RAG systems continue widespread deployment, safety concerns have intensified beyond those of standalone LLMs. The incorporation of external knowledge sources introduces unique vulnerabilities requiring specialized evaluation frameworks [20]. ",
+        "bbox": [
+            510,
+            630,
+            919,
+            737
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Robustness evaluations focus on system behavior when processing misleading information in retrieval results. The RECALL benchmark [78] tests discrimination between reliable and counterfactual knowledge using BLEU, ROUGE-L, and specialized metrics like Misleading Rate. Wu et al. [79] quantify susceptibility to semantically related but irrelevant information using Misrepresentation Ratio and Uncertainty Ratio. SafeRAG [80] categorizes challenges like ”inter-context conflict” with specific evaluation metrics, while C-RAG [81] provides theoretical guarantees on generation risks using conformal risk analysis and ROUGE-L. Cheng et al. [82] introduce two metrics to evaluate the RAG system: 1) Resilience ",
+        "bbox": [
+            510,
+            737,
+            927,
+            919
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Rate, aiming to emphases the system’s stability and robustness, quantifies the percentage of instances where the system’s responses remain accurate, both prior to and following retrieval augmentation. 2) Boost Rate quantifies the proportion of instances initially answered erroneously that were subsequently corrected upon the introduction of a retrieved document, evaluating the effectiveness of RAG. ",
+        "bbox": [
+            78,
+            76,
+            487,
+            182
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Factuality focuses on generating accurate information and avoiding plausible but incorrect statements (hallucinations), especially with noisy or conflicting retrieval results [78, 83, 84]. Key metrics include Factual Accuracy, using standard QA metrics (EM, F1, accuracy, etc.) when the context might be misleading [78]; the Hallucination Rate, the frequency of generated information not supported by or contradicting retrieved documents, often measured via LLM-as-judge [85] or human evaluation; Citation Accuracy, assessing correct attribution to sources using Citation Precision and Citation Recall [20, 85]; and Faithfulness Metrics, evaluating how accurately the output reflects retrieved information [83]. ",
+        "bbox": [
+            78,
+            184,
+            487,
+            366
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Adversarial attacks target specific components within the RAG pipeline. Knowledge database poisoning (PoisonedRAG [86]) targets the retrieval corpus by injecting malicious texts that trigger predetermined outputs when retrieved. This attack vector is evaluated using Attack Success Rate (ASR) and retrieval-focused Precision/Recall/F1 metrics. Retrieval hijacking (HijackRAG [87]) exploits ranking algorithms to prioritize malicious content during retrieval, with evaluation focusing on attack transferability across models. Phantom attacks [88] use trigger-activated documents evaluated through Retrieval Failure Rate (Ret-FR), while jamming attacks [89] insert ‘blocker’ documents that force response refusal, assessed through oracle-based metrics. ",
+        "bbox": [
+            78,
+            369,
+            489,
+            565
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Privacy assess information exposure risks from retrieval databases or user queries [90]. Evaluation often involves simulated attacks [91,92]. Key metrics about privacy include the Extraction Success Rate, the frequency or success rate of attacks extracting specific private information (e.g., names, PII) from the knowledge base, often measured by the count of successfully extracted items [90]; the PII Leakage Rate, the amount or percentage of Personally Identifiable Information inadvertently revealed in generated outputs, typically found via pattern matching or inspection [93]; and the Membership Inference Attack Success, which measures an attacker’s ability to determine if a specific data record was in the RAG system’s knowledge base. ",
+        "bbox": [
+            78,
+            569,
+            487,
+            765
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Fairness examines if the RAG system exhibits or amplifies biases from retrieved documents or training, leading to inequitable outputs [94]. Bias Metrics are used to analyze the outputs for disparities, which are quantitative measures of performance disparities (e.g., error rates, sentiment scores) across demographic groups [94]. Stereotype Detection measures the frequency or severity of harmful stereotypes in generated text, assessed via lists or human evaluation. Counterfactual Fairness checks if outputs change inappropriately when sensitive attributes in queries or context are altered. ",
+        "bbox": [
+            78,
+            768,
+            487,
+            919
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Transparency / Accountability assesses the understandability and traceability of the RAG system’s reasoning process, enabling verification of sources and justification [95, 96]. Metrics are often qualitative or user-focused, such as Explanation Quality, based on human ratings of the clarity, completeness, and usefulness of explanations or provenance information [96]; Traceability, the ease of linking the final output back to specific source documents or passages; and Citation Accuracy (precision/recall) [20]. ",
+        "bbox": [
+            510,
+            76,
+            919,
+            212
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Comprehensive safety benchmarks standardize evaluation across multiple dimensions. SafeRAG [80] classifies attack tasks into four categories with tailored datasets. VERA framework [97] uses bootstrap sampling for confidence bounds on safety metrics, while DeepTeam’s red teaming approach [93] identifies vulnerabilities through systematic testing. In addition, current research indicates defense mechanisms remain insufficient against sophisticated attacks [86–88]. Evaluations reveal significant vulnerabilities in current RAG systems [87, 88], underscoring the need for robust benchmarks and metrics addressing the unique safety challenges arising from the retrieval-generation interplay. Further efforts are required to evaluate the safety of RAG. ",
+        "bbox": [
+            510,
+            214,
+            919,
+            410
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4.2 Efficiency Evaluation ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            433,
+            692,
+            447
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Efficiency is another crucial aspect of RAG’s utility, directly linked to the real-world significance of a system’s popularity, cost, and effectiveness. ",
+        "bbox": [
+            510,
+            457,
+            917,
+            501
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Latency evaluation typically focuses on two critical metrics. Time to first token (TTFT) [98] measures the time taken by the system to produce its initial output token after receiving a query, which is particularly crucial for user experience as it directly impacts perceived responsiveness. This metric is especially important in interactive applications where immediate feedback maintains user engagement. Additionally, complete response time (total latency) measures the duration from query submission to the generation of the entire response. This encompasses retrieval time, processing time, and generation time for all tokens. Hofstatte et al. [99] proposed Single Query Latency that refers to the complete endto-end time taken to process a single query, including both complete retrieval and generation phases. ",
+        "bbox": [
+            510,
+            504,
+            919,
+            715
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Resources and Money Cost evaluation of RAG systems is another critical component for assessing the efficiency. Cost evaluation methodologies typically focus on quantifying both direct expenditures and efficiency metrics that impact overall system economics. The total cost of RAG systems can be categorized into several key components [126]: ",
+        "bbox": [
+            510,
+            717,
+            919,
+            807
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "• Infrastructure Costs: Computing local resources for embedding generation, vector database maintenance, and LLM inference for open models. • Token-based Expenses: API charges for external LLM services based on input and output token usage. • Storage Costs: Vector database hosting and maintenance expenses that scale with corpus size. ",
+        "bbox": [
+            534,
+            810,
+            919,
+            921
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/aeea04f3be3310293bbc01ba0d8ccf72323c0d9bee518b1edc29e08c7879863f.jpg",
+        "table_caption": [
+            "Table 1 Overview of RAG benchmarks and their evaluation datasets. Source Domain indicates the data origin (e.g., real-time news, specialized corpora), and Special Points highlight unique or novel features (like domain-specific tasks, dynamic changes, or false-premise data). "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            75,
+            104,
+            921,
+            499
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "• Operational Overhead: Human supervision, system maintenance, and regular updates to knowledge bases. ",
+        "bbox": [
+            102,
+            524,
+            507,
+            554
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "• Development Costs: Initial implementation, integration, and customization expenses. ",
+        "bbox": [
+            102,
+            557,
+            487,
+            587
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "For more details in the token-based expenses, LLM providers such as OpenAI and Google offer token usage metrics that track input and output token consumption during evaluation processes. This approach calculates costs by multiplying token counts by their respective pricing rates [127]. Researchers have developed metrics to evaluate the economic efficiency of RAG implementations: ",
+        "bbox": [
+            78,
+            589,
+            500,
+            695
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "• Cost-Effectiveness Ratio: Measures performance improvement per unit of cost, allowing for standardized comparison between different RAG configurations [127]. ",
+        "bbox": [
+            104,
+            703,
+            494,
+            747
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "• Retrieval Precision ROI: Quantifies the economic return of improving retrieval precision by measuring the reduction in irrelevant context processing costs [127]. This metric demonstrated that optimizing retrieval can improve cost efficiency by up to around $50 \\%$ through reducing token consumption during LLM inference. ",
+        "bbox": [
+            104,
+            751,
+            489,
+            842
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "• User-Controllable Cost-Accuracy Tradeoffs: Su et al. [128] propose evaluation methods using an interpretable control parameter $( \\alpha )$ that allows systematic assessment αof the relationship between retrieval costs and accuracy. This approach enables evaluating RAG systems across a spectrum of cost constraints rather than at fixed operating points. ",
+        "bbox": [
+            104,
+            844,
+            492,
+            919
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            547,
+            524,
+            921,
+            554
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "• Comparative Cost Analysis: Methodologies for evaluating relative cost efficiency between different RAG implementations for specific use cases, considering both direct costs and long-term economic sustainability [129]. ",
+        "bbox": [
+            534,
+            556,
+            926,
+            616
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "5 Resources ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            650,
+            628,
+            667
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The evaluation methodologies previously examined are comprehensive, though not necessarily abundant. This section systematically compiles, categorizes, and presents the implemented RAG evaluation frameworks, benchmarks, analytical tools, and datasets that have emerged in the large language model era. To our knowledge, this compilation constitutes the most exhaustive collection of RAG evaluation frameworks currently documented in the literature. ",
+        "bbox": [
+            510,
+            676,
+            919,
+            797
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Datasets. We compiled the benchmarks along with the associated datasets in recent years. Early works focus on static general-purpose QA datasets (e.g., NQ [100], HotpotQA [101]), providing well-established baselines but lack recency or domain specificity. Recent benchmarks counter these limitations by 1) sourcing live news or rapidly updated online documents (e.g., RGB [85], MultiHop-RAG [7]) to test timesensitive capabilities; 2) curating domain-specific corpora in law, healthcare, or finance (e.g., MedRAG [107], OmniEval [120], LegalBench-RAG [114]); or 3) generating synthetic data or specialized QA pairs, possibly with false-premise or counterfactual elements (e.g., FreshLLMs [56], RAGEval [115 to assess robustness and misinformation handling. We further provide a concise description of the original domains and characteristics according to the original resource, as shown in Table 1. Noted that only the datasets containing retrieved ground truth documents are included, indicating a concern for more in-depth system component evaluation. ",
+        "bbox": [
+            510,
+            798,
+            932,
+            921
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/60f63f37c9bedf4208b6b3efeb0cb8cedd59effe4794c5fc49490ff477e77d24.jpg",
+        "table_caption": [
+            "Table 2 RAG evaluation frameworks, highlighting principal evaluation targets and methods. Retrieval focuses mainly on Relevance (R), Correctness $\\mathrm { ( C ) }$ or Comprehensiveness, whereas generation (right) focuses on Faithfulness (F), Correctness (C), or Relevance (R). External evaluation targets (safety, efficiency) or other statements appear in italics. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            89,
+            110,
+            907,
+            714
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            737,
+            492,
+            889
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Frameworks with Evaluation Methods. We compiled and summarized the evaluation methods devised by existing frameworks, as illustrated in Table 2. These efforts span from initial, point-level researches [40, 99] to later, multicomponent evaluation tools and benchmarks [73, 131], encompassing a remarkably comprehensive collection of assessment frameworks. The evaluation methods employed are varied, encompassing both traditional [78, 132] and LLM-based metrics [106, 110]. Additionally, there are frameworks that facilitate safety-focused evaluations [85, 116], or are tailored to specific downstream domains like document [55,125], telecom [113], medicine [107], etc. Referencing the component evaluation objectives outlined in section 3.1, we categorize and highlight the evaluation elements and specific metrics. ",
+        "bbox": [
+            78,
+            890,
+            487,
+            919
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            737,
+            919,
+            919
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "image",
+        "img_path": "images/cff727348cdbdc7c3ebfd6b673e0de142e7aeab3b2b92be616fea60775734761.jpg",
+        "image_caption": [
+            "Fig. 3 Statistics on the distribution of RAG studies across four key areas: retrieval, generation, safety, and efficiency. A paper may utilize evaluation methods in more than one areas. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            144,
+            77,
+            421,
+            179
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/87118e4680b542e128ff5e0949cd3be6201e65e5ebe15b2d4d09b661a20d35aa.jpg",
+        "image_caption": [
+            "Fig. 4 Frequency statistics wordcloud of evaluation metrics in RAG studies. The LLM-based methods are categorized based on the targets and presented with the suffix ‘-LLM’. F-score refers to the expanded F1-score. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            92,
+            244,
+            480,
+            340
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6 Discussion ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            411,
+            200,
+            428
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.1 Statistics and Analysis of RAG Evaluation ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            439,
+            403,
+            454
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "The proliferation of LLM has contributed to a significant diversification of RAG evaluation methods. Current researches, while demonstrating comprehensive coverage of RAG evaluation dimensions, often subjectively assert their respective utility statements. To assess the popularity of these evaluation methods, we conducted a statistical analysis of the available methods from a survey perspective. This can also be viewed as a research-oriented simple meta-evaluation. We crawled the collection of the papers since 2022 autumn with keywords about RAG in the accepted papers of the high-level conferences about NLP & AI, and extracted the component as well as the evalauation metrics the papers focus and utilize. We finally amassed a total of 582 PDF manuscripts. All the included papers have undergone rigorous peer review, demonstrating scholarly merit with complete experimental methodologies and logically structured evaluation procedures. ",
+        "bbox": [
+            78,
+            463,
+            487,
+            705
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Research Focus. Figure 3 illustrates the statistical distribution of evaluation methods used across the four different segments in RAG studies (Retrieval / Generation / Safety / Efficiency). The data suggests a prevailing focus on internal research and evaluation of RAG systems, as indicated by the extensive coverage of the retrieval and generation processes. In contrast, external evaluations, particularly those related to safety, have garnered less attention. ",
+        "bbox": [
+            78,
+            708,
+            489,
+            828
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Metric Preference. Word frequency counts were conducted for the assessment metrics mentioned in the papers, with the wordcloud displayed in Figure 4. Whenever a metric is formally introduced in the body of a paper or reported in the table of experimental results, its word frequency count is set $+ 1$ . We manually merged and mapped synonymous metrics in the same session and excluded the words with global occurrences lower than twice. It is observed that traditional metrics predominantly dominate the evaluation usage, while LLM-based methods have not yet gained widespread acceptance among researchers. This phenomenon is attributed to the simplicity and reliability of the conventional metrics. Conversely, the LLM-based methods often require more effort and involve multiple settings that are difficult to keep the same across different researches, such as the LLM version and prompt design. ",
+        "bbox": [
+            78,
+            829,
+            487,
+            919
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d916ad287ef179412c26cf3490465ab94528f39fd6d7e48b3db765babb13f7f.jpg",
+        "image_caption": [
+            "Fig. 5 The number of papers explicitly mentioning LLM-based evaluation on RAG. The $2 0 2 5 \\ : \\mathrm { H } 1$ collection is up to March 31st. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            556,
+            76,
+            868,
+            192
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            254,
+            919,
+            406
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Trend of LLM Usage. Despite the potential issues with LLM-based methods, there is an observable trend of increasing application, as shown in Figure 5 $. 2 0 2 4 \\ : \\mathrm { H } 2$ and $2 0 2 5 \\ : \\mathrm { H } 1$ have the top two highest numbers. LLM judges are ultimately capable of handling more complex designs, drawing closer to real-world applications. LLM itself, additionally, has continued to evolve in recent years, with the performance progressively improving, and the supported functions expanding. ",
+        "bbox": [
+            510,
+            407,
+            919,
+            528
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6.2 Challenges and Future Directions ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            546,
+            773,
+            561
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "This section addresses several challenges inherent in contemporary RAG evaluation. ",
+        "bbox": [
+            510,
+            570,
+            917,
+            600
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Limitations of LLM-based Methods. The current evaluation design does not sufficiently address the timeliness and the black-box nature inherent in the LLM. The method of employing LLMs for assessments, particularly through direct prompts, raises latent risk about stability and security. Future research should focus on enhancing the robustness of the evaluation process itself and minimizing the likelihood of LLM errors in the RAG system. ",
+        "bbox": [
+            510,
+            601,
+            919,
+            722
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Cost of Evaluation. The cost associated with the RAG system has garnered attention. Nevertheless, a thorough evaluation remains expensive due to the vast scale of the tools and datasets involved. Determining an efficient method for system evaluation, or striking a balance between cost and effectiveness, is one of the directions for future research. ",
+        "bbox": [
+            510,
+            723,
+            919,
+            812
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Advanced Evaluation Methods. As LLMs continue to evolve, the components of RAG systems are becoming more diverse. Currently, many of these components are evaluated using end-to-end RAG ontology metrics, with a lack of comprehensive functional decomposition evaluation or theoretical analysis. Concurrently, there remains untapped potential in the functionalities of LLMs themselves. For instance, the evaluation about deep thinking models (e.g. openai-o1 [135]) along with the thinking process of LLMs in conjunction with RAG’s retrieval and generation process, is still inadequate. These in-depth evaluation strategies require further research and development in the future. ",
+        "bbox": [
+            510,
+            814,
+            919,
+            919
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            76,
+            487,
+            151
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Comprehensiveness of the Evaluation Framework. Despite the abundant evaluation frameworks at present, individual ones are somewhat limited in their metrics and methods of evaluation. Moreover, most contemporary frameworks concentrate on widely used languages such as English and Chinese. There is an urgent need for frameworks that are not only methodologically but also linguistically diverse. ",
+        "bbox": [
+            78,
+            154,
+            489,
+            259
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "7 Conclusion ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            300,
+            206,
+            317
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we have presented the first comprehensive survey of RAG evaluation methodologies in the LLM era. Our systematic analysis reveals several important insights for researchers and practitioners working with these increasingly prevalent systems. For the evaluation of internal RAG performance, we dissect the internal components of RAG systems, define the assessment objectives, and gather a range of methods and metrics from traditional to innovative. Moreover, we investigate the external evaluation related to system integrity such as safety and efficiency, which are underexplored in RAG research according to our statistical analysis. Additionally, we compile and categorize the current evaluation datasets and frameworks to elucidate the unique attributes and assessment focuses of the resources. Last but not least, we analyze the implementation of existing evaluation methods and synthesize the challenges and future directions of RAG evaluation in the LLM era. ",
+        "bbox": [
+            78,
+            331,
+            489,
+            588
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            603,
+            191,
+            615
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Competing interests The authors declare that they have no competing interests or financial conflicts to disclose. ",
+        "bbox": [
+            78,
+            633,
+            489,
+            657
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            700,
+            173,
+            715
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "1. Fan W, Ding Y, Ning L, Wang S, Li H, Yin D, Chua T S, Li Q. A survey on rag meeting llms: Towards retrieval-augmented large language models. In: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2024, 6491–6501   \n2. Gutierrez B J, Shu Y, Gu Y, Yasunaga M, Su Y. Hipporag: Neuro-´ biologically inspired long-term memory for large language models. arXiv preprint arXiv:2405.14831, 2024   \n3. Zhang Y, Khalifa M, Logeswaran L, Lee M, Lee H, Wang L. Merging Generated and Retrieved Knowledge for Open-Domain QA. In: Bouamor H, Pino J, Bali K, eds, Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. December 2023, 4710–4728   \n4. Yao J Y, Ning K P, Liu Z H, Ning M N, Yuan L. Llm lies: Hallucinations are not bugs, but features as adversarial examples. arXiv preprint arXiv:2310.01469, 2023   \n5. Wang L, Yang N, Huang X, Jiao B, Yang L, Jiang D, Majumder R, Wei F. Text embeddings by weakly-supervised contrastive pretraining. arXiv preprint arXiv:2212.03533, 2022   \n6. Robertson S, Zaragoza H, others . The probabilistic relevance framework: Bm25 and beyond. Foundations and Trends $^ { \\textregistered }$ in Information Retrieval, 2009, 3(4): 333–389   \n7. Tang Y, Yang Y. Multihop-rag: Benchmarking retrieval-augmented generation for multi-hop queries. arXiv preprint arXiv:2401.15391, 2024   \n8. Sun J, Xu C, Tang L, Wang S, Lin C, Gong Y, Shum H Y, Guo J. Think-on-graph: Deep and responsible reasoning of large language model with knowledge graph. CoRR, 2023   \n9. Gao Y, Xiong Y, Gao X, Jia K, Pan J, Bi Y, Dai Y, Sun J, Wang H, Wang H. Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997, 2023, 2   \n10. Brown T, Mann B, Ryder N, Subbiah M, Kaplan J D, Dhariwal P, Neelakantan A, Shyam P, Sastry G, Askell A, others . Language models are few-shot learners. Advances in neural information processing systems, 2020, 33: 1877–1901   \n11. Zhao W X, Zhou K, Li J, Tang T, Wang X, Hou Y, Min Y, Zhang B, Zhang J, Dong Z, others . A survey of large language models. arXiv preprint arXiv:2303.18223, 2023   \n12. Yildirim I, Paul L. From task structures to world models: what do llms know? Trends in Cognitive Sciences, 2024   \n13. Zhang S, Dong L, Li X, Zhang S, Sun X, Wang S, Li J, Hu R, Zhang T, Wu F, others . Instruction tuning for large language models: A survey. arXiv preprint arXiv:2308.10792, 2023   \n14. Verma P, Pilanci M. Towards signal processing in large language models. arXiv preprint arXiv:2406.10254, 2024   \n15. Lyu H, Jiang S, Zeng H, Xia Y, Wang Q, Zhang S, Chen R, Leung C, Tang J, Luo J. Llm-rec: Personalized recommendation via prompting large language models. In: Findings of the Association for Computational Linguistics: NAACL 2024. 2024, 583–612   \n16. Zhang B, Liu Z, Cherry C, Firat O. When scaling meets llm finetuning: The effect of data, model and finetuning method. In: ICLR. 2024   \n17. Reynolds L, McDonell K. Prompt programming for large language models: Beyond the few-shot paradigm. In: Extended abstracts of the 2021 CHI conference on human factors in computing systems. 2021, 1–7   \n18. Wei J, Wang X, Schuurmans D, Bosma M, Xia F, Chi E, Le Q V, Zhou D, others . Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 2022, 35: 24824–24837   \n19. Huang Y, Huang J. A survey on retrieval-augmented text generation for large language models. arXiv preprint arXiv:2404.10981, 2024   \n20. Zhou Y, Liu Y, Li X, Jin J, Qian H, Liu Z, Li C, Dou Z, Ho T Y, Yu P S. Trustworthiness in retrieval-augmented generation systems: A survey. arXiv preprint arXiv:2409.10102, 2024   \n21. Yu H, Gan A, Zhang K, Tong S, Liu Q, Liu Z. Evaluation of retrievalaugmented generation: A survey. In: CCF Conference on Big Data. 2024, 102–120   \n22. Lewis P, Perez E, Piktus A, Petroni F, Karpukhin V, Goyal N, Kuttler ¨ H, Lewis M, Yih W t, Rocktaschel T, others . Retrieval-augmented ¨ generation for knowledge-intensive nlp tasks. Advances in neural information processing systems, 2020, 33: 9459–9474   \n23. Li H, Su Y, Cai D, Wang Y, Liu L. A survey on retrieval-augmented text generation. arXiv preprint arXiv:2202.01110, 2022   \n24. Dinan E, Roller S, Shuster K, Fan A, Auli M, Weston J. Wizard of wikipedia: Knowledge-powered conversational agents. arXiv preprint arXiv:1811.01241, 2018   \n25. Qin L, Galley M, Brockett C, Liu X, Gao X, Dolan W B, Choi Y, Gao J. Conversing by reading: Contentful neural conversation with ondemand machine reading. In: Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics. 2019, 5427– 5436   \n26. Kobayashi M, Takeda K. Information retrieval on the web. ACM computing surveys (CSUR), 2000, 32(2): 144–173   \n27. Lee H, Yang S, Oh H, Seo M. Generative multi-hop retrieval. In: Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. 2022, 1417–1436   \n28. Zhang S, Yao L, Sun A, Tay Y. Deep learning based recommender system: A survey and new perspectives. ACM Computing Surveys, 2019, 52(1): 1–38   \n29. Wang W, Lin X, Feng F, He X, Chua T S. Generative recommendation: Towards next-generation recommender paradigm. arXiv preprint arXiv:2304.03516, 2023   \n30. Karpukhin V, Oguz B, Min S, Lewis P, Wu L, Edunov S, Chen D, Yih W t. Dense passage retrieval for open-domain question answering. In: Webber B, Cohn T, He Y, Liu Y, eds, Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP). November 2020, 6769–6781   \n31. Google . Programmable Search Engine | Google for Developers, 2024   \n32. Yepes A J, You Y, Milczek J, Laverde S, Li R. Financial report chunking for effective retrieval augmented generation. arXiv preprint arXiv:2402.05131, 2024   \n33. Fan W, Ding Y, Ning L, Wang S, Li H, Yin D, Chua T S, Li Q. A survey on rag meeting llms: Towards retrieval-augmented large language models. In: Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2024, 6491–6501   \n34. Singh I S, Aggarwal R, Allahverdiyev I, Taha M, Akalin A, Zhu K, O’Brien S. Chunkrag: Novel llm-chunk filtering method for rag systems. arXiv preprint arXiv:2410.19572, 2024   \n35. Multi-Granularity M L M F. M3-embedding: Multi-linguality, multi-functionality, multi-granularity text embeddings through selfknowledge distillation. 2024   \n36. Mao Y, He P, Liu X, Shen Y, Gao J, Han J, Chen W. Generationaugmented retrieval for open-domain question answering. In: Zong C, Xia F, Li W, Navigli R, eds, Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 1: Long Papers). August 2021, 4089–4100   \n37. Mekala D, Vu T, Schick T, Shang J. Leveraging QA datasets to improve generative data augmentation. In: Goldberg Y, Kozareva Z, Zhang Y, eds, Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing. December 2022, 9737– 9750   \n38. Asai A, Wu Z, Wang Y, Sil A, Hajishirzi H. Self-rag: Learning to retrieve, generate, and critique through self-reflection. In: The Twelfth International Conference on Learning Representations. 2023   \n39. Douze M, Guzhva A, Deng C, Johnson J, Szilvasy G, Mazare P E, ´ Lomeli M, Hosseini L, Jegou H. The faiss library. CoRR, 2024 ´   \n40. Blagojevic V. Enhancing RAG Pipelines in Haystack: Introducing DiversityRanker and LostInTheMiddleRanker, August 2023   \n41. Besta M, Blach N, Kubicek A, Gerstenberger R, Podstawski M, Gianinazzi L, Gajda J, Lehmann T, Niewiadomski H, Nyczyk P, others . Graph of thoughts: Solving elaborate problems with large language models. In: Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 17682–17690   \n42. Lanchantin J, Toshniwal S, Weston J, Sukhbaatar S, others . Learning to reason and memorize with self-notes. Advances in Neural Information Processing Systems, 2023, 36: 11891–11911   \n43. Deng Y, Zhang W, Chen Z, Gu Q. Rephrase and respond: Let large language models ask better questions for themselves. CoRR, 2023   \n44. Wang C, Liu X, Yue Y, Tang X, Zhang T, Jiayang C, Yao Y, Gao W, Hu X, Qi Z, others . Survey on factuality in large language models: Knowledge, retrieval and domain-specificity. arXiv preprint arXiv:2310.07521, 2023   \n45. Zhao P, Zhang H, Yu Q, Wang Z, Geng Y, Fu F, Yang L, Zhang W, Cui B. Retrieval-augmented generation for ai-generated content: A survey. CoRR, 2024   \n46. Cheng M, Luo Y, Ouyang J, Liu Q, Liu H, Li L, Yu S, Zhang B, Cao J, Ma J, others . A survey on knowledge-oriented retrieval-augmented generation. arXiv preprint arXiv:2503.10677, 2025   \n47. Jarvelin K, Kek ¨ al¨ ainen J. Cumulated gain-based evaluation of ir tech- ¨ niques. ACM Transactions on Information Systems (TOIS), 2002, 20(4): 422–446   \n48. Sankoff D, Kruskal J B. Time warps, string edits, and macromolecules: the theory and practice of sequence comparison. Reading: Addison-Wesley Publication, 1983   \n49. Yujian L, Bo L. A normalized levenshtein distance metric. IEEE transactions on pattern analysis and machine intelligence, 2007, 29(6): 1091–1095   \n50. Lin C Y. ROUGE: A package for automatic evaluation of summaries. In: Text Summarization Branches Out. July 2004, 74–81   \n51. Papineni K, Roukos S, Ward T, Zhu W J. Bleu: a method for automatic evaluation of machine translation. In: Isabelle P, Charniak E, Lin D, eds, Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics. July 2002, 311–318   \n52. Banerjee S, Lavie A. Meteor: An automatic metric for mt evaluation with improved correlation with human judgments. In: Proceedings of the acl workshop on intrinsic and extrinsic evaluation measures for machine translation and/or summarization. 2005, 65–72   \n53. Zhang T, Kishore V, Wu F, Weinberger K Q, Artzi Y. BERTScore: Evaluating Text Generation with BERT. In: 8th International Conference on Learning Representations, ICLR 2020, Addis Ababa, Ethiopia, April 26-30, 2020. 2020   \n54. Rengo M, Beadini S, Alfano D, Abbruzzese R. A system for comprehensive assessment of rag frameworks. arXiv preprint arXiv:2504.07803, 2025   \n55. Zhang J, Zhang Q, Wang B, Ouyang L, Wen Z, Li Y, Chow K H, He C, Zhang W. Ocr hinders rag: Evaluating the cascading impact of ocr on retrieval-augmented generation. arXiv preprint arXiv:2412.02592, 2024   \n56. Vu T, Iyyer M, Wang X, Constant N, Wei J, Wei J, Tar C, Sung Y H, Zhou D, Le Q, Luong T. FreshLLMs: Refreshing large language models with search engine augmentation. In: Ku L W, Martins A, Srikumar V, eds, Findings of the Association for Computational Linguistics: ACL 2024. August 2024, 13697–13720   \n57. Sælemyr J, Femdal H T. Chunk smarter, retrieve better: Enhancing llms in finance: An empirical comparison of chunking techniques in retrieval augmented generation for financial reports. Master’s thesis, NORWEGIAN SCHOOL OF ECONOMICS, 2024   \n58. Finardi P, Avila L, Castaldoni R, Gengo P, Larcher C, Piau M, Costa P, Carida V. The chronicles of rag: The retriever, the chunk and the ´ generator. arXiv preprint arXiv:2401.07883, 2024   \n59. Muennighoff N, Tazi N, Magne L, Reimers N. Mteb: Massive text embedding benchmark. arXiv preprint arXiv:2210.07316, 2022   \n60. Enevoldsen K, Chung I, Kerboua I, Kardos M, Mathur A, Stap D, Gala J, Siblini W, Krzeminski D, Winata G I, others . Mmteb:´ Massive multilingual text embedding benchmark. arXiv preprint arXiv:2502.13595, 2025   \n61. Es S, James J, Anke L E, Schockaert S. Ragas: Automated evaluation of retrieval augmented generation. In: Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics: System Demonstrations. 2024, 150–158   \n62. Leng Q, Uhlenhuth K, Polyzotis A. Best practices for llm evaluation of rag applications (2023). URL https://www. databricks. com/blog/LLM-auto-eval-best-practices-RAG   \n63. Zhang H, Semnani S, Ghassemi F, Xu J, Liu S, Lam M. Spaghetti: Open-domain question answering from heterogeneous data sources with retrieval and semantic parsing. In: Findings of the Association for Computational Linguistics ACL 2024. 2024, 1663–1678   \n64. Finsås M, Maksim J. Optimizing rag systems for technical support with llm-based relevance feedback and multi-agent patterns. Master’s thesis, NTNU, 2024   \n65. Patil S G, Zhang T, Wang X, Gonzalez J E. Gorilla: Large language model connected with massive apis. Advances in Neural Information Processing Systems, 2024, 37: 126544–126565   \n66. Dai L, Xu Y, Ye J, Liu H, Xiong H. Seper: Measure retrieval utility through the lens of semantic perplexity reduction. arXiv preprint arXiv:2503.01478, 2025   \n67. Qi Z, Xu R, Guo Z, Wang C, Zhang H, Xu W. Long2rag: Evaluating long-context & long-form retrieval-augmented generation with key point recall. In: Findings of the Association for Computational Linguistics: EMNLP 2024. 2024, 4852–4872   \n68. Li M, Li X, Chen Y, Xuan W, Zhang W. Unraveling and mitigating retriever inconsistencies in retrieval-augmented large language models. In: Findings of the Association for Computational Linguistics ACL 2024. 2024, 4833–4850   \n69. Min S, Krishna K, Lyu X, Lewis M, Yih W t, Koh P, Iyyer M, Zettlemoyer L, Hajishirzi H. Factscore: Fine-grained atomic evaluation of factual precision in long form text generation. In: Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing. 2023, 12076–12100   \n70. Song Y, Kim Y, Iyyer M. Veriscore: Evaluating the factuality of verifiable claims in long-form text generation. arXiv preprint arXiv:2406.19276, 2024   \n71. Chen L, Zhang R, Guo J, Fan Y, Cheng X. Controlling risk of retrieval-augmented generation: A counterfactual prompting framework. In: Findings of the Association for Computational Linguistics: EMNLP 2024. 2024, 2380–2393   \n72. Fu J, $\\mathrm { N g } \\mathrm { ~ S ~ K ~ }$ , Jiang Z, Liu P. Gptscore: Evaluate as you desire. In: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). 2024, 6556–6576   \n73. Saad-Falcon J, Khattab O, Potts C, Zaharia M. Ares: An automated evaluation framework for retrieval-augmented generation systems. In: Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers). 2024, 338–354   \n74. Zhao X, Zhang H, Pan X, Yao W, Yu D, Chen J. Thrust: Adaptively propels large language models with external knowledge. Advances in Neural Information Processing Systems, 2023, 36: 69930–69948   \n75. Zhu K, Feng X, Du X, Gu Y, Yu W, Wang H, Chen Q, Chu Z, Chen J, Qin B. An information bottleneck perspective for effective noise filtering on retrieval-augmented generation. arXiv preprint arXiv:2406.01549, 2024   \n76. Li D, Yan J, Zhang T, Wang C, He X, Huang L, Xue H, Huang J. On the role of long-tail knowledge in retrieval augmented large language models. arXiv preprint arXiv:2406.16367, 2024   \n77. Sun Z, Zang X, Zheng K, Song Y, Xu J, Zhang X, Yu W, Li H. Redeep: Detecting hallucination in retrieval-augmented generation via mechanistic interpretability. arXiv preprint arXiv:2410.11414, 2024   \n78. Liu Y, Huang L, Li S, Chen S, Zhou H, Meng F, Zhou J, Sun X. Recall: A benchmark for llms robustness against external counterfactual knowledge. arXiv preprint arXiv:2311.08147, 2023   \n79. Wu S, Xie J, Chen J, Zhu T, Zhang K, Xiao Y. How easily do irrelevant inputs skew the responses of large language models? arXiv preprint arXiv:2404.03302, 2024   \n80. Liang X, Niu S, Li Z, Zhang S, Wang H, Xiong F, Fan J Z, Tang B, Song S, Wang M, others . Saferag: Benchmarking security in retrieval-augmented generation of large language model. arXiv preprint arXiv:2501.18636, 2025   \n81. Kang M, Gurel N M, Yu N, Song D, Li B. C-rag: Certified genera- ¨ tion risks for retrieval-augmented language models. In: International Conference on Machine Learning. 2024, 22963–23000   \n82. Cheng X, Wang X, Zhang X, Ge T, Chen S Q, Wei F, Zhang H, Zhao D. xrag: Extreme context compression for retrieval-augmented generation with one token. arXiv preprint arXiv:2405.13792, 2024   \n83. Asai A, Wu Z, Wang Y, Sil A, Hajishirzi H. Self-rag: Learning to retrieve, generate, and critique through self-reflection. In: The Twelfth International Conference on Learning Representations. 2023   \n84. Trivedi H, Balasubramanian N, Khot T, Sabharwal A. Interleaving retrieval with chain-of-thought reasoning for knowledge-intensive multi-step questions. In: ACL (1). 2023, 10014–10037   \n85. Chen J, Lin H, Han X, Sun L. Benchmarking large language models in retrieval-augmented generation. In: Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 17754–17762   \n86. Zou W, Geng R, Wang B, Jia J. Poisonedrag: Knowledge corruption attacks to retrieval-augmented generation of large language models. arXiv preprint arXiv:2402.07867, 2024   \n87. Zhang Y, Li Q, Du T, Zhang X, Zhao X, Feng Z, Yin J. Hijackrag: Hijacking attacks against retrieval-augmented large language models. arXiv preprint arXiv:2410.22832, 2024   \n88. Chaudhari H, Severi G, Abascal J, Jagielski M, Choquette-Choo C A, Nasr M, Nita-Rotaru C, Oprea A. Phantom: General trigger attacks on retrieval augmented language generation. arXiv preprint arXiv:2405.20485, 2024   \n89. Shafran A, Schuster R, Shmatikov V. Machine against the rag: Jamming retrieval-augmented generation with blocker documents. arXiv preprint arXiv:2406.05870, 2024   \n90. Zeng S, Zhang J, He P, Liu Y, Xing Y, Xu H, Ren J, Chang Y, Wang S, Yin D, others . The good and the bad: Exploring privacy issues in retrieval-augmented generation (rag). In: Findings of the Association for Computational Linguistics ACL 2024. 2024, 4505–4524   \n91. Cheng P, Ding Y, Ju T, Wu Z, Du W, Yi P, Zhang Z, Liu G. Trojanrag: Retrieval-augmented generation can be backdoor driver in large language models. arXiv preprint arXiv:2405.13401, 2024   \n92. Chaudhari H, Severi G, Abascal J, Jagielski M, Choquette-Choo C A, Nasr M, Nita-Rotaru C, Oprea A. Phantom: General trigger attacks on retrieval augmented language generation. arXiv preprint arXiv:2405.20485, 2024   \n93. Perez E, Huang S, Song F, Cai T, Ring R, Aslanides J, Glaese A, McAleese N, Irving G. Red teaming language models with language models, 2022   \n94. Shrestha R, Zou Y, Chen Q, Li Z, Xie Y, Deng S. Fairrag: Fair human generation via fair retrieval augmentation. CoRR, 2024, abs/2403.19964   \n95. Zhou Y, Liu Z, Jin J, Nie J Y, Dou Z. Metacognitive retrievalaugmented large language models. In: WWW. 2024, 1453–1463   \n96. Sudhi V, Bhat S R, Rudat M, Teucher R. Rag-ex: A generic framework for explaining retrieval augmented generation. In: SIGIR. 2024, 2776–2780   \n97. Ding T, Banerjee A, Mombaerts L, Li Y, Borogovac T, Weinstein J P D l C. Vera: Validation and evaluation of retrieval-augmented systems. arXiv preprint arXiv:2409.03759, 2024   \n98. Anthropic . Reducing latency, January 2025   \n99. Hofstatter S, Chen J, Raman K, Zamani H. FiD-Light: E ¨ fficient and Effective Retrieval-Augmented Text Generation. In: Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR ’23. July 2023, 1437– 1447   \n100. Kwiatkowski T, Palomaki J, Redfield O, Collins M, Parikh A, Alberti C, Epstein D, Polosukhin I, Devlin J, Lee K, Toutanova K, Jones L, Kelcey M, Chang M W, Dai A M, Uszkoreit J, Le Q, Petrov S. Natural questions: A benchmark for question answering research. Transactions of the Association for Computational Linguistics, 2019, 7: 453–466   \n101. Yang Z, Qi P, Zhang S, Bengio Y, Cohen W W, Salakhutdinov R, Manning C D. HotpotQA: A dataset for diverse, explainable multihop question answering. In: Conference on Empirical Methods in Natural Language Processing (EMNLP). 2018   \n102. Thorne J, Vlachos A, Christodoulopoulos C, Mittal A. FEVER: a large-scale dataset for fact extraction and VERification. In: NAACLHLT. 2018   \n103. Dinan E, Roller S, Shuster K, Fan A, Auli M, Weston J. Wizard of Wikipedia: Knowledge-powered conversational agents. In: Proceedings of the International Conference on Learning Representations (ICLR). 2019   \n104. DeYoung J, Jain S, Rajani N F, Lehman E, Xiong C, Socher R, Wallace B C. Eraser: A benchmark to evaluate rationalized nlp models. In: Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. 2020, 4443–4458   \n105. Zhang S, Liu X, Liu J, Gao J, Duh K, Van Durme B. Record: Bridging the gap between human and machine commonsense reading comprehension. arXiv preprint arXiv:1810.12885, 2018   \n106. Lyu Y, Li Z, Niu S, Xiong F, Tang B, Wang W, Wu H, Liu H, Xu T, Chen E. Crud-rag: A comprehensive chinese benchmark for retrievalaugmented generation of large language models. ACM Trans. Inf. Syst., 2025, 43(2)   \n107. Xiong G, Jin Q, Lu Z, Zhang A. Benchmarking retrieval-augmented generation for medicine. In: Findings of the Association for Computational Linguistics ACL 2024. 2024, 6233–6251   \n108. Wang S, Khramtsova E, Zhuang S, Zuccon G. Feb4rag: Evaluating federated search in the context of retrieval augmented generation. In: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2024, 763–773   \n109. Kamalloo E, Thakur N, Lassance C, Ma X, Yang J H, Lin J. Resources for brewing beir: reproducible reference models and an official leaderboard, 2023   \n110. Friel R, Belyi M, Sanyal A. Ragbench: Explainable benchmark for retrieval-augmented generation systems. arXiv preprint arXiv:2407.11005, 2024   \n111. Yu X, Cheng H, Liu X, Roth D, Gao J. ReEval: Automatic hallucination evaluation for retrieval-augmented large language models via transferable adversarial attacks. In: Duh K, Gomez H, Bethard S, eds, Findings of the Association for Computational Linguistics: NAACL 2024. June 2024, 1333–1351   \n112. Wang S, Liu J, Song S, Cheng J, Fu Y, Guo P, Fang K, Zhu Y, Dou Z. Domainrag: A chinese benchmark for evaluating domain-specific retrieval-augmented generation. CoRR, 2024   \n113. Roychowdhury S, Soman S, Ranjani H, Gunda N, Chhabra V, BALA S K. Evaluation of rag metrics for question answering in the telecom domain. ICML 2024 Workshop on Foundation Models in the Wild, 2024   \n114. Pipitone N, Alami G H. Legalbench-rag: A benchmark for retrieval-augmented generation in the legal domain. arXiv preprint arXiv:2408.10343, 2024   \n115. Zhu K, Luo Y, Xu D, Wang R, Yu S, Wang S, Yan Y, Liu Z, Han X, Liu Z, others . Rageval: Scenario specific rag evaluation dataset generation framework. CoRR, 2024   \n116. Galla D, Hoda S, Zhang M, Quan W, Yang T D, Voyles J. Courage: A framework to evaluate rag systems. In: Rapp A, Di Caro L, Meziane F, Sugumaran V, eds, Natural Language Processing and Information Systems. 2024, 392–407   \n117. Kasai J, Sakaguchi K, Le Bras R, Asai A, Yu X, Radev D, Smith N A, Choi Y, Inui K, others . Realtime qa: What’s the answer right now? Advances in neural information processing systems, 2023, 36: 49025–49043   \n118. Wu X, Li S, Wu H T, Tao Z, Fang Y. Does RAG introduce unfairness in LLMs? evaluating fairness in retrieval-augmented generation systems. In: Rambow O, Wanner L, Apidianaki M, Al-Khalifa H, Eugenio B D, Schockaert S, eds, Proceedings of the 31st International Conference on Computational Linguistics. January 2025, 10021–10036   \n119. Liu J, Ding R, Zhang L, Xie P, Huang F. Cofe-rag: A comprehensive full-chain evaluation framework for retrieval-augmented generation with enhanced data diversity. arXiv preprint arXiv:2410.12248, 2024   \n120. Wang S, Tan J, Dou Z, Wen J R. Omnieval: An omnidirectional and automatic rag evaluation benchmark in financial domain. arXiv preprint arXiv:2412.13018, 2024   \n121. Yang X, Sun K, Xin H, Sun Y, Bhalla N, Chen X, Choudhary S, Gui R D, Jiang Z W, Jiang Z, Kong L, Moran B, Wang J, Xu Y E, Yan A, Yang C, Yuan E, Zha H, Tang N, Chen L, Scheffer N, Liu Y, Shah N, Wanga R, Kumar A, Yih W t, Dong X L. Crag - comprehensive rag benchmark. In: Globerson A, Mackey L, Belgrave D, Fan A, Paquet U, Tomczak J, Zhang C, eds, Advances in Neural Information Processing Systems. 2024, 10470–10490   \n122. Papadimitriou I, Gialampoukidis I, Vrochidis S, others . Rag playground: A framework for systematic evaluation of retrieval strategies and prompt engineering in rag systems. arXiv preprint arXiv:2412.12322, 2024   \n123. Katsis Y, Rosenthal S, Fadnis K, Gunasekara C, Lee Y S, Popa L, Shah V, Zhu H, Contractor D, Danilevsky M. Mtrag: A multi-turn conversational benchmark for evaluating retrieval-augmented generation systems. arXiv preprint arXiv:2501.03468, 2025   \n124. Xu Z, Li Y, Ding R, Wang X, Chen B, Jiang Y, Zheng H, Lu W, Xie P, Huang F. Let llms take on the latest challenges! a chinese dynamic question answering benchmark. In: Proceedings of the 31st International Conference on Computational Linguistics. 2025, 10435–10448   \n125. Gao Y, Xiong Y, Wu W, Huang Z, Li B, Wang H. U-niah: Unified rag and llm evaluation for long context needle-in-a-haystack. arXiv preprint arXiv:2503.00353, 2025   \n126. Selvaraj T. Calculate the total cost of a retrieval augmented generation (rag) solution, February 2024   \n127. Zhang J, Li G, Su J. Sage: A framework of precise retrieval for rag. arXiv preprint arXiv:2503.01713, 2025   \n128. Su J, Healey J, Nakov P, Cardie C. Fast or better? balancing accuracy and cost in retrieval-augmented generation with flexible user control. CoRR, 2025   \n129. S¸akar T, Emekci H. Maximizing rag efficiency: A comparative analysis of rag methods. Natural Language Processing, 2025, 31(1): 1–25   \n130. Datta A, Fredrikson M, Leino K, Lu K, Sen S, Shih R, Wang Z. Exploring conceptual soundness with trulens. In: NeurIPS 2021 Competitions and Demonstrations Track. 2022, 302–307   \n131. LangChain . Evaluating rag architectures on benchmark tasks, November 2023   \n132. Mahboub A, Za’ter M E, Al-Rfooh B, Estaitia Y, Jaljuli A, Hakouz A. Evaluation of semantic search and its role in retrievedaugmented-generation (rag) for arabic language. arXiv preprint arXiv:2403.18350, 2024   \n133. Dong G, Song X, Zhu Y, Qiao R, Dou Z, Wen J R. Toward general instruction-following alignment for retrieval-augmented generation. arXiv preprint arXiv:2410.09584, 2024   \n134. Salemi A, Zamani H. Evaluating retrieval quality in retrievalaugmented generation. In: Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR ’24. 2024, 2395–2400   \n135. Jaech A, Kalai A, Lerer A, Richardson A, El-Kishky A, Low A, Helyar A, Madry A, Beutel A, Carney A, others . Openai o1 system card. arXiv preprint arXiv:2412.16720, 2024 ",
+        "bbox": [
+            92,
+            728,
+            489,
+            919
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            53,
+            922,
+            919
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            66,
+            492,
+            919
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            61,
+            922,
+            922
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            67,
+            492,
+            917
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            54,
+            922,
+            918
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            84,
+            53,
+            492,
+            924
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            63,
+            921,
+            926
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            75,
+            70,
+            492,
+            923
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            76,
+            921,
+            533
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/175cb3233a83ca11dd7daaff402dc6969dabac7db92a9c5979f56367ee26361d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            509,
+            630,
+            631,
+            742
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Aoran Gan is working toward the PhD degree in the School of Artificial Intelligence and Data Science, University of Science and Technology of China. His research interests include text mining, knowledge graph and large language models. ",
+        "bbox": [
+            665,
+            614,
+            921,
+            733
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/170d1af3478e61903411abe073869a803bd1ace8b8bb1c833582d67865d4635f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            509,
+            815,
+            631,
+            922
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Hao Yu is pursuing a MS degree at McGill University and is affiliated with Quebec Artificial Intelligence Institute. His research focuses on multilingual and low-resource NLP, as well as RAG systems for misinformation detection. ",
+        "bbox": [
+            665,
+            814,
+            921,
+            915
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "image",
+        "img_path": "images/c8a88a24ce057048e8a50a76f6cf869026dd2c5d1fa0efee07b5c21a969b77ed.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            75,
+            201,
+            201
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Kai Zhang is an Associate Researcher at the University of Science and Technology of China. His general area of research is natural language processing and knowledge discovery. He is a member of ACM, SIGIR, AAAI, and CCF. ",
+        "bbox": [
+            233,
+            71,
+            490,
+            174
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/29f7461addab8375f3d0a55d42de4d76107582c07cebc9e1c573b13baf6a3c87.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            510,
+            73,
+            631,
+            185
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Shiwei Tong is a senior data scientist at Tencent Company. His research focuses on Game Data Mining and Game Applications driven by Large Language Models. ",
+        "bbox": [
+            665,
+            71,
+            921,
+            155
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/1483e0aabc325315944996bb5f230a836158316eba9ee9dca4dc3c07d6bb1a4d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            233,
+            200,
+            347
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Qi Liu is a professor in the School of Artificial Intelligence and Data Science at USTC. His area of research is data mining and knowledge discovery. He has published prolifically in refereed journals and conferences. He is an Associate Editor of IEEE TBD and Neurocomputing. ",
+        "bbox": [
+            233,
+            219,
+            490,
+            338
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Wenyu Yan is currently pursuing MS degree in University of Science and Technology of China. His research interests focus on conversational search, retrievalaugmented generation, etc. ",
+        "bbox": [
+            233,
+            364,
+            489,
+            450
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/c0fbf0811f1f1cdc8ed487e3e5d328c11c853d3a5852c25f5fc9dcd8383dc45f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            369,
+            201,
+            485
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/5b364fdfb964c701e33d63daf842530d39f186573210be85ae5c0e4af580cd52.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            510,
+            336,
+            631,
+            454
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Enhong Chen is a professor in the School of Computer Science and Technology at USTC. His general area of research includes data mining and machine learning, social network analysis, and recommender systems. He was on program committees of numerous conferences including SIGKDD, ICDM, and SDM. ",
+        "bbox": [
+            665,
+            335,
+            921,
+            454
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            458,
+            734,
+            471
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c16a6295382a5fbb6d393fc5b38717c85ebb9ebd612cf122393b6db09ff8ccc.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            513,
+            200,
+            635
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Zhenya Huang is currently an Associate Professor with USTC. His main research interests include data mining, knowledge reasoning, natural language processing, and intelligent education. He has published more than 50 papers in refereed journals and conference proceedings. ",
+        "bbox": [
+            233,
+            501,
+            490,
+            621
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "image",
+        "img_path": "images/cd7236cb6657818366e090ea3e9819dd43ea2500c8a611a371b7a451971732e4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            509,
+            504,
+            631,
+            628
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Guoping Hu is senior vice president of iFLYTEK, director of the National Key Laboratory of Cognitive Intelligence. He has been honored with the First Prize of State Science and Technology Advancement Award and garnered over 300 authorized patents. ",
+        "bbox": [
+            665,
+            494,
+            922,
+            614
+        ],
+        "page_idx": 17
+    }
+]

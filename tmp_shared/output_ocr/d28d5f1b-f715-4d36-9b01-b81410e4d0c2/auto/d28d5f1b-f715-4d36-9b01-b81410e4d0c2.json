@@ -1,0 +1,719 @@
+[
+    {
+        "type": "text",
+        "text": "Brigitte DRÉNO1 Isabelle BENOIT2 Eric PERRIER2 Miroslav RADMAN3 ",
+        "text_level": 1,
+        "bbox": [
+            92,
+            78,
+            230,
+            129
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Beyond the genome: protecting the proteome may be the key to preventing skin aging ",
+        "text_level": 1,
+        "bbox": [
+            379,
+            73,
+            892,
+            115
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1INSERM, CNRS, Immunology and New Concepts in ImmunoTherapy, INCIT, UMR 1302/EMR6001, Nantes Université, Nantes, France 2NAOS-ILS, Aix-en-Provence, France, 3Mediterranean Institute for Life Sciences, Split, Croatia, Naos Institute for Life Sciences, Aix-en-Provence, France, Université R.-Descartes Paris-5, Faculté de Médecine, INSERM U1, Paris, France ",
+        "bbox": [
+            94,
+            143,
+            324,
+            270
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reprints: Brigitte Dréno <brigitte.dreno@atlanmed.fr> <brigitte.dreno@wanadoo.fr> ",
+        "bbox": [
+            94,
+            286,
+            278,
+            321
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Isabelle Benoit <isabelle.benoit@naos-ils.com> ",
+        "bbox": [
+            94,
+            329,
+            287,
+            352
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Eric Perrier <eric.perrier@naos.com> ",
+        "bbox": [
+            94,
+            360,
+            250,
+            384
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Skin aging is associated with a progressive decline in physiological functions, skin cancers and, ultimately, death. It may be categorized as intrinsic or extrinsic, whereby intrinsic aging is attributed to chronological and genetic factors. At the molecular level, skin aging involves changes in protein conformation and function. The skin proteome changes constantly, mainly through carbonylation; an irreversible phenomenon leading to protein accumulation as toxic aggregates that impair cellular physiology and accelerate skin aging. This review details the central role of proteostasis during skin aging and why proteome protection may be a promising approach in mitigating skin aging. A comprehensive literature review of 87 articles focusing on the proteome, proteostasis, proteotoxicity, protein carbonylation, and the impact of the damaged proteome on aging, and in particular skin aging, was conducted. Skin aging is associated with deficiencies in the repair mechanisms of DNA, transcriptional control, mitochondrial function, cell cycle control, apoptosis, cellular metabolism, changes in hormonal levels secondary to toxicity of damaged proteins, and cell-to-cell communication for tissue homeostasis, which are largely controlled by proteins. In this context, a damaged proteome that leads to the loss of proteostasis may be considered as the first step in tissue aging. There is growing evidence that a healthy proteome plays a central role in skin and in maintaining healthy tissues, thus slowing down the process of skin aging. Hence, protecting the proteome against oxidative or other damage may be an appropriate strategy to prevent and delay skin aging. ",
+        "bbox": [
+            379,
+            139,
+            904,
+            515
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Keywords: proteome, proteostasis, protein carbonylation, skin aging ",
+        "bbox": [
+            381,
+            521,
+            904,
+            537
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A lthough research regarding skin aging mainlyfocuses on aesthetic aspects, skin alteration caused by aging is more than a merely cosmetic issue [1-5]. Cutaneous aging is a complex biological phenomenon consisting of two distinct components: intrinsic genetically determined aging processes and extrinsic aging due to exposure to environmental factors, such as UV radiation and pollution [6-8]. ",
+        "bbox": [
+            94,
+            601,
+            485,
+            711
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Physiological changes in aged skin include structural and biochemical alterations, as well as changes in neurosensory perception, permeability, response to injury, and repair capability, which increase in some skin diseases, among them, skin cancer. In 2015, the World Health Organization World Report on Aging and Health emphasized the necessity to develop strategies dealing with aging, and the skin was identified as a domain that deserves greater attention [9]. ",
+        "bbox": [
+            94,
+            712,
+            485,
+            835
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In 2013, Lopez-Otin et al. first proposed the concept of biological geriatric assessment (BGA). This was updated in 2023 and includes 12 hallmarks considered as the denominators of aging including that of skin. These include genomic instability, telomere attrition, epigenetic alterations, loss of proteostasis (protein homeostasis), disabled macro-autophagy, dysregulated nutrient sensing, mitochondrial dysfunction, cellular senescence, stem cell exhaustion, altered intercellular communication, chronic inflammation, and dysbiosis. ",
+        "bbox": [
+            94,
+            835,
+            485,
+            917
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            601,
+            904,
+            658
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The proteome includes all proteins present in an organism or cell, and control of the proteome is referred to as “proteome homeostasis” or “proteostasis”. The proteome plays an essential role in all life forms since proteins, directly or indirectly, carry out all life functions. In the human body, proteins represent the second most abundant constituent after water [10]. However, to date, only modest attention has been devoted to proteome alterations in studies on aging. ",
+        "bbox": [
+            514,
+            660,
+            904,
+            788
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In a recent publication, a focus was given to the role of the proteome in aging, including that in the skin as well as age-related diseases [11]. The present review provides a focus on skin aging with relevant information about the proteome, and moreover details arguments in favour of the proteome as a potential central target in the strategy of prevention and management of skin aging that encompasses other well-known pathways of skin aging. ",
+        "bbox": [
+            514,
+            788,
+            904,
+            917
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methodology ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            37,
+            215,
+            57
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A comprehensive review of 87 articles available from PubMed was conducted. Focus was given on aging, the proteome, proteostasis, the proteasome, protein carbonylation and BGA, as well as its hallmarks: genomic instability, telomere attrition, epigenetic alterations, loss of proteostasis, dysregulated nutrient sensing, mitochondrial dysfunction, cellular or immune senescence, stem cell exhaustion, and altered intercellular communication in dermatology using the above key words, either alone or combined with each other. ",
+        "bbox": [
+            94,
+            74,
+            485,
+            220
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            253,
+            159,
+            271
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the skin, as in any other body tissue or cell, proteins are involved in each of the aging hallmarks stated by Lopez-Otin et al., consistent with the dependence of nearly all life functions on dedicated protein activities [12, 13]. ",
+        "bbox": [
+            94,
+            290,
+            485,
+            363
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Skin aging is a permanent process ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            39,
+            773,
+            56
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein turnover ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            385,
+            220,
+            401
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Skin and tissue aging via protein damage is mainly caused by protein glycation (figure $^ { l A }$ ), carbonylation (figure $I B$ ) and, to a lesser extent, through carbamylation. ",
+        "bbox": [
+            512,
+            58,
+            904,
+            115
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein turnover involves protein degradation (proteolysis) and resynthesis to maintain and regulate protein activity and remove abnormal (most frequently caused by oxidative damage), dysfunctional or cytotoxic proteins. In young tissues, damaged proteins are efficiently eliminated by selective proteolysis, thus avoiding dysfunction and cytotoxic effects of oxidized small aggregates, called “oligomers” [14, 15]. ",
+        "bbox": [
+            94,
+            406,
+            485,
+            522
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The accumulation of advanced glycation end products (AGEs), protein carbamylation and protein carbonylation (PC) products has been causally associated with skin aging [35-37]. ",
+        "bbox": [
+            512,
+            116,
+            904,
+            173
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Natural protein degradation is performed via the ubiquitin-proteasome system (UPS), an enzymatic complex dedicated to protein degradation which is present in all cells [16-19]. ",
+        "bbox": [
+            92,
+            524,
+            485,
+            580
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein quality control (PQC), involving multiple chaperones and degradative pathways, identifies and eliminates abnormal and misfolded proteins susceptible to carbonylation, that are deleterious to cells and tissues [20]. If PQC fails, then protein aggregation may occur. A certain number, but not all, of these aggregations are eliminated via autophagy [5, 21-23]. Thus, during aging, these protein aggregates accumulate in tissues, promoting the development of chronic inflammation. ",
+        "bbox": [
+            94,
+            581,
+            485,
+            712
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein glycation ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            198,
+            628,
+            211
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "During protein glycation, AGEs are derived from the modification of proteins or lipids that are glycated by reducing sugars [38-40]. They modify cell structure and extracellular matrices, which also results in the release of free radicals [41]. AGE accumulation in the dermis results in yellow, discoloured skin. Collagen cross‐links reduce flexibility and mobility, resulting in the loss of skin elasticity [41-46]. AGEs also induce strong nuclear factor $\\mathbf { \\sigma } \\cdot \\mathbf { \\kappa } \\mathbf { B }$ activation and cause inflammation in the skin via pro‐inflammatory cytokines [44, 47]. ",
+        "bbox": [
+            514,
+            213,
+            905,
+            354
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the skin, protein damage mostly results from external stimuli, including exposure to oxidants present in air pollution, ozone, chemical agents and radiation, such as UV light [24-29]. Moreover, protein damage can be caused through internally generated oxidants and reactive oxygen and nitrogen species, which are produced during metabolism or immune responses [30, 31]. Finally, protein damage can occur due to transcriptional or translational errors, since misfolded proteins become sensitive to carbonylation [32, 33]. Such biosynthetic errors can occur naturally, but become more prevalent with age due to a deficient feedback loop between accumulating damage and transcriptional and translational efficacy and fidelity [34]. ",
+        "bbox": [
+            94,
+            713,
+            485,
+            918
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/31be615c3fc291204077e68065cee2c72590a8737300db90050647e5da62f83e.jpg",
+        "image_caption": [
+            "Figure 1. Protein damage via glycation or carbonylation. A) Glycation. B) Carbonylation. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            512,
+            383,
+            902,
+            881
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unlike irreparable carbonylation, glycation is subject to efficient repair by Parkinsonism-associated Protein DJ-1/Park7 (DJ-1/PARK-7 deglycase) [48]. ",
+        "bbox": [
+            92,
+            39,
+            485,
+            81
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein carbonylation (PC) ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            107,
+            275,
+            120
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "PC forms reactive ketones or aldehydes [49]. It causes irreversible oxidative damage, frequently resulting in the loss of protein function and protein aggregation [50]. ",
+        "bbox": [
+            94,
+            121,
+            485,
+            162
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the skin, PC results in several distinguishable clinical changes. Transepidermal water loss is increased in the stratum corneum [51-53]. In the supra-basal epidermis, the accumulation of carbonylated keratins disrupts light transmission, which alters subjectively perceived skin radiance and homogeneity of skin complexion [54, 55]. Carbonylated proteins alter the dermis by degrading collagen and elastin. PC is associated with an alteration of fibroblasts, as well as changes in the expression of metalloproteases, such as MMP-1, and the development of chronic inflammation involving IL-8 [56-59]. ",
+        "bbox": [
+            94,
+            162,
+            485,
+            315
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein carbamylation ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            341,
+            243,
+            352
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Protein carbamylation is a non-enzymatic modification which involves the binding of isocyanic acid to protein functional groups. This reaction alters the structure and function of proteins, resulting in protein damage and chronic inflammatory diseases [37]. ",
+        "bbox": [
+            92,
+            354,
+            485,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Proteins as markers of skin aging ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            449,
+            317,
+            462
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A recent quantitative proteomic analysis identified a total of 95 differentially expressed proteins (DEPs) in aged skin, compared to young skin. An enrichment analysis of 57 upregulated and 38 downregulated proteins showed different functional clusters related to immunity and inflammation, oxidative stress, biosynthesis and metabolism, proteases, cell proliferation and differentiation, as well as apoptosis [60]. The most relevant up-regulated proteins in aged skin samples were galectin-3-binding protein and demicidin (both involved in the immune and inflammatory response), serpin B6 (a protease inhibitor), mucin-like protein 1 (a signal transduction related protein), melanotransferrin (a metal ion-containing protein), and the following proteins involved in cell apoptosis, as well as cell proliferation and differentiation: glypican-1, prelamin-A/C, syntening-2 and annexin A2. The most relevant down-regulated proteins were keratin type I cytoskeletal 15 and 39, keratin type II cytoskeletal 72, as well as keratin type I cuticular Ha5 and keratin type II cuticular Hb2. Other down-regulated proteins included cytoplasmic histidine-tRNA ligase and cytoskeleton-related protein and extracellular matrix protein 1. Moreover, glyceraldehyde-3-phosphate dehydrogenase, that regulates biomolecular interactions and post-translational modifications according to its subcellular localization, was found to be down-regulated [61]. ",
+        "bbox": [
+            94,
+            464,
+            485,
+            698
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            39,
+            904,
+            176
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Alterations of numerous proteins have been reported in tissue aging [60, 62]. Certain proteins that are very sensitive to ROS are more prominently related to BGA (table 1). ",
+        "bbox": [
+            514,
+            177,
+            904,
+            231
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Partial inhibition of the proteasome, a highly sophisticated protease complex, in young human fibroblasts accelerates cell senescence via the p53/Rb-dependent pathway, suggesting that the age-related decline in proteasome activity participates in human fibroblast senescence and, possibly, skin aging [68]. The age-related loss of proteasome activity in dermal fibroblasts is linked to the induction of matrix metalloprotease 1 (MMP-1 or collagenase-1) and decreased cell respiration [58, 69, 70]. ",
+        "bbox": [
+            514,
+            232,
+            904,
+            369
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            400,
+            610,
+            418
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This literature review provides arguments to support the loss of proteostasis and proteome damage as central actors in skin aging, affecting and interacting with all other BGA hallmarks (figure 2) [71]. ",
+        "bbox": [
+            512,
+            436,
+            905,
+            491
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aging is mainly driven by deficiencies in important cellular processes, such as DNA repair and stability, mitochondrial function, cell cycle control and apoptosis, cellular metabolism, changes in hormonal levels, and the communication between all the counterparts [72]. All these mechanisms are coordinated by the proteome. Therefore, in the skin, as in any other tissue, a damaged proteome and the resulting loss of proteostasis may be considered the first step, the root cause, of cellular dysfunction, leading to disease and aging. ",
+        "bbox": [
+            514,
+            491,
+            904,
+            630
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In the skin, sustaining proteostasis is challenging in the context of external and internal stressors. During aging, these stressors trigger a progressive decline in the integrity of the proteostasis network, leading to visible signs of skin aging, such as dry and thinned skin, wrinkles and pigmentation. Therefore, the balance between protein synthesis and degradation is essential in maintaining the youthful appearance of the skin, reflecting the healthy biochemical state of cells. ",
+        "bbox": [
+            512,
+            630,
+            905,
+            698
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6f763bd59c2d90487b1c39211bbc5ee1b380745b9af7a38ceb8b512d49fe1160.jpg",
+        "table_caption": [
+            "Table 1. Proteins that are very sensitive to ROS and more prominently related to BGA. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            92,
+            766,
+            907,
+            916
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/aa4b91cf05d66e47681acf6ffda681639edb1a46b428e1c4ec67a275c6b9f349.jpg",
+        "image_caption": [
+            "Figure 2. Impact of loss of proteostasis on BGA hallmarks during skin aging (adapted from Tuttle et al. [71]). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            90,
+            37,
+            907,
+            360
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            428,
+            485,
+            483
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Until recently, much of the research has focused on the protection and repair of DNA and genes that control and prevent cell and tissue aging. However, since proteins repair DNA and provide antioxidant protection, it is no surprise that, for example, extreme resistance to radiation is achieved by the antioxidant protection of the proteome, rather than by effects of the genome [14]. Hence, protecting the proteome against oxidative, or other damage may be an appropriate strategy to prevent and slow down skin aging. ",
+        "bbox": [
+            94,
+            484,
+            485,
+            622
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Interestingly, it has recently been shown that very resistant bacteria, named “polyextremophilic bacteria”, are able to survive following exposure to intense ionizing and UV irradiation, as well as hydrogen peroxide, acid, extreme temperatures and desiccation. Such robustness has been identified in relation to their capacity to safeguard their proteome by strong antioxidant small chaperone-like endogenous molecules, protecting proteins from carbonylation [73, 74]. Even if their DNA is extensively damaged, their physiology remains unaffected, which is due to highly efficient DNA repair by a well-protected intact proteome, providing extreme radiation resistance. The physiology of this bacteria offers new perspectives in skin aging, opening the door to in vivo protection of the proteome against carbonylation, aggregation and degradation induced by external factors. Acting at the root of the cause of aging and its hallmarks should be the most effective way to mitigate the biological consequences of aging. ",
+        "bbox": [
+            94,
+            622,
+            485,
+            882
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Several therapeutic approaches have been proposed to prevent or delay skin aging. However, they usually address only one specific aging hallmark, and thus induce only a mild effect on aging. Most of them target glycation, and some carbonylation, in the skin [75-77]. Among such treatments are: plant extracts, zinc, resveratrol derivatives and antioxidant vitamins; the aryl hydrocarbon receptor (AHR), a nuclear receptor that modulates the response to environmental stimuli and may activate innate immunity; aquaporin 3, which has been shown to reduce long-term UVA-induced senescence in skin fibroblasts by promoting autophagy; natural antioxidants, which exhibit redox-balancing and/or iron-chelating properties; and peptides with notable effects on chronologically aged and/or photo-damaged skin [76, 78-87]. ",
+        "bbox": [
+            92,
+            883,
+            485,
+            909
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            428,
+            904,
+            633
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This review of the literature provides strong arguments in favour of proteome damage being the root cause of aging, indicating the importance to develop strategies to protect proteins before they are degraded. Furthermore, protecting the skin proteome from oxidative damage by small chemical antioxidant chaperones promises to mitigate the majority of biological consequences of skin aging. Such proteome-protecting molecules exist in bacteria, accounting for their extreme radiation resistance. The use of such molecules in the form of a topical application to the skin represents a challenge in the management of aging, but if successful, could provide a new approach for both prevention and slowing down of skin ageing in the near future. ",
+        "bbox": [
+            514,
+            635,
+            904,
+            836
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conflicts of interest: Brigitte Dréno and Miroslav Radman receive funds from NAOS Les Laboratoires, France. Isabelle Benoit and Eric Perrier are employees of Naos-ILS. ",
+        "bbox": [
+            514,
+            852,
+            905,
+            909
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Funding: this work was funded by NAOS les Laboratoires, France. ",
+        "bbox": [
+            94,
+            39,
+            484,
+            66
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Data availability statement: the data that support the findings of this work are available from the corresponding author, Brigitte Dréno, upon reasonable request. ",
+        "bbox": [
+            92,
+            79,
+            485,
+            121
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Author contribution statement: all authors contributed equally to this work. ",
+        "bbox": [
+            94,
+            135,
+            485,
+            163
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ethical Considerations: not applicable ",
+        "bbox": [
+            94,
+            176,
+            359,
+            192
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments: the authors acknowledge the writing support of Karl Patrick Göritz, SMWS, France. ",
+        "bbox": [
+            94,
+            203,
+            485,
+            232
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            296,
+            193,
+            313
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Gonos ES, Kapetanou M, Sereikaite J, et al. Origin and pathophysiology of protein carbonylation, nitration and chlorination in age-related brain diseases and aging. Aging 2018 ; 10 : 868-901.   \n2. Brehme M, Voisine C, Rolland T, et al. A chaperome subnetwork safeguards proteostasis in aging and neurodegenerative disease. Cell Rep 2014 ; 9 : 1135-50.   \n3. Dalle-Donne I, Giustarini D, Colombo R, Rossi R, Milzani A. Protein carbonylation in human diseases. Trends Mol Med 2003 ; 9 : 169-76. 4. Hauck AK, Huang Y, Hertzel AV, Bernlohr DA. Adipose oxidative stress and protein carbonylation. J Biol Chem 2019 ; 294 : 1083-8.   \n5. Hipp MS, Kasturi P, Hartl FU. The proteostasis network and its decline in ageing. Nat Rev Mol Cell Biol 2019 ; 20 : 421-35.   \n6. Krutmann J, Bouloc A, Sore G, Bernard BA, Passeron T. The skin aging exposome. J Dermatol Sci 2017 ; 85 : 152-61.   \n7. Smith KE, Fenske NA. Cutaneous manifestations of alcohol abuse. J Am Acad Dermatol 2000 ; 43 : 1-16; quiz -8.   \n8. Grant-Kels JM. Nutrition and the skin: part I. Clin Dermatol 2021 ; 39 : 743-4.   \n9. World Health Organisation. World report on ageing and health: World Health Organization; 2015. https://www.who.int/publications/i/item/ 9789241565042.   \n10. Ellis KJ. Human body composition: in vivo methods. Physiol Rev 2000 ; 80 : 649-80.   \n11. Benoit I, Burty-Valin E, Radman M. A proteome-centric view of ageing, including that of the skin and age-related diseases: considerations of a common cause and common preventative and curative interventions. Clin Cosm Inv Dermatol 2023 ; 16 : 79-85.   \n12. López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. The hallmarks of aging. Cell 2013 ; 153 : 1194-217.   \n13. López-Otín C, Blasco MA, Partridge L, Serrano M, Kroemer G. Hallmarks of aging: an expanding universe. Cell 2023 ; 186 : 243-78. 14. Krisko A, Radman M. Protein damage, ageing and age-related diseases. Open Biol 2019 ; 9 : 180249.   \n15. Nandi D, Tahiliani P, Kumar A, Chandu D. The ubiquitin-proteasome system. J Biosci 2006 ; 31 : 137-55.   \n16. Saeki Y, Tanaka K. Assembly and function of the proteasome. Methods Mol Biol 2012 ; 832 : 315-37.   \n17. Hochstrasser M. Ubiquitin-dependent protein degradation. Annu Rev Genet 1996 ; 30 : 405-39.   \n18. Tomko RJ, Jr., Hochstrasser M. Molecular architecture and assembly of the eukaryotic proteasome. Annu Rev Biochem 2013 ; 82 : 415-45. 19. Wehmer M, Sakata E. Recent advances in the structural biology of the 26S proteasome. ThInt J Biochem Cell Biol 2016 ; 79 : 437-42. 20. Hanna J, Guerra-Moreno A, Ang J, Micoogullari Y. Protein degradation and the pathologic basis of disease. Am J Pathol 2019 ; 189 : 94-103.   \n21. Ravindran MS. Molecular chaperones: from proteostasis to pathogenesis. FEBS J 2018 ; 285 : 3353-61.   \n22. Budenholzer L, Cheng CL, Li Y, Hochstrasser M. Proteasome structure and assembly. J Mol Biol 2017 ; 429 : 3500-24.   \n23. Kunjappu MJ, Hochstrasser M. Assembly of the 20S proteasome. Biochim Biophys Acta 2014 ; 1843 : 2-12.   \n24. Ritz B, Hoffmann B, Peters A. The effects of fine dust, ozone, and nitrogen dioxide on health. Dtsch Arztebl Int. 2019 ; 51-52 : 881-6. 25. Mirowsky JE, Dailey LA, Devlin RB. Differential expression of pro-inflammatory and oxidative stress mediators induced by nitrogen dioxide and ozone in primary human bronchial epithelial cells. Inhal Toxicol 2016 ; 28 : 374-82.   \n26. Murray AR, Kisin E, Castranova V, Kommineni C, Gunther MR, Shvedova AA. Phenol-induced in vivo oxidative stress in skin: evidence for enhanced free radical generation, thiol oxidation, and antioxidant depletion. Chem Res Toxicol 2007 ; 20 : 1769-77.   \n27. McDaniel D, Farris P, Valacchi G. Atmospheric skin aging-Contributors and inhibitors. J Cosmet Dermatol 2018 ; 17 : 124-37.   \n28. Mohania D, Chandel S, Kumar P, et al. Ultraviolet radiations: skin defense-damage mechanism. Adv Exp Med Biol 2017 ; 996 : 71-87. 29. Kalim S. Protein carbamylation in end stage renal disease: is there a mortality effect? Curr Opin Nephrol Hypertens 2018 ; 27 : 454-62. 30. Baeuerle PA, Rupec RA, Pahl HL. Reactive oxygen intermediates as second messengers of a general pathogen response. Pathol Biol 1996 ; 44 : 29-35.   \n31. Valko M, Jomova K, Rhodes CJ, Kuča $\\mathsf { K } ,$ Musílek K. Redox- and non-redox-metal-induced formation of free radicals and their role in human disease. Arch Toxicol 2016 ; 90 : 1-37.   \n32. Dukan S, Farewell A, Ballesteros M, Taddei F, Radman M, Nyström T. Protein oxidation in response to increased transcriptional or translational errors. Proc Natl Acad Sci U S A 2000 ; 97 : 5746-9.   \n33. Krisko A, Radman M. Phenotypic and genetic consequences of protein damage. PLoS Genet 2013 ; 9 : e1003810.   \n34. Tavernarakis N. Ageing and the regulation of protein synthesis: a balancing act? Trends Cell Biol 2008 ; 18 : 228-35.   \n35. Wagner KH, Cameron-Smith D, Wessner B, Franzke B. Biomarkers of aging: from function to molecular biology. Nutrients 2016 ; 8.   \n36. Cabiscol E, Tamarit J, Ros J. Protein carbonylation: proteomics, specificity and relevance to aging. Mass Spectrom Rev 2014 ; 33 : 21-48. 37. Jaisson S, Pietrement C, Gillery P. Protein carbamylation: chemistry, pathophysiological involvement, and biomarkers. Adv Clin Chem 2018 ; 84 : 1-38.   \n38. Singh R, Barden A, Mori T, Beilin L. Advanced glycation end-products: a review. Diabetologia 2001 ; 44 : 129-46.   \n39. Ahmed AM, Lopez I, Perese F, Vasquez R, Hynan LS, Chong B, Pandya AG. A randomized, double-blinded, placebo-controlled trial of oral Polypodium leucotomos extract as an adjunct to sunscreen in the treatment of melasma. JAMA Dermatol 2013 ; 149 : 981-3.   \n40. Zouboulis CC, Makrantonaki E. Clinical aspects and molecular diagnostics of skin aging. Clin Dermatol 2011 ; 29 : 3-14.   \n41. Sell DR, Biemel KM, Reihl O, Lederer MO, Strauch CM, Monnier VM. Glucosepane is a major protein cross-link of the senescent human extracellular matrix. Relationship with diabetes. J Biol Chem 2005 ; 280 : 12310-5.   \n42. Pageon H. Reaction of glycation and human skin: the effects on the skin and its components, reconstructed skin as a model. Pathol Biol (Paris) 2010 ; 58 : 226-31.   \n43. Ohshima H, Oyobikawa M, Tada A, Maeda T, Takiwaki H, Itoh M, Kanto H. Melanin and facial skin fluorescence as markers of yellowish discoloration with aging. Skin Res Technol an 2009 ; 15 : 496-502. 44. Lohwasser C, Neureiter D, Weigle B, Kirchner T, Schuppan D. The receptor for advanced glycation end products is highly expressed in the skin and upregulated by advanced glycation end products and tumor necrosis factor-alpha. J Invest Dermatol 2006 ; 126 : 291-9.   \n45. Corstjens H, Dicanio D, Muizzuddin N, Neven A, Sparacio R, Declercq L, Maes D. Glycation associated skin autofluorescence and skin elasticity are related to chronological age and body mass index of healthy subjects. Exp Gerontol 2008 ; 43 : 663-7.   \n46. Xin C, Wang Y, Liu M, Zhang B, Yang S. Correlation analysis between advanced glycation end products detected noninvasively and skin aging factors. J Cosm Dermatol 2021 ; 20 : 243-8.   \n47. Zhu P, Ren M, Yang C, Hu YX, Ran JM, Yan L. Involvement of RAGE, MAPK and NF-κB pathways in AGEs-induced MMP-9 activation in HaCaT keratinocytes. Exp Dermatol 2012 ; 21 : 123-9.   \n48. Advedissian T, Deshayes F, Poirier F, Viguier M, Richarme G. The Parkinsonism-associated protein DJ-1/Park7 prevents glycation damage in human keratinocyte. Biochem Biophys Res Commun 2016 ; 473 : 87-91. 49. Suzuki YJ, Carini M, Butterfield DA. Protein carbonylation. Antioxid Redox Signal ; 122010 : 323-5.   \n50. Dalle-Donne I, Aldini $G ,$ Carini M, Colombo R, Rossi R, Milzani A. Protein carbonylation, cellular dysfunction, and disease progression. J Cell Mol Med 2006 ; 10 : 389-406.   \n51. Tončić RJ, Kezić S, Hadžavdić SL, Marinović B. Skin barrier and dry skin in the mature patient. Clin Dermatol 2018 ; 36 : 109-15.   \n52. Verdier-Sévrain S, Bonté F. Skin hydration: a review on its molecular mechanisms. J Cosm Dermatol 2007 ; 6 : 75-82.   \n53. Iwai I, Hirao T. Protein carbonyls damage the water-holding capacity of the stratum corneum. Skin Pharmacol Physiol 2008 ; 21 : 269-73. 54. Thiele JJ, Hsieh SN, Briviba K, Sies H. Protein oxidation in human stratum corneum: susceptibility of keratins to oxidation in vitro and presence of a keratin oxidation gradient in vivo. J Invest Dermatol 1999 ; 113 : 335-9.   \n55. Iwai I, Ikuta K, Murayama K, Hirao T. Change in optical properties of stratum corneum induced by protein carbonylation in vitro. Int J Cosmet Sci 2008 ; 30 : 41-6.   \n56. Bonté F, Girard D, Archambault JC, Desmoulière A. Skin changes during ageing. Subcell Biochem 2019 ; 91 : 249-80.   \n57. Bosset S, Barre P, Chalon A, et al. Skin ageing: clinical and histopathologic study of permanent and reducible wrinkles. Eur J Dermatol 2002 ; 12 : 247-52.   \n58. Tigges J, Krutmann J, Fritsche E, et al. The hallmarks of fibroblast ageing. Mech Ageing Dev 2014 ; 138 : 26-44.   \n59. Yamawaki Y, Mizutani T, Okano Y, Masaki H. The impact of carbonylated proteins on the skin and potential agents to block their effects. Exp Dermatol 2019 ; 28 : 32-7.   \n60. Ma J, Liu M, Wang Y, et al. Quantitative proteomics analysis of young and elderly skin with DIA mass spectrometry reveals new skin aging-related proteins. Aging 2020 ; 12 : 13529-54.   \n61. White MR, Garcin ED. D-Glyceraldehyde-3-phosphate dehydrogenase structure and function. Subcell Biochem 2017 ; 83 : 413-53. 62. Gritsenko A, Green JP, Brough $\\mathsf { D } ,$ Lopez-Castejon G. Mechanisms of NLRP3 priming in inflammaging and age related diseases. Cytokine Growth Factor Rev 2020 ; 55 : 15-25.   \n63. de Graff AM, Hazoglou MJ, Dill KA. Highly Charged Proteins: The Achilles’ Heel of Aging Proteomes. Structure (London, England : 1993). 2016 ; 24 : 329-36.   \n64. He M, Chiang HH, Luo H, et al. An acetylation switch of the NLRP3 inflammasome regulates aging-associated chronic inflammation and insulin resistance. Cell Metab 2020 ; 31 : 580-91.e5.   \n65. Aasen T, Johnstone S, Vidal-Brime L, Lynn KS, Koval M. Connexins: synthesis, post-translational modifications, and trafficking in health and disease. Int J Mol Sci 2018 ; 19 : 1296. 66. Laird DW, Lampe PD. Therapeutic strategies targeting connexins. Nat Rev Drug Discov 2018 ; 17 : 905-21.   \n67. Campbell CT, Kolesar JE, Kaufman BA. Mitochondrial transcription factor A regulates mitochondrial transcription initiation, DNA packaging, and genome copy number. Biochim Biophys Acta 2012 ; 1819 : 921-9.   \n68. Chondrogianni N, Trougakos IP, Kletsas D, Chen QM, Gonos ES. Partial proteasome inhibition in human fibroblasts triggers accelerated M1 senescence or M2 crisis depending on p53 and Rb status. Aging Cell 2008 ; 7 : 717-32.   \n69. Catalgol B, Ziaja I, Breusing N, et al. The proteasome is an integral part of solar ultraviolet a radiation-induced gene expression. J Biol Chem 2009 ; 284 : 30076-86.   \n70. Kozieł R, Greussing R, Maier AB, Declercq L, Jansen-Dürr P. Functional interplay between mitochondrial and proteasome activity in skin aging. J Invest Dermatol 2011 ; 131 : 594-603.   \n71. Tuttle CSL, Maier AB. Towards a biological geriatric assessment. Exp Gerontol 2018 ; 107 : 102-7.   \n72. Yousefzadeh M, Henpita C, Vyas R, Soto-Palma C, Robbins P, Niedernhofer L. DNA damage-how and why we age? Elife 2021 ; 10. 73. Krisko A, Radman M. Biology of extreme radiation resistance: the way of Deinococcus radiodurans. Cold Spring HarbPerspect Biol 2013 ; 5 .   \n74. Merino N, Aronson HS, Bojanova DP, Feyhl-Buska J, Wong ML, Zhang S, Giovannelli D. Living at the extremes: extremophiles and the limits of life in a planetary context. Front Microbiol 2019 ; 10 : 780. 75. Baumann L. Skin ageing and its treatment. J Pathol 2007 ; 211 : 241-51.   \n76. Markiewicz E, Jerome J, Mammone T, Idowu OC. Anti-glycation and anti-aging properties of resveratrol derivatives in the in-vitro 3D models of human skin. Clin Cosmet Investig Dermatol 2022 ; 15 : 911-27.   \n77. Chaudhary M, Khan A, Gupta M. Skin ageing: pathophysiology and current market treatment approaches. Curr Aging Sci 2020 ; 13 : 22-30. 78. Bergamaschi D. Autophagy protects from photoageing in skin fibroblasts. Br J Dermatol 2022 ; 186 : 211-2.   \n79. Podder A, Raju A, Schork NJ. Cross-species and human inter-tissue network analysis of genes implicated in longevity and aging reveal strong support for nutrient sensing. Front Genet 2021 ; 12 : 719713.   \n80. Asai M, Higuchi S, Kubota M, Iguchi K, Usui S, Hirano K. Regulators for blood glucose level affect gene expression of aquaporin 3. Biol Pharm Bull 2006 ; 29 : 991-6.   \n81. Neavin DR, Liu D, Ray B, Weinshilboum RM. The role of the Aryl Hydrocarbon Receptor (AHR) in immune and inflammatory diseases. Int J Mol Sci 2018 ; 19.   \n82. Burgess C. Topical vitamins. J Drugs Dermatol 2008 ; 7 : s2-6. 83. Pourzand C, Albieri-Borges A, Raczek NN. Shedding a new light on skin aging, iron- and redox-homeostasis and emerging natural antioxidants. Antioxidants (Basel, Switzerland) 2022 ; 11 : 471.   \n84. Gorouhi F, Maibach HI. Role of topical peptides in preventing or treating aged skin. Int J Cosm Scie 2009 ; 31 : 327-45.   \n85. Waditee-Sirisattha R, Kageyama H. Protective effects of mycosporine-like amino acid-containing emulsions on UV-treated mouse ear tissue from the viewpoints of antioxidation and antiglycation. J Photochem Photobiol 2021 ; 223 : 112296.   \n86. Alenazi F, Saleem M, Syed Khaja AS, et al. Antiglycation potential of plant based TiO(2) nanoparticle in D-ribose glycated BSA in vitro. Cell Biochem Funct 2022 ; 40 : 784-96.   \n87. Kumar D, Bhatkalkar SG, Sachar S, Ali A. Studies on the antiglycating potential of zinc oxide nanoparticle and its interaction with BSA. J Biomol Struct Dyn 2021 ; 39 : 6918-25. ",
+        "bbox": [
+            90,
+            338,
+            487,
+            895
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            24,
+            907,
+            894
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            90,
+            13,
+            489,
+            849
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            37,
+            907,
+            849
+        ],
+        "page_idx": 5
+    }
+]

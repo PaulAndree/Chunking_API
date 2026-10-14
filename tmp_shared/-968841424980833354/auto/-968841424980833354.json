@@ -1,0 +1,483 @@
+[
+    {
+        "type": "text",
+        "text": "El Orient Express (\"Expreso de Oriente\") fue el servicio de tren de larga distancia que, en su mayor trayecto, cubría la ruta ParísEstambul. Desde su inauguración en 1883 hasta el 2009, su ruta cambió en diversas ocasiones, ya sea por razones logísticas o por problemas políticos. Fue considerado uno de los trenes más lujosos del mundo, con pasajeros que incluían a millonarios, políticos e incluso miembros de la aristocracia europea. ",
+        "bbox": [
+            68,
+            125,
+            561,
+            238
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Actualmente dos compañías privadas utilizan la marca en trenes turísticos de lujo. ",
+        "bbox": [
+            68,
+            252,
+            561,
+            283
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Historia ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            313,
+            161,
+            332
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Origen ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            366,
+            136,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La idea de crear un servicio de pasajeros que uniese Europa Occidental con el suroeste asiático surgió de Georges Nagelmackers, creador de la empresa belga Compagnie Internationale des Wagons-Lits. Esta compañía había sido la primera en Europa en introducir coches cama y vagones restaurante en los trenes, idea que había sido puesta en práctica ya en Estados Unidos por George Pullman. El 4 de octubre de 1883, la CIWL inauguró el entonces bautizado Express d'Orient. En la época, el tren salía dos veces por semana de la estación del Este (Gare de l'Est), en París, y terminaba en la ciudad de Giurgiu, en Rumania, pasando por Estrasburgo, Múnich, Viena, Bratislava, Budapest y Bucarest. De Giurgiu, los pasajeros eran transportados a través del Danubio hasta la ciudad de Ruse, en Bulgaria. De allí otro tren los llevaba hasta Varna, donde podían tomar un transbordador hasta Estambul. ",
+        "bbox": [
+            68,
+            390,
+            631,
+            583
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En 1889 se terminó la línea hasta la propia Estambul. En esa época, el servicio diario de París comenzó a ir hasta Budapest. Tres veces por semana el servicio de trenes se extendía hasta Estambul, pasando por Belgrado y Sofía. Desde Budapest, una vez por semana, el servicio iba hasta Constanza, en el mar Negro, pasando por Bucarest. En 1891 el nombre oficial pasó a ser Orient Express. ",
+        "bbox": [
+            68,
+            598,
+            630,
+            676
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Primera Guerra Mundial ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            700,
+            299,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En 1914, el Orient Express interrumpió sus operaciones, que volvieron a la normalidad en 1918. En 1919 se inauguró el túnel Simplon, uniendo Suiza con ",
+        "bbox": [
+            68,
+            726,
+            631,
+            756
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/490546f23f9697569381665263c7a2b88b5b48a61c463da53f820a818b32e2ef.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            583,
+            130,
+            926,
+            396
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/004b0349b687a8cc14e9986f3dc1ee0e3f45f97edb7dace0fda8df0cf733fe68.jpg",
+        "image_caption": [
+            "Anuncio del Orient Express con los horarios del invierno 1888-89. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            655,
+            414,
+            926,
+            695
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Italia, lo que hizo posible una ruta alternativa hasta Estambul. Se inaugura de esta forma el servicio Simplon Orient Express, que pasaba (luego de salir de París) por Lausana, Milán, Venecia, Trieste y Zagreb, uniéndose a la ruta original en Belgrado. Una de las características de este nuevo trayecto consistía en el hecho de que Alemania podía ser evitada, hecho que constituía una ventaja para los Aliados (considerando que aún no tenían total confianza en los alemanes). Una de las cláusulas del Tratado de Versalles definía que Austria debería permitir que los trenes pasasen por Trieste, sobre todo teniendo en cuenta que anteriormente los trenes internacionales que llegasen a territorio austríaco se veían obligados a pasar por Viena. ",
+        "bbox": [
+            68,
+            758,
+            934,
+            870
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Auge ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            122,
+            60
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la década de 1930 el Orient Express alcanzó su auge máximo, con tres servicios atravesando Europa: el Orient Express original, el Simplon Orient Express, y el nuevo Arlberg Orient Express, que seguía la trayectoria París - Budapest pasando por Zúrich e Innsbruck, con vagones siguiendo rumbo hasta Bucarest o hasta Atenas. En esta época Londres ya contaba con los servicios del Simplon. Los pasajeros salían en tren con la British Southern Railway desde la estación Victoria hasta Dover, donde tomaban un ferry hacia Calais. A partir de allí seguían en tren hasta la Gare de Lyon, en París, donde los vagones se acoplaban al Simplon. En esta época fue cuando el Orient Express adquirió su fama de tren lujoso; ofrecía un servicio de primera clase para sus pasajeros (en sus cocinas eran contratados renombrados chefs), que incluía miembros de la realeza, diplomáticos, millonarios y personalidades en general. Desde 1930 se seleccionaron los mejores muebles en el mundo, y para los servicios y los cubiertos se eligió la marca de mayor prestigio en el mundo un diseño de lujo, el italiano Cesa 1882. 1 ",
+        "bbox": [
+            68,
+            66,
+            630,
+            311
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Segunda Guerra Mundial ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            334,
+            310,
+            352
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Una vez más se interrumpieron todos los servicios. Durante este período, la compañía alemana Mitropa intentó poner en funcionamiento su propio Orient Express, sin éxito alguno debido a los constantes sabotajes de las vías por parte de los partisanos yugoslavos. Sólo en 1945 se normalizó todo, excepto la ruta de Atenas que estaba cerrada en la frontera entre Yugoslavia y Grecia. [cita requerida] ",
+        "bbox": [
+            70,
+            358,
+            630,
+            439
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El trayecto volvió a abrirse en 1951, pero casi inmediatamente surgió otro obstáculo: la frontera entre Bulgaria y Turquía se cerró entre 1951 y 1952, bloqueando el camino hasta Estambul. Con el Telón de Acero, muchos países de Europa del Este terminaron por cambiar los vagones de la Wagon-Lits por sus propias versiones, causando una considerable merma en la calidad del servicio. En 1960 se retiró la ruta del Simplon hasta Calais, sustituyéndola por el Golden Arrow, un servicio ajeno a la cadena Orient.[cita requerida] ",
+        "bbox": [
+            68,
+            452,
+            630,
+            566
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f9b9a1aa99f4956c6290ac47cd99bdada3bf435f6e2dfbdac34809e2c0f61ef.jpg",
+        "image_caption": [
+            "Logo CIWL "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            655,
+            49,
+            924,
+            198
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/500dc5a31aaaba7b63fef503acbc364b2b134491e5658d6291e1ec8fd3d7cc50.jpg",
+        "image_caption": [
+            "Poste CIWL (c) wagons-lits diffusion, Paris "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            655,
+            242,
+            926,
+            514
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Decadencia y retirada del servicio ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            590,
+            394,
+            608
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1962 tanto la ruta original del Orient Express como el Arlberg Orient Express quedaron fuera de circulación, de modo que apenas quedó el Simplon Orient Express, y se sustituyó ese mismo año por un servicio más lento llamado Direct Orient Express. Ofrecía salidas diarias hasta Belgrado (pasando por la misma trayectoria del Simplon), desde donde salía para Estambul y Atenas dos veces por semana.[cita requerida] ",
+        "bbox": [
+            68,
+            614,
+            932,
+            679
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1971, la Wagon-Lits (CIWL) decidió actuar solamente prestando servicio en los trenes, vendiendo o alquilando sus vagones para varias compañías europeas. En 1976 se suspendió completamente el servicio París - Atenas.[cita requerida] ",
+        "bbox": [
+            67,
+            692,
+            932,
+            725
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1977 salió de circulación el Direct; su último viaje entre París y Estambul fue el 19 de mayo de ese año.[cita requerida] ",
+        "bbox": [
+            72,
+            737,
+            910,
+            754
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A pesar de los comentarios de que el Orient Express había terminado, parte de su ruta original es reactivada, bajo el nombre original de Orient Express. Entre 1977 y 2005 salía de París hasta Budapest, con pocas salidas para Bucarest. En ese período los trenes tenían vagones franceses, austríacos, húngaros y rumanos, todos atendidos por funcionarios de la Wagon-Lits. [cita requerida] ",
+        "bbox": [
+            68,
+            767,
+            932,
+            828
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Desde 1996, con el objetivo de controlar las falsificaciones y usos abusivos de su imagen, la CIWLT (Compagnie Internationale des Wagons-Lits et du Tourisme), parte del Grupo internacional ACCOR, ha creado Wagons-Lits Diffusion SA, filial encargada de gestionar las marcas, archivos históricos y todos los derechos históricos. Cualquier uso tiene que estar autorizado por Wagons-Lits Diffusion SA, con sede en París, Francia.2 ",
+        "bbox": [
+            68,
+            845,
+            932,
+            910
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El 10 de junio de 2001, el trayecto se limitó a la ruta París-Viena. A fines de 2009, el Orient Express realizó su último viaje. Dicha retirada fue motivada, según la compañía, por el auge de los vuelos baratos y los trenes de alta velocidad. [cita requerida] ",
+        "bbox": [
+            70,
+            42,
+            932,
+            87
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Actualidad ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            115,
+            174,
+            131
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En 1982 se creó el Venice Simplon-Orient-Express, que actualmente opera Belmond Ltd., con rutas entre París y Venecia, y entre París y Estambul pasando por Viena y Budapest. En 2017 Accor compró el $5 0 \\%$ de los derechos sobre la marca Orient Express, que era propiedad de SNCF, y proyecta comenzar a realizar el trayecto entre París y Estambul en 2026. ",
+        "bbox": [
+            72,
+            143,
+            932,
+            210
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recorridos ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            229,
+            193,
+            248
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/615550d00b0b3b79777242cc391c8841f24a962c887038d6c5b38c4ead6d0cde.jpg",
+        "image_caption": [
+            "Rutas históricas del Orient Express. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            72,
+            263,
+            937,
+            737
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cultura popular ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            781,
+            252,
+            802
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El Orient Express, debido a su fama, ya fue citado en algunos libros y filmes. Una de las referencias más conocidas está en el libro Asesinato en el Orient Express, escrito por Agatha Christie. En esta historia, el detective Hércules Poirot soluciona un crimen cometido a bordo del Simplon Orient Express. Otra referencia se encuentra en la obra El Expreso de Oriente, escrito por Graham Greene. ",
+        "bbox": [
+            68,
+            815,
+            932,
+            880
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En los filmes, el Expreso de Oriente es citado en Desde Rusia con amor, de Ian Fleming, así como en la versión de 2004 del filme La vuelta al mundo en 80 días, entre otros. ",
+        "bbox": [
+            67,
+            894,
+            931,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El famosísimo perfume Chanel $\\mathrm { { N } } ^ { \\mathbf { { o } } } 5$ realizó un spot publicitario en el Orient Express. ",
+        "bbox": [
+            70,
+            42,
+            653,
+            58
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "En 1991 se publicó Horror en el Orient Express, una campaña para el juego de rol La llamada de Cthulhu que tiene como eje principal de su trama la ruta seguida por el tren. Existe también un juego para PC titulado The Last Express publicado en 1997. ",
+        "bbox": [
+            68,
+            70,
+            934,
+            118
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Más recientemente el octavo episodio de la octava temporada moderna de la serie británica de ciencia ficción Doctor Who se titula «Una momia en el Orient Express» y se desarrolla en un tren espacial basado en los años de gloria del Orient Express. ",
+        "bbox": [
+            70,
+            131,
+            934,
+            180
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Libros ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            210,
+            144,
+            228
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Orient-Express: El tren de Europa de Mauricio Wiesenthal. Editorial Acantilado, 2020. ",
+        "bbox": [
+            68,
+            244,
+            673,
+            260
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            289,
+            200,
+            308
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Wagons-Lits Diffusion, gestion des droits sur les marques anciennes et les archives - archivo (en inglés) - (en francés) (http://www.wagons-lits-diffusion.com) 2. Orient Express:el fin de la historia. Consultada el 29 de diciembre de 2009 (https://web.archive.org/web/2009 1229123944/http://www.elmundo.es/mundodinero/2009/12/27/economia/1261946262.html) ",
+        "bbox": [
+            73,
+            327,
+            932,
+            387
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            413,
+            257,
+            431
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\circledcirc$ Wikimedia Commons alberga una categoría multimedia sobre Orient Express. Tren de lujo Venice Simplon-Orient-Express (http://www.belmond.com/venice-simplon-orient-express/) (en inglés)   \nA history of the Orient Express - the truth behind the legend (https://www.seat61.com/OrientExpress.htm) (en inglés)   \nVenice-Simplon Orient Express (http://www.belmond.com/venice-simplon-orient-express/) (en inglés)   \nBelmond Website (http://www.belmond.com) (en inglés)   \nViajerosaltren.com Reservas e información (https://web.archive.org/web/20140809100315/http://viajerosaltre n.com/155-orient-express.html) ",
+        "bbox": [
+            77,
+            448,
+            934,
+            591
+        ],
+        "page_idx": 3
+    }
+]

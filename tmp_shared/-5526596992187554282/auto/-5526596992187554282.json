@@ -1,0 +1,691 @@
+[
+    {
+        "type": "text",
+        "text": "Anexo:Destinos de British Airways ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            97,
+            697,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "British Airways es una de las pocas aerolíneas que opera destinos en los seis continentes habitados. La siguiente es una tabla de las ciudades a las que la compañía normalmente vuela, en julio de 2020. Además, la tabla incorpora los destinos de BA CityFlyer, una filial de British Airways. ",
+        "bbox": [
+            70,
+            141,
+            578,
+            235
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Los destinos que operan las franquicias de British Airways, Comair y Sun-Air of Scandinavia, se pueden consultar en sus artículos respectivos. ",
+        "bbox": [
+            68,
+            250,
+            578,
+            305
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3e7d65bdf831e01fcfce26528fb3fc623bedc1d28b76a2a982e8f89507d20268.jpg",
+        "image_caption": [
+            "Un Boeing 787-9 de British Airways en aproximación al Aeropuerto de Londres Heathrow en 2019. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            148,
+            922,
+            299
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/395b34c308fc8f0861e92bba7da72c2e0d6d3b7c24dd8eff96475e47c7fd8043.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            41,
+            932,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9870de185c044a8b56c1c4516aeab853416076fa65c74c6d77c7c1736934f865.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            34,
+            932,
+            904
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a0c787f308e9d13e2dbf8e723b1af3281c7e864aa9d4e694e30790b1b3ecf974.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            47,
+            932,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/8c694fe08253a5d13ee37449056923c88a8b2b47712169408e90edd2885fc5b9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            48,
+            932,
+            933
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/6973bc67a7de1f8ee8534aebc3ff2b0192f87c83aa7ba35045ecc1a102acea8d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            40,
+            932,
+            920
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/0a944ffcc34cbf1087098d940f568f6b5bb94c29ccf9ef2e277509535b096ac4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            43,
+            932,
+            931
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/04dc7fef0c31e82d005dd7e324bd85406d85f4208c049d81f3b6df04657e2eda.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            51,
+            932,
+            934
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/74a55b1a2134d78ddc275ab17e916f028148a4d767be65ff5414590d7fdc40d1.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            35,
+            932,
+            906
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/e0a2401510e12fb1316dee90aa9192f52e0b2c865e109992444c8ff731ca63f6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            40,
+            932,
+            921
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d8bade0f3096e6ced49affb10ce824394899fc4f9195c50ad4835825e0446e4.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            47,
+            932,
+            929
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "table",
+        "img_path": "images/23f4ee5338751fca11760c1de7b66f370ce4ebf3b4b4c4ff61c9a73e15e5559f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            40,
+            931,
+            292
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Notas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            325,
+            147,
+            345
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. Véase información sobre el reconocimiento de Kosovo como un estado soberano en el artículo sobre el lugar. ",
+        "bbox": [
+            70,
+            368,
+            927,
+            401
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. Véase en el artículo sobre Taiwán información acerca del reconocimiento de este lugar como un país soberano. ",
+        "bbox": [
+            73,
+            403,
+            924,
+            437
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            466,
+            223,
+            488
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "1. «Mapas de rutas». High Life (British Airways): 106, 108-115. Marzo de 2020. ",
+        "bbox": [
+            77,
+            515,
+            494,
+            547
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "2. «Airlines» (https://www.berlin-airport.de/en/t ravellers-txl/arrivals-and-departures/airline s/index.php). Aeropuerto de Berlín-Tegel. Consultado el 19 de julio de 2020. ",
+        "bbox": [
+            77,
+            551,
+            494,
+            616
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "3. Liu, Jim (21 de julio de 2020). «British Airways London Heathrow short-haul network as of 19JUL20» (https://www.route sonline.com/news/38/airlineroute/292584/b ritish-airways-london-heathrow-short-haul-n etwork-as-of-19jul20/). Routesonline. Consultado el 24 de julio de 2020. ",
+        "bbox": [
+            77,
+            619,
+            494,
+            731
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "4. Caswell, Mark (28 de octubre de 2019). «British Airways touches down at Beijing Daxing airport» (https://www.businesstravel ler.com/business-travel/2019/10/28/britishairways-touches-down-at-beijing-daxing-air port/). Business Traveller. Consultado el 17 de julio de 2020. ",
+        "bbox": [
+            77,
+            735,
+            492,
+            846
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "5. «Navigation: Where BA flies to». High Life (British Airways): 96-104. Diciembre de 2018. ",
+        "bbox": [
+            75,
+            850,
+            492,
+            897
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "6. «British Airways Intercontinental Routes Timetable» (http://www.departedflights.co m/BA011680p5.html). Departedflights.com. 16 de enero de 1980. Consultado el 28 de julio de 2020. ",
+        "bbox": [
+            75,
+            902,
+            494,
+            935
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            534,
+            504,
+            929,
+            552
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "7. «1997: British Airways Long-Haul network» (https://www.routesonline.com/news/38/airli neroute/263206/1997-british-airways-longhaul-network/). Routesonline. 8 de septiembre de 2008. Consultado el 18 de julio de 2020. ",
+        "bbox": [
+            515,
+            557,
+            929,
+            652
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "8. Liu, Jim (25 de mayo de 2020). «British Airways S20 London Heathrow network changes as of 0745GMT 20MAY20» (http s://www.routesonline.com/news/38/airlinero ute/291432/british-airways-s20-london-heat hrow-network-changes-as-of-0745gmt-20m ay20/). Routesonline. Consultado el 21 de julio de 2020. ",
+        "bbox": [
+            512,
+            655,
+            931,
+            785
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9. «Directory: Routes». High Life (British Airways): 80-89. Abril de 2015. ",
+        "bbox": [
+            512,
+            788,
+            929,
+            820
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "10. «British Airways makes Limoges its third French route from Gatwick» (https://www.a nna.aero/2017/05/31/british-airways-makes -limoges-third-french-route-gatwick/). Anna.aero. 31 de mayo de 2017. Consultado el 28 de julio de 2020. ",
+        "bbox": [
+            504,
+            824,
+            931,
+            920
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "11. Calder, Simon (9 de diciembre de 2020). «British Airways returns to Southampton airport with revived base for European flights» (https://www.independent.co.uk/trav el/news-and-advice/british-airways-southa mpton-european-flights-b1768562.html). Independent. Consultado el 10 de diciembre de 2020. ",
+        "bbox": [
+            65,
+            42,
+            492,
+            171
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "12. Caswell, Mark (17 de enero de 2013). «BA announces summer route and terminal changes» (https://web.archive.org/web/201 40416183209/http://www.businesstraveller. com/news/ba-announces-summer-route-an d-terminal-changes). Business Traveller. Archivado desde el original (http://www.bus inesstraveller.com/news/ba-announces-su mmer-route-and-terminal-changes) el 16 de abril de 2014. Consultado el 25 de julio de 2020. ",
+        "bbox": [
+            65,
+            175,
+            492,
+            351
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "13. «1977/78: BA Inter-Continental Network» (https://www.routesonline.com/news/38/airli neroute/261621/197778-ba-inter-continenta l-network/). Routesonline. 23 de diciembre de 2008. Consultado el 25 de julio de 2020. ",
+        "bbox": [
+            65,
+            355,
+            492,
+            435
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "14. Bandyopadhyay, Mouparna (30 de marzo de 2009). «Goodbye Kolkata, British Airways flies from city of diminishing returns» (http://archive.indianexpress.com/ news/goodbye-kolkata-british-airways-fliesfrom-city-of-diminishing-returns/440731/). The Indian Express. Consultado el 16 de julio de 2020. ",
+        "bbox": [
+            65,
+            439,
+            492,
+            567
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "15. «1985/86: British Airways Inter-Continental Network» (https://www.routesonline.com/ne ws/38/airlineroute/254887/198586-british-ai rways-inter-continental-network/). Routesonline. 25 de enero de 2011. Consultado el 23 de julio de 2020. ",
+        "bbox": [
+            65,
+            571,
+            492,
+            668
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "16. «British Airways suspends London to Tehran flights as they are 'not commercially viable' » (https://www.telegraph.co.uk/news/ 2018/08/23/british-airways-suspends-londo n-tehran-flights-not-commercially/). The Telegraph. 23 de agosto de 2018. Consultado el 20 de julio de 2020. ",
+        "bbox": [
+            65,
+            671,
+            494,
+            783
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "17. «2006 Fact Book» (http://media.corporate-i r.net/media_files/irol/69/69499/bafactbook/ Fact_Book_2006.pdf). British Airways. pp. 130-132. Consultado el 25 de julio de 2020. ",
+        "bbox": [
+            65,
+            786,
+            492,
+            866
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "18. «Report and accounts, 1998-1999» (http:// media.corporate-ir.net/media_files/irol/24/2 40949/AnnualBA/ra99.pdf). British Airways. p. 10. Consultado el 27 de julio de 2020. ",
+        "bbox": [
+            65,
+            870,
+            494,
+            935
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "19. Mayling, Samantha (22 de julio de 2020). «British Airways unveils new GatwickMontego Bay service» (https://www.travelw eekly.co.uk/articles/380133/british-airwaysunveils-new-gatwick-montego-bay-service). Travel Weekly. Consultado el 23 de julio de 2020. ",
+        "bbox": [
+            504,
+            42,
+            931,
+            155
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "20. Casey, David (17 de diciembre de 2020). «Seoul, Abu Dhabi and Pittsburgh among BA route cuts» (https://www.routesonline.co m/news/29/breaking-news/294931/seoul-a bu-dhabi-and-pittsburgh-among-ba-route-c uts/). Routesonline. Consultado el 29 de diciembre de 2020. ",
+        "bbox": [
+            502,
+            159,
+            931,
+            270
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "21. «British Airways flight BA529» (https://www. flightradar24.com/data/flights/ba529). Flightradar24. Consultado el 18 de julio de 2020. ",
+        "bbox": [
+            502,
+            275,
+            929,
+            338
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "22. «British Airways Prepares For The Return Of Air Travel» (https://londonairtravel.com/2 020/06/03/british-airways-prepares-for-the-r eturn-of-air-travel/). LondonAirTravel. 3 de junio de 2020. Consultado el 26 de julio de 2020. ",
+        "bbox": [
+            504,
+            343,
+            929,
+            439
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "23. «British Airways Suspends Freetown / Monrovia Service in August 2014» (https:// www.routesonline.com/news/38/airlinerout e/243071/british-airways-suspends-freetow n-monrovia-service-in-august-2014/). Routesonline. 6 de agosto de 2014. Consultado el 18 de julio de 2020. ",
+        "bbox": [
+            502,
+            442,
+            931,
+            555
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "24. «Bmi suspends Damascus route» (https://w ww.businesstraveller.com/news/2012/05/2 1/bmi-suspends-damascus-route/). Business Traveller. 21 de mayo de 2012. Consultado el 18 de julio de 2020. ",
+        "bbox": [
+            502,
+            559,
+            929,
+            638
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "25. «BA suspends Heathrow – Agadir from 26 October 2014» (https://londonairtravel.com/ 2014/05/20/british-airways-heathrow-agadi r/). LondonAirTravel. 20 de mayo de 2014. Consultado el 27 de julio de 2020. ",
+        "bbox": [
+            502,
+            642,
+            929,
+            722
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "26. «New flight routes and destinations» (http s://www.britishairways.com/en-us/flights-an d-holidays/flights/new-routes). British Airways. Consultado el 2 de octubre de 2020. ",
+        "bbox": [
+            504,
+            726,
+            929,
+            805
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "27. «San Francisco, here we come» (https://w ww.newspapers.com/clip/56181261/the-ob server/). The Observer. 26 de febrero de 1978. p. 6. Consultado el 27 de julio de 2020. ",
+        "bbox": [
+            504,
+            809,
+            931,
+            889
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "28. «Exports get a flying start to Europe» (http s://www.newspapers.com/clip/56181206/th e-observer/). The Observer. 26 de febrero de 1978. p. 6. Consultado el 27 de julio de 2020. ",
+        "bbox": [
+            504,
+            894,
+            929,
+            926
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            99,
+            41,
+            492,
+            89
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "29. «British Airways stops flights to Leeds Bradford Airport» (https://www.bbc.com/ne ws/uk-england-leeds-52832063). BBC News. 28 de mayo de 2020. Consultado el 25 de julio de 2020. ",
+        "bbox": [
+            65,
+            93,
+            492,
+            173
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "30. Field, James (22 de junio de 2020). «British Airways restarts London City operations» (https://airwaysmag.com/airlines/british-air ways-restarts-london-city-operations/). Airways Magazine. Consultado el 24 de julio de 2020. ",
+        "bbox": [
+            65,
+            176,
+            494,
+            273
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "31. «British Airways airline profile» (https://cent reforaviation.com/data/profiles/airlines/britis h-airways-ba). CAPA Centre for Aviation. Consultado el 16 de julio de 2020. ",
+        "bbox": [
+            65,
+            276,
+            492,
+            342
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "32. Parkman, Chloe (24 de julio de 2020). «PR disaster as first British Airways flight into Newquay is nearly two hours late» (https:// www.cornwalllive.com/news/cornwall-news/ pr-disaster-first-british-airways-4362795). Cornwall Live. Consultado el 25 de julio de 2020. ",
+        "bbox": [
+            65,
+            344,
+            492,
+            457
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "33. «Where we fly to» (https://www.britishairwa ys.com/cms/global/microsites/ba_reports08 09/overview/where.html). British Airways. 21 de mayo de 2009. Consultado el 25 de julio de 2020. ",
+        "bbox": [
+            65,
+            460,
+            492,
+            540
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "34. «British Airways opens three new connections from London Heathrow» (http s://www.anna.aero/2018/10/30/british-airwa ys-opens-three-new-connections-from-lond on-heathrow/). Anna.aero. 30 de octubre de 2018. Consultado el 24 de julio de 2020. ",
+        "bbox": [
+            67,
+            545,
+            494,
+            641
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "35. Burdine, Jane Rule (17 de febrero de 1980). «In search of giraffes, lions, and warthogs in Tanzania» (https://www.newsp apers.com/clip/56115697/chicago-tribune/). Chicago Tribune. p. 237. Consultado el 26 de julio de 2020. ",
+        "bbox": [
+            504,
+            43,
+            931,
+            140
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "36. Liu, Jim (30 de junio de 2020). «British Airways S20 London Gatwick service cancellations as of 26JUN20» (https://www. routesonline.com/news/38/airlineroute/292 144/british-airways-s20-london-gatwick-ser vice-cancellations-as-of-26jun20/). Routesonline. Consultado el 22 de julio de 2020. ",
+        "bbox": [
+            504,
+            143,
+            931,
+            270
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "37. Coffey, Helen (16 de julio de 2020). «Turkey travel: Am I allowed to visit, are hotels and restaurants open and what rules are in place?» (https://www.independent.c o.uk/travel/news-and-advice/turkey-holiday s-antalya-bodrum-dalaman-istanbul-beachflights-summer-quarantine-a9597736.html). The Independent. Consultado el 18 de julio de 2020. ",
+        "bbox": [
+            504,
+            275,
+            931,
+            419
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "38. «British Airways S11 London Gatwick European operation Changes» (https://ww w.routesonline.com/news/38/airlineroute/25 5831/british-airways-s11-london-gatwick-eu ropean-operation-changes/). Routesonline. 20 de octubre de 2010. Consultado el 22 de julio de 2020. ",
+        "bbox": [
+            504,
+            422,
+            931,
+            535
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "39. «Punctuality statistics, annual 1993» (http s://www.caa.co.uk/uploadedFiles/CAA/Cont ent/Standard_Content/Data_and_analysis/ Punctionality_stats/1993/1993_Annual_Pu nctuality_Statistics.pdf). Civil Aviation Authority (Reino Unido). 1993. p. 43. ",
+        "bbox": [
+            504,
+            539,
+            931,
+            636
+        ],
+        "page_idx": 13
+    }
+]

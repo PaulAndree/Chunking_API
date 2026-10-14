@@ -1,0 +1,713 @@
+[
+    {
+        "type": "text",
+        "text": "Enzymatic Repair of DNA: Sites of Hydrolysis by the Escherichia coli Endonuclease Specific for Pyrimidine Dimers (Correndonuclease II)\\* ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            92,
+            695,
+            156
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Andrew G. Braun,‡ Miroslav Radman, and Lawrence Grossman\\* ",
+        "bbox": [
+            102,
+            171,
+            536,
+            184
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: The Escherichia coli uurA, uvrB endonuclease (correndonuclease II) incises ultraviolet irradiated DNA at a phosphodiester bond $5 ^ { \\prime }$ to a pyrimidine dimer on the damaged ",
+        "bbox": [
+            99,
+            225,
+            487,
+            265
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA strand. As a result of its action a $3 ^ { \\prime }$ -hydroxyl and $5 ^ { \\prime }$ phosphoryl terminus is generated. ",
+        "bbox": [
+            515,
+            225,
+            902,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Thecwd DNA (Setlow, 1968). These steps, incision, excision, reinsertion, and ligation, can be considered to act sequentially with the product of each reaction becoming a substrate for the subsequent stage (Hamilton et al., 1974). ",
+        "bbox": [
+            99,
+            292,
+            487,
+            385
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Crude extracts of $E$ coli contain at least two endonucleases specifically capable of acting on uv irradiated DNA. These activities are resolved by chromatography on phosphocellulose with the one activity less tenaciously bound and which is absent in both uurA and uurB excision defective mutants (Braun and Grossman, 1974). It was concluded from such findings that the activity present in this peak represented the endonuclease responsible for pyrimidine dimer excision repair in $E$ coli. ",
+        "bbox": [
+            99,
+            387,
+            487,
+            495
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When the $E$ coli uurA, uurB coded endonuclease activities incise uv irradiated $^ { 3 2 } \\mathbf { P }$ -labeled DNA, new phosphoryl termini became generated which are accessible to the action of bacterial alkaline phosphatase (BAP) (Braun et al., 1975). The experiments described in this paper were undertaken to determine the nature and location of this phosphodiester cleavage with respect to the pyrimidine dimer. ",
+        "bbox": [
+            99,
+            495,
+            487,
+            590
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental Section ",
+        "bbox": [
+            99,
+            599,
+            239,
+            612
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Heteroduplex DNA. Bacteriophage $\\lambda$ and its DNA labeled with $\\mathsf { 3 2 P }$ or $^ 3 \\mathrm { H }$ were purified by standard procedures (Radman, 1976). ",
+        "bbox": [
+            515,
+            304,
+            904,
+            344
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Enzymes. Snake venom phosphodiesterase (EC 3.1.4.1). calf spleen phosphodiesterase (EC 3.1.4.1), and pancreatic DNase I (EC 3.1.4.5) were obtained from Worthington Biochemical Corp. and used without further purification. The Micrococcus luteus DNA polymerase I used in these experiments was generously supplied by Dr. Lester Hamilton (Hamilton et al., 1974). Exonuclease VII (EC 3.2.1.17) was a gift of Dr. J. Chase (Chase and Richardson, 1974). Egg white lysozyme was obtained from Nutritional Biochemical Co. ",
+        "bbox": [
+            517,
+            345,
+            904,
+            466
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            626,
+            164,
+            640
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Resins. Whatman DE52 DEAE-cellulose was used without further processing. Whatman P-1l phosphocellulose was washed with acid and alkali according to the manufacturer's instructions. DNA cellulose prepared according to the method of Litman (1968) was a gift of Dr. Lester Hamilton. ",
+        "bbox": [
+            515,
+            468,
+            904,
+            535
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            581,
+            572,
+            594
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA. E. coli DNA labeled with $\\boldsymbol { ^ { 3 2 } \\mathrm { P } }$ and $^ 3 \\mathrm { H }$ was prepared and purified according to the method of Grossman (1967). Unlabeled E. coli DNA was prepared according to Marmur (1961). ",
+        "bbox": [
+            97,
+            644,
+            486,
+            699
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cells. Frozen late log E. coli B cells were obtained from Grain Processing Inc., Muscatine, Iowa. ",
+        "bbox": [
+            515,
+            535,
+            904,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Assay for pyrimidine dimers was by the one dimensional paper chromatographic method of Cook (1971). ",
+        "bbox": [
+            513,
+            599,
+            902,
+            626
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA heteroduplex methods used in the experiment of Figure 1 are those already described (Davis et al., 1971) and modified according to procedures described in a subsequent section of this report. ",
+        "bbox": [
+            513,
+            627,
+            902,
+            680
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Assays for Specific Ur Irradiated DNA Endonuclease. Three assays were used: the BAP assay uses ${ } ^ { 3 } \\mathrm { { } ^ { 2 } P } .$ labeled DNA in which the appearance of bacterial alkaline phosphatase labile phosphodiester termini is generated after enzymatic incision (Kaplan and Grossman, 1971); the binding assay in which endonuclease specifically interacts with uv irradiated DNA such that the enzyme-substrate complex is entrapped on membrane filters (Braun and Grossman, 1974); the third method measures single-strand breakage in uv irradiated λ DNA by sedimentation analysis in alkaline sucrose gradients. ",
+        "bbox": [
+            515,
+            681,
+            904,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Purification of E. coli Ur Endonuclease. Table I summarizes the purification procedure. ",
+        "bbox": [
+            513,
+            830,
+            902,
+            856
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fraction I. The crude extract was prepared according to already published procedures (Braun and Grossman, 1974). ",
+        "bbox": [
+            513,
+            857,
+            904,
+            883
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fraction II. One liter of crude extract is applied to a $6 . 5 \\times$ $1 2 \\ c m$ DEAE-cellulose column previously equilibrated with $0 . 0 5 ~ \\mathrm { M }$ KA buffer $0 . 0 5 ~ \\mathrm { { M } }$ potassium phosphate $\\left( \\mathsf { p H } \\ 7 . 5 \\right) -$ $0 . 0 0 5 \\mathrm { ~ M ~ } \\dot { } 2$ -mercaptoethanol-0.001 M EDTA). The outlet of this column was connected directly to a $2 . 5 \\times 1 3 ~ \\mathrm { c m }$ phosphocellulose column previously equilibrated with the same buffer. This tandem arrangement of columns was washed with 3.2 1. of $0 . 0 5 { \\mathrm { ~ M ~ } }$ KA and the columns were separated. Chromatographic resolution of proteins was obtained on the phosphocellulose column by a $0 . 0 5 { - } 0 . 5 \\mathrm { M } \\mathrm { K A }$ gradient in a total volume of $5 0 0 \\mathrm { c m } ^ { 3 }$ . The effluent fractions were assayed by the DNA binding assay in which a rather broad peak of activity was observed centered at about $0 . 2 5 \\mathrm { M }$ KA. The pooled peak (fraction II, $1 4 9 \\mathrm { m l }$ ) was found to be stable at $4 ^ { \\circ } \\mathrm { C }$ for over a month. ",
+        "bbox": [
+            513,
+            883,
+            904,
+            937
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/950ecc7a06410380fccb782fde14b36822955f60774be1af4b4065f2c310be90.jpg",
+        "table_caption": [
+            "TABLE 1: Purification of Escherichia coli Correndonuclease II. "
+        ],
+        "table_footnote": [
+            "a Estimated measurement of absorbance. b Fraction II estimated from RFI assay fractions III and IV from BAP assay (see Methods). Cannot be measured since at least one other uv specific endonuclease is present in crude extracts. "
+        ],
+        "bbox": [
+            94,
+            86,
+            485,
+            203
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            95,
+            289,
+            485,
+            437
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fraction III. Fraction II ( $1 4 9 ~ \\mathrm { m l } ,$ was precipitated by the slow addition with stirring of $\\boldsymbol { 7 } \\boldsymbol { 1 } \\ \\mathbf { g }$ of solid ammonium sulfate at $4 \\Lsh$ . ",
+        "bbox": [
+            95,
+            438,
+            485,
+            478
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "After $^ { \\textrm { l h } }$ of stirring at $4 \\Lsh { C }$ , the suspension was centrifuged at $8 5 0 0 ~ \\mathrm { r p m }$ in the Sorval GSA rotor for $3 0 \\mathrm { { m i n } }$ at $4 ^ { \\circ } \\mathrm { C }$ The supernatant fraction was discarded and the pellet dissolved in $5 \\mathrm { m } \\mathrm { l } \\ 0 . 0 1 $ M KA- $1 0 \\%$ glycerol. This solution was applied to a $2 . 5 \\times 6 0$ cm column of Sephadex G75 previously equilibrated with $0 . 0 1 \\mathrm { ~ M ~ K A } { - } 1 0 \\%$ glycerol and the enzyme was eluted with this buffer. Five-milliliter fractions were taken and were assayed by the DNA binding and BAP assays. Two peaks of uv specific binding were observed to elute from the column. A minor peak eluting at 1.25 excluded volumes had no uv specific endonucleolytic activity but did demonstrate specific binding capabilities. The molecular weight of this component is estimated to be about 44 000 which corresponds to the size of the $\\boldsymbol { E }$ coli photoreactivating enzyme (Sutherland, 1973) which is capable of binding specifically to uv damaged DNA (Madden et al., 1973). ",
+        "bbox": [
+            95,
+            481,
+            487,
+            697
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A major peak of uv specific DNA binding and endonucleolytic activity eluted at about 1.9 exclusion volumes (ca. 12 000 daltons). This peak was pooled (fraction III, $3 9 ~ \\mathrm { m l }$ . ",
+        "bbox": [
+            95,
+            698,
+            485,
+            738
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fraction IV. Fraction III was applied directly to a $1 \\times 2$ cm uv irradiated DNA cellulose column and washed with $1 0 ~ \\mathrm { m l }$ of 0.01 M KA buffer. The enzyme was eluted with 0.3 M KA buffer. These fractions contain large amounts of $2 6 0 \\mathrm { - n m } \\cdot$ . absorbing material, possibly nucleotides eluted from the DNA cellulose column. To remove this uv absorbing material, the fractions containing uv specific endonuclease activities were pooled, diluted by one-half with water, and applied to a $1 \\times 1$ cm phosphocellulose column preequilibrated with $0 . 0 5 { \\bf \\ d }$ KA. After an initial $2 0 ~ \\mathrm { m l }$ of $0 . 0 5 ~ \\mathrm { { M } }$ KA wash, the enzyme was eluted with $0 . 5 { } \\bf { M }$ KA. The eluted activity was diluted with an equal volume of glycerol, divided into $1 { \\cdot } \\mathsf { m l }$ aliquots and stored at $- 2 0 \\ ^ { \\circ } C$ (Total volume was $8 ~ \\mathrm { m l }$ ) ",
+        "bbox": [
+            95,
+            739,
+            487,
+            913
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Heteroduplex DNA. $^ 3 \\mathbf { H }$ -Labeled λ DNA was mixed with a tenfold excess of unlabeled $\\lambda$ DNA in $1 0 ^ { - 2 } \\mathbf { M }$ EDTA- $1 0 ^ { - 2 }$ $\\mathbf { M } \\mathbf { \\Lambda } \\mathbf { N a C l - } 1 0 ^ { - 2 } \\mathbf { M }$ Tris $\\left( \\mathsf { p H } 8 \\right)$ . TNE was denatured by addition of $0 . 1 \\mathrm { \\ N } \\mathrm { N a O H }$ at $3 7 \\circ _ { \\mathrm { C } }$ for $1 0 \\mathsf { m i n }$ , neutralized to ${ \\tt p H 8 }$ by tenfold dilution of $1 . 8 ~ \\mathbf { M }$ Tris-HCI- ${ \\bf 0 . 2 M }$ Tris base $\\left( \\mathsf { p H } 6 . 3 \\right)$ , and annealed in the presence of $5 0 \\%$ formamide (Mallinckrodt) at $2 0 { - } 2 2 ~ ^ { \\circ } C$ for $^ { 3 \\mathrm { ~ h ~ } }$ , followed by dialysis against TNE. Denaturation and annealing steps were checked by sedimentation in neutral sucrose gradients. For DNA concentrations used $( 5 0 - 1 0 0 \\mu \\mathrm { g / m l } )$ , this annealing procedure yielded $> 9 5 \\%$ double-stranded material. The $^ 3 \\mathrm { H }$ labeled minority species of DNA strands was considered $9 0 \\%$ \"heteroduplex\" after this annealing procedure. Four labeled \"heteroduplexes\" were made: $[ { } ^ { 3 } \\mathrm { H } ] { \\cdot } \\mathrm { O } { - } [ { } ^ { 1 } \\mathrm { H } ] { \\cdot } \\mathrm { O }$ , $[ ^ { 3 } \\mathbf { H } ]$ -uv $[ { } ^ { \\mathrm { I } } { \\mathrm { H } } ]$ .O, $[ ^ { 3 } \\mathbf { H } ]$ .O $[ \\mathrm { I H } ]$ .uv. Uv irradiated strands received a fluence of $1 0 0 0 \\mathrm { J } / \\mathrm { M } ^ { 2 }$ as measured by a Latarjet dosimeter. ",
+        "bbox": [
+            94,
+            915,
+            487,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            516,
+            56,
+            907,
+            246
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            516,
+            256,
+            564,
+            269
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Initial experiments were designed to determine whether the uv specific endonuclease catalyzed incision is on the damaged DNA strand or opposite the pyrimidine dimer on the complementary strand. Heteroduplex bacteriophage $\\lambda$ DNA was constructed with one uv irradiated strand and the other unirradiated. After treatment with the enzyme, the DNA was sedimented through an alkaline sucrose gradient along with treated unirradiated DNA. ",
+        "bbox": [
+            516,
+            275,
+            905,
+            382
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In panel B of Figure 1, the irradiated member of the heteroduplex was tritium labeled and can be seen to have beer. substantially incised. Panel C of Figure 1 is a repetition of this experiment but with the label in the unirradiated DNA strand. The small amount of degradation observed was comparable to that seen when an unirradiated homoduplex was treated and sedimented as in panel A of this figure. Control sedimentations (not shown) of heteroduplex DNA incubated in the absence of enzyme showed the same extent of degradation as seen in panel C. Unirradiated $\\boldsymbol { ^ { 3 2 } \\mathbf { P } }$ labeled $\\lambda$ DNA was included in the enzyme reactions as a marker and is not incised. ",
+        "bbox": [
+            516,
+            384,
+            905,
+            533
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The proximity of the incision to the pyrimidine dimer was indicated by the observation that the $E$ coli exonuclease VII (Chase and Richardson, 1974) excised a substantial fraction of pyrimidine dimers from irradiated DNA while only slightly degrading the total DNA (Table II). ",
+        "bbox": [
+            514,
+            534,
+            905,
+            602
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "That a $3 ^ { \\prime } .$ OH group is generated as a result of hydrolysis is indicated by incorporation of deoxynucleoside triphosphates directed by the M. luteus DNA polymerase I into uv irradiated DNA (Figure 2). Since the polymerase requires a $3 ^ { \\prime }$ hydroxyl as a nucleophilic site for initiation of synthesis (Hamilton et al., 1974), this stimulation is interpreted as an indication that as a result of incision at least some of the sites bear $3 ^ { \\prime }$ -hydroxyl termini. ",
+        "bbox": [
+            514,
+            602,
+            905,
+            710
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The nature of the correndonuclease generated sites also comes from experiments in which the substrate properties of denatured incised uv irradiated DNA with terminus-specific exonucleases from snake venom and calf spleen were measured. Both phosphodiesterases are strongly inhibited by phosphate esterified termini as well as by the presence of pyrimidine dimers (Kushner et al., 1971). Since snake venom phosphodiesterase degrades DNA exonucleolytically from the $3 ^ { \\prime } {  } 5 ^ { \\prime }$ direction while calf spleen phosphodiesterase degrades from the $5 ^ { \\prime } {  } 3 ^ { \\prime }$ direction, such experiments allow for the location of photoproducts and phosphomonoester portions on the ends of DNA. ",
+        "bbox": [
+            514,
+            711,
+            905,
+            872
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In the control experiment shown in Figure 3a, E. coli DNA has been treated with pancreatic DNase I to produce DNA fragments with ${ \\bar { \\mathsf { S } } } ^ { \\prime }$ -phosphoryl termini. The lower panel 3b shows that this DNA is degraded by venom phosphodiesterase at a substantially higher rate than by the calf spleen enzyme. ",
+        "bbox": [
+            514,
+            875,
+            905,
+            941
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/fca421f8257830bf8f549392fff73721c462d5ec0cb6fb09975a6eeaacb4b6d3.jpg",
+        "image_caption": [
+            "was mixed with ${ } ^ { 3 2 } \\mathsf { P }$ labeled $\\lambda$ DNA and incubated under standard conditions with uv endonuclease (peak I). The amounts of $\\lambda$ DNA $( 5 ~ \\mu \\mathbf { g } )$ and of protein were equal in all reaction mixtures. Incubation of $3 7 ~ ^ { \\circ } \\mathrm { C }$ for $4 5 \\ \\mathsf { m i n }$ was stopped by addition of $0 . 0 5 { \\mathrm { ~ M ~ } }$ EDTA and chilling. The DNA was sedimented through alkaline sucrose as described in Methods. Sedimentation was from right to left. $( \\bullet )$ $^ 3 \\mathsf { H }$ Labeled heteroduplex; $( O )$ $^ { 3 2 } { \\sf P }$ labeled DNA $^ 3 { \\sf H }$ counts $\\asymp$ 88.3. Peak $^ { 3 2 } \\mathsf { P }$ counts $= 1 8 6 . 6$ .Panel B: irradiated-unirradiated heteroduplex DNA with $^ 3 \\mathrm { H }$ label in irradiated strand. Peak ${ } ^ { 3 } \\mathsf { H } \\mathsf { c p m } = 9 0 . 3$ Peak $3 2 \\mathsf { P }$ $\\mathsf { c p m } = 1 4 6 . 4$ Panel C: irradiated-unirradiated heteroduplex Dna with $^ 3 { \\sf H }$ label in unirradiated strand. Peak $^ { 3 } \\mathrm { { H } } \\thinspace c { \\mathsf { p m } } = \\mathrm { { 1 } } \\mathrm { { 1 } } 5 . 3$ Peak $^ { 3 2 } \\mathsf { P } \\mathsf { c p m } = 1 7 5 . 2$ . $^ 3 \\mathsf { H }$ Labeled DNA strands contain initially more breaks than he $\\mathsf { 3 2 P }$ labeled strands. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            157,
+            57,
+            836,
+            334
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/c993f22c4f9bf7f1fd69b90f4d945498bd22122e351706ff896cdfa7d92cd261.jpg",
+        "image_caption": [
+            "FKGURE: 2: Stimulation of DNA polymerase by incision of uv irradiated DNA. Unlabeled, uv-irradiated DNA $( 0 . 8 \\mu \\mathbf { g } )$ was incised with the indicated amount of fraction II uv endonuclease for $6 0 \\mathrm { \\ m i n }$ at $3 7 ~ ^ { \\circ } \\mathrm { C }$ . The reaction was terminated by incubation at $6 8 ~ ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathsf { m i n }$ .The following additions were then made: $1 . 5 \\ \\mu \\mathrm { { m o l } }$ of $\\mathsf { M g C l }$ , $1 0 \\mu m o l$ of each of the four deoxynuclcotide triphosphates with the TTP tritium labeled. $1 5 \\mu \\mathrm { m o l }$ of Tris-HCI $( \\mathfrak { p } \\mathsf { H } \\ 8 )$ . I unit of DNA polymerase, and water to $0 . 3 ~ \\mu \\vert$ . Acidprecipitable DNA was assayed after $3 0 \\mathrm { \\ m i n }$ incubation at $3 7 ~ ^ { \\circ } \\mathrm { C }$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            451,
+            425,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, when the phosphomonoester is removed by phosphomonoesterase shown in the upper panel, both enzymes degrade at comparable rates. ",
+        "bbox": [
+            96,
+            750,
+            483,
+            790
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Figures 3c and 3d represent results from the same experiment using uv-irradiated, uv-endonuclease-incised DNA. In the lower panel (Figure 3d), the venom phosphodiesterase is seen to degrade the substrate, indicating that a $3 ^ { \\prime }$ -hydroxyl terminus is available to this exonuclease. The calf spleen phosphodiesterase does not degrade the substrate even after BAP treatment, suggesting that an inhibitory uv photoproduct lies $3 ^ { \\prime }$ to the incision site. On the basis of the fact that pyrimidine dimers are in the vicinity of at least some incisions, it is reasonable to suggest that pyrimidine dimers are the inhibitory photoproduct. The interpretation of these data is that the $E$ . ",
+        "bbox": [
+            96,
+            791,
+            483,
+            937
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/8af80fc62d4b529f8a09f10801bbcd7e14728360da0b6c4962b604053b599489.jpg",
+        "table_caption": [
+            "TABLE IE: Dimer Excision from $\\operatorname { L v }$ -Irradiated Escherichia coli DNA Treated with Exonuclease VII.\" "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            507,
+            492,
+            894,
+            683
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\" Irradiated $[ ^ { 3 } \\mathsf { H } ] \\mathsf { D } \\mathsf { N } \\Lambda \\mathrm { ( 0 . 4 ~ } \\mu \\mathbf { g } \\mathrm { ) }$ was treated at $3 7 ~ ^ { \\circ } \\mathrm { C }$ with l unit of correndonuclease (fraction IV) for $9 0 ~ \\mathrm { m i n }$ , heated to $6 8 ^ { \\circ } \\mathrm { C }$ for 10 min, and then treated with exonuclease VIl (20 units) for 60 min at $3 7 ~ ^ { \\circ } \\mathrm { C }$ . Pyrimidine dimers were assayed by paper chromatography (Hamilton et al., 1974). Several duplicate samples in experiment 2 were averaged. The numbers in parentheses indicate the numbers of samples averaged. b This value represents the percentage of DNA thymine isolated as pyrimidine dimers. ",
+        "bbox": [
+            508,
+            691,
+            892,
+            785
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "coli correndonuclease II incises ${ \\mathsf S } ^ { \\prime }$ and fairly close to a pyrimidine dimer, generating $3 ^ { \\prime }$ -hydroxyl, ${ 5 ^ { \\prime } }$ -phosphoryl termini. This interpretation is in accord with the results of the experiments described earlier. ",
+        "bbox": [
+            508,
+            830,
+            894,
+            883
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            508,
+            893,
+            577,
+            905
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recent evidence indicates that the sites generated by correndonuclease II catalyzed incisions provide substrates for polynucleotide ligase both in vivo and in vitro (Seeberg, Rupp, and Braun, manuscript in preparation). Similar observations have recently been reported by Minton et al. (1975) in the $\\mathrm { T } _ { 4 }$ phage induced correndonuclease II. Such evidence supports the mechanism of endonuclease action in generating ${ \\bar { 5 } } ^ { \\prime }$ -phosphoryl termini. From in vivo data with the uurC mutants it appears as though the uurC gene product may function subsequent to the incision and prior to excision by inhibiting ligase closure and stabilizing the $3 ^ { \\prime }$ -hydroxyl terminus for priming by DNA polymerase during coordinated excision reinsertion reactions. Excision repair, therefore, may consist of at least five steps in which uurA and uurB control incision (the uurC preventing abortive repair by ligase), pol $\\pmb { A }$ controls both excision and nucleotide reinsertion and finally the continuity of the strands is restored by the $l i g$ gene. ",
+        "bbox": [
+            508,
+            910,
+            894,
+            937
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b40eeb694406481c1ff94bfad315d7617919f12474f0d7f2b65b818daffd6f3c.jpg",
+        "image_caption": [
+            "FIGURE 3: (A and B) Degradation of DNA incised with pancreatic DNase I. $^ { 3 2 } \\mathbf { P }$ -Labeled DNA $( 1 . 5 \\mu \\mathsf { g } )$ was treated with $0 . 0 1 ~ \\mu \\mathbf { g }$ of pancreatic DNase I for $3 0 \\mathsf { m i n }$ at $3 7 ^ { \\circ } C$ in a volume of $1 . 4 4 ~ \\mathrm { m l }$ Included in the mixture were $7 2 \\mu \\mathrm { { m o l } }$ of Tris-HCl $\\mathrm { ( p H ~ 8 ) }$ and $7 . 2 \\mu \\mathrm { m o l }$ of $\\mathbf { M g C l } _ { 2 }$ Treatment was terminated by placing the reaction tube into boiling water for 2 min and plunging into ice. Two equal samples of $0 . 6 6 ~ \\mathrm { m l }$ were withdrawn. To one, $1 ~ \\mu 1$ of bacterial alkaline phosphatase was added and both tubes were incubated at $4 5 ~ ^ { \\circ } \\mathrm { C }$ for $3 0 ~ \\mathrm { { m i n } }$ Salmon sperm DNA $\\left( 0 . 1 1 \\ \\mu \\mathbf { g } \\right)$ and $0 . 6 6 ~ \\mathrm { m l }$ of $5 \\%$ $\\mathrm { C l } _ { 3 } C C 0 0 \\mathrm { H }$ $1 . 1 \\ m \\mathbb { 1 }$ of $0 . 1 \\mathrm { \\ N } \\mathrm { N a O H }$ and distributed into two $0 . 5 { \\cdot } \\mathrm { m l }$ fractions. To one fraction, $5 0 \\mu \\mathrm { m o l }$ of succinic acid, $7 5 \\mu \\mathrm { m o l }$ of sodium succinate, $2 . 5 \\mu \\mathrm { m o l }$ of $\\mathsf { M g C l }$ , $2 . 5 \\ \\mu \\mathrm { { m o l } }$ of EDTA $\\left( \\mathsf { p H } \\ 7 . 5 \\right)$ , $0 . 0 1 ~ \\mathrm { m g }$ of calf spleen phosphodiesterase, and water to $2 . 0 ~ \\mathrm { m l }$ were added. To the other $0 . 5 { \\cdot } \\mathrm { m l }$ fraction, $1 0 0 \\ \\mu \\mathrm { m o l }$ of Tris-HCl $\\left( \\mathsf { p H } \\ 6 . 4 5 \\right)$ , $7 5 \\mu$ mol of Tris-acetate, $7 5 \\mu \\mathrm { m o l }$ of magnesium acetate, $0 . 0 1 { \\mathrm { ~ m g } }$ o ke veno disterase, and war to $2 \\mathrm { m l }$ were added. Each fraction was then incubaed at $3 7 ^ { \\circ } \\mathrm { C }$ for the indicated time and $0 . 2 \\mathrm { - m l }$ samples were removed. Salmon sperm DNA $\\mathrm { ' } 0 . 2 5 \\mathrm { m g } ,$ and $5 \\mathrm { m l }$ of $5 \\% \\mathsf { C l } _ { 3 } \\mathsf { C C C O O H }$ were added, the DNA radioactivity in the final $0 . 2 0 { \\cdot } \\mathsf { m l }$ sample. (C and D) Degradation of uv irradiated DNA incised by uv endonuclease. $3 2 \\mathbf { p }$ -Labeled, uv-irradiated DNA $( 1 . 5 \\mu \\mathsf { g } )$ steps were carried out as in A and B. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            157,
+            57,
+            836,
+            450
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            99,
+            627,
+            487,
+            830
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Currently little is known concerning the molecular mechanism of the inhibition of closure. Individual exonuclease VII defective mutants and mutants lacking the ${ \\bar { \\mathsf { S } } } ^ { \\prime } { \\to } 3 ^ { \\prime }$ exonucleolytic activity of polymerase I appear to excise normally. In the absence of data with double mutants defective in both enzymes it is not possible to identify whether both enzymes are involved in the excision step. The uurC product must inhibit closure before dimer excision but after resynthesis (step 5). It is possible that the uurC product may either be a ${ 5 ^ { \\prime } }$ -nucleotidase that acts exclusively in single-stranded DNA or in the vicinity of a pyrimidine dimer or it may be a binding protein specific for such sites. Current studies in this laboratory are investigating this possibility. ",
+        "bbox": [
+            97,
+            831,
+            487,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            517,
+            628,
+            907,
+            695
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            519,
+            704,
+            589,
+            718
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Braun, A., and Grossman, L. (1974), Proc. Natl. Acad. Sci. U.S.A. 71, 1838-1842.   \nBraun, A., Hopper, P., and Grossman, L. (1975), in Molecular Mechanisms for the Repair of DNA, Setlow, R. B., and Hanawalt, P., Ed., Elmsford, N.Y., Pergamon Press, pp 183190.   \nChase, J., and Richardson, C. C. (1974), J. Biol. Chem. 259, 4553.   \nCook, J. S. (1971), Proceedings of the 5th International Symposium on Molecular Biology and Molecular Cell Repair Processes, Baltimore, Md., June 30, p 79.   \nDavis, R. W., Simon, M., and Davidson, N. (1971), Methods Enzymol. 21, 413.   \nGrossman, L. (1967), Methods Enzymol. 12, 700.   \nGrossman, L., Braun, A., Mahler, I., and Feldberg, R. (1975), Annu. Rev. Biochem. 44, 19.   \nHamilton, L., Mahler, I., and Grossman, L. (1974), Biochemistry 13, 18861896.   \nKaplan, J., and Grossman, L. (1971), Methods Enzymol. 21, 249.   \nKushner, S. R., Kaplan, J. C., Ono, H., and Grossman, L. (1971), Biochemistry 10, 3325.   \nLitman, R. (1968), J. Biol. Chem. 243, 6222.   \nMadden, J. J., Werbin, H., and Denson, J. (1973), Photochem. Photobiol. 18, 441.   \nMarmur, J. (1961), J. Mol. Biol. 3, 208.   \nMinton, K., Durphy, M., Taylor, R., and Friedberg, E. C. (1975), J. Biol. Chem. 250, 2823.   \nRadman, M. (1976), J. Biol. Chem. 251. 1438.   \nSetlow, R. B. (1968), Prog. Nucleic Acid Res. Mol. Biol. 8, 257295.   \nSimon, T. J., Smith, C. A., and Friedberg, E. C. (1975), J. Biol. Chem. 250, 8748.   \nSutherland, B. (1973), J. Biol. Chem. 248, 4200. ",
+        "bbox": [
+            517,
+            724,
+            907,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            97,
+            57,
+            487,
+            179
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            57,
+            907,
+            178
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Inverted Repetitive Sequences in the Human Genome\\* ",
+        "text_level": 1,
+        "bbox": [
+            102,
+            248,
+            619,
+            268
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Peggy J. Dott, Cynthia R. Chuang, and Grady F. Saunders\\* ",
+        "bbox": [
+            100,
+            283,
+            491,
+            297
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: A specific class of DNA sequences, the inverted repetitive sequences, forms hairpin-like structures in denatured DNA by the folding back of a single linear chain. The reassociation process of these sequences is unimolecular and the rate is extremely fast. Inverted repetitive sequences comprise $6 \\%$ of the total human genome. They appear to be heterogeneous in length with an overall average length of 190 nucleotides. The inverted sequences are represented in almost all families of repetition frequencies, highly repetitive as well as very few copies per genome. They are not localized at unique sites on metaphase chromosomes. It is estimated that there are approximately $2 \\times 1 0 ^ { 6 }$ inverted repeats per haploid human genome. The biological function of this class of sequences is unknown. ",
+        "bbox": [
+            100,
+            338,
+            487,
+            433
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            337,
+            905,
+            431
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "$\\mathbf { A }$ sieable similar or repetitive sequences which are characterized by their ease of reassociation. The repetitive sequences can be divided into highly repetitive and middle repetitive fractions by their relative reassociation rates. The DNA sequences that appear to occur only once in the genome are called unique or singlecopy sequences. These three kinetic classes of DNA can be fractionated on hydroxylapatite $( \\mathrm { H A } ) ^ { 1 }$ after annealing the denatured, sheared DNA to varying extents (Britten et al., 1974). ",
+        "bbox": [
+            99,
+            468,
+            487,
+            615
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The highly repetitive sequences can be divided into three components according to the arrangements of their repeating units: inverted sequences or the so-called \"zero-time\" DNA fraction, a satellite fraction, and a nonsatellite fraction. The single strands of the satellite and nonsatellite fractions contain the ordinary repetitions of the sequence type ABC . . . ABC and, hence, they reassociate with biomolecular second-order kinetics. Most satellite DNAs are arranged in a long uninterrupted tandem array of simple repeating units (Walker, 1971; Gall and Atherton, 1974). These DNA sequences can be separated from the bulk of the DNA by a variety of equilibrium centrifugation techniques. The highly repetitive sequences of the nonsatellite fraction are more complex than those of the satellite fraction and the repeating units are interspersed with the less repetitive or nonrepetitive sequences (Saunders et al., 1975; Cech et al., 1973). The \"zero-time\" DNA fraction contains inverted repetitions of the sequence type ABC . . . C'B'A' which form hairpin-like structures by the folding back of a single linear chain. Thus the reassociation process is unimolecular and the rate is extremely fast. This fraction of DNA can be isolated by reassociating the total DNA to $C _ { 0 } t$ values of $\\leqslant 1 0 ^ { - 4 } \\mathrm { ~ M ~ } ;$ $C _ { 0 } t$ is the product of the initial concentration of single-stranded DNA and the time of incubation. ",
+        "bbox": [
+            99,
+            616,
+            487,
+            792
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            479,
+            902,
+            615
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The presence of inverted repetitive sequences in a variety of higher organisms has been reported by several laboratories (Wilson and Thomas, 1974; Davidson et al., 1973; Graham et al., 1974; Schmid et al., 1975). The biological function of this class of sequences is unknown. It has been found that heterogeneous nuclear RNA contains relatively long double-stranded regions which are absent in the cytoplasmic messenger RNA (Ryskov et al., 1972). After denaturation, these RNA sequences corresponding to the double-stranded regions can hybridize efficiently with immobilized cellular DNA, indicating high repetition of the corresponding DNA sequences. It was thus suggested that the inverted repetitive DNA sequences in the genome might correspond to acceptor sites which could interact with regulatory proteins (Jelinek and Darnell, 1972; Ryskov et al., 1973). ",
+        "bbox": [
+            513,
+            615,
+            902,
+            818
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The human genome consists of $7 \\times 1 0 ^ { 9 }$ base pairs, $6 5 \\%$ of which are unique sequences (Saunders et al., 1972a). Among the repetitive sequences there exist the inverted repetitive sequences, the simple sequence satellites, the nonsatellite highly repetitive sequences, and the middle repetitive sequences (Saunders et al., 1972b, 1975; Chuang and Saunders, 1974). In this paper, we report the isolation and characterization of the inverted repetitive sequences of human DNA. When DNA with an average single-stranded chain length of 15 o00 nu",
+        "bbox": [
+            515,
+            820,
+            904,
+            940
+        ],
+        "page_idx": 4
+    }
+]

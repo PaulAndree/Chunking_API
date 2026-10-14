@@ -1,0 +1,285 @@
+[
+    {
+        "type": "text",
+        "text": "Mutator Bacteria as a Risk Factor in Treatment of Infectious Diseases ",
+        "text_level": 1,
+        "bbox": [
+            194,
+            118,
+            802,
+            162
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Antoine Giraud, $^ { 1 , 2 }$ Ivan Matic,2 Miroslav Radman,2 Michel Fons,1 and François Taddei2\\* UEPSD-FBI, Bat 440-CRJ-Institut National de la Recherche Agronomique, 78352 Jouy-en-Josas,1 and E9916, Institut National de la Santéet de la Recherche Médicale, Faculté de Médecine \"Necker-Enfants Malades,\" Université René Descartes Paris V, 75015 Paris,² France ",
+        "bbox": [
+            129,
+            168,
+            860,
+            229
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 2 July 2001/Returned for modification 4 September 2001/Accepted 19 November 2001 ",
+        "bbox": [
+            209,
+            240,
+            778,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We show ina gnotobiotic mouse model that, in addition to direct selectionofantibiotic-resistant bacteria, some antibiotic treatments also select or mutator alleles. Becauseof these mutator allles' high mutation rates, thenitial treatment failurecreases the probability  failures  subsequent treatments w he drugs. ",
+        "bbox": [
+            131,
+            266,
+            862,
+            318
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The emergence of antibiotic resistance during therapy can increase the rate of secondary bacteremia, hospitalization costs, and mortality (3). Bacterial resistance can be acquired either by chromosomal mutations or by horizontal transfer of plasmid-borne resistance genes. In sensitive, strictly clonal bacterial populations (plasmid bearing or not), the generation of antibiotic resistance depends on the rate of emergence of resistant mutants, i.e., on the bacterial mutation rate (8, 9). A correlation between high mutation rate and antibiotic resistance has been reported in the case of Pseudomonas aeruginosa isolated from the lungs of cystic fibrosis patients (11). We used a model of bacterial colonization of germfree mice to assess in vivo the risk of emergence of antibiotic-resistant mutants due to mutator bacteria in the course of antibiotic treatment. ",
+        "bbox": [
+            71,
+            348,
+            480,
+            542
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Animals and bacteria. Adult germfree mice $( \\mathrm { C 3 H / H e / J a x . } /$ Jouy-en-Josas) were reared in isolators (La Calhène, Vélizy, France). Inoculation was performed per os with $0 . 5 ~ \\mathrm { m l }$ of an inoculum containing wild-type strain Escherichia coli MG1655 (2) or its isogenic mutator variant (6) that bears a mutation in the mutS gene that inactivates the methyl-directed mismatch repair (MMR) system (5) and that leads to a 100-fold increase in the mutation rate. ",
+        "bbox": [
+            71,
+            545,
+            482,
+            654
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Antibiotic treatment design and bacterial count. On the first day of treatment, $0 . 5 ~ \\mathrm { m l }$ of an antibiotic(s) solution was administered per os to mice. Their drinking water was then supplemented with the antibiotic(s) until the end of the experiment. Concentrations were $3 0 ~ \\mu \\mathrm { g / m l }$ for fosfomycin (FOF), 80 $\\mu \\mathrm { g / m l }$ for spectinomycin (SPT), $1 0 0 ~ \\mu \\mathrm { g / m l }$ for streptomycin (STR), and $5 0 0 ~ \\mu \\mathrm { g / m l }$ each for nalidixic acid (NAL) and ampicillin (AMP). The evolution of the bacterial population was monitored before and during the treatment by plating dilutions of feces on Luria-Bertani plates supplemented with antibiotics, when needed (STR at $1 0 0 ~ \\mu \\mathrm { g / m l }$ , NAL at $4 0 ~  { \\mu \\mathrm { g / m l } }$ , SPT at 80 $\\mu \\mathrm { g / m l }$ , FOF at $3 0 ~ \\mu \\mathrm { g / m l }$ , AMP at $5 0 0 ~ \\mu \\mathrm { g / m l }$ , and rifampin at ",
+        "bbox": [
+            71,
+            656,
+            480,
+            823
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$1 0 0 ~ \\mu \\mathrm { g / m l } $ . Because rifampin was not used in the treatments, the frequency of spontaneously occurring rifampin-resistant mutants [f(Rifr)] reflects the bacterial mutation rate (6). ",
+        "bbox": [
+            511,
+            348,
+            919,
+            390
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Emerging mutator characterization. f(Rifr) was obtained in three independent measurements for at least seven clones randomly isolated from fecal populations from each mouse. Plasmids (19) carrying the wild-type alleles of the different genes of the MMR system were used to electrotransform one clone from each population exhibiting a high mutation rate. Transformants were tested for a reduction in f(Rifr). ",
+        "bbox": [
+            511,
+            391,
+            921,
+            489
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We inoculated the guts of germfree mice with wild-type strain $E _ { \\ast }$ coli MG1655 (2) or its isogenic mutator variant (6). Such mutator bacteria have been found at high frequencies among different pathologies (7, 10, 11, 13). A few days after inoculation, the bacterial population size reached $1 0 ^ { 1 0 }$ bacteria per gram of feces, the maximum population size reached when E. coli is inoculated into axenic mice. In this animal model, the bacterial population is clonal and readily reaches a high density (6), mimicking the infection conditions of normally sterile sites (e.g., urinary tract, the lungs, and surgical sites). After a delay of 13 days to allow the establishment of the inoculated strain, the bacterial population was challenged with various antibiotic treatments (Table 1). The elimination (reduction below the detection limit, e.g., $1 0 ^ { 3 }$ bacteria per of feces) of the bacterial population from the gastrointestinal tract (decontamination) or the maintenance of an antibiotic-resistant bacterial population was monitored as an indicator of the efficiency of the treatment. ",
+        "bbox": [
+            511,
+            489,
+            921,
+            743
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The administration of FOF and SPT at a 1-day interval (FOF then SPT) successfully eliminated the bacteria in four of the six mice inoculated with the wild-type strain. The treatment was unsuccessful in the other two mice (mice M1 and M2; Table 1), in which bacteria resistant to both antibiotics reached the maximum population size soon after the beginning of the treatment. The same protocol failed to decontaminate the digestive tract of each of the six mice inoculated with the mutator strain (Table 1). ",
+        "bbox": [
+            511,
+            744,
+            921,
+            870
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When mice received FOF and SPT simultaneously, the bacterial population was eliminated in 10 of 12 mice inoculated with the wild-type strain (Table 1). In the other two mice (mice M3 and M4), the bacterial population sizes were only transiently diminished by the treatment. The same protocol failed in 10 of 13 mice inoculated with the mutator strain (Table 1). However, the simultaneous use of FOF, SPT, and STR efficiently eliminated the mutator populations from all of the mice (Table 1). Interestingly, the single use of AMP at a high concentration efficiently eliminated the mutator bacteria (Table 1), presumably because, in the strain used, no simple mutational events can generate resistance to a high AMP concentration. However, it was previously shown in vitro that highlevel resistance could be obtained in a mutator background if the AMP concentration gradually increases (17). ",
+        "bbox": [
+            511,
+            871,
+            919,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/9fa515185abb65ba95e93ceb592a969a61bac9048422babfb12bfd32f30a58a0.jpg",
+        "table_caption": [
+            "TABLE 1. Impact of bacterial mutation rate on the result of antibiotic therapiesa "
+        ],
+        "table_footnote": [
+            "$E _ { i }$ c G1  G13a whic un ativ ancestral strain, except as indicated in footnotes $d$ and $e$ . by the Fisher exact test (one tailed). $^ c \\bf N D$ ,not determined. T     on ao ou M1. T    a . "
+        ],
+        "bbox": [
+            68,
+            105,
+            923,
+            251
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            355,
+            480,
+            506
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Clones were isolated from the fecal populations of mice M1, M2, M3, and M4, in which the treatments failed, to measure f(Rif). The clones from mouse M1 did not show a significant difference in f(Rifr) from that of the wild-type ancestor $P =$ 0.3 by the $t$ test). The clones from mice M2, M3, and M4 had significantly higher f(Rifr) values (on average, 200-, 200-, and 400-fold increases, respectively; $P \\le 0 . 0 0 8$ by the $t$ test), suggesting that strains with high mutation rates (emerging mutators [EMs]) were selected from the original populations with low mutation rates. The high mutation rates of one EM clone from mouse M3 and one EM clone from mouse M4 were lowered when the bacteria were transformed with a plasmid bearing a wild-type mutS allele, suggesting that these EMs carry a defect in the MMR system. ",
+        "bbox": [
+            71,
+            509,
+            480,
+            703
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One clone isolated from the wild-type population that had survived the treatment with FOF and SPT at a 1-day interval in mouse M1 and one EM clone isolated from the population that survived the same treatment in mouse M2 were each inoculated separately into a new group of six germfree mice. Animals were then treated with STR and NAL. This treatment failed to decontaminate all mice inoculated with the EM strain isolated from mouse M2, whereas it was successful against the nonmutator bacterial populations originating from mouse M1 (Table 1). In mice inoculated with the genetically constructed mutator strain, the same treatment failed in seven of nine mice (Table 1). ",
+        "bbox": [
+            71,
+            705,
+            480,
+            871
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our results show that some antibiotic treatments can select for mutator bacteria present at low frequencies among all wild-type populations. Actually, by selecting for a resistance allele, the antibiotic selective pressure also selected for a mutator allele as the mechanism that generated the resistance. Moreover, mutators could also facilitate the modification of the active sites of detoxification enzymes to shift the resistance from resistance to a low dose to resistance to a high dose (17) and extend their resistance spectra (12). It could also rapidly accumulate compensatory mutations that limit the cost to the bacteria associated with the resistance alleles (1). Mutator bacteria can be considered risk markers for antibiotic therapy. If corroborated by epidemiological data, our results would suggest that, in the case of a first therapeutic failure and if time allows, a diagnostic assay for the presence of mutators should determine the next therapeutic step. If a drug is available for which mutational events can very rarely generate antibiotic resistance, such as AMP at a high concentration used against the bacteria in the present study, then it is the first choice for use against the mutators. Otherwise, the use of a combination therapy seems to be the best alternative. As the selection of mutator bacteria is favored by several bacterial and environmental factors (18), some conditions (e.g., a large bacterial population) allow the selection of such strains more than others. In these cases, if possible, therapies should be initiated directly with a protocol that limits the risk of selection of mutators. For example, the use of antibiotics that inhibit a single enzyme should probably be set aside, even when used in combination therapies, as we did in the present work. ",
+        "bbox": [
+            69,
+            872,
+            480,
+            927
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            355,
+            921,
+            711
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Due to their increased genetic adaptability, the rate of selection of mutator variants among populations undergoing multiple adaptive steps should be increased (6, 8, 14, 16, 18). For this reason, some pathology might allow the emergence and fixation of mutator alleles more frequently than others (4). In the case of chronic infections, the size of the infecting population combined with the duration of infection, the reiterated challenges imposed by antibiotic therapies, and the host's immune response should provide conditions prone to the fixation of mutator alleles. Numerous mutator $E$ coli, Salmonella enterica, and $P _ { \\ l }$ aeruginosa isolates from patients and other natural environments have defective MMR systems (6, 7, 10, 11), similar to the emerging mutator strains isolated in the present work. Given the abundance of mutators among bacterial pathogens, viruses, and tumors (15), the concept that one failed therapy is a potential risk factor for the next therapy might be relevant to other therapeutic strategies. ",
+        "bbox": [
+            511,
+            714,
+            921,
+            927
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            69,
+            88,
+            480,
+            116
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by the Ligue contre le Cancer, Association pour la Recherche contre le Cancer, the Programme Environnement et Santé (MATE), the Programme de Recherche Fondamentale en Microbiologie et Maladies Infectieuses et Parasitaires (MENRT), and Fondation pour la Recherche Médicale. ",
+        "bbox": [
+            69,
+            124,
+            480,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to A. Clara and E. Morin for technical help and to D. Brégeon, E. Denamur, M. S. Fox, M. P. Francino, A. Gomez, S. Delmas, L. Le Chat, F. W. Stahl, E. Stewart, O. Tenaillon, and anonymous referees for comments on the manuscript. ",
+        "bbox": [
+            69,
+            182,
+            480,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            237,
+            316,
+            247
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Bjorkman, J., I. Nagaev, O. G. Berg, D. Hughes, and D. I. Andersson. 2000. Effects of environment on compensatory mutations to ameliorate costs of antibiotic resistance. Science 287:14791482.   \nBlattner, F. R., G. Plunkett III, C. A. Bloch, N. T. Perna, V. Burland, M. Riley, J. Collado-Vides, J. D. Glasner, C. K. Rode, G. F. Mayhew, J. Gregor, N. W. Davis, H. A. Kirkpatrick, M. A. Goeden, D. J. Rose, B. Mau, and Y. Shao. 1997. The complete genome sequence of Escherichia coli K-12. Science 277:14531474.   \n3. Carmeli, Y., N. Troillet, A. W. Karchmer, and M. H. Samore. 1999. Health and economic outcomes of antibiotic resistance in Pseudomonas aeruginosa. Arch. Intern. Med. 159:11271132.   \nDenamur, E., S. Bonacorsi, A. Giraud, P. Duriez, F. Hilali, C. Amorin, E. Bingen, A. Andremont, B. Picard, F. Taddei, and I. Matic. 2002. High frequency of mutator strains among human uropathogenic Escherichia coli isolates. J. Bacteriol. 184: 605609.   \n5. Friedberg, E. C., G. C. Walker, and W. Siede. 1995. DNA repair and mutagenesis. ASM Press, Washington, D.C.   \n6. Giraud, A., I. Matic, O. Tenaillon, A. Clara, M. Radman, M. Fons, and F. Taddei. 2001. Costs and benefits of high mutation rates: adaptive evolution of bacteria in the mouse gut. Science 291:26062608.   \n7. LeClerc, J. E., B. Li, W. L. Payne, and T. A. Cebula. 1996. High mutation frequencies among Escherichia coli and Salmonella pathogens. Science 274: 12081211.   \n8Mao, E. F., L. Lane, J. Lee, and J. H. Miller. 1997. Proliferation of mutators in a cell population J. Bacteriol. 179:417422.   \n9. Martinez, J. L., and F. Baquero. 2000. Mutation frequencies and antibiotic resistance. Antimicrob. Agents Chemother. 44:17711777.   \n10 Matic, I., M. Radman, F. Taddei, B. Picard, C. Doit, E. Bingen, E. Denamur, and J. Elion. 1997. Highly variable mutation rates in commensal and pathogenic Escherichia coli. Science 277:18331834.   \n11. Oliver, A., R. Canton, P. Campo, F. Baquero, and J. Blazquez. 2000. High frequency of hypermutable Pseudomonas aeruginosa in cystic fibrosis lung infection. Science 288:12511254.   \n12. Orencia, M. C., J. S. Yoon, J. E. Ness, W. P. Stemmer, and R. C. Stevens. 2001. Predicting the emergence of antibiotic resistance by directed evolution and structural analysis. Nat. Struct. Biol. 8:238242.   \n13. Picard, B., P. Duriez, S. Gouriou, I. Matic, E. Denamur, and F. Taddei. 2001. Mutator natural Escherichia coli isolates have an unusual virulence phenotype. Infect. Immun. 69:914.   \n14. Sniegowski, P. D., P. J. Gerrish, and R. E. Lenski. 1997. Evolution of high mutation rates in experimental populations of $E$ coli. Nature 387:703705.   \n15. Taddei, F., I. Matic, B. Godelle, and M. Radman. 1997. To be a mutator, or how pathogenic and commensal bacteria can evolve rapidly. Trends Microbiol. 5:427428.   \n16. Taddei, F., M. Radman, J. Maynard-Smith, B. Toupance, P. H. Gouyon, and B. Godelle. 1997. Role of mutator alleles in adaptive evolution. Nature 387:700702.   \n17. Tanabe, K., T. Kondo, Y. Onodera, and M. Furusawa. 1999. A conspicuous adaptability to antibiotics in the Escherichia coli mutator strain, dnaQ49. FEMS Microbiol. Lett. 176:191196.   \n18. Tenaillon, O., B. Toupance, H. Le Nagard, F. Taddei, and B. Godelle. 1999. Mutators, population size, adaptive landscape and the adaptation of asexual populations of bacteria. Genetics 152:485493.   \n19. Wu, T. H., and M. G. Marinus. 1994. Dominant negative mutator mutations in the mutS gene of Escherichia coli. J. Bacteriol. 176:53935400. ",
+        "bbox": [
+            76,
+            252,
+            482,
+            454
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            91,
+            921,
+            456
+        ],
+        "page_idx": 2
+    }
+]

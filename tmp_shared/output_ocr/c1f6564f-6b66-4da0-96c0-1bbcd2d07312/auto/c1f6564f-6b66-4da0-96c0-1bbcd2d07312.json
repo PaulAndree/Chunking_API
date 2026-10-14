@@ -1,0 +1,749 @@
+[
+    {
+        "type": "text",
+        "text": "Specialized DNA Polymerases, Cellular Survival, and the Genesis of Mutations ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            118,
+            926,
+            184
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Errol C. Friedberg,1 \\* Robert Wagner,2 Miroslav Radman3 ",
+        "bbox": [
+            312,
+            190,
+            689,
+            205
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cell death caused by arrested replication of damaged or structurally altered DNA can be avoided in prokaryotic and eukaryotic cells by multiple DNA polymerases that are specialized to bypass DNA damage. Some of these polymerases perform such translesion DNA synthesis of specific types of damage with high genetic fidelity. However, they exhibit greatly reduced fidelity when they operate on undamaged DNA or on DNA with lesions that are (apparently) not cognate substrates. The low fidelity of some of these specialized polymerases when copying undamaged DNA may be physiologically functional, including generating immunoglobulin diversity. ",
+        "bbox": [
+            91,
+            234,
+            620,
+            337
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "n the competitive world of prokaryotes and unicellular eukaryotes, survival of an individual clone (a single cell and its descendants) depends on efficient DNA replication, which requires both high fidelity and high speed. Slowing DNA replication or decreasing its fidelity places the clone at a selective disadvantage. Efficient DNA replication also requires the absence of damage or structural alterations at the replication fork that can block or slow down the replicative machinery. Because DNA is intrinsically chemically unstable and is vulnerable to metabolic and environmental insults, numerous types of DNA damage can impede normal replication $( I )$ . ",
+        "bbox": [
+            75,
+            367,
+            344,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To minimize cell death resulting from replication blockage, a process known as translesion synthesis (TLS) has evolved (2), which allows strand extension across template lesions. TLS in prokaryotes and eukaryotes (including human cells; Table 1) involves multiple recently discovered DNA polymerases variously referred to as TLS, SOS, mutagenic, and error-prone DNA polymerases, and as Y-family polymerases (3–10). Most of these polymerases bear little primary sequence similarity to high-fidelity replicative enzymes. Nonetheless, like other DNA polymerases, the first three to have their three-dimensional structures determined display characteristic palm, finger, and thumb domains (7). They also support DNA template- and primer-dependent incorporation of nucleotides into DNA. We refer to them as specialized DNA polymerases. ",
+        "bbox": [
+            76,
+            580,
+            344,
+            816
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            367,
+            367,
+            635,
+            392
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Specialized DNA polymerases are characterized by their ability to copy cognate lesions or classes of lesions with high genetic fidelity—that is, by incorporating the nucleotide that normally pairs with the undamaged version of the base. However, when operating on nonsubstrate templates, such as normal DNA, or when copying noncognate lesions, they exhibit reduced genetic fidelity, resulting in generation of mutations. In the absence of DNA repair, the level of mutations so generated may have severe phenotypic consequences for cells. These newly discovered DNA polymerases have been extensively discussed in the past few years (3–10). Here we present recent concepts about their proposed functions, mechanisms of action, and biological effects. ",
+        "bbox": [
+            367,
+            393,
+            635,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Brief History ",
+        "text_level": 1,
+        "bbox": [
+            367,
+            642,
+            455,
+            655
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacterial mutants that are essentially nonmutable by ultraviolet (UV) radiation were discovered more than 30 years ago $( I I )$ . The existence of such mutants suggested that mutations associated with DNA damage are not chemical accidents but result from an active cellular process(es). It was hypothesized that error-prone DNA polymerases might exist that, like terminal nucleotidyltransferases, could insert random nucleotides in a template-independent fashion (12) and that DNA damage–induced mutagenesis might be a specific cellular response to damage (13). In Escherichia coli, this SOS response is now known to involve more than 30 inducible genes $( I 4 )$ . The nonmutable bacterial mutants initially identified (recA and lexA) are defective in the global SOS response. Subsequently, mutants defective exclusively in SOS-dependent mutagenesis were isolated, leading to identification of the umuC, umuD, and dinB genes of $E$ . coli (14 ). These genes are now known to encode the specialized DNA polymerases pol V (umuC and umuD) and pol IV (dinB) (3, 4, 6, 10, 15). Yeast mutants defective in genes called REV1, REV3, and REV7 that are weakly mutable by UV radiation (16, 17) have also been shown to encode specialized DNA polymerases. ",
+        "bbox": [
+            367,
+            659,
+            635,
+            949
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            658,
+            222,
+            926,
+            313
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genome sequencing prompted searches for homologs of the E. coli dinB, umuC, and umuD gene products (18, 19), leading to the identification of multiple conserved prokaryotic and eukaryotic orthologs and paralogs. These proteins [including the product of the yeast $R E V I$ gene mentioned above (8)] belong to an extended superfamily (the Y-family), with sequence relationships distinct from other polymerase families. Many of these proteins are bona fide DNA polymerases with unusual properties in vitro (3–10). In particular, (i) when copying undamaged DNA they manifest error rates two to four orders of magnitude greater than those of replicative polymerases (Table 1), (ii) they lack $3 ^ { \\prime }  5 ^ { \\prime }$ proofreading exonuclease activity, (iii) they exhibit a distributive mode of copying DNA instead of the highly processive mode of replicative polymerases, and (iv) they support TLS of damaged DNA in vitro. These properties are shared with other newly discovered polymerases such as pol $\\lambda$ and pol $\\mu$ (Table 1) from the X-family (3–10). ",
+        "bbox": [
+            658,
+            314,
+            928,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Specialized DNA polymerases likely evolved to promote mutation avoidance in the presence of unrepaired DNA damage. However, in light of their mutagenic potential, control and regulation of their action is critical for maintaining normal genomic stability. Bacterial specialized polymerases are inducible by DNA damage. Eukaryotic specialized polymerases are present constitutively in cells, albeit at different levels in different tissues (20–22). Their regulation may (in part) be affected by their limited access to undamaged DNA because they are so specialized for TLS of damaged DNA. ",
+        "bbox": [
+            658,
+            632,
+            926,
+            710
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/afbabaa2b910ddd7a43751c99a024ecb8acbd6ab6ff81706133c90275bff5c81.jpg",
+        "table_caption": [
+            "Table 1. Low-fidelity copying of undamaged DNA by specialized DNA polymerases from human cells. [Adapted from (47)] "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            655,
+            765,
+            928,
+            946
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            88,
+            346,
+            194
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TLS ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            205,
+            101,
+            217
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The demonstration that many ( presumably all) TLS enzymes are DNA polymerases, coupled with the observations that their activity is frequently associated with mutagenesis and they copy undamaged DNA with reduced fidelity, has led to their designation as low-fidelity or error-prone DNA polymerases, or as mutases. This view reflects a bias in designating undamaged DNA as the normal template for any DNA polymerase. If, instead, a particular lesion or class of lesions in DNA is considered the preferred template for specialized polymerases, these enzymes may be viewed as operating with high genetic fidelity. Thus, it is useful to reconsider the dogma that DNA lesions are strictly noninstructive. Lesions in template DNA that are noninstructive for replicative polymerases may be instructive for specialized DNA polymerases. According to this view, undamaged DNA and noncognate lesions are the noninstructive or poorly instructive templates for specialized DNA polymerases. ",
+        "bbox": [
+            76,
+            222,
+            346,
+            525
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Specific nucleotide incorporation patterns opposite specific lesions have been identified for several specialized DNA polymerases, particularly in eukaryotes. An extreme example is the Rev1 protein, which incorporates deoxycytidine monophosphate opposite sites of base loss (abasic sites) (16 ). Conceivably, Rev1 evolved specifically to allow TLS across abasic sites that result from the spontaneous loss of guanine, the most frequent source of such lesions. In humans, pol $\\boldsymbol { \\mathsf { \\Pi } }$ which is defective in xeroderma pigmentosum variant (XP-V) humans, appears to have evolved specifically to copy cyclobutane TT dimers (a UV light–induced lesion in DNA), by inserting the correct complementary bases AA (23). However, in vitro pol $\\boldsymbol { \\mathsf { \\Pi } } ^ { \\mathsf { \\Pi } }$ cannot copy [6-4]dipyrimidine photoproducts produced by UV radiation, an example of what we refer to as a noncognate substrate. Yet a third specialized eukaryotic polymerase, pol i, can accurately bypass one of the dinucleotides in [6-4]dipyrimidine photoproducts in vitro (24 ). In vivo, a different specialized polymerase may function in concert with pol i to complete error-free TLS across this lesion (24). Parenthetically, when copying undamaged DNA, pol i incorporates G more efficiently than A opposite T (25). Perhaps this polymerase evolved to prevent the mutagenic effect of deamination of C to U, by incorporating G opposite U (26 ). In E. coli too, each of the SOS-induced polymerases ( pol II, pol IV, and pol V) can process specific lesions into specific mutations. Pol II generates $^ { - 2 }$ frameshift mutations from acetylaminofluorene G adducts, whereas pol II and pol IV are required for $^ { - 1 }$ frameshift mutations from benzo[a]pyrene G adducts (15). ",
+        "bbox": [
+            76,
+            527,
+            346,
+            949
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            367,
+            88,
+            635,
+            180
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Differences in nucleotide insertion specificity, coupled with the redundancy for these specialized polymerases in eukaryotes, may account for the observation that mutations in different genes encoding these enzymes can result in nonmutability, hypermutability, or a change in the spectrum of mutations. For example, bacterial cells that are defective in umuC/D are nonmutable by UV radiation, probably because loss of this gene function results in death of cells that require TLS for survival. Hence, surviving undamaged or minimally damaged umuC/D cells exhibit a lower mutation rate than wild-type cells exposed to UV radiation. Consistent with this notion, purified pol V of E. coli supports TLS across both thymine dimers and [6-4] photoproducts in vitro (27 ). Furthermore, it does so with genetic fidelity across the former lesions (27 ), which suggests that thymine dimers are a cognate substrate for pol V. But the enzyme is error-prone for TLS across [6-4] photoproducts (27 ), which suggests that these lesions account for much of the umuC/D-dependent mutagenesis after UV radiation. ",
+        "bbox": [
+            367,
+            183,
+            637,
+            512
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "On the other hand, human XP-V cells lacking pol $\\boldsymbol { \\eta }$ manifest limited lethality but enhanced mutagenesis after exposure to UV radiation, and patients with XP-V have an increased incidence of skin cancer after exposure to sunlight (28). The redundancy of specialized polymerases in higher organisms suggests that, in the absence of pol $\\eta _ { \\mathrm { : } }$ , some other polymerase(s) bypasses thymine dimers but does so inaccurately. The fact that eukaryotic cells have multiple polymerases that can serve such backup roles may account for the failure to detect cells in humans or other higher organisms that are nonmutable (29–32). ",
+        "bbox": [
+            367,
+            513,
+            637,
+            696
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The larger repertoire of specialized polymerase in eukaryotes thus apparently reflects different cell survival strategies in multicellular and unicellular organisms with unrepaired DNA damage. In a bacterial population, just one surviving cell can restore the entire population. The attendant increased mutational burden notwithstanding, such survival may be (at least) as advantageous to bacteria as the evolutionary investment in multiple redundant specialized polymerases. Furthermore, an increased mutation rate when DNA damage is prevalent may enhance the probability of population survival by generating genetic diversity from which fitter variants can be selected (33). Such appears to be the case during adaptive evolution in bacteria (34, 35). In contrast, the presence of mutant cells in the germ line of eukaryotes increases the risk of lethal or crippling hereditary disease, and a high level of mutagenesis during embryogenesis may be incompatible with life. Finally, mutations in somatic cells have no evolutionary value and can lead to increased cancer risk. Hence, multicellular eukaryotes may have evolved multiple specialized polymerases to maintain minimum levels of DNA damage–induced mutagenesis. However, the mutagenic potential of specialized polymerases in eukaryotic cells may become manifest (and possibly may have been used for evolutionary purposes) if they gain access to DNA under specific conditions— for example, in the presence of strand breaks or after they are overexpressed (36 ). ",
+        "bbox": [
+            367,
+            699,
+            637,
+            950
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            658,
+            89,
+            928,
+            299
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Polymerase Regulation During TLS ",
+        "text_level": 1,
+        "bbox": [
+            658,
+            311,
+            895,
+            325
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A central question to be resolved concerns the mechanism by which high-fidelity replicative polymerases are replaced with one or more specialized enzymes during TLS and resume DNA replication once bypass is completed. Recent studies have shown interactions between some of these enzymes and known accessory proteins for DNA replication. Interaction between yeast pol $\\boldsymbol { \\mathsf { \\Pi } }$ and proliferating cell nuclear antigen (PCNA) is required for functional activity of this polymerase (37 ). Additionally, the activities of pol i (38) and of the archeal low-fidelity polymerase pol Y1 (39) are stimulated in the presence of PCNA and replication factor C (RFC) as well as in the presence of PCNA, RFC, and replication protein A, respectively. Likewise, interaction of $E _ { \\ast }$ . coli pol IV with the $\\beta$ -clamp processivity factor (the prokaryotic homolog of PCNA) is required for spontaneous and DNA damage–induced mutagenesis (40). ",
+        "bbox": [
+            658,
+            328,
+            928,
+            617
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Whether such interactions are fundamental to polymerase switching remains unclear. Is the DNA polymerase accessory protein machinery a dynamic structure that actively orchestrates polymerase switching (Fig. 1), or does it simply facilitate the accumulation of multiple DNA polymerases at sites of arrested replication where they somehow compete for the primer terminus? The latter scenario requires that each specialized polymerase compete efficiently for its cognate lesion(s). ",
+        "bbox": [
+            658,
+            619,
+            928,
+            777
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "TLS Often Requires Two Polymerases ",
+        "text_level": 1,
+        "bbox": [
+            660,
+            789,
+            915,
+            803
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Substrate discrimination and specialization of polymerases for different types of naturally occurring base damage or altered replication forks provide a compelling rationalization for the redundancy of these enzymes, especially in eukaryotic organisms with large genomes. But the efficiency of TLS by some specialized polymerases in vitro is also enhanced in the presence of a second polymerase (24 ). Additionally, $E$ . coli uses different polymerases for TLS of the same damage in different nucleotide sequence contexts (41). These observations underscore an important nuance of TLS— the structure of the DNA in the immediate vicinity of a site of successful bypass remains abnormal because of the persistence of base damage (Fig. 1)—and hence may not permit correct engagement with the replication machinery. For TLS to be completed not only must one or more nucleotides be incorporated directly across a site of damage, but the newly synthesized strand must be extended sufficiently to allow stable resumption of high-fidelity replication and to avoid abortion of TLS by exonucleolytic proofreading by high-fidelity polymerases (Fig. 1). ",
+        "bbox": [
+            658,
+            805,
+            928,
+            949
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            89,
+            346,
+            273
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            275,
+            277,
+            327
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The concept that complete replicative bypass includes the distinct events of misincorporation opposite a lesion and extension beyond that site was suggested some years ago (42). Some specialized polymerases may catalyze both events, whereas others may be able to affect only incorporation, in which case a second polymerase may be required for extension (Fig. 1). This may vary for specific types of base damage and for different DNA sequence contexts (41). Although some sort of switch between incorporation and elongation conformations can be envisaged for a single specialized polymerase, no example has yet been reported. ",
+        "bbox": [
+            76,
+            329,
+            277,
+            592
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Specialization of DNA polymerases for incorporating the correct nucleotide opposite a base lesion might be reflected in reduced fidelity when undamaged DNA is being copied. Such a correlation is observed for the human TLS polymerases k, h, and i (Table 1). However, this correlation is not expected for elongation polymerases. Remarkably, pol z, an efficient elongation polymerase, is not particularly error prone when copying undamaged DNA (Table 1). ",
+        "bbox": [
+            76,
+            593,
+            276,
+            765
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            765,
+            334,
+            777
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Specialized Polymerases and the Germ Line Genome ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            789,
+            302,
+            814
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Under certain conditions, specialized DNA polymerases can be misdirected to DNA templates without base damage, generating localized mutational hot spots (43, 44 ). The presence of HO-endonuclease-targeted double-strand breaks (DSBs) in mitotic yeast cells results in a several hundredfold increase in base substitution and frameshift mutations in the neighborhood of the repaired breaks. Such mutagenesis is unaffected by mismatch repair (44 ), which indicates that it likely does not arise as a result of misincorporation by high-fidelity polymerases. Furthermore, in this situation substitution mutations are pol $\\zeta$ dependent (43). Hence, it appears that during recombinational DSB repair the invading DNA strand may sometimes be bound by specialized DNA polymerases, with mutagenic consequences. ",
+        "bbox": [
+            76,
+            818,
+            346,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            367,
+            88,
+            637,
+            208
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In yeast and in mice, meiosis requires topoisomerase (Spo11)-induced DSBs for initiation of genetic crossovers (45, 46 ). Increased expression of several specialized polymerases ( pol k, pol $\\lambda$ , and pol i) is observed in male meiotic mid-pachytene cells and in postmeiotic (round spermatid) cells (20–22). Conceivably, specialized DNA polymerases generate genetic variability in the male germ line, the biological function of which is not yet recognized. However, it is also possible that these polymerases are simply required for TLS of spontaneous DNA damage during spermatogenesis. ",
+        "bbox": [
+            367,
+            209,
+            637,
+            275
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e3de6d06ea0d30f1c180969d8b9085bc65f82f9e60d401932a6e0a8b5b447b22.jpg",
+        "image_caption": [
+            "Fig. 1. Model for TLS by specialized polymerases. High-fidelity semiconservative replication is arrested at sites of base damage or structural distortions in the replication fork (solid triangle). Multiple specialized polymerases are able to support TLS across offending template lesions. During TLS, the correct (error-free) (N) or the incorrect (error-prone) (M) nucleotide is inserted, depending on the nucleotide preference of the engaged specialized polymerase. In either case, persistence of the damaged template base precludes the resumption of normal DNA replication until the primer strand is extended for some distance (bold red), often by a second specialized polymerase, such as prokaryotic pol V and eukaryotic pol $\\zeta$ . The replicative machinery then reengages to continue highfidelity synthesis. Once the site of base damage is cleared, it is subject to normal DNA repair. If TLS was error-free, the DNA is restored to the normal sequence (N:N). However, if TLS resulted in nucleotide misincorporation, a mutation will be fixed (M:M). The product of TLS is in red. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            297,
+            292,
+            681,
+            571
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            367,
+            765,
+            637,
+            883
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Somatic Hypermutation in Immunoglobulin Genes ",
+        "text_level": 1,
+        "bbox": [
+            367,
+            895,
+            550,
+            921
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Misdirected DNA synthesis by specialized polymerases in yeast is consistent with recent suggestions of their involvement in somatic hypermutation in immunoglobulin genes. During somatic hypermutation, nucleotide sequence changes are introduced into the variable (V) regions of immunoglobulin genes (47, 48). During this process, the mutation rate in the V region of immunoglobulin genes is $\\sim 1 0 ^ { - 3 }$ per base per cell duplication, a millionfold greater than the mutation rate for the rest of the genome. Somatic hypermutation is a targeted process that affects preferred sites (hot spots) where it results mainly in transition mutations (47, 48). ",
+        "bbox": [
+            367,
+            924,
+            637,
+            950
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            658,
+            88,
+            928,
+            261
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The discovery of multiple low-fidelity ",
+        "bbox": [
+            679,
+            262,
+            931,
+            275
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA polymerases provided a plausible mechanism of somatic hypermutation (49). Although definitive evidence for a role of these enzymes in this process is lacking (46, 48), there are intriguing parallels between the generation of mutations associated with DSB-induced recombination events in yeast (43, 44 ) and those associated with somatic hypermutation in mammals: (i) strand discontinuities (including DSBs) at mutational hot spots have been detected in B cells coincident with somatic hypermutation (47, 48, 50); (ii) hypermutation depends on functional pol $\\zeta$ (51); (iii) in human B cells, pol $\\zeta$ is transcriptionally induced by specific antibodies to BRC required for activating B cell hypermutation, with significant down-regulation of pol $\\textsf { \\textsf { n } } ( 5 I )$ ; (iv) inhibition of pol $\\zeta$ expression inhibits somatic hypermutation (49); (v) a hypermutating tumor cell line (BL-2) overexpresses pol $\\zeta$ , pol i, and pol $\\lambda$ (52); and (vi) in XP-V patients, the frequency of somatic hypermutation is unaltered, but the spectrum of mutations is changed (53). In summary, there are indications that polymerases $\\zeta$ , h, i, and l may be involved in somatic ",
+        "bbox": [
+            725,
+            272,
+            929,
+            765
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "hypermutation. ",
+        "bbox": [
+            658,
+            766,
+            751,
+            777
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conclusions and Perspectives ",
+        "text_level": 1,
+        "bbox": [
+            658,
+            789,
+            861,
+            803
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cells cannot function normally with structural blocks to replication or transcription or in the presence of DNA strand discontinuities. Evolution has provided diverse strategies to minimize the deleterious effects of DNA damage (54). These strategies include multiple levels of intracellular signaling to indicate the presence of damage as well as a repertoire of DNA repair mechanisms to restore the integrity of DNA templates before sites of blockage are encountered by the replication ",
+        "bbox": [
+            658,
+            805,
+            928,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "S C I E N C E ’ S C O M P A S S ",
+        "text_level": 1,
+        "bbox": [
+            406,
+            66,
+            598,
+            79
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "machinery (54). Although DNA repair efficiently disposes of most damage, the probability that the replication apparatus will encounter sites of unrepaired damage has prompted evolutionary selection for mechanisms whereby such sites can be bypassed. Sites of base damage recognized as cognate lesions are bypassed accurately. However, noncognate substrates are bypassed inaccurately, which results in the introduction of mutations. This may contribute to much of the spontaneous mutation rate in normal cells. But, if repair systems are not operational, the burden on TLS may be such that mutagenesis can have severe phenotypic consequences. It has been demonstrated that, under standard growth conditions, yeast cells defective in either nucleotide excision repair or recombination repair accumulate mutations that are dependent on pol z (55). ",
+        "bbox": [
+            76,
+            88,
+            346,
+            353
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It is interesting to contemplate the evolutionary origins of DNA polymerases designed to copy base damage in a genetically accurate manner but that have lost the capacity to copy intact DNA with high fidelity. For some types of DNA damage (for example, thymine dimers), such activity could result from cryptic Watson-Crick base pairing facilitated by a flexible structure of the polymerase active center. But for damage such as sites of base loss, only evolutionary trial and error resulting in a terminal transferase-like template-dependent activity (such as REV1 protein) could generate such specificity. Targeting a millionfold increase in mutagenesis by specialized polymerases, as may be the case in the immune system, can be viewed as a masterpiece of nature’s “playing with fire.” ",
+        "bbox": [
+            76,
+            356,
+            346,
+            593
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "At this point, the real surprise in this fascinating area of genetics and biochemistry will be if there are no further surprises. ",
+        "bbox": [
+            367,
+            88,
+            637,
+            127
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References and Notes ",
+        "text_level": 1,
+        "bbox": [
+            387,
+            145,
+            514,
+            155
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. T. Lindahl, Nature 362, 709 (1993).   \n2. P. Caillet-Fauquet, M. Defais, M. Radman, J. Mol. Biol. 117, 95 (1977).   \n3. E. C. Friedberg, W. J. Feaver, V. L. Gerlach. Proc. Natl. Acad. Sci. U.S.A. 97, 5681 (2000).   \n4. M. Radman, Nature 401, 866 (1999).   \n5. R. Woodgate, Genes Dev. 13, 2191 (1999).   \n6. M. F. Goodman, B. Tippin, Curr. Opin. Genet. Dev. 10, 162 (2000).   \n7. E. C. Friedberg, P. L. Fischhaber, C. Kisker, Cell 107, 9 (2001).   \n8. H. Ohmori et al., Mol. Cell 8, 7 (2001).   \n9. R. E. Johnson, M. T. Washington, S. Prakash, L. Prakash, Proc. Natl. Acad. Sci. U.S.A. 96, 12224 (1999).   \n10. M. D. Sutton, G. C. Walker, Proc. Natl. Acad. Sci. U.S.A. 98, 8342 (2001).   \n11. E. M. Witkin, Bacteriol. Rev. 40, 869 (1976).   \n12. , Brookhaven Symp. Biol. 20, 17 (1967).   \n13. M. Radman, in Molecular and Environmental Aspects of Mutagenesis, L. Prakash, F. Sherman, M. Miller, C. W. Lawrence, H. W. Tabor, Eds. (Thomas, Springfield, IL, 1974), pp. 128 –142.   \n14. M. D. Sutton, B. T. Smith, V. G. Godoy, G. C. Walker, Annu. Rev. Genet. 34, 479 (2000).   \n15. R. Napolitano, R. Janel-Bintz, J. Wagner, R. P. P. Fuchs, EMBO J. 19, 6259 (2000).   \n16. J. R. Nelson, C. W. Lawrence, D. C. Hinkle, Science 272, 1646 (1996).   \n17. C. W. Lawrence, P. E. Nisson, R. B. Christensen, Mol. Gen. Genet. 200, 86 (1985).   \n18. J. P. McDonald, A. S. Levine, R. Woodgate, Genetics 147, 1557 (1997).   \n19. A. A. Roush, M. Suarez, E. C. Friedberg, M. Radman, W. Siede, Mol. Gen. Genet. 257, 686 (1998).   \n20. V. L. Gerlach et al., Cold Spring Harbor Symp. Quant. Biol. 65, 41 (2000).   \n21. M. Garcia-Diaz et al., J. Mol. Biol. 301, 851 (2000).   \n22. J. P. McDonald et al., Genomics 60, 20 (1999).   \n23. C. Masutani et al., Cold Spring Harbor Symp. Quant. Biol. 65, 71 (2000).   \n24. R. E. Johnson, M. T. Washington, L. Haracska, S. Prakash, L. Prakash, Nature 406, 1015 (2000).   \n25. A. Tissier, J. P. McDonald, E. G. Frank, R. Woodgate, Genes Dev. 14, 1642 (2000).   \n26. A. Vaisman, R. Woodgate, EMBO J. 20, 6520 (2001).   \n27. M. Tang et al., Nature 404, 1014 (2000).   \n28. J. E. Cleaver, J. Invest. Dermatol. 58, 124 (1972).   \n29. M. Bemark, A. A. Khamlichi, S. L. Davies, M. S. Neuberger, Curr. Biol. 10, 1213 (2000).   \n30. G. Esposito, I. Godindagger, U. Klein, M. L. Yaspo, A. Cumano, K. Rajewsky, Curr. Biol. 10, 1221 (2000).   \n31. J. Wittschieben et al., Curr. Biol. 10, 1217 (2000).   \n32. P. P. H. Van Sloun et al., Mol. Cell. Biol., in press.   \n33. F. Taddei et al., Nature 387, 700 (1997).   \n34. S. M. Rosenberg, Nature Rev. Genet. 2, 504 (2001).   \n35. A. Giraud et al., Science 291, 2606 (2001).   \n36. T. Ogi, T. Kato Jr., T. Kato, H. Ohmori, Genes Cells 4, 607 (1999).   \n37. L. Haracska, C. M. Kondratick, I. Unk, S. Prakash, L. Prakash, Mol. Cell 8, 407 (2001).   \n38. L. Haracska et al., J. Biol. Chem. 276, 47394 (2001).   \n39. P. Gruz et al., J. Biol. Chem. 276, 47394 (2001).   \n40. N. Lenne-Samuel, J. Wagner, H. Etienne, R. P. P. Fuchs, EMBO Rep. 3, 1 (2002).   \n41. J. Wagner, H. Etienne, R. Jene-Bintz, R. P. P. Fuchs, DNA Repair 1, 159 (2002).   \n42. B. A. Bridges, Curr. Biol. 8, R886 (2000).   \n43. S. L. Holbeck, J. N. Strathern, Genetics 147, 1017 (1997).   \n44. C. B. McGill, S. L. Holbeck, J. N. Strathern, Genetics 148, 1525 (1998).   \n45. S. Keeney, C. N. Giroux, N. Kleckner, Cell 88, 375 (1997).   \n46. P. J. Romanienko, R. D. Camerini-Otero, Mol. Cell 6, 975 (2000).   \n47. P. J. Gearhart, R. D. Wood, Nature Rev. Immunol. 1, 187 (2001).   \n48. J.-C. Weill et al., Adv. Immunol. 80, 183 (2002).   \n49. S. Brenner, C. Milstein, Nature 211, 242 (1966).   \n50. J. E. Sale, M. S. Neuberger, Immunity 9, 859 (1998).   \n51. H. Zan et al., Immunity 14, 643 (2001).   \n52. V. Poltoratsky et al., Proc. Natl. Acad. Sci. U.S.A. 98, 7976 (2001).   \n53. X. Zeng et al., Nature Immunol. 2, 537 (2001).   \n54. E. C. Friedberg, Cold Spring Harbor Symp. Quant. Biol. 65, 593 (2000).   \n55. B. D. Harfe, S. Jinks-Robertson, Mol. Cell 6, 1491 (2000).   \n56. Dedicated to the memory of Harrison (Hatch) Echols. We thank J.-C. Weill for extensive discussion and intellectual input, and R. Rolig, L. Queimado, and P. Fischhaber for critical reading of the manuscript. ",
+        "bbox": [
+            367,
+            156,
+            638,
+            592
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            656,
+            89,
+            929,
+            593
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Science ",
+        "text_level": 1,
+        "bbox": [
+            93,
+            625,
+            274,
+            662
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Functional Genomics Web Site ",
+        "text_level": 1,
+        "bbox": [
+            132,
+            672,
+            722,
+            707
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Links to breaking news in genomics and biotech, from Science, ScienceNOW, and other sources.   \nExclusive online content reporting the latest   \ndevelopments in post-genomics.   \nPointers to classic papers, reviews, and new   \nresearch, organized by categories relevant to the post-genomics world.   \nScience's genome special issues.   \nCollections of Web resources in genomics and   \npost-genomics, including special pages on model organisms, educational resources, and genome maps. News, information, and links on the biotech business. ",
+        "bbox": [
+            142,
+            723,
+            486,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Specialized DNA Polymerases, Cellular Survival, and the Genesis of Mutations ",
+        "text_level": 1,
+        "bbox": [
+            294,
+            25,
+            934,
+            58
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Errol C. Friedberg et al. Science 296, 1627 (2002); DOI: 10.1126/science.1070236 ",
+        "bbox": [
+            294,
+            58,
+            570,
+            103
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This copy is for your personal, non-commercial use only. ",
+        "bbox": [
+            294,
+            150,
+            705,
+            165
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If you wish to distribute this article to others, you can order high-quality copies for your colleagues, clients, or customers by clicking here. ",
+        "bbox": [
+            163,
+            233,
+            823,
+            261
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Permission to republish or repurpose articles or portions of articles can be obtained by following the guidelines here. ",
+        "bbox": [
+            165,
+            268,
+            834,
+            296
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The following resources related to this article are available online at www.sciencemag.org (this information is current as of February 24, 2015 ): ",
+        "bbox": [
+            165,
+            311,
+            746,
+            339
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Updated information and services, including high-resolution figures, can be found in the online   \nversion of this article at:   \nhttp://www.sciencemag.org/content/296/5573/1627.full.html ",
+        "bbox": [
+            161,
+            353,
+            869,
+            395
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This article cites 52 articles, 15 of which can be accessed free: http://www.sciencemag.org/content/296/5573/1627.full.html#ref-list-1 ",
+        "bbox": [
+            165,
+            402,
+            663,
+            430
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This article has been cited by 239 article(s) on the ISI Web of Science ",
+        "bbox": [
+            163,
+            438,
+            678,
+            453
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This article has been cited by 100 articles hosted by HighWire Press; see: http://www.sciencemag.org/content/296/5573/1627.full.html#related-urls ",
+        "bbox": [
+            165,
+            460,
+            704,
+            488
+        ],
+        "page_idx": 4
+    }
+]

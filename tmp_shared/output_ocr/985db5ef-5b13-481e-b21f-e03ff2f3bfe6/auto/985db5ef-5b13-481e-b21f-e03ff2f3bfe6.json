@@ -1,0 +1,706 @@
+[
+    {
+        "type": "text",
+        "text": "Structure of Recombinants From Conjugational Crosses Between Escherichia coli Donor and Mismatch-Repair Deficient Salmonella typhimurium Recipients ",
+        "text_level": 1,
+        "bbox": [
+            140,
+            94,
+            857,
+            155
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ivan Matic, Miroslav Radman and Christiane Rayssiguier ",
+        "bbox": [
+            244,
+            175,
+            750,
+            194
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Mutagénèse, Institut Jacques Monod, 75251 Paris Cedex 05, France Manuscript received March 5, 1993 Accepted for publication September 13, 1993 ",
+        "bbox": [
+            230,
+            201,
+            769,
+            246
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            454,
+            266,
+            544,
+            278
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To get more insight into the control of homologous recombination between diverged DNA by the Mut proteins of the long-patch mismatch repair system, we have studied interspecies Escherichia coli/ Salmonella typhimurium recombination. Knowing that the same recombination pathway (RecABCD) is responsible for intraspecies and interspecies recombination, we have now studied the structure (replacement vs. addition-type or other rearrangement-type recombinants) of 81 interspecies recombinants obtained in conjugational crosses between $E$ coli donor and mutL, mutS, mutH, mutU or mut\\* S. typhimurium recipients. Taking advantage of high interspecies sequence divergence, a physical analysis was performed on one third of the $E _ { i }$ coli Hfr genome, which was expected to be transferred to S. typhimurium $\\mathbf { F } ^ { - }$ recipients during $4 0 \\ \\mathrm { m i n }$ before interruption of the mating. Probes specific for each species were hybridized on dot blots of genomic DNA, or on colonies, and the composition of the rrn operons was determined from purified genomic DNA. With very few exceptions, the structure of these interspecies recombinants corresponds to replacements of one continuous block of the recipient genome by the corresponding region of the donor genome. ",
+        "bbox": [
+            152,
+            280,
+            844,
+            457
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "E SCHERICHIA are about $8 5 \\%$ homologous at the level of DNA sequence (SHARP 1991). Since they diverged from a common ancestor some 150 million years ago (OcHMAN and WiLson 1987), they have evolved mostly by accumulation of neutral mutations localized predominantly at the third base of codons (CARLoMAGNo et al. 1988); thus most, if not all, vital genes functionally complement between these two genera. A comparison of 67 pairs of homologous genes between $E _ { i }$ coli and S. typhimurium indicates that the ratio of the average synonymous substitution rate to the average nonsynonymous substitution rate is approximately 24 (SHARP 1991). Their respective genomes are similar in chromosome size, gene order, and intergenic spacing but differ by 29 \"loop\" regions, i.e., regions present in only one species (KRAwIEC and RILEY 1990). Yet, in spite of efficient conjugational DNA transfer, there is no significant genetic exchange in crosses between these two bacteria (Baron et al. 1968) compared with very frequent exchange observed in intraspecies conjugation. The decrease in exchanges in interspecies crosses was shown to be caused by the DNA sequence divergence which impairs recombination and not due to restriction of incoming DNA (RAYSSiguieR, THALER and RADMAn 1989; I. Matic, unpublished observations). Sequence divergence is thought to prevent recombination due to the editing of mismatched recombination intermediates by components of the mismatch repair system (RADMAN 1989; RAYSSIGUIER, THALER and RADMAN 1989; SHEN and HuANG 1989) [for a review on mismatch repair see MoDRICH (1991)]. Mismatch repair defective mutants (mutL, mutS, mutH, mutU) are partially proficient in interspecies E. coli/S. typhimurium recombination via the same wild-type recombination pathway (RecABCD) responsible for intraspecies recombination (RAYSSIGUIER, THALER and RADMAN 1989; RAYSsiguIER, DOHET and RADMaN 1991). SMITH (1991) has reviewed some 45 years of intraspecies conjugation experiments and has concluded that about $80 \\%$ of the recombinants correspond to replacements of \"long chunks\" of DNA and $20 \\%$ to replacements of \"short chunks\" of DNA, the former recombinant type being dependent on the RecBCD pathway and the latter probably on both the RecBCD and the RecF pathways. ",
+        "bbox": [
+            72,
+            482,
+            477,
+            922
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            482,
+            923,
+            771
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Interspecies E. coli/S. typhimurium recombination has already been observed in mismatch repair proficient strains, albeit at frequencies from two to six orders of magnitude lower than in comparable intraspecies crosses (BARON et al. 1968; JOHNSON et al. 1973, 1975; LEHNER and HILL 1985). Most recombinants were true replacements but a significant proportion of them were merodiploids and were shown to correspond to $\\mathbf { F ^ { \\prime } }$ , defective $\\mathbf { F ^ { \\prime } }$ and heterospecific duplications (i.e., insertions) within the recipient genome (BARON et al. 1968; JOHNSON et al. 1973, 1975; LEHNER and HiLL 1985). Many of the non-replacement recombinants had arisen by unequal recombination between rrn operons (coding for ribosomal RNA) of one or both bacterial species (LEHNER and HILL 1985). Repetitive sequences such as rrn operons have often been implicated in the formation of intraspecies duplications in S. typhimurium since analysis of duplications at 38 loci revealed duplications flanked by rrn loci (AnDErsoN and RoTH 1981). The segment of the genome flanked by rrnB and rrnE was merodiploid in approximately $3 \\%$ of rapidly growing bacteria, whereas regions not flanked by the cluster of $r r n D , C , A , B , E , { \\bar { H } }$ operons were duplicated at about hundred-fold lower frequency (ANDErsoN and ROTH 1981; SoNTI and RoTH 1989). Chromosomal duplications have also been shown to arise by recombination between two rhs (rearrangement hot spot) sequences (LIN, CAPAGE and HILL 1984) or between REP (Repetitive Extragenic Palindromic) elements (SHYAMALA, SCHNEIDER and FERRO-LUZZI AMES 1990) of which several hundred copies have been found in the $E$ coli and S. typhimurium genomes (DIMRI et al. 1992). ",
+        "bbox": [
+            518,
+            773,
+            923,
+            923
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            74,
+            96,
+            480,
+            451
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Interspecies recombinants between E. coli Hfr and S. typhimurium $\\mathtt { F } ^ { - }$ described in this report were obtained with different Salmonella recipients (mutL, mutS, mutH, mutU or mut+) by selecting either for the proximal xylose marker or for distal methionine markers (see Table 2 and RAYSSIGUIER, THALER and RADMAN 1989). This paper presents a physical analysis of some of those interspecies recombinants aimed at answering the following questions: (1) how much $E$ coli donor DNA is acquired by the recombinants, (2) is the $E$ coli donor DNA added to the recipient genome or does it replace the corresponding Salmonella DNA, and (3) is the E. coli donor DNA integrated in the recipient Salmonella genome as a single chunk or as dispersed pieces. It appears that the majority of interspecies recombination events are large genomic replacements, as found previously in mut+ crosses using genetic methods (BARoN et al. 1968; JoHNSON et al. 1973, 1975; LEHNER and HILL 1985). Thus the inactivation of the mismatch repair system allows for high frequency of interspecies recombination events similar to those obtained in mut\\* crosses. ",
+        "bbox": [
+            74,
+            452,
+            480,
+            776
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            161,
+            791,
+            397,
+            805
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strains: Bacterial strains used in this study are E. coli Hfr PK3 (thr-1 lacY1 azi-15 tonA21 supE44), S. typhimurium LT2 F- SL4213 (galE496 metA22 metE551 rpsL120 xyl-404 (Fels2) H1b nml H2-enx ilv-452 hsdSA29 hsdL6) and interspecies recombinants whose production have already been described (RAYssIGUIER, THALER and Radman 1989). ",
+        "bbox": [
+            76,
+            811,
+            482,
+            897
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA preparations: Genomic DNA samples were prepared as described (LEHNER, HARvEY and HILL 1984). Plasmid extraction was performed by using the method for isolation of large $6 0 { - } 3 0 0 \\mathbf { k b }$ plasmids (PUGSLEY and OUDEGA 1987). Preparation of plugs containing genomic DNA for transverse alternating field electrophoresis (TAFE) and electrophoresis was performed as described in RAyssiGuIER, THaleR and RaDMan (1989). ",
+        "bbox": [
+            76,
+            898,
+            482,
+            934
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            94,
+            926,
+            156
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Restriction enzyme digestion: Genomic DNA (BamHI, PstI; New England Biolabs), plasmid DNA (BamHI, BglII, EcoRI, HindII, PstI; New England Biolabs) and genomic DNA in plugs for TAFE (SpeI; New England Biolabs) were digested as published in HILL and HARNIsH (1981), SAMBROOK, FRITSCH and MANIATIS (1989), RAYSSIGUIER, THALER and RADMAN (1989), respectively. Digested samples of genomic and plasmid DNA were separated in $0 . 6 \\%$ and $0 . 5 \\%$ agarose (SeaKem) gels, respectively. ",
+        "bbox": [
+            521,
+            156,
+            926,
+            267
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA blotting, probe labeling and hybridizations: Southern blot transfer of DNA was performed as described in SAMBROOK, FRITSCH and MANIATIS (1989). Dot and colony blottings were performed as published previously (ANDERSON and YOUNG 1987; MASON and WILLIAMS 1987, respectively). For all blotting experiments a Hybond-N filter (Amersham) was used. DNA was fixed to the membrane by UV $( 3 1 2 { \\mathrm { ~ n m } } )$ according to the manufacturer's instructions. ",
+        "bbox": [
+            521,
+            268,
+            925,
+            366
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All DNA probes used in this work are listed and described in Table 1. DNA probes $\\mathbf { 0 . 3 7 5 { - } 1 . 2 \\ k b }$ long were labeled with $[ \\alpha \\mathrm { - } ^ { \\mathrm { 3 2 } } \\mathrm { P } ] \\mathrm { d } \\mathrm { C T P }$ $\\mathrm { ( 3 0 0 0 ~ C i / m m o l }$ , Amersham) using the Klenow fragment of DNA polymerase I (New England Biolabs) and random sequence oligonucleotide-primer (Promega) as described by FEINBERG and VoLGELSTEIN (1984). Unincorporated $[ \\alpha \\mathrm { - } ^ { 3 2 } \\mathrm { P } ] \\mathbf { d C T P }$ was separated from labeled DNA fragments using a Sephadex G-25 column (medium, DNA grade NAP®-10 Column, Pharmacia), by the method recommended in Pharmacia instructions. Oligonucleotides (2735 mers, synthesized by the phosphite triester method using a Gene Assembler Plus synthesizer, Pharmacia) used as probes were labeled with $[ \\gamma ^ { \\cdot ^ { \\mathbf { 3 2 } } } \\mathbf { P } ]$ ATP $\\mathrm { ( > 5 0 0 0 ~ C i / m m o l . }$ Amersham; $7 0 0 0 \\mathrm { \\ C i / m m o l }$ ,ICN Biomedicals) using the bacteriophage T4 polynucleotide kinase (New England Biolabs) as desCribed in SAMBROOK, FRITSCH and MANIATIS (1989). Unincorporated free $[ { \\boldsymbol { \\gamma } } ^ { \\mathbf { - 3 2 } } \\mathbf { P } ] \\mathbf { A T P }$ was separated from labeled DNA fragments using spin columns containing Sephadex G-50 fine, DNA grade (NICK Spin Column, Pharmacia), by the method recommended in Pharmacia instructions. ",
+        "bbox": [
+            521,
+            365,
+            925,
+            625
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DNA probe $1 . 2 \\ \\mathbf { k } \\mathbf { b }$ long specific for Escherichia or Salmonella 16S rRNA gene labeled with digoxigenin (DIG) was generated using DIG DNA Labeling Kit (Boehringer), as recommended by Boehringer instruction. ",
+        "bbox": [
+            519,
+            625,
+            926,
+            675
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hybridizations of radiolabeled probes to nucleic acids immobilized on nylon membranes were performed as described in SAMBROOK, FRITSCH, and MANIATIS (1989). Hybridization temperatures $( \\mathrm { T _ { n y b } } )$ were $6 5 ^ { \\circ }$ for DNA probes 0.375-1.2 kb long and $6 0 ^ { \\circ }$ for oligonucleotides (2735 mers). The filters with nucleic acids (Southern, dot and colony blots) were prehybridized in ${ \\bf 6 } \\times { \\bf S S C }$ , $5 \\times$ Denhardt's solution, $0 . { \\dot { 5 } } \\%$ SDS and $1 0 0 ~ \\mu \\mathrm { g / m l }$ denatured fragmented salmon sperm DNA, at Thyb for 2 hr. The hybridizations were performed in $\\mathbf { 6 \\times 5 S C }$ , $5 \\times$ Denhardt's solution, $0 . 5 \\%$ SDS and $1 0 0 ~ \\mu \\mathrm { g / m l }$ denatured fragmented salmon sperm DNA for $1 8 \\ \\mathbf { h r }$ For DNA probes $\\mathbf { 0 . 3 7 5 { - } 1 . 2 \\ k b }$ long filters were washed $2 \\times 1 0 \\ \\mathrm { m i n }$ in $2 \\times 5 8 \\mathrm { C }$ , $0 . 1 \\%$ SDS at room temperature and $\\mathrm { 2 \\times 3 0 ~ m i n }$ in $0 . 1 \\times \\mathsf { S S C }$ , $0 . 1 \\%$ SDS at $6 5 ^ { \\circ }$ . For oligonucleotide probes (2735 mers), filters were washed twice for $1 5 \\ \\mathrm { m i n }$ in $2 \\times { \\bf S } { \\bf S } { \\bf C }$ at room temperature and $3 0 ~ \\mathrm { { m i n } }$ in $2 \\times { \\bf S S C }$ , $0 . 1 \\%$ SDS at $6 0 ^ { \\circ }$ . Autoradiography was performed by exposure to Fuji RX film with intensifying screens (DuPont), at $\\overline { { - 8 0 ^ { \\circ } } }$ for one to 5 days. ",
+        "bbox": [
+            521,
+            676,
+            926,
+            907
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hybridization and immunological detection of DIG-labeled probe specific for Escherichia and Salmonella 16S rRNA gene was performed using DIG DNA Detection kit (Boehringer) according to the manufacturer's instructions. ",
+        "bbox": [
+            522,
+            908,
+            926,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/e5ed7855773bc515b83350d8d831e2b2a2b191c9e765a96f707448110a1c944d.jpg",
+        "table_caption": [
+            "TABLE 1 DNA probes "
+        ],
+        "table_footnote": [
+            "arhsD is at 12 min on the E. coli map (see b). bDNA sequences from FeuLNER et al. (1990). cOHMORI et al. (1984). Institut Pasteur, Paris, France. See McMACKEN, SILvER and GEORGOPOULOs (1987). DNA sequences from HuLToN, HigGins and SHARP (1991). 8 Observatoire océanologique, Villefranche sur mer, France. $^ { * }$ Synthetic oligonucleotides; $^ { * * }$ DNA fragments synthesized by PCR. nt, nucleotide; bp, base pair. "
+        ],
+        "bbox": [
+            69,
+            132,
+            923,
+            470
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            580,
+            480,
+            606
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            240,
+            627,
+            314,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nature of interspecies recombinants and strategy of analysis: All interspecies recombinants analyzed in this study were obtained in our previous work (RAYsSIGUIER, THALER and RaDMAN 1989), in which $E$ coli Hfr donor and S. typhimurium $\\mathbf { F } ^ { - }$ mismatch repair deficient (mutL, mutS, mutH, mutU) or proficient $( m u t ^ { + } )$ recipient strains were used. The conjugations were carried out for $4 0 \\ \\mathrm { m i n }$ , the origin of transfer being at $7 6 ^ { \\prime } { - } 7 7 ^ { \\prime }$ on the $E _ { \\mathrm { { \\ell } } }$ coli map (BACHMANN 1990). The genetic markers used to select for interspecies recombinants were xylose as the proximal one $( \\bar { 8 } 0 ^ { \\prime }$ ,i.e., within ${ \\bf 5 ^ { \\prime } }$ from the origin of transfer of the chromosome) and methionine (metE $\\mathbf { 8 6 . 3 ^ { \\prime } }$ and metA ${ \\bf 9 0 . 5 ^ { \\prime } }$ ; the recipient is a double mutant metE metA) as the distal ones (see Table 2). The Hfr donor cells were counterselected by adding streptomycine and by witholding threonine and leucine. The averaged coinheritance of the markers, $\\mathbf { M e t } ^ { + }$ among the selected $\\mathbf { X } \\mathbf { y } \\mathbf { l } ^ { + }$ and $\\mathbf { X } \\mathbf { y } \\mathbf { l } ^ { + }$ among the selected $\\mathbf { M e t } ^ { + }$ , was, respectively, in the range $2 . 5 \\mathrm { - } 1 1 \\%$ and $2 - 2 2 \\%$ , for the mut crosses and $8 \\%$ and $6 \\%$ for the $m u t ^ { + }$ cross (RaysSIGUIER, THALER and RaDMAN 1989). We studied two categories of recombinants: $3 1 ~ \\mathrm { { X y l ^ { + } M e t ^ { - } } }$ (representing the majority of the selected $\\mathbf { X } \\mathbf { y } \\mathbf { l } ^ { + }$ recombinants obtained), and $\\mathrm { 5 0 ~ X y l ^ { + } M e t ^ { + } }$ (26 selected for $\\mathbf { X } \\mathbf { y } \\mathbf { l } ^ { + }$ and 24 selected for $\\mathrm { \\mathbf { M } e t ^ { + } }$ , representing the minority for each selection as indicated above). The 81 recombinants studied are described in Table 2. The $\\mathbf { M e t ^ { + } X y l ^ { - } }$ recombinants were not analyzed because our initial intention was to search for a correlation between the stability/instability of the Xyl character, described in the preceding paper (RAySSIGuIER, THALER and RADMAN 1989), and the structure of the recombinants (e.g., replacement us. merodiploidy). Since the instability was identified only for the $\\mathbf { X } \\mathbf { y } \\mathbf { l } ^ { + }$ phenotype (after growth in rich medium and streaking on McConkey xylose plates) we have analyzed only $\\mathrm { \\mathbf { X } } \\mathrm { \\mathbf { y } } \\mathrm { \\mathbf { l } } ^ { + }$ recombinants. ",
+        "bbox": [
+            76,
+            653,
+            480,
+            930
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            580,
+            923,
+            870
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Because of the small number of genetic markers used in the preceding study, this analysis employs a number of DNA hybridization probes to determine the nature and the extent of parental DNA exchanges in $E$ coli $\\times s$ typhimurium conjugational crosses. The hybridization probes used are homologous to genes sequenced in both bacteria or repeated sequences present in only one (E. coli rhsA,B; rearrangement hot spot; FEULNER et al. 1990) or in both bacteria (ERIC, Enterobacterial Repetitive Intergenic Consensus; HULTON, HIGGINS and SHARP 1991) (see Table 1). Hybridizations were performed mainly on purified DNA and, for some probes, also on colonies, and the composition of the genomic DNA in rrn operons was studied. In order to screen for an extrachromosomal source of recombinant phenotypes, plasmid DNA was analyzed by simple restriction mapping. ",
+        "bbox": [
+            519,
+            872,
+            923,
+            930
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/222f668705c2a5fd11156d04bcf13911466cc450ae3007ec2a6230da014a2f36.jpg",
+        "table_caption": [
+            "",
+            "20 ",
+            "",
+            ""
+        ],
+        "table_footnote": [
+            "20 20 2 20 20 20 20 "
+        ],
+        "bbox": [
+            108,
+            90,
+            755,
+            927
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1c689aa26330f3adcbee7b14abc9764dae3f07f6d45df56ac400ca8ce02af17f.jpg",
+        "image_caption": [
+            "FIGURE 1.—Examples of rrn operon analysis. Genomic DNA was digested with BamHI and $P s t 1$ , blotted and hybridized with an rrn operon universal probe, as indicated in the text. E. coli and S. typhimurium (S.t.) are the parental DNAs and the remaining are interspecies recombinant DNAs; the first letter indicates the mutator genotype of the recipient: mutH, mutS, mutU and mutL. The size of the different BamHI-PstI fragments coding for rRNA is indicated (as found in LEHNER, HARvEY and HILL 1984). Uppercase letters designate $E$ coli $_ { r r n }$ fragments, and lowercase letters designate analogous S. typhimurium fragments, $C / c$ or $c / C$ designates a hybrid fragment (the first letter indicating the ${ \\bf 5 ^ { \\prime } }$ end of the operon). The recombinants correspond to the replacement of respectively four (H17), three (H25), two (S27) and no (U24) rrn operons of the recipient by the $E$ coli rrn operons. The L23 recombinant has five $_ { r r n }$ operons from S. typhimurium, one from $E$ coli and one hybrid fragment $C / c$ or $c / C$ (see $\\mathbf { E ^ { * } }$ in Table 2). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            91,
+            90,
+            468,
+            229
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            441,
+            483,
+            633
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Composition of operons: The analysis of rrn operons allowed us to test for the presence of large duplications (ANDERsoN and $\\mathbf { R o r t 1 9 8 1 } )$ and for putative hybrid rrn operons resulting from (unequal) recombination between different rrn operons either within or between the two species (LEHner and HILL 1985). Both bacteria have seven rrn operons, five of which are in the region analyzed in our study, located at similar positions, in a clockwise orientation (C, A, $B , E$ , and $H$ see Table 2). The more conserved parts of the operons (i.e., the 16S and 23S rRNA genes) show respectively a 5 and $4 \\%$ divergence between $E$ coli and S. typhimurium (R. CHRIsTEN, personal communication). ",
+        "bbox": [
+            78,
+            635,
+            483,
+            840
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The genomic DNA was extracted, doubly digested with BamHI and $P s t \\mathbf { I }$ (HILL and HarNIsH 1981), transferred and hybridized with a universal probe $( 1 . 2 \\ \\mathrm { k b }$ of the 16S DNA of $E$ coli hybridizing to all of the $E$ coli and S. typhimurium rrn operons). The different rrn operons were distinguished by the size of the ",
+        "bbox": [
+            78,
+            841,
+            483,
+            929
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BamHI/PstI fragments they are located on (see Figure 1). We found the replacement of zero, one, two, three or four rrn operons of S. typhimurium by the corresponding $E$ coli rrn operons, always starting from the same rrnC operon (at $8 4 . 6 ^ { \\prime }$ ) and progressing clockwise along the genome towards the rrnE operon (at $9 0 . 5 ^ { \\prime } { \\mathit { \\Omega } } _ { . }$ (see Table 2 and Figure 1). Only in four out of 81 cases did we find putative hybrid rrn operons (LEHNER, HaRvey and HilL 1984). ",
+        "bbox": [
+            521,
+            89,
+            925,
+            223
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the two mutL recipient recombinants analyzed, we observed two different situations: in one case, we found two new bands whose sizes (29.5 and $1 3 . 7 \\ \\mathbf { k b } )$ are compatible with the size of the two hybrid $e / d$ and $d / e$ rrn fragments (the first letter indicating the $5 ^ { \\prime }$ end of the operon); this is consistent with the fact that the parental operons $E$ (E. coli) or e (S. typhimurium) and $d$ are missing. The origin of the putative hybrid $e / d$ fragment is best explained by an intraspecies S. typhimurium $e \\times d$ recombination event (as indicated by the metA marker) arising independently from, but perhaps coincidently with, interspecies recombination. For the second recombinant (see $\\mathbf { E ^ { * } }$ in Table 2 and L23 in Figure 1) obtained with a mutL recipient, we did not observe any $C$ or $c$ operon fragment but instead one new band larger than the $C$ operon fragment (see Figure 1). A hybrid $C / c$ or $c / C$ fragment should be smaller than the $C$ operon fragment. One possibility is that a mutation (or a recombination event) eliminated the BamHI site on one side of the $C$ operon and that the $P s t \\mathbf { I }$ site on the same side was then used during double $B a m \\mathrm { H I } / P s t \\mathrm { I }$ digestion giving a hybrid rrn fragment $2 ~ \\mathbf { k b }$ longer than expected (i.e., $1 8 ~ \\mathrm { \\mathbf { k b } }$ , which is compatible with the observation); other modifications (e.g., insertion of some DNA) are possible. If the apparent loss of the donor BamHI site is due to recombination, it would indicate two crossovers in this region. ",
+        "bbox": [
+            522,
+            224,
+            926,
+            643
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "For the two other remaining recombinants (one from a mutS recipient and the other from a mut recipient), we have observed a similar complexity at the border between the $E$ coli and S. typhimurium DNA. We did not observe an $A$ or $^ a$ operon fragment but rather two bands of 8.6 and $1 6 . 7 ~ \\mathrm { k b }$ (data not shown) whose intensity was greater than the other bands; this result could indicate the presence not only of one rrnh and one rrnC fragment (see Figure 1) but also of two new fragments of the same size (see $X$ in Table 2). The $8 . 6 \\mathbf { - k } \\mathbf { b }$ band could correspond to a hybrid fragment $A / a$ and the $1 6 . 7 – \\mathbf { k } \\mathbf { b }$ band to a fragment containing the two contiguous operons $^ a$ and $A$ One possibility is a recombination between two duplications a-a and A-A (unequal recombination creating an $A { - } a$ duplication without any BamHI or $P s t \\mathbf { I }$ site between the two, plus one equal recombination creating the hybrid $A / a$ rrn fragment). The nature of these putative hybrid rrn fragments and of these putative local duplications is yet to be determined. ",
+        "bbox": [
+            522,
+            644,
+            926,
+            929
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/85af33d2c07fae5f5d53bf52ba213e293bc5d7991efb24ed04906efa5007042b.jpg",
+        "image_caption": [
+            "FiGure 2.—Dot blot (a) or colony (b) hybridizations. Each column represents a DNA probe and each row an interspecies recombinant (except for the two bottom rows which correspond to the parental DNAs); the first letter indicates the mutator genotype of the recipients. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            100,
+            84,
+            461,
+            359
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            454,
+            458,
+            470
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hybridization on dot blots of genomic DNA: Dot blots of genomic DNA were hybridized with oligonucleotides probing for the presence of $E$ coli or $s$ typhimurium sequences (see Figure 2, panel a, and Table 2). The results of dot blot hybridizations, colony hybridizations (see next paragraph) and of the composition of rrn operons were compiled. In conclusion, for most of the recombinants, a region of the Salmonella recipient genome was replaced by the corresponding region of the Escherichia donor genome in one continuous stretch as represented in Table 2. For all the recombinants, the replaced fragment always starts between rhsB and xyl (rhsB was not incorporated in any of the recombinants studied)-i.e., between $7 7 ^ { \\prime }$ and $8 0 . 1 ^ { \\prime }$ on the map. ",
+        "bbox": [
+            74,
+            470,
+            480,
+            696
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the $3 1 ~ \\mathrm { { \\ x y l ^ { + } M e t ^ { - } } }$ recombinants, the replaced fragment ends, for the longest, between rrnB and rrnE-i.e., between $8 9 . 7 ^ { \\prime }$ and $\\mathbf { \\bar { 9 0 . 5 ^ { \\prime } } }$ . The extent of the replaced fragment varied according to the recipient mutator gene (see Table 2) as exemplified by the size of the replacements in the mutU recipients (the smallest). The mean length of the replaced fragment in the mutU recipients is highly significantly smaller than the mean length in the mutH, L, S taken together $( t =$ 5.61 for 24 d.f.; $P < 0 . 0 0 1$ ). For the mut\\* recipients, the very small sample precludes any conclusion. ",
+        "bbox": [
+            76,
+            697,
+            480,
+            863
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the $\\mathrm { \\mathbf { X } \\mathbf { y } l ^ { + } M e i ^ { + } }$ recombinants, only in the case of the mutL recipients (for which we can use the mutL::Tn10 gene of the recipient as a genetic marker) do we have an indication on the limit of the replacement between metA and rrnH (see Table 2); about one half of the recombinants are $m u t L ^ { + }$ (donor type). Among the selected ${ \\mathrm { M e t } } ^ { + }$ recombinants only 2 out of 4 had inherited a marker distal to the metA gene, i.e., the mutL gene of $E$ coli. It may be that the gradient of transfer in interspecies crosses is steeper than in intraspecies cross. In only one case (the second to the last row for mutL recipient in Table 2), we found that the replaced fragment did not extend up to the metA+ gene but was shorter, and this recombinant contained an additional local stretch of $E$ coli information at the metE+ and $m e t A ^ { + }$ genes (despite hybridization with the Salmonella ERIC-metE probe, the phenotype was $\\mathrm { M e t ^ { + } } )$ . For the other recipients, one block up to metA+ replaced the Salmonella genome (see Table 2), except for two cases where the replaced fragment stopped at rrnA (for mut+) or rrnB (for mutS), and there was an additional short stretch of donor information at the metA gene $( m e t A ^ { + } )$ . We found no replacement which extends up to the rrnH operon, which again may reflect a steep gradient of transfer. ",
+        "bbox": [
+            74,
+            864,
+            482,
+            939
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            83,
+            925,
+            381
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For 10 recombinants, the recombinant structure was verified by digestion of the genomic DNA with SpeI enzyme, pulse field electrophoresis (TAFE) of the fragments (RAYSSIGUIER, THALER and RADMAN 1989) and hybridizations with probes specific for $E$ . coli or S. typhimurium (including probes specific for the different $_ { r r n }$ operons of $E$ coli provided by R. CHrisTEn). The results (data not shown) confirmed in all instances the information obtained by other methods. ",
+        "bbox": [
+            521,
+            382,
+            925,
+            531
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Hybridization on colonies: To test for the presence of replicons which could allow the extrachromosomal maintenance of the donor information in the recipient, the recombinant colonies were hybridized with an $E$ coli or S. typhimurium oriC replication origin sequence. Hybridizations of recombinant colonies with oriC probes clearly show the presence of either an $E$ coli or a S. typhimurium oriC sequence but not both (see Figure 2, panel b), which is consistent with the lack of any plasmid DNA of the Hfr origin (see next paragraph), as well as with the composition of rrn operons and the hybridizations on the genomic DNA which revealed no heterospecific duplications (i.e., no recombinants harbored, for the same locus, extensive sequences from both E. coli and S. typhimurium parents). ",
+        "bbox": [
+            521,
+            534,
+            923,
+            773
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Analysis of plasmids: To test for the possible plasmidic origin of some recombinant phenotypes, extrachromosomal DNA was isolated from diverse recombinant types (3 from mutL, 3 from mutS, 2 from mutH, 1 from mutU, 1 from mut+ recipients) as described by PUGSLEY and OuDEGA (1987) and analyzed by comparing the HindIII restriction map with that of the natural plasmid of the Salmonella recipient. This natural plasmid has been shown by restriction mapping with enzymes HindIII, BglII and BamHI to be identical to the 91-kb pSLT plasmid (TINGE and CuRTIS ",
+        "bbox": [
+            521,
+            775,
+            925,
+            939
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/7f767699de3e394a629cb4385090d5cba4b41407481bf90903d2c1599864b87c.jpg",
+        "image_caption": [
+            "FIGURE 3.—Plasmid HindIII digestions. Plasmids from S. typhimurium mut† parental strain (column 2) and from interspecies $E$ . coliS. typhimurium recombinants (columns 3 to 5) were isolated, digested with HindIII restriction enzyme and separated by electrophoresis as described in Materials and methods. Recombinants of columns 3-5, respectively, correspond in Table 2 to the second to last row of mutL recipient, the last row of mutH recipient (one of the two), and to the first row of mutU recipient (one of the six). Column 1 is a size marker (HindIII digested λ DNA). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            162,
+            81,
+            388,
+            312
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1990) which is present in practically all LT2 strains (SANDERsON and STocKER 1987). Five recombinants analyzed represented the most common type (e.g., only $\\mathrm { { X y l ^ { + } } }$ from Escherichia or $\\mathrm { { X y l ^ { + } } }$ and rhsA from Escherichia or replacement of two, three or four rrn operons of Salmonella by the Escherichia rrn operons). The other five recombinants included those of specific interest: three with the dnaA gene of Escherichia and the oriC sequence of Salmonella (one recombinant having an additional local stretch of $E$ coli information at the metA\\* gene) and two with a putative hybrid $_ { r r n }$ fragment $C / c$ or $c / C , A , b , e , h , \\bar { g , } d ,$ and $C , X , b , e , h , g , d$ see Table 2). ",
+        "bbox": [
+            76,
+            458,
+            482,
+            650
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "For all recombinants, we found only one plasmid whose HindIII restriction map was identical to the pSLT map (see Figure 3). Thus, it appears that no extrachromosomal replicon bearing donor DNA sequences was present in the recombinants tested. Pulse field electrophoresis analysis of the pSLT plasmid from a number of other recombinants revealed no detectable integration of the donor DNA into the plasmid (results not shown). ",
+        "bbox": [
+            78,
+            651,
+            482,
+            784
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            229,
+            812,
+            329,
+            825
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This physical study of interspecies E. coli/S. typhimurium recombinants demonstrates the replacement of one block of the recipient genome by the corresponding donor DNA. Multiple exchanges were observed in only three out of 81 recombinants: in two cases around the metA+ marker, and in another case two around metE+ and metA+ gene, see second to last row for mutL recipient in Table 2 where the unselected marker was ${ \\mathrm { M e t } } ^ { + }$ .The size of the replaced region of the genome varies from short (xyl replaced but not rhsB and rhsA) to a maximum of about 1000 kb (from xyl up to, but not including rrnH). No recombinants were found to contain the E. coli rrnH operon. Our results are compatible with \"long chunk\" integrations representing the predominant recombination event, as observed in intraspecies crosses (SMITH 1991) and \"short chunk\" integrations representing a minority. The length of the integrated fragment, however, appears smaller than in intraspecies crosses as concluded from five to six times lower coinheritance of $x y l ^ { + }$ and met+ markers (respectively about ten times lower after selection for the proximal marker and two times lower after selection for the distal marker; RAYSSIGUIER, THALER and RADMAN 1989). We have no compelling interpretation as to why the mutU recipients yield smaller replacements than other mut recipients. The asymmetry observed for the coinheritance of markers $( 2 . 5 \\% \\ \\mathrm { M e t } ^ { + }$ among the selected $\\mathrm { { X y l ^ { + } } }$ and $2 2 \\% \\mathrm { X y l ^ { + } }$ among the selected $\\mathrm { \\mathbf { M } e t ^ { + } }$ ; RaySSiguieR, THaleR and RadMan 1989) may indicate some regional or marker effect, or reflect the gradient of transfer although the helicase implicated in the transfer is helicase I (MATsoN, NELsoN and MorToN 1993). For the mutL and mutU crosses, there could be a potential partial expression of the donor mut+ genes. Although we have checked that such partial expression does not affect the frequency of the integration of the proximal marker (xylose), it can not be excluded that the replacement size is affected (RAYSSIGuIER, THALER and RADMAN 1989; our unpublished observations). ",
+        "bbox": [
+            78,
+            833,
+            482,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            81,
+            925,
+            591
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The principal conclusion from these results is that the donor $E$ coli DNA was always acquired by the recombinants via a homologous replacement of the Salmonella recipient DNA in the form of a single chunk (with 3 exceptions among 81 recombinants). Merodiploidy of the recombinants was an obvious hypothesis for the instability of Xyl character reported in RayssiguieER, THaLER and RaDMaN 1989, but our results show that the instability is not related either to the structure of the recombinants (this work) nor to genetic recombination (our unpublished results). ",
+        "bbox": [
+            522,
+            592,
+            926,
+            755
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Comparisons with previous studies: Among the 81 recombinants studied we found only two putative heterospecific duplications of the rrnA operon (one for a mut† and one for a mutS recipient, see $X$ in Table 2) and one putative $C / c$ or $c / C$ hybrid rrn fragment. This differs from the finding of $2 0 \\%$ merodiploids obtained by selecting for two markers located between rrnA and rrnB operons in crosses between different $s$ . typhimurium donor strains and one $E$ coli mut+ recipient (LeHNeR and HILL 1985). Two Hfrs used in that study had an origin of transfer in the same region as the $\\mathrm { P K } _ { 3 }$ Hfr used in our study and had the same direction of transfer. Of 101 merodiploids characterized, 63 exhibited a novel (i.e., nonparental) rrnfragment and, for 51 of them, this hybrid rrn operon could explain the establishment of the merodiploidy. However, in the LEHNER and HILL (1985) study, the two selected markers were localized between the 4 rrn operons $( C , A , B$ and $E$ )which is probably favorable for the formation of heterospecific duplications, whereas in our study the $x y l ^ { + }$ marker is outside of those $4 \\ r r n$ operons. Such interspecies duplications could occur by circularization of the incoming DNA by recombination between rrn genes flanking the marker and perpetuation of the circle as an autonomous plasmid (because of the presence of the $E _ { \\mathrm { { \\ell } } }$ coli oriC origin of replication) or by unequal recombination between non-identical rrn genes of both species leading to a duplication by integration into the recipient chromosome. Because of sequence conservation, one can expect a higher fraction of rrn-mediated duplications in the mut\\* than in the mut\" background (i.e., there is $5 \\%$ or $4 \\%$ divergence for the more conserved 16S and 23S RNA genes as compared to roughly $1 5 \\%$ divergence for the rest of the genome). The sample of recombinants originating in the mut\\* recipients was very small in this study and thus did not allow the detection of merodiploids (we would expect at most one). Since the metA gene is flanked by the rrnH operon, which was absent from all recombinants, we could not detect any $\\mathrm { { \\mathbf { M } e t } ^ { + } }$ duplications mediated by recombination between rrn operons. Clearly, we can rule out the presence of heterospecific duplications only at the locations where we had probes for both bacteria (see Table 2) or a marker in the recipients with a transposon insert (mutU and mutL). ",
+        "bbox": [
+            522,
+            758,
+            926,
+            936
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            92,
+            475,
+            603
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Control of horizontal gene transfer: Interspecies recombination has been postulated to occur in the natural history of bacterial genomes (MAYNARD SmITH, DawsoN and SprATT 1991). Horizontal transfer of genes or parts of genes and their insertion in the recipient chromosome by homologous recombination (replacement) have been described for gramnegative and gram-positive bacterial genera Neisseria, Streptococcus and Haemophilus which have the capacity for uptake and incorporation of extracellular DNA (MaYNARD SMITH, DAwsON and SPRATT 1991; MazODIeR and DavIEs 1991). Even for gram-negative bacteria, such as E. coli or S. typhimurium, a horizontal transfer of genes has also been invoked for the pap and prs pili operons (MARKLUND et al. 1992) and substantiated for the phoN gene (GROIsMAN, SAIER and OcHMAN 1992) and for another Salmonella-specific sequence (GroisMAn et al. 1993). For the two latter cases, the most likely mechanism of genetic acquisition seems to be conjugation. For SHARp (1991), who studied the E. coli/S. typhimurium divergence at the DNA sequence level on 67 homologous protein-coding loci, the lower divergence close to the origin of replication (in the $8 2 ^ { \\prime } { \\bf - } 8 9 ^ { \\prime }$ region of the chromosome) could have resulted from interspecies recombination if recombination between $E .$ coli and S. typhimurium had occurred subsequent to their divergence from a common ancestor. MeDiGuE et al. (1991) in investigating the codon usage of $7 8 0 ~ E ,$ coli genes suggested that as many as $10 \\%$ of $\\pmb { { \\cal E } }$ coli's genes might have been inherited by horizontal transmission. They pointed out, moreover, that some mut loci themselves (mutD, mutT, mutH and mutL (personal communication of A. HeNAuT)) seem to have been inherited by horizontal transfer and suggested that the acquisition of \"anti-mutator\" genes horizontally might actually fix species, raising the possibility that horizontal gene transfer could be involved in E. coli speciation. Acquisition of mutL and mutS genes by a highly polymorphic mutator population could instantly lead to sympatric speciation vi the raising of the geneic (reproductive) barriers (RAYSsIGUIER, THALER and RADMAN 1989; RADMAN 1991). In fact, the very identity and the maintenance of species requires that heterospecific gene exchanges be kept to a minimum. RoBErTs and CoHAN (1993) have studied sexual isolation in Bacillus using various subgroups of Bacillus subtilis and other species (B. atrophaeus, B. amyloliquefaciens and B. licheniformis) and have shown that there is a log-linear relationship between sequence divergence of the rpoB gene (estimated by a restriction digest analysis) and sexual isolation. Interspecies transformation frequencies were respectively reduced by factors in the range of 7-400 for a divergence of 0.00.compar  the transrmatin frequency of the recipient strain by its own DNA. These large differences in transformation frequencies cannot be explained by the restriction of the incoming DNA or by differential uptake (RoBERTs and CoHAN 1993). The structure of the interspecies E. coli/S. typhimurium recombinants shows that an efficient horizontal transfer leading to massive chromosomal modifications by homologous recombination can occur under mismatch repair-deficient conditions in a genomic region where the DNA divergence estimated on 16 genes by SHARP (1991) varies from $4 . 8 \\%$ to $1 8 . 4 \\%$ (average $1 2 . 3 \\% )$ . Therefore, the long-patch mismatch repair system, in particular its mismatch-binding MutS and MutL components which exert the strongest effects on recombination between diverged DNA (RAYSSIGUIER, THALER and RADMAN 1989), probably plays an important role in the maintenance of species, perhaps also in the early stages of the sympatric speciation process. ",
+        "bbox": [
+            71,
+            603,
+            475,
+            930
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            89,
+            918,
+            865
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We thank R. CHRISTEN, S. BACHELLIER for generous gift of probes, R. CHRIsTEN, C. HILL for helpful discussions and J. HALLIDAY, N. DE WInD for critical reading of the manuscript. We thank the anonymous reviewers and, especially, G. R. SmITH for the their critical consideration of this work and for the improvements of the manuscript. I. MATIC was supported by an ANRS (Agence Nationale de Recherche sur le Sida) fellowship. This work was supported by grants from Fondation pour la Recherche Medicale, Ligue Nationale Française contre le Cancer and Association pour la Recherche contre le Cancer (ARC 6159). ",
+        "bbox": [
+            514,
+            870,
+            918,
+            930
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            91,
+            479,
+            153
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "LITERATURE CITED ",
+        "text_level": 1,
+        "bbox": [
+            192,
+            170,
+            361,
+            182
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ANDERsoN, R. P., and J. RoTH, 1981 Spontaneous tandem genetic duplications in Salmonella typhimurium arise by unequal recombination between rRNA $( r r n )$ cistrons. Proc. Natl. Acad. Sci. USA 78: 3113-3117.   \nANDERSON, M. L. M., and B. D. YoUNG, 1987 Quantitative filter hybridisation, pp. 73-111 in Nucleic Acid Hybridisation; A Practical Approach, edited by B. D. HAMEs and S. J. HIGGINs. IRL Press, Washington D.C.   \nBACHMANN, B. J., 1990 Linkage map of Escherichia coli K-12, Edition 8. Microbiol. Rev. 54: 130-197.   \nBARoN, L. S., P. GEMskI, Jr., E. M. JoHnsOn and J. A. WOhlHieTER, 1968 Intergeneric bacterial matings. Bacteriol. Rev. 32: 362 369.   \nCarlomagno, M. S., L. ChiarioTtI, P. Alifano, A. G. Nappo and C. B. BRUNI, 1988 Structure and function of the Salmonella typhimurium and Escherichia coli K-12 histidine operons. J. Mol. Biol. 203: 585-606.   \nDIMRI, G. P., K. RuDD, M. K. MorGAN, H. BAYaT and G. FERROLuzzI AMEs, 1992 Physical mapping of repetitive extragenic palindromic sequences in Escherichia coli and phylogenetic distribution among Escherichia coli strains and other enteric bacteria. J. Bacteriol. 174: 4583-4593.   \nFEINBERG, A. P., and B. VoLGELSTEIN, 1984 A technique of radiolabeling DNA restriction endonuclease fragments to high specific activity. Anal. Biochem. 137: 266267.   \nFEULNER, G., J. A. Gray, J. A. KisCHMaN, A. F. LeHnE, A. B. Sadosky, D. A. Vlazny, J. ZHang, S. ZHao and C. W. HiLl, 1990 Structure of the rhsA locus from Escherichia coli K-12 and comparison of rhsA with other members of the rhs multigene family. J. Bacteriol. 172: 446456.   \nGROISMAN, E. A., M. H. SAIER, JR. and H. OCHMAN, 1992 Horizontal transfer of a phosphatase gene as evidence for mosaic structure of the Salmonella genome. EMBO J. 11: 1309 1316.   \nGRoisMAN, E. A., M. A. STurmOSKI, F. R. SOloMON, R. Lin and H. OcHMAN, 1993 Molecular, functional, and evolutionary analysis of sequences specific to Salmonella. J. Bacteriol. 90: 10331037.   \nHILL, C. W., and B. W. HArNIsH, 1981 Inversions between ribosomal RNA genes of Escherichia coli. Proc. Natl. Acad. Sci. USA 78: 70697072.   \nHULTON, C. S. J., C. F. HIGGINS and P. M. SHARP, 1991 ERIC sequences: a novel family of repetitive elements in the genomes of Escherichia coli, Salmonella typhimurium and other enterobacteria. Mol. Microbiol. 5: 825834.   \nJoHnSON, E. M., W. C. CRAIG, J. A. WoHLHIETER, J. R. LazERE, R. M. SyNENKI and L. S. BARON, 1973 Conservation of Salmonella typhimurium deoxyribonucleic acid in partially diploid hybrids of Escherichia coli. J. Bacteriol. 115: 629634.   \nJOHNSON, E. M., B. P. PLACEK, N. J. SNELLINGS and L. S. BARON, 1975 Conservation of Salmonella typhimurium deoxyribonucleic acid by chromosomal insertion in a partially diploid Escherichia coli hybrid. J. Bacteriol. 123: 16.   \nKRAWIEC, S., and M. RILEY, 1990 Organization of bacterial chromosome. Microbiol. Rev. 54: 502539.   \nLEHNER, A. F., S. HARVEY and C. W. HILL, 1984 Mapping and spacer identification of rRNA operons of Salmonella typhimurium. J. Bacteriol. 160: 682686.   \nLEHNER, A. F., and C. W. HILL, 1985 Merodiploidy in Escherichia coli-Salmonella typhimurium crosses: the role of unequal recom380.   \nLIN, R., M. CAPAGE and C. W. HILL, 1984 A repetitive DNA sequence, rhs, responsible for duplications within the Escherichia coli K-12 chromosome. J. Mol. Biol. 177: 1-18.   \nMarklund, B., J. M. Tennent, E. GarciA, A. Hamers, M. Baga, F. LINDBERG, W. GAASTRA AND S. NorMAK, 1992 Horizontal gene transfer of the Escherichia coli pap and prs pili operons as a mechanism for the development of tissue-specific adhesive properties. Mol. Microbiol. 6: 22252242.   \nMAsON, P. J., and J. G. WILLIAMs, 1987 Hybridisation in the analysis of recombinant DNA, pp. 113-137 in Nucleic Acid Hybridisation; A Practical Approach, edited by B. D. HAMEs and S. J. HIGGINs. IRL Press, Washington D.C.   \nMATSON, S. W., W. C. NELSON and B. S. MoRTON, 1993 Characterization of the reaction product of the ori nicking rn catalyze by Escicia col  helicse . J.Bce riol. 175: 25992606.   \nMAYNARD SMITH, J., C. G. DoWSON and B. G. SPRATT, 1991 Localized sex in bacteria. Nature 349: 2931.   \nMAzoDIER, P., and J. DavIEs, 1991 Gene transfer between distantly related bacteria. Annu. Rev. Genet. 25: 147171.   \nMcMaCKEN, R., L. SILVER and C. GEORGOPOULOs, 1987 DNA replication, pp. 564-612 in Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology, Vol. 1, edited by F. C. NeidHardT, J. L. IngraHaM, K. B. Low, B. Magasanik, M. SCHAECHTER and H. E. UMBARGER. American Society for Microbiology, Washington D.C.   \nMEDIGUE, C., T. ROUXEL, P. VIgIER and A. HENAUT, 1991 Ev roontal  ansr cci oltion. J. Mol. Biol. 222: 851856.   \nMoDRiCH, P., 1991 Mechanism and biological effects of mismatch repair. Annu. Rev. Genet. 25: 229253.   \nOcHMAN, H., and A. C. WILsoN, 1987 Evolutionary history of enteric bacteria, pp. 16491654 in Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology, Vol. 2, edited by F. C. NEIDHaRDT, J. L. IngrAHAM, K. B. Low, B. MagaSANIK, M. SCHAECHTER and H. E. UMBARGER. American Society for Microbiology, Washington D.C.   \nOHMORI, H., M. KIMURA, T. NAGATA and Y. SAKAKIBARA, 1984 Structural analysis of the dnaA and dnaN genes of Escherichia coli. Gene 28: 159-170.   \nPUGLEY, A. P., and B.OUDEGA, 1987 Meths r t colicins and their plasmids, pp. 105161 in Plasmids; A Practical Approach, edited by K. G. HARDY. IRL Press, Washington D.C.   \nRADMAN, M., 1989 Mismatch repair and the fidelity of genetic recombination. Genome 31: 6873.   \nRADMAN, M., 1991 Avoidance of inter-repeat recombination by sequence divergence and a mechanism of neutral evolution. Biochimie 73: 357361.   \nRAYSSIGUIER, C., C. DoHET and M. RADMAN, 1991 Interspecific recombination between Escherichia coli and Salmonellathimurium occurs by the RecABCD pathway. Biochimie 73: 371- 374.   \nRAYSSIGUIER, C., D. S. THALER and M. RADMAN, 1989 The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342: 396401.   \nROBERTS, M. S., and F. M. COHAN, 1993 The effect of DNA sequence divergence on sexual isolation in Bacillus. Genetic 134: 401408.   \nSAMBROOK, J., E. F. FRITSCH and T. MANIATIS, 1989 Molecular Cog: Laboratry Manal. Cold Spring Harbor Laboratory, Cold Spring Harbor, New York.   \nADRN,. B..ER, murium strains used in genetic analysis, pp. 12201224 in Escherichia coli and Salmonella typhimurium: Cellular and Molecu Biolgy. Vol.. edi F.C. NEIDART.I. L. INGRA HAM, K. B. Low, B. MAGASANIK, M. SCHAECHTER and H. E. UMBARGER. American Society for Microbiology, Washington D.C.   \nSHARP, P. M., 199I Determinants of DNA sequence divergence between Escherichia coli and Salmonella typhimurium: codon usage, map position, and concerted evolution. J. Mol. Evol. 33: 2333.   \nSHEN, P., and H. HuANG, 1989 Effect of base pair mismatches on recombination via the RecBCD pathway. Mol. Gen. Genet. 218: 358360.   \nSHYAMALA, V., E. SCHNEIDER and G. FERRO-LUZZI AMES, 1990 Tandem chromosomal duplications: role of REP sequences in the recombination event at the joint-point. EMBO J. 9: 939946.   \nSMITH, G. R., 1991 Conjugational recombination in E. coli: myths and mechanisms. Cell 64: 1927.   \nSONTI, R. V., and J. R. RoTH, 1989 Role of gene duplications in the adaptation of Salmonella typhimurium to growth on limiting carbon sources. Genetics 123: 1928.   \nTINGE, S. A., and R. CuRTIss III, 1990 Isolation of the replication and partitioning regions of the Salmonella typhimurium virulence plasmid and stabilization of heterologous replicons. J. Bacteriol. 172: 52665277. ",
+        "bbox": [
+            72,
+            187,
+            481,
+            928
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            518,
+            103,
+            925,
+            927
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            73,
+            86,
+            482,
+            237
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            87,
+            926,
+            220
+        ],
+        "page_idx": 9
+    }
+]

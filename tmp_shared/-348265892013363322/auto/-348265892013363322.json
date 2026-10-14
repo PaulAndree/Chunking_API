@@ -1,0 +1,762 @@
+[
+    {
+        "type": "text",
+        "text": "El germanio (latín: Germanium) es un elemento químico con número atómico 32, y símbolo Ge perteneciente al período 4 de la tabla periódica de los elementos.1 2 ",
+        "bbox": [
+            70,
+            140,
+            455,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Es un semimetal blanco grisáceo, brillante, duro y quebradizo en el grupo del carbono, químicamente similar a su grupo vecino, el silicio y el estaño. El germanio puro es un semiconductor con una apariencia similar al silicio elemental. Al igual que el silicio, el germanio reacciona naturalmente y forma complejos con el oxígeno en la naturaleza. ",
+        "bbox": [
+            70,
+            232,
+            453,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El germanio aparece rara vez en alta concentración, razón por la que fue descubierto relativamente tarde en la historia de la química. El germanio se ubica cerca del quincuagésimo lugar en abundancia relativa de los elementos en la corteza terrestre. En 1869, Dmitri Mendeléyev predijo su existencia y algunas de sus propiedades a partir de su posición en su tabla periódica, y llamó al elemento ekasilicio. Casi dos décadas después, en 1886, el alemán Clemens Winkler encontró el nuevo elemento, junto con plata y azufre, en un mineral poco común llamado argirodita. Aunque el nuevo elemento se parecía un poco al arsénico y al antimonio en apariencia, las proporciones de combinación en los compuestos coincidieron con las predicciones de Mendeleyev para un pariente del silicio. Winkler nombró al elemento en honor a su país, Alemania (en latín, Germania). Hoy en día, el germanio se extrae principalmente de la esfalerita (el mineral principal de zinc), aunque también se recupera comercialmente de los minerales de plata, plomo y cobre. ",
+        "bbox": [
+            70,
+            399,
+            455,
+            871
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/65308e97df7ef300de2a7033b1bd5690a7d06ab72be138f1cf8d285f55bb8001.jpg",
+        "image_caption": [
+            "Galio Germanio Arsénico "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            537,
+            180,
+            863,
+            245
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/fa408c7e4edfc7f050c95f4b52026417a01fb42431f059036b89e98447936ce0.jpg",
+        "image_caption": [
+            "Tabla completa • Tabla ampliada ",
+            "Información general "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            536,
+            269,
+            863,
+            500
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/ffadefff2a5616ea2c0e2eba9325fae415b2b566f238805c31c8b79e8fdddca6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            478,
+            524,
+            852,
+            725
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/28fb7ad47650187abfc25d163600d48e61fda402aeba0990a53fb67272b9df5f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            477,
+            729,
+            922,
+            920
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El germanio elemental se utiliza como semiconductor en transistores y otros componentes electrónicos. Históricamente, la primera década de la electrónica de semiconductores se basó completamente en germanio. En la actualidad, los principales usos finales son los sistemas de fibra óptica, la óptica infrarroja, las aplicaciones de células fotoeléctricas y los diodos emisores de luz (LED). Los compuestos de germanio también se utilizan para catalizadores de polimerización y recientemente han encontrado uso en la producción de nanocables. Este elemento forma una gran cantidad de compuestos de organogermanio, como el tetraetilgermanio, útiles en química organometálica. El germanio se considera un elemento crítico para la tecnología.3 ",
+        "bbox": [
+            70,
+            43,
+            455,
+            384
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "No se cree que el germanio sea un elemento esencial para ningún organismo vivo. Se están investigando algunos compuestos orgánicos complejos de germanio como posibles productos farmacéuticos, aunque ninguno ha tenido éxito hasta ahora. Al igual que el silicio y el aluminio, los compuestos de germanio naturales tienden a ser insolubles en agua y, por lo tanto, tienen poca toxicidad oral. Sin embargo, las sales de germanio solubles sintéticas son nefrotóxicas y los compuestos de germanio sintéticos químicamente reactivos con halógenos e hidrógeno son irritantes y tóxicos. ",
+        "bbox": [
+            70,
+            401,
+            453,
+            665
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Características principales ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            701,
+            418,
+            726
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Es un semimetal, de color blanco grisáceo lustroso, quebradizo, que conserva el brillo a temperaturas ordinarias. Presenta la misma estructura cristalina que el diamante y resiste a los ácidos y álcalis. ",
+        "bbox": [
+            70,
+            741,
+            453,
+            834
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Forma gran número de compuestos órganos metálicos y es un importante material semiconductor utilizado en transistores y foto ",
+        "bbox": [
+            70,
+            850,
+            453,
+            906
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.ª energía de ionización 1537,5 kJ/mol   \n3.ª energía de ionización 3302,1 kJ/mol   \n4.ª energía de ionización 4411 kJ/mol   \n5.ª energía de ionización 9020 kJ/mol   \nLíneas espectrales ",
+        "bbox": [
+            478,
+            41,
+            806,
+            137
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4d4e223a8bfaa43beb5ea8d7ce023567e28ed9b2d7ac28aad82d4f48272ab195.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            477,
+            147,
+            922,
+            396
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/34d22f2620f3ec52bacaacff332695ea60a3c67f64c8d0022010dc0bb689f1ba.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            478,
+            397,
+            922,
+            539
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/509868dce696a04f2831b8cea251050c68036e67a139900ed3c6dda75fdbed92.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Artículo principal: Isótopos del germanio "
+        ],
+        "bbox": [
+            484,
+            542,
+            921,
+            572
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dd9279166bb9e2c2116ec1641150999d41b9f55c4658a01709833a39c6153f1.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Valores en el SI y condiciones normales de presión y temperatura, salvo que se indique lo contrario. "
+        ],
+        "bbox": [
+            480,
+            585,
+            919,
+            858
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/11245d5611b5c5d19ae63d0f4369578a30b4c05d14f234e17d2e22133b285035.jpg",
+        "image_caption": [
+            "Germanio puro "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            52,
+            393,
+            238
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "detectores. A diferencia de la mayoría de semiconductores, el germanio tiene una pequeña banda prohibida (band gap) por lo que responde de forma eficaz a la radiación infrarroja y puede usarse en amplificadores de baja intensidad. ",
+        "bbox": [
+            423,
+            42,
+            931,
+            117
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aplicaciones ",
+        "text_level": 1,
+        "bbox": [
+            425,
+            153,
+            589,
+            178
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Las aplicaciones del germanio se ven limitadas por su elevado costo y en muchos casos se investiga su sustitución por materiales más económicos. ",
+        "bbox": [
+            423,
+            194,
+            931,
+            248
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fibra óptica. ",
+        "bbox": [
+            403,
+            264,
+            536,
+            281
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Electrónica: radares y amplificadores de guitarras eléctricas usados para recrear sonidos de la primera época del rock and roll; aleaciones de Germanato de Silicio (SiGe) en circuitos integrados de alta velocidad. También se utilizan compuestos sandwich Si/Ge para aumentar la movilidad de los electrones en el silicio (streched silicon). ",
+        "bbox": [
+            82,
+            285,
+            932,
+            349
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Óptica de infrarrojos, en forma de metal, ya que es opaco en la zona de la luz visible, pero transparente en el infrarrojo, entre 2 y 25 micrómetros.4 Espectroscopios, sistemas de visión nocturna y otros equipos. ",
+        "bbox": [
+            82,
+            352,
+            934,
+            404
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lentes, con alto índice de refracción, de ángulo ancho y para microscopios. ",
+        "bbox": [
+            84,
+            407,
+            784,
+            425
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En joyería se usa la aleación Au con $1 2 ~ \\%$ de germanio. ",
+        "bbox": [
+            84,
+            427,
+            611,
+            444
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Como elemento endurecedor del aluminio, magnesio y estaño. ",
+        "bbox": [
+            82,
+            447,
+            663,
+            464
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quimioterapia. ",
+        "bbox": [
+            82,
+            466,
+            235,
+            483
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El tetracloruro de germanio es un ácido de Lewis y se usa como catalizador en la síntesis de polímeros (PET). Actualmente, este es su uso principal.4 ",
+        "bbox": [
+            89,
+            486,
+            931,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Historia ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            545,
+            178,
+            566
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/24bfe67f7bde3935fbde632004b6814469d75dadaebf4b25bd8c4744b04fa336.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            75,
+            591,
+            319,
+            660
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Predicción del germanio, \"? $= 7 0 \"$ (tabla periódica de 1869) ",
+        "bbox": [
+            78,
+            663,
+            307,
+            693
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Las propiedades del germanio (del latín Germania, Alemania) fueron predichas en 1871 por Mendeleyev en función de su posición en la tabla periódica, elemento al que llamó eka-silicio. El alemán Clemens Winkler demostró en 1886 la existencia de este elemento, descubrimiento que sirvió para confirmar la validez de la tabla periódica, habida cuenta de las similitudes entre las propiedades predichas y las observadas: ",
+        "bbox": [
+            347,
+            584,
+            931,
+            716
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/824be3c47c4540cd5718ac1992c11c7578b23184df2743fa583298d8fdaf5462.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            40,
+            680,
+            309
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A mediados de 1885, en una mina cerca de Freiberg, Sajonia, se descubrió un nuevo mineral al que se denominó argyrodita por su alto contenido de plata.5 El químico Clemens Winkler analizó este nuevo mineral, que resultó ser una combinación de plata, azufre y un nuevo elemento. Winkler pudo aislar el nuevo elemento en 1886 y lo encontró similar al antimonio. Inicialmente consideró que el nuevo elemento era eka-antimonio, pero pronto se convenció de que era eka-silicio.6 7 ] Antes de que Winkler publicara sus resultados sobre el nuevo elemento, decidió que llamaría a su elemento neptunio, ya que el reciente descubrimiento del planeta Neptuno en 1846 había sido precedido de manera similar por predicciones matemáticas de su existencia. Al igual que la existencia del nuevo elemento, la existencia del planeta Neptuno había sido predicha hacia 1843 por los dos matemáticos John Couch Adams y Urbain Le Verrier, utilizando los métodos de cálculo de la mecánica celeste. Lo hicieron para intentar explicar el hecho de que el planeta Urano, al ser observado muy de cerca, parecía ser arrastrado ligeramente fuera de su posición en el cielo.8 Sin embargo, el nombre \"neptunio\" ya se había dado a otro elemento químico propuesto, aunque no al elemento que hoy lleva el nombre de neptunio , que fue descubierto en 1940. R. Hermann publicó en 1877 su descubrimiento de un nuevo elemento por debajo del tantalio en la tabla periódica, al que llamó neptunio, en honor al dios griego de los océanos y los mares.9 10 Entonces, en cambio, Winkler nombró al nuevo elemento germanio, de la palabra latina, Germania, para Alemania, en honor a su tierra natal. [10] Se demostró empíricamente que la argyrodita es ${ \\sf A g } _ { 8 } { \\sf G e } S _ { 6 }$ . Porque este nuevo elemento mostró algunas similitudes con los elementos arsénico.y el antimonio, se estaba considerando su lugar adecuado en la tabla periódica, pero sus similitudes con el elemento \"ekasilicio\" predicho por Dmitri Mendeleev confirmaron ese lugar en la tabla periódica.7 11 Con más material de $5 0 0 ~ \\mathrm { k g }$ de mineral de las minas de Sajonia, Winkler confirmó las propiedades químicas del nuevo elemento en $1 8 8 7 . { \\overset { 6 } { - } } { \\overset { 7 } { - } } { \\overset { 1 2 } { - } }$ También determinó un peso atómico de 72,32 por análisis de tetracloruro de germanio puro $( \\mathsf { G e C l } _ { 4 } )$ , mientras que Lecoq de Boisbaudran dedujo 72,3 por comparación de las líneas en el espectro de chispa del elemento.13 ",
+        "bbox": [
+            68,
+            320,
+            932,
+            794
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Winkler pudo preparar varios compuestos nuevos de germanio, incluidos fluoruros , cloruros , sulfuros , dióxido y tetraetilgermanio $( \\mathrm { G e } ( \\mathrm { C } _ { 2 } \\mathrm { H } _ { 5 } ) _ { 4 } )$ , el primer organogermanio.6 Los datos físicos de esos compuestos, que se correspondían bien con las predicciones de Mendeleev, hicieron del descubrimiento una importante confirmación de la idea de Mendeleev sobre la periodicidad de los elementos . Aquí hay una comparación entre la predicción y los datos de Winkler:6 ",
+        "bbox": [
+            70,
+            807,
+            932,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Se obtiene de yacimientos de plata, zinc y cobre. Los únicos minerales rentables para la extracción del germanio son la germanita ( $6 9 \\%$ de germanio) y garnierita $( 7 - 8 \\%$ de germanio); además está presente en el carbón, la argirodita y otros minerales. La mayor cantidad, en forma de óxido $( \\mathrm { G e O } _ { 2 } )$ , se obtiene como subproducto de la obtención del zinc o de procesos de combustión de carbón (en Rusia y China se encuentra el proceso en desarrollo). ",
+        "bbox": [
+            70,
+            103,
+            736,
+            217
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La purificación del germanio pasa por su tetracloruro que puede ser destilado y luego es reducido al elemento con hidrógeno o con magnesio elemental. ",
+        "bbox": [
+            70,
+            232,
+            736,
+            269
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/f08151436ed0ba16cb419a74d6db165d9f22ccb977545d2e64b12caa1b4a2d78.jpg",
+        "image_caption": [
+            "Muestra de germanio. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            764,
+            111,
+            924,
+            206
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Con pureza del $^ { 9 9 , 9 9 \\% }$ , para usos electrónicos se obtiene por refino mediante fusión por zonas resultando cristales de 25 a $3 5 \\mathrm { m m }$ usados en transistores y diodos; con esta técnica las impurezas se pueden reducir hasta 0,0001 ppm. ",
+        "bbox": [
+            70,
+            285,
+            927,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "En 1926 se descubrió que el germanio era semiconductor, pero no se pudo utilizar en la práctica hasta 1942, al obtenerlo a un precio competitivo. El desarrollo de los transistores de germanio a partir de 1947 abrió la puerta a numerosas aplicaciones electrónicas que hoy son cotidianas. Entre 1950 y a principios de los 70, la electrónica constituyó el grueso de la creciente demanda de germanio hasta que empezó a sustituirse por el silicio por su coste muy inferior.4 Actualmente la gran parte del consumo se destina a fibra óptica (cerca de la mitad)[cita requerida], equipos de visión nocturna y catálisis en la polimerización de plásticos, aunque se investiga su sustitución por catalizadores más económicos. En el futuro es posible que se extiendan las aplicaciones electrónicas de las aleaciones silicio-germanio en sustitución del arseniuro de galio especialmente en las telecomunicaciones sin cable. ",
+        "bbox": [
+            70,
+            356,
+            932,
+            527
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Además se investigan sus propiedades bactericidas ya que su toxicidad para los mamíferos es escasa. ",
+        "bbox": [
+            70,
+            543,
+            889,
+            561
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Isótopos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            598,
+            181,
+            621
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El germanio tiene cinco isótopos estables siendo el más abundante el $^ { 7 4 } \\mathrm { G e }$ $( 3 5 , 9 4 \\% )$ . Se han caracterizado 18 radioisótopos de germanio, siendo el $^ { 6 8 } \\mathrm { G e }$ el de mayor vida media con 270,8 días. Se conocen además 9 estados metaestables. ",
+        "bbox": [
+            70,
+            638,
+            931,
+            694
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Precauciones ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            731,
+            242,
+            754
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Algunos compuestos de germanio como el tetrahidruro de germanio tienen una cierta toxicidad en los mamíferos pero son letales para algunas bacterias. También es letal para la taenia.[cita requerida] ",
+        "bbox": [
+            72,
+            771,
+            929,
+            809
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El germanio se encuentra más comúnmente en la naturaleza como un contaminante de diversos minerales y es obtenido de los residuos de cadmio remanentes del procesado de los minerales de zinc. Las investigaciones toxicológicas han demostrado que el germanio no se localiza en ningún tejido dado que se excreta rápidamente principalmente por la orina. Las dosis excesivas de germanio lesionan los lechos capilares de los pulmones. Produce una diarrea muy marcada que provoca una deshidratación, hemoconcentración, caída de la presión arterial e hipotermia. ",
+        "bbox": [
+            70,
+            103,
+            931,
+            217
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            251,
+            262,
+            274
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Monóxido de germanio ",
+        "bbox": [
+            82,
+            295,
+            312,
+            313
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            334,
+            225,
+            358
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. Garritz, Andoni (1998). Química. Pearson Educación. p. 856. ISBN 978-9-68444-318-1. ",
+        "bbox": [
+            78,
+            378,
+            847,
+            396
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "2. Parry, Robert W. (1973). Química: fundamentos experimentales. Reverte. p. 703. ISBN 978-8- 42917-466-3. ",
+        "bbox": [
+            70,
+            400,
+            927,
+            433
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "3. Avarmaa, Katri; Klemettinen, Lassi; O’Brien, Hugh; Taskinen, Pekka; Jokilaakso, Ari (June 2019). «Critical Metals Ga, Ge and In: Experimental Evidence for Smelter Recovery Improvements». Minerals (en inglés) 9 (6): 367. Bibcode:2019Mine....9..367A (http://adsabs.harvard.e du/abs/2019Mine....9..367A). ",
+        "bbox": [
+            77,
+            434,
+            932,
+            500
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4. Calvo Rebollar, Miguel (2019). Construyendo la Tabla Periódica. Prames, Zaragoza. p. 276- 278. ISBN 978-84-8321-908-9. ",
+        "bbox": [
+            78,
+            503,
+            929,
+            536
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "5. Argyrodite – $A g _ { 8 } G e S _ { 6 }$ (https://web.archive.org/web/20160303221645/http://www.handbooko fmineralogy.org/pdfs/argyrodite.pdf), Mineral Data Publishing, archivado desde el original (ht tp://www.handbookofmineralogy.org/pdfs/argyrodite.pdf) el 3 de marzo de 2016, consultado el 1 de septiembre de 2008. ",
+        "bbox": [
+            75,
+            546,
+            931,
+            611
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. Winkler, Clemens (1887). «Mittheilungen über des Germanium. Zweite Abhandlung» (https:// web.archive.org/web/20121103012004/http://gallica.bnf.fr/ark:/12148/bpt6k90799n/f183.tabl e). J. Prak. Chemie (en alemán) 36 (1): 177-209. Archivado desde el original (http://gallica.b nf.fr/ark:/12148/bpt6k90799n/f183.table) el 3 de noviembre de 2012. Consultado el 20 de agosto de 2008. ",
+        "bbox": [
+            75,
+            615,
+            932,
+            695
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. Winkler, Clemens (1887). «Germanium, Ge, a New Nonmetal Element» (https://web.archive. org/web/20081207033757/http://dbhs.wvusd.k12.ca.us/webdocs/Chem-History/Disc-of-Ger manium.html). Berichte der Deutschen Chemischen Gesellschaft (en alemán) 19 (1): 210- 211. Archivado desde el original (http://gallica.bnf.fr/ark%3A/12148/bpt6k90705g/f212.chemi ndefer) el 7 de diciembre de 2008. ",
+        "bbox": [
+            77,
+            698,
+            932,
+            780
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8. Adams, J. C. (13 de noviembre de 1846). «Explanation of the observed irregularities in the motion of Uranus, on the hypothesis of disturbance by a more distant planet» (https://web.ar chive.org/web/20190502014753/https://zenodo.org/record/1431905/files/article.pdf). Monthly Notices of the Royal Astronomical Society 7 (9): 149-152. Bibcode:1846MNRAS...7..149A (http://ad sabs.harvard.edu/abs/1846MNRAS...7..149A). doi:10.1093/mnras/7.9.149 (https://dx.doi.org/10.1093%2Fmnra s%2F7.9.149). Archivado desde el original (https://zenodo.org/record/1431905) el 2 de mayo de 2019. Consultado el 25 de agosto de 2019. ",
+        "bbox": [
+            73,
+            782,
+            934,
+            895
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. Sears, Robert (July 1877). «Scientific Miscellany». The Galaxy 24 (1). p. 131. ISBN 978-0-665- 50166-1. OCLC 16890343 (https://www.worldcat.org/oclc/16890343). ",
+        "bbox": [
+            75,
+            899,
+            931,
+            932
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "10. «Editor's Scientific Record» (https://archive.today/20120526215615/http://cdl.library.cornell.e du/cgi-bin/moa/moa-cgi?notisid=ABK4014-0055-21). Harper's New Monthly Magazine 55 (325): 152-153. June 1877. Archivado desde el original (http://cdl.library.cornell.edu/cgi-bin/ moa/moa-cgi?notisid=ABK4014-0055-21) el 26 de mayo de 2012. Consultado el 22 de septiembre de 2008. ",
+        "bbox": [
+            65,
+            42,
+            932,
+            123
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "11. «Germanium, a New Non-Metallic Element» (https://web.archive.org/web/20081219162737/ http://cdl.library.cornell.edu/cgi-bin/moa/pageviewer?frames=1&coll=moa&view=50&root=%2 Fmoa%2Fmanu%2Fmanu0018%2F&tif=00187.TIF). The Manufacturer and Builder: 181. 1887. Archivado desde el original (http://cdl.library.cornell.edu/cgi-bin/moa/pageviewer?fram es=1&coll=moa&view=50&root=%2Fmoa%2Fmanu%2Fmanu0018%2F&tif=00187.TIF) el 19 de diciembre de 2008. Consultado el 20 de agosto de 2008. ",
+        "bbox": [
+            65,
+            127,
+            931,
+            223
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12. Brunck, O. (1886). «Obituary: Clemens Winkler» (https://web.archive.org/web/20200801004 057/https://zenodo.org/record/1426200). Berichte der Deutschen Chemischen Gesellschaft (en alemán) 39 (4): 4491-4548. Archivado desde el original (https://zenodo.org/record/14262 00) el 1 de agosto de 2020. Consultado el 7 de junio de 2020. ",
+        "bbox": [
+            65,
+            226,
+            932,
+            290
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. de Boisbaudran, M. Lecoq (1886). «Sur le poids atomique du germanium» (https://web.archi ve.org/web/20130620032945/http://gallica.bnf.fr/ark:/12148/bpt6k3059r/f454.table). Comptes Rendus (en francés) 103: 452. Archivado desde el original (http://gallica.bnf.fr/ark:/12148/bpt 6k3059r/f454.table) el 20 de junio de 2013. Consultado el 20 de agosto de 2008. ",
+        "bbox": [
+            65,
+            294,
+            931,
+            359
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            389,
+            289,
+            409
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Wikimedia Commons alberga una galería multimedia sobre Germanio.   \nEnciclopedia libre (http://enciclopedia.us.es/index.php/Germanio)   \nUSGS - Estadísticas sobre el germanio (producción, consumo y precios) (https://minerals.u sgs.gov/minerals/pubs/commodity/germanium/) ",
+        "bbox": [
+            78,
+            432,
+            932,
+            507
+        ],
+        "page_idx": 6
+    }
+]

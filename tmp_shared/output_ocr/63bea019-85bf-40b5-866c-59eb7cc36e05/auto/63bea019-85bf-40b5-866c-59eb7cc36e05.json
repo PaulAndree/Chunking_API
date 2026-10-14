@@ -1,0 +1,954 @@
+[
+    {
+        "type": "text",
+        "text": "Functionalized Au15 nanoclusters as luminescent probes for protein carbonylation detection ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            158,
+            897,
+            222
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Guillaume F. Combes $\\textcircled{1}$ 1,2, Hussein Fakhouri1,3, Christophe Moulin $\\textcircled{1}$ 3, Marion Girod4, Franck Bertorelle3, Srestha Basu3, Romain Ladouce2, Martina Perić Bakulić 1 , Željka Sanader Maršić 5, Isabelle Russier-Antoine3, Pierre-François Brevet $\\textcircled{1}$ 3, Philippe Dugourd3, Anita Krisko6, Katarina Trajković1,2, Miroslav Radman $\\textcircled{1}$ 1,2,7, Vlasta Bonačić-Koutecký 1,8,9✉ & Rodolphe Antoine 3✉ ",
+        "bbox": [
+            70,
+            234,
+            931,
+            315
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Atomically precise, ligand-protected gold nanoclusters (AuNCs) attract considerable attention as contrast agents in the biosensing field. However, the control of their optical properties and functionalization of surface ligands remain challenging. Here we report a strategy to tailor AuNCs for the precise detection of protein carbonylation—a causal biomarker of ageing. We produce $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 3 }$ (SG for glutathione) with atomic precision and functionalize it with a thiolated aminooxy moiety to impart protein carbonyl-binding properties. Mass spectrometry and molecular modelling reveal the key structural features of $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 }$ -Aminooxy and its reactivity towards carbonyls. Finally, we demonstrate that $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 }$ -Aminooxy detects protein carbonylation in gel-based 1D electrophoresis by one- and two-photon excited fluorescence. Importantly, to our knowledge, this is the first application of an AuNC that detects a post-translational modification as a nonlinear optical probe. The significance of posttranslational modifications in life sciences may open avenues for the use of $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 3 }$ and other nanoclusters as contrast agents with tailored surface functionalization and optical properties. ",
+        "bbox": [
+            70,
+            365,
+            689,
+            615
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Proteins carry out and assure the maintenance of almost allcellular functions, lending support to a paradigm arguing consequences of the cumulative oxidative damage to proteins1,2. Previous research has gathered evidence supporting the hypotheses that healthy aging is an increasing biological noise, a consequence of diffuse proteome oxidation, whereas ARDs appear associated with excessive oxidation of particular susceptible proteins sensitized by mutations predisposing to disease2. Protein carbonylation, an irreversible oxidative damage to proteins can affect most amino acids3. Indeed, an increase in protein carbonyls appears as a biomarker of cellular and organismal aging4. ",
+        "bbox": [
+            72,
+            61,
+            489,
+            222
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Different methods have been developed for the detection and quantification of carbonylated proteins as commonly used markers of protein oxidation4–7. Since protein carbonyls have no distinguished UV or visible optical properties, specific chemical probes are required for their visualization6,7. The use of fluorophores with carbonyl-reactive groups enables direct detection and quantitation of carbonyls on the proteins subjected to oneand two-dimensional electrophoresis (1DE and 2DE, respectively) using fluorescence imaging scanner4. For instance, cyanine hydrazide is currently used in the two-dimensional gel electrophoresis methodology. For accurate detection, this complex analysis requires special equipment and reagents8–10. Moreover, the hydrazone bond formed between the cyanine hydrazide and protein carbonyls is usually sensitive to acidic environment and narrow $\\mathrm { p H }$ range conditions are required to optimize the efficient binding of cyanine-hydrazide fluorescent dye to its carbonyl targets. Recently, it has been reported that near-infrared (NIR) fluorescence using NIR dyes offers certain advantages over visiblerange fluorescence, particularly the lack of autofluorescence of biological molecules in the $\\mathrm { \\Delta N I R ^ { 1 1 } }$ . To improve the specificity and sensitivity of carbonyl detection necessary for diagnostics and prognostic purposes, there is room for advanced strategies. ",
+        "bbox": [
+            72,
+            222,
+            489,
+            516
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "One promising strategy for the detection of biomolecules consists of using nonlinear optical processes (NLO) involving multiple IR photon excitations (in the NIR-IR window, i.e. $7 0 0 { - } 8 0 0 \\mathrm { n m }$ )12,13. Also, the high spatial resolution of two-photon absorption (2PA or TPA) is a strong added value for bioimaging applications14. Ligand-protected gold nanoclusters (AuNCs) with gold kernel composed of few dozen of atoms possess moleculelike properties15 such as luminescence16,17. Such AuNCs can exhibit strong photoluminescence from ultraviolet to the NIR region18,19. Also, their bleaching rate is very slow, demonstrating their superior photostability20,21. In addition, ligand-protected AuNCs exhibit outstanding biocompatibility, which makes their in vitro and in vivo bio-applications a rich research area22–27. As compared to dyes, ligand-protected AuNCs present much greater two-photon absorption cross sections13,28,29, making them promising candidates for multiphoton excited fluorescence microscopy30–32. As pioneered by Murray and co-workers33, surface functionalization of AuNCs, in particular their functionalization through ligand-exchange strategy34, grants them high versatility, while selective functionality is incorporated onto the ligand-protected NCs by exchanging the surface protecting ligand with desired molecules containing appropriate functional groups. ",
+        "bbox": [
+            72,
+            517,
+            489,
+            810
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In this work, we conducted the proof-of-concept study for developing the first NC-based imaging system for protein carbonylation detection. The NCs were liganded with glutathione (SG) and produced at the atomic precision with the exact formula $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ . Such NCs were then functionalized with a thiolated aminooxy probe to gain protein carbonyl-binding properties. Using mass spectrometry (MS) approach, we then showed that the resulting NCs bind carbonylated proteins through the formation of an oxime bond between the aminooxy-containing thiolated ligand on the NC and the carbonylated amino acid on the protein. Molecular modeling was performed to reveal the key features of functionalized NCs and to evaluate the robustness of the oxime bond upon exposure to the solvent. Finally, we demonstrate that such functionalized AuNCs can detect protein carbonyls in gel-based 1DE analysis by one-photon fluorescence and two-photon excited fluorescence imaging. ",
+        "bbox": [
+            72,
+            812,
+            489,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            61,
+            926,
+            141
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            170,
+            561,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Synthesis and characterization of $\\mathbf { A u } _ { 1 5 } \\mathbf { S G } _ { 1 3 }$ and $\\mathbf { A u } _ { 1 5 } \\mathbf { S G } _ { 1 2 }$ -Ao NCs. Here, we have developed a synthetic protocol to produce atomically precise thiolated aminooxy-functionalized gold NCs with protein carbonyl-binding properties. Initially, non-functionalized, glutathione-protected gold NCs $\\left( \\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 3 } \\right)$ were synthesized (Fig. 1a). We have chosen $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ as a basis for further modifications due to its small size, simplicity of its synthesis, good stability in water, and excellent optical properties in dried polyacrylamide matrix. FT-IR spectra of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ NCs and pure glutathione GSH are given in Supplementary Fig. S1a, b. The ligation of glutathione in the form of the thiolate (SG) to the Au core was confirmed by the absence of the absorption band at $\\nu ( \\mathsf { S } -$ $\\mathrm { H } ) = 2 5 2 3 \\mathrm { c m } ^ { - 1 }$ in the FTIR spectrum of the as-prepared NCs sample, as already found in the seminal work published by Negishi and Tsukuda35. Supplementary Fig. S1c shows the TEM image of the as-prepared $\\mathrm { A } \\mathrm { \\bar { u } } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ NCs. The particles with sizes of $1 { - } 2 \\mathrm { n m }$ are barely discernible in the image. From the XPS data (Supplementary Table S1), we find the $\\mathrm { { A u / S } }$ atomic ratio to be $1 . 2 6 \\pm 0 . 1 3$ , which is compatible with the composition of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ (the expected value is 1.15). Upon synthesis, the quality of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ was assessed using negative-mode ESI-MS. This analysis confirmed monodispersity of the synthesized NCs. A charge state distribution was observed from $[ \\mathrm { M } \\mathrm { - } 4 \\mathrm { H } ] ^ { 4 - }$ through $[ \\mathrm { M } \\mathrm { - } 6 \\mathrm { H } ] ^ { 6 \\mathrm { - } }$ . Deconvolution of charge states from 4- through 6- revealed a mass of 6928 Da for the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ , consistent with its calculated mass (Supplementary Fig. S2a). ",
+        "bbox": [
+            509,
+            184,
+            926,
+            530
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To develop NCs with carbonyl-binding properties, $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ had to be functionalized by the replacement of one glutathione with a carbonyl-reactive agent. Hydrazides $\\left( \\mathrm { H z } \\right)$ and aminooxy (Ao) are commonly used carbonyl-reactive chemical groups and they form different kinds of bonds with protein carbonyls–hydrazone $\\left( \\mathrm { H z } \\right)$ and oxime (Ao) bonds. Since oxime bonds appear to be more stable than hydrazone bonds36,37, we opted for the Ao to functionalize $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ . Functionalized NCs $\\mathrm { \\bar { A } u _ { 1 5 } S G _ { 1 2 } } ( 3$ -Aminooxy)-1-propanethiol (termed as $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 } – \\mathrm { A o } )$ was generated by the replacement of one glutathione on $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ with the Ao through a ligandexchange procedure (Fig. 1b). ",
+        "bbox": [
+            509,
+            531,
+            926,
+            677
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To characterize the synthesized $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao, the reaction mix was analyzed using negative-mode ESI-MS and a new peak corresponding to $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao for the charge state 4- was observed, as expected (Fig. 1c). Experimentally determined isotopic patterns of the different NCs were in perfect agreement with their simulated ESI-MS patterns (Supplementary Fig. S2b, c) and confirmed the stoichiometry of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ (Supplementary Fig. S2b) and $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao (Supplementary Fig. S2c). Of note, increasing the concentration of the Ao led to the exchange of more than one SG ligand (Fig. 1d and Supplementary Fig. S2d, e). ESI-MS was also applied to monitor the number of Ao ligand exchanged in $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ species following the addition of Ao in solution at different concentrations. Supplementary Fig. S2d, e shows the evolution in ligand exchange as a function of the concentration of Ao ligand. Clearly, adding 0.1–0.3 equivalent of Ao allows for controlling of ligand exchange to just one. ",
+        "bbox": [
+            509,
+            679,
+            927,
+            891
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We next compared UV-vis absorption and emission spectra of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ and $\\bar { \\mathrm { A u } } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao (Supplementary Fig. S2f). The two NCs displayed similar main features of the spectra. The linear optical absorption spectra were composed of a monotonous increase of absorption below $5 0 0 { - } 5 5 0 \\mathrm { n m }$ . Photoluminescence spectra displayed a broad band extending in the NIR region and centered around $6 5 0 { \\mathrm { - } } 7 0 0 { \\mathrm { n m } }$ . ",
+        "bbox": [
+            509,
+            892,
+            926,
+            945
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a85136facc917f2cbededc02887ca12f5389408355b8371ba01e9cc00aa15ad1.jpg",
+        "image_caption": [
+            "Fig. 1 Synthesis and characterization of $\\mathbf { A u } _ { 1 5 } \\mathbf { S G } _ { 1 3 }$ and $\\pmb { \\Delta u } _ { 1 5 } \\pmb { \\ S 6 } _ { 1 2 } \\pmb { - \\Delta 0 }$ . a Density functional theory (DFT) structure of the gold NCs $( \\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 3 } )$ . b DFT structures illustrate the ligand-exchange strategy to functionalize the NCs with an aminooxy (Ao) function $( \\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 } \\ – \\mathsf { A o } )$ . Atoms and molecules are labeled as following: S-magenta, Au-gold, glutathione-green, and aminooxypropanethiol-red c Zoom of the ESI mass spectrum of $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 3 }$ and $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 } \\mathsf { A o }$ NCs corresponding to the $m / z$ region labeled by a blue rectangle in supplementary Fig. S2a. A new peak corresponding to $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 } – \\mathsf { A o }$ is observed following the ligand-exchange reaction. d Mass spectra showing exchange of more than one SG ligand. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            107,
+            61,
+            890,
+            589
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            677,
+            489,
+            717
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To determine the structure of NC after the ligand exchange, we performed molecular modeling based on the combination of density functional theory (DFT) and semi-empirical quantum method PM7 approach (see Computational details). The structure of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ was proposed by De-en Jiang38 using the density functional theory (DFT). According to this model, $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ contains a cyclic $\\left[ \\mathrm { A u ( I ) } { - } \\mathrm { S G } \\right]$ pentamer interlocked with two trimer motifs protecting the tetrahedral $\\mathrm { \\ A u _ { 4 } }$ core. Such structural assignment was supported by comparison to the powder $\\mathrm { X }$ -ray diffraction pattern and, via time-dependent DFT calculations, to the optical and chiroptical (CD) absorption spectra39. We evaluated the influence of the Ao position on the overall structure of the liganded $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ NC. Two possible exchanges out of thirteen are presented in structures I and II (Supplementary Fig. $\\mathrm { S 2 g ) }$ . In both structures, H-bond networks between neighboring SG ligands and the Ao ligand are present. Interestingly, the Ao in structure I is more buried in the SG ligand environment than the ",
+        "bbox": [
+            72,
+            718,
+            489,
+            945
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ao in structure II. Such differences in Ao accessibility may influence their reactivity with carbonyls. ",
+        "bbox": [
+            509,
+            677,
+            926,
+            704
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Interaction of $\\mathbf { A u _ { 1 5 } S G _ { 1 2 } - A o }$ with protein carbonyls. Since protein carbonylation occurs on solvent-exposed amino acids, we predicted that $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao would react with carbonylated proteins through the formation of an extremely stable oxime bond between the amino group of the Ao attached to the NC and carbonyl groups on the amino acids (Fig. 2a). To test this prediction empirically, we used two model substrates: leupeptin (Nacetyl-L-leucyl-L-leucyl-L-argininal), a natural tripeptide inhibitor of serine proteases containing a carbonyl group, and oxidized lysozyme as a model protein. ",
+        "bbox": [
+            509,
+            725,
+            926,
+            858
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Interaction of $\\mathbf { A u } _ { 1 5 } \\mathbf { S G } _ { 1 2 }$ -Ao with leupeptin. If $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao can bind protein carbonyls, we would expect the formation of a stable $[ \\mathrm { A u } _ { 1 5 } \\mathrm { \\bar { S } G } _ { 1 2 }$ -Ao–leupeptin] complex upon mixing of the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 } .$ - Ao with leupeptin (Fig. 2b). To get insight into the formation of such complex and test specificity of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao for a carbonyl on leupeptin, a mixture of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ and $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao was analyzed by negative-mode ESI-MS before and after addition of leupeptin (Fig. 2c). As predicted, after the addition of leupeptin a new peak was detected under the charge state 4-, which corresponded to the newly formed $[ \\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao-leupeptin] complex. Note that the precursor $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }  – \\mathrm { A o }$ has almost disappeared demonstrating its high reaction rate with leupeptin. Importantly, the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ peak was unchanged, indicating that the non-functionalized NC does not react unspecifically with leupeptin under indicated conditions. ",
+        "bbox": [
+            509,
+            878,
+            926,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/5673ae8e3e552964eef65903538bb4f8cec0e301b0ae32bc2312c9ab514a9fad.jpg",
+        "image_caption": [
+            "Fig. 2 $\\pmb { \\Delta u } _ { 1 5 } \\pmb { \\ S 6 } _ { 1 2 } \\pmb { - \\Delta 0 }$ binds to protein carbonyls. a Schematic illustration of the functionalized gold NCs $( \\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 } – \\mathsf { A o } )$ ) binding to a carbonylated protein. b Illustration of the reaction of the Ao group of 3-(Aminooxy)-1-propanethiol forming an oxime linkage with the aldehyde of leupeptin. c ESI-MS spectrum following the formation of the stable oxime linkages: a new peak corresponding to $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 }$ -Ao-leupeptin is observed. d The QM/MM structures obtained by using two-layer ONIOM illustrating the interaction of liganded AuNC with lysozyme. Interface between liganded NCs $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 }$ -Ao and the protein is enlarged (right) illustrating Ao-serine oxime bond and hydrogen bonding network. (SG-gray, Au-gold, S-magenta, lysozyme-green, Ao-Serine oxime bondblue, H-bonds-dotted in red). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            139,
+            56,
+            847,
+            823
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            61,
+            489,
+            182
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Characterization of oxidized lysozyme. We next aimed to test whether $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao reacts specifically with amino acids carbonylated upon oxidation of a protein. To that end, we performed a multifaceted analysis of the NC-protein complex using oxidized lysozyme as a model protein. Lysozyme is a single chain polypeptide of 129 amino acids that we used previously in systematic protein carbonylation studies40. To induce carbonylation of the lysozyme we chose the metal-catalyzed oxidation (MCO). The MCO occurs in vitro by Fenton reaction whereby ascorbic acid and iron-chloride generate highly reactive oxygen species (ROS such as hydroxyls) that react with proteins and generate carbonyl groups on susceptible amino acids5. To confirm the efficiency of the MCO, we measured carbonylation of the lysozyme by a Western Blot-based method (Supplementary Fig. S3a, Supplementary Data 1 and 2 Figs. S8, S14) and by a quantitative 2,4-Dinitrophenylhydrazine (DNPH) colorimetric assay (Supplementary Fig. S3b and Supplementary Data 2 Fig. S15)41. Both approaches revealed a significant increase in carbonylation in oxidized lysozyme as compared to non-oxidized control under indicated conditions. ",
+        "bbox": [
+            72,
+            203,
+            489,
+            455
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To identify and quantify carbonylated amino acids on the oxidized lysozyme, sequence database search and tandem mass spectrometry MS/MS analysis were performed (Supplementary Fig. S3c). To search for oxidized peptides, we implemented userdefined variable modifications corresponding to a list of known carbonyl modifications from the literature42, which were derivatized with DNPH (Oxi-DNP method). For the MS/MS analysis, we labeled carbonylated amino acids with DNPH since DNPH-tagged-carbonylated peptides display the best results with this method. Namely, DNPH tag has better ionization efficiencies and additionally stabilizes labile modifications such as Michael adducts as compared to alternative aminooxy probes43. The combined digest data provided $6 1 . 2 \\%$ sequence coverage for the lysozyme subjected to MCO. Nineteen Oxi-DNP modified peptides were identified with confidence in the derivatized MCO-lysozyme (Supplementary Fig. S3c). Among the identified carbonylation sites, tryptophans (W) appeared as the most frequently oxidized amino acids. As a control, same analysis was performed on a non-oxidized lysozyme treated with DNPH and no modified peptides were detected. ",
+        "bbox": [
+            72,
+            457,
+            489,
+            723
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Quantification of detected oxidized peptides has been done at the $\\mathrm { M S ^ { 1 } }$ level (Supplementary Fig. S3c). To estimate the amount of oxidized versus the non-oxidized protein peak areas for each oxidized peptide were normalized to the areas of the corresponding nonoxidized peptides in the control samples (Supplementary Fig. S3d). Approximately $1 . 3 ~ \\%$ of the total protein amount has been oxidized, with W108, $\\mathrm { K } ^ { \\dot { 1 } \\dot { 3 } }$ , and $\\mathrm { W } ^ { 6 2 }$ as the most intense carbonylated sites. ",
+        "bbox": [
+            72,
+            725,
+            489,
+            817
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Molecular modeling of lysozyme– $\\mathbf { A u } _ { 1 5 } \\mathbf { S G } _ { 1 2 }$ -Ao complex revealing the key role of liganded AuNC. To visualize the positions on the protein of the empirically determined carbonylated sites (Supplementary Fig. S3c), those sites $( \\mathrm { K } ^ { 1 3 } , \\ \\mathrm { S } ^ { 2 4 } , \\ \\mathrm { W } ^ { \\dot { 2 } 8 }$ $\\mathrm { T } ^ { 4 3 }$ , W62, P79, $\\mathrm { \\dot { S } ^ { 8 1 } }$ , $\\mathrm { L } ^ { 8 3 }$ , $\\mathsf { S } ^ { 8 5 }$ , $\\Gamma ^ { 9 \\widetilde { 8 } }$ , $\\mathrm { S } ^ { 1 0 0 }$ , ${ \\mathrm { W } } ^ { 1 0 8 }$ , $\\mathrm { Q } ^ { 1 2 1 }$ , W123, and $\\mathrm { I } ^ { 1 2 4 }$ were mapped on the 3D structure of lysozyme obtained by $\\mathrm { X }$ -ray analysis (Supplementary Fig. S3e)44. While most of these residues were found on the protein surface and are thus easily accessible to ",
+        "bbox": [
+            72,
+            837,
+            489,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ROS, the carbonylated tryptophan residues $\\mathrm { W } ^ { 2 8 }$ and $\\mathrm { W } ^ { 1 2 3 }$ were buried inside the protein skeleton. This is likely due to protein misfolding caused by the initial carbonylation of the surface residues and subsequent exposure to ROS of the previously hidden parts of the polypeptide. ",
+        "bbox": [
+            509,
+            61,
+            926,
+            129
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To characterize the linkage between $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao and carbonylated amino acid, we next conducted molecular modeling on an example of $\\mathrm { S } ^ { 1 0 0 }$ on the surface of the lysozyme (Fig. 2d). Of note, the modeling has been performed on non-oxidized protein because the structure of carbonylated lysozyme is not available. In order to include the natural environment of the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 } .$ - Ao–oxidized lysozyme complex, we also evaluated the robustness of the oxime bond towards solvent accessibility. This analysis revealed that glutathione ligands play the protective role with respect to the thiolated aminooxy ligand while allowing it to form the interface with carbonylated lysozyme. Penetration of water was significantly low suggesting that the Ao linkage is protected from the external environment by the glutathione surrounding (Supplementary Fig. S3f). The key result is the H-bond network formed by glutathione ligands that protect the oxime bond between the Ao and a carbonylated residue on the protein. Together, these data justify the use of liganded AuNCs for the detection of protein carbonylation. ",
+        "bbox": [
+            509,
+            130,
+            926,
+            369
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MS-based detection of $\\mathbf { A u } _ { 1 5 } \\mathbf { S G } _ { 1 2 }$ -Ao grafted on carbonylated amino acids within the oxidized lysozyme. To obtain evidence that $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao is specific for carbonylated amino acids, i.e. that it is grafted directly on the carbonylated amino acid residue on the oxidized lysozyme, we next made attempts to measure directly the mass of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao bound to oxidized lysozyme. However, due to low levels of carbonylation $( < 1 \\% )$ no NC attached to the oxidized lysozyme was detected by mass spectrometry (MALDI-MS technique), as evidenced by lack of any mass peak larger than that of the parent oxidized lysozyme. Hence we used an alternative approach where we analyzed the oxidized protein derivatized with $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao after subsequent degradation of the grafted NC and trypsin digestion, whereby the putative oxime bond between the aminooxy on the NC and carbonylated amino acids on the protein remained intact. Degradation of the NC was necessary since NC-grafted peptides are too large to be analyzed directly by LC-MS/MS and it was achieved by cysteine treatment which destabilizes bonds between the glutathiones and the gold core of the NC. The modified peptides were obtained after neutralization of ungrafted Ao groups and precipitation of the degraded gold-cysteine polymers. After this treatment, the residual modification on the grafted carbonylated sites should be an Ao-C3-thiol group. The sample was then reduced by dithiothreitol and alkylated with iodoacetamide (IAM) before digestion with trypsin. As the IAM can react with the free thiols remaining on the carbonylated sites, the carbonyl modifications5 derivatized with Ao-C3-thiol-IAM were implemented for the database search. Seven peptides with these modifications were identified using Protein prospector (Table 1). We found modifications corresponding to the direct binding of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 } – \\mathrm { A o }$ to carbonylated amino acids on $\\mathrm { W } ^ { 2 8 }$ , W123 and $\\mathrm { \\Phi } ^ { \\dag 9 8 }$ —the same residues that we had identified as carbonylated in the previous analysis (Supplementary Fig. S3d). These results indicate that the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }  – \\mathrm { A o }$ is grafted directly on the carbonylated sites of the lysozyme. Of note, $\\mathrm { S } ^ { 1 0 0 }$ , the carbonylated residue analyzed by molecular modeling (Fig. 2d) was not found among Aobinding sites, likely due to degradation of the respective peptides. ",
+        "bbox": [
+            509,
+            387,
+            926,
+            887
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Application of $\\mathbf { A u } _ { 1 5 } \\mathbf { S G } _ { 1 2 }$ -Ao for detection of carbonylated proteins in polyacrylamide gels. We next tested whether labeling of carbonylated proteins with $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao is applicable for the detection of the protein–NC complexes in polyacrylamide gels. As the NCs are sensitive to detergents and can react with free thiols commonly present in the buffers used in sodium-dodecyl sulfate polyacrylamide gel electrophoresis (SDS-PAGE), native PAGE was applied in these experiments. As the first step, individual migration properties were determined for the NC and for the oxidized lysozyme during native PAGE. To that end, we applied PAGE both with the conventional (migration direction from anode to cathode) and with the inverted polarity (migration direction from cathode to anode) (Fig. 3a, Supplementary Fig. S4 and Supplementary Data 1 Fig. S13). Visualization of the NC in the gels was achieved using fluorescence imaging, whereas the proteins were visualized using Coomassie staining. Interestingly, NC and the lysozyme displayed opposing migration properties: while NC was detectable in the gel exposed to the conventional polarity, the lysozyme (both oxidized and non-oxidized) that has isoelectric point of 11.35 under given conditions migrated into the gel only upon inversion of the polarity (Supplementary Fig. S4). Hence, we subjected a mixture of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 } – \\mathrm { A o }$ with the oxidized lysozyme along with corresponding controls to native PAGE (Fig. 3b and Supplementary Data 1 Figs. S5-7), expecting to detect the stable complex formed between the protein and the NC in one of the two gels. Indeed, we observed co-migration of the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao and the oxidized protein, which was consistent with our result that NCs are grafted on the carbonylated sites of the protein (Fig. 3b, gels 1 and 2, lane 8). The complex was globally negatively charged since it migrated from anode to cathode (Fig. 3b, gels 1 and 2) and no fluorescence was observed in the gel upon migration from cathode to anode (Fig. 3b, gels 3 and 4). Furthermore, there was no detectable complex of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao with the non-oxidized protein (Fig. 3b, gels 1 and 2, lane 7), indicating that there were no unspecific, carbonylunrelated interactions between the protein and the NC. Importantly, little to no fluorescence was observed upon native PAGE of the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ - oxidized lysozyme mixture (Fig. 3b, lane 5), further supporting the absence of unspecific interactions between the NC and the protein (Table 1). ",
+        "bbox": [
+            507,
+            905,
+            926,
+            946
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/0be84e4ebecdec243e8d5bbca47466f86dab86fad79b4009064153384eef700e.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            72,
+            58,
+            922,
+            198
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/cac0796b7ca7be79fcea5feda7c893de10b46f3b8658061ef46deb7c467bae2a.jpg",
+        "image_caption": [
+            "Fig. 3 $\\pmb { \\Delta u } _ { 1 5 } \\pmb { \\ S } \\pmb { \\ G } _ { 1 2 } \\pmb { - \\Delta \\ o }$ can detect carbonylated proteins in polyacrylamide gels. a Schematic representation of the experimental setup for NCs migration in gels. b Four identical sets of samples were simultaneously migrated on native polyacrylamide gels with electricity direction from anode to cathode (gels 1 and 2) or from cathode to anode (gels 3 and 4). Gels 1 and 3 were dried and imaged by a fluorescence imaging scanner. Gels 2 and 4 were stained using Coomassie staining and images were obtained using a gel scanner. The displayed images are representative of three replicates. Source data and replicates for (b) are provided in Supplementary Data 1 Figs. S5-7. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            191,
+            214,
+            808,
+            772
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            859,
+            490,
+            941
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            859,
+            927,
+            941
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/713e380b921a31d04ae1a94a4fc08b80a113d20bc0d8b8453842cad75a03ba40.jpg",
+        "image_caption": [
+            "Fig. 4 $\\pmb { \\Delta u } _ { 1 5 } \\pmb { \\ S 6 } _ { 1 2 } \\pmb { - \\Delta 0 }$ in-gel signal responds to the lysozyme quantity. a The in-gel signal of $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 }$ -Ao decreases with the lowering of the oxidized lysozyme amounts. Gels 1 and 3 were dried and imaged using a fluorescence scanner. Gels 2 and 4 were stained using Coomassie staining and images were obtained using a gel scanner. The displayed images are representative of three replicates. b Comparison of $\\mathsf { A u } _ { 1 5 } \\mathsf { S G } _ { 1 2 ^ { - } } \\mathsf { A o }$ for detection of carbonylated proteins in gels by one-photon excited fluorescence scanner and multiphotonic (two-photon excited fluorescence) confocal imaging. The displayed images are representative of three replicates. Source data and replicates for (a) are provided in Supplementary Data 1 Figs. S9–11 and source data for (b) is provided in Supplementary Data 1 Fig. S12. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            132,
+            72,
+            867,
+            625
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            731,
+            489,
+            943
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            730,
+            927,
+            850
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We next evaluated the potential of the NC for quantitative analysis of protein carbonyls. Fixed concentration of $5 0 0 \\mu \\mathrm { M }$ $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao was incubated with a decreasing range of concentrations of the lysozyme $( 5 0 { - } 1 \\mu \\mathrm { M }$ corresponding to $5 { - } 0 . 1 \\mu \\mathrm { g }$ protein loaded in the gel) and the reaction products were migrated on native PAGE (Fig. 4a and Supplementary Data 1 Figs. S9–11). An obvious decrease in the fluorescent signal corresponding to NC correlated with decreasing amounts of oxidized lysozyme, indicating that NC-based assays can be developed for quantifying the amount of carbonyls on a protein. Finally, we tested the applicability of NCs in protein carbonylation detection in polyacrylamide gels using biphotonic confocal microscopy and observed an intense two-photon excited fluorescent signal for higher protein quantities (Fig. 4b and Supplementary Data 1 Fig. S12). ",
+        "bbox": [
+            509,
+            851,
+            927,
+            943
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            61,
+            489,
+            170
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Together, these data establish a novel NC, $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao, as suitable for specific detection of protein carbonyls by PAGE while offering photostability and biocompatible optical properties. ",
+        "bbox": [
+            72,
+            170,
+            489,
+            209
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            236,
+            146,
+            248
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Herein, we conducted a proof of concept study for developing the first NC-based imaging system for protein carbonylation detection. To that end, we synthesized an NC with protein carbonylbinding properties and demonstrated the ability of such NC to detect carbonylation of an oxidized model protein in gel-based analyses by one-photon fluorescence imaging and by two-photon excited fluorescence confocal imaging. ",
+        "bbox": [
+            72,
+            249,
+            489,
+            342
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, we have developed a protocol for an easy synthesis of atomically precise $\\mathrm { A u } _ { 1 5 }$ NCs and for their functionalization with a thiolated Ao probe via simple ligand exchange. These NCs were highly reactive towards protein carbonyls and they formed a stable oxime bond between the aminooxy on the NC and the natural or oxidation-induced carbonyls on leupeptin and on lysozyme, respectively. Molecular modeling was conducted to evaluate the exposure of such oxime bond to solvents. This approach evidenced the protective effect on the oxime bond of glutathione ligands surrounding the thiolated Ao thus demonstrating the robustness of the linkage between the NC and carbonylated proteins. This protective effect of glutathione clearly adds value to the NC-based as compared to dye-based approaches for labeling carbonyls. ",
+        "bbox": [
+            72,
+            343,
+            489,
+            530
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We also demonstrated that the functionalized NCs can act as one- and two-photon excitation fluorescence contrast agents for the detection of protein carbonyls in polyacrylamide gels. Importantly, we were able to detect NC-oxidized protein complexes by multiphoton microscopy, where both the excitation wavelength $( \\sim 8 0 0 \\mathrm { n m } )$ and the detection of TPEF photons (up to $7 5 0 \\mathrm { n m }$ ) can be in the NIR range. If applied in vivo, this strategy could offer definitive advantages over visible-range fluorescence, particularly the lack of interfering autofluorescence typical for biological molecules. Another advantage of using metal NCs as opposed to commonly used dyes is that they are biocompatible, soluble, photostable and likely to pass through the cellular membranes due to their small size. The noble AuNCs composed of a small number of atoms stabilized by a peptide ligand might thus be further developed as agents for the detection of carbonyls within cells and tissues. ",
+        "bbox": [
+            72,
+            531,
+            489,
+            742
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Features of the NCs that give them tremendous potential for exploitation are their modular nature and versatility. These features provide room for improvement and opportunities for adaptation of the NCs for various purposes by optimization of their size and by the choice of ligands. In this proof-of-concept study, we have observed a correlation between the NC fluorescence and the amount of protein carbonyls, uncovering the potential of the NC for quantitative analyses. This NC could thus be further refined to gain higher sensitivity and to provide highly quantitative data. Moreover, to the best of our knowledge, this is the first study where the nonlinear optical properties of NC have been used to detect a post-translational modification on a protein. Given the extreme importance of post-translational modifications in life sciences, this pioneering study could lead to many alternative applications of the NCs. ",
+        "bbox": [
+            72,
+            745,
+            489,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In addition to the presented results, significant future applications of AuNCs may be in imaging of carbonylated proteins in fixed or live cells, allowing for quantification, as well as localization and transport studies of carbonylated proteins. Such studies advance understanding of the role of protein carbonylation in aging and ARDs. ",
+        "bbox": [
+            509,
+            61,
+            926,
+            141
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Methods ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            159,
+            569,
+            171
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb { \\Delta u } _ { 1 5 } \\pmb { \\ S 6 } _ { 1 3 }$ NCs synthesis. Approximately, $2 3 5 \\mathrm { m g }$ of L-Glutathione (GSH) was dissolved under stirring conditions (at $4 5 ^ { \\circ } \\mathrm { C } )$ in $3 5 \\mathrm { m L }$ of methanol. $4 \\mathrm { m L }$ tributylamine was added to this mixture, which led to solubilization of GSH in methanol. This clear solution was further supplied with ${ \\sim } 1 0 0 \\mathrm { m g }$ of $\\mathrm { H A u C l } _ { 4 } . 3 \\mathrm { H } _ { 2 } \\mathrm { O }$ previously dissolved in $4 \\mathrm { m L }$ water. The resulting solution was stirred for $5 \\mathrm { { m i n } }$ and further supplied with ${ \\sim } 5 0 \\mathrm { m g }$ of trimethylamine borane (TMA- $\\mathrm { . B H } _ { 3 }$ ) after $^ { 2 \\mathrm { h } }$ of stirring under $4 5 { - } 5 0 ^ { \\circ } \\mathrm { C }$ . The resulting solution was then stirred overnight at room temperature. After $2 4 \\mathrm { h }$ of stirring, the solution acquired a yellow color, and $1 \\mathrm { m L }$ $\\mathrm { N H _ { 4 } O H }$ was added to induce precipitation. The resulting dispersion was centrifuged at $6 0 0 0 \\mathrm { r p m }$ for $3 { - } 4 \\mathrm { m i n }$ . The supernatant was discarded and the pellet was redispersed in minimum water. The solution was supplied with methanol to induced further precipitation. The dispersion was centrifuged again at $6 0 0 0 \\mathrm { r p m }$ for $3 { \\cdot } 4 \\mathrm { m i n }$ and the so obtained pellet was dissolved in $1 0 ~ \\mathrm { m L }$ water and $2 \\mathrm { m L }$ of glacial acetic acid. The solution was left unperturbed for $^ { 4 \\mathrm { h } }$ (minimum). This led to the precipitation of $\\mathrm { { A u } _ { 1 0 } }$ NCs. The pellet was discarded and the supernatant was re-supplied with methanol to induce further precipitation. Following another cycle of precipitation, the pellet was dispersed in methanol and diethyl ether and dried overnight under vacuum. ",
+        "bbox": [
+            509,
+            172,
+            927,
+            367
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$\\pmb { \\Delta u } _ { 1 5 } \\pmb { \\ S } \\pmb { \\ G } _ { 1 2 } \\pmb { - \\Delta \\ o }$ preparation. $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ NCs were post functionalized via ligandexchange reaction with aminooxypropanethiol as functional ligand using two methods. $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ was used as mother solution for both methods. In the method 1, a solution of Aminooxy corresponding to the desired quantities (0.1 to 1 equivalent relative to $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 } )$ ) was added to a water solution of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 3 }$ $\\mathrm { . 1 { m g } / }$ ml, $\\mathrm { p H } \\sim 8 . 5 $ ). The obtained solution was stirried at room temperature for $^ { 3 \\mathrm { h } }$ (method 1). For method 2, the same protocol is used, except that aminooxy is added fractionally (0.1 equivalent of Aminooxy every $3 0 \\mathrm { { m i n } }$ ) at ambient temperature or at $4 5 ^ { \\circ } \\mathrm { C }$ . It is worth mentioning that the products with varying numbers of aminooxypropanethiol could not be separated further. Instead, to purify the mixture of products from other NCs comprising of varying numbers of gold atoms, the product was precipitated with methanol/acetic acid solution. ",
+        "bbox": [
+            509,
+            383,
+            927,
+            514
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Oxidation protocols. For metal-catalyzed oxidation (MCO), the protocol was based on Maisonneuve et al.45. Lysozyme from chicken egg white (Sigma) was dissolved in phosphate-buffered saline $1 \\times ,$ . $\\mathrm { p H } 7 . 4$ (PBS–Roth) at $5 ~ \\mathrm { m g / m l }$ . Oxidation was performed by supplementing $3 0 0 \\mu \\mathrm { L }$ of protein solution $( 1 . 5 \\mathrm { m g } )$ with a freshly prepared mixture of ascorbic acid $/ \\mathrm { F e C l } _ { 3 }$ (Sigma/Kemika) with final concentrations of $2 5 \\mathrm { m M } / 1 0 0 \\mu \\mathrm { M }$ . $^ { 3 \\mathrm { h } }$ incubation at RT was performed in a thermomixer at $5 0 0 \\mathrm { r p m }$ . Oxidation was stopped by the addition of $1 \\mathrm { m M }$ EDTA (Fluka) and cooling in ice. ",
+        "bbox": [
+            509,
+            530,
+            927,
+            617
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Carbonyl detection by Western Blotting. For the Western Blot, carbonyls were derivatized with $1 0 ~ \\mathrm { m M }$ EZ-Link™ Alkoxyamine-PEG4-Biotin (Thermofisher) for 3H at RT. Samples were subjected to gel electrophoresis using the Mini-Protean® Tetra Cell system (Bio-Rad). Gels were cast homemade using Acrylamide/bisacrylamide (Fisher Bioreagent), APS (Biosolve), TEMED (Sigma) and Tris-glycine buffer. Linear gels $( 2 0 \\% )$ were cast and used for sample migration. Proteins were then transferred to a PVDF membrane the Trans-Blot Turbo Transfer System (BioRad) with $2 5 \\mathrm { V }$ constant (up to 1.0 A) for $3 0 \\ \\mathrm { m i n }$ . Membranes were stained with Red Ponceau dye (Sigma) to assess transfer efficiency and total protein loading. Membranes were then blocked with TBS-Tween $0 . 0 5 \\%$ –Milk $5 \\%$ buffer for $3 0 \\mathrm { { m i n } }$ at room temperature with shaking. Next, membranes were incubated for 1h at RT with Streptavidin-Alexa Fluor 700 (Invitrogen) probes resuspended. At every step after blocking, membranes were washed 4 times $5 \\mathrm { { m i n } }$ with TBS-Tween $0 . 0 5 \\%$ . Finally, Typhoon™ FLA 9500 biomolecular imager (GE Healthcare) was used to measure fluorescence. Experiments were performed in triplicates. All quantifications were performed using ImageLab software (Bio-rad) and the statistical analysis was performed in GraphPad Software. ",
+        "bbox": [
+            509,
+            635,
+            927,
+            819
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MS proteomics. Sample preparation. Prior to LC-MS/MS analysis, the MCO protein was grafted with DNPH. Proteins samples were derivatized with $1 0 \\mathrm { m M }$ of DNPH (final concentration) at RT for $3 0 \\mathrm { { m i n } }$ with shaking $( 5 0 0 \\mathrm { r p m } )$ . Neutralization of the reaction was done using 1 M Ammonium bicarbonate solution to reach $\\mathrm { p H } \\ 8$ . ",
+        "bbox": [
+            509,
+            836,
+            927,
+            890
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Also, MCO protein grafted with the aminooxy NC was degraded with cysteine. $3 0 0 \\mu \\mathrm { L }$ of $5 0 0 \\mu \\mathrm { g }$ of MCO lysozyme labeled with an excess of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao were diluted in $7 0 0 \\mu \\mathrm { L }$ of a $1 0 \\mathrm { m M }$ NaCl aqueous solution. Then, $2 0 0 \\mu \\mathrm { L }$ of acetone was added to neutralize ungrafted aminooxy groups. Solution was left overnight before starting the NC degradation. For this, we used a large excess of cysteine by adding ",
+        "bbox": [
+            509,
+            891,
+            926,
+            945
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "$1 0 0 \\mu \\mathrm { L }$ of cysteine $\\left( 1 0 \\mathrm { m M } \\right)$ . The solution was sonicated $4 5 ~ \\mathrm { { m i n } }$ and $1 \\mathrm { m L }$ of methanol was added before another $4 5 ~ \\mathrm { { m i n } }$ of sonication. Then, $5 0 \\mu \\mathrm { L }$ of glacial acetic acid was added to complete precipitation of gold-cysteine polymer. The precipitate was removed by centrifugation $( 1 1 0 0 0 \\mathrm { r p m } / 1 0 \\mathrm { m i n } )$ and the supernatant was evaporated under vacuum. The lysozyme was redispersed in 0.5 mL of water before sample preparation for MS analysis (i.e. reduction, alkylation, and digestion). ",
+        "bbox": [
+            72,
+            63,
+            487,
+            139
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Derivatized protein samples were then reduced in $^ { 8 \\mathbf { M } }$ urea, $1 5 \\mathrm { m M }$ dithiothreitol (DTT) at $6 0 ^ { \\circ } \\mathrm { C }$ for $4 0 \\mathrm { { m i n } }$ , and then alkylated with $3 5 \\mathrm { m M }$ iodoacetamide (IAM) at room temperature in the dark for $4 0 \\mathrm { { m i n } }$ . To reduce the urea concentration, the samples were diluted 5-fold with ammonium bicarbonate (AMBIC) before overnight digestion at $3 7 ^ { \\circ } \\mathrm { C }$ with trypsin (type IX-S from Porcine Pancreas) using a 1:30 (w/w) enzyme to substrate ratio. Digestion was stopped by the addition of formic acid (FA) to a final concentration of $0 . 5 \\%$ . ",
+        "bbox": [
+            72,
+            140,
+            489,
+            214
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "All samples were desalted and concentrated using Oasis HLB $3 \\mathsf { c c }$ $\\mathrm { \\Delta ( 6 0 ~ m g ) }$ reversed-phase cartridges (Waters, Milford, MA, USA) (elution with $1 . 5 \\mathrm { m L }$ of methanol containing $0 . 5 \\%$ FA). All samples were evaporated to dryness and resuspended in $1 5 0 \\mu \\mathrm { L }$ of water/acetonitrile (ACN) $( 9 0 { : } 1 0 , \\mathrm { v } / \\mathrm { v } )$ containing $0 . 5 \\%$ FA. All solutions were stored at $- 1 8 ^ { \\circ } \\mathrm { C }$ before use. ",
+        "bbox": [
+            72,
+            216,
+            480,
+            269
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MS Proteomics. Instrumentation and Operating Conditions. Mass spectrometry analyses were performed on a hybrid quadrupole-orbitrap Q-Exactive® mass spectrometer (Thermo Fisher Scientific, San Jose, CA, USA) equipped with a HESI ion source coupled to a Surveyor HPLC-MS pump (Thermo Fisher Scientific, San Jose, CA, USA) and a PAL Auto-sampler (CTC Analytics, Switzerland). ",
+        "bbox": [
+            70,
+            285,
+            490,
+            340
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The HPLC separation was carried out on an XBridge C18 column $1 0 0 \\times 2 . 1$ mm, $3 . 5 \\mu \\mathrm { m } \\mathrm { \\check { \\ell } }$ ) from Waters. The HPLC mobile phase consisted of water containing formic acid $0 . 1 \\%$ $\\scriptstyle ( \\mathbf { v } / \\mathbf { v } )$ as eluent A, and ACN containing formic acid $0 . 1 \\%$ $\\scriptstyle ( \\mathbf { v } / \\mathbf { v } )$ as eluent B. Elution was performed at a flow rate of $3 0 0 \\mu \\mathrm { L / m i n }$ . The elution sequence, for the digested protein samples, included a linear gradient from $1 0 \\%$ to $6 0 \\%$ of eluent B for $5 2 \\mathrm { m i n }$ , then a plateau at $9 5 ~ \\%$ of eluent B for $4 \\mathrm { { m i n } }$ . The gradient was returned to the initial conditions and held there for $4 \\mathrm { { m i n } }$ . The injection volume was $1 0 \\mu \\mathrm { L }$ . ",
+        "bbox": [
+            72,
+            341,
+            489,
+            425
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Ionization was achieved using electrospray in the positive ionization mode with an ion spray voltage of $4 \\mathrm { k V }$ . The sheath gas and the auxiliary gas (nitrogen) flow rates were respectively set at 35 and 10 (arbitrary unit) with a HESI vaporizer temperature of $4 0 0 ^ { \\circ } \\mathrm { C }$ . The ion transfer capillary temperature was $3 0 0 ^ { \\circ } \\mathrm { C }$ with a sweep gas (nitrogen) flow rate at 5 (arbitrary unit). The S-lens RF was set at 90 (arbitrary unit). The Automatic Gain Control (AGC) target was $3 \\times 1 0 ^ { 6 }$ and the maximum injection time was set at $2 5 0 \\mathrm { m s }$ . Experiments were done in datadependent top 10 modes. The full MS scans were done over an m/z 300-1500 range with a resolution of 35000. For the data-dependent MS/MS scans, the resolution was set at 17500, isolation $2 \\ m / z$ , with a normalized collision energy of 28 (arbitrary unit). To exclude the redundant processing of dominant ions and allow selection of low abundant oxidized peptides, a dynamic exclusion time of 20 s was set. ",
+        "bbox": [
+            72,
+            427,
+            490,
+            556
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "MS proteomics. Peptide and protein identification and quantification. Fragmentation data were converted to peak lists using PAVA RawRead and searched against sequences of Gallus Gallus (Chicken) proteins contained in the Swissprot human database (downloaded 2017.11.01, 556006 entries) using Protein Prospector46. All searches used the following parameters: mass tolerances in MS and MS/MS modes were $2 0 \\ \\mathrm { p p m }$ and 0.2 Daltons, respectively. Trypsin was designated as the enzyme and up to two missed cleavages were allowed. Carbamidomethylation of cysteine residues was designated as a fixed modification. The considered standard variable modifications were N-terminal acetylation, Nterminal glutamine conversion to pyroglutamate and methionine oxidation. The maximum allowed expected value was set at up to 0.01 (protein) and 0.05 (peptide). To search for oxidized peptides, user-defined variable modifications, corresponding to a list of 43 known carbonyl modifications from the literature9,42 derivatized with DNP (Oxi-DNP) or after degradation of the $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao NC (Ao-C3-thiol-IAM), were implemented. All peptides identified in a top10 analysis have been quantified by using the MS1 filtering tool in Skyline. The peptides have been integrated allowing a match tolerance of $0 . 0 5 5 m / z$ and a minimum isotope dot product of 0.9. All integrations have been verified manually and the total area of each peptide has been reported for the most intense charge states. ",
+        "bbox": [
+            72,
+            572,
+            489,
+            778
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Experimental setup for protein carbonyls detection with NCs in 1D gel electrophoresis. After oxidation of the recombinant protein with MCO protocol as described previously, recombinant protein and NCs were resuspended in PBS 1X and were incubated at a final concentration of $5 0 ~ { \\mu \\mathrm { M } }$ (Fig. 3 and Fig. 4) and 500 $\\mu \\mathrm { M } .$ respectively, at $1 0 ^ { \\circ } \\mathrm { C }$ overnight in a rotating shaker. The concentration of protein and NCs were modified to $1 3 7 \\mu \\mathrm { M }$ and $5 0 \\mu \\mathrm { M }$ respectively for multiphoton confocal imaging. Samples were then supplemented with $1 0 \\%$ glycerol, loaded in $1 5 \\%$ or $2 0 \\%$ homemade Tris-Glycine gels, and migrated with Tris-glycine buffer $1 \\times$ $( 2 5 \\mathrm { - } 1 9 2 \\mathrm { m M } ,$ ). Migration polarity was done as indicated in the figures. Before drying, gels were equilibrated in a $2 0 \\%$ ethanol $/ 5 \\%$ glycerol solution for $2 0 \\mathrm { { m i n } }$ and then placed in a drying frame (Serva) for a minimum of $4 8 \\mathrm { h }$ . Typhoon™ FLA 9500 biomolecular imager (GE Healthcare) was used to detect fluorescence of these gels as described below. Protein staining in the gel was performed using a Coomassie staining solution (Ammonium sulfate $1 0 \\%$ –phosphoric acid $1 0 \\%$ –Coomassie G250 $0 . 1 2 \\%$ and ethanol $2 0 \\%$ ) overnight with shaking at room temperature followed by destaining with distilled $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ . Gels were scanned with the BIO-5000 Plus VIS Gel Scanner from Serva. All experiments were performed in triplicate. ",
+        "bbox": [
+            72,
+            794,
+            489,
+            936
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            63,
+            926,
+            107
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "One‐photon fluorescence setup. One-photon fluorescence measurements were performed with Typhoon™ FLA 9500 biomolecular imager using a $4 7 3 \\mathrm { n m }$ (blue LD laser—for NCs detection) or a $6 8 5 \\mathrm { n m }$ laser (Red LD laser—for AlexaFluor700 detection) for excitation and a BPFR700 (R715) filter to collect the emitted fluorescence in the wavelength range from $7 1 3 \\mathrm { n m }$ to $7 2 6 \\mathrm { n m }$ . ",
+        "bbox": [
+            509,
+            122,
+            926,
+            176
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Two‐photon fluorescence setup. Two-photon fluorescence measurements were performed with a customized confocal microscope (TE2000-U, Nikon Inc.) in which the excitation light entrance has been modified to allow free-space laser beam input, instead of the original optical-fiber light input. The luminescence was excited at $7 8 0 \\mathrm { n m }$ with a mode-locked frequency-doubled femtosecond Er-doped fiber laser (C-Fiber 780, MenloSystems GmbH). The laser spectrum was bounded by two filters (FELH0750 and FESH0800, Thorlabs Inc.). The output power of the femtosecond laser was $6 2 \\mathrm { m W }$ . The laser beam was focused by a Nikon Plan Fluor Ph1 DLL objective $( 1 0 { \\times } / 0 . 3 0 ~ \\mathrm { N A }$ ). The sample was XY scanned by the inner microscope motorized stage and galvanoscanner (confocal C1 head, Nikon Inc.), and the Z scan was performed by the inner microscope motorized focus. The emitted signal was collected in epifluorescence illumination mode. The two-photon fluorescence emission was separated from the incident light through a dichroic mirror (NFD01-785, IDEX Health & Science LLC). A FESH0750 filter was used in order to remove the photons coming from the excitation laser and collect visible $3 5 0 \\mathrm { - } 7 5 0 \\ \\mathrm { n m }$ fluorescence on the inner microscope photomultiplier tube. TPEF intensity raster scans performed at several Z positions of the gel (size of the gel image: $6 0 \\times 4 8 ~ \\mathrm { { m m } }$ ). Time per each point $\\mathrm { 0 . 2 5 m m \\times 1 m m }$ ): $( 6 1 \\mu \\mathrm { s } \\times 2 \\times 1 2 8 \\times 1 2 8$ for averaging). ",
+        "bbox": [
+            509,
+            193,
+            927,
+            398
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Computational. In order to determine the structural properties of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao liganded cluster and protein-liganded cluster the following procedures have been used. First, QM/MM method within ONIOM two layer47–49 approach implemented in Gaussian50 has been employed for $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao liganded cluster. $\\mathrm { A u } _ { 1 5 } { \\mathrm { ; } }$ sulfur atoms and 3-(Aminooxy)-1-propanethiol have been included in QM. For the gold atoms the $1 9 \\mathrm { - } \\mathrm { e ^ { - } }$ relativistic effective core potential $1 9 \\mathrm { - } \\mathrm { e ^ { - } }$ RECP) from the Stuttgart group51 taking into account scalar relativistic effects has been used. For atoms within QM, split valence polarization atomic basis sets $( \\mathrm { S V P } ) ^ { 5 2 }$ and the hybrid B3LYP functional53–56 have been employed. In MM part UFF force field57 has been employed for all ligands, with exception of 3-(Aminooxy)-1-propanethiol. In order to analyze the hydrogen bonding network the obtained ONIOM two layer B3LYP/UFF structures have been reoptimized using SEQM $\\mathrm { P M } 7 ^ { 5 8 }$ where gold and sulfur atoms have been frozen. Notice that Au-Au distances are overestimated within PM7 approach59. Two isomers of $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao have been obtained using PM7 and single point DFT (B3LYP) calculations as shown in Supplementary Fig S2g. The structure in Fig. 2d including Lysozyme has been obtained by QM/MM approach. QM part is treated by PM7 and describes interface between liganded cluster and protein. It contains $\\mathrm { A u } _ { 1 5 }$ , sulfur atoms from glutathiones and Ao-Serine bond. The other ligands and the rest of the protein have been included in MM where UFF force field was employed. In order to simulate penetration of water molecules into $\\mathrm { A u } _ { 1 5 } \\mathrm { S G } _ { 1 2 }$ -Ao-Lysozyme 800 neutral $_ \\mathrm { H } _ { 2 } \\mathrm { O }$ molecules have been added to MM part within QM/MM approach for the optimization of geometry. In addition, distances from Ao-Serine100 bond to each water molecule were taken into account in order to obtain the radial distribution of the density of water molecules using R-studio software60 (cf Supplementary Fig. S3f). ",
+        "bbox": [
+            509,
+            413,
+            927,
+            685
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data availability ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            702,
+            621,
+            713
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Data available on request from the authors. ",
+        "bbox": [
+            509,
+            714,
+            719,
+            725
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Received: 27 November 2020; Accepted: 2 March 2021; Published online: 14 May 2021 ",
+        "bbox": [
+            509,
+            740,
+            850,
+            767
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            812,
+            584,
+            823
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. Krisko, A. & Radman, M. Protein damage, ageing and age-related diseases. Open Biol. 9, 12 (2019).   \n2. Reeg, S. & Grune, T. Protein oxidation in aging: does it play a role in aging progression? Antioxid. Redox Signal. 23, 239–255 (2015).   \n3. Havelund, J. F. et al. A biotin enrichment strategy identifies novel carbonylated amino acids in proteins from human plasma. J. Proteom. 156, 40–51 (2017).   \n4. Baraibar, M. A., Ladouce, R. & Friguet, B. Proteomic quantification and identification of carbonylated proteins upon oxidative stress and during cellular aging. J. Proteom. 92, 63–70 (2013).   \n5. Hawkins, C. L. & Davies, M. J. Detection, identification, and quantification of oxidative protein modifications. J. Biol. Chem. 294, 19683–19708 (2019).   \n6. Yan, L.-J. & Forster, M. J. Chemical probes for analysis of carbonylated proteins: a review. J. Chromatogr. B 879, 1308–1315 (2011).   \n7. Levine, R. L., Williams, J. A., Stadtman, E. P. & Shacter, E. in Methods in Enzymology (ed. Packer, L.) Vol. 233, Ch 37, 346–357 (Academic Press, 1994).   \n8. Rogowska-Wrzesinska, A., Wojdyla, K., Nedić, O., Baron, C. P. & Griffiths, H. R. Analysis of protein carbonylation — pitfalls and promise in commonly used methods. Free Radic. Res. 48, 1145–1162 (2014).   \n9. Bachi, A., Dalle-Donne, I. & Scaloni, A. Redox proteomics: chemical principles, methodological approaches and biological/biomedical promises. Chem. Rev. 113, 596–698 (2013).   \n10. Tamarit, J. et al. Analysis of oxidative stress-induced protein carbonylation using fluorescent hydrazides. J. Proteom. 75, 3778–3788 (2012).   \n11. Escobedo, J. O., Rusin, O., Lim, S. & Strongin, R. M. NIR dyes for bioimaging applications. Curr. Opin. Chem. Biol. 14, 64–70 (2010).   \n12. Terenziani, F., Katan, C., Badaeva, E., Tretiak, S. & Blanchard-Desce, M. Enhanced two-photon absorption of organic chromophores: theoretical and experimental assessments. Adv. Mater. 20, 4641–4678 (2008).   \n13. Bonačić-Koutecký, V. & Antoine, R. Enhanced two-photon absorption of ligated silver and gold nanoclusters: theoretical and experimental assessments. Nanoscale 11, 12436–12448 (2019).   \n14. Pawlicki, M., Collins, H. A., Denning, R. G. & Anderson, H. L. Two-photon absorption and the design of two-photon dyes. Angew. Chem. Int. Ed. 48, 3244–3266 (2009).   \n15. Chakraborty, I. & Pradeep, T. Atomically precise clusters of noble metals: emerging link between atoms and nanoparticles. Chem. Rev. 117, 8208–8271 (2017).   \n16. Jin, R. Quantum sized, thiolate-protected gold nanoclusters. Nanoscale 2, 343–362 (2010).   \n17. Jin, R., Zeng, C., Zhou, M. & Chen, Y. Atomically precise colloidal metal nanoclusters and nanoparticles: fundamentals and opportunities. Chem. Rev. 116, 10346–10413 (2016).   \n18. Kang, X. & Zhu, M. Tailoring the photoluminescence of atomically precise nanoclusters. Chem. Soc. Rev. 48, 2422–2457 (2019).   \n19. Li, Q. et al. Structural distortion and electron redistribution in dual-emitting gold nanoclusters. Nat. Commun. 11, 2897 (2020).   \n20. Chen, P.-F. et al. Fluorescence depletion properties of insulin–gold nanoclusters. Biomed. Opt. Express 6, 3066–3073 (2015).   \n21. Weng, B., Lu, K.-Q., Tang, Z., Chen, H. M. & Xu, Y.-J. Stabilizing ultrasmall Au clusters for enhanced photoredox catalysis. Nat. Commun. 9, 1543 (2018).   \n22. Kaur, N., Aditya, R. N., Singh, A. & Kuo, T.-R. Biomedical applications for gold nanoclusters: recent developments and future perspectives. Nanoscale Res. Lett. 13, 302 (2018).   \n23. Luo, Z., Zheng, K. & Xie, J. Engineering ultrasmall water-soluble gold and silver nanoclusters for biomedical applications. Chem. Commun. 50, 5143–5155 (2014).   \n24. Porret, E., Le Guevel, X. & Coll, J. L. Gold nanoclusters for biomedical applications: toward in vivo studies. J. Mat. Chem. B 8, 2216–2232 (2020).   \n25. Bai, Y. L., Shu, T., Su, L. & Zhang, X. J. Fluorescent gold nanoclusters for biosensor and bioimaging application. Crystals 10, 12 (2020).   \n26. Chang, T.-K. et al. Metabolic mechanism investigation of antibacterial active cysteine-conjugated gold nanoclusters in Escherichia coli. ACS Sustain. Chem. Eng. 7, 15479–15486 (2019).   \n27. Cheng, T.-M. et al. Quantitative Analysis of glucose metabolic cleavage in glucose transporters overexpressed cancer cells by target-specific fluorescent gold nanoclusters. Anal. Chem. 90, 3974–3980 (2018).   \n28. Olesiak-Banska, J., Waszkielewicz, M., Obstarczyk, P. & Samoc, M. Twophoton absorption and photoluminescence of colloidal gold nanoparticles and nanoclusters. Chem. Soc. Rev. 48, 4087–4117 (2019).   \n29. Antoine, R. & Bonačić-Koutecký, V. Liganded Silver and gold Quantum Clusters. Towards a New Class of Nonlinear Optical Nanomaterials (Springer, 2018).   \n30. Polavarapu, L., Manna, M. & Xu, Q.-H. Biocompatible glutathione capped gold clusters as one- and two-photon excitation fluorescence contrast agents for live cells imaging. Nanoscale 3, 429–434 (2011).   \n31. Brach, K., Waszkielewicz, M., Olesiak-Banska, J., Samoc, M. & Matczyszyn, K. Two-photon imaging of 3D organization of bimetallic AuAg nanoclusters in DNA matrix. Langmuir 33, 8993–8999 (2017).   \n32. Bertorelle, F. et al. Bulky counterions: enhancing the two-photon excited fluorescence of gold nanoclusters. ChemPhysChem 19, 165–168 (2018).   \n33. Templeton, A. C., Wuelfing, W. P. & Murray, R. W. Monolayer-protected cluster molecules. Acc. Chem. Res. 33, 27–36 (2000).   \n34. Cao, Y. et al. Control of single-ligand chemistry on thiolated Au25 nanoclusters. Nat. Commun. 11, 5498 (2020).   \n35. Negishi, Y., Nobusada, K. & Tsukuda, T. Glutathione-protected gold clusters revisited: bridging the gap between gold(I)–thiolate complexes and thiolateprotected gold nanocrystals. J. Am. Chem. Soc. 127, 5261–5270 (2005).   \n36. Kalia, J. & Raines, R. T. Hydrolytic stability of hydrazones and oximes. Angew. Chem. Int. Ed. 47, 7523–7526 (2008).   \n37. Kölmel, D. K. & Kool, E. T. Oximes and hydrazones in bioconjugation: mechanism and catalysis. Chem. Rev. 117, 10358–10376 (2017).   \n38. Jiang, D.-e, Overbury, S. H. & Dai, S. Structure of Au15(SR)13 and Its Implication for the origin of the nucleus in thiolated gold nanoclusters. J. Am. Chem. Soc. 135, 8786–8789 (2013).   \n39. Tlahuice-Flores, A., Jose-Yacamán, M. & Whetten, R. L. On the structure of the thiolated Au15 cluster. Phys. Chem. Chem. Phys. 15, 19557–19560 (2013).   \n40. Girod, M. et al. Structural basis of protein oxidation resistance: a lysozyme study. PLoS ONE 9, 12 (2014).   \n41. Augustyniak, E. et al. Validation of protein carbonyl measurement: a multicentre study. Redox Biol. 4, 149–157 (2015).   \n42. Rykær, M., Svensson, B., Davies, M. J. & Hägglund, P. Unrestricted mass spectrometric data analysis for identification, localization, and quantification of oxidative protein modifications. J. Proteome Res. 16, 3978–3988 (2017).   \n43. Chand Bollineni, R., Fedorova, M. & Hoffmann, R. Qualitative and quantitative evaluation of derivatization reagents for different types of protein-bound carbonyl groups. Analyst 138, 5081–5088 (2013).   \n44. Weiss, M. S., Palm, G. J. & Hilgenfeld, R. Crystallization, structure solution and refinement of hen egg-white lysozyme at $\\mathrm { p H } 8 . 0$ in the presence of MPD. Acta Crystallogr. D 56, 952–958 (2000).   \n45. Maisonneuve, E. et al. Rules governing selective protein carbonylation. PLoS ONE 4, e7269 (2009).   \n46. Chalkley, R. J., Baker, P. R., Medzihradszky, K. F., Lynn, A. J. & Burlingame, A. L. In-depth analysis of tandem mass spectrometry data from disparate instrument types. Mol. Cell Proteom. 7, 2386–2398 (2008).   \n47. Svensson, M. et al. ONIOM: a multilayered integrated $\\mathbf { M O } + \\mathbf { M M }$ method for geometry optimizations and single point energy predictions. A test for diels −alder reactions and $\\mathrm { P t } ( \\mathrm { P } ( \\mathrm { t } \\mathrm { - } \\mathrm { B u } ) 3 ) 2 \\mathrm { ~ + ~ } \\mathrm { H } 2$ oxidative addition. J. Phys. Chem. 100, 19357–19363 (1996).   \n48. Lundberg, M., Kawatsu, T., Vreven, T., Frisch, M. J. & Morokuma, K. Transition states in a protein environment—ONIOM QM:MM modeling of isopenicillin N synthesis. J. Chem. Theory Comput. 5, 222–234 (2009).   \n49. Dapprich, S., Komáromi, I., Byun, K. S., Morokuma, K. & Frisch, M. J. A new ONIOM implementation in Gaussian98. Part I. The calculation of energies, gradients, vibrational frequencies and electric field derivatives1Dedicated to Professor Keiji Morokuma in celebration of his 65th birthday.1. J. Mol. Structure: THEOCHEM 461-462, 1–21 (1999).   \n50. Frisch, G. Gaussian 16 Rev. C.01 (Gaussian Inc., 2016).   \n51. Andrae, D., Haeussermann, U., Dolg, M., Stoll, H. & Preuss, H. Energyadjusted ab initio pseudopotentials for the second and third row transition elements. Theor. Chim. Acta 77, 123 (1990).   \n52. Weigend, F. & Ahlrichs, R. Balanced basis sets of split valence, triple zeta valence and quadruple zeta valence quality for H to Rn: design and assessment of accuracy. Phys. Chem. Chem. Phys. 7, 3297–3305 (2005).   \n53. Becke, A. D. A new mixing of Hartree-Fock and local density-functional theories. J. Chem. Phys. 98, 1372–1377 (1993).   \n54. Lee, C. T., Yang, W. T. & Parr, R. G. Development of the Colle-Salvetti correlation-energy formula into a functional of the electron density. Phys. Rev. B 37, 789 (1988).   \n55. Vosko, S. H., Wilk, L. & Nusair, M. Accurate spin-dependent electron liquid correlation energies for local spin density calculations: a critical analysis. Can. J. Phys. 58, 1200–1211 (1980).   \n56. Stephens, P. J., Devlin, F. J., Chabalowski, C. F. & Frisch, M. J. Ab initio calculation of vibrational absorption and circular dichroism spectra using density functional force fields. J. Phys. Chem. 98, 11623–11627 (1994).   \n57. Rappe, A. K., Casewit, C. J., Colwell, K. S., Goddard, W. A. & Skiff, W. M. UFF, a full periodic table force field for molecular mechanics and molecular dynamics simulations. J. Am. Chem. Soc. 114, 10024–10035 (1992).   \n58. Stewart, J. J. P. Optimization of parameters for semiempirical methods VI: more modifications to the NDDO approximations and re-optimization of parameters. J. Mol. Modeling 19, 1–32 (2013).   \n59. Mato, J. & Guidez, E. B. Accuracy of the PM6 and PM7 methods on bare and thiolate-protected gold nanoclusters. J. Phys. Chem. A 124, 2601–2615 (2020).   \n60. RStudio Team. RStudio: Integrated Development for R. RStudio (PBC, 2020). http://www.rstudio.com/. ",
+        "bbox": [
+            509,
+            824,
+            926,
+            924
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            47,
+            492,
+            934
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            63,
+            927,
+            817
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            833,
+            643,
+            845
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This research was supported by the project STIM-REI, Contract Number: KK.01.1.1.01.0003, funded by the European Union through the European Regional Development Fund—the Operational Programme Competitiveness and Cohesion 2014–2020 (KK.01.1.1.01). V.B.K., M.P.B., and H.F. acknowledge computational facilities of the HPC computer within the STIM-REI project, Doctoral study of Biophysics at University of Split as well as Prof. Miroslav Radman at MedILS and Split-Dalmatia County for support. M.G. acknowledge the French National Research Agency for the financial support (Grant Agreement ANR-18-CE29-0002-01 HyLOxi). We would also like to acknowledge the financial support received from the French-Croatian project “International Laboratory for Nano Clusters and Biological Aging, LIA NCBA”. The authors would like to thank Céline Brunon and Esther Jarrossay from Science et Surface (www.science-et-surface.fr) for XPS and FTIR spectra. ",
+        "bbox": [
+            509,
+            846,
+            927,
+            934
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            63,
+            487,
+            108
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Author contributions ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            124,
+            216,
+            136
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "R.A., V.B.-K., M.R., and A.K. conceived the initial idea and coordinated the work. F.B. synthesized and prepared the NCs, assisted with S.B. H.F. recorded and analyzed mass spectra. C.M. conducted nonlinear optics imaging, supervised by P.-F.B. and I.R.-A. M.P.B., Z.S.M., and V.B.-K. performed and analyzed the theoretical results. M.G. conducted proteomics-based MS protocols, measurements and analysis. G.F.C. developed gel strategies, assisted with R.L. and performed fluorescence measurements supervised by K.T. R.A., P.D., M.R., and V.B.-K. supervised and financed the project. R.A., G.F.C., K.T., and V.B.-K. wrote the paper. All authors provided critical feedback and helped to shape the final manuscript. ",
+        "bbox": [
+            72,
+            138,
+            490,
+            226
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Competing interests ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            242,
+            211,
+            254
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "The authors declare no competing interests ",
+        "bbox": [
+            70,
+            255,
+            280,
+            265
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Additional information ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            282,
+            228,
+            294
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Correspondence and requests for materials should be addressed to V.B.-K. or R.A. ",
+        "bbox": [
+            509,
+            61,
+            909,
+            72
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Reprints and permission information is available at http://www.nature.com/reprints ",
+        "bbox": [
+            507,
+            84,
+            919,
+            94
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Publisher’s note Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations. ",
+        "bbox": [
+            507,
+            103,
+            926,
+            125
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/ licenses/by/4.0/. ",
+        "bbox": [
+            584,
+            153,
+            926,
+            175
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            176,
+            926,
+            277
+        ],
+        "page_idx": 10
+    }
+]

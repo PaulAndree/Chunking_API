@@ -1,0 +1,652 @@
+[
+    {
+        "type": "text",
+        "text": "Involvement of DNA polymerase III in UV-induced mutagenesis of bacteriophage lambda ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            175,
+            846,
+            226
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anne Brotcorne-Lannoye1, Geneviève Maenhaut-Michel1, and Miroslav Radman2 1ool v  e, o  B nsu J. ono C..R. Univers ar Tour  , place uss,F7551 Pars Cedex 05, F ",
+        "bbox": [
+            76,
+            238,
+            854,
+            282
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. It has been proposed that the mutation fixation processes stimulated by SOS induction result from an induced infidelity of DNA replication (Radman 1974). The aim of this study was to determine if mutator mutations in the $E$ coli DNA polymerase III might affect UV-induced mutagenesis. ",
+        "bbox": [
+            76,
+            309,
+            486,
+            392
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Using a phage $\\lambda$ mutation assay which can discriminate between targeted and untargeted mutations, we show that the polC74 mutator mutation (Sevastopoulos and Glaser 1977) primarily affects untargeted mutagenesis, which occurs in a recA1 genetic background and is amplified in the $r e c A ^ { + }$ genetic background. The polC74 mutation also increases the UV-induced mutagenesis of the bacterial chromosome. These results suggest that DNA polymerase III is involved in the process of UV-induced mutagenesis in E. coli. ",
+        "bbox": [
+            78,
+            393,
+            484,
+            529
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            573,
+            160,
+            585
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ultraviolet light (UV), ionizing radiation and many chemicals cause mutations in $E$ coli and some of its phages via an inducible error-prone repair pathway which is a part of the SOS response (Defais et al. 1971; Radman 1974; Witkin 1976; Caillet-Fauquet et al. 1977). The SOS response is controlled by the recA and lexA genes (review Walker 1984). SOS induced bacterial mutagenesis and Weigle-reactivation of phage are specifically reduced by the umuC (Kato and Shinoura 1977; Walker and Dobson 1979) and uum (Steinborn 1978) mutations. The precise mechanism of SOS induced mutagenesis is not known, but it has been proposed that SOS induction results in a transient decrease in the fidelity of DNA replication (Radman 1974; Caillet-Fauquet et al. 1984). This would facilitate the bypass replication of DNA lesions and lead to the production of both targeted mutations at the site of initial DNA damage, and untargeted mutations at undamaged DNA sites (Caillet-Fauquet et al. 1977; Witkin and Wermundsen 1978). Sequencing data have supported the notions of these two types of mutation in bacterial DNA (Coulondre and Miller 1977) and in DNA phages (Brandenburger et al. 1981; LeClerc and Istock 1982; Wood and Hutchinson 1984; Wood et al. 1984). ",
+        "bbox": [
+            76,
+            592,
+            486,
+            907
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA polymerase III, which is the replication enzyme of the E. coli chromosome (Kornberg and Gefter 1971) and phage λ DNA (Skalka 1977) was proposed to be involved in the mutation fixation process during bacterial UV mutagenesis (Bridges et al. 1976). To determine if a DNA polymerase III  associated decrease in the fidelity of the replication machinery may alleviate the requirement for SOS induction in UV mutagenesis, we have studied the effect of a series of polC thermosensitive mutator mutations, isolated by Sevastopoulos and Glaser (1977), on UV induced mutagenesis of bacteriophage λ. The use of $\\lambda$ DNA as a probe for cellular mutagenic activity makes it possible to separate mutagenesis on undamaged DNA from mutagenesis on damaged DNA (Ichikawa-Ryo and Kondo 1975; Quillardet and Devoret 1982; Caillet-Fauquet et al. 1984; Maenhaut-Michel and Caillet-Fauquet 1984). ",
+        "bbox": [
+            75,
+            908,
+            484,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            309,
+            921,
+            501
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Our results show that the polC74 mutation increases untargeted mutagenesis even in a recA background, but has no significant effect on either survival or on targeted mutagenesis. It also increases UV induced mutagenesis of the bacterial chromosome. These results suggest that DNA polymerase III is involved, at least indirectly, in UV induced mutagenesis in $E _ { \\mathrm { { \\ell } } }$ coli. ",
+        "bbox": [
+            515,
+            504,
+            921,
+            600
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            622,
+            670,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Media. Standard liquid (TB1) and agar (TA12, TA7) media have been described by Kaiser (1955). Rich liquid medium $8 6 9 ^ { \\circ }$ contains: Bactotryptone $1 0 \\ \\mathrm { g / l }$ , yeast extract $5 \\ \\mathbf { g } / 1$ $\\mathrm { N a C l } ~ 5 ~ \\mathrm { g } / 1$ Rich solid medium was $\\ \" 8 6 9 \\ \"$ with $1 5 \\mathrm { g / l }$ agar. Minimal plate medium was 132 CERIA $( \\mathbf { K _ { 2 } H P O _ { 4 } } – 3 \\mathbf { H _ { 2 } O }$ $7 0 ~ \\mathbf g / 1$ . $( \\mathrm { N H } _ { 4 } ) _ { 2 } \\mathrm { S O } _ { 4 } 1 0 \\ \\mathrm { g } / 1 .$ . $\\mathrm { M g S O } _ { 4 } – 7 \\mathrm { H } _ { 2 } \\mathrm { O }$ $1 0 ~ \\mathrm { g / l }$ . $\\mathrm { C _ { 6 } H _ { 5 } N a _ { 3 } } ^ { - }$ $2 \\mathrm { H } _ { 2 } \\mathrm { O }$ $5 \\ \\mathbf { g } / 1$ $\\mathrm { { M n S O } _ { 4 } }$ $1 0 ^ { - 5 } \\mathbf { M }$ $\\mathrm { F e } ( \\mathrm { S O } _ { 4 } ) { - } 3 \\mathrm { H } _ { 2 } \\mathrm { O }$ $1 0 ^ { - 5 } \\mathbf { M }$ ,Vit B1 $1 0 \\mu \\mathrm { g } / 1 )$ , with $1 5 \\mathrm { g } / 1$ agar and supplemented with $1 \\%$ glucose, $1 0 ~ \\mu \\mathrm { g / m l }$ panthotenic acid and the required amino acid were added at the concentration of $4 0 ~ { \\mu \\mathrm { g / m l } }$ for plating efficiency, and $0 . 8 ~ \\mathrm { \\mu g / m l }$ for plating of $\\mathrm { H i s ^ { + } }$ revertants. Plates used for scoring valine resistant mutants contained $4 0 \\mu \\mathrm { g / m l }$ valine. Phages were suspended in SM Buffer: $0 . 0 1 \\mathrm { ~ M ~ }$ Tris HCl pH 7.4; 0.1 M NaCl, 0.01 M $\\bf { M g S O _ { 4 } }$ .Rifampicin resistant mutants were scored on $\" 8 6 9 \"$ rich agar plates containing $1 0 0 ~ \\mu \\mathrm { g / m l }$ rifampicin. ",
+        "bbox": [
+            515,
+            643,
+            923,
+            862
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phage strains. λcI857, $\\lambda { c } ^ { + }$ and AdpolC43 was received from Dr. M. Nomura. Stocks of λcI857 with low background of spontaneous $c$ mutants were made by heat induction of C600 lysogens. ",
+        "bbox": [
+            513,
+            876,
+            921,
+            929
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/86758ceba4dc658fdd08a0ed7b7fc3665c106515b48f629e5156d2026ad129ac.jpg",
+        "table_caption": [
+            "Table 1. Bacterial strains "
+        ],
+        "table_footnote": [
+            "T Ga C Table 2 "
+        ],
+        "bbox": [
+            70,
+            92,
+            923,
+            313
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4dc0afbb192c20c148e2073afe7a1e50bf1b80f3fad510f46fcdb18763da700d.jpg",
+        "table_caption": [
+            "Table 2. Frequencies of spontaneous and UV induced $\\lambda$ clearplaque mutants in various $E$ coli polCts mutator mutants "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            71,
+            408,
+            484,
+            676
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "a Allele number of polC mutations corresponds to the last two numbers of dna alleles in Sevastopoulos and Glaser (1977) ",
+        "bbox": [
+            73,
+            682,
+            483,
+            708
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "b UV dose of $7 0 ~ \\mathrm { J } / \\mathrm { m } 2$ used in this preliminary comparative study (a single experiment performed on the same day) is below the dose giving peak mutation frequency (see Fig. 1A), hence an apparently small effect of the recA mutation (compare with Fig. 1 A, B) ",
+        "bbox": [
+            75,
+            708,
+            481,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/f5da5a24ba2bf15d57559c295282974e484b2ce6a6cb931e7dc7b50769829a9a.jpg",
+        "table_caption": [
+            "Table 3. Effects of the polC74 and recA1 mutations on spontaneous mutation frequencies of $\\lambda$ phage and $E$ coli bacteria "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            71,
+            815,
+            483,
+            959
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mapping of dnats mutations in dnaE (polC) gene. dnats mutations from SG strains are situated in or near the dnaE locus (Sevastopoulos and Glaser 1977); mutants listed in Table 2 were complemented by the λdpolC43 (Shizuya et al. 1974) phage carrying the $p o l C ^ { + }$ gene (not shown). It is unlikely that any of these dnats mutants maps in the dnaQ gene since AdpolC43 does not complement a metD mutation and the gene order is dnaE, metD, dnaQ (Scheuermann et al. 1983). Therefore it is likely that all mutants tested map in the dnaE (polC) gene. ",
+        "bbox": [
+            513,
+            379,
+            921,
+            517
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Complementation test for polC function. Individual drops of a mixed suspension containing AdpolC43 and $\\lambda { c } ^ { + }$ were spotted on a plate seeded with a fresh overnight culture of the strain to be tested. When rich medium plates are incubated for two days at $4 2 ^ { \\circ } \\mathrm { C }$ , confluent colonies with complemented dnats mutation grow in the phage drop. ",
+        "bbox": [
+            511,
+            526,
+            921,
+            608
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Measurements of bacterial mutation frequencies. To determine the frequencies of spontaneous mutations, single colonies from fresh plate were inoculated in $\\ \" 8 6 9 \\ \"$ broth and grown overnight at $3 2 ^ { \\circ } \\mathrm { C }$ Bacteria were harvested by centrifugation and washed twice with $0 . 0 1 \\mathrm { ~ M ~ M ~ g S O _ { 4 } }$ Appropriate dilutions for wild type bacteria and for mutants were plated on appropriate plates. Rich medium plates were incubated two days at $3 2 ^ { \\circ } \\mathrm { C }$ and minimal medium plates were incubated three days at $3 2 ^ { \\circ } \\mathrm { C }$ before being counted. Mutation frequencies were calculated by dividing the number of mutants $/ \\mathrm { m l }$ by the number of viable cells $/ \\mathbf { m l }$ The mutation frequencies (Table 3) are the mean values obtained with three independent cultures of each strain. To determine the frequency of UV induced rifampicin resistant mutants, single colonies from fresh plates were inoculated in $\" 8 6 9 \"$ broth, grown overnight at $3 2 ^ { \\circ } \\mathrm { C } _ { : }$ , diluted 50-fold in the same medium and incubated up to $3 \\cdot 1 0 ^ { 8 }$ bact/ml, harvested by centrifugation, resuspended in 0.01 M $\\mathrm { M g S O _ { 4 } }$ , and UV irradiated as described (Defais et al. 1971). Irradiated cells were harvested by centrifugation and resuspended in $\" 8 6 9 \"$ broth. These suspensions were used to inoculate cultures with similar numbers of surviving cells, which were incubated overnight and then plated to determine the frequency of rifampicin resistant mutants (see above). Fig. 5 represents an average of three experiments. ",
+        "bbox": [
+            511,
+            619,
+            919,
+            959
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV irradiation and measure of $\\lambda$ clear-plaque mutation frequency. Both were done as previously described (Defais et al. 1971) with some modifications: (i) $p o l C ^ { + }$ and polCts host bacteria were grown at $3 2 ^ { \\circ } \\mathrm { C }$ prior to phage absorption. (ii) the plates were incubated at $3 2 ^ { \\circ } \\mathrm { C }$ and (ii) JC3890 was used as indicator strain. The results are an average of at least three experiments. ",
+        "bbox": [
+            76,
+            72,
+            486,
+            170
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            194,
+            127,
+            207
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Effect of different thermosensitive mutations in the polC gene on UV induced mutagenesis of λ phage ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            221,
+            451,
+            249
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the role of the replication fidelity in UV induced mutagenesis, we have analysed the effect of different $E .$ coli mutator mutations, isolated by Sevastopoulos and Glaser (1977), mapping in the polC (dnaE) gene (see Methods), on UV induced mutagenesis. A series of $E .$ coli polCts mutator mutants, grown at $3 2 ^ { \\circ } C$ were infected with unirradiated or UV-irradiated $\\lambda$ phages and the progeny phages were analysed to measure separately any effect of polCts mutations on mutagenesis occuring on undamaged DNA (untargeted mutagenesis) and damaged DNA (both targeted and untargeted mutagenesis). The advantages of the forward mutation system $c ^ { + } {  } c$ in particular the use of the thermosensitive cI857 mutation to measure both targeted and untargeted induced mutagenesis, have been described elsewhere (Caillet-Fauquet et al. 1984; MaenhautMichel and Caillet-Fauquet 1984). All the polCts mutants tested revealed an increase in UV induced untargeted mutagenesis but only some of them increased mutagenesis of irradiated phage (Table 2). We have decided to analyse in detail the effect of the polC74 mutation which was found, in a preliminary test, to affect mutagenesis of both irradiated and unirradiated phages. ",
+        "bbox": [
+            76,
+            256,
+            484,
+            560
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2. Effect of the polC74 mutation on the spontaneous mutagenesis in E. coli and phage λ ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            582,
+            441,
+            610
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The thermosensitive polC74 mutant has a mutator phenotype at $3 2 ^ { \\circ } \\mathrm { C }$ and a reduced rate of DNA synthesis at $4 2 ^ { \\circ } \\mathrm { C }$ (Sevastopoulos and Glaser 1977). The spontaneous mutation frequency of both bacteria and phage $\\lambda$ was increased in the polC74 mutant grown at $3 2 ^ { \\circ } \\mathrm { \\bf C }$ compared with the parental $p o l C ^ { + }$ strain (Table 3). The differences observed in the extent of the mutator effect of the polC74 mutation in the $\\lambda c I 8 5 7 {  } \\lambda c$ mutation assay and on the three bacterial mutation sites studied may reflect a mutational specificity of the modified polymerase III. the polC74 mutation caused a similar increase in spontaneous mutation frequencies in $r e c A ^ { - }$ and $r e c A ^ { + }$ backgrounds (Table 3). ",
+        "bbox": [
+            76,
+            616,
+            484,
+            780
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. Effect of the polC74 mutation on untargeted mutagenesis of phage λ induced by UV-irradiation of the host ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            802,
+            484,
+            829
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The phage $\\lambda$ clear-plaque mutation assay allows morphological distinction between the infective centers resulting from pure bursts of clear-plaque mutants and those resulting from mixed bursts $( c \\bar { / } c ^ { + } ) \\bar { }$ containing both turbid wild type $c ^ { + }$ and clear-plaque mutant phage $c$ (Caillet-Fauquet et al. 1984). It has been shown that irradiation of bacteria alone produces mixed bursts $( c / c ^ { + } )$ whereas pure mutant bursts $( c )$ are produced when phage genomes are irradiated as well (Ichikawa-Ryo and Kondo 1975; Quillardet and ",
+        "bbox": [
+            76,
+            835,
+            483,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/12ba4e7bbbd886755919c05f98d96df463c6d00218cc0add1e1298f3050c907e.jpg",
+        "image_caption": [
+            "Fig. 1A, B. Frequency of $\\lambda$ clear-plaque mutants induced by UV irradiation of host bacteria. A Wild type po $C ^ { + }$ $( \\mathrm { P C } 1 0 )$ $\\left( \\triangle { \\longrightarrow } \\triangle \\right)$ polC74 mutant (PC74) (0—0), B recA1 polC $^ +$ (PCR10) $( \\mathbf { \\triangle } - \\mathbf { \\_ { \\delta } } )$ recA1 polC74 (PCR74) $( \\bullet - \\bullet )$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            515,
+            77,
+            856,
+            289
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Devoret 1982; Caillet-Fauquet et al. 1984; Maenhaut-Michel and Caillet-Fauquet 1984). Figure 1A shows that the polC74 mutant produces higher untargeted mutagenesis than the isogenic $p o l C ^ { + }$ strain, the induced mutants appearing only as mixed plaques $c / c ^ { + }$ . The possibility that the increased frequency of mixed bursts is due to increase in $\\lambda$ replication cycle was discounted for the following reasons. It has been demonstrated that UV irradiation of host bacteria decreases $\\lambda$ burst size, particularly at high UV doses (Jacob 1954; Caillet-Fauquet and Defais 1977). The same result was obtained with the polC74 and $p o l C ^ { + }$ strains (not shown). Morever the yield of phages produced in unirradiated and UV irradiated polC74 mutant is lower than that found with the $p o l C ^ { + }$ strain whereas the plating efficiency is identical with the two strains (data not shown). ",
+        "bbox": [
+            515,
+            368,
+            921,
+            574
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As expected (Ichikawa-Ryo and Kondo 1975; CailletFauquet et al. 1984), untargeted mutagenesis of $\\lambda$ phage is suppressed by the recA1 mutation in the $p o l C ^ { + }$ strain (Fig. 1B). But, surprisingly, the double mutant polC74 recA1 was found to be proficient in untargeted mutagenesis (Fig. 1 B), the extent of mutagenesis being higher than in the polC\\* recA+ wild type strain and, at low UV doses $( 5 0 ~ \\mathrm { { J / m } } ^ { 2 } )$ , even higher than that observed in the single $p o l C 7 4 ~ r e c A ^ { + }$ mutant. However, at high UV doses $( 1 0 0 ~ \\mathrm { J } / $ $\\mathfrak { m } ^ { 2 \\cdot }$ the frequency of induced mutations is lower in the double mutant polC74 recA1 than in the single polC74 $r e c A ^ { + }$ mutant (Fig. 1). Therefore it appears that the polC74 mutation alleviates, at least partially, the necessity for the recA gene product in untargeted mutagenesis. The higher mutation frequency observed at low UV doses in the polC74 recA1 strain, relative to the $r e c A ^ { + }$ parent, may be due to the absence of the $r e c A ^ { + }$ dependent post-replication repair, such that more of unrepaired mutation-inducing lesions persist in the DNA of the E. coli recA mutant. ",
+        "bbox": [
+            515,
+            575,
+            923,
+            835
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "4. Effect of the polC74 mutation on survival and mutagenesis of UV-irradiated λ phage ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            857,
+            921,
+            884
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We have tested the effect of the polC74 mutation on survival and mutagenesis of UV-irradiated λcI857 phage grown in an unirradiated or UV-irradiated host. The polC74 mutation has no effect on the survival of irradiated $\\lambda$ phage grown in either unirradiated or UV-irradiated $r e c ^ { + }$ or recA hosts (not shown). Similar to unirradiated phage, mutagenesis of irradiated phage is higher in the polC74 mutant than in the $p o l C ^ { + }$ parent (Fig. 2A). This increase is largely caused by a higher incidence of mixed bursts (Fig. 3). In contrast the frequencies of pure bursts are similar in $p o l C ^ { + }$ and polC74 bacteria. ",
+        "bbox": [
+            515,
+            890,
+            921,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/327f5cb6fb861a066b13ea0278e110b6f0520df1e0166e61ba83463a2a2b0551.jpg",
+        "image_caption": [
+            "Fig. 4A, B. Frequency of $\\lambda$ clear-plaque mutants induced by UV irradiation of phage $\\lambda$ grown in: A UV irradiated $( 7 0 \\mathrm { ~ J } / \\mathrm { m } ^ { 2 } )$ recA1 $p o l C ^ { + }$ (PCR10) single mutant or recA1 polC74 (PCR74) double mutant, $\\mathbf { B }$ unirradiated recA1 $p o l C ^ { + }$ (PCR10) single mutant or recA1 polC74 (PCR74) double mutant "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            510,
+            71,
+            769,
+            329
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/7c7472790df2229dd355c9070df1ea1a92d8d18281a1cb50bdb5c67a0ceab985.jpg",
+        "image_caption": [
+            "Fig. 2A, B. Frequency of $\\lambda$ clear-plaque mutants induced by UV irradiation of phage $\\lambda$ grown in: A irradiated $p o l C ^ { + }$ or polC74 mutant host $( \\bar { 1 0 0 } \\mathrm { J } / \\mathrm { m } ^ { 2 } )$ , $\\mathbf { B }$ unirradiated $p o l C ^ { + }$ or polC74 mutant host "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            75,
+            295,
+            495
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/3760dffff3932886634002db31453d8f1592036d63c9013637b16eb5325036ec.jpg",
+        "image_caption": [
+            "Fig. 3. Frequency of $\\lambda$ pure (closed column) and mixed (open column) clear-plaque mutants induced by UV irradiation of phage $\\lambda$ grown in UV irradiated $( 1 0 0 \\mathrm { J / m } ^ { 2 } )$ polC\\* or polC74 host "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            71,
+            611,
+            346,
+            918
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/401586ccdeb31c49838f7628c90b90fba4da5f7573477ec04f3d82ccf12c0fbd.jpg",
+        "image_caption": [
+            "Fig. 5. Frequency of rifampicine resistant mutants induced by UV irradiation of bacteria: wild type $p o l C ^ { + }$ (PC10) $\\left( \\underset { \\mathbf { A } } { \\underbrace { \\mathbf { A } \\longrightarrow \\mathbf { A } } } \\right)$ polC74 (PC74) mutant $( \\bullet - \\bullet )$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            513,
+            420,
+            767,
+            816
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            880,
+            919,
+            963
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The recA1 mutation largely reduces UV induced mutagenesis of irradiated phages both in $p o l C ^ { + }$ and polC74 background (Fig. 4). However, as observed for unirradiated phage, more UV induced mutagenesis is produced in the recA1 polC74 mutant than in the recA1 polC+ mutant. ",
+        "bbox": [
+            75,
+            72,
+            483,
+            141
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To test for possible activation of the RecA1 mutant protein in the recA1 polC74 double mutant, the amount of the RecA1 protein was measured using the highly sensitive immunoradiometric (IRMA) assay for the RecA protein (Salles and Paoletti 1983). The RecA1 protein was readily detected: there was no amplification in the double mutant (Salles B, Calsou P, Brotcorne-Lannoye A, not shown) suggesting that the recA1 gene is not noticeably leaky for its SOS inducing function. ",
+        "bbox": [
+            76,
+            141,
+            483,
+            267
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Effect of the polC74 mutation of UV induced mutagenesis of the bacterial chromosome ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            287,
+            483,
+            315
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have analysed the effect of the polC74 mutation on the UV induced production of rifampicin resistant mutants. Figure 5 shows that a larger increase in mutation frequency is observed in the polC74 mutant than in the $p o l C ^ { + }$ strain, particularly at low UV doses. Therefore it appears that the polC74 mutation also increases the number of UV induced mutations in the bacterial DNA (a complete analysis of UV induced mutagenesis of the bacterial chromosome will be published elsewhere). ",
+        "bbox": [
+            76,
+            323,
+            483,
+            448
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Discussion ",
+        "text_level": 1,
+        "bbox": [
+            76,
+            472,
+            148,
+            485
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our intention was to see whether any decrease in the fidelity of DNA replication might alleviate the requirement for SOS induction in UV mutagenesis. By studying polCts mutator mutants affecting the DNA polymerase III, we were able to examine the role of DNA polymerase III and its fidelity in UV mutagenesis. All of the polCts mutator mutants tested were found to affect mutagenesis of phage $\\lambda$ by UV light (Table 2). Moreover, all three mutator mutations tested, including the polC74, increased the UV induced mutagenesis of the bacterial chromosome by an order of magnitude (Fig. 5 and data not shown). ",
+        "bbox": [
+            76,
+            491,
+            486,
+            644
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We have analysed in detail the effect of the polC74 mutator mutation on UV induced mutagenesis of phage $\\lambda$ in a $r e c A ^ { + }$ and a recA background. In the presence of the $p o l C 7 4$ mutation UV produces higher mutation frequencies in both irradiated and unirradiated phage $\\lambda$ than it does in the isogenic $p o l C ^ { + }$ strain (Figs. 1 and 2). This increase is most pronounced in unirradiated phages (Fig. 2) and appears to be due exclusively to increased production of mixed $( c / c ^ { + } )$ bursts (Fig. 3). UV induced $\\lambda$ phage mutagenesis was observed also in a polC74 recA double mutant (Fig. 4). The survival of irradiated phages, as well as the production of pure $\\lambda$ clear mutant bursts which requires irradiation of the target DNA and the umuC gene product (Wood et al. 1984; Maenhaut-Michel and Caillet-Fauquet 1984), are not affected by the polC74 mutation (Fig. 3). These results, together with the fact that the UV induced mutagenesis of the bacterial chromosome is also increased in the polC74 mutant (Fig. 5), indicate an interaction between the polC74 mutant DNA polymerase III and some cellular effect of UV irradiation. The fact that the polC74 mutation strongly affects the untargeted but not the targeted mutagenesis suggests that the mechanisms of the two mutational events are different. Different genetic requirements have been found for the untargeted and targeted mutagenesis (Ichikawa-Ryo and Kondo 1975; Maenhaut-Michel and CailletFauquet 1984). It has been proposed that the mixed bursts reflect genuine replication errors since their frequency is decreased by the post-replicative mismatch repair system (Caillet-Fauquet and Maenhaut-Michel 1982; Caillet-Fauquet et al. 1984). Therefore, the effect of the polC74 mutation appears to occur at the level of UV stimulated replication errors. ",
+        "bbox": [
+            76,
+            644,
+            486,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            72,
+            921,
+            197
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The polC74 mutation partially compensates the defect in UV mutagenesis caused by the recA1 mutation. The absence of detectable amplification of the RecA1 protein in the recA1 polC74 double mutant argues against the RecA1- activation due to a possible leakiness of the recA1 mutation (results not shown). The RecA protein was shown to have two different roles in UV induced mutagenesis: one is to inactivate the LexA repressor and thus to induce the umuCD functions (Walker 1984) and the other (which is required even in the presence of the UmuCD proteins) is involved directly or indirectly in the mutation fixation process (Witkin and Kogoma 1984). It was suggested recently that the umuC function may be required only for elongation of DNA synthesis past non-coding DNA lesions (Defais 1983; Maenhaut-Michel and Caillet-Fauquet 1984; Bridges and Woodgate 1984). Untargeted mutagenesis (MaenhautMichel and Caillet-Fauquet 1984; Defais 1983) as well as the misincorporation step in targeted mutagenesis (Bridges and Woodgate 1984) appear not to require the umuC function and are probably associated with DNA polymerase activity. ",
+        "bbox": [
+            515,
+            198,
+            921,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The polC74 mutator mutation apparently compensates for only one of the two requirements for the RecA protein in UV mutagenesis, probably the misincorporation step which is umuC-independent. Since phage survival and the production of pure mutant burst are not increased in the polC74 recA mutant, it appears that the mutator effect of the polC74 mutation is not sufficient by itself to allow mutagenic translesion synthesis. ",
+        "bbox": [
+            515,
+            490,
+            921,
+            600
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, our work suggests that DNA polymerase III, and its fidelity, is involved, directly or indirectly, in UV-induced mutagenesis in $E ,$ coli by affecting predominantly the untargeted mutagenesis. ",
+        "bbox": [
+            513,
+            601,
+            921,
+            656
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements. We thank Dr. D.A. Glaser for E. coli polCts mutants, Dr. M. Nomura for λ polC43, Dr. P. Caillet-Fauquet for her collaboration and Dr. R. Wagner for reviewing the manuscript. We are grateful to B. Salles and P. Calsou (Laboratoire de Pharmacologie et Toxicologie Fondamentales, C.N.R.S., Toulouse) for titration of the RecA1 protein. ",
+        "bbox": [
+            515,
+            670,
+            921,
+            743
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.B-L. was holding an I.R.S.I.A. fellowship. This work was supported by the \"Fonds de la Recherche Fondamentale Collective\" $( \\mathfrak { n } ^ { \\circ } ~ 2 . 4 5 0 7 . 8 0 )$ and by a contract with the Commission of European Communities (BIO/E/420 B). ",
+        "bbox": [
+            515,
+            745,
+            921,
+            793
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            515,
+            828,
+            588,
+            840
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Brandenburger A, Godson GN, Radman M, Glickman BW, van Sluis CA, Doubleday OP (1981) Radiation-induced base substitution mutagenesis in single stranded phage M13. Nature 294:180182   \nBridges BA, Mottershead RP, Sedgwick SG (1976) Mutagenic DNA repair in E. coli. III. Requirement for a function of DNA polymerase III in ultraviolet light mutagenesis. Mol Gen Genet 144:5358   \nBridges BA, Woodgate R (1984) Mutagenic repair in E. coli. X. The umuC gene product may be required for replication past pyrimidine dimers but not for the coding error in UV-mutagenesis. Mol Gen Genet 196:364366   \nCaillet-Fauquet P, Defais M (1977) Phage yield during W-reactivation of bacteriophage λ. Mutat Res 45 : 161167   \nCaillet-Fauquet P, Defais M, Radman M (1977) Molecular mechanisms of induced mutagenesis. Replication in vivo of bacteriophage $\\phi \\mathbf { X } 1 7 4$ single-stranded, ultraviolet light-irradiated DNA in intact and irradiated host cells. J Mol Biol 117:95112   \nCaillet-Fauquet P, Maenhaut-Michel G (1982) Increased detection of SOS mutator effect in $E$ coli mutants deficient in mismatch correction. Biochimie 64:661663   \nCaillet-Fauquet P, Maenhaut-Michel G, Radman M (1984) SOS mutator effect in $E$ coli mutants deficient in mismatch correction. EMBO J 3:707712   \nCoulondre C, Miller JH (1977) Genetic studies of the lac repressor. IV.Mutagen specificity in the acl gene  E. col. JMol Biol 117:577606   \nDefais M (1983) Role of the E. coli umuC gene product in the repair of single-stranded DNA phage. Mol Gen Genet 192: 509511   \nDefais M, Fauquet P, Radman M, Errera M (1971) Ultraviolet reactivation and ultraviolet mutagenesis of $\\lambda$ in different genetic systems. Virology 43:495503   \nHoward-Flanders P, Boyce RP (1966) DNA repair and genetic recombination: studies on mutants of $E$ coli defective in these processes. Radiat Res (Suppl) 6:156184   \nIchikawa-Ryo H, Kondo S (1975) Indirect mutagenesis in phage λ by ultraviolet preirradiation of host bacteria. J Mol Biol 97:77-92   \nJacob F (1954) Mutation d'un bactériophage induite par l'irradiation des seules bacteries hotes avant l'infection. CR Acad Sci Paris 238 : 732734   \nKaiser AD (55) A genetic stuyof the temperate coliphage. Virology 1 :424443   \nKato T, Rothman RH, Clark AJ (1977) Analysis of the role of recombination and repair in mutagenesis of $E .$ coli by UV irradiation. Genetics 87:118   \nKato T, Shinoura Y (1977) Isolation and characterization of mutants of E. coli deficient in induction of mutations by UV light. Mol Gen Genet 156:121131   \nKornberg T, Gefter ML (1971) A second polymerase activity distinct from polymerases I and II has been observed in PolA1 extracts; its properties are described. Proc Natl Acad Sci USA 68 : 761764   \nLeClerc JE, Istock NL (1982) Specificity of UV mutagenesis in the lac promoter of M13 lac hybride phage DNA. Nature 297 : 596-598   \nMaenhaut-Michel G, Caillet-Fauquet P (1984) The effect of umuC mutations on targeted and untargeted ultraviolet mutagenesis in bacteriophage λ. J Mol Biol 177:181187   \nQuillardet P, Devoret R (1982) Damaged-site independent mutagenesis of phage λ produced by inducible error-prone repair. Biochimie 64 : 789-796   \nRadman M (1974) Phenomenology of an inducible mutagenic DNA repair pathway in E. coli SOS repair hypothesis. In : Prakash L, Sherman F, Miller MW, Lawrence CW, Taber HW (eds) Molecular and environmental aspects of mutagenesis. 6th Rochester Conference on Environmental Toxicity, C.C. Thomas, Springfield II, USA, pp 128142   \nSalles B, Paoletti C (1983) Control of UV induction of RecA protein. Proc Natl Acad Sci USA 80:6569   \nScheuermann R, Schuman T, Burgers PMJ, Lu C, Echols M (1983) Identification of the $\\varepsilon$ -subunit of E. coli DNA polymerase III holoenzyme as the dnaQ gene product: a fidelity subunit for DNA replication. Proc Natl Acad Sci USA 80: 7085-7089   \nSevastopoulos CG, Glaser DA (1977) Mutator action by E. coli strains carrying dnaE mutations. Proc Natl Acad Sci USA 74 :39473950   \nShizuya H, Livingston DM, Richardson C (1974) Isolation of a specialized transducing bacteriophage lambda carrying the polC locus of E. coli. Proc Natl Acad Sci USA 71:26142617   \nSkalka AM (1977) DNA replication  Bacteriophage λ. Curr Top Microbiol Immunol 78 :201237   \nSteinborn G (1978) Uvm mutants of E. coli K12 deficient in UV mutagenesis. I. Isolation of uvm mutants and their phenotypical characterization in DNA repair and mutagenesis. Mol Gen Genet 165:8793   \nWalker GC (1984) Mutagenesis and inducible responses to deoxyribonucleic acid damage in E. coli. Microbiol Rev 48 : 6093   \nWalker GC, Dobson PP (1979) Mutagenesis and repair deficiencies of E. coli umuC mutants are suppressed by the plasmid pKM101. Mol Gen Genet 172:1724   \nWitkin EM (1976) Ultraviolet mutagenesis and inducible DNA repair in E. coli. Bacteriol Rev 40:869967   \nWitkin EM, Kogoma T (1984) Involvement of the activated form of RecA protein in SOS mutagenesis and stable DNA replication in E. coli. Proc Natl Acad Sci USA 81 : 75397543   \nWitkin EM, Wermundsen IE (1978) Targeted and untargeted mutagenesis by various inducers of SOS functions in E. coli. Cold Spring Harbor Symp Quant Biol 43:881886   \nWood RD, Hutchinson F (1984) Non-targeted mutagenesis of unirradiated A phage in E. coli host cells irradiated with U.V. light. J Mol Biol 173:293305   \nWood RD, Skopek TR, Hutchinson F (1984) Changes in DNA base sequence induced by targeted mutagenesis of λ phage by ultraviolet light. J Mol Biol 173 :273291 ",
+        "bbox": [
+            515,
+            848,
+            923,
+            957
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            71,
+            483,
+            713
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            72,
+            921,
+            652
+        ],
+        "page_idx": 5
+    }
+]

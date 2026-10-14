@@ -1,0 +1,443 @@
+[
+    {
+        "type": "text",
+        "text": "Ecuación de movimiento ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            98,
+            515,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En física, una ecuación de movimiento es la formulación matemática que define la evolución temporal de un sistema físico en el espacio. Esta ecuación relaciona la derivada temporal de una o varias variables que caracterizan el estado físico del sistema, con otras magnitudes físicas que provocan los cambios en este. ",
+        "bbox": [
+            70,
+            140,
+            578,
+            252
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En la dinámica del punto material, la ecuación de movimiento determina la posición futura de un objeto o partícula móvil en función de otras variables como, su velocidad, su aceleración, su masa y cuantas variables le puedan afectar en su movimiento junto con las condiciones iniciales. En otras áreas de la física como la mecánica de los medios continuos o la teoría de campos se habla de ecuación de movimiento en general para describir las ecuaciones de evolución o variación temporal del sistema. ",
+        "bbox": [
+            70,
+            268,
+            583,
+            362
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/4e5e89b4fd40d091cced243d97b6a33d4895fcfebb361145946051e0c48b9c93.jpg",
+        "image_caption": [
+            "Ejemplo de ecuación de movimiento. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            147,
+            924,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            364,
+            927,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ecuaciones de movimiento en mecánica clásica ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            435,
+            675,
+            459
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Históricamente el primer ejemplo de ecuación del movimiento que se introdujo en física fue la segunda ley de Newton para sistemas físicos compuestos de agregados partículas materiales puntuales. En estos sistemas el estado dinámico de un sistema quedaba fijado por la posición y velocidad de todas las partículas en un instante dado. Hacia finales del siglo x v iii se introdujo la mecánica analítica o racional, como generalización de las leyes de Newton aplicables a sistemas de referencia inerciales. Se concibieron dos enfoques básicamente equivalentes conocidos como mecánica lagrangiana y mecánica hamiltoniana, que pueden llegar a un elevado grado de abstracción y formalización en ecuaciones diferenciales. ",
+        "bbox": [
+            70,
+            476,
+            932,
+            608
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sistemas discretos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            636,
+            289,
+            656
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Un sistema discreto de partículas o de sólidos rígidos tiene un número finito de grados de libertad. Los ejemplos clásicos de ecuación del movimiento más conocidos son: ",
+        "bbox": [
+            70,
+            663,
+            931,
+            701
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. La segunda ley de Newton que se usa en mecánica newtoniana: $m { \\frac { d ^ { 2 } \\mathbf { r } } { d t ^ { 2 } } } - \\mathbf { F } = 0$ ",
+        "bbox": [
+            75,
+            718,
+            833,
+            757
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Las ecuaciones de Euler-Lagrange que aparecen en mecánica lagrangiana: $\\frac { d } { d t } \\left( \\frac { \\partial L ( q _ { i } , \\dot { q } _ { i } ) } { \\partial \\dot { q } _ { i } } \\right) - \\frac { \\partial L ( q _ { i } , \\dot { q } _ { i } ) } { \\partial q _ { i } } = 0$ ",
+        "bbox": [
+            78,
+            758,
+            931,
+            818
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. Las ecuaciones de Hamilton que aparecen en mecánica hamiltoniana: ${ \\frac { d q _ { i } } { d t } } = { \\frac { \\partial H ( p _ { i } , q _ { i } ) } { \\partial p _ { i } } } \\qquad { \\frac { d p _ { i } } { d t } } = - { \\frac { \\partial H ( p _ { i } , q _ { i } ) } { \\partial q _ { i } } }$ ",
+        "bbox": [
+            80,
+            820,
+            931,
+            878
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sistemas continuos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            43,
+            297,
+            62
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "{{ap|Mecánica de evolución temporal que involucran ecuaciones diferenciales en derivadas parciales. ",
+        "bbox": [
+            72,
+            72,
+            895,
+            89
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ecuaciones de movimiento en teoría de la relatividad ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            124,
+            756,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la teoría de la relatividad existen dos tipos de entidades físicas, las partículas y los campos. Aunque en última instancia, tal como establece la teoría cuántica de campos, las partículas son campos materiales altamente localizados, en teoría de la relatividad se pueden tratar las partículas como entes físicos localizados en el espacio-tiempo. La distinción entre estos tipos de entidades físicas hace que en teoría de la relatividad existan dos tipos de ecuaciones de movimiento: ",
+        "bbox": [
+            70,
+            163,
+            931,
+            258
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Las ecuaciones de movimiento de las partículas materiales, que son la generalización relativista de las ecuaciones de la mecánica clásica. 2. Las ecuaciones de \"movimiento\" o evolución temporal de los campos físicos. ",
+        "bbox": [
+            77,
+            274,
+            932,
+            328
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ecuaciones de movimiento de partículas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            356,
+            529,
+            377
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El análogo de la primera ley de Newton en teoría de la teoría de la relatividad postula que cuando sobre las partículas no actúa ninguna fuerza estas se mueven a lo largo de las geodésicas del espacio-tiempo, es decir, sobre las líneas más \"rectas\" posibles o de curvatura mínima. Cuando sobre las partículas actúa alguna fuerza, la ecuación del movimiento en términos de tiempo propio de la partícula, los símbolos de Christoffel dependientes de la curvatura del espacio tiempo, y la fuerza total sobre la partícula viene dada por: ",
+        "bbox": [
+            68,
+            384,
+            932,
+            497
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/8372666e41573cdb17842cf415274cc27b653f59b91d0b63361f64c555bc544b.jpg",
+        "text": "$$\nm \\frac { \\partial ^ { 2 } x ^ { k } } { \\partial \\tau ^ { 2 } } + m \\sum _ { i , j = 0 } ^ { 3 } \\Gamma _ { i j } ^ { k } \\frac { \\partial x ^ { i } } { \\partial \\tau } \\frac { \\partial x ^ { j } } { \\partial \\tau } = F ^ { k }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            529,
+            447,
+            579
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Para una partícula moviéndose a través de un espacio-tiempo plano $( \\Gamma _ { i j } ^ { k } = 0 )$ ), con velocidad pequeña respecto a la de la luz $( \\tau \\approx t )$ la anterior ecuación se reduce a la segunda ley de Newton. ",
+        "bbox": [
+            70,
+            611,
+            931,
+            654
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ecuaciones de movimiento en teoría clásica de campos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            681,
+            697,
+            703
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Los sistemas físicos formados por un conjunto de partículas interactuantes de la mecánica clásica y los sistemas físicos de partículas relativistas sin interacción, son sistemas con un número finito de grados de libertad, cuyas ecuaciones de movimiento vienen dadas por ecuaciones diferenciales ordinarias como todos los ejemplos anteriores. Sin embargo, los campos físicos además de evolución temporal o variación en el tiempo, presentan variación en el espacio. Esa característica hace que los campos físicos se consideren informalmente como sistemas con un número infinito de grados de libertad. Las peculiaridades de los campos hacen que sus ecuaciones de \"movimiento\" o evolución temporal vengan dadas por ecuaciones en derivadas parciales en lugar de ecuaciones diferenciales ordinarias. ",
+        "bbox": [
+            70,
+            711,
+            931,
+            862
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El campo físico más importante en el contexto de la teoría de la Relatividad Especial es el campo electromagnético, cuyas ecuaciones de evolución temporal vienen dadas por las ecuaciones de Maxwell. Estas ecuaciones pueden escribirse de diversas maneras y de diversas notaciones, aunque en el contexto de la teoría de la relatividad conviene escribirlas en forma explícitamente covariante en términos del tensor campo electromagnético $F ^ { \\alpha \\beta }$ . En esa forma, las ecuaciones se reducen a dos ecuaciones de la forma (unidades cgs): ",
+        "bbox": [
+            70,
+            877,
+            931,
+            933
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            42,
+            931,
+            100
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f52e808372de4a6e9d39b5227bca860dcaeea0a349869b473a3cd3d25cde1377.jpg",
+        "text": "$$\n\\frac { \\partial F ^ { \\alpha \\beta } } { \\partial x ^ { \\alpha } } = \\frac { 4 \\pi } { c } J ^ { \\beta } \\qquad \\frac { \\partial F _ { \\alpha \\beta } } { \\partial x ^ { \\gamma } } + \\frac { \\partial F _ { \\gamma \\alpha } } { \\partial x ^ { \\beta } } + \\frac { \\partial F _ { \\beta \\gamma } } { \\partial x ^ { \\alpha } } = \\epsilon _ { \\mu \\beta \\gamma } g ^ { \\alpha \\mu } \\frac { \\partial F ^ { \\beta \\gamma } } { \\partial x ^ { \\alpha } } = 0\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            130,
+            719,
+            173
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Donde se ha usado el convenio de sumación de Einstein, $J ^ { \\beta }$ son las componentes del cuadrivector densidad de corriente. En esas ecuaciones aparecen las coordenadas $( x ^ { 0 } , x ^ { 1 } , x ^ { 2 } , x ^ { 3 } ) = ( c t , x , y , z )$ (donde $c$ es la velocidad de la luz, t el tiempo, y $( x , y , z )$ son las coordenadas cartesianas convencionales del espacio tridimensional. Así la evolución en el tiempo del campo electromagnético, si nos fijamos en un punto concreto del espacio viene medida por las derivadas respecto a la coordenada $x { < } { \\mathsf { s u } } { > } 0 { < } / { \\mathsf { s u p } } 0 { > } =$ ct. ",
+        "bbox": [
+            68,
+            205,
+            934,
+            323
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En el contexto de la teoría general de la relatividad aparece un problema adicional. La propia geometría del espacio-tiempo viene representada por un campo tensorial llamado tensor métrico. El propio campo gravitatorio es una manifestación de que la geometría del espacio-tiempo no es plana o euclídea. El campo gravitatorio de hecho es proporcional a la curvatura del espacio-tiempo. Las ecuaciones de evolución vuelven a ser ecuaciones diferenciales en derivadas parciales: ",
+        "bbox": [
+            68,
+            337,
+            932,
+            431
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/04096fdd274bcb59c99e533700ce1f3515ad1518ee76d9a1367eaf432e65fefb.jpg",
+        "text": "$$\n\\begin{array} { r l } & { R _ { \\alpha \\beta } - \\cfrac { g _ { \\alpha \\beta } R } { 2 } + \\Lambda g _ { \\alpha \\beta } = 8 \\pi \\cfrac { G } { c ^ { 4 } } T _ { \\alpha \\beta } } \\\\ & { R _ { \\alpha \\beta } = R ^ { \\rho } _ { \\alpha \\rho \\beta } = \\partial _ { \\rho } \\Gamma _ { \\beta \\alpha } ^ { \\rho } - \\partial _ { \\beta } \\Gamma _ { \\rho \\alpha } ^ { \\rho } + \\Gamma _ { \\rho \\lambda } ^ { \\rho } \\Gamma _ { \\beta \\alpha } ^ { \\lambda } - \\Gamma _ { \\beta \\lambda } ^ { \\rho } \\Gamma _ { \\rho \\alpha } ^ { \\lambda } } \\\\ & { \\Gamma _ { \\alpha \\beta } ^ { \\gamma } = \\cfrac { 1 } { 2 } g ^ { \\gamma \\mu } \\left( \\cfrac { \\partial g _ { \\mu \\alpha } } { \\partial x ^ { \\beta } } + \\cfrac { \\partial g _ { \\mu \\beta } } { \\partial x ^ { \\alpha } } - \\cfrac { \\partial g _ { \\alpha \\beta } } { \\partial x ^ { \\mu } } \\right) } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            461,
+            596,
+            570
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "donde reaparecen los símbolos de Christoffel que aparecían en la ecuación del movimiento de las partículas. A diferencia de las ecuaciones del campo electromagnético, estas ecuaciones del campo gravitatorio o geometría del espacio-tiempo son ecuaciones no lineales debido a la presencia de términos que son el producto de dos Γ. Esto hace que las ecuaciones de Einstein del campo gravitatorio sean de difícil solución. ",
+        "bbox": [
+            70,
+            600,
+            932,
+            695
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ecuaciones de movimiento en mecánica cuántica ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            730,
+            700,
+            755
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En mecánica cuántica existen diversos tipos de ecuación de movimiento para la función de onda según el tipo de problema o sistema cuántico estudiado. Los ejemplos más conocidos de ecuación del movimiento son: ",
+        "bbox": [
+            68,
+            770,
+            929,
+            827
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/4afdfad11cf91f9f58df0943b9ba1fd886aa8198714a7bc8dd1c6bdcc7a5b2d1.jpg",
+        "text": "$$\n\\begin{array} { r l } & { \\mathrm { 1 . ~ L a } \\underbrace { \\mathrm { e c u a c i } \\dot { 0 } \\mathrm { n } \\mathrm { d e } \\ S c h r \\dot { 0 } \\mathrm { d i n g } \\mathrm { e r : ~ } } \\left[ - \\frac { \\hbar ^ { 2 } } { 2 m } \\nabla ^ { 2 } + U ( \\mathbf { r } ) \\right] \\psi ( \\mathbf { r } , t ) = i \\hbar \\frac { \\partial \\psi ( \\mathbf { r } , t ) } { \\partial t } } \\\\ & { 2 . \\mathrm { ~ L a } \\underbrace { \\mathrm { e c u a c i } \\dot { 0 } \\mathrm { n } \\mathrm { d e } \\ K | \\mathrm { e i n - G o r d o n : ~ } } \\left[ \\frac { 1 } { c ^ { 2 } } \\frac { \\partial ^ { 2 } } { \\partial t ^ { 2 } } - \\nabla ^ { 2 } + \\mu ^ { 2 } \\right] \\psi = 0 } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            72,
+            840,
+            734,
+            933
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3. La ecuación de Dirac: $i \\hbar { \\frac { d \\psi } { d t } } = \\left[ c \\sum _ { i = 1 } ^ { 3 } \\alpha _ { i } p _ { i } + \\alpha _ { 0 } m c ^ { 2 } \\right] \\psi$ ",
+        "bbox": [
+            78,
+            41,
+            608,
+            93
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            116,
+            225,
+            137
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Bibliografía ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            178,
+            205,
+            198
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Landau & Lifshitz: Mecánica, Ed. Reverté, Barcelona, 1991. ISBN 84-291-4081-6.   \nLandau & Lifshitz, Teoría clásica de los campos, Ed. Reverté, ISBN 84-291-4082-4. ",
+        "bbox": [
+            80,
+            209,
+            850,
+            248
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            277,
+            267,
+            296
+        ],
+        "page_idx": 3
+    }
+]

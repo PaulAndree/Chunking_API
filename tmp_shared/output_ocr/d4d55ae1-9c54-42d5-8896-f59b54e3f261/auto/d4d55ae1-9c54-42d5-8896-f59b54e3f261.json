@@ -1,0 +1,322 @@
+[
+    {
+        "type": "text",
+        "text": "Short Communications ",
+        "text_level": 1,
+        "bbox": [
+            371,
+            137,
+            623,
+            158
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UV-Reactivation of Bacteriophage λ in Excision Repair-Deficient Hosts: Independence of Red Functions and Attachment Regions ",
+        "text_level": 1,
+        "bbox": [
+            156,
+            176,
+            835,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The survival of ultraviolet (UV)-irradiated phage λ is strongly increased when the host cell is also UV irradiated prior to infection. This phenomenon is known as UV. reactivation $( I )$ . An enhanced efficiency of host-cell reactivation of the irradiated phage genome after UV irradiation of the host cell was one of the simplest working hypothesis advanced to account for UV-reactivation (2). Host-cell reactivation (HCR) is the repair of the phage genome which results from the excision of pyrimidine dimers; this repair process is controlled by the bacterial genes uvrA, uvrB, and uvrC (review, Ref. 3). ",
+        "bbox": [
+            103,
+            236,
+            484,
+            454
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The above hypothesis implies that UV. reactivation should not be obtained in excision-deficient mutants as some authors found $( 4 , ~ 5 )$ . In contrast, other authors claimed that a slight UV-reactivation could be obtained in the absence of excision repair $\\left( \\mathcal { Q } , \\ \\theta { - } \\vartheta \\right)$ . This latter result was then attributed to some \"residual HCR\" (8, 9). ",
+        "bbox": [
+            103,
+            455,
+            484,
+            579
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This paper reports data which show without ambiguities that for relatively low UV doses to $\\lambda$ phage and to the host cell, three known types of excision-deficient mutants of $E$ coli K12 exhibit UV-reactivation of $\\lambda$ phage. Moreover, UV-reactivation can be several times more efficient than in the wildtype bacteria at a given UV dose to the host cell. ",
+        "bbox": [
+            103,
+            579,
+            484,
+            718
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In agreement with the hypothesis put forward by Kneser et al. (6) these results indicate that the mechanism of UV-reactivation does not necessarily involve hostcell reactivation. ",
+        "bbox": [
+            101,
+            719,
+            484,
+            794
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The phage strains used were: $\\lambda ^ { + }$ (Ref. 10); λb2 which carries a large deletion in the central region of the genome and lacks about a half of the phage attachment region $( \\boldsymbol { \\mathit { 1 9 } } )$ ; λcI-857 red-3 which is deficient in autonomous vegetative recombination $( \\pmb { I } \\pmb { I } )$ and which forms clear plaques at $4 2 ^ { \\circ } \\ ( l { \\mathcal { Q } } )$ : ",
+        "bbox": [
+            101,
+            795,
+            484,
+            870
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            237,
+            886,
+            266
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The wild-type rec+uvr+ bacteria were AB1157 and KMBL49. The pyrimidine dimer excision-deficient rec+uvr- bacteria were AB1886 uurA6, GY471 uvrB501, and KMBL100 uvrC505. The recombination-deficient recA uvr+ bacteria were AB2463 recA13, KMBL241 recA36, and a double mutant AB2480 recA13 uvrA6. Origins of these strains are described in a previous paper (13). ",
+        "bbox": [
+            505,
+            268,
+            886,
+            423
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Strain KMBL516 which carries a large deletion extending from galT to uvrB (deleting galE, chlD, att, bio) was isolated by Dr. P. van de Putte. The deletion was partially \"flled in\" by transduction with phage P1 grown on AB2434 Hfr H gal+ uvrB5 his thi lac xyl str. Transductants no. 6 and no. 10 were selected for galactose fermentation and ability to give stable lysogens as evidenced by the test of Gottesman and Yarmolinsky $( 1 \\textmu )$ . ",
+        "bbox": [
+            505,
+            425,
+            884,
+            594
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UV-reactivation of cI-857 red-3. The phage was irradiated with UV doses which gave about $1 0 ^ { - 2 }$ survival in all bacterial assays. Phage particles were preadsorbed to the irradiated bacteria for $2 0 \\ \\mathrm { m i n }$ at $3 7 ^ { \\circ }$ , multiplicity of infection being inferior to 0.01. The indicator strain was AB2480. Plates were incubated at $4 2 ^ { \\circ }$ to obtain clear plaques. ",
+        "bbox": [
+            505,
+            595,
+            884,
+            733
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Three mutants defective in excision repair show UV-reactivation with a maximal effect between 50 and 100 ergs $\\mathrm { m m } ^ { - 2 }$ to the host cell (Fig. 1). This effect depends on low doses given to both phage and bacteria $( I \\bar { \\delta } )$ . Underestimation of such a requirement might be the reason why some authors failed to detect UV-reactivation with excision-deficient bacteria. The inability of recA mutants to show UV-reactivation of $\\lambda$ phage (Fig. 1) was previously reported $( 4 , 8 )$ . ",
+        "bbox": [
+            505,
+            734,
+            884,
+            870
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/e40a8a787867a4c5ac131490c8ab18ed17db65ebcf4717d39b7aed663f57d605.jpg",
+        "image_caption": [
+            "FIG. 1. UV-reactivation of λ cI-857 red-3 presented as a function of dose given to the bacteria. Phages were irradiated with various UV doses (indicated below) in order to obtain similar initial survival $( \\mathbf { 0 . 0 0 9 } – \\mathbf { 0 . 0 1 5 } )$ in all bacterial assays. The UV-reactivation factor is the ratio: phage survival fraction on irradiated bacteria with the dose indicated on the abscissas/phage survival fraction on unirradiated bacteria. The symbols are:  for KMBLA9 (rec+ uvr+), $\\bullet$ for AB1157 (rec+ uvr+): 2500 ergs $\\mathrm { \\bf m m ^ { - 2 } }$ to λ; $\\blacktriangle$ for AB1886 uvrA, $\\triangle$ for GY471 uvrB, $\\blacktriangledown$ for KMBL100, uvrC: 300 ergs $\\mathrm { m m } ^ { - 2 }$ to $\\lambda$ ;  for AB2463 recA,  for KMBL241 $r e c A \\colon 1 0 0 0$ ergs $\\mathrm { m m ^ { - 2 } }$ to $\\gimel$ ; and $\\pmb { \\check { \\check { \\mathbf { L } } } }$ for AB2480 recA uvrA: 200 ergs $\\mathbf { m } \\mathbf { m } ^ { - 2 } \\tan \\lambda$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            126,
+            111,
+            450,
+            431
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            105,
+            670,
+            488,
+            716
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Independence of UV-reactivation of λ phage on the presence of attachment regions in host and phage chromosomes. Weigle (16) and Garen and Zinder (17) suggested that UV-reactivation might be due to recombination between homologous parts of the UVirradiated host and phage chromosomes. If this were so, one would expect that the presence or absence of a large piece of bacterial chromosome, extending from galT to uurB, would affect the extent of UV-reactivation. Furthermore, one might assume that the absence of att regions in the bacterial chromosome $\\mathrm { ( B B ^ { \\prime } ) }$ and in the λ chromosome (PP) should render difficult the contact between the bacterial and phage DNA and therefore influence the extent of UV-reactivation. ",
+        "bbox": [
+            107,
+            718,
+            488,
+            918
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            102,
+            892,
+            166
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to test these hypotheses two combinations of $E$ coli and $\\lambda$ mutants were used. These were (a) $E$ coli KMBL516, which carries the large deletion described earlier, and phage $\\lambda b \\mathcal { Q }$ which lacks at least one-half of the $\\lambda$ att region (attachment system: --; $- \\mathbf { P ^ { \\prime } } )$ (Refs. 18, 19); (b) $E$ coli KMBL516 derivatives no. 6 and no. 10 possessing the attB region and phage $\\lambda ^ { + }$ (attachment system: $\\mathbf { B } \\bar { \\mathbf { B } } ^ { \\prime } ; \\mathbf { P P ^ { \\prime } } )$ . ",
+        "bbox": [
+            511,
+            166,
+            892,
+            322
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Figure 2 shows that in both cases the extent of UV-reactivation was the same. Apparently, UV-reactivation does not involve the presence of either att regions or the chromosomal region in $E .$ coli K12 extending from galT to uvrB. ",
+        "bbox": [
+            511,
+            323,
+            892,
+            416
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Increased UV resistance of $\\lambda b \\mathcal { Q }$ when compared with $\\lambda ^ { + }$ (Fig. 2) is probably due to the smaller size of the $\\lambda b \\mathcal { Q }$ DNA. ",
+        "bbox": [
+            509,
+            416,
+            892,
+            462
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, three known excision-deficient $E$ coli mutants show UV-reactivation of $\\lambda$ phage. This phenomenon depends neither on the red function (Fig. 1) nor on the attachment regions in $\\mathcal { E }$ coli and λ DNAs (Fig. 2). Probably, UV-reactivation does not involve excision repair of pyrimidine dimers in phage DNA at least for low UV doses delivered to the phage and to the host cell. Biochemical results recently published by Boyle and Setlow (20) lead to the same conclusion. ",
+        "bbox": [
+            509,
+            463,
+            892,
+            511
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/a96874c08ff07f38e7de3d0ff979c9ad7ad5f6fb796a1380bfcb4b9af386cc62.jpg",
+        "image_caption": [
+            "FIG. 2. UV-reactivation of $\\lambda ^ { + }$ (closed symbols) and of $\\lambda b \\mathcal { Q }$ (open symbols) as the function of UV dose given to bacteria carrying uvrB mutation. Bacterium KMBL516 $( \\bigcirc , \\bullet )$ is deleted in the att region which is recovered in P1 transduced strains no.6 $( \\nabla , \\pmb { \\sigma } )$ and no. 10 $( \\triangle , \\blacktriangle )$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            523,
+            534,
+            876,
+            826
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            107,
+            104,
+            485,
+            244
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Our results do not support the idea that UV-reactivation occurs as a result of recombination between phage and bacterial chromosomes. ",
+        "bbox": [
+            103,
+            246,
+            485,
+            307
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            196,
+            321,
+            393,
+            335
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We are thankful to Dr. van de Putte who kindly made his strain available to us. M. R. thanks Prof. M. Errera for encouragement and hospitality in his laboratory, where part of this work was performed. The technical assistance of Mrs. A. Dedien is acknowledged. ",
+        "bbox": [
+            103,
+            342,
+            485,
+            426
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            230,
+            440,
+            355,
+            454
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. WEIGLE, J. J., Proc. Nat. Acad. Sci. USA. 39,   \n628636 (1953).   \n2. HaRM, W., Z. Verebungslehre 94, 6779 (1963).   \n3. HowARD-FLANDERs, P., Ann. Rev. Biochem.   \n31, 175200 (1968).   \n4. MATTERN, I. E., VAN WINDEN, M. P., AND RöRSCH, A., Mutat. Re8. 2, 111-131 (1965).   \n5. MIURA, A., AND TOMIZAWA, J., Mol. Gen. Genet. 103, 110 (1968).   \n6. KNESER, H., METZGER, K., AND SAUERBIER, W., Virology 27, 213221 (1965).   \n7. RoULLAND-DussoIx, D., Mutat. Res. 4, 241- 252 (1966).   \n8. KNESER, H., Virology 36, 303-305 (1968).   \n9. HARM, W., Virology 29, 494494 (1966).   \n10. KAISER, A. D., Virology 3, 4261 (1957).   \n11. SIGNER, E. R., AND WEIL, J., J. Mol. Biol. 34, 261271 (1968).   \n12. SUSSMAN, R., AND JACOB, R., C. R. Acad. Sci. 254, 15171519 (1962).   \n13. RADMAN, M., CORDONE, L., KRSMANOVISIMI, D., AND ERRERA, M., J. Mol. Biol. 49, 203212 (1970).   \n14. GOTTESMAN, M. E., AND YARMOLINSKY, M. B., J. Mol. Biol. 31, 487505 (1968).   \n15. DEFAIS, M., FAUQUET, P., RADMAN, M., AND ERRERA, M., Virology, in press.   \n16. WEIGLE, J. J., In \"Phage and the Origins of Molecular Biology\" (J. Cairns, G. S. Stent, and J. D. Watson, eds.), pp. 226235. Cold Spring Harbor Laboratory of Quantitative Biology, New York, 1966.   \n17. GAREN, A., AND ZINDER, N. O., Virology l, 347376 (1955).   \n18. GUERRINI, F., J. Mol. Biol. 46, 523542 (1969).   \n19. SIGNER, E. R., WEIL, J., AND KIMBALL, P.C., J. Mol. Biol. 46, 543563 (1969).   \n20. BOYLE, J. M., AND SETLOW, R. B., J. Mol. Biol. 51, 131144 (1970). MirosLav Radmanl Raymond Devoret   \nCentre des Faibles Radioactivites   \nCentre National de la Recherche Scientifique   \n91-Gif-sur-Yvette, France Accepted October 26, 1970 ",
+        "bbox": [
+            109,
+            461,
+            485,
+            618
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            104,
+            890,
+            592
+        ],
+        "page_idx": 2
+    }
+]

@@ -1,0 +1,723 @@
+[
+    {
+        "type": "text",
+        "text": "Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            102,
+            887,
+            143
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MARIN VULIC´†, FRANCISCO DIONISIO, FRANC¸OIS TADDEI, AND MIROSLAV RADMAN ",
+        "bbox": [
+            78,
+            154,
+            660,
+            169
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Mutagene\\`se, Institut Jacques Monod, 2 Place Jussieu, 75251 Paris Cedex 05, France ",
+        "bbox": [
+            78,
+            176,
+            583,
+            186
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by M. S. Meselson, Harvard University, Cambridge, MA, July 17, 1997 (received for review May 6, 1997 ",
+        "bbox": [
+            78,
+            196,
+            741,
+            209
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Speciation involves the establishment of genetic barriers between closely related organisms. The extent of genetic recombination is a key determinant and a measure of genetic isolation. The results reported here reveal that genetic barriers can be established, eliminated, or modified by manipulating two systems which control genetic recombination, SOS and mismatch repair. The extent of genetic isolation between enterobacteria is a simple mathematical function of DNA sequence divergence. The function does not depend on hybrid DNA stability, but rather on the number of blocks of sequences identical in the two mating partners and sufficiently large to allow the initiation of recombination. Further, there is no obvious discontinuity in the function that could be used to define a level of divergence for distinguishing species. ",
+        "bbox": [
+            78,
+            228,
+            470,
+            405
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A species may be defined as a population of organisms capable of sharing their gene pool through mating and genetic recombination. The inability to undergo genetic recombination with each other isolates related species independently of geographic isolation. The structural basis of the barrier to genetic recombination on the molecular level is the difference in their DNA sequences (1, 2). ",
+        "bbox": [
+            78,
+            420,
+            470,
+            510
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Intergenomic recombination between the enterobacteria Escherichia coli and Salmonella typhimurium (official designation Salmonella enterica serovar typhimurium) is controlled negatively by mismatch repair (MMR) proteins (principally MutS and MutL) and positively by the induction of the SOS system (principally through the overproduction of the RecA protein) (2). A consequence of the activity of these two systems is the establishment of a potent genetic barrier through a $1 0 ^ { 5 }$ -fold reduction in recombination frequency between the two ${ \\approx } 1 6 \\%$ divergent genomes, whereas these two systems have no (MMR) or little (SOS) influence on recombination in isogenic crosses. ",
+        "bbox": [
+            78,
+            511,
+            470,
+            661
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In yeast, DNA sequence divergence inhibits both intra- and interchromosomal recombination in mitosis and meiosis through the activities of MutS and MutL homologs (3–6), implying mechanisms of genetic barriers similar to those studied in bacteria (see also ref. 7 for effects of mouse MutS homolog on mitotic recombination in mice). ",
+        "bbox": [
+            78,
+            662,
+            470,
+            738
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two main questions concerning the establishment of the genetic barriers remaining unanswered by previous studies are as follows: (i) At which level of sequence divergence do the mismatch repair and SOS systems start to exert their effects; in other words, how diverged must two genomes be for an efficient genetic barrier to be established? (ii) Given that MMR deficiency and strong SOS induction disrupt the genetic barrier (2) and thus ‘‘reverse’’ the process of species separation, is the manipulation of these two systems in the opposite direction sufficient to speed up the process and create new genetic barriers, mimicking a speciation event? To address these questions we have performed a quantitative analysis relating recombination frequencies in conjugational crosses and genomic sequence divergence between different enterobacterial strains and species under different levels of expression of the key components of the MMR and SOS systems. ",
+        "bbox": [
+            78,
+            739,
+            470,
+            877
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            228,
+            901,
+            291
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Because these two DNA repair systems are influenced by environmental and physiological factors, and because they control both genetic barriers and the mutation rate (8), they may be thought of as molecular links between environmental changes and the creation of genetic diversity, influencing directly the rate of bacterial evolution, including pathogenicity (9) and speciation (2). ",
+        "bbox": [
+            509,
+            292,
+            901,
+            382
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            589,
+            400,
+            821,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two sets of conjugational crosses were performed: $( i )$ using one donor (Hfr $E$ . coli K-12) and different enterobacterial $\\mathrm { F ^ { - } }$ recipients or $( i i )$ using one recipient $( \\mathrm { F } ^ { - } ~ E .$ . coli K-12) and different enterobacterial Hfr donors with the same origin of transfer. The strains used in one-donor crosses were $E$ . coli K-12 ‘‘maria’’ [isogenic derivative of HfrPK3 (10), rifampicinresistant, argE::Tn10, malB2::Tn9], $E$ . coli $\\mathrm { k } { - } 1 2 \\ \\cdots 1 2$ $[ \\mathrm { F ^ { - } }$ derivative of Hfr maria; $a r g E ^ { + }$ , malB1, nalidixic acid-resistant (nalR)], nalR derivatives of $\\mathrm { F ^ { - } }$ strains of $E$ . coli B, Shigella flexneri 5 BS176 (from the collection of P. J. Sansonetti, Institut Pasteur, Paris), Escherichia fergusonii ATCC 35471 (11), and S. typhimurium SL4213 (12). The donor strains used in one-recipient crosses were rifampicin-resistant derivatives of the following Hfr strains: E. coli K-12 BW113 (13), $E .$ . coli C c-1073 (14), Sh. flexneri 256 (15), and S. typhimurium SA965 (16). The recipient strain referred to as wild type was a nalR derivative of $\\bar { \\mathrm { F } ^ { - } } E .$ . coli K-12 AB1157 (17). Other strains were its derivatives carrying mutS201::Tn5, lexA1 malB2::Tn9, recAo98 srlC300::Tn10 (2), lexA3 (18) alleles or multicopy plasmids pBA40 and pMQ339 that overproduce wild-type MutS and MutL, respectively (19) (referred to as pmutSL), or pJWL118 (20) carrying lexA3 $( \\mathrm { I n d } ^ { - } )$ ) gene (18) (referred to as plexA3). ",
+        "bbox": [
+            509,
+            420,
+            901,
+            714
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Logarithmic-phase bacteria $( 2 { - } 4 \\times 1 0 ^ { 8 } )$ were mixed in a 1:1 $( \\mathrm { H f r } { : } \\bar { \\mathrm { F } } ^ { - } )$ ratio, deposited on a $0 . 4 5 – \\mu \\mathrm { m }$ pore size filter (Schleicher & Schuell), and incubated on prewarmed rich-medium agar. After (i) 45 or $( i i )$ $6 0 ~ \\mathrm { { m i n } }$ at $3 7 ^ { \\circ } \\mathrm { C } .$ , the conjugants were resuspended in 1022 M $\\mathrm { M g S O _ { 4 } }$ and separated by swirling with a Vortex mixer. The exconjugants were plated on $( i )$ richmedium agar plates supplemented with chloramphenicol (30 $\\mu \\mathrm { g / m l } )$ to select for chloramphenicol-resistant recombinants in one-donor crosses or on $( i i )$ M63 medium supplemented with histidine, leucine, proline, threonine, methionine, aspartic and nicotinic acids $\\mathrm { \\bar { \\langle 1 0 0 ~ } } \\mu \\mathrm { g / m l }$ each), thiamin $( 3 0 ~ \\mu \\mathrm { g / m l ) }$ , and glucose $( 0 . 4 \\% )$ , lacking arginine to select for $a r g ^ { + }$ recombinants in one-recipient crosses. Donors were counterselected by $4 0 \\mathrm { \\ } \\mu \\mathrm { g / m l }$ nalidixic acid. For strains containing plasmids conferring antibiotic resistance, the appropriate antibiotics were included in the medium at concentrations of $1 0 0 ~ \\mu \\mathrm { g / m l }$ (ampicillin), $3 0 \\mathrm { \\ \\mu g / m l }$ (chloramphenicol), and $1 2 . 5 \\mathrm { \\ } \\mu \\mathrm { g / m l }$ (tetracycline). Recombinants were scored after 36 and 48 hr in one-donor and one-recipient crosses, respectively. Recombination frequencies per donor were calculated after subtracting the number of unmated revertants. The $\\log _ { 1 0 }$ of the median values of at least three independent crosses per mating pair were plotted against overall genomic sequence divergence, expressed as the fraction (percentage) of two parental genomic DNAs that does not hybridize at $\\bar { 6 0 } ^ { \\circ } \\mathrm { C }$ under standard conditions (11, 21) [value used for $E$ . coli C is the mean value of 28 $E$ . coli strains (21)]. ",
+        "bbox": [
+            509,
+            715,
+            901,
+            906
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            71,
+            470,
+            220
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            235,
+            237,
+            313,
+            251
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conjugational crosses to measure the frequency of genetic recombination were performed between enterobacteria with DNA sequence divergence of up to ${ \\approx } 1 6 \\%$ , under different levels of expression of the key components of the MMR and SOS systems. In the absence of adequate knowledge of the genomic sequences of all mating partners, we consider the global genomic sequence divergence as the fraction of two parental genomic DNAs that does not hybridize at $6 0 \\mathrm { { ^ \\circ C } }$ (11, 21). The observed frequencies of recombination fit the log– linear regressions whose parameters are listed in Table 1. ",
+        "bbox": [
+            78,
+            257,
+            470,
+            380
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The results of crosses with either the same donor or the same recipient show that recombination frequency decreases exponentially with increasing sequence divergence (Fig. 1). The close correspondence of the two classes of crosses suggests a similar recombinational capacity of all tested bacteria. ",
+        "bbox": [
+            76,
+            381,
+            470,
+            440
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Inactivation of the MMR system (Fig. 2A, mutS) increases the level of recombination proportionally to the extent of sequence divergence—i.e., decreases the slope of the graph without changing the intercept—whereas overproduction of mismatch-binding proteins (pmutSL) increases the slope. If MMR is functional, the level of recombination is reduced by the same factor at every level of divergence examined, by the presence of a stable mutant SOS-repressor (Fig. 2B, lexA1) or even more so by the overproduction of such a repressor (plexA3), both of which change the intercept but not the slope of the graph. Similarly, overproduction of RecA shifts the curve higher without a major effect on the slope. ",
+        "bbox": [
+            78,
+            441,
+            470,
+            588
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            222,
+            606,
+            326,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The experiments described here were designed to examine the nature of the genetic barriers among enterobacteria, in particular to determine the relationships between DNA sequence divergence, extent of genetic recombination, and speciation. ",
+        "bbox": [
+            78,
+            626,
+            470,
+            651
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a6b85b1e5972cdc23520cddc0ca37a4a25c8c4788986e7dbe237f10a93ad08e.jpg",
+        "table_caption": [
+            "Table 1. Parameters of log–linear regressions: log (frequency of recombination) vs. genomic sequence divergence "
+        ],
+        "table_footnote": [
+            "\\*The recipient strains were nalR derivatives of $E .$ . coli K-12, E. coli B, Sh. flexneri, E. fergusonii, and S. typhimurium. †The recipient strain was AB1157 nalR. All other recipients in one-recipient crosses were AB1157 nalR derivatives carrying indicated alleles. ‡Salmonella point was omitted from linear regression analysis (explanation in the text). "
+        ],
+        "bbox": [
+            76,
+            686,
+            472,
+            873
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/72e225360dccd5d5c5eb7165d17c4f73f1d607fc6a8726c398974fcb0bd669a4.jpg",
+        "image_caption": [
+            "FIG. 1. Relationships between frequency of recombination and genomic sequence divergence. The global genomic sequence divergence is indicated as the fraction of two parental genomic DNAs that does not hybridize at $6 0 \\mathrm { { ^ \\circ C } }$ . The scale on the upper $x$ -axis is the approximate corresponding percentage of sequence divergence [conversion according to the formula given in ref. 40, and using $1 . 1 8 \\%$ sequence mismatch per $1 ^ { \\circ } \\mathrm { C }$ of $\\Delta T _ { \\mathrm { m } }$ depression (31)]. Shown below are regressions with the corresponding coefficients of determination $( r ^ { 2 } )$ Frequencies of recombination in one-donor $E .$ . coli K-12) crosses and one-recipient $E .$ . coli K-12) crosses are represented by $\\bigcirc$ and $\\sqsubset$ respectively. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            542,
+            73,
+            866,
+            295
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            509,
+            441,
+            901,
+            468
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The extent of genetic isolation we observe between enterobacteria is a simple mathematical function of DNA sequence divergence. It increases exponentially with increasing sequence divergence. The point on the sequence divergence axis which would delineate a species boundary by eventual abrupt decrease in gene exchange does not exist because the frequency of genetic recombination varies continuously with sequence divergence. The data obtained from Bacillus species (22) and yeast (41) can be described by the same function, so it appears that it could be a general relationship. ",
+        "bbox": [
+            509,
+            468,
+            901,
+            599
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although sequence divergence is clearly the structural basis for the genetic barrier, the effectiveness of this barrier is under the control of cellular systems, particularly those responsible for the initiation of genetic recombination and those responsible for editing recombinational intermediates $( 1 , 2 )$ , SOS and MMR, respectively (Figs. 2 and 3). By changing these parameters it is possible to disrupt or modify the genetic barriers between different species and to create new ones between closely related strains of the same species. ",
+        "bbox": [
+            509,
+            601,
+            901,
+            718
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When mismatch-binding activity is enhanced and SOS induction is blocked (Fig. 3, lexA3 pmutSL) the genetic isolation is extremely sensitive to sequence divergence, creating an efficient genetic barrier between closely related strains such as E. coli K-12 and $E$ . coli C, or $E$ . coli K-12 and $S h$ . flexneri. This corresponds formally to a speciation event. On the other hand, inactivation of MMR and overproduction of RecA (Fig. 3, mutS recAo98) relaxes the genetic barrier in the range of divergence examined in these experiments, allowing efficient recombination between bacteria as diverged as $E$ . coli and $S$ . typhimurium. For example, the same frequency of recombination, ${ \\approx } 3 \\times 1 0 ^ { - 3 }$ (Fig. 3), can be found between $E$ . coli K-12, Sh. flexneri, and $S _ { \\cdot }$ . typhimurium donors and $E$ . coli K-12 recipient, depending solely on the genetic background of the recipient. ",
+        "bbox": [
+            509,
+            719,
+            901,
+            916
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This shows that the effectiveness of a genetic barrier is not a constant of a given species, raising the question of its regulation. ",
+        "bbox": [
+            509,
+            917,
+            901,
+            957
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cf34f09a46cd1add8fd4b7eb931500ec1739890e197e903046be9431900bbe3.jpg",
+        "image_caption": [
+            "FIG. 2. Effect of MMR $( A )$ and SOS $( B )$ systems on frequency of recombination in one-recipient crosses. The recipient strain indicated as wild type was AB1157 nalR $( \\bigcirc )$ . All other recipients were AB1157 nalR derivatives carrying $( A )$ MutS deficiency $^ { ( \\sharp ) }$ or multicopy plasmids that overproduce wild-type MutS and MutL proteins $\\left( \\triangle \\right)$ ; or $\\bar { ( B ) }$ a block to induction of the SOS regulon caused by the lexA1 allele, which encodes an uncleavable LexA repressor $^ { ( \\sharp ) }$ ; constitutive overproduction of RecA conferred by the recAo98 allele $( \\diamond )$ ; or a plasmid carrying the $l e x A 3 ( \\mathrm { I n d ^ { - } } )$ gene $\\left( \\triangle \\right)$ . In the case of plasmid-bearing strains, vectors were confirmed to have no relevant phenotypes of their own (data not shown). The log–linear regressions and corresponding coefficients of determination are given in Table 1. The Salmonella point in MutSL-overproducing background $( A , \\triangle )$ was omitted from linear regression analysis (explanation in the text). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            117,
+            74,
+            433,
+            483
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The MMR and SOS systems are major determinants of mutation rate. Fully operative MMR and noninduced SOS keep the mutation rate low and set an upper limit of the sensitivity of genetic isolation to sequence divergence. Although the overproduction of MutS and MutL can greatly increase this limit (Fig. 3), it does not lower the mutation rate (R. S. Harris, G. Feng, K. J. Ross, R. Sidhu, C. Thulin, S. Longerich, S. K. Szigety, M. E. Winkler, and S. M. Rosenberg, personal communication). Therefore, increased levels of these proteins are not likely to be under positive selective pressure. Inactivation of the MMR components andyor induction of the SOS response confers an increase in mutation rate and the relaxation of intra- and intergenomic recombinational barriers [between similar repetitive sequences (23) in the former case and between entire similar chromosomes (2) in the latter case]. ",
+        "bbox": [
+            78,
+            665,
+            470,
+            863
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thus, barriers to recombination are the result of both long-term and immediate effects of these two cellular systems. Their long-term effects determine the rate of formation of its structural basis, DNA sequence polymorphism within an evolutionary lineage, through the control of mutation rate. Their immediate effects, on an individual level, control the efficiency of genetic barriers through their effects on recombination. ",
+        "bbox": [
+            78,
+            864,
+            470,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0930d4c931e30b7f59901d051441bab3a7773cd996cb07d137a4fd3d8759fd6f.jpg",
+        "image_caption": [
+            "FIG. 3. Maximal and minimal frequencies of recombination vs. sequence divergence in one-recipient crosses. The recipient strain indicated as wild type was AB1157 nalR (E). Other recipients were AB1157 nalR derivatives carrying either block to induction of the SOS regulon caused by the lexA3 allele, which encodes an uncleavable LexA repressor, and multicopy plasmids that overproduce wild-type MutS and MutL proteins $^ { ( \\sharp ) }$ , or MutS deficiency and constitutive overproduction of RecA $\\left( \\triangle \\right)$ . The log–linear regressions and corresponding coefficients of determination are given in Table 1. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            552,
+            74,
+            857,
+            250
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In yeast, DNA sequence divergence inhibits both intra- and interchromosomal recombination in mitosis and meiosis through the activity of yeast homologs of bacterial MutS and MutL proteins (3–6). In intrachromosomal mitotic recombination between two repeated sequences the relationship between frequency of recombination and sequence divergence is log–linear and follows the rules described here, although in a smaller range of divergence, presumably because of a higher concentration, or efficiency, of MMR proteins (41). ",
+        "bbox": [
+            509,
+            375,
+            901,
+            491
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The evolutionary conservation of the key MMR and recombination components encourages the extension of the ideas discussed to the eukaryotic world (see also ref. 7 for similar effects of Msh2 function on gene targeting recombination in mouse cells). ",
+        "bbox": [
+            509,
+            491,
+            901,
+            555
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A number of environmental and physiological factors have been found to affect the state of the SOS and MMR systems in bacteria (refs. 24–26 and R. S. Harris, G. Feng, K. J. Ross, R. Sidhu, C. Thulin, S. Longerich, S. K. Szigety, M. E. Winkler, and S. M. Rosenberg, personal communication). Under conditions of metabolic stress, the SOS system is induced, whereas the MMR system is inhibited, which leads to an increase in point mutations, intragenomic plasticity, and horizontal gene transfer, all resulting in rapid genetic diversification (for review see ref. 27). Acquisitions of pathogenicity and chromosomal resistance to antibiotics result from such genetic mechanisms (9, 28–30). When an environmental stress is overcome by an adaptation, then the return to MMR proficiency and repressed SOS maintains genomic stability and separates different genetic lineages (‘‘species’’) by restricting gene exchange. Therefore these two systems can be regarded as mechanisms of ‘‘evolutionary homeostasis.’’ Their action, in response to changing environments, contributes to the variability necessary for adaptation, and when the adaptation is reached, they restore genetic stasis. Such control of genetic diversity implies a stepwise mechanism of evolution, because each environmental change of significant amplitude and persistence would be met by a diversification within a given lineage, setting the basis for the speciation event(s). ",
+        "bbox": [
+            509,
+            555,
+            901,
+            866
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "APPENDIX ",
+        "text_level": 1,
+        "bbox": [
+            661,
+            885,
+            750,
+            898
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA Sequence Divergence and Mechanism of Recombination. The observed recombination–divergence relationship is not a simple reflection of the decrease in stability of hybrid DNA, which is linear (31). Instead, the exponential decrease ",
+        "bbox": [
+            508,
+            905,
+            901,
+            957
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2eef69230fc2cfaeca9bbbdcc1f9c8845648b49d7f9ca93f3fd1c2b33a87e1f.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            89,
+            73,
+            459,
+            218
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Locus a ",
+        "bbox": [
+            91,
+            231,
+            153,
+            244
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/89a68d03577da9fb574932cc58aa46003ae56ed048cabada316cb71f0fbafcc3.jpg",
+        "image_caption": [
+            "FIG. 4. Increasing sequence identity requirement for recombination with increasing concentration of mismatch-binding proteins. (A) After the transfer into recipient cell and subsequent replication of the donor DNA, single-stranded tails are produced by the action of the RecBCD enzyme. The RecA protein (shaded ellipses) polymerizes on single-stranded DNA, which becomes the substrate for the homology search and subsequent strand-exchange reactions. $L$ is the length of that nucleoprotein filament available for recombination. $( B )$ Shown are heteroduplexes formed by strand transfer after the pairing of the short mismatch-free sequence $\\left( H _ { 0 } \\right)$ at three different loci $( a , b$ , and $c$ ). $H _ { 0 }$ corresponds to the minimal sequence identity sufficient to initiate recombination or MEPS (minimum efficient processing segment) as defined by Shen and Huang (34). If the concentration of functional mismatch-binding proteins is zero, all such products will give recombinant molecules $( { \\bar { a } } , b ,$ , and $c$ ). If these proteins are functional, only a certain fraction of such heteroduplexes will yield recombinant molecules, depending on the average number of mismatched bases within the heteroduplex region. The higher the concentration of these "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            89,
+            237,
+            459,
+            739
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "observed may reflect the number $( N )$ of mismatch-free blocks of a given length $( H )$ . This number is given by ",
+        "bbox": [
+            508,
+            71,
+            901,
+            98
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/9ce133f84467e62dfa112af970ebee8436bcbd6b95b50f745f80bf25e4b4027a.jpg",
+        "text": "$$\nN = ( L - H + 1 ) e ^ { - H d } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            629,
+            104,
+            781,
+            121
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $H$ is the length of the block of sequence identity in bp and $L$ is the length of potentially recombining DNA sequences of divergence $d$ (see below for the demonstration). Assuming that all blocks of length $H$ have equal probability of serving as initiators of recombination, recombinational events between sequences of length $L$ will happen at a frequency equal to $h N _ { ; }$ where $h$ is the probability of recombination of a single block of length $H .$ . [Note that the frequency of recovery of recombinants in a conjugational cross is the probability of completing two presumably independent recombinational events (crossovers). Therefore the actual $H$ parameters are half of the value calculated using the slope of the experimental curves.] ",
+        "bbox": [
+            509,
+            130,
+            901,
+            282
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "According to Eq. 1, log–linear relationship of $N$ vs. divergence varies with a change in length of the target DNA $( L )$ which affects the intercept (Fig. $2 B$ ; Table 1), whereas the length of the mismatch-free block $( H )$ affects the slope (Fig. $2 A$ ; Table 1) and possibly the intercept when $L$ might be comparable to $H$ in length (Table 1, lexA1 vs. lexA3 pmutSL). ",
+        "bbox": [
+            509,
+            284,
+            901,
+            359
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It follows that the concentration of mismatch-binding proteins alters the apparent length of the segment of sequence identity needed for successful recombination $( H )$ , and that of RecA alters the total length of DNA available for recombination $( L )$ . This could be explained by recalling their respective roles in vivo (1) and their biochemical activities in vitro (32). ",
+        "bbox": [
+            509,
+            359,
+            901,
+            434
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The initiation of recombination in bacteria is largely under the control of RecA, the level of which is controlled by the SOS system; i.e., induction of the SOS system increases the intracellular level of RecA. Because DNA is recombinagenic when coated with the RecA protein (33), an increase in RecA concentration could increase the total length of DNA available for recombination—i.e., $L$ in Eq. 1 (Fig. 4A). Although a short segment of sequence identity is necessary for the initiation of recombination (34–36), RecA-catalyzed elongation of heteroduplex is only weakly affected by sequence divergence up to quite high levels of divergence (32, 37). ",
+        "bbox": [
+            509,
+            435,
+            901,
+            574
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Editing of recombinational intermediates is performed by the methyl-directed MMR system, which recognizes mispaired and unpaired bases in the joint heteroduplex regions and aborts recombination events between nonidentical sequences (1, 2, 32). ",
+        "bbox": [
+            508,
+            575,
+            901,
+            637
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "After the initial strand transfer, requiring sequence identity, extension of the strand exchange process produces mismatches, the substrates for mismatch-binding proteins (MutSL). For a given concentration of MutSL there will be a corresponding value of local sequence divergence (within the heteroduplex region) for which mismatches are rare enough not to be recognized by MutSL before recombinational resolution occurs (Fig. 4B). It follows that the length of the segment of sequence identity needed for successful recombination is the sum of the length of the segment necessary for initiation and of the average distance between two mismatches in the heteroduplex region consisting of two parental strands of such local sequence divergence. Thus, $H$ in Eq. 1 may have at least two components: $H _ { 0 }$ , the length of the segment required for the initiation step, which is constant, and the variable $H ^ { * }$ , which is a function of the concentration of mismatch-binding proteins capable of preventing strand exchange and is inversely proportional to the highest local sequence divergence that escapes abortion by those proteins (Fig. 4). [A weak influence of SOS induction on parameter $H ^ { * }$ , presumably through the overproduction of the RuvAB enzymes required for resolution, cannot be excluded (Fig. $2 B$ , recAo98).] ",
+        "bbox": [
+            509,
+            638,
+            901,
+            866
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            71,
+            472,
+            123
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "However, when sequence divergence is so great as to saturate MMR (38, 39), $N$ will decrease only as a function of $- H _ { 0 } d$ , the product $- H ^ { * } d$ becoming a constant. That level of divergence will be inversely proportional to the concentration of MutSL. Indeed, at high concentrations of MutSL (Fig. 2 A, pmutSL) and in the range of divergence between Shigella and Salmonella, the frequency of recombination decreases similarly as in the $m u t S ^ { - }$ genetic background. ",
+        "bbox": [
+            76,
+            125,
+            472,
+            224
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Recombination–Sequence Divergence Relationship. Let $L$ be the length of DNA in base pairs available for recombination and $H$ be the minimal length of uninterrupted sequence identity required to initiate recombination. Let $n$ be the number of base differences within $L$ , and $N$ the number of possible sites to initiate recombination. ",
+        "bbox": [
+            76,
+            224,
+            472,
+            299
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If $n = 0 , N = N _ { 0 } = L - H + 1 .$ If $n > 0$ , the number of sites to initiate recombination is $N _ { 0 } - E _ { 1 } + E _ { 2 } - E _ { 3 } + E _ { 4 } - \\dots +$ $( - 1 ) ^ { \\operatorname* { m i n } \\{ H , n \\} } E _ { H } ,$ , where $E _ { j }$ is the expected number of blocks of bases of length $H$ with exactly $j$ mismatches: ",
+        "bbox": [
+            76,
+            300,
+            472,
+            351
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/3e599d51f875df1ea21f8e82a8aa3a91395e10778467e9f303dc7730b923e25e.jpg",
+        "text": "$$\nE _ { j } = N _ { 0 } \\frac { { \\binom { n } { j } } { \\binom { H } { j } } } { { \\binom { L } { j } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            215,
+            357,
+            334,
+            420
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "with $j \\in \\{ 1 , 2 , \\dots , \\operatorname* { m i n } \\{ H , n \\} \\}$ and $\\operatorname* { m i n } \\{ H , n \\}$ being the smaller value of the two. Then $N$ is given by ",
+        "bbox": [
+            76,
+            428,
+            472,
+            454
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7b594e24b0a34978e47db269664b9443dee6ebb6841162f3970009c8bbda9c9e.jpg",
+        "text": "$$\nN = N _ { 0 } \\sum _ { k = 0 } ^ { \\operatorname* { m i n } ( H , n ) } ( - 1 ) ^ { k } \\frac { \\binom { H } { k } \\binom { n } { k } } { \\binom { L } { k } } .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            171,
+            460,
+            375,
+            522
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This equation can be simplified to ",
+        "bbox": [
+            91,
+            531,
+            316,
+            545
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/7e35e340479e1c532515f09c1e0c16ee44476312352633231aed7b898287cc9f.jpg",
+        "text": "$$\nN \\approx N _ { 0 } \\sum _ { k = 0 } ^ { \\operatorname* { m i n } ( H , L d ) } ( - 1 ) ^ { k } \\frac { ( H d ) ^ { k } } { k ! }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            183,
+            550,
+            366,
+            592
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "in that $d = n / L =$ divergence between the two DNA strands. With $n / L$ sufficiently small, and using the Taylor series for an exponential function, the last equation approximates to ",
+        "bbox": [
+            76,
+            602,
+            472,
+            641
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/f101003913ed31bc6bc8d973cbce9ef707abb8c2b4b165facf016eb174f25c8c.jpg",
+        "text": "$$\nN \\approx ( L - H + 1 ) e ^ { - H d } .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            196,
+            646,
+            349,
+            664
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "This equation describes the experimental curves. The $H$ parameters which give the best fit are estimated at approximately 15, 62, and 212 bp in mu $S ^ { - }$ , $m u t S ^ { + }$ , and overproduced MutSL background, respectively. The relative changes of $L$ with respect to the wild type which fit found intercept changes are approximately 1.5-fold increase and 11- and 30-fold decrease for recAo98, lexA1, and plexA3, respectively. ",
+        "bbox": [
+            76,
+            672,
+            472,
+            762
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thank I. Matic´ for advice and criticism in the course of this work, R. Wagner, M. Bianchetta, S. Rosenberg, D. D’Ari, and F. Iris for help in the writing of this paper, S. Jinks-Robertson, M. Lipsitch, A. Datta, M. Hendrix, and S. Rosenberg for helpful discussion and for sharing their results prior to publication, and G. Bertani, J. Lawrence, and P. J. Sansonetti for bacterial strains. This work was supported by the Centre National de la Recherche Scientifique (Actions Concerte´es Coordonne´es–Sciences du Vivant) and the French Genome Project (Groupement de Recherches et d’Etudes sur les Genomes). M.V. was in part supported by the Open Society Institute (Supplementary Grant Program), F.D. was supported by the Gulbenkian Foundation and Program PRAXIS XXI. F.T. is on leave of absence from the Ecole Nationale du Ge´nie Rural des Eaux et des Foreˆts. ",
+        "bbox": [
+            78,
+            773,
+            472,
+            922
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Proc. Natl. Acad. Sci. USA 94 (1997) 9767   \n1. Rayssiguier, C., Thaler, D. S. & Radman, M. (1989) Nature (London) 342, 396–401.   \n2. Matic, I., Rayssiguier, C. & Radman, M. (1995) Cell 80, 507–515.   \n3. Datta, A., Adjiri, A., New, L., Crouse, G. F. & Jinks-Robertson, S. (1996) Mol. Cell. Biol. 16, 1085–1093.   \n4. Selva, E. M., New, L., Crouse, G. F. & Lahue, R. S. (1995) Genetics 139, 1175–1188.   \n5. Hunter, N., Chambers, S. R., Louis, E. J. & Borts, R. H. (1996) EMBO J. 15, 1726–1733.   \n6. Chambers, S. R., Hunter, N., Louis, E. J. & Borts, R. H. (1996) Mol. Cell. Biol. 16, 6110–6120.   \n7. de Wind, N., Dekker, M., Berns, A., Radman, M. & te Riele, H. (1995) Cell 82, 321–330.   \n8. Radman, M., Matic, I., Halliday, J. & Taddei, F. (1995) Phil. Trans. R. Soc. Lond. B 347, 97–103.   \n9. LeClerc, J. E., Li, B., Payne, W. L. & Cebula, T. A. (1996) Science 274, 1208–1211.   \n10. Kahn, P. L. (1968) J. Bacteriol. 96, 205–214.   \n11. Farmer, J. J., III, Fanning, G. R., Davis, B. R., O’Hara, C. M., Riddle, C., Hickman-Brenner, F. W., Asbury, M. A., Lowery, V. A., III, & Brenner, D. J. (1985) J. Clin. Microbiol. 21, 77–81.   \n12. Sanderson, K. E. & Stocker, B. A. D. (1987) in Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology, eds. Neidhardt, F. C., Ingraham, J. L., Low, K. B., Shaechter, M. & Umbarger, H. E. (Am. Soc. Microbiol., Washington, DC), Vol. 2, pp. 1220–1224.   \n13. Low, B. (1973) J. Bacteriol. 113, 798–812.   \n14. Sasaki, I. & Bertani, G. (1965) J. Gen. Microbiol. 40, 365–376.   \n15. Formal, S. B., Gemski, P., Jr., Baron, L. S. & Labrec, E. H. (1970) Infect. Immun. 1, 279–287.   \n16. Sanderson, K. E., Ross, H., Zeiger, L. & Ma¨kela¨, P. H. (1972) Bacteriol. Rev. 36, 608–637.   \n17. Bachmann, B. J. (1972) Bacteriol. Rev. 36, 525–557.   \n18. Mount, D. W., Low, K. B. & Edmiston, S. (1972) J. Bacteriol. 112, 886–893.   \n19. Wu, T.-H. & Marinus, M. G. (1994) J. Bacteriol. 176, 5393–5400.   \n20. Little, J. W. & Hill, S. A. (1985) Proc. Natl. Acad. Sci. USA 82, 2301–2305.   \n21. Brenner, D. J., Fanning, G. R., Skerman, F. J. & Falkow, S. (1972) J. Bacteriol. 109, 953–965.   \n22. Roberts, M. S. & Cohan, F. M. (1993) Genetics 134, 401–408.   \n23. Petit, M. A., Dimpf l, J., Radman, M. & Echols, H. (1991) Genetics 129, 327–332.   \n24. Taddei, F., Matic, I. & Radman, M. (1995) Proc. Natl. Acad. Sci. USA 92, 11736–11740.   \n25. Dri, A.-M. & Moreau, P. L. (1993) Mol. Microbiol. 8, 697–706.   \n26. Feng, G., Tsui, H. T. & Winkler, M. E. (1996) J. Bacteriol. 178, 2388–2396.   \n27. Taddei, F., Vulic´, M., Radman, M. & Matic´, I. (1997) in Environmental Stress, Adaptation and Evolution, eds. Bijlsma, K. & Loeschcke, V. (Birkha¨user, Basel), pp. 273–292.   \n28. Bik, E. M., Bunschoten, A. E., Gouw, R. D. & Mooi, F. R. (1995) EMBO J. 14, 209–216.   \n29. Davies, J. (1996) Nature (London) 383, 219–220.   \n30. Maynard-Smith, J., Dawson, C. G. & Spratt, B. G. (1991) Nature (London) 349, 29–31.   \n31. Springer, M. S., Davidson, E. H. & Britten, R. J. (1992) J. Mol. Evol. 34, 379–382.   \n32. Worth, L., Jr., Clark, S., Radman, M. & Modrich, P. (1994) Proc. Natl. Acad. Sci. USA 91, 3238–3241.   \n33. West, S. C. (1992) Annu. Rev. Biochem. 61, 603–640.   \n34. Shen, P. & Huang, H. V. (1986) Genetics 112, 441–457.   \n35. Watt, V. M., Ingles, C. J., Urdea, M. S. & Rutter, W. J. (1985) Proc. Natl. Acad. Sci. USA 82, 4768–4772.   \n36. Hsieh, P., Camerini-Otero, C. S. & Camerini-Otero, R. D. (1992) Proc. Natl. Acad. Sci. USA 89, 6492–6496.   \n37. Bianchi, M. E. & Radding, C. M. (1983) Cell 35, 511–520.   \n38. Schaaper, R. M. & Radman, M. (1989) EMBO J. 8, 3511–3516.   \n39. Damagnez, V., Doutriaux, M. P. & Radman, M. (1989) J. Bacteriol. 171, 4494–4497.   \n40. Grimont, P. A. D. & Popoff, M. Y. (1980) Curr. Microbiol. 4, 337–342.   \n41. Datta, A., Hendrix, M., Lipsitch, M. & Jinks-Robertson, S. (1997) Proc. Natl. Acad. Sci. USA 94, 9757–9762. ",
+        "bbox": [
+            508,
+            45,
+            903,
+            926
+        ],
+        "page_idx": 4
+    }
+]

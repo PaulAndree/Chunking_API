@@ -1,0 +1,845 @@
+[
+    {
+        "type": "text",
+        "text": "Carcinogenic potency in rodents versus genotoxic potency in $E$ coli: a correlation analysis for bifunctional alkylating agents ",
+        "text_level": 1,
+        "bbox": [
+            108,
+            170,
+            891,
+            212
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ileana Quinto 1 and Miroslav Radman 2 ",
+        "bbox": [
+            298,
+            227,
+            697,
+            247
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "hpalc CNRS, University of Paris VII, Paris (France) ",
+        "bbox": [
+            98,
+            251,
+            918,
+            278
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(Received 22 December 1987) (Revision received 18 June 1987) (Accepted 24 June 1987) ",
+        "bbox": [
+            389,
+            284,
+            608,
+            325
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Kords:Alkylating agent; Mutagenic potency; Recombnagenic potency; SOS inducig potency;E coli multitest ",
+        "bbox": [
+            64,
+            357,
+            834,
+            372
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary ",
+        "text_level": 1,
+        "bbox": [
+            64,
+            389,
+            142,
+            405
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mutagenic (M), recombinagenic (R) and SOS inducing (I) potencies of 6 bifunctional directly acting alkylating agents (mitomycin C, thiotepa, chlorambucil, nitrogen mustard, bis(2-chloroethyl)ether and bis(2-chloroethyl)nitrosourea) were measured in an $E .$ coli test system ( $E .$ coli multitest) as the integral under the yield-dose curve obtained for each event. This potency corresponds to the cumulative yield of the affected cell population over the entire effective dose range of the chemical treatment. ",
+        "bbox": [
+            64,
+            421,
+            937,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A weak mutagenic activity was detected only for mitomycin C and thiotepa. Except for bis(2-chloro ethyl)ether, all agents were recombinagenic and sOS inducing. ",
+        "bbox": [
+            68,
+            504,
+            929,
+            536
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When the 3 genotoxic potencies (M, R and I) of these bifunctional alkylating agents were correlated, separately or in combination, with the respective carcinogenic potencies in rodents, a highly significant correlation was obtained with both the recombinagenic and SOS inducing potencies. ",
+        "bbox": [
+            66,
+            537,
+            937,
+            585
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A number of short-term tests for genotoxicity have contributed to the characterization of different genetic effects resulting from DNA damage induced by chemical and physical agents (Hollaender, 1971-1976; Hollaender and de Serres, 1978; de Serres and Hollaender, 19801986). ",
+        "bbox": [
+            66,
+            636,
+            479,
+            733
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Most carcinogens (at least $9 0 \\%$ have been shown to induce mutation and/or DNA rearrangements in eukaryotic or prokaryotic organisms (ICPEMC, 1984). These observations support the hypothesis that one or more genetic alterations may be involved in the process of carcinogenesis. ",
+        "bbox": [
+            66,
+            734,
+            479,
+            831
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A correlation between the induction of chromosomal events (sister-chromatid exchange and chromosome breakage), cell transformation and malignancy has been shown in human lymphoblastoid cell lines from Bloom syndrome patients treated with different carcinogens (Shirahishi, 1985). However, observations of high spontaneous mutation rates in cells from Bloom syndrome patients also support the correlation between carcinogenesis and mutagenesis in general (Gupta and Goldstein, 1980; Warren et al., 1981; Vijayalaxmi et al., 1983). It is of considerable fundamental and practical importance to know whether a quantitative correlation exists between mutagenic, recombinagenic and carcinogenic potencies. ",
+        "bbox": [
+            522,
+            635,
+            935,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have developed an $E$ coli test system ( $E .$ ",
+        "bbox": [
+            547,
+            878,
+            929,
+            892
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "coli multitest) (Toman et al., 1985; Quinto et al., submitted; Tenenbaum et al., submitted) which allows the measurement of all major known effects of DNA damage: mutation, recombination and SOS induction. The E. coli multitest was used to measure the mutagenic, recombinagenic and SOS inducing potency of 9 monofunctional alkylating agents (Quinto et al., in preparation) for which no correlation was found between the mutagenic potency in Salmonella typhimurium and the carcinogenic potency in rodents (Bartsch et al., 1983). The results of that analysis in $E .$ coli proved the existence of a highly significant correlation between the carcinogenic potency in rodents and the product of the mutagenic and recombinagenic potency of these agents in E. coli. ",
+        "bbox": [
+            64,
+            92,
+            475,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To verify whether the same kind of correlation holds for other classes of DNA damaging agents, we have examined the genotoxic spectrum of 6 bifunctional alkylating (cross-linking) agents in the $E$ coli multitest. The number of alkylating agents tested is small: this is because there are only a few bifunctional directly acting alkylating agents with known carcinogenic potency. These chemicals are known to damage DNA by causing DNA inter- and intra-strand cross-links in addition to monoadducts. Therefore, they represent a class of chemicals generating DNA lesions (cross-links) which are very different from methyl and ethyl adducts generated by monofunctional alkylating agents. ",
+        "bbox": [
+            64,
+            356,
+            475,
+            600
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The results show a significant simple correlation between the carcinogenic and either the recombinagenic or SOS inducing potency for the 6 bifunctional alkylating agents, their mutagenic potency being negligible. ",
+        "bbox": [
+            62,
+            601,
+            475,
+            631
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            92,
+            933,
+            140
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            157,
+            707,
+            172
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Chemicals ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            191,
+            602,
+            205
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mitomycin C (MitC) was purchased from Kyowa; nitrogen mustard $( \\mathrm { H N } _ { 2 } )$ and chlorambucil (CAB) were from Sigma; bis(2-chloroethyl)- nitrosourea (BCNU) was from Sintesa S.A.; thiotepa was from Cyanamid Benelux; bis(2-chloroethyl)ether (BCEE) was from Aldrich-Chemie. ",
+        "bbox": [
+            522,
+            208,
+            931,
+            304
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The chemicals were dissolved in distilled water (MitC and thiotepa) or dimethyl sulfoxide from Merck $\\mathrm { ( H N _ { 2 } }$ , CAB, BCNU, BCEE). ",
+        "bbox": [
+            520,
+            306,
+            931,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            372,
+            572,
+            386
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { T B } _ { 1 }$ medium is $1 \\%$ tryptone, $0 . 5 \\%$ sodium chloride, $1 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ vitamin $\\mathbf { B } _ { 1 }$ MacConkey medium Difco) contains $1 \\%$ galactose or lactose and it is prepared without autoclaving according to the firm's indications. ",
+        "bbox": [
+            520,
+            389,
+            931,
+            468
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "E. coli multitest strains ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            487,
+            705,
+            502
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A set of $E .$ coli strains (Table 1), previously described (Toman et al., 1985; Quinto et al.. in preparation; Tenenbaum et al., in preparation), allows the detection of 3 different effects of DNA damage: mutation (M), recombination (R) and SOS induction (I). ",
+        "bbox": [
+            520,
+            503,
+            929,
+            600
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The tester strains contain a fusion between the bacteriophage lambda immunity region (cI and cro genes) and the bacterial gal operon in a way that the gal operon is under the negative control of the CI repressor (Toman et al., 1985). The inactivation of the CI repressor either by mutations occurring in the cI gene or by cleavage of the CI protein by the recA-dependent protease activity following DNA damage (SOS induction) results in the expression of the gal operon. Since the cI,cro-gal fusion system provides a stable epigenetic switch following temporary inactivation of the CI repressor protein, both SOS induction and mutation phenomena are detected by the appearance of $\\mathrm { G a l ^ { + } }$ colonies on MacConkey plates containing galactose. The mutations are specifically measured in MT 103 or MT 126 strains which carry a $c \\mathrm { I } ^ { + } i n d ^ { - } { - } g a l$ fusion $c \\operatorname { I } ^ { + } i n d ^ { - }$ mutation precludes detection of SOS induction). The SOS induction, measured as cleavage of the CI repressor, is specifically measured in the MT 119 strain, which carries 2 copies of the $c \\mathbf { I } ^ { + }$ gene, one of them closed to the gal operon (this 'diploidy' precludes detection of the recessive $c \\mathbf { I }$ mutations). ",
+        "bbox": [
+            520,
+            602,
+            931,
+            632
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/32891ed6706e94d22f52d3ec838f7779a1939ade8665a602b8881d861cb6f8b6.jpg",
+        "table_caption": [
+            "TABLE 1 E. coli MULTITEST STRAINS ",
+            "All strains carry a defective $\\lambda$ prophage whose cro gene is fused to the bacterial gal operon (Toman et al., 1985). MT 119 carries an additional defective $\\lambda$ prophage $( \\lambda t r p 4 8 )$ whose $N$ gene is fused to trp A, B, C, D bacterial genes (Franklin, 1971). MT 126 was constructed by P1 transduction of $l a c Z 8 1 3$ ochre and MudII $A : : \\operatorname { T n } { \\mathcal { G } }$ ( $A p$ , lac) genetic markers from MT 119 into MT 103. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            62,
+            755,
+            931,
+            891
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            64,
+            93,
+            477,
+            453
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recombination occurring between 2 intrachromosomal lacZ heteroalleles is measured in both strains MT 119 and MT 126 by the appearance of ${ \\mathrm { L a c } } ^ { + }$ colonies on MacConkey plates containing lactose (Quinto et al., submitted). ",
+        "bbox": [
+            64,
+            454,
+            477,
+            534
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tests for mutation, recombination and SOS induction ",
+        "text_level": 1,
+        "bbox": [
+            64,
+            552,
+            477,
+            583
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Bacteria were grown up to the exponential phase (about $4 \\times 1 0 ^ { 8 } ~ \\mathrm { c e l l s / m l } )$ in TB1 at $3 7 ^ { \\circ } \\mathrm { C }$ with shaker, sedimented by centrifugation and resuspended in the same volume of $0 . 1 \\textbf { \\ M }$ Tris-HCl buffer, $\\mathsf { p H } ~ 7 . 4$ One-ml aliquots were incubated with the test chemical at different concentrations ranging from non-toxic to highly toxic doses leaving $\\leq 1 0 ^ { - 2 }$ surviving cells. Incubation was performed at $3 7 ^ { \\circ } \\mathbf { C }$ for $1 0 \\ \\mathrm { m i n }$ ; bacteria were washed twice, resuspended in $1 0 ^ { - 2 } \\mathrm { ~ M ~ M g S O _ { 4 } }$ and plated at appropriate dilutions on MacConkey medium containing galactose or lactose. After $1 9 \\ \\mathrm { h }$ incubation at $3 7 ^ { \\circ } C$ the plates were scored for survival and Lac+ and $\\mathrm { G a l ^ { + } }$ colonies. Spontaneous events occurred at a frequency of $1 0 ^ { - 5 }$ for mutation, and $1 0 ^ { - 4 }$ for recombination and SOS induction. ",
+        "bbox": [
+            64,
+            585,
+            477,
+            844
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Results and discussion ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            92,
+            703,
+            107
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mutagenic, recombinagenic and SOS inducing potency ",
+        "bbox": [
+            519,
+            125,
+            933,
+            157
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Following the treatment with a chemical, dose-effect curves were obtained for each type of induced event (M, R and I). In such curves, the dose was expressed in terms of lethal hits (z) calculated as -ln survival, and the effect was expressed in terms of yield, i.e. the fraction of treated cells giving rise to altered colonies (Fig. 1). Lethal hits were chosen as units of 'biological dose', since the dose or concentration of the agent is irrelevant to this quantification method. For example, for unstable agents or agents that differ in the uptake and/or metabolization, the measure of the genetic alterations versus lethal hits will tend to normalize the effects of different agents on the basis of their respective toxic effects (Haynes and Eckardt, 1980). ",
+        "bbox": [
+            520,
+            159,
+            933,
+            419
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The yield of mutants, recombinants and SOS inductants was calculated as: ",
+        "bbox": [
+            543,
+            420,
+            933,
+            436
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/d72cb9e860b06928d7c790046bfda8f8fa761c7aae22362336e5adff2488da7c.jpg",
+        "image_caption": [
+            "Fig. 1. Model of analysis of a dose-response curve for mutation, recombination or SOS induction in the $E$ coli multitest. The potency represents the cumulative yield of the affected cell population $( n / N$ in this figure) over the entire effective dose range of the chemical treatment. $Y _ { \\mathrm { m a x } }$ is the maximum yield of the affected cells. $z _ { \\mathrm { m a x } }$ is the number of lethal hits (z) giving the maximum yield. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            519,
+            469,
+            935,
+            795
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            64,
+            92,
+            304,
+            107
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/3853af34b63318f91446ce7778c889e7d76a10fe294a8e83f292a92254e37362.jpg",
+        "text": "$$\n\\frac { n _ { \\mathrm { { x } } } - n _ { 0 } ( S _ { \\mathrm { { x } } } ) } { N _ { \\mathrm { { 0 } } } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            62,
+            119,
+            173,
+            159
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $n _ { \\mathrm { ~ x ~ } }$ is the number of altered colonies (per ml of cell culture) at dose $x$ (the induced events), $n _ { 0 }$ is the number of altered colonies (per ml of cell culture) at dose 0 (the spontaneous events), $S _ { \\mathbf { x } }$ is the survival fraction at dose $x$ and $N _ { 0 }$ is the number of colonies (per ml of cell culture) at dose 0. ",
+        "bbox": [
+            62,
+            172,
+            477,
+            287
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As shown in Fig. 1, from each yield curve (M, R and I), the 3 following parameters were calculated: Potency $( P )$ , as the integral under the dose-effect curve; $- \\mathrm { ~ \\textit ~ { ~ Y ~ } ~ } _ { \\operatorname* { m a x } }$ , as the yield of altered colonies at the maximally effective treatment; $- \\quad z _ { \\mathrm { m a x } }$ , as the number of lethal hits giving the maximum yield $( Y _ { \\mathrm { { m a x } } } )$ . ",
+        "bbox": [
+            62,
+            288,
+            477,
+            435
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "By the use of these parameters, a spectrum of genotoxicity of bifunctional alkylating agents was determined, as shown in Table 2. ",
+        "bbox": [
+            87,
+            436,
+            477,
+            451
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            92,
+            933,
+            123
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "MitC and thiotepa revealed only a weak mutagenic activity, while BCNU, $\\mathrm { H N } _ { 2 }$ , BCEE and CAB were not detectable (Table 2). The lack of detection of the mutagenic activity of the 4 compounds might be due to the level of spontaneous mutations in the $c { \\bf I } ^ { + } i n d ^ { - }$ gene occurring at a frequency of $1 0 ^ { - 5 }$ Thus, very weak mutagens will be ineffective in this forward mutation test system. MitC was previously reported to be a poor mutagen in reverse mutation test systems employing ${ \\mathfrak { u } } { \\mathfrak { v } } { \\mathfrak { r } } ^ { + }$ strains of $E .$ coli (Kondo et al., 1970; Green et al., 1976) and S. typhimurium (McCann et al. 1975). MitC was poorly active also in producing 6-thioguanine resistant mutants in V79 hamster cells (A. Abbondandolo, personal communication). These data suggest that DNA inter- and intrastrand cross-links produced by bifunctional alkylating agents are predominantly lethal lesions. $E$ coli requires functional uur and rec functions (Kondo et al., 1970) to repair cross-links mostly in an error-free way such that the surviving cells are poorly mutated. ",
+        "bbox": [
+            522,
+            125,
+            933,
+            453
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4819ea209847ff3e2334c1f6b39358a4e7ed95225ad107badbcebc3a08bfa713.jpg",
+        "table_caption": [
+            "TABLE 2 GENOTOXICITY SPECTRUM OF BIFUNCTIONAL ALKYLATING AGENTS IN E. coli Each value represents the mean of at least 3 separate experiments $\\pm \\ : \\mathrm { S . E }$ . "
+        ],
+        "table_footnote": [
+            "nd: not detected. "
+        ],
+        "bbox": [
+            62,
+            542,
+            929,
+            876
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            64,
+            89,
+            479,
+            122
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "All bifunctional alkylating agents, except BCEE, were recombinagenic and SOS inducing (Table 2). The recombinagenic potency of these compounds ranged by a factor of 20, while the SOS inducing potency ranged by a factor of 400 (Table 2). The lack of detectable genotoxic effects by the weak carcinogen BCEE could be due to a low sensitivity of $E .$ coli tester strains or to the need for metabolic activation of this compound. All these agents undergo metabolism in mammals and the contribution of metabolic activation/detoxification to their carcinogenic effects is unknown. This aspect is not taken into account as this test does not utilize a metabolizing system. That applies in particular to BCEE which is thought to be quantitatively metabolized into 2-chloroacetaldehyde (Lingg et al., 1979; Müller and Norpoth, 1979; Gwinner et al., 1983), which is mutagenic in Salmonella (Malaveille et al., 1975; McCann et al., 1975). Since BCEE was negative for the 3 genetic endpoints measured, it would be worthwhile, in future, to assay 2-chloroacetaldehyde in this new test system. ",
+        "bbox": [
+            66,
+            125,
+            479,
+            499
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A positive correlation was found between the R and I potencies (Fig. 2), as was previously shown also for 9 monofunctional alkylating agents tested in the $E _ {  }$ coli multitest (Quinto et al., in preparation). However, the high correlation coefficient ${ r = 0 . 9 9 0 }$ was essentially found because of the outlying point of MitC. When MitC was omitted, the correlation coefficient found for the remaining compounds was not significant $\\begin{array} { r } { r = 0 . 7 3 5 , } \\end{array}$ . ",
+        "bbox": [
+            64,
+            500,
+            475,
+            646
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We would like to make a comment on the absence of a quantitative correlation between M and I potencies (Table 2). Thiotepa, which is as mutagenic as MitC, is a much weaker inducer of CI repressor cleavage. On the other hand, $\\mathrm { H N } _ { 2 }$ , which lacks detectable mutagenic activity in our system, is a stronger inducer of CI cleavage than thiotepa. M and I potencies did not correlate in the $E .$ coli multitest also in the case of 9 monofunctional alkylating agents (Quinto et al., in preparation). Thus, mutagenesis and SOS induction, measured in parallel and with the same methodology in the $E$ coli multitest, do not correlate, whereas recombinagenesis and SOS induction do correlate. However, with other experimental systems to measure SOS induction (SOS chromotest) and mutagenesis (Salmonella test), and with different quantification methods, a correlation was shown between I and M (Quillardet et al., 1982), which may be due to the fact that the vast majority of test compounds are mutagenic via induction of SOS functions. ",
+        "bbox": [
+            64,
+            648,
+            477,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/bf1a69f811ce0cbf414437cd4866592bd9485f36765790b2abd3c648eb40b2c5.jpg",
+        "image_caption": [
+            "Fig. 2. SOS inducing potency versus recombinagenic potency of bifunctional alkylating agents. Each value is the mean of at least 3 separate experiments. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            566,
+            95,
+            882,
+            448
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            534,
+            935,
+            647
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Carcinogenic potency versus genotoxic potencies ",
+        "text_level": 1,
+        "bbox": [
+            524,
+            668,
+            901,
+            681
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The $\\mathrm { T D } _ { 5 0 }$ value has been recently proposed as a numerical measure of the carcinogenic potency of chemicals in chronic exposure experiments (Bartsch et al., 1983; Peto et al., 1984). According to Peto et al. (1984), the $\\mathrm { T D } _ { 5 0 }$ value represents the chronic dose rate (expressed in $\\mathbf { m g / k g }$ b.w./day) which would induce tumors in half the test animals at the end of a standard lifespan. ",
+        "bbox": [
+            522,
+            682,
+            935,
+            810
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the present work the carcinogenic potency in rodents is expressed as the reciprocal of the $\\mathrm { T D } _ { 5 0 }$ median value (see legend to Fig. 3). Only highly significant values $P \\leqslant 0 . 0 0 0 5 )$ for induction of tumors at the most sensitive sites were used to calculate the median $\\mathrm { T D } _ { 5 0 }$ value from the Carcinogenic Potency Data Base (Gold et al., 1984). The $\\mathrm { T D } _ { 5 0 }$ value of BCNU is a personal communication of Dr. A. Barbin, I.A.R.C., Lyon. The 6 agents showed a wide range of carcinogenic potency (over 5 orders of magnitude) (Figs. 3, 4). ",
+        "bbox": [
+            522,
+            812,
+            933,
+            892
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/1b719b63b1381a45a940eae61cc1e3ce76af8cd55cc5eb883af046bfa77a7d22.jpg",
+        "image_caption": [
+            "Fig. 3. Carcinogenic potency in rodents versus genotoxic potencies in $E$ coli. The carcinogenic potency is represented by the reciprocal of the $\\mathrm { T D } _ { 5 0 }$ meian value in rodents, calculated from Gold etal. (1984) (e Results and discussion section). This vlue is 971 for MitC, 88 for ${ \\mathsf { H N } } _ { 2 }$ , 40 for BCNU. 6.2 for thiotepa, 4.8 for CAB. 0.05 for BCEE. The genotoxic potencies are represented by the recombinagenic (a) and SOS inducing (b) potency. The value 0 was given to the R and I potencies of BCEF. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            188,
+            93,
+            813,
+            431
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            64,
+            534,
+            477,
+            631
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The M, R and I potencies of 6 bifunctional alkylating agents (Table 2) were correlated with the carcinogenic potency $( \\mathrm { T D } _ { 5 0 } ^ { \\mathrm { ~ - ~ } 1 }$ in rodents. Mean values of M, R and I potency and median values of $\\mathrm { T D } _ { 5 0 } ^ { \\mathrm { ~ \\scriptsize ~ - ~ } 1 }$ were analyzed by linear, exponential, power and logarithmic regression, using the least square fitting method. ",
+        "bbox": [
+            64,
+            632,
+            477,
+            745
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since $\\mathrm { H N } _ { 2 }$ , BCNU, CAB and BCEE were negative in the forward mutation assay, the mutagenic potency could not be taken into account. However, a lack of correlation between the mutagenic and carcinogenic potencies is suggested by the following arguments: ",
+        "bbox": [
+            64,
+            746,
+            477,
+            842
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) MitC, which is the strongest carcinogen among the bifunctional agents analyzed, is as mutagenic as thiotepa, a relatively weak carcinogen; (2) $\\mathrm { H N } _ { 2 }$ which is an undetectable mutagen in the forward mutation system, is a stronger carcinogen than thiotepa, whose mutagenic activity was detected. A lack of correlation between mutagenic and carcinogenic potencies was also found for monofunctional alkylating agents (Quinto et al., in preparation). ",
+        "bbox": [
+            62,
+            843,
+            475,
+            889
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            533,
+            933,
+            647
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "A direct positive correlation with the carcinogenic potency in rodents was obtained with both R and I potencies (Fig. 3), as is expected from the direct correlation between R and I potency (Fig. 2). However, the correlation with the $\\mathbf { R }$ potency appears somewhat higher than with I potency $r = 0 . 9 9 9$ versus $r = 0 . 9 8 9 _ { , }$ (Figs. 3, 4). The correlation was still high when MitC, which appeared as an outlying point in Fig. 3, was omitted ( $r =$ 0.928 and 0.901 for R and I, respectively). ",
+        "bbox": [
+            522,
+            648,
+            933,
+            809
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Although the quantitative correlation between genotoxicity and carcinogenicity using $E .$ coli multitest has been established only for directly acting carcinogens, it is plausible that similar or other calibration curves will be obtained for carcinogens requiring metabolic activation. In that case, the $E$ coli multitest would provide a basis for a quantitative estimate of carcinogenicity in animals. ",
+        "bbox": [
+            522,
+            810,
+            931,
+            889
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a68f6b86397b6986aa02b71d5aae25a9b7b12bef53e5a2789969b23050c1f84d.jpg",
+        "image_caption": [
+            "Fig. 4. Rodent carcinogenicity/E. coli genotoxicity calibration curve for 6 bifunctional alkylating agents. The carcinogenic potency is represented by the reciprocal of the $\\mathrm { T D } _ { 5 0 }$ median value in rodents $\\pm$ the reciprocal of the lowest and highest $\\mathrm { T D } _ { 5 0 }$ values (see legend to Fig. 3). The R potency is represented by the mean value of at least 3 separate experiments $\\pm \\ : \\mathrm { { \\bf S . E } }$ The recombinagenic potency of BCEE is indicated by an arrow since the recombinagenic activity of BCEE was not detected. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            91,
+            99,
+            429,
+            446
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            64,
+            601,
+            477,
+            665
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bifunctional alkylating agents are known as potent inducers of chromosomal rearrangements and aberrations in eukaryotic cells (Cohen and Shaw, 1964; Hampel et al., 1966; Loveless, 1966; Bochkov and Kuleshov, 1972; Reeves and Margoles, 1974) and it may be that recombination events in bacteria are induced by the same kind of DNA damage causing chromosomal rearrangements in mammalian cells. Such recombinagenic activity in eukaryotic and prokaryotic systems may be related to the mechanisms of oncogene activation: activation of oncogenes by translocation was reported for c-myc, c-abl, bcl-l and bcl-2 oncogenes (for review, see Barbacid, 1986). The development of leukemias was reported following cytotoxic therapy with CAB (Catovsky and Galton, 1971; Tulliez et al., 1974), thiotepa (Allan, 1970; Garfield, 1970; Sypkens-Smit and Meyler, 1970; Kaslow et al., 1972; Perlman and Walker, 1973; Greenspan and Tung, 1974) and BCNU (Cohen et al., 1976). ",
+        "bbox": [
+            66,
+            668,
+            479,
+            893
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            91,
+            931,
+            204
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The correlation between the carcinogenic potency and I potency may simply reflect the co-induction of recombination and SOS system in E. coli, but it is not impossible that an epigenetic event triggered by DNA damage is involved as a step of carcinogenesis, be it directly or by controlling a genetic event (e.g., DNA rearrangement). ",
+        "bbox": [
+            519,
+            206,
+            931,
+            319
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "While any correlations between the mechanisms of induced genetic alterations in bacteria and mammalian cells are in the realm of speculations, the present work provides 2 valuable contributions: (1) a novel methodology (a new experimental system and a new quantification method) for the determination of a rather complete genotoxicity profile of chemical and physical agents, and (2) quantitative correlations between the genotoxic potencies determined in a rapid bacterial test and carcinogenic potency determined in longterm animal tests. ",
+        "bbox": [
+            520,
+            321,
+            931,
+            515
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            534,
+            674,
+            549
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "I.Q. thanks the Department of Molecular Biology, Free University of Brussels, Rhode-StGenèse (Belgium), where a large part of the experiments was performed and supported by an IARC fellowship and Euratom Contract B1601 $5 5 / \\mathbf { B }$ ",
+        "bbox": [
+            522,
+            565,
+            933,
+            662
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            685,
+            610,
+            699
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Allan, W.S.A. (1970) Acute myeloid leukemia after treatment with cytostatic agents, Lancet, ii, 775.   \nBarbacid, M. (1986) Mutagens, oncogenes and cancer, Trends Genet., 2, 188192.   \nBartsch, H., B. Terracini, C. Malaveille, L. Tomatis, J. Wahrendorf, G. Brun and B. Dodet (1983) Quantitative comparison of carcinogenicity, mutagenicity and electrophilicity of 10 direct-acting alkylating agents and of the initial $0 ^ { 6 }$ :7-alkylguanine ratio in DNA with carcinogenic potency in rodents, Mutation Res., 110, 181219.   \nBochkov, N.P., and N.P. Kuleshov (1972) Age sensitivity of human chromosomes to alkylating agents, Mutation Res.. 14, 345353.   \nCatovsky, D., and D.A.G. Galton (1971) Myelomonocytic leukemia supervening on chronic lymphocytic leukemia, Lancet, i, 478479.   \nCohen, M.M., and M.W. Shaw (1964) Effects of mitomycin C on human chromosomes, J. Cell. Biol., 23, 386-395.   \nCohen, R.J., P.H. Wiernik and M.D. Walker (1976) Acute nonlymphocytic leukemia associated with nitrosourea chemotherapy: report of two cases. Cancer Treat. Rep.. 60, 1257-1261.   \nde Serres, F.J., and A. Hollaender (19801986) Chemical Mutagens. Principles and Methods for their Detection, Plenum Press, New York, Vols. 6-10.   \nFranklin, N.C. (1971) The $\\mathbf { N }$ operon of Lambda: extent and regulation as observed in fusions to the trypthophan operon of E. coli, in: A.D. Hershey (Ed.). The Bacteriophage Lambda, Cold Spring Harbor Laboratory, New York, pp. 621-638.   \nGarfield, D.H. (1970) Acute erythromegakaryocytic leukemia after treatment with cytostatic agents, Lancet, ii, 1037.   \nGold, L.S., C.B. Sawyer, R. Magaw. G.M. Backman, M. de Veciana, R. Levinson, N.K. Hooper, W.R. Havender, L. Bernstein, R. Peto, M.C. Pike and B.N. Ames (1984) A carcinogenic potency database of the standardized results of animal bioassays, Environ. Health Perspect., 58, 9319.   \nGreen, M.H.L., W.J. Muriel and B.A. Bridges (1976) Use of a simplified fluctuation test to detect low levels of mutagens. Mutation Res., 38, 3342.   \nGreenspan, E.M., and B.G. Tung (1974) Acute myeloblastic leukemia after cure of ovarian cancer, J. Am. Med. Assoc.. 230, 418420.   \nGupta, R.S. and S. Goldstein (1980) Diphtheria toxin resistance in human fibroblast cell strains from normal and cancer-prone individuals, Mutation Res.. 73, 331338.   \nGwinner, L.M., R.J. Laib, J.G. Filser and H.M. Bolt (1983) Evidence of chloroethylene oxide being the reactive metabolite of vinylchloride towards DNA: comparative studies with $^ { 2 , 2 ^ { \\prime } }$ -dichlorodiethylethylether. Carcinogenesis, 4. 14831486.   \nHampel, K.E., B. Kober, D. Rosch, H. Gerhartz and K.H. Meinig (1966) The action of cytostatic agents on the chromosomes of human leukocytes in vitro, Blood, 27, 816823.   \nHaynes, R.H., and F. Eckardt (1980) Mathematical analysis of mutation-induction kinetics, in: F.J. de Serres and A. Hollaender (Eds.). Chemical Mutagens. Principles and Methods for their Detection, Plenum, New York, pp. 271304.   \nHollaender, A. (19711976) Chemical Mutagens. Principles and Methods for their Detection, Plenum, New York, Vols. 1-4.   \nHollaender, A., and F.J. de Serres (1978) Chemical Mutagens. Principles and Methods for their Detection, Plenum. New York, Vol. 5.   \nICPEMC Publication No. 9 (1984) Report of ICPEMC Task Group 5 on the differentiation between genotoxic and non-genotoxic carcinogens, Mutation Res., 133, 149.   \nKaslow, R.A., N. Wisch and J.L. Glass (1972) Acute leukemia following cytostatic therapy. J. Am. Med. Assoc. 219, 7576.   \nKondo, S.. H. Ichikawa. K. Iwo and T. Kato (1970) Base-change mutagenesis and prophage induction in strains of $E$ coli with different DNA repair capacities, Genetics, 66, 187217.   \nLingg. R.D.. W.H. Kaylor, S.M. Pyle and R.G. Tardiff (1979) Thyodiglycolic acids: a major metabolite of bis(2-chloroethyl)ether, Toxicol. Appl. Pharmacol., 47, 2334.   \nLoveless, A.6Geeic n Alli Effecto A Agents, Butterworth, London.   \nMalaveille, C.. H. Bartsch, A. Barbin, A.M. Camus and R. Montesano (1975) Mutagenicity of vinyl chloride, chloroethyleneoxide, chloroacetaldehyde and chloroethanol, Biochem. Biophys. Res. Commun., 63, 363370.   \nMcCann, J., N.E. Spingarn, J. Kobori and B.N. Ames (1975) Detection of carcinogens as mutagens: bacterial tester strains with R factor plasmids. Proc. Natl. Acad. Sci. (U.S.A.), 72, 979983.   \nMcCann, J., V. Simmon, D. Streitwieser and B.N. Ames (1975) Mutagenicity of chloroacetaldehyde, a possible metabolic product of 1,2-dichloroethane, chloroethanol, vinylchloride, and cyclophosphamide, Proc. Natl. Acad. Sci. (U.S.A.). 72, 31903193.   \nMüller, G., and K. Norpoth (1979) Identification of $s \\cdot$ (carboxymethyl)-l-cysteine and thiodiglycollic acids. urinary metabolites of ${ } _ { 2 , 2 ^ { \\prime } . }$ -bis-(chloroethyl)ether in the rat. Cancer Lett., 7, 299305.   \nPeran  .WalkeAcue leukemia o cytostatic chemotherapy, J. Am. Med. Assoc., 224. 250.   \nPeto, R., M.C. Pike, L. Bernstein, L.S. Gold and B.N. Ames (1984) The $\\mathrm { T D } _ { 5 0 }$ : a proposed general convention for the numerical description of the carcinogenic potency of chemicals in chronic-exposure animal experiments. Environ. Health Perspect., 58, 18.   \nQuillardet, P., O. Huisman, R. D'Ari and M. Hofnung (1982) SOS chromotest, a direct assay of induction of an SOS function in $E$ coli K-12 to measure genotoxicity. Proc. Natl. Acad. Sci. (U.S.A.), 79, 59715975.   \nReeves, B.R., and C. Margoles (1974) Preferential location of chlorambucil-induced breakage in the chromosomes of normal human lymphocytes, Mutation Res., 26, 205208.   \nShirahishi, Y. (1985) Bloom syndrome B-lymphoblastoid cells are hypersensitive towards carcinogen and tumor promoterinduced chromosomal alterations and growth in agar. EMBO J., 4, 25532560.   \nSypkens-Smit, G.C.. and L. Meyler (1970) Acute myeloid leukemia after treatment with cytostatic agents, Lancet, ii, 671672.   \nToman, Z.. C. Dambly-Chaudière, L. Tenenbaum and M. Radman (1985) A system for detection of genetic and eieeic alteations colinduced y agents, J. Mol. Biol., 186, 97105.   \nTulliez, M.. M.F. Ricard, F. Jan and C. Sultan (1974) Preleukemic abnormal myelopoiesis induced by chlorambucil. A case study, Scand. J. Haemat., 13, 179183.   \nVijayalaxmi, H.J. Evans, J.H. Ray and J. German (1983) Bloom's syndrome: evidence for an increased mutation frequency in vivo, Science, 221, 851853.   \nWarren, S.T.. R.A. Schultz, C.C. Chang, M.H. Wade and J.E. Trosko (1981) Elevated spontaneous mutation rate in Bloom syndrome fibroblasts, Proc. Natl. Acad. Sci. (U.S.A.). 78. 3133-3137 ",
+        "bbox": [
+            522,
+            717,
+            935,
+            891
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            62,
+            93,
+            479,
+            893
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            92,
+            933,
+            877
+        ],
+        "page_idx": 7
+    }
+]

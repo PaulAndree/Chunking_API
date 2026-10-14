@@ -1,0 +1,445 @@
+[
+    {
+        "type": "text",
+        "text": "Protection and Host Cell Repair of Irradiated Lambda Phage I. Irradiation of Normal Phage with Ultraviolet Light ",
+        "text_level": 1,
+        "bbox": [
+            145,
+            174,
+            856,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. RADMAN\\*, A. ROLLER\\*\\* and M. ERRERA Laboratoire de Biophysique et Radiobiologie, Faculté des Sciences, Université libre de Bruxelles ",
+        "bbox": [
+            226,
+            230,
+            767,
+            278
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received March 10, 1969 ",
+        "bbox": [
+            399,
+            291,
+            598,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Summary. Phage λ, irradiated with ultraviolet light in the presence and absence of the free-radical scavenger and proton donor, cysteamine, have been assayed on normal and DNA-repair deficient bacteria. It has been concluded that cysteamine protects the phage against lesions of a type which can be repaired by the bacterial DNA-repair systems. Presumably, these are pyrimidine dimers. ",
+        "bbox": [
+            126,
+            324,
+            871,
+            394
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            440,
+            419,
+            555,
+            434
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA, exposed to ionizing radiations, is partially protected by the presence of certain sulfhydryl compounds, such as cysteamine (Cy) (BAcQ and ALExANDER, 1961). Protection is probably due to the ability of such compounds to act as proton donors and scavengers of free radicals (ORMERoD and ALExANDER, 1963). It has been reported that, in the case of Tl phage exposed to ultraviolet (UV) light, there is no protection by Cy (HoTz, 1963). The present experiments were undertaken to determine whether a protective effect of Cy is masked by the DNA repair systems of the host bacterium on which the irradiated phage are assayed. This has indeed been found to be true in the case of phage λ. The mechanism of protection by Cy is discussed; it is probably due to the partial suppression of pyrimidine dimer formation. ",
+        "bbox": [
+            126,
+            440,
+            873,
+            626
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Materials and Methods ",
+        "text_level": 1,
+        "bbox": [
+            395,
+            653,
+            602,
+            670
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phage. λcI 857, a thermosensitive c mutant isolated by SussMAN and JAcoB (1962), was kindly provided by Dr. R. ThoMas. Lysogens of this phage grow normally below $\\mathbf { 3 2 } ^ { \\circ } \\mathbf { C }$ but are induced upon exposure to $\\mathbf { 4 2 } ^ { \\circ } \\mathbf { C } .$ . ",
+        "bbox": [
+            128,
+            673,
+            876,
+            716
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacteria. The bacterial strains on which irradiated phage were assayed were the kind gift of Dr. A. RöRSCH. They are: ",
+        "bbox": [
+            128,
+            716,
+            869,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KMBL 49, a (rec+uvr+) threonine-leucine-thymine\"pyrimidine-lactose-T1 resistant mutant of Escherichia coli CR 34. As its DNA repair system is intact, it is here considered to be wild type (WT). ",
+        "bbox": [
+            126,
+            745,
+            869,
+            785
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KMBL 24l is a recombination (rec) deficient derivative of KMBL 49. This strain (rec 36) is a rec $\\pmb { A }$ mutant, which is here called rec $A ^ { - }$ . ",
+        "bbox": [
+            126,
+            786,
+            871,
+            812
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "KMBL 100 (dar 5) is a host cell reactivation deficient strain, mutated in the uvr $\\boldsymbol { C }$ gene, called uvr $\\mathit { C ^ { - } }$ It is incapable of excision of UV induced damages in DNA (HowARD-FLANDERS et al., 1966). ",
+        "bbox": [
+            130,
+            814,
+            869,
+            855
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "These strains are all described by RöRsCH and collaborators (vAN DE PUTTE et al., 1965, 1966). ",
+        "bbox": [
+            123,
+            104,
+            869,
+            131
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli $\\mathrm { ~ C ~ } 6 0 0$ and a thymineless mutant CR 34 were obtained from Dr. R.THoMAs. CR 34 $( \\lambda c \\mathbf { T } 8 5 7 ) / \\lambda$ was prepared by lysogenization of CR 34 with $\\lambda c \\mathbf { 1 8 5 7 }$ , followed by selection of a $\\lambda$ -resistant strain. ",
+        "bbox": [
+            128,
+            133,
+            871,
+            174
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Compared to its efficiency of plating on WT or C 600, $\\lambda$ plates with ${ \\bf 9 5 \\% }$ efficiency on uvr $\\mathrm { ~ \\texttt ~ { ~ C ~ } ~ } ^ { - }$ and about $8 0 \\%$ efficiency on rec $A ^ { - }$ bacteria. ",
+        "bbox": [
+            123,
+            174,
+            869,
+            201
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media. $\\mathrm { T B } _ { 1 }$ broth and the $\\mathrm { T A } _ { 1 2 }$ agar medium used for plating are described by KAISER (1955). TMG is $\\mathbf { 1 0 ^ { - 2 } M }$ tris pH 7.5, ${ \\bf 1 0 ^ { - 2 } }$ M $\\mathbf { M g 8 0 _ { 4 } }$ , and $0 . 0 1 \\%$ gelatin. MM is a mineral medium (DuNN and SmTTH, 1957). It was supplemented to contain $0 . 5 \\%$ casamino acids, $1 \\%$ glucose and $0 . 0 0 0 1 \\%$ thiamine hydrochloride. SM is a storage medium prepared according to WEIGLE et al. (1959). ",
+        "bbox": [
+            126,
+            203,
+            871,
+            273
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Preparation of Phage Stocks. An overnight culture of CR 34 $( \\lambda c \\mathbf { I } 8 5 7 ) / \\lambda$ was diluted 40 fold into supplemented MM and grown to about $2 \\times 1 0 ^ { 8 } / \\mathrm { m l }$ at $\\mathbf { 3 2 } ^ { \\circ }$ Following centrifugation, the bacteria were resuspended in MM supplemented with thymidine $( { \\bf 3 0 } \\ : { \\mu } { \\bf g } / { \\bf m } { \\bf 1 } )$ , shaken for $1 5 \\mathrm { { m i n } }$ at $4 5 ^ { \\circ }$ and then for about an hour at $3 7 ^ { \\circ }$ , or until lysis ccred. The lysate, following low and high speed centrifugation, and treatment with ribonuclease (Sigma Chemical Corporation, $2 0 \\ : \\mu \\mathrm { g / m l }$ , 30 min, $\\mathbf { 3 7 ^ { \\circ } }$ was twice purified in a preparative $\\mathrm { C s C I }$ density gradient (Spinco SW 39 rotor, 23,000 RPM, 20 hours, at $2 0 ^ { \\circ }$ ). This elaborate purification ensured that the phage were comparable to the 5-bromouracil phage employed in experiments described in the succeeding papers. Purified phage, stored at $4 ^ { \\circ }$ in SM, remained viable indefinitely. ",
+        "bbox": [
+            126,
+            273,
+            871,
+            399
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$U V$ Irradiation. Irradiation was carried out with a Mineralight lamp with a maximum output at 2,537 $\\mathrm { \\AA }$ , and a dose rate of 10 ergs $\\mathbf { s e c ^ { - 1 } c m ^ { - 2 } }$ , measured with a Laterjet dosimeter (LATARJET et al., 1953). Phage were irradiated (at 1 mm thickness) at a concentration of $1 0 ^ { 8 }$ particles $/ \\mathbf { m } \\mathbf { l }$ in TMG, with or without $0 . 1 \\%$ cysteamine. ",
+        "bbox": [
+            126,
+            399,
+            871,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cysteamine. Cy $\\beta$ -mercaptoethylamine) was obtained, as the hydrochloride, from Nutritional Biochemicals, Cleveland, Ohio. It was kindly repurified by Dr. B. TursCH. A $2 \\%$ solution, stored at $- 2 0 ^ { \\circ }$ , was diluted to $0 . 1 \\%$ in TMG immediately before use. At this pH, Cy exerts a maximal protective effect (STErN and BLok, 1967). $0 . 1 \\%$ Cy is more than sufficient to give maximum protection. Irradiated phage were diluted at least 20 fold before plating, which ensures that the Cy has no effect on the efficiency of plating. ",
+        "bbox": [
+            126,
+            454,
+            869,
+            540
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Results ",
+        "text_level": 1,
+        "bbox": [
+            465,
+            569,
+            532,
+            586
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda$ were irradiated, in the absence of $\\mathrm { C y }$ , and aliquots withdrawn at intervals. The irradiated phage were assayed on KMBL 49 (WT), KMBL 241 (rec $A ^ { - }$ , and KMBL 100 (uvr $\\displaystyle { C ^ { - } }$ . The survival curves (Fig. 1, open symbols) confirm the findings (review, HowARD-FLANDERs, 1968) that survival is greatest when phage are assayed on WT bacteria, and least on uvr\" bacteria. The results obtained when phage are irradiated in the presence of Cy are shown by the closed symbols. In agreement with the results of Hotz, obtained with phage T1 (Hotz, 1963), Cy has little or no effect on the survival curves of $\\lambda$ , when assayed on WT bacteria. However, the protection afforded by Cy is evident when phage are assayed on uvr $C ^ { - }$ , and also, although to a much lesser extent, on rec $A ^ { - }$ bacteria. ",
+        "bbox": [
+            126,
+            593,
+            873,
+            763
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In Fig. 2, these data are replotted to show lethal hits as a function of UV dose. The reference for the calculation of lethal hits is the steepest inactivation curve, that of phage irradiated in the absence of Cy and assayed on uvr $C ^ { - }$ bacteria. As this curve is approximately a straight line going to the origin, $3 7 \\%$ survival has been assumed to correspond to an average of one lethal hit per particle. ",
+        "bbox": [
+            128,
+            766,
+            873,
+            851
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 1 compares the lethal hits received in the presence and absence of Cy, at a dose of 1,000 ergs $\\mathrm { c m } ^ { - 2 }$ . When phage are assayed on WT, there is of course no effect of $\\mathrm { C y }$ ,whereas on rec $\\mathbf { \\mathcal { A } } ^ { - } \\mathbf { 0 . 5 } .$ , and on uvr $C ^ { - }$ 1.8 hits are eliminted by Cy. ",
+        "bbox": [
+            128,
+            851,
+            873,
+            901
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Table 2 shows the elimination of lethal hits by bacterial repair mechanisms. In the case of the uur $\\boldsymbol { C }$ gene, 5 of the lethal hits sustained in the absence of Cy can be repaired, whereas only 3.3 can be repaired if Cy is present. Thus, 1.7 reparable hits are eliminated by Cy. This is in agreement with the 1.8 hits calculated above. A similar calculation indicates that, in the case of rec $A ^ { - }$ ,0.4 lethal hits are eliminated by Cy, which also agrees with the result of 0.5 above. ",
+        "bbox": [
+            126,
+            103,
+            873,
+            206
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/45983b579390e1a261dda41984c18e99819b46fad008e0e2e30d63a7cf4e0dab.jpg",
+        "image_caption": [
+            ""
+        ],
+        "image_footnote": [],
+        "bbox": [
+            519,
+            346,
+            833,
+            609
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/a5569a60a784f1dcef26a4629a2a6ddfa6599680519f4959cbf5d55c3dc337de.jpg",
+        "image_caption": [
+            "Fig. 1 ",
+            "Fig. 1. Survival of $\\lambda$ irradiated with UV light in the presence (closed symbols) or absence (open symbols) of cysteamine and assayed on WT $( \\circ )$ ; rec $A ^ { - }$ $( \\triangle )$ and uvr $C ^ { - }$ bacteria "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            155,
+            233,
+            482,
+            609
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2. Lethal hits as a function of UV dose. The symbols are the same as in Fig. 1. The reference for the calculation of lethal hits is the curve obtained for A irradiated in the absence of cysteamine and assayed on uvr $C ^ { - }$ bacteria ",
+        "bbox": [
+            126,
+            683,
+            871,
+            728
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/f410090637960a29635ec5181d2f7054b5023255256b08583a37aee6edf62767.jpg",
+        "table_caption": [
+            "Table l. Elimination of lethal hits by cysteamine "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            232,
+            778,
+            760,
+            902
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/5804b81d32a4cc9d1702143dd065a985742a0e07a02172d9d9c611b221c88199.jpg",
+        "table_caption": [
+            "Table 2. Elimination of lethal hits by bacterial repair systems "
+        ],
+        "table_footnote": [
+            "Column 3 is the difference between columns 2 and 1. Column 5 is the difference between columns 4 and 1. "
+        ],
+        "bbox": [
+            123,
+            124,
+            871,
+            310
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Discussion and Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            384,
+            369,
+            634,
+            386
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The results demonstrate that Cy protects $\\lambda$ from UV irradiation. The lesions which are prevented by its presence are not repaired by uvr $\\boldsymbol { C }$ bacteria, although they are completely repaired by normal bacteria. This strongly suggests that these lesions are pyrimidine dimers, which are the only lesions known to be in large part reparable by WT, and irreparable by uvr mutants (SETLow and CARRIER, 1964; BOYCE and HOWARD-FLANDERS, 1964). ",
+        "bbox": [
+            126,
+            390,
+            871,
+            492
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Rec $A ^ { - }$ mutants, in the presence or absence of $\\mathrm { C y }$ ,are able to repair many lesions which cannot be repaired by uvr $C ^ { - }$ Included are some lesions which are prevented by Cy. That rec $A ^ { - }$ gives curves which are very similar to WT may be explained by the finding that the rec $A ^ { - }$ bacterial mutation does not totally eliminate recombination repair. Rec A mutants excise normally (CLARK et al., 1967) and the missing function affecting λ survival is partially provided by the λ red gene (EcHoLs and GINGERY, 1968; RADMAN et al., in preparation). In the λcI 857 used in these experiments, the red gene is intact. ",
+        "bbox": [
+            126,
+            492,
+            873,
+            628
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A possible mechanism for Cy protection is suggested by a recent work of MILvy and PuLLMAn (1968). They have shown chemically that the amino group of Cy is electrostatically bound to the negatively charged phosphate of nucleotides or DNA, and probably, in the latter case, specifically to the $\\mathbf { 5 ^ { \\prime } }$ phosphate of thymine. By means of electron spin resonance, they have also demonstrated that energy from ionizing radiations is transferred from the other bases to thymine, and thence to Cy. If such a transfer of energy, absorbed by the bases during UV irradiation, is similarly transferred to thymine (GuERon et al., 1966) and then to Cy, then this might be a mechanism for preventing formation of thymine dimers. ",
+        "bbox": [
+            126,
+            629,
+            873,
+            796
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The experiments would indicate that Cy reduces the number of thymine dimers by about $4 0 \\%$ . This is now being checked chemically. ",
+        "bbox": [
+            126,
+            798,
+            869,
+            831
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "These studies were carried out under the contract Euratom-ULB 007-61-10 ABIB and supported by the National Institutes of Health U.S.A. (Research Grant-6214), by the U.S. National Science Foundation Grants GB-7513 and GB-4359 and by the \"Fonds de la Recherche Fondamentale Collective\". ",
+        "bbox": [
+            128,
+            849,
+            873,
+            905
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            461,
+            104,
+            561,
+            120
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "BAcQ, Z., and P. ALExANDER: Fundamentals of Radiobiology. New York: Pergamon Press 1961.   \nBoYcE, R. P., and P. HowARD-FLANDERs: Release of ultraviolet light-induced thymine from DNA in E. coli K12. Proc. nat. Acad. Sci. (Wash.) 51, 293 (1964).   \nCLARK, A. J., M. CHAMBERLIN, R. P. BoYCE, and P. HOWARD-FLANDERS: Abnormal metabolic response to ultraviolet light of a recombination deficient mutant of E. coli K12. J. molec. Biol. 19, 442 (1966).   \nDUNN, D. B., and J. D. SmITH: Effects of 5-halogenated uracils on the growth of E. coli and their incorporation into deoxyribonucleic acids. Biochem. J. 67, 494 (1957).   \nEcHoLs, H., and R. GiNGERy: Mutants of bacteriophage λ defective in vegetative genetic recombination. J. molec. Biol. 34, 239 (1968).   \nGUERON, M., G. SHULMAN, and J. EIsINGER: Energy transfer in dinucleotides. Proc. nat. Acad. Sci. (Wash.) 56, 814 (1966).   \nHorz, G.: Suppression by cysteamine of radiosensitization in 5-bromodeoxyuridine substituted phage T1. Biochem. biophys. Res. Commun. 11, 393 (1963).   \nHowARD-FLANDERs, P.: DNA repair. Ann. Rev. Biochem. 37, 175 (1968).   \n— R. P.BoYCE, and L.THERIoT: Three loci in E. coli K12 that control the excision of pyrimidine dimers and certain other mutagen products from DNA. Genetics 53. 119 (1966).   \nKArsER, A. D.: A genetic study of the temperate coliphage A. Virology 1, 424 (1955).   \nLATARJET, R., P. MoRENNE et R. BERGER: Un appareil simple pour le dosage des rayonnements ultraviolets émis par les lampes germicides. Ann. Inst. Pasteur 85, 174 (1953).   \nMILvY, P., and I. PuLLMAN: ESR studies of spin transfer in irradiated nucleic acid-cysteamine systems. Radiat. Res. 34, 265 (1968).   \nORMEROD, M. G., and P. ALExANDER: On the mechanism of radiation protection by cysteamine: an investigation by means of ESR Radiat. Res. 18, 495 (1963).   \nPUTTE, P. vAN DE, C. A. vAN SLUIS, VAN DILLEWIJN, and A. RöRSCH: The lOcatiOn of genes controlling radiation sensitivity in E. coli. Mutation Res. 2, 97 (1965).   \n- H. ZwENK, and A. RöRscH: Properties of four mutants of E. coli defective in genetic recombination. Mutation Res. 3, 381 (1966).   \nSETLOw, R. B., and W. L. CARRIER: The disappearance of thymine dimers from DNA: an error-correcting mechanism. Proc. nat. Acad. Sci. (Wash.) 51, 226 (1964).   \nSTERN, M. G., and J. BLok: Influence of pH on radioprotection of E. coli by sulfhydril compounds. Int. J. Radiat. Biol. 13, 491 (1967).   \nSussMAn, R., et F. JacoB: Sur un système de répression thermosensible chez le bactériophage A d'E. coli. C.R. Acad. Sci. (Paris) 254, 1517 (1962).   \nWEIGLE, J. J., M. MEsELsON, and K. PArGEN: Density alterations associated with transducing ability in bacteriophage lambda. J. molec. Biol. 1, 379 (1959). ",
+        "bbox": [
+            123,
+            113,
+            876,
+            643
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Communicated by P. SLONIMSKI ",
+        "bbox": [
+            348,
+            659,
+            647,
+            676
+        ],
+        "page_idx": 4
+    }
+]

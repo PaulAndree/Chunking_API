@@ -1,0 +1,1209 @@
+[
+    {
+        "type": "text",
+        "text": "El Grand Slam de tenis está constituido por los cuatro torneos oficiales mayores del circuito internacional organizados por la Federación Internacional de Tenis. Son los siguientes: ",
+        "bbox": [
+            63,
+            129,
+            931,
+            162
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abierto de Australia: Cancha dura o cemento.   \nRoland Garros: Cancha de polvo de ladrillo, tierra batida o arcilla.   \nWimbledon: Cancha de césped, hierba o pasto.   \nAbierto de Estados Unidos: Cancha dura o cemento. ",
+        "bbox": [
+            77,
+            175,
+            621,
+            244
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Estos cuatro torneos se disputan anualmente, cada partido al mejor de cinco sets en categoría masculina y al mejor de tres sets en categoría femenina, ambos con un cuadro de 128 tenistas. ",
+        "bbox": [
+            65,
+            250,
+            931,
+            282
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Son los de mayor renombre entre jugadores y aficionados a este deporte, al ofrecer la mayor cantidad de puntos de clasificación, premios en dinero, atención del público y de los medios. Los torneos están supervisados por la Federación Internacional de Tenis (ITF) en lugar de los organismos organizadores separados de los circuitos masculino y femenino, la Asociación de Tenistas Profesionales (ATP) y la Asociación de Tenis Femenino (WTA), pero tanto la ATP como la WTA otorgan puntos de clasificación en función del rendimiento de los jugadores en estos torneos. ",
+        "bbox": [
+            68,
+            296,
+            932,
+            381
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cuando un jugador triunfa en alguno de estos cuatro torneos, se dice que ha logrado un título de Grand Slam. La expresión proviene del juego del bridge, que se aplicó por primera vez al tenis en 1933.1 ",
+        "bbox": [
+            67,
+            394,
+            931,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Los jugadores con más Grand Slam en la historia son Novak Djokovic en el tenis masculino; y Margaret Court, en el femenino, ambos con 24; aunque si se cuenta solo desde el comienzo de la era abierta en 1968, Court tendría 11. En dicho caso la jugadora más laureada es Serena Williams, con 23 títulos. ",
+        "bbox": [
+            68,
+            441,
+            932,
+            491
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/5fe0a1dcc95d5ecd5af9148ba481f39d9b88dcd8cf4bfc4763fcbed7020a3849.jpg",
+        "table_caption": [
+            "Individual masculino "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            67,
+            136,
+            942,
+            920
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8cef8c93e10f01110cc7f6ccec69cd6e4809e438b607884f7b1e89105141da66.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            40,
+            947,
+            258
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Individual femenino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            283,
+            268,
+            301
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/a9aa63a44d95f2d0034440d927e26cd7a31c006fad418bd08fb31a503a506d24.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            315,
+            660,
+            700
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mayor número de victorias por Grand Slam ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            116,
+            504,
+            134
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/539d0b1d6a0a67f612dbfac62b3ef504aa2448f4538f3166ee2f9f5acba9082a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            147,
+            662,
+            420
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mayor número de títulos por Grand Slam ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            444,
+            480,
+            463
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/0baf1ed7fd9f93d9d3b0a16f3e40737fdf4bc07ad3e7618aa761989fb5a5b20f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            476,
+            788,
+            653
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Títulos por país en la Era Abierta ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            678,
+            400,
+            697
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Individual masculino ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            704,
+            235,
+            718
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hasta el momento un total de 58 tenistas de 20 países han ganado algún título de Grand Slam en la era abierta, el último fue Carlos Alcaraz. ",
+        "bbox": [
+            65,
+            732,
+            931,
+            766
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/f18a045797e150d29514119e84f134070413b1f7d31bbf74f200de1b19a8e756.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            65,
+            38,
+            932,
+            549
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Notas: ",
+        "bbox": [
+            68,
+            564,
+            110,
+            576
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Se consideran checos los títulos ganados por jugadores de esa nacionalidad a partir de 1993, tras la independencia de la República Checa, y los títulos ganados por jugadores checoslovacos antes de 1993. ",
+        "bbox": [
+            75,
+            591,
+            932,
+            635
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Se considera sudafricano el título obtenido por Johan Kriek en el Abierto de Australia de 1981, y estadounidense el título obtenido por el mismo jugador en el Abierto de Australia de 1982, tras cambiar de nacionalidad. ",
+        "bbox": [
+            82,
+            640,
+            929,
+            668
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Grand Slam ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            694,
+            189,
+            711
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Los jugadores que han ganado el Grand Slam (los cuatro torneos en un mismo año) en individuales son: ",
+        "bbox": [
+            72,
+            718,
+            820,
+            733
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Don Budge (1938)   \nMaureen Connolly (1953)   \nRod Laver (1962)   \nRod Laver (1969) Margaret Court (1970) Steffi Graf (1988, además ganó ese mismo año la medalla de oro en los Juegos Olímpicos de 1988, siendo la única persona en la historía en conseguir el Golden Slam. ",
+        "bbox": [
+            78,
+            748,
+            932,
+            866
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Las parejas que han obtenido el Grand Slam en la modalidad de dobles son: ",
+        "bbox": [
+            70,
+            871,
+            616,
+            887
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Frank Sedgman & Ken McGregor (1951) Margaret Court & Ken Fletcher (1963) ",
+        "bbox": [
+            78,
+            901,
+            425,
+            934
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Martina Navratilova & Pam Shriver (1984) ",
+        "text_level": 1,
+        "bbox": [
+            82,
+            42,
+            435,
+            58
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Adicionalmente, tres jugadores obtuvieron el Grand Slam en dobles pero cambiaron de pareja tras el Abierto de Australia, son: ",
+        "bbox": [
+            68,
+            64,
+            932,
+            96
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Maria Bueno (1960), con Christine Truman y luego Darlene Hard.   \nOwen Davidson (1967), con Lesley Turner y luego Billie Jean King.   \nMartina Hingis (1998), con Mirjana Lucic y luego Jana Novotná. ",
+        "bbox": [
+            78,
+            110,
+            633,
+            162
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Además Margaret Court en 1965 obtuvo el Grand Slam en dobles con tres compañeros distintos: ",
+        "bbox": [
+            67,
+            167,
+            766,
+            184
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En el Abierto de Australia con John Newcombe.   \nEn Roland Garros y en Wimbledon con Ken Fletcher.   \nEn el Abierto de Estados Unidos con Fred Stolle. ",
+        "bbox": [
+            78,
+            197,
+            524,
+            247
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Margaret Court es la única jugadora que logró ganar tres veces el Grand Slam, 2 en doble mixto (1963 y 1965) y una en individuales (1970). Respecto a los hombres Rod Laver ha ganado dos veces el Grand Slam, con el mérito de haberlo logrado en individuales (1962 y 1969). ",
+        "bbox": [
+            68,
+            254,
+            932,
+            304
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cuatro títulos consecutivos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            315,
+            356,
+            333
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Aunque la denominación de Grand Slam se acuñó originalmente para aquellos jugadores que ganaran esos 4 títulos en el mismo año, algunos lo usan para aquellos que ganan los cuatro torneos en forma consecutiva[cita requerida] , sin importar si el logro se realizó en un año o en dos temporadas consecutivas. ",
+        "bbox": [
+            68,
+            346,
+            932,
+            397
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Los ganadores de los cuatro torneos grandes en forma consecutiva, pero no en un mismo año, son: ",
+        "bbox": [
+            67,
+            412,
+            779,
+            427
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Individuales ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            441,
+            168,
+            457
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Martina Navratilova (1983-84) (seis torneos consecutivos) ",
+        "bbox": [
+            78,
+            471,
+            563,
+            486
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Nota: El Australian Open se disputó en diciembre desde 1977 hasta 1985, tras lo cual volvió a su ubicación clásica en enero en 1987. La racha de Navratilova incluyó Wimbledon, el Abierto de Estados Unidos, y el Abierto de Australia en 1983, seguidos por el Abierto de Francia, Wimbledon, y nuevamente el Abierto de Estados Unidos en 1984. ",
+        "bbox": [
+            107,
+            495,
+            934,
+            553
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Steffi Graf (1993-94) Serena Williams (2002-03 y 2014-15) Novak Djokovic (2015-16) ",
+        "bbox": [
+            78,
+            557,
+            401,
+            608
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Dobles ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            615,
+            124,
+            628
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Pam Shriver/Martina Navratilova (1986–87) - (Wimbledon 1986, US Open 1986, Australian Open 1987 y Roland Garros 1987)   \nGigi Fernández/Natasha Zvereva (1992–93, seis consecutivos) - (Roland Garros 1992, Wimbledon 1992, US Open 1992, Australian Open 1993, Roland Garros 1993 y Wimbledon 1993)   \nSerena Williams/Venus Williams (2009-10) - (Wimbledon 2009, US Open 2009, Australian Open 2010 y Roland Garros 2010)   \nBob Bryan/Mike Bryan (2012-13) - (US Open 2012, Australian Open 2013, Roland Garros 2013 y Wimbledon 2013)   \nAdemás Natasha Zvereva (1996–97), ganó junto a Gigi Fernández, Wimbledon 1996, el US Open 1996   \ny Roland Garros 1997, y junto a Martina Hingis el Australian Open 1997. ",
+        "bbox": [
+            77,
+            642,
+            934,
+            800
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Grand Slam en carrera ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            813,
+            305,
+            831
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Se dice que un jugador logró el Grand Slam en carrera cuando obtuvo los cuatro torneos de Grand Slam en su carrera profesional, aunque no en el mismo año. ",
+        "bbox": [
+            65,
+            845,
+            931,
+            877
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Individuales ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            890,
+            198,
+            908
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Los tenistas que alcanzaron este logro fueron (se incluyen los años de los triunfos y la edad entre corchetes): ",
+        "bbox": [
+            63,
+            42,
+            852,
+            59
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Masculino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            72,
+            152,
+            87
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Fred Perry (1933-34-35) [26] Don Budge (1937-38) [23] Rod Laver (1960-61-62) [24] Roy Emerson (1961-63-64) [28] Andre Agassi (1992-94-95-99) [29] Roger Federer (2003-04-09) [27] Rafael Nadal (2005-08-09-10) [24] Novak Djokovic (2008-11-16) [29] ",
+        "bbox": [
+            78,
+            100,
+            379,
+            241
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Carlos Alcaraz y Manolo Santana no pudieron ganar el Abierto de Australia (2), mientras que Jimmy Connors, Boris Becker, Stefan Edberg, Pete Sampras y Jannik Sinner nunca ganaron Roland Garros (5) y Guillermo Vilas, Ivan Lendl, Mats Wilander y Stanislas Wawrinka no pudieron ganar Wimbledon (4). ",
+        "bbox": [
+            68,
+            247,
+            932,
+            295
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Femenino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            311,
+            147,
+            325
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Doris Hart (1949-50-51-54) [29] Maureen Connolly (1951-52-53) [18] Shirley Fry (1951-56-57) [30] Margaret Court (1960-62-63) [24] Billie Jean King (1966-67-68-72) [20] Chris Evert (1974-75-82) [28] Martina Navratilova (1978-81-82-83) [26] Steffi Graf (1987-88) [19] Serena Williams (2002-03) [21] María Sharápova (2004-06-08-12) [25] ",
+        "bbox": [
+            78,
+            338,
+            428,
+            513
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Iga Świątek no pudo ganar el Abierto de Australia (1), mientras que Martina Hingis, Lindsay Davenport y Angelique Kerber nunca ganaron Roland Garros (3), Monica Seles, Hana Mandlíkova y Justine Henin no pudieron ganar Wimbledon (3) y Ashleigh Barty nunca ganó el Abierto de Estados Unidos (1). ",
+        "bbox": [
+            70,
+            519,
+            932,
+            568
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Dobles ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            580,
+            144,
+            598
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Parejas que lograron un Grand Slam en la carrera: ",
+        "bbox": [
+            68,
+            611,
+            431,
+            628
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Doris Hart & Frank Sedgman (1949-51) Ken Rosewall & Lew Hoad (1953-56) Roy Emerson & Neale Fraser (1959-60-62) John Newcombe & Tony Roche (1965-67) Margaret Court & Judy Tegart Dalton (1966-69-70) Anne Smith & Kathy Jordan (1980-81) Martina Navratilova & Pam Shriver (1981-1984) Todd Woodbridge & Mark Woodforde (1992-93-95-2000) Jacco Eltingh & Paul Haarhuis (1994-95-98) Serena Williams & Venus Williams (1999-2000-01) Mike Bryan & Bob Bryan (2003-05-06) Sara Errani & Roberta Vinci (2012-2014) Barbora Krejčíková & Katerina Siniakova (2018-2022) ",
+        "bbox": [
+            78,
+            641,
+            554,
+            868
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Jugadores que lograron un Grand Slam en la carrera, con distintos compañeros: ",
+        "bbox": [
+            68,
+            872,
+            643,
+            888
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Adrian Quist (1935-36-39) Louise Brough (1942-46-50) ",
+        "bbox": [
+            78,
+            902,
+            327,
+            937
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Doris Hart (1947-48-50-51) Frank Sedgman (1948-50-51) Neale Fraser (1957-58-59) Shirley Fry (1950-51-57) Margaret Court (1961-63-64) Lesley Turner (1961-64) Fred Stolle (1962-63-65) Bob Hewitt (1962-63-72-77) Martina Navratilova (1975-76-77-80) John Fitzgerald (1982-84-86-89) Anders Järryd (1983-87-89) Martina Hingis (1996-97-98) Jonas Björkman (1998-2002-03-05) Lisa Raymond (2000-01-06) Daniel Nestor (2002-04-07-08) Leander Paes (1999-06-12) ",
+        "bbox": [
+            78,
+            41,
+            393,
+            320
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Jugadores que lograron un Grand Slam en la carrera en la modalidad de dobles mixtos: ",
+        "bbox": [
+            68,
+            326,
+            697,
+            343
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Jean Borotra (1925-26-27-28) Margaret Court (1961-63) Bob Hewitt (1961-70-77-79) Billie Jean King (1967-68) Martina Navratilova (1974-85-2003) Mark Woodforde (1993-94) Todd Woodbridge (1990-93-94-95) Daniela Hantuchova (2001-02-05) Mahesh Bhupathi (1997-99-2002-06) Cara Black (2002-04-08-10) Leander Paes (1999-2003-08-16) Martina Hingis (2006-15-16) ",
+        "bbox": [
+            78,
+            356,
+            398,
+            565
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Golden Slam ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            590,
+            200,
+            608
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "El Golden Slam es una mención de honor que implica ganar los 4 torneos de Grand Slam y la medalla de oro en los Juegos Olímpicos en el mismo año. Las oportunidades de alcanzar este logro fueron escasas, no solo porque los Juegos Olímpicos se realizan 1 vez cada 4 años (5 en el caso de Río 2016 a Tokio 2021), sino también por el hecho de que el tenis no fue deporte olímpico desde 1924 hasta 1988 por desacuerdos entre la Federación Internacional de Tenis (ITF) y el Comité Olímpico Internacional (COI), razón por la cual Fred Perry, Don Budge, Rod Laver y Roy Emerson; más Doris Hart, Maureen Connolly, Shirley Fry, Margaret Court y Billie Jean King no pudieron ganar esta mención de honor a pesar de haber triunfado en los 4 Slams. ",
+        "bbox": [
+            68,
+            615,
+            932,
+            732
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Por otra parte, a Roger Federer le faltó el oro para poder completar el Golden Slam, así como a Chris Evert, Martina Navrátilová y María Sharápova. ",
+        "bbox": [
+            67,
+            745,
+            934,
+            780
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Con esto dicho, en la historia, el verdadero Golden Slam solo fue alcanzado una vez: ",
+        "bbox": [
+            72,
+            793,
+            682,
+            808
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Steffi Graf (1988) ",
+        "bbox": [
+            78,
+            823,
+            240,
+            838
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Golden Slam en carrera ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            851,
+            315,
+            870
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Se dice que un jugador logró el Golden Slam en carrera cuando obtuvo los cuatro torneos de Grand Slam y la medalla de oro en los Juegos Olímpicos en su carrera profesional, aunque no en el mismo año. ",
+        "bbox": [
+            65,
+            882,
+            931,
+            916
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Individual masculino ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            235,
+            58
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Andre Agassi (1992-94-95-99), (Atlanta 1996) Rafael Nadal (2005-08-09-10), (Pekín 2008) Novak Djokovic (2008-11-11-16), (París 2024) ",
+        "bbox": [
+            78,
+            72,
+            470,
+            123
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Individual femenino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            129,
+            228,
+            143
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Serena Williams (1999-2002-03-12), (Londres 2012) ",
+        "bbox": [
+            80,
+            157,
+            519,
+            174
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dobles masculino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            181,
+            206,
+            195
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Todd Woodbridge & Mark Woodforde (1992-2000), (Atlanta 1996)   \nBob Bryan & Mike Bryan (2003-2012), (Londres 2012)   \nDaniel Nestor (2000-2009), (Sídney 2000)   \nMate Pavić (2018-2024), (Tokio 2020) ",
+        "bbox": [
+            78,
+            209,
+            623,
+            279
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Dobles femenino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            285,
+            200,
+            299
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Sara Errani (2012-2024)   \nBarbora Krejčíková & Kateřina Siniaková (2018-2022)   \nSerena Williams & Venus Williams (1999-2001)   \nPam Shriver (1981-1988)   \nGigi Fernández (1988-1993) ",
+        "bbox": [
+            78,
+            312,
+            531,
+            399
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Grand Slam Completo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            423,
+            294,
+            442
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Una categoría imaginaria de ganadores de Grand Slam puede crearse con aquellos tenistas que hayan ganado durante su carrera al menos una vez todos los torneos de Grand Slam en todas las especialidades: el individuales, el dobles de su género y el doble mixto, en cada uno de los cuatro campeonatos. Las únicas que han logrado esta hazaña son mujeres, y son: ",
+        "bbox": [
+            68,
+            450,
+            932,
+            516
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Nota: Entre paréntesis los Grand Slam ganados durante la era abierta. ",
+        "bbox": [
+            68,
+            532,
+            492,
+            546
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1f2b7ac68959563ef56fb828be8e513bdda1200debc60e91eae97d78810a98f8.jpg",
+        "table_caption": [
+            "Doris Hart "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            589,
+            811,
+            735
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Margaret Court ",
+        "bbox": [
+            78,
+            748,
+            223,
+            762
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/1faa00be45bec2067b4e03ed90b33594f0af996c2f6000b7b666c6aea57a1773.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            774,
+            811,
+            921
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "table",
+        "img_path": "images/2d9bc20671e14becd19edd2eca174cd296d7958f4d4c9167410232ee3eae1454.jpg",
+        "table_caption": [
+            "Martina Navratilova "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            71,
+            811,
+            216
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Margaret Court es además la única jugadora que ganó el Grand Slam completo tanto antes de la era abierta como en esta. ",
+        "bbox": [
+            65,
+            229,
+            931,
+            261
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Serena Williams estuvo muy cerca de unirse a este exclusivo club, ya que solo le faltó ganar los dobles mixtos de Australia y Roland Garros, competiciones en las que perdió una final en cada una, en 1998 y 1999 respectivamente. En 2017 se retiró definitivamente Martina Hingis, a quien solo le faltó ganar el individuales de Roland Garros, torneo del que fue finalista en 1997 y 1999. ",
+        "bbox": [
+            68,
+            275,
+            934,
+            343
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Respecto de los hombres, el jugador que más cerca estuvo de ganar el Grand Slam completo fueron Frank Sedgman, a quien únicamente le faltó ganar Roland Garros en individuales, torneo del que fue finalista en 1952. ",
+        "bbox": [
+            65,
+            355,
+            929,
+            389
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Grand Slams consecutivos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            414,
+            341,
+            432
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Individual masculino ",
+        "bbox": [
+            70,
+            440,
+            235,
+            454
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6: Don Budge (desde Wimbledon de 1937 al Abierto de Estados Unidos de 1938). ",
+        "bbox": [
+            77,
+            467,
+            751,
+            484
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Individual femenino ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            491,
+            228,
+            505
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6: Maureen Connolly (desde Wimbledon de 1952 al Abierto de Estados Unidos de 1953).   \n6: Margaret Court (desde el Abierto de Estados Unidos 1969 al Abierto de Australia de 1971). ",
+        "bbox": [
+            75,
+            519,
+            840,
+            552
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Dobles masculino ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            559,
+            206,
+            574
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Equipo: ",
+        "bbox": [
+            68,
+            589,
+            129,
+            605
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7: Ken McGregor/Frank Sedgman (desde el Abierto de Australia de 1951 al Wimbledon de 1952). ",
+        "bbox": [
+            73,
+            617,
+            873,
+            634
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Jugador: ",
+        "bbox": [
+            70,
+            641,
+            132,
+            655
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8: Frank Sedgman (desde el Abierto de Estados Unidos de 1950 al Wimbledon de 1952). ",
+        "bbox": [
+            75,
+            668,
+            808,
+            685
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Dobles femenino ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            691,
+            200,
+            706
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Equipo y jugador: ",
+        "bbox": [
+            70,
+            722,
+            201,
+            737
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "8: Martina Navratilova/Pam Shriver (desde Wimbledon de 1983 a Roland Garros de 1985). ",
+        "bbox": [
+            80,
+            750,
+            821,
+            766
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Dobles mixto ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            773,
+            173,
+            787
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Equipo: ",
+        "bbox": [
+            68,
+            802,
+            129,
+            817
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "6: Margaret Court/Ken Fletcher (desde el Abierto de Australia de 1963 a Roland Garros de 1964). ",
+        "bbox": [
+            77,
+            831,
+            875,
+            847
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Jugador: ",
+        "bbox": [
+            70,
+            853,
+            132,
+            868
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "7: Margaret Court (desde el Abierto de Estados Unidos de 1962 a Roland Garros de 1964). ",
+        "bbox": [
+            75,
+            882,
+            825,
+            899
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ATP Finals   \nATP Tour Masters 1000   \nATP Tour 500   \nATP Tour 250   \nClasificación individual de la ATP   \nClasificación individual de la WTA   \nCampeones de torneos de Grand Slam (individual masculino)   \nCampeonas de torneos de Grand Slam (individual femenino) ",
+        "bbox": [
+            78,
+            99,
+            593,
+            238
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            258,
+            206,
+            277
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. George Vecsey (11 de septiembre de 1988). «Sports of The Times; A Champion For All Seasons» (http s://www.nytimes.com/1988/09/11/sports/sports-of-the-times-a-champion-for-all-seasons.html?src=pm) (en inglés). The New York Times. Consultado el 1 de septiembre de 2012. ",
+        "bbox": [
+            73,
+            296,
+            931,
+            342
+        ],
+        "page_idx": 10
+    }
+]

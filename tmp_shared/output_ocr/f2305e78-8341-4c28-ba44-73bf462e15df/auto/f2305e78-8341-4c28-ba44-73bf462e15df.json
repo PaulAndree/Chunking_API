@@ -1,0 +1,687 @@
+[
+    {
+        "type": "text",
+        "text": "Studies on the miscoding properties of $1 \\mathcal { \\Lambda } ^ { 6 }$ \"-ethenoadenine an $3 \\mathcal { \\mathbf { N } } ^ { 4 }$ -ethenocytosine, DNA reaction products of vinyl chloride metabolites, during in vitro DNA synthesis ",
+        "text_level": 1,
+        "bbox": [
+            191,
+            190,
+            761,
+            217
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alain Baibin\"1 \", Helmut Bartsch\"1 \"\\*, Philippe Leconte' and Miroslav Radman' ",
+        "bbox": [
+            191,
+            243,
+            663,
+            259
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Division of Environmental Carcinogenesis, International Agency for Research on Cancer, 150 cours Albert-Thomas, F-69372 Lyon Ce'dex 2, France, and 'Department of Molecular Biology, Free University of Brussels, 67 rue des Chevaux, B-1640 Rhode-St-Genese, Belgium ",
+        "bbox": [
+            191,
+            274,
+            783,
+            310
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 3 November 1980 ",
+        "bbox": [
+            189,
+            319,
+            363,
+            330
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            354,
+            267,
+            365
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 , $\\overline { { N } } ^ { 6 }$ -Ethenoadenine (eA) and ${ } _ { 3 , N } { } ^ { 4 }$ -ethenocytosine (eC) are formed when electrophilic vinyl chloride (VC) metabolites, chloroethylene oxide (CEO) or chloroacetaldehyde (CAA) react with adenine and cytosine residues in DNA. They were assayed for their miscoding properties in an in vitro system using Escherichia coli DNA polymerase 1 and synthetic templates prepared by reaction of poly(dA) and poly(dC) with increasing concentrations of CEO or CAA. Following the introduction of etheno groups, an increasing inhibition of DNA synthesis was observed. dGMP was misincorporated on CAA- or CEO-treated poly(dA) templates and dTMP was misincorporated on CAA- or CEO-treated poly(dC) templates, suggesting that eA and eC may miscode. The error rates augmented with the extent of reaction of CEO or CAA with the templates. Base-pairing models are proposed for the eA.G and eC.T pairs. The potentially miscoding properties of eA and eC may explain why metabolically-activated VC and its reactive metabolites specifically induce base-pair substitution mutations in Salmonella typhimurium. Promutagenic lesions may represent one of the initial steps in VC- or CEO-induced carcinogenesis. ",
+        "bbox": [
+            188,
+            367,
+            815,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "INTRODUCTION ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            580,
+            302,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The biological effects of VC, a recognized carcinogen in animals and humans ' , appear to depend on its conversion by microsomal cyto-chrome P-450-dependent monooxygenases into CEO , which can rearrange nonenzymically to form CAA (Fig. 1). Although both compounds, CEO and CAA, can react with DNA bases ' ' and are mutagenic to prokaryotic and eukaryotic microorganisms or mammalian cells , q u a l i t a t i v e and quantitative differences in their biological and chemical activities have been observed. CEO has a higher chemical reactivity than CAA ' and is also more mutagenic in bacteria ' , yeast ,and mammalian cells . CAA was not found to be carcinogenic in mice when tested by four different routes of administration . In an initiation-promotion experiment, CEO but not CAA produced skin tumours 21 in mice . Following s.c. administration to mice, CEO was also a potent ",
+        "bbox": [
+            188,
+            596,
+            805,
+            803
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/71700b1bfa74b245dad71fe9a131e9a493a118ec43b24e031b73c481e95dc44c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            245,
+            187,
+            749,
+            284
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1 - Chemical formulae for vinyl chloride, chloroethylene oxide (CEO) and chloroacetaldehyde (CA\\). ",
+        "bbox": [
+            186,
+            302,
+            771,
+            326
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "21 tumour inducer ",
+        "bbox": [
+            186,
+            350,
+            332,
+            367
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "CEO and CAA both react with nucleic acid bases: eA and eC (Fig. 2) were first described by reaction of CAA with adenine and cytosine moieties ' . These etheno derivatives possess characteristic fluorescence spectra and have therefore been extensively used in biochemistry \\~ . Subsequent to our report on the formation of eA by reaction of CEO or VC in the presence of mouse liver microsomes with adenosine in vitro , eA and eC have been shown to be produced in RNA and DNA bases by VC in vivo and by metabolically activated VC in v i t r o 2 9 \" 3 1 . ",
+        "bbox": [
+            186,
+            370,
+            793,
+            513
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although a guanine alkylation product in DNA of VC-treated rats 12 32 has been described ' , reaction of CAA or metabolically activated $^ { 1 \\angle } \\mathsf { c } .$ -VC with adenosine and cytidine yields no adducts other than eA and eC in various experimental systems, except the hydrated etheno-intermediates ' ' ' ' ' . No reaction has been reported to occur between 7 27 3£—37 CAA and the sugar-phosphate backbone of nucleic acids ' ' ; the phosphodiester linkage is not hydrolysed during the course of the react i o n 3 5 . ",
+        "bbox": [
+            186,
+            516,
+            803,
+            644
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As the introduction of etheno groupings into DNA bases would 21 be expected to interfere with the normal Watson-Crick base-pairing , we have therefore investigated whether EA and eC are potentially promutaqenic DNA lesions. We used $\\pmb { \\cal E }$ . coli DNA polymerase I and synthetic templates prepared by reaction of the homopolymers poly(dA) and poly(dC) with CEO or CAA. Such fidelity studies with DNA-polymerases in vitro have been applied to synthetic polydeoxyribonucleotides treated with increasing concentrations of -propiolactone38 and $N .$ -methyl-Nnitrosourea asing concentrations of 6-propiolactone and A'-methyl-A'- rate on the carcinogen-modified templates was observed. In the case of ",
+        "bbox": [
+            186,
+            648,
+            808,
+            807
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$N .$ -methyl $\\pmb { \\mathcal { N } }$ -nitrosourea, the miscoding effects have been attributed to $o ^ { 6 }$ -methylguanine ' and $o ^ { 4 }$ -methylthymine , two DNA lesions thought to be involved in the induction of carcinogenesis by methylating agents Our d a t a report for the first time that a human carcinogen, VC, could form miscoding DNA adducts. A brief account of the data was previously presented . ",
+        "bbox": [
+            188,
+            187,
+            815,
+            281
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            302,
+            393,
+            313
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Chemicals: ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            323,
+            275,
+            335
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Poly(dA) $( \\mathrm { ~ m ~ w ~ } = \\ 2 . 0 5 \\ \\times \\ 1 0 ^ { 5 } )$ and poly(dC) $( 1 0 0 ) = 4 . 8 5 \\times 1 0 ^ { 5 } )$ homopolymers, $\\mathbf { \\circ } \\mathbf { l i g o ( d T ) } _ { 1 2 - 1 8 }$ and $\\circ ^ { \\mathrm { l i g o } ( \\mathsf { d G } ) } _ { 1 2 - 1 8 }$ were purchased from P-L Biochemicals, I n c . , Milwaukee, USA. CEO (purity $\\gtrsim 9 9 . 5 \\%$ ) was prepared by chlorination of ethylene oxide in the gas phase, as described in 19 d e t a i l by Rannug et a l . , and purified by r e d i s t i l l a t i o n through a Vigreux column. The compound was stored below $\\iota { \\tt 7 0 } ^ { \\circ } { \\tt C }$ , a t which it h a s been shown to be stable for more than 12 months. CAA was prepared j u s t p r i o r to reaction with the p o l y n u c l e o t i d e s , by fractional d i s t i l l a t i o n of the t r i m e r ^ ; its purity determined by NMR was $9 8 \\%$ . $\\boldsymbol { E }$ . coli MRE 600 DNA polymerase I (grade I) was obtained from Boehringer, Mannheim, FRG. [Methyl- $\\cdot ^ { 3 } \\mathtt { H } \\mathtt { I }$ dTTP, $[ 8 - ^ { 3 } \\mathrm { H } ]$ dGTP and the L, deoxyribonucleosides $5 ^ { \\prime } - [ a - ^ { 3 2 } \\mathsf { P } ]$ triphosphate, dATP, dCTP, dGTP and dTTP, were obtained from the Radiochemical Centre, Amersham, UK. Omnifluor was from NEN Chemicals, GmbH, Dreieich, FRG. ",
+        "bbox": [
+            188,
+            336,
+            806,
+            564
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Treatment of Templates: ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            573,
+            386,
+            586
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "0.75 nmoles poly(dA) or 0.16 nmoles poly(dC) dissolved in 1.5 or $2 ~ \\mathrm { \\ m l } ~ 5 0 ~ \\mathrm { \\ m M }$ sodium cacodylate buffer $\\tt { p H } \\ 7 . 0$ were t r e a t e d for 20 h r s a t $3 7 ^ { \\circ } \\mathsf { C }$ with up to 0.8 or 0.16 mmoles CAA, respectively. Treated and untreated polynucleotides were then purified by chromatography on a Sephadex G10 column with $5 0 m M$ sodium cacodylate buffer pH 7.0 a s e l u e n t . ",
+        "bbox": [
+            189,
+            588,
+            789,
+            683
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1.5 nmoles poly(dA) or 0.32 nmoles poly(dC) dissolved in 1.5 or $2 ~ \\mathrm { \\ m } 1 ~ 5 0 ~ \\mathrm { \\ m M }$ sodium cacodylate buffer $\\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt \\tt$ were t r e a t e d for 20 min a t $3 7 ^ { \\circ } \\mathsf { C }$ with up to 1.53 or 0.31 mmoles CEO, respectively. In o r d e r to stop any further reaction with CAA formed (the half-life of CEO in neutral aqueous solution at $3 7 ^ { \\circ } \\mathsf { C }$ is $0 . 9 ~ \\mathsf { m i n } $ , the reaction mixtures were frozen in liquid nitrogen; the thawed polynucleotide solutions were rapidly chromatographed as previously described to eliminate excess CAA. ",
+        "bbox": [
+            189,
+            686,
+            810,
+            814
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Polydeoxyribonucleotide (\"DNA\") Synthesis and Misincorporation Assays: Treated and untreated poly(dA) [or poly(dC)] were annealed at a 1:1 nucleotide phosphorus ratio with $\\mathsf { o l i g o ( d T ) } _ { 1 2 - 1 8 }$ [ ° r $\\mathsf { o l i g o - ( d G ) } _ { 1 2 - 1 8 } ]$ in a. $5 0 ~ \\textrm { m M }$ Tris-HCl buffer $\\mathsf { p H } \\ 8 . 5$ containing $3 0 ~ \\mathfrak { m } \\mathbb { M }$ KC1. DNA synthesis was assayed on the primed templates using $E$ . coli DNA polymerase 1. Each reaction mixture $1 5 0 ~ \\mu \\mathrm { l } )$ contained 2.5 nmoles treated or untreated homopolymer (nucleotide phosphorus), 4 nmoles [methyl- $\\cdot ^ { 3 } \\mathbf { \\vec { H } } ]$ dTTP (0.67 ${ \\bf \\nabla } \\mathsf { \\bf \\mu } { \\bf C } \\dot { \\bf 1 } .$ or $[ 8 - ^ { 3 } ]$ ]dGTP $( 3 . 4 \\ \\mu \\mathsf { C i } )$ , 0.2 units polymerase, $1 0 ~ \\mathrm { \\ m M } ~ \\mathrm { M g C l } _ { 2 }$ and $5 0 ~ \\mathrm { ~ m M }$ Tris-HCl $\\tt p 1 8 . 5$ - After 1 hr incubation at $3 0 ^ { \\circ } \\mathsf { C }$ , the solutions were pipetted onto Whatman GF/C glass microfibre filters, and DNA was precipitated in cold $5 \\%$ trichloroacetic acid (TCA). The filters were rinsed 5 times in cold $5 \\%$ TCA containing $2 \\% ( \\mathbf { w } / \\mathbf { v } )$ sodium pyrophosphate, twice in $5 \\%$ TCA alone, once in ethanol, and the radioactivity present on the filters was determined by liquid scintillation counting using Omnifluor. ",
+        "bbox": [
+            188,
+            185,
+            806,
+            426
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Misincorporation assays were performed using a double-labelling technique. The reaction mixtures were the same as those previously described, except for the addition of a 32  P-labelled non-complementary nucleotide (0.8 nmoles, $3 2 \\ \\mathfrak { u } \\mathsf { C i } )$ ). These assays were carried out as described for the DNA synthesis assays. ",
+        "bbox": [
+            191,
+            430,
+            788,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$\\underline { { \\mathsf { C s } } } _ { 2 } \\underline { { \\mathsf { S O } } } _ { 4 }$ Gradient Analysis: ",
+        "text_level": 1,
+        "bbox": [
+            191,
+            517,
+            405,
+            532
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Newly synthesized DNA, after incubation at ${ 3 0 } ^ { \\circ } \\mathsf { C }$ for l hr in assays described above, was analyzed by neutral $\\mathsf { C s } _ { 2 } \\mathsf { S 0 } _ { 4 }$ density gradient centrifugation. From the incubation mixture to which $1 0 ~ \\mathrm { ~ m M }$ EDTA had been added, DNA was extracted twice with phenol and 3 times with diethylether. It was precipitated in ethanol, redissolved in 25 mM Tris-HCl pH 8.5, 1 mM EDTA and purified from free nucleoside triphosphates by column chromatography on Sephadex G50 (eluent 25 mM Tris-HCl $\\mathsf { P H } \\ 8 . 5$ , $1 ~ \\mathrm { \\ m M }$ EDTA). Solutions of replicated polynucleotides were applied to neutral $\\mathsf { C s } _ { 2 } \\mathsf { s o } _ { 4 }$ gradients (final density $\\yen 123200,456$ ; total volume $= 5$ $\\mathbf { \\cdot m l } )$ . Centrifugation was carried out at 35,o00 rpm in a SW 50 rotor in a Beckman L5-65 centrifuge for 72 hrs at ${ 2 0 } ^ { \\circ } \\mathrm { C }$ ",
+        "bbox": [
+            189,
+            532,
+            815,
+            709
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fractions of $0 . 1 ~ \\mathrm { ~ m l ~ }$ were collected from the bottom of the tubes and the acid insoluble radioactivity determined. The position of the polynucleotides was monitored by Uv-absorbance ard the UV-spectrum of radioactive material was recorded. ",
+        "bbox": [
+            191,
+            712,
+            774,
+            775
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Spectral Properties of the Modified Templates: ",
+        "bbox": [
+            186,
+            206,
+            571,
+            219
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Poly(dA) solutions reacted with increasing concentrations of CAA or CEO (Table 1) showed the characteristic fluorescence spectrum described for $1 , N ^ { 6 }$ r-ethenoadenosine . The intensity of fluorescence $( \\lambda _ { \\mathrm { m a x } } ~ = ~ 4 1 5 ~ \\mathrm { { n m } }$ e x c l t a t i o n a t $3 1 0 ~ \\mathsf { n m }$ increased with increasing ratio of CAA or CEO: homopolymer (data not shown) indicating that an increasing proportion of eA residues was introduced in the polynucleotide. CAA-modified poly(dA) obtained with a 1700-fold molar excess of CAA had an ultraviolet spectrum similar to that reported for $1 , N ^ { 6 }$ -ethenoadenosme . The intensity of fluorescence did not increase linearly with the concentration of CAA or CEO; in accordance with previous reports, this is attributable to the quenching of fluorescence of eA residues by neigh",
+        "bbox": [
+            186,
+            223,
+            810,
+            400
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/23a4e7a3435da5af5f054e4c3b53f02e22d4045b71dcf319fb5ef0339964b795.jpg",
+        "table_caption": [
+            "- Incorporation of complementary and non-complementary deoxyribonucleotides on CAA- or CEO-treated r>oly(dV) templates "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            221,
+            463,
+            774,
+            745
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Molar ratio of CAA or CEO to nucleotide phosphorus [as poly(dA)] concentrations in the reaction mixture. ",
+        "bbox": [
+            201,
+            757,
+            729,
+            780
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "b The error rate i s expressed as the molar ratio of non-conrolementary to complementary nucleotides incorporated on the template. ",
+        "bbox": [
+            201,
+            789,
+            779,
+            813
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "bouring nucleic acid b a s e s 2 3 ' 2 6 ' 2 8 ' ^ 5 . CAA- or CEO-treated poly(dC) solution s (Tabl e 2) wer e no t fluorescent ; thi s i s i n accordanc e wit h previou s observation s ",
+        "bbox": [
+            189,
+            180,
+            764,
+            230
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inhibitio n of DNA Synthesi s an d Misincorporation : ",
+        "bbox": [
+            189,
+            241,
+            606,
+            254
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Th e introductio n of ethen o grouping s i n poly(dA ) an d poly(dC ) template s r e s u l t e d i n u p t o a 100-fol d inhibitio n of DNA synthesi s an d i n u p t o a severa l hundred-fol d increas e i n incorporatio n of non - complementar y base s (Table s 1 an d 2) . Th e blan k value s (incubatio n of the polymerase with each of the 4 pairs of $^ 3 \\mathrm { _ H }$ -labelled and $^ { 3 2 } \\mathsf { p } _ { - }$ l a b e l l e d nucleotides but without template) were 200 dpm for the $^ 3 \\mathrm { _ H } .$ - and 700 dpm for the $3 2 _ { \\mathsf { P } }$ -label per assay, respectively; the data reporan d 70 0 dp m fo r th e P-labe l pe r a s s a y , respectively ; th e d a t a repor - te d i n Table s $\\mathsf { C s } _ { 2 } \\mathsf { s o } _ { \\mathsf { \\Omega } _ { \\mathsf { L } } }$ 2 wer e calculate d afte r subtractio n of thes e $^ 3 \\mathrm { _ { H _ { - } } }$ ",
+        "bbox": [
+            188,
+            256,
+            801,
+            403
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/13d86d3d9f3937af122a0ced919e53c7f3cfacbeef7062b5a6132eb0b6dbc028.jpg",
+        "table_caption": [
+            "Tabl e 2 - Incorporatio n o f complementary an d non-complementar y deoxyribo - nucleotides on CM- or CEO-treated poly(dC) templates "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            225,
+            461,
+            779,
+            740
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Molar r a t i o o f CAA o r CEO t o nucleotid e Dhosohoru s [a s Doly(dC) ] concentration s i n th e reactio n mixture . ",
+        "bbox": [
+            200,
+            759,
+            729,
+            782
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Th e erro r r a t e i s expresse d a s th e mola r r a t i o o f non-complementar y t o complementar y nucleotide s incorporate d o n th e template . ",
+        "bbox": [
+            200,
+            793,
+            778,
+            815
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "labelled complementary nucleotide and from $^ { 3 2 } \\mathsf { p }$ -labelled non-complementary nucleotide into acid-insoluble material were shown to band at the same density coinciding with the absorbance of polynucleotides. Both inhibition and misincorporation were dependent on the extents of reaction, i.e., the molar ratio of CAA or CEO to homopolymer nucleotide phosphorus. ",
+        "bbox": [
+            186,
+            181,
+            796,
+            280
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Misincorporation of dGMP into newly-synthesized DNA was observed in the presence of $E$ . coli DNA polymerase I when CAA- or CEO-treated poly(dA) was used as a template: the increases in error rates were from 19 to $3 6 0 0 ~ \\times ~ 1 0 ^ { - 5 }$ and from 2 to $3 2 0 ~ \\times ~ 1 0 ^ { - 5 }$ , respectively (Expts II and IV, Table 1). The $^ { 3 2 } \\mathsf { p }$ -incorporation (dpm/assay) ranged from 24,300 to 95,600 $\\mathbf { E } \\times \\mathbf { p t }$ 11) and from 3,700 to 5,700 (Expt IV); this 10-fold difference between 2 series of modified poly(dA) templates argues against the idea that dGMP is non-specifically adsorbed on the template. Furthermore, the error rate for dGMP incorporation on untreated poly(dA) in Expt IV is close to that reported by other investigators $4 6 , 4 7$ . That misincorporation of dGMP was mainly a consequence of depurination of modified poly(dA) template during the assay could be excluded, since the predicted dCMP incorporation which, on partially depurinated poly(dA), should be about 4 times higher than the incorporation of $\\mathtt { d G M P } ^ { 4 7 }$ was not observed; the error rates (dCMP/dTMP) were $( 2 1 - 4 3 ) \\times 1 0 ^ { - 5 }$ 5for CAA-treated poly(dA) $\\begin{array} { r l } { \\mathbb { E } \\times \\ p \\ t \\ : \\ : \\textbf { I } } \\end{array}$ , Table 1; the $^ { 3 2 } \\mathsf { p }$ -incorporation was in the range of 1,100 to 51,400 dpm/assay) and $( 3 - 1 6 ) \\times 1 0 ^ { - 5 }$ for CEO-treated poly(dA) (Expt I I I , Table 1; the $3 2 _ { \\mathsf { P } }$ -incorporation ranged from 300 to 5,900 dpm/assay). The increase in error rate for dCMP incorporation (Expts I and III) could be explained by depurination of the templates when incubated at $3 7 ^ { \\circ } \\mathsf { C }$ ; this observation corroborates the report that EA is released from CAA-modified DNA in vitro ",
+        "bbox": [
+            188,
+            285,
+            805,
+            639
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Misincorporation of dTMP was observed on modified poly(dC) templates; the increases in error rates were from 10 to 78 x 10\\~s ( Pincorporation: range from 4,100 to 11,500 dpm/assay, Expt VI, Table 2) after CAA- and from 6 to $1 4 0 ~ \\times ~ 1 0 ^ { 5 }$ $3 2 _ { \\mathsf { P } }$ -incorporation: range from 5,900 to 15,200 dpm/assay, Expt V1I1, Table 2) after CEO-treatment of poly(dC). The misincorporation frequencies found for dAMP and dTMP on untreated poly(dC) (Expts V-VI11) are close to those reported by Agarwal et a l . and Boiteux . When one of the newly synthesized products, i . e . , poly(dC) template treated with a 630-fold molar excess of CAA and replicated in the presence of $^ 3 \\mathrm { \\textmu }$ -dGTP and $3 2 _ { \\mathsf { P } }$ -dTTP, was subnutted to enzymatic hydrolysis by DNase 1 from bovine pancreas, the 32p-label was released into the medium demonstrating that the noncomplementary deoxyribonucleoside monophosphate was incorporated by complementary deoxyribonucleoside monophosphate was incorporated by dAMP than dTMP; this difference was previously shown for heatdAMP than dTMP; this difference was previously shown for heat- / P> explained by deamination of cytosine residues prior to the assay to give uracil, which codes for adenine. As indicated by a decrease in the misincorporation of dAMP (Expts V and VII, Table 2; the $^ { 3 2 } \\mathsf { P }$ -incorporation ranges were from 5,400 to 177,900 dpm/assay, and from 46,300 to 216,700 dpm/assay, respectively), the rate of deamination in the template was reduced after CAA or CEO treatment because of reaction with the $N ^ { 4 }$ amino group of cytosine. Only when poly(dC) was treated with CEO at the highest concentration (Expt VII, Table 2) was an exception noticed: the error rate for dAMP increased. Further experiments are required to investigate the possible role as a miscoding base of 2,3-dihydro-2- hydroxy-imidazo [1,2-c] pyrimidin-5(6H)-one, which is the precursor of EC 27 in the reaction of CAA with cytosine residues ",
+        "bbox": [
+            188,
+            643,
+            806,
+            803
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            191,
+            184,
+            806,
+            475
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "In a double-logarithmic plot of the misincorporation rates of dGMP on modified poly(dA) templates versus the respective values for inhibition of DNA replication (expressed as 1/dTMP incorporated), straight lines with identical slopes were obtained for templates containing increasing amounts of eA (graphs not shown). Similar plots of the data for modified poly(dC) templates also gave linear relationships, but the slopes of the lines differed s l i g h t l y . These results are consistent with the idea that a single DNA adduct, eA, is produced when either CAA or CEO reacts with poly(dA) and that this is solely responsible for the observed phenomena of DNA inhibition and misincorporation. Similar considerations may apply to eC. ",
+        "bbox": [
+            191,
+            479,
+            816,
+            655
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            193,
+            680,
+            284,
+            693
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "There is now sufficient evidence to demonstrate that CAA and CEO, both electrophilic VC metabolites, react with adenine and cytosine residues in nucleic acids. Apart from the hydrated etheno-intermediates, eA and eC are the only reaction products reported so far (see Introduction). When CAA- or CEO-treated poly(dA) and poly(dC) were assayed as templates for E. coli polymerase 1, misincorporation of noncomplementary nucleotides was observed; the misincorporation increased with the degree of modification and was specific, dGMP being incorporated on modified poly(dA) and dTMP on modified poly(dC). In a collaborative study carried out by Spengler and Singer on synthetic templates containing predetermined amounts of eA and eC and with a DNA-dependent RNA polymerase system, similar results were obtained. ",
+        "bbox": [
+            193,
+            696,
+            796,
+            804
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            189,
+            185,
+            810,
+            265
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Therefore, the high misincorporation rate of dGMP observed on CAA- and CEO-treated poly(dA) templates infers possible miscoding properties for eA. Such EA.G base-pairing could be explained by the formation of hydrogen bonds between the two bases in the syn and anti conformations, respectively (Fig. 2A). The proposed base-pairing scheme is similar to that of $\\mathsf { A } _ { s y n } \\cdot \\mathsf { G } _ { a n t i }$ lenol, lmmoj cA mayJ thus represent a potential promutagenic lesion which can be expected to lead to $\\mathsf { A } \\cdot \\mathsf { T } { \\mathrel { + } \\mathsf { C } } \\cdot \\mathsf { G }$ transversions. ",
+        "bbox": [
+            188,
+            267,
+            816,
+            394
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Our data also suggest that eC and/or its precursor could miscode for $\\boldsymbol { \\mathrm { \\Delta T } }$ and thus possibly induce ${ \\mathsf { C } } \\cdot { \\mathsf { G } } + { \\mathsf { A } }$ .T transversions. Comple",
+        "bbox": [
+            188,
+            398,
+            774,
+            428
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/874d4d7afd534188c29d784404c1fdd995d6ea3d82d109c359eda66403e5214b.jpg",
+        "image_caption": [
+            "Fig. 2 - Base-pairing schemes for the miscoding bases $^ { 1 , N ^ { 6 } }$ -ethenoadenine (eA) and $3 , \\tilde { w } ^ { 4 }$ ethenocytosine (eC). dR: deoxyribose. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            339,
+            481,
+            677,
+            777
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "SO 51 mentary b a s e - p a i r i n g models ' fail to explain t h e observed E C . T b a s e - p a i r i n g t h r o u g h hydrogen b o n d i n g ( F i g . 2B) a s h a s been d i s c u s s e d 52 for other mispairing bases . Misincorporation of dTMP in our studies may therefore be attributable to vertical stacking forces, which have been proposed as an alternative mechanism for base-pair stabilization53'5 \\*. ",
+        "bbox": [
+            189,
+            180,
+            801,
+            279
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The induction of $\\mathsf { A } \\cdot \\mathsf { T } { \\mathsf { + C } } . \\mathsf { G }$ and $\\mathsf { C } \\cdot \\mathsf { G } { \\ast } \\mathsf { A } \\cdot \\mathsf { T }$ transversions possibly resulting from eA and eC may explain the fact that metabolically activated VC, CAA or CEO induce base-pair substitution mutations, but not frameshift mutations in Salmonella typhimurium8-10 CAA has recently been reported to specifically induce base-pair substitution mutations in a Bacillus subtilis transformation assay16. Further experiments in this laboratory are in progress to determine whether CAA and CEO specifically induce ${ \\mathsf { A } } \\cdot { \\mathsf { T } } { \\mathsf { + C } } \\cdot { \\mathsf { G } }$ and/or $\\mathsf { C } . \\mathsf { G } \\star \\mathsf { A }$ .T transversions. εA and eC may also be responsible for the mutagenic effects of CEO found in all the genetic indicator organisms tested so $\\mathtt { f a r } ^ { 2 }$ . The formation of such potentially promutagenic lesions in DNA, suggested for the first time with a human carcinogen, may well represent a critical step in VC- or CEO-induced 21 carcinogenesis . This type of lesion, i . e . , adenine a n d cytosine with an additional imidazole ring between the exo-mtrogen and the adjacent endo-mtrogen, may have relevance for other carcinogens and mutagens, such a s vinyl bromide, which produces EA and eC residues in RNA or haloethylnitrosoureas and glycidaldehyde, which give rise to structurally-related ethano and etheno derivatives of nucleic acid bases, r e s - p e c t i v e l y . ",
+        "bbox": [
+            188,
+            282,
+            811,
+            588
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            614,
+            346,
+            627
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "This work was partially supported by contract NO1-CP-55630 from the National Cancer Institute, USPHS. We thank Dr A. Croisy for the synthesis of CEO, and Drs S. Boiteux and G. Michel-Maenhaut for v a - luable technical advice. We a r e indebted to Drs R. Montesano, P . L . Grover, P. Sims and C. Cooper for c r i t i c a l reading of the m a n u s c r i p t , to Mrs E. Heseltine for editorial a s s i s t a n c e , and to Mrs M. Courcier and Miss C. Rowson for s e c r e t a r i a l h e l p . ",
+        "bbox": [
+            188,
+            631,
+            783,
+            741
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "NOTE ADDED IN PROOF ",
+        "text_level": 1,
+        "bbox": [
+            186,
+            765,
+            371,
+            778
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We a r e grateful to Dr R. Saffhill, Paterson L a b o r a t o r i e s , Manc h e s t e r , UK, for communicating to us unpublished results from similar independent studies: misincorporation of dGMP on CAA-modified poly(dA.dT) co-polymers and of dAMP, dTMP on modified poly(dG,dC) templates was observed. The error rates were dependent on the amount of eA and eC that were analyzed in the respective templates. These data lend further support that eA and eC may have miscoding properties. ",
+        "bbox": [
+            186,
+            783,
+            776,
+            813
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            189,
+            187,
+            808,
+            266
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "\\*To whom correspondence should be addressed at the International Agency for Research on Cancer. ",
+        "bbox": [
+            191,
+            292,
+            766,
+            316
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            189,
+            342,
+            285,
+            355
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1 . C r e e c h , J . L . , J r a n d J o h n s o n , M.N. (1974) J . O c c u p . Med. 1 6 , 150-151   \n2 . IARC M o n o g r a p h s (1979) E v a l u a t i o n of t h e C a r c i n o g e n i c Risk of C h e m i c a l s to H u m a n s , V o l . 19, p p . 377-438. I n t e r n a t i o n a l Agency for R e s e a r c h on C a n c e r , Lyon   \n3 . B a r t s c h , H. a n d M o n t e s a n o , R. (1975) M u t a t . R e s . 3 2 , 9 3 - 1   \n4 . B a r b i n , A . , B r e s i l , H . , C r o i s y , A . , J a c q u i g n o n , P . , M a l a v e i l l e , C , M o n t e s a n o , R. a n d B a r t s c h , H. (1975) Biochem. B i o p h y s . R e s . Commun. 6 7 , 596-603   \n5 . B o n s e , G. , U r b a n , T . , R e i c h e r t , D. a n d H e n s c h l e r , D. (1975) Biochem. P h a r m a c o l . 2 4 , 1829-1834   \n6 . K o c h e t k o v , N . K . , S h i b a e v , V . N . a n d Kost, A . A . (1971) T e t r a h e d r o n L e t t . 2 2 , 1993-1996   \n7 . B a r r i o , J . R . , S e c r i s t , J . A . , I I I a n d L e o n a r d , N . J . ( 1 9 7 2 ) B i o c h e m . B i o p h y s . R e s . Commun. 4 6 , 597-604   \n8 . R a n n u g , U . , J o h a n s s o n , A . , Ramel, C . a n d W a c h t m e i s t e r , C . A . (1974) Ambio 3 , 194-197   \n9 . M a l a v e i l l e , C , B a r t s c h , H . , B a r b i n , A . , C a m u s , A . M . , M o n t e s a n o , R . , C r o i s y , A. a n d J a c q u i g n o n , P . (1975) Biochem. B i o p h y s . R e s . Commun. 6 3 , 363-370   \n10. M c C a n n , J . , S i m m o n , V . , S t r e i t w i e s e r , D. a n d A m e s , B . N . (1975) P r o c . N a t . A c a d . S c i . USA 7 2 , 3190-3193   \n1 1 . H u b e r m a n , E . , B a r t s c h , H. a n d S a c h s , L. (1975) I n t . J . C a n c e r 16, 639-644   \n12. H u s s a i n , S. a n d O s t e r m a n - G o l k a r , S. (1976) C h e m . - b i o l . I n t e r - a c t i o n s 1 2 , 265-267   \n1 3 . L a u m b a c h . A . D . , L e e , S . , Wong, J . a n d S t r e i p s , U . N . (1977) i n P r e v e n t i o n a n d D e t e c t i o n of C a n c e r , N i e b u r g s , H . E . , E d . , P a r t I , V o l . I , p p . 1 5 5 - 1 7 0 . M a r c e l D e k k e r I n c . , New York   \n1 4 . L o p r i e n o , N . , B a r a l e , R . , B a r o n c e l l i , S . , B a r t s c h , H . , B r o n z e t t i , G . , C a m m e l l i n i , A . , C o r s i , C . , F r o z z a , D. , N i e r i , R . , L e p o r i n i , C , R o s e l l i n i , D. a n d R o s s i , A.M. (1977) C a n c e r R e s . 3 6 , 253-257   \n1 5 . B i g n a m i , M . , C o n t i , G . , C o n t i , L . , C r e b e l l i , R . , M i s u r a c a , F . , P u g l i a , A . M . , R a n d a z z o , R . , S c i a n d r e l l o , G. a n d C a r e r e , A. (1980) C h e m . - b i o l . I n t e r a c t i o n s 3 0 , 9 - 2 3   \n16. P h i l i p p s , R . A . , Z a h l e r , S . A . a n d G a r r o . A . J . ( 1 9 8 0 ) M u t a t . R e s . 74, 267-281   \n17. Van D u u r e n , B . L . , K a t z , C , G o l d s c h m i d t , B . M . , F r e n k e l , K. a n d S i v a h , A. (1972) J . n a t . C a n c e r I n s t . 4 8 , 1431-1439   \n18. B a r t s c h , H . , M a l a v e i l l e , C , B a r b i n , A. a n d P l a n c h e , G. (1979) A r c h . T o x i c o l . 4 1 , 249-277   \n19. R a n n u g , U . , G o t h e , R . a n d W a c h t m e i s t e r , C . A . ( 1 9 7 6 ) C h e m . - b i o l . I n t e r a c t i o n s 1 2 , 2 5 1 - 2 6 3   \n2 0 . V a n D u u r e n , B . L . , G o l d s c h m i d t , B . M . , L o e w e n g a r t , G . , S m i t h , A . C . , M e l c h i o n n e , S . , S e i d m a n , 1 . a n d R o t h , D . ( 1 9 7 9 ) J - n a t . C a n c e r I n s t . 6 3 , 1433-U39   \n21. Z a j d e l a , F . , C r o i s y , A . , B a r b i n , A . , M a l a v e i l l e , C . , T o m a t i s , L. a n d B a r t s c h , H. (1980) C a n c e r Res. 40, 352-356   \n2 2 . B a r r i o , J . R . , S e c r i s t , J . A . I l l a n d L e o n a r d , N . J . ( 1 9 7 2 ) P r o c . n a t . A c a d . S c i . US A 6 9 , 2 0 3 9 - 2 0 4 2   \n2 3 . J a n i k , B . , S o m m e r , R . G . , K o t i c k , M . P . , W i l s o n , D . P . a n d E r i c k s o n , R . J - (1973 ) P h y s i o l . C h e m . P h y s i c s 5 , 2 7 - 3 6   \n2 4 . L e e , O H . a n d W e t m u r , J . G . (1973 ) B i o c h e m . B i o p h y s . R e s . C o m m u n . 50 , 879-88 5   \n2 5 . L e o n a r d , N . J . a n d T o l m a n , G . L . (1975 ) A n n . N.Y . A c a d . S c i . 255 , 43-5 8   \n2 6 . Kimura, K., N a k a n i s h i , M., Yamamoto, T. and Tsuboi, M. (1977) ] . Biochem. 8 1 , 1699-1703   \n2 7 . B i e r n a t , J . , C i e s j o l k a , J . , G 6 r m c k i , P . , A d a m i a k , R . W . , K r y z o s i a k , W.J. a n d Wiewiorowski, M. (1978) Nucleic Acid s Res . 5 , 789-80 4   \n2 8 . L e d n e v a , R . K . , R a z j i v i n , A . P . , Kost , A.A . a n d B o g d a n o v , A.A . (1978 ) Nuclei c Acid s Res . 5 , 4225-424 3   \n29. L a i b , R.J. and Bolt, H.M. (1977) Toxicology 8, 185-195   \n3 0 . G r e e n , T . a n d H a t h w a y , D . E . (1978 ) C h e m . - b i o l . I n t e r a c t i o n s 22, 211-224   \n31. L a i b , R.J. a n d Bolt, H.M. (1978) Arch. Toxicol. 39, 235-240   \n32. L a i b , R . J . a n d O t t e n w a l d e r , H . (1978 ) N a u n y n S c h m i e d e b e r g s A r c h . P h a r m a k o l . 30 2 ( S u p p l . ) , R2 1   \n3 3 . L a i b , R . J . a n d O t t e n w a l d e r , H . (1979 ) Nauny n S c h m i e d e b e r g s A r c h . P h a r m a k o l . 30 7 ( S u p p l . ) , R1 7   \n3 4 . B a r r i o , J . R . , D a m m a n n , L . G . a n d K i r k e g a a r d , L . H . (1973 ) J . Amer . Chem . Soc . 9 3 , 961-96 2   \n3 5 . K o c h e t k o v , N . K . , S h i b a e v , V.N . a n d Kost , A.A . (1972 ) D o k l . A k a d . Nauk. SSSR 205, 100-103   \n36. S e c r i s t , J . A . I l l , B a r r i o , J . R . , L e o n a r d , N . J . , V i l l a r - P a l a s i , C . a n d G i l m a n , A.G . (1972 ) S c i e n c e 177 , 279-28 0   \n3 7 . T o l m a n , G . L . , B a r r i o , J . R . a n d L e o n a r d , N . J . (1974 ) B i o c h e m i s t r y 13, 4869-4878   \n3 8 . S i r o v e r , M.A . a n d Loeb , L.A . (1974 ) N a t u r e 252 , 414-41 6   \n39. A b b o t t , P . J . a n d S a f f h i l l , R . (1977 ) Nuclei c Acid s R e s . 4 , 761-76 9   \n40. A b b o t t , P . J . a n d S a f f h i l l , R . (1979 ) B i o c h i m . B i o p h y s . Act a 562 , 51-6 1   \n4 1 . G e r c h m a n n , L . L . a n d Ludlum , D.B . (1973 ) Biochim . Biophys . Act a 308 , 310-31 6   \n4 2 . P e g g , A . E . (1977 ) Adv . C a n c e r R e s . 2 5 , 195-26 9   \n4 3 . B a r b i n , A . , B a r t s c h , H . , L e c o n t e , P . a n d R a d m a n , M . (1980 ) i n P r o c e e d i n g s o f th e NATO/EMB O Lectur e Cours e o n Chromosom e Damage and R e p a i r , NATO-AS1 Series, Seeberg, E . , E d . , Plenum P r e s s , Ne w Yor k ( i n p r e s s )   \n44. G r o s s , H . (1963 ) J . P r a k t . Chem . 4 , 99-10 2   \n4 5 . L e h r a c h , H . a n d S c h e i t , K.H . (1973 ) B i o c h i m . B i o p h y s . Act a 308 , 28-34   \n4 6 . A g a r w a l , S . S . , Dube , D.K . an d Loeb , L.A . (1979 ) J . Biol . Chem . 254, 101-106   \n47 . Shearman , C.W . an d Loeb , L.A . (1979 ) J . Mol. Biol . 128 , 197-21 8   \n48. Boiteux , S . (1980 ) Ph.D . Thesis , B r u s s e l s , Belgiu m   \n49. Spengler , S . an d Singer , B . (19 8 ) Nuclei c Acid s Res .   \n5 0 . Topal.M.D. and Fresco, J.R. (1976) Nature 263, 285-289   \n5 1 . Watson, J.D. and C r i c k , F . H . C . (1953) Nature 171, 737-738   \n5 2 . S i n g e r , B . , F r a e n k e l - C o n r a t , H. a n d Kusmierek, J . T . (1978) P r o c . n a t . Acad. Sci. USA 75, 1722-1726   \n5 3 . I k e h a r a , M. and H a t t o r i , M. (1972) Biochim. Biophys. Acta 281, 11-17   \n5 4 . I k e h a r a , M. and H a t t o r i , M. (1972) Biochim. Biophys. Acta 287, 9-15   \n5 5 . O t t e n w a l d e r , H . , L a i b , R . J . a n d Bolt, H.M. (1979) A r c h . T o x i c o l . 41, 279-286   \n56. Ludlum, D.B., Kramer, B.S. , Wang, J. and Fenselau, C. (1975) Biochemistry 14, 5480-5485   \n5 7 . Tong, W.P. and Ludlum, D.B. (1979) Biochem. P h a r m a c o l . 28, 1175-1179   \n5 8 . Goldschmidt, B.M., B l a z e j , T . P . a n d Van Duuren, B.L. (1968) Tetrahedron Lett. 13, 1583-1586 ",
+        "bbox": [
+            186,
+            363,
+            801,
+            814
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            184,
+            181,
+            801,
+            816
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            184,
+            185,
+            791,
+            361
+        ],
+        "page_idx": 12
+    }
+]

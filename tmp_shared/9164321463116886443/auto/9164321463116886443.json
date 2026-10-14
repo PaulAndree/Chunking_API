@@ -1,0 +1,584 @@
+[
+    {
+        "type": "text",
+        "text": "Un frente frío es el borde de ataque de una masa de aire más fría a nivel del suelo que reemplaza una masa de aire más cálida, encontrándose dentro de una depresión superficial pronunciada de baja presión. Se suele formar tras un ciclón extratropical (al oeste en el hemisferio norte, al este en el sur), en el borde principal de su patrón advección de aire frío, conocido como flujo seco de «cinta transportadora» del ciclón. Las diferencias de temperatura en esa frontera pueden exceder los $3 0 ~ ^ { \\circ } \\mathrm { C }$ $( 5 4 ~ ^ { \\circ } \\mathrm { F } )$ entre un lado y otro. Cuando hay suficiente humedad, puede llover en todo el frente. Si hay una inestabilidad significativa a lo largo del frente, se puede formar una estrecha línea de tormentas a lo largo de la zona frontal. Si la inestabilidad es débil, una amplia capa de lluvia puede moverse tras el frente y el enfriamiento por evaporación de la lluvia puede aumentar la diferencia de temperatura en todo el frente. Los frentes fríos son más fuertes en las estaciones de transición de otoño y primavera y son más débiles durante el verano. ",
+        "bbox": [
+            70,
+            140,
+            932,
+            347
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Desarrollo de frentes fríos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            383,
+            410,
+            407
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Un frente frío se produce cuando una masa de aire comparativamente más frío se mueve hacia una zona con aire más cálido. El aire más seco y frío forma un frente muy inclinado debajo del aire más cálido y húmedo en la superficie y lo eleva. Esto suele provocar formaciones de nubes con un fuerte desarrollo vertical, que pueden manifestarse como un frente de chubascos y tormentas cuando hay suficiente humedad.1 En los mapas meteorológicos, la posición en la superficie del frente frío está marcada con el símbolo de una línea azul de triángulos/picos que apuntan en la dirección de avance. La ubicación de un frente frío se encuentra en el borde anterior a la caída de temperatura, que en un análisis de isoterma se mostraría como el borde anterior del gradiente isotérmico, y normalmente se encuentra dentro de una vaguada superficial pronunciada.2 Los frentes fríos se mueven más rápido que los frentes cálidos y pueden producir cambios climáticos más bruscos. Dado que el aire frío es más denso que el aire caliente, reemplaza con mayor rapidez al aire caliente que ocupa ese frente.3 ",
+        "bbox": [
+            70,
+            423,
+            576,
+            783
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/59f3458fb2ab76a1f46a6206dabbf8510fbd773edcc852a8cfef4d8ed045aee7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            372,
+            921,
+            400
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El símbolo de un frente frío: una línea azul con triángulos que apuntan en la dirección de avance. ",
+        "bbox": [
+            608,
+            408,
+            894,
+            454
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f5da1571fee77b850b98efcdf5e6baccc7e4abe7ab5d414bcdf58aaceb8f7b6.jpg",
+        "image_caption": [
+            "Un frente frío sobre la región oriental y central de los Estados Unidos de América. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            491,
+            922,
+            687
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            769,
+            690,
+            786
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En el hemisferio norte, un frente frío suele provocar un cambio de viento de suroeste a noroeste en sentido de las agujas del reloj, también conocido como virado, y en el hemisferio sur un cambio de noroeste a suroeste (en sentido contrario a las agujas del reloj). La presión atmosférica disminuye constantemente con la aproximación de un frente frío. Con el paso frontal, la presión aumenta bruscamente y luego se estabiliza. Normalmente, los frentes fríos pueden caracterizarse por:4 5 ",
+        "bbox": [
+            70,
+            802,
+            932,
+            897
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/781139b39565f74f9e21b25927cf0aaa92a58adfbfb60de134dd678b6b17c799.jpg",
+        "image_caption": [
+            "Un frente frío entrante en el norte de Ohio (2016). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            51,
+            922,
+            211
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/4ca3aa9aae27b850acc33cccdbbb33c486a69aa7b52f51d9ba2ce6bfbc99a9c6.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            38,
+            929,
+            766
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "\\*siempre que haya suficiente humedad. ",
+        "bbox": [
+            72,
+            771,
+            391,
+            789
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nubes ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            825,
+            154,
+            846
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Si el frente frío es muy inestable, se pueden formar nubes cumulonimbus que producen tormentas eléctricas a lo largo del frente. Los cirros yunque pueden extenderse a una distancia considerable a favor del viento desde las tormentas.7 Los otros tipos de nubes asociados con un frente frío dependen de las condiciones atmosféricas, como la estabilidad de la masa de aire y la cizalladura del viento.8 A medida que el frente se acerca, la etapa media da paso a altoestratos y estratocúmulos de niveles bajos con precipitaciones ligeras intermitentes si la masa de aire cálido desplazada por el frente frío es mayoritariamente estable. En caso de inestabilidad significativa de la masa de aire, se formarán cúmulos o cumulonimbos desarrollados verticalmente con chubascos y tormentas eléctricas a lo largo del frente. ",
+        "bbox": [
+            70,
+            865,
+            931,
+            922
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            578,
+            213
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Después del paso del frente frío, el cielo se aclara a medida que se acumula alta presión tras el sistema, aunque pueden persistir cantidades significativas de cúmulos o estratocúmulos, a menudo en forma de largas bandas llamadas calles de nubes, si la masa de aire tras el frente permanece húmeda.9 Cantidades pequeñas e invariables de cúmulos o cirros en un cielo despejado suelen ser indicios de que el tiempo continúa siendo bueno siempre que la presión barométrica se mantenga comparativamente alta. ",
+        "bbox": [
+            70,
+            229,
+            578,
+            399
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Precipitación ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            435,
+            243,
+            459
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Un frente frío comúnmente trae una banda estrecha de precipitación que sigue a lo largo del borde de ataque del frente frío. Estas bandas de precipitación suelen ser muy fuertes y pueden provocar tormentas eléctricas severas, granizadas,10  ráfagas de nieve,11 y/o tornados. En primavera, estos frentes fríos pueden ser muy fuertes y provocar fuertes vientos cuando el gradiente de presión es mayor de lo normal. Durante los meses de invierno, los frentes fríos a veces atraviesan una zona con poca o ninguna precipitación. Pueden ocurrir bandas de lluvia más amplias detrás de los frentes fríos que tienden a tener precipitaciones más estratiformes y menos convectivas.12 Estas tormentas a veces provocan inundaciones y pueden moverse muy lentamente cuando la tormenta que las dirige es fuerte y está incrustada dentro de un patrón de flujo meridional (con más movimiento de polo a ecuador en lugar de movimiento de oeste a este). En invierno, los frentes fríos pueden provocar olas de frío y, ocasionalmente, nieve. En primavera o verano, en latitudes templadas, pueden provocar granizadas junto a la lluvia. Si la humedad no es suficiente, como cuando un montañosa, los frentes fríos pueden no tener nubes. ",
+        "bbox": [
+            70,
+            476,
+            576,
+            876
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/5e48cab08ef486cf3a8f8cf918375290f270c93fcdf3c8c71d1257ff8ebd8987.jpg",
+        "image_caption": [
+            "Nubes estratocúmulos después de un frente frío. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            51,
+            922,
+            211
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/0701509bfe3aa1f4bbf25e01d269436a20aa97d9e6bec783cca487df04e6b5ec.jpg",
+        "image_caption": [
+            "Las nubes altocúmulos pueden indicar la entrada de un frente frío. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            283,
+            922,
+            625
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/1f9fa46dfcbb9b246309b653d046d3d5d803203f9ebc0f109279a4da12a75a59.jpg",
+        "image_caption": [
+            "Altocúmulus undulatus se nubla varias horas después de un frente frío. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            695,
+            924,
+            774
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "sistema cruza previamente una barrera ",
+        "bbox": [
+            589,
+            840,
+            927,
+            856
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Circulación frontogenética ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            42,
+            371,
+            64
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "La frontogénesis es el proceso de crear o intensificar el gradiente de temperatura de un frente. Durante este proceso, la atmósfera reacciona en un intento de restablecer el equilibrio, la consecuencia es un movimiento circular a lo largo del frente donde el aire se eleva, para luego caer detrás del límite del frente. Esta es la fuerza real del movimiento ascendente a lo largo de un frente que es responsable de nubes y precipitaciones. ",
+        "bbox": [
+            70,
+            72,
+            578,
+            222
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A medida que el gradiente de temperatura aumenta durante la frontogénesis, el viento térmico se desequilibra. Para mantener el equilibrio, el viento geostrófico arriba y abajo se ajusta, de modo que se forman regiones de divergencia/convergencia. La continuidad de masa requeriría un transporte vertical de aire a lo largo del frente frío donde hay divergencia (presión reducida). Aunque esta circulación se describe mediante una serie de procesos, en realidad ocurren al mismo tiempo, lo que se puede observar a lo largo del frente como una circulación térmica directa. Hay varios factores que influyen en la forma final y la inclinación de la circulación alrededor del frente, determinando en última instancia el tipo y la ubicación de las nubes y las precipitaciones.13 14 ",
+        "bbox": [
+            70,
+            237,
+            578,
+            503
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cambios de temperatura ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            539,
+            394,
+            562
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Los frentes fríos son la vanguardia de las masas de aire más frías, de ahí el nombre de «frente frío». Tienen cambios de ",
+        "bbox": [
+            70,
+            579,
+            579,
+            615
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/4331d93c0ed381a29de244f802465d3bf664126757468e781be6e0ce145adf45.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            51,
+            922,
+            241
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Un frente frío tal como apareció en el Servicio Meteorológico Nacional de Wichita (Kansas) WSR-88D el 3 de abril de 2011. La delgada línea azul denominada «frente frío» es el frente y se ven fuertes tormentas desarrollándose detrás del mismo, que se mueve hacia la parte inferior derecha. ",
+        "bbox": [
+            608,
+            245,
+            921,
+            376
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/92a225fea0599c5d42ab9bd066579cc1aa0f7941ea88b060922cdc23fa1ed440.jpg",
+        "image_caption": [
+            "Fuerte tormenta asociada a frente frío en el norte de México. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            410,
+            922,
+            549
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "temperatura más fuertes durante el otoño y la primavera y durante mediados del invierno. Los cambios de temperatura asociados con los frentes fríos pueden ser de hasta $3 0 ~ ^ { \\circ } \\mathrm { C }$ $( 5 4 ~ ^ { \\circ } \\mathrm { F } )$ . Cuando llegan los frentes fríos, suele haber una racha de viento fuerte, que indica que el frente frío está pasando. En las estaciones de observación meteorológica, cuando esto ocurre se codifica una observación conocida como FROPA.15 Los efectos de un frente frío pueden durar desde horas hasta días. El aire tras el frente es más frío que el aire que reemplaza y el aire caliente tiende a ascender, por lo que se enfría, formando un ciclo. Como el aire más frío no puede retener tanta humedad como el aire cálido, se forman nubes y se produce lluvia o nieve.16 ",
+        "bbox": [
+            70,
+            617,
+            931,
+            768
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Características de los límites en un ciclón extratropical ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            806,
+            779,
+            830
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Los frentes fríos se forman cuando una masa de aire más fría se mueve hacia una zona con aire más cálido a raíz de un ciclón extratropical en desarrollo. El aire más cálido interactúa con la masa de aire más fría a lo largo del límite y generalmente produce precipitaciones. Los frentes fríos suelen seguir a un frente cálido o una línea de turbonada. Muy comúnmente, los frentes fríos tienen un frente cálido delante pero con una orientación perpendicular. En zonas donde los frentes fríos alcanzan al frente cálido, se desarrolla el frente ocluido. Los frentes ocluidos tienen una zona de aire caliente en lo alto. Cuando una característica de este tipo se forma hacia el polo de un ciclón extratropical, se conoce como frente ocluido.17 Un frente frío se redesigna como frente cálido si comienza a retroceder antes del próximo ciclón extratropical a lo largo del límite frontal, llamándose frente estacionario si se detiene. Un tipo de frente frío especialmente nítido, fácilmente discernible en imágenes de satélite, es la banda de lluvia frontal fría estrecha. ",
+        "bbox": [
+            70,
+            846,
+            931,
+            921
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            578,
+            251
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/5735f88b3af1032422e66a94b0020b7eac2140a05afeaccb1999a95a5ac66648.jpg",
+        "image_caption": [
+            "Ejemplo de ciclón ocluido. El punto triple es la intersección de los frentes frío, cálido y ocluido. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            51,
+            924,
+            225
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            288,
+            262,
+            309
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Masa de aire   \nOla de frío   \nAnálisis del tiempo en superficie   \nFrente meteorológico ",
+        "bbox": [
+            80,
+            332,
+            394,
+            408
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            429,
+            223,
+            452
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "1. Whiteman, C. David (2000). Mountain meteorology . fundamentals and applications. New York: Oxford University Press. pp. 77-79. ISBN 978-0-19-803044-7. OCLC 428735924 (https://www.worldcat.org/oclc/42 8735924).   \n2. David Roth (14 de diciembre de 2006). «Unified Surface Analysis Manual» (http://w ww.wpc.ncep.noaa.gov/sfc/UASfcManualV ersion1.pdf). Hydrometeorological Prediction Center. Consultado el 9 de enero de 2012.   \n3. Paul M. Markowski; Yvette P. Richardson (20 de septiembre de 2011). Mesoscale Meteorology in Midlatitudes (https://books.g oogle.com/books?id=MDeYosfLLEYC&q=c old+front+movement+warm+front+book&pg =PA119). John Wiley and Sons. p. 120. ISBN 978-1-119-96667-8. Consultado el 9 de enero de 2012.   \n4. «Cold Front: transition zone from warm air to cold air» (http://ww2010.atmos.uiuc.edu/ (Gh)/guides/mtr/af/frnts/cfrnt/def.rxml). ww2010.atmos.uiuc.edu. Consultado el 9 de noviembre de 2019.   \n5. Whiteman, C. David (2000). Mountain meteorology : fundamentals and ",
+        "bbox": [
+            75,
+            478,
+            495,
+            928
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "applications. New York: Oxford University Press. pp. 77-79. ISBN 978-0-19-803044-7. OCLC 428735924 (https://www.worldcat.org/oclc/42 8735924). ",
+        "bbox": [
+            531,
+            469,
+            929,
+            534
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "6. Donald, Ahrens, C. (2007). Meteorology today : an introduction to weather, climate, and the environment (https://archive.org/de tails/meteorologytoday0000ahre_b5f3) (8th edición). Belmont, Calif.: Thomson/Brooks/Cole. pp. 298 (https://arc hive.org/details/meteorologytoday0000ahre b5f3/page/298)–300. ISBN 978-0495011620. OCLC 66911677 (https://www.worldcat.org/oclc/669 11677). ",
+        "bbox": [
+            515,
+            535,
+            931,
+            697
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "7. Lee M. Grenci; Jon M. Nese (2001). A World of Weather: Fundamentals of Meteorology: A Text / Laboratory Manual (h ttps://books.google.com/books?id=oh8lqM5 obuYC&pg=PA212) (3rd edición). Kendall/Hunt Publishing Company. pp. 207- 212. ISBN 978-0-7872-7716-1. OCLC 51160155 (h ttps://www.worldcat.org/oclc/51160155). ",
+        "bbox": [
+            515,
+            700,
+            931,
+            830
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "8. Holton, James R. (2004). An Introduction to Dynamic Meteorology (https://books.googl e.com/books?id=fhW5oDv3EPsC&pg=PA2 77). Academic Press. p. 277. ISBN 978-0-12- 354015-7. ",
+        "bbox": [
+            512,
+            833,
+            931,
+            914
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "9. Weston, K. J. (1980). «An observational study of convective cloud streets». Tellus 32 (5): 433-438. Bibcode:1980Tell...32..433W (ht tp://adsabs.harvard.edu/abs/1980Tell...32..433W). doi:10.1111/j.2153-3490.1980.tb00970.x (https://dx. doi.org/10.1111%2Fj.2153-3490.1980.tb00970.x). ",
+        "bbox": [
+            73,
+            42,
+            494,
+            140
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "10. Schemm, S.; L. Nisi, A. Martinov; D. Leuenberg; O. Martius (2016). «On the link between cold fronts and hail in Switzerland». Atmospheric Science Letters 17 (5): 315-325. Bibcode:2016AtScL..17..315S (http://adsabs.harvard.edu/abs/2016AtScL..17..315 S). doi:10.1002/asl.660 (https://dx.doi.org/10.1002% 2Fasl.660). ",
+        "bbox": [
+            67,
+            142,
+            494,
+            271
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "11. Donald, Ahrens, C. (2007). Meteorology today : an introduction to weather, climate, and the environment (https://archive.org/de tails/meteorologytoday0000ahre_b5f3) (8th edición). Belmont, Calif.: Thomson/Brooks/Cole. pp. 298 (https://arc hive.org/details/meteorologytoday0000ahre _b5f3/page/298)–300. ISBN 978-0495011620. OCLC 66911677 (https://www.worldcat.org/oclc/669 11677). ",
+        "bbox": [
+            67,
+            275,
+            494,
+            435
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "12. K. A. Browning and Robert J. Gurney (1999). Global Energy and Water Cycles. (https://books.google.com/books?id=DO5K 1NK_ZewC&dq=when+do+wide $^ +$ rain+band s+form+near+cold+fronts%3F&pg=PA117) Retrieved on 2008-12-26. ",
+        "bbox": [
+            65,
+            439,
+            492,
+            535
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "13. Holton, James R. (2004). An Introduction to Dynamic Meteorology (https://books.googl e.com/books?id=fhW5oDv3EPsC&pg=PA2   \n77). Academic Press. p. 277. ISBN 978-0-12-   \n354015-7.   \n14. Carlson, Toby N. (1991). Mid-latitude Weather Systems (https://books.google.co m/books?id=2lIVAAAAIAAJ&pg=PA435). HarperCollins Academic. p. 435. ISBN 978-0-   \n04-551115-0.   \n15. Nav Canada (January 2005). Aviation Weather Services Guide. p. 36.   \n16. «Cold Front: transition zone from warm air to cold air» (http://ww2010.atmos.uiuc.edu/ (Gh)/guides/mtr/af/frnts/cfrnt/def.rxml). ww2010.atmos.uiuc.edu. Consultado el 9 de noviembre de 2019.   \n17. St. Louis University (4 de agosto de 2003). «What is a TROWAL? via the Internet Wayback Machine» (https://web.archive.or g/web/20060916052440/http://www.eas.sl u.edu/CIPS/Presentations/Conferences/N WA2002/Snow_NWA_02/tsld003.htm). Archivado desde el original (http://www.ea s.slu.edu/CIPS/Presentations/Conferences/ NWA2002/Snow_NWA_02/tsld003.htm) el   \n16 de septiembre de 2006. Consultado el 2 de noviembre de 2006. ",
+        "bbox": [
+            504,
+            42,
+            931,
+            507
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            566,
+            289,
+            586
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Frente frío: zona de transición de aire cálido a aire frío (http://ww2010.atmos.uiuc.edu/(Gh)/ guides/mtr/af/frnts/cfrnt/def.rxml) Frentes meteorológicos (http://serc.carleton.edu/NAGTWorkshops/visualization/collections/ weather_fronts.html) Frentes: los límites entre masas de aire. (http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/af/f rnts/home.rxml) ",
+        "bbox": [
+            78,
+            608,
+            932,
+            714
+        ],
+        "page_idx": 6
+    }
+]

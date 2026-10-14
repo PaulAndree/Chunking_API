@@ -1,0 +1,295 @@
+[
+    {
+        "type": "text",
+        "text": "Highly Variable Mutation Rates in Commensal and Pathogenic Escherichia coli ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            45,
+            613,
+            88
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Escherichia coli in humans is a commensal inhabitant of the gastrointestinal tract as well as one of the most frequently isolated bacterial pathogens (1). In studying foodborne E. coli pathogens, as well as the ECOR collection of natural isolates (2), LeClerc et al. found that mutant bacteria— defective in methyl-directed mismatch repair (MMR)—were present in pathogenic strains at an unexpectedly high frequency (over $1 \\%$ ), thus raising the possibility of a link between mutator phenotype and pathogenicity (3). ",
+        "bbox": [
+            59,
+            111,
+            334,
+            286
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In an independent study, we have surveyed mutation rates among different E. coli populations isolated from distinct environments. We studied 504 natural isolates, which represented the genetic diversity of the species as a whole, encompassing both human commensal $[ n ~ = ~ 2 \\bar { 1 6 }$ (4)) and pathogenic $[ n = 2 8 8$ (5)] strains. Our data (Fig. 1) show a frequency of strains bearing defects in MMR genes similar to that reported by LeClerc et $a l$ , but such defects were found in all the phylogenetic groups and independently of the commensal or pathogenic nature of the strains. The MMR defective strains were distributed $3 / 2 8 8$ in pathogens versus $1 / 2 1 6$ in nonpathogens, a difference that is not statistically significant $( \\chi ^ { 2 } = 0 . 0 5$ , $P > 0 . 5$ Likewise, taking the data in the study by LeClerc et al. (3) all together, MMR defective strains were distributed 9/268 in pathogens versus $0 / 8 1$ in nonpathogens, which is also not statistically significant $( \\chi ^ { 2 } = 1 . 6$ , $P = 0 . 2$ , the Yates correction for small numbers has been applied to the $\\mathrm { c h i } ^ { 2 } \\mathrm { \\overline { { s } } }$ . The two data sets do not differ significantly $( \\chi ^ { 2 } = 0 . 9 6$ , $P = 0 . 2$ to 0.5). In short, the numbers are too small at this point to support any hypothesis. ",
+        "bbox": [
+            59,
+            287,
+            334,
+            593
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            352,
+            113,
+            627,
+            180
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Besides MMR defect, however, there are other pathways leading to a mutator phenotype. Therefore, to detect a wide range of mutator effects, we undertook the screen of all mutational events leading to gene inactivation (6), unlike LeClerc et al. (3), who could detect only a few point mutations in the essential rpoB gene that confer resistance to rifampicin (7). Furthermore, we could also detect clones with small increases in mutation rate because each papillating colony could be an independent assay for mutation rate. With this assay, we found that as much as $1 4 \\%$ of bacteria had an enhanced mutation rate, the majority being mild mutators. These mutators were also present in all phylogenetic groups, including pathogenic and commensal strains of E. coli. When the mutation rate to rifampicin resistance of these mutators was monitored, a high level of polymorphism was observed, ranging continuously from less than $1 0 ^ { - 8 }$ to more than $1 0 ^ { - 6 }$ (Fig. 1). In general, the highest values correspond to MMR deficiencies, whereas other mutators are likely to be due to different mechanisms. ",
+        "bbox": [
+            352,
+            180,
+            629,
+            525
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A high incidence of mutators was observed not only among emerging pathogens, but also among classical pathogenic and commensal strains, such as those isolated from feces of healthy Dogons for whom there is no record of antibiotic treatment (8). This suggests that all bacterial populations have recently experienced adaptive evolution (9, 10). Even a modest increase in mutation rate has been shown to be advantageous during the adaptive evolution of bacteria (10, 11). Therefore, a higher percentage of such mild mutators observed in some pathogenic isolates might be a consequence of stronger selection in that specific environment (12). A direct link between increased genetic variability and pathogenesis, however (for example, transition between commensalism and parasitism), remains to be demonstrated. ",
+        "bbox": [
+            352,
+            526,
+            627,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            647,
+            47,
+            922,
+            246
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ivan Matic Miroslav Radman Laboratoire de Mutagenèse, Institut Jacques Monod, 2 place Jussieu, 75251 Paris Cedex 05, France François Taddei\\* Laboratoire de Mutagenèse, Institut Jacques Monod, and Ecole du Génie Rural des Eaux et des Forêts, 19, avenue du Maine, 75732 Paris, France E-mail:taddei@ijm.jussieu.fr Bertrand Picard Laboratoire de Microbiologie, Hôpital Morvan, 29609 Brest Cedex, France Catherine Doit Edouard Bingen Laboratoire de Microbiologie (ER321), Hôpital R. Debré, 75019 Paris, France Erick Denamur Jacques Elion Institut National de la Santé et de la Recherche Médicale (INSERM) U458, Hópital R. Debré ",
+        "bbox": [
+            652,
+            247,
+            924,
+            606
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f4928393462352ba56509a8ec9b6d449401c7f1e6d39b0e4b09875262319f196.jpg",
+        "image_caption": [
+            "Fig. 1. Frequency of mutation to rifampicin resistance among mutator strains. Five hundred and four natural $E .$ coli isolates were screened for forward mutagenesis in the lacl gene. A total of 69 strains $( 1 4 \\% )$ has been found to form dark blue papillae on minimum medium containing limited glucose, X-gal, and P-gal (the latter can only be used as a carbon source by $I a c I ^ { - }$ mutants). We monitored the frequency of rifampicin-resistant mutants in three independent cultures of these strains (median value is presented), as well as the frequency of 52 non-papillating strains (data not shown). Non-papillating "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            350,
+            623,
+            624,
+            770
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "strains had an average mutation rate to rifampicin resistance of about $1 \\times 1 0 ^ { - 8 }$ (a value commonly found for wild-type laboratory strains like $E .$ coli K-12) and a small variance (data not shown). Papillating strains had an average mutation rate of $2 . 6 \\times 1 0 ^ { - 7 }$ , ranging from less than $1 0 ^ { - 8 }$ to more than $1 0 ^ { - 6 }$ , thus validating our initial screen. Strains that do not have increased mutagenesis to rifampicin resistance [which reveals base substitutions $\\left( 7 \\right) ]$ are likely to involve other classes of mutators such as those generating frameshifts, deletions, or insertions. This high polymorphism of mutation rates was observed in all groups [commensal strains isolated from France $( \\sqsubseteq )$ , Mali $\\langle { \\bigcirc } \\rangle$ , or Croatia $( \\triangle )$ and in strains involved in diverse pathologies, urinary tract infections $( \\bullet )$ , bacteremia $( \\times )$ , pus $( \\pmb { \\triangle } )$ , neonatal meningitis $( \\bullet )$ , and haemolytic-uremic syndrome or haemorrhagic diarrhea $( \\bullet ) ]$ . Defects in mismatch repair genes were identified by complementation with plasmid-carying wildtype MMR genes. ",
+        "bbox": [
+            57,
+            780,
+            629,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES AND NOTES ",
+        "text_level": 1,
+        "bbox": [
+            695,
+            640,
+            877,
+            652
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. S. Falkow, in Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology, F. C. Neidhardt, Ed. (ASM, Washington DC, 1996), vol. 2, pp.   \n2723; R. D. Berg, Trends Microbiol. 4, 430 (1996). H. Ochman and R. K. Selander, J. Bacteriol. 157,   \n690 (1984). .J. E. LeClerc, B. Li, W. L. Payne, T. A. Cebula, Science 274, 1208 (1996).   \n4. Two hundred and sixteen commensal E. coli strains were isolated between 1984 and 1985 from fecal samples collected from healthy and nonhospitalized adults. They were 69 Dogons from Mali, 84 inhabitants of Olib and Silba islands in Croatia, and 63 military conscripts in Paris, France.   \n5. A list of the origins of the studied pathogenic E. coli strains is available from the authors.   \n6.For example, the inactivation of the gene coding for the Lacl repressor of the lac operon [J. H. Miller, A Short Course in Bacterial Genetics: A Laboratory Manual for Escherichia coli and Related Bacteria (Cold Spring Harbor Laboratory Press, Cold Spring Harbor, NY, 1992)].   \n7.D. Jin and C. Gross, J. Mol. Biol. 202, 45 (1988).   \n8. Among 216 commensal E. coli strains we found 27 ",
+        "bbox": [
+            652,
+            661,
+            924,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "mutators $( 1 2 . 5 \\% )$ . $9 / 6 9$ mutators $( 1 3 \\% )$ were observed among strains isolated from Dogons, an isolated African tribe, which is not substantially different from the $1 5 / 8 4$ isolated in Croatia $( 1 8 \\% )$ and $3 / 6 3$ observed among commensal strains isolated in Paris $( 5 \\% )$ , nor from the 42/288 found among pathogenic isolates $( 1 5 \\% )$ . Among pathogens, the mutators were distributed as follows: 7/61 strains from neonatal meningitis $( 1 1 \\% )$ , 21/145 from urinary tract infections $( 1 4 \\% )$ . $3 / 1 6$ from bacteremia $( 1 5 \\% )$ , 1/14 from miscellaneousinfections $( 7 \\% )$ , and 10/52 from strains causing haemolytic-uremic syndrome or haemorrhagic diarrhea $( 1 9 \\% )$ . ",
+        "bbox": [
+            88,
+            46,
+            342,
+            178
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "9. The pathogenic $E .$ coli strains must cope with host's defense mechanisms and with nutrient-limited environment during infection, while the commensal strains must cope with selective pressures exerted by the other inhabitants of the gut microflora and probably to a lesser extent with the host's immune response. \"Thus, pathogenicity represents only one form of bacterial specialization to a particular niche [(1); E. A. Groisman and H. Ochman, Trends Microbiol. 2, 289 (1994)]. ",
+        "bbox": [
+            72,
+            179,
+            342,
+            279
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "11. L. Chao and E. C. Cox, Evolution 37, 125 (1983); W. Tröbner and R. Piechocki, Z. Allg. Mikrobiol. 21, 347 (1981); Mol. Gen. Genet. 198, 175 (1984); Naturwissenschaften 72, 377 (1985); L. Chao, C. Vargas, B. B. Spear, E. C. Cox, Nature 303, 633 (1983). ",
+        "bbox": [
+            67,
+            290,
+            342,
+            340
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "12. Strains isolated in a university hospital (Paris, France) showed $1 5 / 6 7$ mutators $( 2 2 \\% )$ , which has to be compared with $3 / 5 8$ in a general hospital (Avignon, France) $( 5 \\% )$ and 2/19 in a general practitioner's laboratory (Paris, France) $( 1 1 \\% )$ However, the B carboxylesterase typing showed similar genetic heterogeneity in these three populations (B. Picard, unpublished data). Similarly, comparison by extended ribotyping of Pseudomonas cepacia strains isolatec from cystic fibrosis patients showed that strains responsible for the acute infections had a stronger instability than those associated with chronic infections [K. R. Rozee, D. Haase, N. E. MacDonald, W. M. Johnson, Diagn. Microbiol. Infect. Dis. 20, 181 (1994)]. Furthermore, in the different Yersinia species increased virulence correlates with increased genetic instability [A. Guiyoule et al., J. Clin. Microbiol. 32, 634 (1994); H. Najdenski, I. Iteman, E. Carniel, Contrib. Microbiol. Immunol. 13, 281 (1995); I. Iteman, H. Najdenski, E. Carniel, ibid., p. 106. ",
+        "bbox": [
+            67,
+            340,
+            342,
+            542
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "13. Supported by the following French funds: Programme Hospitalier de Recherche Clinique, Association de la Recherche contre le Cancer, Actions Concertées Coordonnées-Sciences du Vivant du Ministère de I'Enseignement Supérieur et de la Recherche et Groupement de Recherche et d'Etudes sur les Génomes. We thank D. Bregeon, J. P. Coutanceau, A. M. Cirinesi, C. Dohet, and S. Gouriou for technical help and M. Marinus for providing plasmids carrying MMR genes. ",
+        "bbox": [
+            70,
+            542,
+            342,
+            643
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5 March 1997; accepted 7 July 1997 ",
+        "bbox": [
+            88,
+            650,
+            272,
+            660
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Response: Matic et al. raise several issues in their comments on our report (1). One is the higher incidence of hypermutable strains in collections of natural E. coli isolates they found with the use of a papillation assay to monitor mutagenesis of the lacl repressor gene. As our studies encompassed Salmonella as well as E. coli strains, we elected not to use such an assay because $9 8 \\%$ of Salmonella enterica isolates are naturally lac-negative. When we apply the same criterion for identification of mutator clones to the Matic et al. study that we imposed upon our own, that is, greater than a 50-fold increase in the frequency of mutation to antibiotic resistance, the two data sets are indistinguishable. The benefit of holding such a high threshold for mutation was twofold: We characterized only strong mutators (for example, those carrying defects in MMR, as Matic et al. have confirmed), and we lessened interference by sub-populations of preexisting, antibiotic resistant cells found in cultures of natural isolates—at the full range of frequencies seen in figure 1 of the comment by Matic et al. Itself an intriguing phenomenon, such sub-populations of mutants complicate the delineation of a mutator phenotype, thus necessitating an independent confirmation, preferably by genetic complementation of the mutant defects. In our studies, we have sorted out sub-populations with the use of sib selection and confirmed each of our mutators by genetic complementation. As stated in our report, we likely underestimated the true frequency of mutators in natural populations. Whether the estimates by Matic et al. are more precise awaits fuller characterization of their presumptive weak mutators. It suffices to say now that the evolution of a constant, low mutation rate—similar across species—seen in laboratory strains (2) may not pertain as we move into the realm of natural strains and emerging pathogens. ",
+        "bbox": [
+            67,
+            671,
+            342,
+            777
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            362,
+            42,
+            639,
+            553
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "With regard to the statistical treatment of results obtained using natural strains, we would like to reinforce the word of caution in note 9 of our report (1). As E. coli is a versatile enteric, it is imperative to draw distinction between a commensal and a true pathogen that may be derived from an asymptomatic subject. This becomes extremely difficult when dealing with data gathered from study populations where natural immunity to some $E$ . coli pathogens may confound such distinctions or where a diarrheal condition may not have been determined. An awareness of complexities in assessing pathogens among healthy subjects and, likewise, nonpathogenic strains from diseased individuals, will be helpful in designing better experiments that are needed to investigate factors involved in the emergence of new traits and the evolution of pathogens. ",
+        "bbox": [
+            362,
+            554,
+            637,
+            776
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            657,
+            46,
+            934,
+            99
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The substantive issue raised by Matic et al. concerns the question of whether a causal link exists between increased genetic variability and pathogenesis. It would be faulty reasoning to posit that genetic variation benefits the pathogen and not natural strains in the environment at large. A priori, we would expect hypermutable strains to be found among pathogens and nonpathogens alike. We can, however, draw distinctions between the pathogen-host relationship and that of the commensal organism, a well-established component of the host's indigenous microflora. If we think of pathogens as microorganisms acquired by the host accidently and transiently (3), their environments are necessarily changing ones, particularly as the host mobilizes its defense systems against the invader. Instability is the prerequisite of the pathogen's condition on its way to colonization and infection. Whether special advantages of genetic variation afforded by the mutator phenotype in a changing and unstable environment (4) accrue to bacteria that ultimately cause disease will likely be revealed by studying the appropriate sets of pathogenic and nonpathogenic strains. The data collected thus far (including our own and those in figure 1 of the comment by Matic et al. showing five pathogen mutators out of the six hypermutable strains with 50-fold or greater increases in mutation frequency) suggest that strong mutators will be found among the pathogens. ",
+        "bbox": [
+            657,
+            99,
+            932,
+            564
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "J. Eugene LeClerc Thomas A. Cebula Division of Molecular Biological Research and Evaluation, U.S. Food and Drug Administration, 200 C Street, SW, Washington, DC 20204, USA ",
+        "bbox": [
+            683,
+            565,
+            934,
+            657
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            747,
+            670,
+            842,
+            681
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "J. E. LeClerc, B. Li, W. L. Payne, T. A. Cebula, Science 274, 1208 (1996).   \n2. J. W. Drake, Proc. Natl. Acad. Sci. U.S.A. 88, 7160 (1991).   \n3. R. D. Berg, Trends Microbiol. 4, 430 (1996).   \n4. L. Chao and E. C. Cox, Evolution 37, 125 (1983). ",
+        "bbox": [
+            662,
+            691,
+            934,
+            753
+        ],
+        "page_idx": 1
+    }
+]

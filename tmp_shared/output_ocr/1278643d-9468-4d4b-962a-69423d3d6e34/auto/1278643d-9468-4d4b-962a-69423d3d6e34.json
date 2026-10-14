@@ -1,0 +1,104 @@
+[
+    {
+        "type": "text",
+        "text": "Resumen del seminario en Computación Cognitiva ",
+        "text_level": 1,
+        "bbox": [
+            141,
+            83,
+            568,
+            98
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Alumno: Paul Eyzaguirre ",
+        "bbox": [
+            141,
+            110,
+            346,
+            126
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El seminario comienza con una introducción a la Inteligencia Artificial definiéndola desde cuatro enfoques principales. Por un lado, se consideran los sistemas que piensan como humanos y los que actúan como humanos, centrándose en el comportamiento como en los procesos mentales. Por otro lado, se analizan los sistemas que piensan racionalmente y los que actúan racionalmente, basados en la lógica y en la toma de decisiones correctas. ",
+        "bbox": [
+            141,
+            164,
+            858,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A continuación, se introduce el concepto de Ciencia Cognitiva como una base interdisciplinar de la Inteligencia Artificial. El cual estudia cómo la mente y el cerebro representan y transforman la información. Aquí se diferencian los procesos cognitivos simples como la sensación, la percepción, la atención y la memoria, de los procesos cognitivos superiores, como el pensamiento, el lenguaje, la inteligencia, la creatividad y la motivación. Además, se menciona que estos modelos no solo incluyen aspectos racionales sino también elementos no racionales tal como las emociones, que cumplen funciones relacionadas con la supervivencia y la protección. ",
+        "bbox": [
+            141,
+            259,
+            858,
+            395
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Posteriormente, se presenta la Computación Cognitiva diferenciándola de la computación tradicional o algorítmica. Este paradigma busca imitar los mecanismos del cerebro humano y se caracteriza por su capacidad para manejar la incertidumbre, su sensibilidad al contexto y su habilidad para procesar datos no estructurados. Se menciona la pirámide del conocimiento compuesta por tres niveles: los datos (los cuales son hechos brutos sin organizar) la información, que resulta de procesar esos datos y darles significado, y el conocimiento, que surge al interpretar y estructurar la información para poder actuar. ",
+        "bbox": [
+            141,
+            406,
+            860,
+            526
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Técnicas de representación y razonamiento ",
+        "text_level": 1,
+        "bbox": [
+            141,
+            537,
+            507,
+            552
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En cuanto a las técnicas de representación y razonamiento, se explica que un sistema inteligente necesita construir un modelo interno de conocimiento para resolver problemas. Para ello, se presentan cuatro componentes principales. En primer lugar, la lógica, que utiliza representaciones simbólicas para realizar inferencias deductivas. En segundo lugar, los sistemas de producción basados en reglas del tipo “si-entonces”, que operan mediante una memoria de trabajo, una base de reglas y un motor de inferencias. En tercer lugar, las redes semánticas, que organizan el conocimiento en forma de grafos jerárquicos y permiten la herencia de propiedades. Por último, los marcos, que representan situaciones complejas mediante estructuras más completas y escalables. ",
+        "bbox": [
+            141,
+            563,
+            860,
+            717
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Arquitecturas cognitivas ",
+        "text_level": 1,
+        "bbox": [
+            141,
+            728,
+            347,
+            744
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Finalmente, el seminario aborda las arquitecturas cognitivas que definen cómo se estructura funcionalmente un agente inteligente. Se presenta el modelo BDI, que se basa en creencias, deseos e intenciones para la toma de decisiones. También se introduce SOAR, una arquitectura que permite el aprendizaje autónomo a través de la resolución de subobjetivos y el mecanismo de chunking. Por último, se explica ACT-R, la cual es una arquitectura híbrida que combina elementos simbólicos y subsimbólicos, y cuyas predicciones pueden validarse mediante técnicas como la resonancia magnética funcional, relacionándolas con distintas áreas del cerebro. ",
+        "bbox": [
+            141,
+            756,
+            860,
+            891
+        ],
+        "page_idx": 0
+    }
+]

@@ -1,0 +1,636 @@
+[
+    {
+        "type": "text",
+        "text": "Second-order selection in bacterial evolution: selection acting on mutation and recombination rates in the course of adaptation ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            109,
+            885,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Olivier Tenaillon∗, François Taddei, Miroslav Radman, Ivan Matic ",
+        "bbox": [
+            212,
+            172,
+            775,
+            191
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Inserm E9916, Faculté de médecine Necker Enfants Malades, Université Paris V, 156, rue de Vaugirard, 75730 Paris cedex 15, France Received 24 October 2000; accepted 26 October 2000 ",
+        "bbox": [
+            80,
+            199,
+            920,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract – The increase in genetic variability of a population can be selected during adaptation, as demonstrated by the selection of mutator alleles. The dynamics of this phenomenon, named second-order selection, can result in an improved adaptability of bacteria through regulation of all facets of mutation and recombination processes. $©$ 2001 Éditions scientifiques et médicales Elsevier SAS ",
+        "bbox": [
+            80,
+            257,
+            920,
+            317
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "bacterial adaptability / mutagenesis / adaptation / evolution ",
+        "bbox": [
+            80,
+            329,
+            520,
+            346
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            369,
+            206,
+            385
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Darwinian theory of evolution stipulates that mutation is a random event independent of selection. However, recent studies have shown that the bacterial mutation rate could be coupled with selection, therefore challenging the classical paradigm [4]. Those observations have encouraged further studies with both molecular and population genetics approaches. A better understanding of the genetic mechanisms controlling the generation of diversity, and of the selective pressure acting on them, allowed a refinement of the Darwinian view of adaptation, in particular its complex dynamic aspects. These efforts have led to the emergence of the concept of second-order selection. More than just a selection for better adaptation to a specific environment, second-order selection acts on the regulation of the processes of genetic adaptation to any new environment [17]. As bacteria are constantly confronted by variable and stressful environments, the capacity for genetic adaptation is an essential feature of their evolutionary success. The probability of generation of mutants better adapted to a new environment depends ultimately on the capacity to produce diversity. Therefore, while selecting for adaptive mutations, evolution indirectly selects for a system that creates these adaptive mutations, thus allowing second-order selection to regulate the mutational process. This results in at least transient enrichment for cells exhibiting increased rates of genetic change. ",
+        "bbox": [
+            80,
+            409,
+            485,
+            816
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            370,
+            918,
+            436
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2. Generation of diversity ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            467,
+            725,
+            484
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Rates of spontaneous mutation in DNA-based microorganisms, as measured in the laboratory, are remarkably low. For example, the mutation rate in $E s \\mathrm { . }$ - cherichia coli is approximately $5 \\ \\times 1 0 ^ { - 1 0 }$ mutations per base pair per generation [3]. Such a low rate is due to the existence of a plethora of enzymes that have evolved to ensure the maintenance of genetic information [14]. For instance, the fidelity of DNA replication is ensured by at least four levels of control. ",
+        "bbox": [
+            514,
+            508,
+            918,
+            656
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "– Template maintenance is ensured by the enzymes that protect DNA from the action of various DNA damaging agents (e.g., by scavenging free radicals), as well as by the numerous enzymes that repair damaged DNA (e.g., by removing alkylated or oxydated bases or repairing double-strand breaks). ",
+        "bbox": [
+            513,
+            658,
+            918,
+            757
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "– The nucleotide pool is equilibrated and ‘cleaned’ through the action of proteins that degrade modified nucleotides, which could potentially cause mutations if incorporated into the DNA. For example, the MutT protein removes 8-oxo-dGTP, which can pair with the same affinity with cytosine and adenine. ",
+        "bbox": [
+            513,
+            757,
+            918,
+            856
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "– DNA polymerases choose correct dNTPs (error rate $1 0 ^ { - 5 }$ ) and through their ‘proofreading’ $3 ^ { \\prime }$ to ",
+        "bbox": [
+            511,
+            857,
+            918,
+            889
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$5 ^ { \\prime }$ exonuclease activity they excise incorrect justincorporated nucleotides (final error rate $1 0 ^ { - 7 }$ ). ",
+        "bbox": [
+            80,
+            69,
+            483,
+            101
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "– The postreplicative methyl-directed mismatch repair system (MRS) detects the remaining errors, identifies the neosynthesised strand, and locally excises it and recopies the parental strand. ",
+        "bbox": [
+            80,
+            102,
+            483,
+            166
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The inactivation of any of the above mentioned systems can lead to a constitutively increased mutation rate [14]. For example, the inactivation of the mutT gene increases $1 0 ^ { 3 }$ -fold the error rate. Inactivation of the MRS leads to a $1 0 ^ { 2 }$ -fold mutator phenotype, while inactivation of the exonuclease activity of the DNA polymerase (mutD5) directly increases the mutation rate by $1 0 ^ { 2 }$ , but by saturating the MRS its mutation rate can increase by $1 0 ^ { 4 }$ -fold. Strains with high mutation rates have not only been isolated in the laboratory, but have also been found in natural bacterial populations. Several percent of $E$ . coli natural isolates have about a $1 0 ^ { \\overset { \\cdot } { 2 } }$ -fold increased mutation rate as a consequence of the inactivation of the MRS [10, 13], an observation which integrates mutator alleles in an evolutionary perspective. ",
+        "bbox": [
+            81,
+            168,
+            485,
+            429
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Selection of mutators as an adaptive strategy ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            459,
+            466,
+            476
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The study of constitutive mutators has been particularly useful in understanding how selection acts on the generation of diversity. Constitutive mutators, as described previously, usually lack efficient DNA repair or proofreading/editing enzymes, leading to a permanently increased mutation rate that can be measured in the laboratory. Calculations of the expected frequency of mutators in a population at the mutation/selection equilibrium suggested that the observed frequency of ${ \\bf M R S ^ { - } }$ mutators among natural isolates is quite high. The estimate of mutator frequency at equilibrium was calculated as follows: considering only the existence of deleterious and lethal mutations, let $\\mu _ { \\mathrm { d } }$ and $\\mu _ { \\mathrm { l } }$ be the mutation rates for deleterious and lethal mutations respectively, and $\\mu _ { \\mathrm { m } }$ the mutation rate towards mutator genotypes as estimated in the laboratory [1]. Neglecting mutator genotypes associated with deleterious mutations (because they are evolutionary dead-ends), the equilibrium frequency of the 100-fold mutator is approximately: $\\mu _ { \\mathrm { m } } / [ 1 0 0 \\times$ $( \\mu _ { \\mathrm { d } } + \\mu _ { \\mathrm { l } } ) ]$ , i.e. $5 \\times 1 0 ^ { - 6 } / [ 1 \\hat { 0 } \\hat { 0 } \\times ( 1 0 ^ { - 4 } \\dot { + } 1 0 ^ { - 5 } ) ] \\approx 5 \\times$ $1 0 ^ { - 4 }$ [23]. Compared to the more precise estimates for which the time to accumulate the full cost of deleterious mutation has been taken into account [8], our estimates remain qualitatively valid for E. coli, i.e. the frequency of mutators found in nature is higher than that expected from experiments and calculation. The discrepancy between the expected and observed frequency of mutators suggests the existence of conditions selecting for higher mutation rate in nature. ",
+        "bbox": [
+            80,
+            496,
+            485,
+            887
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            69,
+            918,
+            166
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4. Experimental selection of mutators ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            192,
+            822,
+            209
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Numerous studies have demonstrated that constitutive mutators can be selected in the laboratory. For example, Mao et al. [12] challenged a mutagenised population of $E$ . coli with a succession of stresses, i.e. antibiotic treatments. Simultaneously, they measured the frequency of mutators after each round of selection. After four rounds of selection, mutator cells represented $1 0 0 \\%$ of surviving cells. Obviously, only mutator cells were able to rapidly generate multiple adaptive mutations required for survival. ",
+        "bbox": [
+            514,
+            227,
+            918,
+            389
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to these lethal stresses, it seems that directional selection, such as adaptation to a new environment, can also select for increased mutation rate. Sniegowski et al. [19] evolved 12 isogenic populations in a new environment in which glucose was limiting. After 10 000 generations in batch culture, they observed a $5 0 \\%$ fitness increase for all populations and fixation of approximately 100-fold mutators in three out of the 12 populations (i.e. three populations had $1 0 0 \\%$ mutator bacteria). ",
+        "bbox": [
+            514,
+            389,
+            918,
+            551
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "5. Adaptation selects for mutator alleles through hitchhiking ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            580,
+            840,
+            611
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Both experimental systems differ from the previous theoretical calculation because of the presence of beneficial alleles that confer either resistance to stress or improvement of bacterial adaptation in a given environment. A simulation model by Taddei et al. [20], modelling the adaptation of a finite population to a new environment, took into account those beneficial mutations as well as deleterious and lethal ones. They showed that without any pleiotropic effect on fitness (no advantage due to the absence of the repair system), mutators could indeed be selected in adapting populations. The basis for this selection is the phenomenon known as hitchhiking. In asexual populations, a favourable allele remains associated with the background in which it has been generated. The selective advantage of the favourable allele will make it increase in frequency, carrying along its associated background. Mutators can generate favourable alleles more frequently than nonmutators, and will therefore increase in frequency if the advantage of beneficial alleles is greater than the cost of being a mutator (due to the overproduction of lethal and deleterious mutations). ",
+        "bbox": [
+            514,
+            630,
+            918,
+            889
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            80,
+            69,
+            485,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "When mutators have become fixed, the genetic variability within the population is increased, and thus the genetic adaptability to new environments will be enhanced. The selection of the mutator genotype under stress will help the cell face other stresses. This selection of mutators through hitchhiking depends on at least four essential elements. ",
+        "bbox": [
+            80,
+            184,
+            485,
+            296
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.1. Strongly selected favourable alleles ",
+        "text_level": 1,
+        "bbox": [
+            81,
+            311,
+            375,
+            328
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As discussed earlier, there must be favourable alleles present for a mutator to hitchhike along. Moreover, these favourable alleles must be selected for strongly enough to overcome the cost of being a mutator. Tenaillon et al. [23] showed that the stronger the selection, i.e. the higher the advantage of the favourable alleles, the stronger the mutators selected. For a given strength of selection, a particular strength of mutator is most likely to hitchhike to fixation, with weaker mutators being less frequently selected because they do not generate enough favourable mutations and stronger mutators because they generate too many deleterious mutations. ",
+        "bbox": [
+            80,
+            340,
+            485,
+            551
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.2. Large population size ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            567,
+            274,
+            582
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "There must be sufficient mutators in the population such that there is sufficient chance for them to generate a favourable allele. As a consequence, the larger the adapting population, the larger the probability of fixation of a mutator allele. Chao and Cox [2] showed that mutators win in competition with nonmutators when frequent enough at the beginning of the competition. They concluded that success of the mutator was frequency-dependent. In fact, simulations show that it is more of a quantity-dependent advantage. The larger the population, the larger the mutator subpopulation and therefore the higher the probability that mutators will generate favourable alleles and increase in frequency. Once they have increased in frequency, their probability of generating another favourable allele is higher, and so on. ",
+        "bbox": [
+            80,
+            596,
+            485,
+            856
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Interestingly, there is no positive correlation between the strength of the selection for mutator alleles as a function of population size and the effect of mutator alleles on the rate of adaptation of the population [22]. Although mutator alleles can greatly increase the rate of adaptation in small populations, they are rarely fixed under these conditions. This suggests that the influence of the mutation rate on the rate of adaptation of the population cannot be used to explain the selection of mutator alleles as previously proposed [6]. ",
+        "bbox": [
+            80,
+            857,
+            483,
+            889
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            514,
+            69,
+            918,
+            218
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.3. Numerous favourable alleles ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            240,
+            760,
+            255
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As very large populations of bacteria can generate every possible mutation in each generation, several favourable alleles can be selected at the same time. These favourable alleles can appear either in mutator or in nonmutator backgrounds. However, the advantage of mutators is to generate a succession of favourable mutations faster than nonmutators do. Therefore, the more favourable the mutations, the more this advantage is revealed and thus the more mutator alleles increase in frequency. ",
+        "bbox": [
+            514,
+            276,
+            918,
+            441
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "5.4. Limited rate of genetic exchanges ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            463,
+            798,
+            478
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The existence of a high rate of exchange of genetic material between cells (sex) should limit the hitchhiking phenomenon by breaking the link between favourable alleles and the costly genetic system that generated them [9]. But the low rate of genetic exchanges experienced by bacteria makes second order selection possible in most bacterial species [22]. ",
+        "bbox": [
+            513,
+            499,
+            918,
+            615
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "6. Some other adaptive strategies ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            648,
+            784,
+            664
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Selection of mutators under adaptations that require several favourable mutations shows that the generation of variability can be selected as soon as enhanced adaptation is possible. The large range of parameters under which the selection of mutators is possible and the observation of mutators among natural populations enforce the idea that second-order selection could play an important role in the dynamics of bacterial evolution. It therefore allows us to consider that such a selection could promote the appearance of adaptive strategies less costly than the constitutive mutator strategy. ",
+        "bbox": [
+            514,
+            690,
+            918,
+            889
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. The mutator strategy is a brutal one ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            69,
+            400,
+            86
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If evolution of populations consists of successions of bursts of adaptation followed by stasis, then mutators can be selected during adaptation phases. However, during stasis, having very high mutator frequency is very costly for a cell. The reduction principle stipulates that at equilibrium, when the population is at mutation–selection equilibrium, the mutation rate or recombination rate should decrease to a minimum value fixed by thermodynamic constraints [11]. A reduction in the mutation rate in a constant environment has been observed in laboratory evolution experiments [24]. This reveals that, between stresses or adaptive phases, mutators are counterselected. Moreover, experiments have shown that mutator clones easily accumulate deleterious mutations when passed through bottlenecks [5], illustrating that the advantage of mutators is conditional. ",
+        "bbox": [
+            80,
+            110,
+            483,
+            395
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. Localised increase in the mutation rate: contingency loci ",
+        "text_level": 1,
+        "bbox": [
+            78,
+            430,
+            424,
+            463
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Some DNA sequence patterns (like dinucleotide or trinucleotide repeats) are known to perturb DNA polymerase activity and in that way be hotspots of mutations. The roles of the genes carrying such hotspots of mutation have clearly revealed that such sequences have been selected rather than having appeared by chance [15]. They happen to lie within genes encoding for surface proteins in pathogenic bacterial species such as Neisseria meningitidis, Helicobacter pylori or Haemophilus influenzae. The action of the immune system on pathogens imposes a strong frequency-dependent selection on surface antigens. The protein encoded by the most common allele of this gene will be recognised by the immune system and its bearer will be destroyed, whereas bearers of other alleles will be safe until they reach high frequency. An elevated mutation rate in these genes is therefore selected. As selection for diversity is restricted to just a few genes, localised increased mutation rate could be selected for. In the long run, the localised mutator strategy would be more advantageous than the generalised one because it avoids a high mutation rate in housekeeping genes and would therefore bear almost no cost. ",
+        "bbox": [
+            80,
+            491,
+            485,
+            887
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. Inducible mutation strategies ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            69,
+            773,
+            86
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As bacteria have been shown to ‘sense’ their environment and to react to stresses, it has been proposed that the mutation rate could be induced under stressful conditions to enable better adaptation or survival only when necessary [18]. An inducible mutator would therefore not pay the cost of being a mutator once the adaptation has been reached or the stress gone. The existence of genes increasing mutagenesis when active has been interpreted as the most convincing evidence for inducible mutagenesis. However, a more precise understanding of the molecular action of those genes has shown that they encode for errorprone lesions-bypass polymerases (e.g., E. coli PolV encoded by umuC and umuD genes) [21]. The standard replication polymerase cannot bypass noncoding lesions occurring in a template DNA strand. If no other enzyme acts, the cell dies, since it is incapable of replicating its DNA. Error-prone polymerases allow the bypass of these lesions, but at the cost of mutation: they bypass the lesion by often inserting a wrong nucleotide in front of the lesion. Once the lesion is bypassed, the replication error-free polymerase pursues the replication process. Hence, the mutagenesis resulting from the action of these errorprone polymerases is a pleiotropic effect of the lesion bypass. The effect of such mutagenesis in the adaptation process might be of interest, but one has to consider it as a constraint rather than as an evolutionary strategy enhancing the adaptation process. Although possible, the existence of inducible mutators as a pure evolutionary strategy without confounding pleiotropic effects remains to be more clearly demonstrated. ",
+        "bbox": [
+            514,
+            105,
+            918,
+            644
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. Variable recombination rate ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            673,
+            775,
+            689
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The nature of genetic exchange in prokaryotes makes it a powerful and unique source of genetic variability. It is independent of replication and can be brought about by transformation or by the action of mobile genetic elements such as conjugative plasmids and transposons, as well as phages. The genetic exchanges can generate new alleles or new associations of alleles. The probability of modifying a nucleotide by recombination has been demonstrated to be 10–50- fold higher than by mutagenesis [7]. The mosaicism that has been observed in gene sequences reveals both selection for diversity at the gene level and the action of recombination in the generation of diversity. Recent theoretical studies of the evolution of recombination have shown that a higher recombination rate could be selected when several mutations are needed for adaptation [16]. In such models, an increased recombination rate is in some sense an equivalent of an increased mutation rate; it helps to generate more diversity by creating new combinations of previously generated mutations. The selection is based on the ability to combine pre-existing beneficial mutations, rather than on the ability to generate new beneficial mutations, as was the case for mutator selection. Recombination, like mutation, could be selected for during periods of stress and counterselected at equilibrium. Genes acting on the efficiency of recombination should therefore be subject to second-order selection just as are those acting on the mutation rate. ",
+        "bbox": [
+            514,
+            709,
+            918,
+            889
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            69,
+            483,
+            363
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "bacterial clones and species, and take them into account when evaluating fitness and the potential threat of pathogens. ",
+        "bbox": [
+            513,
+            69,
+            918,
+            117
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            149,
+            671,
+            165
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We would like to thank E. Stewart, P. Francino and T. Johnson for helpful comment on the manuscript. This work was supported by grants from the Programme Hospitalier de Recherche Clinique — MES, the Programme de Recherche Fondamentale en Microbiologie et Maladies Infectieuses et Parasitaires — MENRT, the Ligue contre le Cancer, Programme Environnement et Santé — MATE, and the Association pour la Recherche sur le Cancer. Olivier Tenaillon was supported by a fellowship from the Direction Générale De l’Armement. ",
+        "bbox": [
+            514,
+            188,
+            918,
+            369
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. Conclusion: from second order selection to fitness ",
+        "text_level": 1,
+        "bbox": [
+            80,
+            393,
+            380,
+            425
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The process of adaptation rests on the ability to generate diversity. Mutation and recombination processes are genetically controlled and therefore also subject to selection. The study of mutator alleles has revealed that selection for improved generation of variability is possible. The demonstration that such selection (second-order selection) can happen in nature reinforces our understanding of mutagenesis and recombination mechanisms as adaptive strategies. Rigorous studies remain to be done in order to separate what is constraint from what is adaptation in the control of both processes. However, this dynamic vision of bacterial adaptation allows one to seek more elaborate adaptive strategies than that of the mutator, and also to consider the interaction between these different strategies [22]. The ability of organisms to modulate their capacity for adaptation could play an important role in their propensity to colonise new environments and resist our natural and cultural defences, such as the immune system or antibiotics. The appearance of novel strong selective pressures such as pollution, antibiotic use and strong hygiene measures could select for the most evolvable species or select for more evolvability within species. Therefore, in our willingness to control the evolution of dangerous bacteria, we now must consider the impact of these genetic adaptive strategies on the survival and spread of ",
+        "bbox": [
+            80,
+            447,
+            485,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            513,
+            400,
+            601,
+            417
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "[1] Boe L., Danielsen M., Knudsen S., Petersen J.B., Maymann J., Jensen P.R., The frequency of mutators in populations of Escherichia coli, Mutat. Res. 448 (2000) 4755.   \n[2] Chao L., Cox E.C., Competition between high and low mutating strains of Escherichia coli, Evolution 37 (1983) 125–134.   \n[3] Drake J.W., A constant rate of spontaneous mutation in DNA-based microbes, Proc. Natl. Acad. Sci. USA 88 (1991) 7160–7164.   \n[4] Foster P.L., Mechanisms of stationary phase mutation: a decade of adaptive mutation, Annu. Rev. Genet. 33 (1999) 57–88.   \n[5] Funchain P., Yeung A., Stewart J.L., Lin R., Slupska M.M., Miller J.H., The consequences of growth of a mutator strain of Escherichia coli as measured by loss of function among multiple gene targets and loss of fitness, Genetics 154 (2000) 959–970.   \n[6] Gerrish P.J., Lenski R.E., The fate of competing beneficial mutations in an asexual population, Genetica (Dordrecht) 102–103 (1998) 127–144.   \n[7] Guttman D.S., Dykhuizen D.E., Clonal divergence in Escherichia coli as a result of recombination, not mutation, Science 266 (1994) 1380–1383.   \n[8] Johnson T., The approach to mutation–selection balance in an infinite asexual population, and the evolution of mutation rates, Proc. R. Soc. Lond. B Biol. Sci. 266 (1999) 2389– 2397.   \n[9] Johnson T., Beneficial mutations, hitchhiking and the evolution of mutation rates in sexual populations, Genetics 151 (1999).   \n[10] LeClerc J.E., Li B., Payne W.L., Cebula T.A., High mutation frequencies among Escherichia coli and Salmonella pathogens, Science 274 (1996) 1208–1211.   \n[11] Liberman U., Feldman M.W., Modifiers of mutation rate: a general reduction principle, Theor. Pop. Biol. 30 (1986) 125– 142.   \n[12] Mao E.F., Lane L., Lee J., Miller J.H., Proliferation of mutators in a cell population, J. Bacteriol. 179 (1997) 417– 422.   \n[13] Matic I., Radman M., Taddei F., Picard B., Doit C., Bingen E., Denamur E., Elion J., Highly variable mutation rates in commensal and pathogenic E. coli, Science 277 (1997) 1833–1834.   \n[14] Miller J.H., Spontaneous mutators in bacteria: insight into pathways of mutagenesis and repair, Annu. Rev. Microbiol. 50 (1996) 625–643.   \n[15] Moxon E.R., Rainey P.B., Nowak M.A., Lenski R.E., Adaptive evolution of highly mutable loci in pathogenic bacteria, Curr. Biol. 4 (1994) 24–33.   \n[16] Otto S.P., Michalakis Y., The evolution of recombination in changing environments, Trends Ecol. Evol. 13 (1998) 145– 151.   \n[17] Pennisi E., How the genome readies itself for evolution, Science 281 (1998) 1131–1134.   \n[18] Radman M., Enzymes of evolutionary change, Nature 401 (1999) 866–869.   \n[19] Sniegowski P.D., Gerrish P.J., Lenski R.E., Evolution of high mutation rates in experimental populations of E. coli, Nature 387 (1997) 703–705.   \n[20] Taddei F., Radman M., Maynard-Smith J., Toupance B., Gouyon P.H., Godelle B., Role of mutators in adaptive evolution, Nature 387 (1997) 700–702.   \n[21] Tang M., Pham P., Shen X., Taylor J.S., O’Donnell M., Woodgate R., Goodman M.F., Roles of E. coli DNA polymerases IV and V in lesion-targeted and untargeted SOS mutagenesis, Nature 404 (2000) 1014–1018.   \n[22] Tenaillon O., Le Nagard H., Godelle B., Taddei F., Mutator and sex in bacteria: conflict between adaptive strategies, Proc. Natl. Acad. Sci. USA 97 (2000) 10465–10470.   \n[23] Tenaillon O., Toupance B., Le Nagard H., Taddei F., Godelle B., Mutators, population size, adaptive landscape and the adaptation of asexual populations of bacteria, Genetics 152 (1999) 485–493.   \n[24] Tröbner W., Piechocki R., Selection against hypermutability in Escherichia coli during long term evolution, Mol. Gen. Genet. 198 (1984) 177–178. ",
+        "bbox": [
+            520,
+            440,
+            918,
+            889
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            71,
+            486,
+            385
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            71,
+            920,
+            343
+        ],
+        "page_idx": 5
+    }
+]

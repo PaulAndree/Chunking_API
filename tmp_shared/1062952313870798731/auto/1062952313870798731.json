@@ -1,0 +1,685 @@
+[
+    {
+        "type": "text",
+        "text": "Activo (contabilidad) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            453,
+            129
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En contabilidad, un activo es todo bien, recurso o derecho controlado por una entidad contable que posee el potencial de generar beneficios económicos futuros.1 ",
+        "bbox": [
+            72,
+            140,
+            932,
+            178
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Los activos pueden estar constituidos por bienes o servicios, y se caracterizan por sus capacidades funcionales y operativas durante el desarrollo de la actividad económica de la entidad.2 ",
+        "bbox": [
+            67,
+            193,
+            931,
+            231
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La composición de los activos de una empresa varía en función de la naturaleza de su actividad económica, el sector en el que opera y el marco contable aplicado.3 ",
+        "bbox": [
+            70,
+            247,
+            932,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ACTIVO ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            307,
+            235,
+            334
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El activo se compone de los recursos económicos de una empresa, de los cuales se espera que generen beneficios en el futuro. Algunos ejemplos son: efectivo, insumos de oficina, mercancías, mobiliario, terrenos y edificios.4 ",
+        "bbox": [
+            70,
+            357,
+            931,
+            413
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Dentro del estado de situación financiera tenemos al activo, el cual contiene todos los bienes y derechos que pertenecen a la empresa y a su vez se subdivide en:5 ",
+        "bbox": [
+            67,
+            429,
+            929,
+            467
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "° Activo circulante ",
+        "bbox": [
+            70,
+            483,
+            226,
+            500
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "° Inmuebles, maquinaria y equipo ",
+        "bbox": [
+            70,
+            516,
+            347,
+            535
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "° Activo intangible ",
+        "bbox": [
+            70,
+            551,
+            226,
+            567
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Activos de una empresa ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            603,
+            378,
+            628
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Es el conjunto de bienes económicos y derechos que tenga una empresa. ",
+        "bbox": [
+            68,
+            643,
+            657,
+            661
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El Marco Conceptual para la Información Financiera del IASB (Junta de Normas Internacionales de Contabilidad), emitido el 1 de enero de 2012, establece la siguiente definición:6 ",
+        "bbox": [
+            70,
+            676,
+            931,
+            714
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "« activo es un recurso controlado por la entidad como resultado de sucesos pasados, del que la entidad espera obtener, en el futuro, beneficios económicos». En este se refleja también, la inversión realizada por la empresa para realizar su actividad económica. ",
+        "bbox": [
+            70,
+            730,
+            931,
+            785
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En las registraciones o registros contables cuando se produce una variación de un elemento de activo, esta puede ser de dos tipos: ",
+        "bbox": [
+            72,
+            801,
+            931,
+            838
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "aumento del activo, se carga o debita anotándose en el debe o disminución del activo se abona o acredita, esto es, se realiza una anotación en el haber. ",
+        "bbox": [
+            75,
+            852,
+            910,
+            890
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Su saldo al finalizar el ejercicio contable es siempre deudor o cero. ",
+        "bbox": [
+            72,
+            897,
+            613,
+            914
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ejemplos de activos: Caja, Valores a depositar, Rodados, Marcas Registradas, Mercaderías, Deudores por venta.... ",
+        "bbox": [
+            67,
+            43,
+            932,
+            78
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tipos de activo ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            115,
+            267,
+            138
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activo corriente: Bienes y derechos adquiridos con intención de que permanezcan menos de un año; como es el caso de las existencias. ",
+        "bbox": [
+            78,
+            160,
+            931,
+            192
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activo no corriente o Activo fijo: Bienes y derechos adquiridos con intención de que permanezcan en la empresa durante más de un año, que no se han adquirido con fines de venta; como maquinarias y bienes inmuebles. ",
+        "bbox": [
+            80,
+            195,
+            929,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activo financiero: Un activo financiero es el mismo activo intangible materializado en un título o simplemente en una anotación contable, por el que el comprador del título adquiere el derecho a recibir un ingreso futuro de parte del vendedor. Los activos financieros son emitidos por las unidades económicas de gasto y constituyen un medio de mantener riqueza para quienes los poseen y un pasivo para quienes lo generan. ",
+        "bbox": [
+            82,
+            248,
+            931,
+            327
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activo intangible: Un activo intangible es definido por su propio nombre, es decir no es tangible, no puede ser percibido físicamente. El activo intangible es, por tanto, de naturaleza inmaterial. Por ejemplo, el valor de una marca, que no puede ser medido de manera física. Se tiene en cuenta en la contabilidad porque posee la capacidad de generar beneficios económicos futuros que pueden ser controlados por la entidad económica. ",
+        "bbox": [
+            82,
+            331,
+            932,
+            412
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activo subyacente: Es un activo que, en los mercados de productos derivados, está sujeto a un contrato normalizado y es el objeto de intercambio. Es decir, es aquel activo sobre el que se efectúa la negociación de un activo derivado. ",
+        "bbox": [
+            84,
+            414,
+            931,
+            463
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activo funcional: se denomina de esta forma a la parte del activo que contribuye, de acuerdo a los fines y objetivos de una empresa, en la producción de bienes y servicios de esta. ",
+        "bbox": [
+            82,
+            466,
+            931,
+            515
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activo diferido: Representan costos y gastos que no se cargan en el período en el cual se efectúa el desembolso sino que se pospone para cargarse en períodos futuros, los cuales se beneficiaran con los ingresos producidos por estos desembolsos; aplicando el principio contable de la asociación de ingresos y gastos. Son gastos que no ocurren de manera recurrente. ",
+        "bbox": [
+            82,
+            519,
+            931,
+            598
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activos a largo plazo: Son los activos tangibles con un promedio de vida superior a un año, que no está hecho para revender y que es usado en las operaciones de un negocio; estas pueden incluir planta y equipo, pero no inventario o cuentas por cobrar. Son aquellos que tienen una apariencia física, y puede ser tocado, tales como monedas, edificios, bienes inmuebles, vehículos, inventarios, equipos, y metales preciosos. ",
+        "bbox": [
+            82,
+            602,
+            932,
+            682
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Activos a corto plazo : Son títulos emitidos por entidades públicas o privadas con el fin de obtener recursos financieros a ${ \\mathsf { c } } / { \\mathsf { p } }$ , por parte de inversionistas. Financieramente son operaciones simples emitidas generalmente al descuento, compuestas por una prestación (el efectivo entregado al inicio de la operación) y una contraprestación (el nominal del título a recibir al término de la operación). Las operaciones más comunes ",
+        "bbox": [
+            80,
+            685,
+            931,
+            766
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El activo según el Plan General Contable Español 2007 ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            787,
+            781,
+            811
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Definición de activo ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            850,
+            297,
+            870
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Según define el Marco conceptual del Plan General de Contabilidad español, los activos son los bienes, derechos y otros recursos controlados económicamente por la empresa, resultantes de sucesos pasados de los que se espera obtener beneficios o rendimientos económicos en el futuro. ",
+        "bbox": [
+            70,
+            878,
+            931,
+            934
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Reconocimiento contable ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            43,
+            359,
+            64
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Según el apartado 5 del Marco conceptual del PGC, los activos deben reconocerse en el balance cuando sea probable la obtención a partir de los mismos de beneficios o rendimientos económicos para la empresa en el futuro, y siempre que se puedan valorar con fiabilidad. El reconocimiento contable de un activo implica también el reconocimiento simultáneo de un pasivo, la disminución de otro activo o el reconocimiento de un ingreso u otros incrementos en el patrimonio neto. dependiendo el contexto de la contabilidad ",
+        "bbox": [
+            70,
+            71,
+            931,
+            182
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Criterios de valoración ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            212,
+            327,
+            232
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Criterios de valoración de activos utilizados en el PGC: ",
+        "bbox": [
+            70,
+            239,
+            521,
+            257
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Coste histórico Valor razonable Valor actual Valor en uso Coste amortizado Valor residual ",
+        "bbox": [
+            80,
+            273,
+            265,
+            389
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Composición del activo según el Plan General Contable ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            418,
+            695,
+            438
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "De acuerdo con el Plan General Contable, el activo se desglosa como suma del activo corriente y no corriente. ",
+        "bbox": [
+            70,
+            446,
+            936,
+            482
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Activo no corriente: ",
+        "text_level": 1,
+        "bbox": [
+            75,
+            504,
+            265,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inmovilizado intangible Investigación y desarrollo Patentes, licencias, marcas y similares Fondo de comercio Aplicaciones informáticas ",
+        "bbox": [
+            87,
+            538,
+            490,
+            641
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inmovilizado material ",
+        "bbox": [
+            87,
+            646,
+            299,
+            661
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Instalaciones técnicas y otro inmovilizado material Inmovilizado en curso y anticipos ",
+        "bbox": [
+            115,
+            672,
+            499,
+            724
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Inversiones potenciales   \nInversiones en empresas del grupo y   \nasociadas a largo plazo   \nInversiones financieras a largo plazo Instrumentos de patrimonio Créditos a terceros Otros activos financieros ",
+        "bbox": [
+            84,
+            730,
+            500,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Activos por impuesto diferido ",
+        "bbox": [
+            87,
+            872,
+            371,
+            888
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Activo corriente: ",
+        "text_level": 1,
+        "bbox": [
+            502,
+            505,
+            662,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Activos corrientes mantenidos para la venta. Existencias Comerciales Deudores comerciales y otras cuentas a cobrar - Clientes por ventas y prestación de servicios Accionistas (socios) por desembolsos exigidos Inversiones en empresas del grupo y asociadas a corto plazo Inversiones financieras a corto plazo Instrumentos de patrimonio Periodificaciones Efectivo y otros activos líquidos equivalentes Tesorería ",
+        "bbox": [
+            509,
+            541,
+            929,
+            901
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El activo total es la suma del activo corriente y del activo no corriente. ",
+        "bbox": [
+            70,
+            913,
+            642,
+            929
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Pasivo Patrimonio neto ",
+        "bbox": [
+            80,
+            108,
+            248,
+            144
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            167,
+            225,
+            188
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Mochón Morcillo, Francisco (1995). Principios de economía. Madrid: McGraw-Hill. p. 445. ISBN 84-481-0319-X. ",
+        "bbox": [
+            75,
+            210,
+            927,
+            243
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Ortega Paredes, José Gabriel. Contabilidad: paradigma de reconstrucción a través del giro informático. Editorial EAE, Madrid, 2012, cap. II, págs. 33-37. ",
+        "bbox": [
+            75,
+            247,
+            932,
+            279
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Mora Enguídanos, Araceli. Diccionario de Contabilidad, Auditoría y Control de Gestión (htt p://books.google.es/books?id=2pyQWIw6mAMC&lpg=PA37&dq=%22beneficio%20por%20a cci%C3%B3n%22%20eps&hl=es&pg=PA2#v=onepage&q&f=false). Ecobook. ISBN 978-84- 96877-23-8. Consultado el 11 de mayo de 2013. ",
+        "bbox": [
+            75,
+            281,
+            931,
+            345
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. Horngren, Charles T. (2003). Contabilidad (https://books.google.com.mx/books?hl=es&lr=&i d=mRx5DafOaE8C&oi=fnd&pg=PA1&dq=activo+contabilidad&ots=3QgO5NQtP-&sig=A4Ph 5DrrFzIzNbAIkbiAB6XzvOc&redir_esc=y#v=onepage&q=activo%20contabilidad&f=true). Pearson Educación. ISBN 978-970-26-0286-6. Consultado el 5 de septiembre de 2025. ",
+        "bbox": [
+            77,
+            349,
+            931,
+            414
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. UNID, Editorial Digital; Rangel, Vania Tamahara Vite (11 de julio de 2016). Contabilidad General (https://books.google.com.mx/books?hl=es&lr=&id=fK-nDAAAQBAJ&oi=fnd&pg=PT 2&dq=activo+contabilidad+como+se+obtiene&ots=qQOs3Jg3Z6&sig=-q1bGcrP9x4LH8bid8 D1FZMCRNo&redir_esc=y#v=onepage&q=activo%20contabilidad%20como%20se%20obtie ne&f=true). Editorial Digital UNID. Consultado el 5 de septiembre de 2025. ",
+        "bbox": [
+            77,
+            418,
+            931,
+            498
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Europa: La Unión Europea (UE) armoniza la información financiera de las empresas que cotizan en bolsa con el fin de garantizar la protección de los inversores. El objetivo es mantener la confianza en los mercados financieros mediante la aplicación de las Normas Internacionales de Contabilidad, al tiempo que se facilita la negociación trans-fronteriza e internacional de valores, para ello adopta y aplica las normas internacionales de contabilidad (NIC) del IASB. «Síntesis de la legislación de la UE» (http://europa.eu/legislatio n_summaries/internal_market/single_market_services/financial_services_general_framewor k/l26040_es.htm). Consultado el 13 de marzo de 2015. ",
+        "bbox": [
+            77,
+            501,
+            931,
+            630
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Normas Internaciones de Contabildad (NIC) - Normas Internacionales de Información Financiera (NIIF) (http://www.nicniif.org/home/) Archivado (https://web.archive.org/web/2015 0318022925/http://www.nicniif.org/home/) el 18 de marzo de 2015 en Wayback Machine. ",
+        "bbox": [
+            80,
+            738,
+            929,
+            787
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Normas Internacionales de Contabilidad adoptadas por la UE ",
+        "bbox": [
+            84,
+            789,
+            652,
+            806
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "bbox": [
+            82,
+            811,
+            262,
+            825
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Normas Internaciones de Contabildad (NIC) - Normas Internacionales de Inf (http://www. nicniif.org/home/) Archivado (https://web.archive.org/web/20150318022925/http://www.ni cniif.org/home/) el 18 de marzo de 2015 en Wayback Machine. ",
+        "bbox": [
+            114,
+            836,
+            931,
+            885
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Error en la cita: Etiqueta <ref> no válida; no se ha definido el contenido de las referencias llamadas :1 ",
+        "bbox": [
+            75,
+            45,
+            931,
+            81
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. Error en la cita: Etiqueta <ref> no válida; no se ha definido el contenido de las referencias llamadas :0 ",
+        "bbox": [
+            75,
+            87,
+            926,
+            124
+        ],
+        "page_idx": 4
+    }
+]

@@ -1,0 +1,527 @@
+[
+    {
+        "type": "text",
+        "text": "Éditorial ",
+        "text_level": 1,
+        "bbox": [
+            201,
+            126,
+            351,
+            155
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Vieillissement : la chimie d’une horloge biologique flexible ",
+        "text_level": 1,
+        "bbox": [
+            499,
+            129,
+            868,
+            167
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman ",
+        "bbox": [
+            472,
+            193,
+            616,
+            207
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "> Ceci est un éditorial conceptuel. J’espère que le choix nécessairement biaisé des concepts que j’y développe est justifié. Je n’y fais pas mention de telle ou telle protéine dont l’activité a été corrélée au phénomène de vieillissement, je me demande seulement pourquoi les protéines cessent de fonctionner correctement au cours du vieillissement. ",
+        "bbox": [
+            186,
+            237,
+            536,
+            351
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Comprendre la biologie de la loi de Gompertz ",
+        "text_level": 1,
+        "bbox": [
+            186,
+            368,
+            507,
+            385
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Le vieillissement est la perte progressive des fonctions biologiques qui aboutit à la mort de l’organisme. Il est défini par deux critères qui coïncident : (1) la probabilité de la mort augmente exponentiellement avec l’âge de l’organisme. Cette définition statistique s’applique (à de très rares exceptions près) à toutes les espèces, même unicellulaires, et reflète la progression géométrique du processus du vieillissement qui est associé à l’émergence des maladies mortelles (Loi de Gompertz1 ). Ainsi, chez l’homme, le risque de mourir double tous les 8 ans. (2) Les changements physiologiques, fonctionnels et morphologiques liés à l’âge se manifestent chez tous les individus, mais les maladies et la mort n’affectent, à chaque âge, qu’une fraction de la population. ",
+        "bbox": [
+            186,
+            403,
+            534,
+            648
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ce n’est pas parce que le vieillissement est encore mal compris que sa cause (ou ses causes) est (sont), elle(s), forcément complexe(s), ce que j’explique plus loin [2]. La diversité des conséquences qu’infligent des dégâts à un système - par exemple l’ensemble des maladies humaines - révèle la complexité de ce système (par exemple l’organisme humain), mais il n’en reste pas moins vrai que la cause de ces dégâts peut, elle, être très simple. ",
+        "bbox": [
+            188,
+            650,
+            534,
+            796
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ainsi, l’incidence des maladies mortelles augmente avec l’âge, avec des cinétiques semblables, et pourtant ces maladies empruntent des mécanismes très différents (cancers, maladies cardiovasculaires, neurodégénér atives, immunodégénératives et infectieuses). Ce paradoxe a révélé la notion de « vieillissement intrinsèque », partagée par toutes ces pathologies [2]. Deux questions s’imposent $\\boldsymbol { : }$ (1) quelle est la biochimie du vieillissement intrinsèque, sorte d’horloge biologique somatique dont la cadence est spécifique à chaque espèce ? (2) Pourquoi tous les individus de la même espèce ne meurent-ils pas au même âge et de la même cause (maladie) ? ",
+        "bbox": [
+            186,
+            798,
+            534,
+            845
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            554,
+            237,
+            904,
+            401
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La chimie de l’usure et les mécanismes de la résilience Les réponses que je donne à ces deux questions constituent l’hypothèse de travail de mon projet de recherche actuel : (1) la cause chimique fondamentale du vieillissement est la corrosion (oxydation) des protéines qui provoque l’inactivation, ou la perturbation, de leurs fonctions biologiques, et (2) la population humaine n’étant pas « monoclonale $\\gg$ , le polymorphisme existant des protéines se traduit en polymorphisme de leur susceptibilité aux dégâts oxydatifs, d’où la diversité des causes des maladies et de la mort. Toutes les protéines ne sont pas égales face aux altérations provoquées par les espèces réactives d’oxygène (ROS) [3, 4]. Dans la population humaine, les protéines vitales les plus susceptibles à l’oxydation représenteraient différents $\\ll$ maillons faibles $\\gg$ , dont l’atteinte se manifeste au fur et à mesure que l’individu avance en âge. ",
+        "bbox": [
+            554,
+            419,
+            904,
+            713
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Chaque cellule vivante doit sa robustesse biologique et sa longévité aux processus intracellulaires d’autoréparation et de renouvellement, ce que désigne le terme turnover. Il peut s’agir de la dégradation de la partie endommagée de la molécule et son remplacement par des éléments constitutifs nouveaux (par exemple réparation de l’ADN), ou bien de la désintégration complète de la molécule anormale et/ou endommagée et son remplacement par néosynthèse d’une nouvelle molé- cule (dans le cas des protéines). Tant que le renouvellement de toutes les pièces structurales et fonctionnelles est possible, la cellule reste active et jeune. Une des causes du vieillissement cellulaire est l’usure de ces systèmes de réparation et de renouvellement moléculaires qui se répercute sur la qualité du protéome entier. Or, ces systèmes - et notamment les protéines chaperons qui constituent un système de protection plus que de réparation - sont composés de protéines vulnérables, sensibles aux altérations chimiques comme l’oxydation [3, 4]. Un cercle vicieux s’installe alors : l’oxydation des chaperons entraîne le mauvais repliement des protéines, leur oxydation [3, 5], et donc une synthèse inefficace ne faisant qu’accroître l’oxydation [5], etc. On aboutit à une fonction « gompertzienne », exponentielle, d’accumulation des protéines oxydées avec l’âge. Ce résultat a été trouvé dans des cellules de la peau humaine [6]. Donc, aussi longtemps qu’un système de protection assure l’intégrité des systèmes de renouvellement moléculaire, la cellule reste fonctionnellement jeune. ",
+        "bbox": [
+            554,
+            716,
+            904,
+            926
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            95,
+            73,
+            492,
+            318
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Initialement, dans certaines maladies liées à l’âge, c’est l’altération d’une ou plusieurs protéines, qui, passé un certain seuil, provoque l’altération progressive de la cellule. Au-delà d’une certaine proportion de cellules malades, l’organe entier est atteint et la maladie s’exprime. Selon que l’organe affecté exerce ou non une fonction vitale, les conséquences sur le reste de l’organisme sont plus ou moins sévères. Donc, maladies chroniques et vieillissement évoluent au cours de la vie de chacun comme une lente avalanche qui débute souvent une vingtaine d’années avant le diagnostic, comme par exemple dans le cas des carcinomes [7]. ",
+        "bbox": [
+            95,
+            320,
+            490,
+            500
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Thérapies versus prévention : comparaison des stratégies ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            517,
+            396,
+            550
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Quand le diagnostic est posé et un traitement proposé, il est souvent trop tard, le mal est déjà fait. On ne peut alors que traiter les symptômes, ou remplacer les organes malades (totalement par transplantation ou partiellement par thérapie cellulaire). Si l’événement initial déclenchant cible une (des) protéine(s), l’approche rationnelle la plus efficace serait alors de remplacer ces protéines altérées par de bonnes protéines et d’arrêter la progression vers le vieillissement. Mais une thérapie préventive serait bien préférable à cette thérapie réparatrice apportant de nouvelles protéines, car elle assurerait la pérennité du processus naturel de renouvellement du protéome en renforçant les voies de renouvellement des protéines (dégradation sélective par le protéasome, autophagosome, chaperons, et synthèse de novo). C’est exactement la stratégie choisie par l’évolution de la résilience des organismes robustes [8, 9]. ",
+        "bbox": [
+            95,
+            566,
+            490,
+            813
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Éviter le vieillissement ? ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            830,
+            268,
+            845
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Supposons que nous puissions introduire des antioxydants efficaces dans les cellules vieillissantes et déroulons le scénario : les protéines nouvellement synthétisées, y compris celles qui en assurent le renouvellement, seraient mieux protégées ; les vieilles molécules oxydées seraient progressivement dégradées et remplacées par des protéines neuves et bien protégées. L’état des protéines responsables du contrôle-qualité de toutes les autres protéines - les chaperons et le protéasome, éléments clés de cette thérapie protéique - retentissant sur toute la machinerie fonctionnelle cellulaire protéique, la cellule devrait rajeunir. ",
+        "bbox": [
+            94,
+            865,
+            490,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            73,
+            904,
+            186
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Remonter le temps, celui de l’horloge biologique de la cellule, n’est plus un rêve. On sait reprogrammer des cellules cutanées âgées en cellules souches pluripotentes (iPS, induced pluripotent stem cells) capables à nouveau de produire une descendance différenciée rajeunie, et le $\\ll$ rajeunissement » de cellules de centenaires a été réalisé récemment [10]. Confirmant le scénario d’un rajeunissement protéique, les cellules souches embryonnaires, éternellement jeunes et pluripotentes, ont le plus bas niveau d’oxydation des protéines jamais mesuré (A. Krisko et M. Radman, résultats non publiés). N’oublions pas qu’il existe des organismes simples (hydre et méduse) qui ne vieillissent pas et, surtout, que la vie humaine gagne 6 heures chaque jour depuis deux siècles. Toutes ces observations confirment que l’espérance de vie est donc flexible. ",
+        "bbox": [
+            507,
+            189,
+            904,
+            418
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Biologie de la robustesse et santé humaine ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            435,
+            815,
+            450
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nous avons récemment établi que chez les bactéries [8] et chez les animaux [9], la morbidité et la mortalité cellulaires corrèlent avec l’accumulation des protéines endommagées par oxydation. D’autre part, la mort cellulaire par irradiation est fonction non pas tant des dommages subis par l’ADN - support de l’information - que de ceux subis par les protéines effectrices [8, 11]. Ce n’est pas surprenant : ce sont des protéines qui réparent l’ADN, et pas l’inverse. La démonstration en est apportée chez les bactéries [12, 13] et chez les animaux [9] les plus résistants aux radiations : la réparation spectaculaire de l’ADN morcelé par des niveaux extrêmes de radiations ionisantes est due à la protection des protéines contre les dégâts oxydatifs radio-induits et non pas à l’évolution des systèmes nouveaux de réparation [13]. Il semble que les auteurs de cet effet protecteur soient de petites molécules qui neutralisent tous les ROS. Elles seraient également efficaces pour protéger les protéines des espèces radiosensibles [8, 14]. ",
+        "bbox": [
+            507,
+            467,
+            904,
+            746
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pouvons nous imaginer « emprunter $\\gg$ cet écran protecteur moléculaire provenant des espèces les plus robustes et l’adapter au bénéfice de notre bien-être ? Faut-il cibler l’écran sur la mitochondrie où les ROS sont normalement produites ? Appliquée suffisamment tôt, cette stratégie permettrait de prévenir le développement des diverses maladies liées au vieillissement. Encore faudrait-il isoler et purifier de grandes quantités de ce cocktail moléculaire et en analyser les propriétés pharmacologiques et la toxicité pour envisager une application clinique. Comment délivrer aux cellules humaines la juste quantité pour être efficace et non toxique ? Y aura-t-il des effets secondaires non désirables ? A priori, comme pour toute stratégie de développement d’un médicament, l’approche peut s’avérer difficile. Mais quelles que soient les chances de succès, une telle prévention active des maladies et du vieillissement vaut d’être tentée car, en permettant une longévité humaine saine et productive, elle pourrait révolutionner la santé publique. ◊ ",
+        "bbox": [
+            507,
+            750,
+            904,
+            928
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            95,
+            73,
+            490,
+            171
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aging: the chemistry of a flexible biological clock ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            172,
+            418,
+            186
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CONFLIT D’INTÉRÊTS ",
+        "text_level": 1,
+        "bbox": [
+            95,
+            202,
+            201,
+            215
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "L’auteur déclare n’avoir aucun conflit d’intérêts concernant les données publiées dans cet article. ",
+        "bbox": [
+            94,
+            218,
+            490,
+            244
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "7. Cairns J. Cancer: science and society. San Francisco $\\boldsymbol { : }$ W.H. Freeman and Co, 1978.   \n8. Krisko A, Radman M. Protein damage and death by radiation in Escherichia coli and Deinococcus radiodurans. Proc Natl Acad Sci USA 2010 ; 107 : 14373-7.   \n9. Krisko A, Leroy M, Radman M, Meselson M. Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers. Proc Natl Acad Sci USA 2012 ; 109 : 2354-7.   \n10. Daly MJ, Gaidamakova EK, Matrosova VY, et al. Protein oxidation implicated as the primary determinant of bacterial radioresistance. PLoS Biol 2006 ; 5 : e92.   \n11. Zahradka K, Slade D, Bailone A, et al. Reassembly of shattered chromosomes in Deinococcus radiodurans. Nature 2006 ; 443 : 569-73.   \n12. Slade D, Lindner AB, Paul G, Radman M. Recombination and replication in DNA repair of heavily irradiated Deinococcus radiodurans. Cell 2009 ; 136 : 1044-55.   \n13. Daly MJ, Gaidamakova EK, Matrosova VY, et al. Small-molecule antioxidant proteome-shields in Deinococcus radiodurans. PLoS One 2010 ; 5 : e12570. ",
+        "bbox": [
+            510,
+            71,
+            900,
+            224
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RÉFÉRENCES ",
+        "text_level": 1,
+        "bbox": [
+            94,
+            256,
+            174,
+            271
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. F. B. Johnson FB, Sinclair DA, Guarente L. Molecular biology of aging. Cell 1999 ; 96 : 291-302.   \n2. Kirkwood TBL. Understanding the odd science of aging. Cell 2005 ; 120 : 437-47.   \n3. Fredriksson A, Ballesteros M, Dukan S, Nystrom T. Defense against protein carbonylation by DnaK/DnaJ and proteases of the heat shock regulon. J Bacteriol 2005 ; 187 : 4207-13.   \n4. Ahmed EK, Rogowska-Wrzesinska A, Roepstorff P, et al. Protein modification and replicative senescence of WI-38 human embryonic fibroblasts Aging Cell 2010 ; 9 : 252-72.   \n5. Dukan S, Farewell A, Ballesteros M, et al. Protein oxidation in response to increased transcriptional or translational errors. Proc Natl Acad Sci USA 2000 ; 97 : 5746-9.   \n6. Oliver CN, Ahn BA, Moerman EJ. Age related changes in oxidised proteins. J Biol Chem 1987 ; 262 : 5488-91. ",
+        "bbox": [
+            102,
+            286,
+            490,
+            439
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M. Radman U1001 Inserm, laboratoire TaMaRa Faculté de médecine Necker Université Paris Descartes 156, rue de de Vaugirard 75015 Paris, France miroslav.radman@gmail.com ",
+        "bbox": [
+            687,
+            274,
+            904,
+            379
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "TIRÉS À PART ",
+        "text_level": 1,
+        "bbox": [
+            736,
+            407,
+            820,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "M. Radman ",
+        "bbox": [
+            736,
+            427,
+            810,
+            440
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "De la jaunisse I'hépatite ",
+        "text_level": 1,
+        "bbox": [
+            121,
+            483,
+            267,
+            521
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            151,
+            524,
+            235,
+            533
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a jaunisse est un symptôme facilement identifiable ; il paraissait bien naturel que l’homme, confronté à une modification de la couleur de ses yeux et de sa peau ait de tous temps recherché les causes de cette transformation. ",
+        "bbox": [
+            319,
+            467,
+            894,
+            509
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Il n’est donc pas surprenant que le premier traité de médecine, écrit 3 000 ans avant J.C. par un médecin sumérien, décrive déjà la jaunisse. À chaque époque de l’histoire de la médecine, les praticiens, influencés par les concepts médicaux de leur temps, attribuèrent une ou plusieurs explications particulières à ce symptôme. Ainsi, du démon Ahhâzu des Sumériens à la sophistication des biotechnologies qui permirent la découverte du virus de l’hépatite C, le lecteur cheminera sur une période de 5 000 ans au travers des différents continents. ",
+        "bbox": [
+            300,
+            515,
+            887,
+            585
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/37faead8adc822177134863ee3dc59a11ef32251575e060b9045a86975a9460a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            124,
+            537,
+            275,
+            671
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ici encore, l’histoire se révèle une formidable source de réflexion $\\boldsymbol { \\mathrm { : } }$ le foie souvent impliqué dans l’apparition des jaunisses est-il le siège de l’âme ?   \nLes expérimentations humaines chez des volontaires ou chez des enfants handicapés mentaux étaient-elles justifiées pour permettre la découverte des virus des hépatites ?   \nLe formidable développement de la transfusion sanguine, des vaccinations, mais aussi de la toxicomanie explique-t-il les épidémies d’hépatites du XXe siècle ?   \nAutant de questions qui sont abordées dans ce livre passionnant et accessible à tous. ",
+        "bbox": [
+            300,
+            589,
+            887,
+            698
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ISBN : 978-2-8425-4136-1 128 pages ",
+        "bbox": [
+            117,
+            679,
+            275,
+            690
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "À retourner à EDK, 25, rue Daviel - 75013 Paris - Tél. : 01 58 10 19 05 - Fax : 01 43 29 32 62 - E-mail : edk@edk.fr ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            715,
+            816,
+            729
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/76b4c367aa798a10bb5daa166497911e999946d2d5dcf9542911f9fa24130dfa.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            147,
+            734,
+            894,
+            807
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Je souhaite recevoir l’ouvrage De la jaunisse à l’hépatite C, 5 000 ans d’histoire : 12 € + 3 € de port $=$ 15 € TTC ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            805,
+            768,
+            819
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "en exemplaire, soit un total de € ",
+        "bbox": [
+            151,
+            824,
+            448,
+            836
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/9d6e7c11719878516d724c157bd48023fd132eca804fd669cbdfede5e91a6ac7.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            152,
+            869,
+            504,
+            882
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Signature : ",
+        "bbox": [
+            552,
+            871,
+            606,
+            882
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "N° de contrôle au dos de la carte $:$ ❘ ❘ ",
+        "bbox": [
+            144,
+            904,
+            401,
+            917
+        ],
+        "page_idx": 2
+    }
+]

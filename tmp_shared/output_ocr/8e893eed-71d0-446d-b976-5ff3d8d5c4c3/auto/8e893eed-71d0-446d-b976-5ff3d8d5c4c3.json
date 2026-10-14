@@ -1,0 +1,728 @@
+[
+    {
+        "type": "text",
+        "text": "Mutagenesis and Cell Transformation by Ultraviolet Irradiation: Many Hypotheses for Few Results1, 2 ",
+        "text_level": 1,
+        "bbox": [
+            46,
+            120,
+            638,
+            165
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman,3 Silvio Spadari, and Giuseppe Villani3. 5 ",
+        "bbox": [
+            44,
+            185,
+            487,
+            202
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT-UV light-induced mutagenesis in bacteria is a genetically controlled process dependent on induction of some cellular functions, provoked initially by unrepaired photolesions in the DNA. Experiments on the extent and fidelity of in vitro DNA synthesis on UV-irradiated templates by bacterial and mammalian DNA polymerases suggest a crucial role for ${ \\pmb { 3 } } ^ { \\prime }$ to ${ \\pmb S } ^ { \\prime }$ exonuclease (proofreading) activity in UV light-induced mutagenesis. Two-stage carcinogenesis (initiation and promotion) is discussed in terms of two-stage mutagenesis (mutation fixation in the DNA and mutation expression). A unifying concept for both mutational and viral malignant transformation is proposed.-Natl Cancer Inst Monogr 50: 121127, 1978. ",
+        "bbox": [
+            44,
+            230,
+            462,
+            385
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UV irradiation, ionizing irradiation, and many powerful chemical mutagens and carcinogens provoke in bacteria permanent genetic changes (mutations) and temporary metabolic and phenotypic changes (SOS induction) which include induction of proviruses in lysogenic bacteria (13). SOS induction is a prerequisite for UV-induced mutagenesis in bacteria (4). That DNA lesions and not some other metabolic effect of UV irradiation cause SOS induction has been demonstrated by the triggering of the cellular mutagenic and repair capacity (SOS repair) in unirradiated Escherichia coli, which have received DNA from UV-irradiated donor cells by conjugation (5). Hence intact bacteria are not \"competent\" to perform UV mutagenesis, and that competence is temporarily induced only after damage to cellular DNA (6). ",
+        "bbox": [
+            44,
+            416,
+            462,
+            600
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            490,
+            231,
+            877,
+            245
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A certain superficial similarity exists between the phenomenologies of UV mutagenesis in bacteria and of two(or multi-)stage carcinogenesis in animals (3). Chemically induced and radiation-induced tumors in animals and chemically induced and radiation-induced cell transformation in tissue culture can be produced with high frequencies as the result of a two-stage process: \"initiation\" by a mutagen and subsequent \"promotion\" by repeated exposures to tumor promoters such as phorbol esters (7-9). Since there is a strong qualitative $( I O )$ and quantitative $( I I )$ correlation between mutagenicity in bacteria and carcinogenicity in animals, either initiation or promotion, or both, are likely to be related to mutagenesis for a series of chemical carcinogens. Alternatively, mutagenesis could be correlated with carcinogenesis in a noncausal relationship, just as mutagenesis and prophage induction are correlated in bacteria (4). ",
+        "bbox": [
+            490,
+            246,
+            909,
+            472
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We searched for answers to the following questions: 1) What are the molecular mechanisms of mutagenesis by UV light and by chemicals in bacteria and in mammalian cells?I saicmugenei is the bass  at least on in malignant transformation, how could a mutation or mutations in the mammalian genome cause cell transformation with its multiple phenotypic expressions? ",
+        "bbox": [
+            490,
+            473,
+            907,
+            572
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Therefore, our purpose is to summarize results obtained in our laboratory that we believe are relevant to the molecular mechanism of UV mutagenesis. Few illustrative results will be shown since most of them have been published elsewhere. Materials and methods for the results shown here can be found in the legends to tables and figures and, in more detail, in (2, 1214). ",
+        "bbox": [
+            490,
+            573,
+            907,
+            671
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "EXTENT AND FIDELITY OF IN VITRO DNA SYNTHESIS ON UV-IRRADIATED TEMPLATES BY BACTERIAL AND MAMMALIAN DNA POLYMERASES ",
+        "text_level": 1,
+        "bbox": [
+            487,
+            683,
+            902,
+            740
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The finding that none of the constitutive DNA polymerases of $\\pmb { \\cal E } .$ coli can synthesize DNA past UV-induced pyrimidine dimers in $\\$ 174$ phage DNA either in vivo $( I 3 )$ or in vitro $( 2 , I 4 )$ is consistent with the lack of UV-induced mutagenesis when $\\$ 174$ and lambda viruses are irradiated extracellularly and assayed on unirradiated bacteria $( l , 2 , 4 , l 3 )$ . The blockage of the in vitro DNA synthesis by $\\pmb { \\cal E } .$ coli DNA polymerase I was shown to be accompanied, and probably provoked, by an excessive turnover of nucleoside triphosphates to free nucleoside monophosphates by the polymerase-associated ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb 5 ^ { \\prime } }$ exonuclease activity $( 2 , 1 4 )$ This exonuclease activity performs a \"proofreading\" or \"editing\" function by the preferential excision of the mismatched $3 ^ { \\prime }$ ",
+        "bbox": [
+            489,
+            753,
+            905,
+            937
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/bb8dcdaf710a03853302210ea06eb1b0775dc28ea9ea477a18c4696150f4b4fb.jpg",
+        "table_caption": [
+            "TABLE 1.—Incorporation and turnover of complementary and noncomplementary nucleotides during the synthesis by E. coli DNA polymerase I on intact and UV-irradiated poly(d) templates "
+        ],
+        "table_footnote": [
+            "a Stable incorporation of dAMP could not be measured directly but was extrapolated from the misincorporation frequency (dAMP incorporated vs. dGMP incorporated), which was estimated in a parallel assay and was $\\bf { 1 0 ^ { - } } ,$ . "
+        ],
+        "bbox": [
+            100,
+            104,
+            530,
+            243
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The results shown are from 20-min incubation times in the lincar part o all four reactions. Each assay $( 0 . 1 ~ \\mathrm { m l } )$ contained $\\pmb { 5 0 } \\mathbf { m } \\mathbf { M }$ Tris-HCI, $\\tt p H 8 ,$ ,10 mM $\\mathbf { M } _ { \\mathbf { B } } \\mathbf { C l } _ { 1 }$ , $1 \\ m M$ dithiothreitol, $1 0 0 \\mu 8$ BSA/ml, 3 nmoles ['H]dGTP (500 cpm/pmole), 3 nmoles [α\"P]dATP (500 cpm/pmole), 1 nmole poly (dC):oligo(dG), hybridized in 10:1 ratio, cither intact or UV-irradiated $( 2 5 , 0 0 0 \\mathrm { J } / \\mathrm { m } ^ { 2 } )$ , and 1 U E. coli DNA polymerase I (large fragment). Reactions were done at $\\mathfrak { W }$ C. At different times, $S - \\mu 1$ aliquots were withdrawn and spotted onto polyethyleneimine-cellulose plates. Chromatography was performed and respective radioactivities from regions containing the polymer, nucleoside triphosphates, and monophosphates were counted as described elsewhere (2). ",
+        "bbox": [
+            103,
+            295,
+            530,
+            434
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "OH-terminal bases (15). When provoked by the ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb S } ^ { \\prime }$ exonuclease proofreading, the turnover of nucleoside triphosphates to free monophosphates is the result of incorporation and subsequent hydrolysis of the incorporated nucleoside monophosphate. Table 1 shows that complementary and noncomplementary nucleoside triphosphates were subject to an increased turnover when the template contained cytosine dimers. The noncomplementary nucleotide was mostly turned over, which demonstrates proofreading by the polymerase. ",
+        "bbox": [
+            102,
+            456,
+            517,
+            582
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This result suggests that the elongation of DNA chains past pyrimidine dimers is prevented by the ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb S } ^ { \\prime }$ exonuclease activity and not by the lack of the capacity to (mis)incorporate bases opposite pyrimidine dimers. We shall refer to this dynamic blockage of DNA synthesis as \"idling\" of DNA polymerases. Therefore, we proposed that the inducible function(s) required for UV-mutagenesis might involve inhibition of the ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb 5 } ^ { \\prime }$ exonuclease editing function of bacterial DNA polymerases (2). ",
+        "bbox": [
+            102,
+            582,
+            517,
+            709
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Attribution of such a crucial role in UV mutagenesis to the polymerase-associated ${ \\pmb 3 } ^ { \\prime }$ to ${ \\pmb S } ^ { \\prime }$ exonuclease activity leads to the prediction that purified mammalian DNA polymerases ${ \\pmb { \\alpha } } , { \\pmb { \\beta } }$ ,and $\\pmb { \\gamma }$ , which are apparently devoid of any exonuclease activity $( I \\delta ) .$ , should be able to elongate DNA chains past pyrimidine dimers. This was shown to be true for human DNA polymerases (2) and for AMV reverse transcriptase $( I 4 )$ Text-figure 1 shows that, unlike $\\pmb { \\cal E }$ coli DNA polymerase I, DNA polymerase $\\pmb { \\alpha }$ from calf spleen can synthesize DNA past pyrimidine dimers and that this capacity improves with the degree of purification. This observation suggests the existence of a factor or factors contaminating partially purified DNA polymerase $\\pmb { \\alpha }$ ,which inhibits DNA synthesis past pyrimidine dimers. ",
+        "bbox": [
+            102,
+            710,
+            517,
+            905
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The improvement of in vitro DNA synthesis on UV. irradiated DNA with the increase in purification can be correlated with the loss of a contaminating ${ \\pmb 3 } ^ { \\prime }$ to ${ \\pmb 5 ^ { \\prime } }$ exonuclease activity (producing exclusively mononucleotides) and with the increase in the in vitro fidelity of DNA polymerase $\\pmb { \\alpha }$ ,i.e., performing the proofreading function (table 2). ",
+        "bbox": [
+            102,
+            906,
+            517,
+            934
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/434ee137835bb92bf593c83d9cd0d0be58a70dc05743b23136d4b8ba195b5800.jpg",
+        "image_caption": [
+            "TExT-FIGURE 1.—Extent of DNA synthesis, measured as picomoles of incorporated dNMP, by three fractions of calf spleen DNA polymerase $\\pmb { \\alpha }$ on UV-irradiated $\\$ 174$ phage DNA. The purification procedure for this polymerase through DEAE-cellulose, phosphocellulose, hydroxyapatite, and DNA cellulose chromatography was described $( I 7 )$ except for the last step, which will be published elsewhere. Incubation mixtures $( 0 . 1 \\ \\mathrm { m l } )$ contained 500 pmoles primed $\\$ 174$ phage DNA (intact or UV-irradiated $5 0 0 ~ \\mathrm { J / m ^ { 2 } } )$ , 10 mM $\\mathbf { M } _ { \\mathbf { B } } \\mathbf { C l } _ { \\mathbf { 2 } } ,$ 1 mM dithiothreitol, 100 $\\mu \\ M$ dGTP, dCTP, dATP, and $5 0 \\mu \\ M$ ['H]dTTP (1,500 cpm/pmole) and 0.05 U of phosphocellulose $( a \\mathbf { \\cdot } \\mathbf { P } \\mathbf { C } )$ , hydroxapatite $( \\mathsf { \\pmb { a } } \\mathsf { \\cdot } \\mathbf { H } \\mathsf { \\pmb { A } } )$ , or DNA-cellulose ( $\\mathbf { \\dot { a } }$ DNA cell) fractions of DNA polymerase $\\pmb { \\alpha }$ . A parallel mixture contained 1 U of $\\pmb { \\cal E } .$ coli DNA polymerase I to indicate the level of DNA synthesis up to the first pyrimidine dimer (horizontal arrow). Incubation was at $3 7 ^ { \\circ } \\mathbf { C } ,$ and aliquots removed at indicated times were analyzed for acid-insoluble radioactivity by the Bollum filter technique [see (2)]. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            543,
+            80,
+            960,
+            237
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            543,
+            484,
+            960,
+            542
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, the alternative remains that the loss of exonuclease activity is only an indication of purification and possibly the loss of some other factor could be responsible for the phenomena in table 2. If the cause of our failure to produce UV-mutagenesis in vitro, using irradiated poly(dC) and poly(dT) homopolymers and purified bacterial DNA polymerases, was due to the ${ \\pmb 3 ^ { \\prime } }$ to ${ \\pmb S } ^ { \\prime }$ exonuclease activity $( I \\pmb { \\mathscr { W } } )$ then one could expect direct in vitro mutagenesis with purified mammalian DNA polymerases and UV-irradiated templates. Table 3 shows that the phosphocellulose fractions of human DNA polymerases $a , \\beta$ , and $\\pmb { \\gamma }$ (17) (although all still contaminated by the ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb 5 ^ { \\prime } }$ exonuclease activity; results not shown) do show increased misincorporation frequencies during synthesis on UV-irradiated poly(dC) templates, whereas $\\pmb { \\cal E } .$ coli DNA polymerase I shows little or none. $\\pmb { \\cal E } .$ coli DNA polymerase III gave results similar to DNA polymerase I (14). ",
+        "bbox": [
+            545,
+            542,
+            960,
+            784
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A SCENARIO FOR UV-MUTAGENESIS ",
+        "text_level": 1,
+        "bbox": [
+            545,
+            797,
+            856,
+            811
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In addition to genetic analyses of UV mutagenesis (16), this initial approach to study UV mutagenesis in vitro suggests the following scenario. ",
+        "bbox": [
+            545,
+            823,
+            960,
+            866
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV Mutagenesis in Bacteria ",
+        "text_level": 1,
+        "bbox": [
+            546,
+            880,
+            728,
+            892
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Essentially, only pyrimidine dimers that have not been eliminated by the constitutive, prereplicative excision repair before being reached by the DNA replication machinery are potentially mutagenic lesions (1). Bacterial DNA replication machinery cannot elongate nascent DNA chains past pyrimidine dimers, probably because of polymerase idling due to associated ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb 5 ^ { \\prime } }$ exonuclease proofreading activity. However, DNA replication continues by reinitiation beyond pyrimidine dimers, leaving gaps in the newly synthesized strands opposite dimers in the parental strands (18), which are repaired in $\\pmb { \\cal E }$ coli by recombinational exchanges $( I 8 )$ in an essentially error-free fashion (1). Pyrimidine dimers causing gaps that cannot be repaired by recombination probably also provoke SOS induction due to the continuous idling of DNA polymerases. A change in the nucleoside monophosphate to triphosphate ratios in the intracellular pool (as a consequence of polymerase idling and/or DNA degradation) could lead to the activation of the IP cleaving phage λ repressor (19) and perhaps some cellular repressors of the \"SOS functions\" (1, 2, 20). A possible result of SOS induction might be a modification of the DNA replication machinery, such as the inhibition of the ${ \\pmb 3 } ^ { \\prime }$ to ${ \\pmb S } ^ { \\prime }$ exonuclease activity of DNA polymerases (2), which should result in both DNA synthesis past pyrimidine dimers (increased survival) and decreased replicational fidelity (mutagenesis). ",
+        "bbox": [
+            545,
+            906,
+            960,
+            934
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9fad66d92a0ae2c03f91c18765950a27dbc2c1bd6fa4905b99e9b6ce39002a9.jpg",
+        "table_caption": [
+            "B oof a $\\mathbf { \\widetilde { y } }$ to $\\pmb { \\mathscr { s } }$ exonuclease activity "
+        ],
+        "table_footnote": [
+            "${ \\pmb 3 } ^ { \\prime }$ to ${ \\pmb S } ^ { \\prime }$ exonucleaseactivity, isincorporation ratio dAMP/dGMP on poly(dC):oligo(dG) and for inhibition of DNA synthesis by UV irradiation of primed $\\$ 174$ phage DNA (see text-fig. 1). One unit of polymerase activity was used in a reaction mixture containing $\\pmb { 5 0 } \\mathbf { m } \\mathbf { M }$ Tris, $\\tt p H 8 . 5 ,$ . $1 0 \\mathrm { m } \\mathbf { M } \\mathrm { M } _ { 8 } \\mathbf { C } \\mathrm { l } _ { 2 }$ , 1 mM dithiothreitol, $1 0 0 \\mu _ { B }$ BSA/ml, and the respective substrates. $\\bullet _ { 3 ^ { \\prime } }$ to ${ \\pmb S } ^ { \\prime }$ Submitted or ublicaon). "
+        ],
+        "bbox": [
+            33,
+            95,
+            916,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            40,
+            347,
+            462,
+            598
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            490,
+            347,
+            914,
+            433
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UV Mutagenesis in Mammalian Cells ",
+        "text_level": 1,
+        "bbox": [
+            492,
+            445,
+            737,
+            458
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The prereplicative excision repair of pyrimidine dimers that eliminates potentially mutagenic lesions is deficient in the fibroblasts of some patients with xeroderma pigmentosum, and this leads to a \"dose reduction\" for UV mutagenesis (21). Several phenomena in radiation biology are consistent with the existence of an inducible DNA repair system in mammalian cells (3), and in particular the increased survival of irradiated viruses when assayed on irradiated host cells (22). This increase in survival raises the possibility that mammalian cells may also be mutable by the inducible SOS repair. The efficient in vitro DNA synthesis by highly purified DNA polymerase $\\pmb { \\alpha }$ is unlike in vivo DNA synthesis in mammalian cells, in which all, or nearly all, pyrimidine dimers cause gaps in the newly synthesized DNA (23). This discrepancy could be accounted for by our preliminary evidence (table 2) that a ${ \\pmb 3 } ^ { \\prime }$ to ${ \\pmb 5 ^ { \\prime } }$ exonuclease may be associated with, but is not an integral part of, mammalian DNA polymerase $\\pmb { \\alpha }$ Its function may be analogous to bacterial polymerase-associated ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb S } ^ { \\prime }$ exonuclease in increasing the fidelity and preventing DNA chain elongation past pyrimidine dimers (table 2). In this instance, the inactivation or dissociation from polymerase of the ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb 5 } ^ { \\prime }$ exonuclease may be required for UV mutagenesis in mammalian cells like that proposed for bacterial mutagenesis. ",
+        "bbox": [
+            492,
+            471,
+            914,
+            597
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/495586d03755f01d1ceb794f3a604eb37cbd85d84f0b1bbbb826bff336f04f12.jpg",
+        "table_caption": [
+            "TABLE .Fielity human(HeLa)DNA polyeras α βananE. co NA polymerase I cpy intac and UV-irradiated poly(dC)templat ",
+            "aAll reaction mixtures $( 0 . 1 ~ \\mathsf { m l } )$ contained $5 0 ~ \\mathrm { \\mathfrak { m } M }$ Tris, $\\mathfrak { p H 8 . 3 }$ ,1 mM dithiothreitol, $1 0 \\mathrm { \\ m } \\mathbf { M } \\mathrm { \\ M } _ { 8 } { \\bf C } \\mathrm { l } _ { z }$ , $1 0 0 \\mu 8$ $\\mathbf { B S A } / \\mathbf { m l }$ . $2 0 \\mu \\ M$ [H]DGTP (200 cpm/pmole), $2 0 ~ \\mu \\ M$ [α\"P]dATP (10,000 cpm/pmole), and $5 0 \\ \\mu \\mathbf { M } \\ \\mathbf { d G } _ { \\mathfrak { n } } { : } \\mathbf { d C } _ { \\mathfrak { n } }$ oaatvRyiz  e  T  as d $1 0 \\mu 1$ DNA polymerase α $( 8 \\mathrm { ~ U / m l } )$ $1 5 \\ \\mu !$ DNA polymerase $\\pmb { \\beta }$ $( 6 0 ~ \\mathrm { U } / \\mathrm { m l } )$ $1 0 ~ \\mu 1$ DNA polymerase $\\pmb { \\gamma }$ . $( 3 1 ~ \\mathrm { U / m l } )$ , and 0.5 U E. coli DNA polymerase I. Reactions were saturated at $3 6 ^ { \\circ } C$ for  hr, stopp by he itin of $0 . 2 \\mathrm { m l } 1 0 \\%$ pegTex u y pellets were resuspended in $0 . 2 \\textsf { N N a O H }$ as described (2). UV irradiation $( 4 . 5 0 0 \\ \\mathrm { J / m ^ { \\it : } } )$ of the $\\mathbf { d } \\mathbf { G } _ { 1 1 } . . \\mathbf { d } \\mathbf { C } _ { \\mathfrak { n } }$ was performed in $5 0 ~ \\mathrm { m M }$ Tris, $\\mathsf { p H } \\ 8$ and $2 0 \\ \\mathbf { m } \\mathbf { M }$ KCI, on ice, in a thin layer  descb $\\mathbf { d } \\mathbf { G } _ { 1 2 } . . \\mathbf { d } \\mathbf { C } _ { \\mathfrak { n } }$ triphosphate (dGTP). "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            33,
+            650,
+            914,
+            821
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            101,
+            72,
+            516,
+            282
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A UNIFYING CONCEPT FOR MALIGNANT TRANSFORMATION INDUCED BY MUTAGENS AND VIRUSES ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            309,
+            485,
+            352
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "As mentioned previously, correlations between mutagenicity and carcinogenicity do not necessarily imply causality between the two phenomena. In particular, we know that mutagens can also exert epigenetic effects (SOS induction) in bacteria which, among other effects, are also prerequisites for mutagenesis. Therefore, we can only speculate about possible genetic mechanisms of malignant transformation with the aim of producing testable hypotheses to provoke experimental tests. Text-figure 2 illustrates a unified working hypothesis for mutational- and virus-induced cancer. This hypothesis was inspired by the postulated mechanism of SOS induction in $\\pmb { \\cal E } .$ coli $( I { \\xrightarrow { } } 4 )$ that has been incorporated into the concept of two-stage carcinogenesis, i.e., \"initiation\" by mutagens and subsequent \"promotion\" by essentially noncarcinogenic promoters (7, 24). ",
+        "bbox": [
+            101,
+            377,
+            518,
+            587
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The basic assumptions of the hypothesis are: 1) No introduction of new genetic information is required for malignancy. 2) Since promoted cells show most phenotypes of the transformed cells (25, 26), the transformed state is being considered as a state of permanent promotion. Temporary and permanent promotion (i.e., transformation) are initially caused by an intracellular IP, which might be a plasminogen activator [for further discussion, see (2)]. 4) Multiple phenotypic expressions of transformed cells are due to activation of many genes and/or gene products by the IP, which is supposed either to cleave or activate the cleavage of genetic repressors, or to activate inert gene products by limited proteolysis. 5) The IP may be the plasminogen activator temporarily induced by tumor promoters, such as phorbol esters (25). 6) This temporary induction of the IP during promotion can occur by inactivation of the repressor of the IP by the direct binding of phorbol esters to the repressor. 7) Permanent induction of the ${ \\pmb I } { \\pmb P }$ gene can occur by inactivation of its repressor either mutationally (text-fig. 2, schemes A and B3) or by a viral gene product (schemes B1, B2, B3). A list of references and source information possibly relevant to the proposed models is presented below. ",
+        "bbox": [
+            103,
+            587,
+            518,
+            922
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c3f211716d45c1f9210e5cd191e79aff5bd704fda8e3ac9f1379d3c45c4d97d1.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            547,
+            77,
+            963,
+            505
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "TExT-FlGURE 2.—A unified working hypothesis for malignant transformation by chemicals, radiation, and viruses. Transformation is considered as permanent promotion through permanent activation of the gene coding for IP. IP is supposed to cleave (or activate the cleavage of) cellular genetic repressors and/or to activate inert zymogens by limited proteolysis. All the phenotypes, including the active mitotic machinery, could be the consequence of the initial action of the IP. A) Mutagens could activate the $\\pmb { I P }$ gene by mutations in the gene coding for the repressor (RIP) of the $\\pmb { I P }$ gene. Such a malignant mutation is expected to be recessive (r). Possible mutations in the operater region (o) are expected to be dominant (d). B) Viruses could either code for their viral IP and transform independently of the cell functions (B1) or they could code for an anti-repressor of the cellular IP repressor and hence keep the $\\pmb { I P }$ gene induced as long as viral anti-repressor is produced (B2 model), or the integration of viral DNA into specific regions of the IP operon (B3 models) could cause activation of the $\\pmb { I P }$ gene. B3 model has two versions: The first is recessive integrational mutagenesis [B3 (r) model], and the second is a dominant cis-activation of the IP operon by the activation of transcription from the viral DNA into the IP operon, requiring permanent expression of a viral gene product [B3(d) model]. See text for further discussion. ",
+        "bbox": [
+            547,
+            511,
+            963,
+            804
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCE MATERIAL RELEVANT TO THE PREMISES OF THE HYPOTHESIS ",
+        "text_level": 1,
+        "bbox": [
+            546,
+            823,
+            917,
+            852
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1) Trypsin-like proteases are likely mitotic inducers in normal cells. Trypsin activates G1-blocked isolated nuclei (27) and penetrates cell and nuclear membranes (28). Activation of chick erythrocyte nuclei by active HeLa nuclei in cell hybrids is decreased by inhibitors of the trypsin-like proteases, TLCK and TAME (29). The mitotic activity of the HeLa nucleus can be suppressed by an excess of inactive chick erythrocyte nuclei in heterokaryons, and this is facilitated by TLCK and TAME (30). ",
+        "bbox": [
+            546,
+            865,
+            963,
+            923
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            46,
+            72,
+            468,
+            143
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2) Tumor promoters (phorbol esters) are powerful inducers of a temporary production of a plasminogen activator by normal cells in vivo and in vitro [(25, 26, 31) and references therein]. ",
+        "bbox": [
+            45,
+            143,
+            466,
+            198
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3) Permanent production of a plasminogen activator is correlated with the transformed state, independent of the transforming agent (32, 33). ",
+        "bbox": [
+            45,
+            200,
+            468,
+            242
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4) Some natural and synthetic inhibitors of trypsin-like proteases have been shown to inhibit tumorigenesis in experimental initiation-promotion carcinogenesis in mice (31) and, curiously enough, also to suppress UV mutagenesis and UV induction of prophage λ in $\\pmb { \\cal E } .$ coli (2, 20). ",
+        "bbox": [
+            45,
+            242,
+            468,
+            312
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5) The appearance of plasminogen activator in 2 and 3 requires active RNA and protein synthesis (25, 32, 33). ",
+        "bbox": [
+            45,
+            312,
+            468,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6) Chemically induced cell transformation may result from the mutagenesis of a single locus (34, 35). (Compare with text-fig. 2A.) ",
+        "bbox": [
+            45,
+            340,
+            466,
+            382
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7) Mutagen-induced and spontaneous transformations appear recessive in cell hybrids between malignant and normal cells as long as a specific normal chromosome or chromosomes are present in the heterokaryon $[ ( 3 6 , 3 7 )$ and references therein]. In other words, cancer can be suppressed but not \"erased,\" since it reappears following chromosome loss from heterokaryons $( 3 \\theta )$ (Compare with text-fig. 2A.) ",
+        "bbox": [
+            46,
+            382,
+            468,
+            480
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8) Whatever the transforming agent, mutagen or virus, various tumor cells do not complement in cell hybrids, i.e., heterokaryons remain malignant (38). ",
+        "bbox": [
+            46,
+            481,
+            468,
+            522
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9) The transformed character of cells recently transformed by a tumor virus appears dominant in cell hybrids (39, 40). (Compare with text-fig. 2 B1, B2, B3.) ",
+        "bbox": [
+            46,
+            522,
+            468,
+            564
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10) In virus-transformed cells, the plasminogen activator is a cell and not a virus type (32, 33). This discourages the B1 model if the plasminogen activator is the IP. ",
+        "bbox": [
+            46,
+            564,
+            466,
+            606
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11) Continuous production of an active viral early gene product (T-antigen) is necessary to maintain virus-induced transformation (41). This discourages model B3(r). ",
+        "bbox": [
+            46,
+            606,
+            468,
+            648
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12) The phenomenon of abortive, transitory transformation by simian virus 40 and polyoma viruses (42, 43) indicates that stable integration of viral DNA into host genome may not be necessary for the establishment of transformation but rather for its maintenance. This further discourages B3(r) and B3(d) models. In conclusion, some version of B2 is our preferred model for viral transformation. T-antigen, or a part of it, could be the anti-repressor of the ${ \\pmb I } { \\pmb P }$ gene (text-fig. 2, B2, solid line) or the repressor of its repressor (text-fig. 2, B2, broken line). B3(d) model still remains an attractive alternative to the B2 model. [Compare with (39).] ",
+        "bbox": [
+            46,
+            648,
+            469,
+            802
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A COMMENT ",
+        "text_level": 1,
+        "bbox": [
+            48,
+            814,
+            160,
+            828
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The proposed model (text-fig. 2) was chosen exclusively for its minimal complexity and not as an attempt to account for the genetic mechanisms of various types of malignant transformation. It is meant to illustrate the basic idea rather than to insist on the precise mechanism of induction or activation of the IP. Ideas for promotion and transformation were borrowed from microbial genetics, e.g., induction of the IP in promotion (2) is like induction of the lac operon (44), i.e., through reversible inactivation of the repressor by the binding of effector molecules. Transformation is like induction of prophage $\\pmb { \\lambda }$ and the pleiotropic SOS induction $( I , ~ 2 )$ ,i.e., through proteolytic cleavage (19) of repressors $( 1 , 2 , 2 0 )$ an anti-repressor protein is known in phage P22 that inactivates P22 repressor as well as the repressors of several unrelated phages including λ (45); B3(r) and B3(d) models were obviously inspired by the biology of bacteriophage $\\pmb { \\mu }$ and insertion sequences in $\\pmb { \\cal E } .$ coli. ",
+        "bbox": [
+            48,
+            842,
+            469,
+            926
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            496,
+            72,
+            919,
+            226
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The malignancy in the proposed model should persist only as long as active IP is produced and as long as the substrates (repressors and/or inert precursor proteins) remain susceptible to its action. Therefore, several mechanisms of suppression of cancer, which can be either pleiotropic (i.e., for all phenotypes of transformed cells) or partial (i.e., for one or few phenotypes only), are inherent to the model. These possibilities will be published elsewhere. ",
+        "bbox": [
+            496,
+            228,
+            919,
+            338
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "MUTATION FIXATION, MUTATION EXPRESSION, AND PROMOTION ",
+        "text_level": 1,
+        "bbox": [
+            496,
+            351,
+            914,
+            380
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Mutation fixation following UV irradiation of bacteria takes place during the first postirradiation DNA replication round $( I )$ The fixation of $\\mathbf { x }$ -ray-induced malignant transformation in cell culture requires two (46) or more (47) postirradiation generations. However, the problem of the expression of recessive mutations is expected to be more complex in diploid mammalian cells than in bacteria. It is likely that two events are required for the appearance of mutant (or transformed) mammalian cells: the mutation fixation in the DNA and a segregational event. If the mutagen-induced cell transformation is the consequence of a recessive mutation (37), this should require functional homozygosity for its expression in diploid somatic cells. Homozygosity can be brought about either by mitotic recombination (exchanges which occur between mutant and wild-type chromatids, to be segregated into different daughter cells in the region between the mutation and the centromere) following S-phase, or by chromosome loss by nondisjunction, or chromosomal rearrangements (48). ",
+        "bbox": [
+            498,
+            392,
+            919,
+            659
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Since tumor promoters act as general inducers (26) and also increase the yield or recovery of mutagen-initiated cancer (7, 8), three testable hypotheses for promotion in somatic mutation theories of cancer can be envisaged. 1) Promoters could induce mitotic recombination or chromosome loss and/ or rearrangements, 2) promotion could be mutation expression through derepression of otherwise silent, mutated genes (49). 3) Promoters could act as co-mutagens by amplifying the mutagenic effect of unrepaired DNA lesions, analogous to SOS repair in bacteria (2, 3). The problem of mutation expression remains the same in 3 as in 1 or 2. Experiments are being initiated in our laboratory to distinguish between 1, 2, and 3. ",
+        "bbox": [
+            498,
+            661,
+            919,
+            840
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Most of the preceeding general discussion on the mechanisms of mutation fixation and expression and on the nature of malignant change applies par excellence to UV irradiation. At effective mutagenic and carcinogenic doses, UV light almost exclusively causes damage to nucleic acids. Furthermore, the deficiency in a repair system which removes UV. ",
+        "bbox": [
+            498,
+            842,
+            921,
+            926
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "induced pyrimidine dimers from the cellular DNA is accompanied by the mutation- and cancer-proneness to UV light [(21) and references therein]. UV irradiation has acted as a complete carcinogen in humans, animals $( 5 0 )$ , and in cell culture $( 5 I )$ and as an initiator when the transforming effect is amplified by or requires a tumor promoter [(8) and references therein]. Since high doses of an initiator also provoke the metabolic effects of promotion (52), the complete carcinogenesis by high doses of initiators can be interpreted in terms of the two-stage model (2, 3). ",
+        "bbox": [
+            99,
+            63,
+            524,
+            204
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            100,
+            215,
+            215,
+            231
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) WITKIN EM: Ultraviolet mutagenesis and inducible DNA repair in Escherichia coli. Bacteriol Rev 40:869-907, 1976   \nRADMAN M, ViLLANI G, BoITEUx S, et al: On the mechanism and genetic control of mutagenesis due to carcinogenic mutagens. In Origins of Human Cancer (Hiatt H, Watson JD, Winsten JA, eds). Cold Spring Harbor, N.Y.: Cold Spring Harbor Laboratory, 1977, pp 903922   \nRaDMan M: On the mechanism and genetic control of mutation: An approach to carcinogenesis. In Mécanismes d'Altération et de Réparation du DNA, Relations avec la Mutagénèse et la Cancérogénése Chimique. Publ No. 256. Paris Centre National de Recherche Scientifque, 197, pp 293-306   \n(4) : Phenomenology of an inducible mutagenic DNA repair pathway in Escherichia coli: SOS repair hypothesis. In Molecular and Environmental Aspects of Mutagenesis (Prakash L, Sherman F, Miller M, et al, eds). Springfield, IlI.: C C Thomas, 1974, pp 128142   \n(GEORGE J, DEvORET R, RADMaN M: Indirect ultravioletreactivation of phage lambda. Proc Natl Acad Sci USA 71:144147, 1974   \nDefais M, CailLeT-FauQueT P, Fox MS, et al: Induction kinetics of mutagenic DNA repair activity in E. coli following ultraviolet irradiation. Mol Gen Genet 148:125130, 1976   \n(7) RysER HJ: Chemical carcinogenesis. N Engl J Med 285: 721731, 1971   \n(8) MONDAL S, HEIDELBERGER C: TransformatiOn of C3H/10T1/2 Cl8 mouse embryo fibroblasts by ultraviolet irradiation and a phorbol ester. Nature 260:710711, 1976   \n(9) MONDAl S, BRAnKOw DW, HEIDELBERGeR C: Two-stage chemical oncogenesis in cultures of C3H/10T1/2 cells. Cancer Res 36:22542260, 1976   \n10McCann J, Choi E, Yamasaki E, et al: Detection of carcinogens in the Salmonella/microsome test: Assay of 300 chemicals. Proc Natl Acad Sci USA 72:51355140, 1975   \n1MEsELSON M, RUssELL K: Comparisons of carcinogenic and mutagenic potency. In Origins of Human Cancer (Hiatt H, Watson JD, Winsten JA, eds) Cold Spring Harbor, N.Y.: Cold Spring Harbor Laboratory, 1977, pp 14731479   \nRadman M, Caillet-Fauquet P, Defais M, et al: The molecular mechanism of induced mutations and an in vitro biochemical assay for mutagenesis. In Screening Tests in Chemical Carcinogenesis (Montesano R, Bartsch H, Tomatis L, eds). IARC Sci Publ No. 12. Lyon: IARC, 1976, pp 537545   \n13Caillet-Fauquet P, Defais M, Radman M: Molecular mechanisms of induced mutagenesis: In vivo replication of ige-stranltraviolet-irra $\\$ 124$ phage DNA in intact and irradiated cells. J Mol Biol 117:95112, 1977   \n1VilLANI G, Boiteux S, RadMan M: Mechanism of ultraviolet-induced mutagenesis: Extent and fidelity of in vitro 13.J031-301, 1710   \n5BrUTLAG D, KoRNBERG A: Enzymatic synthesis of deoxyribonucleic acid. XXXVI. A proofreading function for the ${ \\mathfrak { z } } ^ { \\prime }$ to 5' exonuclease activity in deoxyribonucleic acid polymerases. J Biol Chem 247:241248, 1972   \n(16) WEissBACH A: Vertebrate DNA polymerases. Cell 5:101- 108, 1975   \n(17) SPADARI S, WEIssBACH A: HeLa cell R-deoxyribonucleic acid polymerases. J Biol Chem 249:5809-5815, 1974   \n(18) HOWARD-FLANDERS P, RUPP DW, WILKINS BM, et al: DNA replication and recombination after UV-irradiation. Cold Spring Harbor Symp Quant Biol 33:195205, 1968   \nRoBERTS JW, RoBERTS CW: Proteolytic cleavage of bacteriophage lambda repressor in induction. Proc Natl Acad Sci USA 72:147151, 1975   \n(20) MEYN MS, RossMAN T, TROLL W: A protease inhibitor blocks SOS functions in Escherichia coli: Antipain prevents λ repressor inactivation, ultraviolet mutagenesis and filamentous growth. Proc Natl Acad Sci USA 74:1152-1156, 1977   \n21MAHER VM, QuELETTE LM, CURREN RD, et al: The frequency of ultraviolet light-induced mutations is higher in xeroderma pigmentosum patients than in normal human cells. Nature 261:326333, 1976   \n(22) LyTLE CD: Radiation-enhanced virus reactivation in mammalian cells. Natl Cancer Inst Monogr 50:145150, 1978   \n(23) LEHMANN A: Postreplication repair of DNA in ultraviolet-irradiated mammalian cells. J Mol Biol 66:319- 338, 1972   \n(4) BoUTwELL RK: The function and mechanism of promoters of carcinogenesis. CRC Crit Rev Toxicol 2:419-443, 1974   \nWIGLER M, WEINSTEIN IB: Tumor promo induCES plasminogen activator. Nature 259:12321233, 1976   \n(2) WEinsTEIN IB, WiglER M, PietropaOLO C: The action of tumor promoting agents in cell culture. In Origins of Human Cancer (Hiatt H, Watson JD, Winsten JA, eds). Cold Spring Harbor, N.Y.: Cold Spring Harbor Laboratory, 1977, pp 751772   \n() BrowN RL, CLARk RW, CHIU JF, et al: Protease activation of $\\mathbf { G } _ { \\imath }$ Cell Res 104:207213, 1977   \nHODGES GM, LIvINGSTON DC, FRANKs LM: The localization of trypsin in cultured mammalian cells. J Cell Sci 12:887902, 1973   \n(29) Darzynkiewicz Z, Chelmicka-Szorc E, Arnason BG: Chick erythrocyte nucleus reactivation in heterocaryons: Suppression by inhibitors of proteolytic enzymes. Proc Natl Acad Sci USA 71:644647, 1974   \n(30) —: Suppressive effect of protease inhibitors on heterocaryons containing chick erythrocyte nuclei. Exp Cell Res 87:333345, 1974   \n(31TRoLL W, RossMaN T, KATZ J, et al: Proteinases in tumor promotion and hormone action. In Proteases and Biological Control (Reich E, Rifkin DB, Shaw E, eds). Cold Spring Harbor, N.Y.: Cold Spring Harbor Laboratory, 1975, pp 977987   \n(32) UnkELESS JC, ToBiA A, OssowskI L, et al: An enzymatic function associated with transformation of fibroblasts by oncogenic viruses. I. Chick embryo fibroblast cultures transformed by avian RNA tumor viruses. J Exp Med 137:85111, 1973   \n(33) OssowSKI L, UNkEl.ESs JC, TOBIA A, et al: An enzymatic function associated with transformation of fibroblasts by oncogenic viruses. I1. Mammalian fibroblast cultures transformed by DNA and RNA tumor viruses. J Exp Med 137:112126, 1973   \n(34) HuBERMAN E, MAGER R, SACHS L: Mutagenesis and transformation of normal cells by chemical carcinogens. Nature 264:360361, 1976   \nBoUCK N, DI MaJoRCA G: Somatic mutation as the basis for malignant transformation of BHK cells by chemical carcinogens. Nature 264:722727, 1976   \nWIENER F, KLEIN G, HaRRIS H: The analysis of malignancy by cell fusion. V. Further evidence of the ability of normal diploid cell to suppress malignancy. J Cell Sci 15:177183, 1974   \n(37)STANBRIDGE EJ: Suppression of malignancy in human cells. Nature 260:1720, 1976   \n(38) KLEIN G: Analysis of malignancy and antigen expression by cell fusion. Fed Proc 35:22022204, 1976   \n(39) CROCE CM, KoprowsKI H: Assignment of gene(s) for cell transformation to human chromosome 7 carrying the simian virus 40 genome. Proc Natl Acad Sci USA 72:- 16581660, 1975   \n(40) JHA KK, OZER HL: Expression of transformation in cell hybrids. I. Isolation and application of density-inhibited BALB/3T3 cells deficient in hypoxanthine phosphoribosyltransferase and resistant to ouabain. Som Cell Genet 2:215223, 1976   \n(41) WeINBErG RA: How does T-antigen transform cells? Cell 11:243246, 1977   \n(42) STockER M: Abortive transformation by polyoma virus. Nature 218:234238, 1968   \nSMITH HS, GELB LD, MaRTIN MA: Detection and quantitation of simian virus 40 genetic material in abortively transformed BALB/3T3 clones. Proc Natl Acad Sci USA 69: 152156, 1972   \n(44) GILBERT W, MÜLLER-HILL B: The lactose repressor. In The Lactose Operon (Beckwith JR, Zipser D, eds). Cold Spring Harbor, N.Y.: Cold Spring Harbor Laboratory, 1970, pp 93-109   \n(45) SUsSKIND MM, BoTSTEIN D: Mechanism of action of Salmonella phage P22 anti-repressor. J Mol Biol 98:413424, 1975   \n(4) BoREK C, SACHs L: The number of cell generations required to fix the transformed state in $\\mathbf { x }$ -ray-induced transformation. Proc Natl Acad Sci USA 59:83-85, 1968   \n(47) TERZAGHI M, LITTLE JB: X-Radiation-induced transformation in C3H mouse embryo-derived cell line. Cancer Res 36:13671374, 1976   \n(48) SimINovICH L: On the nature of heritable variation in cultured somatic cells. Cell 7:111, 1976   \n( CAiRNs J: Some thought about cancer research, offered as the substitute for a summary. In Origins of Human Cancer (Hiatt H, Watson JD, Winsten JA, eds). Cold Spring Harbor, N.Y.: Cold Spring Harbor Laboratory, 1977, pp 1813 1820   \n(50) BLUM HF: Carcinogenesis by Ultraviolet Light. Princeton, N.J.: Princeton Univ Press, 1959   \n(51) CHAN GL, LITTLE JB: Induction of oncogenic transformation in vitro by ultraviolet light. Nature 264:442444, 1976   \n(52) BOUTwELL RK: The biochemistry of preneoplasia in mouse skin. Cancer Res 36:26312635, 1976 ",
+        "bbox": [
+            104,
+            238,
+            522,
+            925
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            549,
+            84,
+            974,
+            924
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            48,
+            66,
+            472,
+            436
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            499,
+            66,
+            921,
+            435
+        ],
+        "page_idx": 6
+    }
+]

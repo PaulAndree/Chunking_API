@@ -1,0 +1,189 @@
+[
+    {
+        "type": "text",
+        "text": "Gail Rodwell-McIntyre (apellido de soltera Potter; previamente: Tilsley, Platt y Hillman), es un personaje ficticio de la serie de televisión británica Coronation Street, interpretada por la actriz Helen Worth desde el 29 de julio de 1974 hasta ahora. ",
+        "bbox": [
+            70,
+            140,
+            368,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Interpretada por: Helen Worth ",
+        "bbox": [
+            401,
+            206,
+            687,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Duración: 1974 - presente ",
+        "bbox": [
+            405,
+            231,
+            714,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Notas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            328,
+            147,
+            349
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/9db606059001e88987c95d716740db46ee7baff2c94c846e54b40eff0ecd46ed.jpg",
+        "table_caption": [
+            "Personaje de Coronation Street "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            396,
+            247,
+            914,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Entre sus historias más importantes se encuentran: haber descubierto que Frank Peterson no era su padre biológico, por haber sido acosada por John Lane, por haber perdido su virginidad con Roy Thornley para luego descubrir que era casado, por haber tenido enfrentamientos con su futura suegra Ivy Tilsley, por haber recibido proposiciones por parte de Colin Jackson el amigo de su esposo y de George Hepworth el novio de su madre, por haber tenido una aventura con Ian Latimer el primo de su esposo Brian, por haber comenzado una relación con Martin Platt quien era 11 años más joven que ella, por haber descubierto que Carmel Finnan había secuestrado a su hijo David, por haber descubierto que su esposo Richard Hillman era un asesino en serie, por haber sobrevivido al intento de asesinato hecho por Richard, por haber tenido enfrentamientos con Eileen Grimshaw, por haber sido acusada falsamente por su hijo David de golpearlo, por haberle pagado a Tina la novia de su hijo David para que abortara, por haber sido empujada por su hijo David de las escaleras luego de que este descubriera que su madre había sido responsable del aborto de su novia,2 por haber descubierto que su padre tenía un novio llamado James, haber descubierto que su esposo Joe intentaba fingir su muerte para cobrar dinero, haber descubierto que Joe en realidad había muerto y por haber sido ",
+        "bbox": [
+            99,
+            369,
+            368,
+            937
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/1a1dd4eac5b9c2b4d8a0f1e03d516fddaf408650bd515a8e1e1191fd2c92e858.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            396,
+            505,
+            922,
+            929
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            102,
+            40,
+            368,
+            332
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/3aeacce5574b0bb4d03ca518e2f23dab3fe486db9e1f9bc6561155ab17ed6709.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            388,
+            40,
+            927,
+            323
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "acusada injustamente de la muerte de Joe, por haberle ofrecido a Kylie Turner dinero para que dejara a su hijo David, haber descubierto que tenía hipertensión y por tener constantes enfrentamientos con Tracy Barlow.3 ",
+        "bbox": [
+            102,
+            333,
+            931,
+            385
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            408,
+            223,
+            429
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. 'Sad moment ahead for Gail' (http://www.digitalspy.co.uk/soaps/s3/coronation-street/news/a5 85734/coronation-streets-helen-worth-sad-moment-ahead-for-gail.html#\\~oKNIQ7Xv2UGgp E) ",
+        "bbox": [
+            77,
+            451,
+            931,
+            502
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. David shoves Gail down stairs (http://www.digitalspy.co.uk/soaps/s3/coronation-street/news/ a90648/in-pictures-david-shoves-gail-down-stairs.html) ",
+        "bbox": [
+            80,
+            504,
+            926,
+            536
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. «Coronation Street: Tracy Barlow v. Gail Platt punch-up in The Rovers!» (https://web.archiv e.org/web/20101228050312/http://www.heatworld.com/Celeb-News/2010/12/Coronation-Str eet-Tracy-Barlow-v-Gail-Platt-punch-up-in-The-Rovers/). Archivado desde el original (http://w ww.heatworld.com/Celeb-News/2010/12/Coronation-Street-Tracy-Barlow-v-Gail-Platt-punchup-in-The-Rovers/) el 28 de diciembre de 2010. Consultado el 1 de febrero de 2013. ",
+        "bbox": [
+            78,
+            539,
+            932,
+            621
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            650,
+            290,
+            671
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Coronation Street Official Website :: Character :: Gail McIntyre (https://web.archive.org/web 20130430061805/http://www.itv.com/coronationstreet/characters/gailmcintyre/) ",
+        "bbox": [
+            82,
+            692,
+            922,
+            726
+        ],
+        "page_idx": 1
+    }
+]

@@ -1,0 +1,525 @@
+[
+    {
+        "type": "text",
+        "text": "Costs and Benefits of High Mutation Rates: Adaptive Evolution of Bacteria in the Mouse Gut ",
+        "text_level": 1,
+        "bbox": [
+            151,
+            97,
+            558,
+            214
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Antoine Giraud,1,2 Ivan Matic,1 Olivier Tenaillon,1 Antonio Clara,2 Miroslav Radman,1 Michel Fons,2 Franc¸ois Taddei1 \\* ",
+        "bbox": [
+            173,
+            222,
+            537,
+            267
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have shown that bacterial mutation rates change during the experimental colonization of the mouse gut. A high mutation rate was initially beneficial because it allowed faster adaptation, but this benefit disappeared once adaptation was achieved. Mutator bacteria accumulated mutations that, although neutral in the mouse gut, are often deleterious in secondary environments. Consistently, the competitiveness of mutator bacteria is reduced during transmission to and re-colonization of similar hosts. The short-term advantages and long-term disadvantages of mutator bacteria could account for their frequency in nature. ",
+        "bbox": [
+            114,
+            286,
+            598,
+            405
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A proportion of clones from natural populations of pathogenic and commensal bacteria has a strong mutator phenotype (1–4). Although most mutations are neutral or deleterious, mutator alleles (alleles that increase the mutation rate) are favored under directional selection, as has been observed in several experiments in laboratory media (5–8) and with the use of computer simulations (9, 10). To date, experiments with mutator Escherichia coli have largely been performed in laboratory media and confined to isolated, relatively constant environments. To study the in vivo role of mutator alleles in adaptation to complex natural habitats and to examine the benefits and costs of high mutation rates, we monitored the fate of $E$ . coli strains that differ only in their spontaneous mutation rates during the colonization of the gut of germ-free mice. ",
+        "bbox": [
+            76,
+            419,
+            344,
+            683
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(15). These results show that mutator bacteria arising spontaneously can quickly become dominant during the course of gut colonization (Fig. 1A). Conversely, in populations derived from the mutator mutS2 strain, clones with a lower, intermediate mutation rate were isolated (Fig. 1A). This reduction was unlikely to be due to the restoration of a $m u t S ^ { + }$ allele because such a restoration would have led to a wild-type mutation rate. Because changes in bacterial mutation rates seem to evolve readily in the mouse gut, this is a powerful experimental model for detecting the costs and benefits associated with a high mutation rate. ",
+        "bbox": [
+            658,
+            88,
+            928,
+            285
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To test whether increased mutation rates contribute to faster adaptation to an intestinal environment, competition experiments between wild-type and mutator bacteria were performed in initially germ-free mice. Mice were inoculated with about $1 0 ^ { 4 }$ cells of isogenic $E$ . coli strains that differed only by a mutation in the mutS gene and their antibiotic resistance marker $( I 6 )$ . Both the mutS1 and the mutator $m u t S ^ { - }$ bacteria reached a population density of about $1 0 ^ { 9 }$ bacteria per gram of feces 24 hours after inoculation. Between days 1 and 9, the $m u t S ^ { - } / m u t S ^ { + }$ ratio increased in all mice about 800-fold, showing a clear advantage of the mutator over the wildtype allele (Fig. 2A). ",
+        "bbox": [
+            658,
+            287,
+            928,
+            498
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "the frequency of rifampicin-resistant mutants were measured in fecal samples (13). In 2 of 26 mice inoculated with a wild-type strain after 3 weeks of colonization, the bacterial population had an increased frequency of rifampicin-resistant bacteria $( I 4 )$ , indicating an increased mutation rate. After 42 days, individual colonies with an elevated mutation rate were isolated from the dominant fraction of these populations (Fig. 1A). The increase in mutation rate was attributed to a defect in the MMR genes, as the ancestral mutation rate was fully restored by the presence of plasmids carrying a wild-type MMR allele ",
+        "bbox": [
+            367,
+            420,
+            635,
+            603
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mutator strain used here expressed a defective MutS protein, a key component of the methyl-directed mismatch repair (MMR) system, which increases all major classes of genetic alteration $( I I )$ . Most mutator $E$ . coli found in nature have been shown to be MMR deficient, usually because the mutS gene is inactivated (1, 2, 12). ",
+        "bbox": [
+            76,
+            685,
+            346,
+            790
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If this selective advantage is indeed a result of mutator-generated adaptive mutations, it should depend on the capacity of the mutator to generate adaptive mutations that, in turn, should depend on its population size. Thus, the mutator fraction present in the inoculum was modified from 1:1 (mutator:wild type) to 1: 5 and 1: 50; only at the 1: 5000 ",
+        "bbox": [
+            658,
+            500,
+            928,
+            604
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Isogenic germ-free mice were inoculated with either a mutator or its isogenic wild-type E. coli strain (13). During the course of the ensuing weeks, the total population size and ",
+        "bbox": [
+            75,
+            791,
+            344,
+            843
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/8baa6b69914248a0b0bd1357844ae6f87d2f455e03bc782fabaf865f567b3d51.jpg",
+        "image_caption": [
+            "Fig. 1. Evolution of E. coli strains during adaptation to the mouse gut. (A) Evolution of the mutation rate. On day 0, germ-free mice were inoculated with either a wild-type mutS1 E. coli $( \\bullet )$ (mice m1 and m2 are the 2 of 26 mice in which the mutator bacteria had become a detectable fraction of the population in less than 6 weeks) or mutS2 E. coli (C) (mouse M7). Results for other mice inoculated with a mutS2 strain are available at (13). After 42 days of colonization, 10 clones were randomly isolated from the dominant fecal population. For each clone, the frequency of spontaneously occurring rifampicinresistant mutants was obtained in three "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            611,
+            632,
+            928,
+            810
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "independent measurements; their median values are presented. $( \\triangle )$ and (▫) are the same measurements for 10 clones from the initial mutator and wild-type ancestor strains, respectively. (B) Evolution of the population size. The population size of mutator and wild-type populations colonizing independent germ-free mice was followed for different purposes in 10 experiments with 81 mice. The mutator population size was consistently higher than the wild type during the first 4 days. A representative experiment is shown to describe the dynamics of adaptation. Two groups of 11 independent isogenic germ-free mice were inoculated the same day with about $2 \\times 1 0 ^ { 7 }$ bacteria that were either mutS2 (n) or $m u t S ^ { + }$ (▫) strain. Each point represents the mean $\\pm$ standard mean deviation (smd) of the log-transformed population size per gram of feces for each mouse for each genotype at different times $P$ values for Mann-Whitney U tests are 0.01, 0.003, 0.03, 0.02, and 0.003 for days 1, 2, 3, 4, and 8, respectively). ",
+        "bbox": [
+            367,
+            824,
+            928,
+            949
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ratio did the frequency of the $m u t S ^ { - }$ allele decrease (Fig. 2A), presumably because the mutator population size was so small [about $3 \\times 1 0 ^ { 6 }$ bacteria per gram of feces after 48 hours, (13)] that adaptive mutations were likely to occur within the wild-type population earlier than in the mutator population. These results indicate that the advantage of mutator bacteria depends on their ability to generate adaptive mutations rather than on a beneficial pleiotropic effect of the $m u t S ^ { - }$ allele. This corroborates chemostat experiments (5). ",
+        "bbox": [
+            76,
+            88,
+            346,
+            260
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To seek evidence for adaptive mutations, a clone was isolated from a mutator population that had outcompeted wild-type bacteria, thus supposed to carry adaptive mutations. The $m u t S ^ { + }$ genotype was restored by P1 transduction (13); this strain (noted r-mutS1) showed enhanced fitness when challenged against the nonmutator $m u t S ^ { + }$ ancestor in a new round of 1:1 competition (Fig. 2B). Between days 0 and 8, the r- $m u t S ^ { + } / m u t S ^ { + }$ ratio increased about 20,000-fold without the initial 1-day lag observed in the $1 { : } 1 m u t S ^ { - } /$ $m u t S ^ { + }$ competition (Fig. 2B). Thus, the r$m u t S ^ { + }$ bacteria exhibited the advantage of favorable mutations acquired during their mutator state $( m u t S ^ { - } )$ passage in the mouse gut. A similar advantage was observed for the mutator in in vivo competitions between $m u t S ^ { - }$ and $m u t S ^ { + }$ bacterial populations that had both previously been grown for 1 day in individual mice before the competition (Fig. 2C). This suggests that adaptive mutations are fixed rapidly in mutator populations. ",
+        "bbox": [
+            75,
+            261,
+            344,
+            405
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            367,
+            88,
+            635,
+            247
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/10f98421876c92bfc55cd91aadb8de0a51d8b2fcb25a0508f78d3de37be68d28.jpg",
+        "image_caption": [
+            "Fig. 2. Factors affecting the competitiveness of mutator bacteria colonizing the mouse gut. Each point represents the mean $\\pm$ smd of log-transformed $m u t S ^ { - } / m u t S ^ { + }$ ratios in each mouse (A, B, and C) or group of mice (D). On day 0, isogenic germ-free mice were inoculated with E. coli strains. Details of the population sizes at the start of and during each experiment are available at (13). (A) Inoculated population size: (●) 1:1 competitions between $1 . 4 \\times 1 0 ^ { \\dot { 4 } }$ mutator versus $1 . 6 \\times 1 0 ^ { 4 }$ wild-type (six independent mice). (▫) 1: 5 competitions between $3 . 3 \\times 1 0 ^ { 4 }$ mutator versus $1 . 6 \\times 1 0 ^ { 5 }$ wild-type (10 independent mice). (n) 1: 50 competitions between $7 \\dot { \\times } \\dot { 1 } 0 ^ { 5 }$ mutator versus $3 . 1 \\ \\times$ $\\uparrow 0 ^ { 7 }$ wild-type (three independent mice). (C) 1: 5000 competitions between $6 \\times 1 0 ^ { 3 }$ mutator versus $2 . 9 ~ \\times$ $\\uparrow 0 ^ { 7 }$ wild-type (three independent mice). (B) Mutator bacteria have generated adaptive mutations. 1:1 competitions between strains that had never been in the germ-free mouse gut as in (A). Competitions (six independent mice) between $3 . 1 \\times 1 0 ^ { 4 }$ wild-type ancestor (●) and $3 . 6 \\times 1 0 ^ { 4 }$ bacteria of a strain that have previously spent 42 days in a mouse as mutator, and where the mutS1 allele (C) had been restored $( \\mathsf { r } - m u t S ^ { + } )$ . (C) Effect of the time spent in the gut before the competition. Competitions between mutS– NalR and "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            323,
+            429,
+            635,
+            803
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "When the population sizes of wild-type and $m u t S ^ { - }$ mutator bacteria inoculated in separate mice were measured during colonization, the mutator populations increased faster than the wild type (Fig. 1B). This confirmed that the mutation rate is limiting (17 ) during the colonization of a germ-free gut. ",
+        "bbox": [
+            367,
+            247,
+            635,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\dot { m } u t S ^ { + } \\mathsf { S t r } ^ { \\mathsf { R } }$ populations that were previously grown in separate mice for 1 day (●) (six independent mice) or 400 days (C) (six independent mice). (D) Effect of the migration of bacteria between mice. On day 0, three marked germ-free mice were introduced in the same cage. The first one was inoculated with about $1 0 ^ { \\circ } \\ m u t S ^ { - } \\ \\mathsf { N a l ^ { R } }$ bacteria, the second one with about $\\uparrow 0 ^ { 9 }$ mutS1 ${ \\mathsf { S t r } } ^ { \\mathsf { R } }$ bacteria, and the third one was germ free. The total populations are the sum of the bacterial populations colonizing the three mice sharing the same cage. The presented values are the mean $\\pm$ smd for six independent groups of three mice of the log-transformed ratio of total mutator population in the cage/total wild-type population in the cage. The inoculated bacteria either had never been in the gut (ancestral) (▫) or had previously been grown for 400 days $( \\bullet )$ in separate mice. 1:1 competition between ancestral bacteria colonizing six independent mice housed in individual cages (isolated population) $( \\bullet )$ as in (A). ",
+        "bbox": [
+            75,
+            824,
+            635,
+            949
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "However, after 2 weeks, the population sizes were indistinguishable (Fig. 1B). Once the most beneficial adaptive mutations have been generated, the advantage conferred by the mutator phenotype seems to have disappeared. To test this hypothesis, a competition experiment was performed between mutS1 and $m u t S ^ { - }$ bacteria, which had both previously been grown for 400 days in individual isogenic mice and were expected to carry most of predominant adaptive mutations. The considerable advantage conferred by the mutator allele, observed in competitions between bacteria that had spent 1 day (Fig. 2C) or less (Fig. 2A) in separate mice, was clearly reduced. The adaptive mutations had already been acquired in both populations during their 400 days of separate evolution in a gut. ",
+        "bbox": [
+            367,
+            353,
+            635,
+            406
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            658,
+            88,
+            928,
+            272
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Clearly the cost of deleterious mutations is not sufficient to prevent the short-term success of mutator bacteria, as long as adaptive mutations are generated. In vitro experiments and our unpublished computer simulation (18) have shown that, in addition to rare adaptive mutations, mutator bacteria rapidly accumulate numerous detrimental mutations. Many of the mutations accumulated may not affect growth in the gut but may reduce mutator bacteria fitness in secondary environments. In nature, the primary environment for $E$ . coli is the intestine; its secondary environments are soil and water, where nutrients are generally scarcer (19). Hence, $E$ . coli clones isolated from the mice were tested for prototrophy. In mice inoculated with $m u t S ^ { - }$ ancestors, the proportion of auxotrophs increased with time and eventually reached $2 5 \\%$ of the dominant population after 400 days (Fig. 3). In mice inoculated with $m u t S ^ { + }$ ancestors, the proportion of auxotrophs also increased, but only reached a maximum of $5 \\%$ . Ninety percent of these auxotroph bacteria could be attributed to mutator subpopulations that had spontaneously emerged in some mice (Fig. 3). It appears that during intestinal colonization mutator bacteria lose robustness because of the accumulation of neutral mutations (20) that become deleterious in secondary environments. This may explain why mutator bacteria do not represent a larger fraction of natural isolates $( \\boldsymbol { I } , \\boldsymbol { 2 } )$ . ",
+        "bbox": [
+            658,
+            273,
+            926,
+            511
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/aba115e724719e14206005eef62f8257edc2e3a44d24ccf4063104ad8b4f15ee.jpg",
+        "image_caption": [
+            "Fig. 3: Mutator clones accumulate deleterious mutations. Germ-free mice were inoculated either with a mutator (mutS– ) or a wild-type $( m u t S ^ { + } )$ strain. At different times for each ancestral genotype, 50 clones per mouse were tested for growth on minimum glucose medium $( M M g )$ . The mean percentage of auxotrophs is the percentage of clones that showed no growth on ${ \\mathsf { M M g } } .$ . For the clones derived from a $\\bar { m } u t S ^ { - }$ ancestor, results are presented in gray columns. For the ${ \\mathsf { M M g } }$ nongrowing clones of the $m u t S ^ { + }$ series, the frequency of spontaneously occurring rifampicin-resistant mutants was measured in three independent cultures (13). The black part of the columns represents the fraction of auxotrophs with an ancestral wild-type mutation frequency. The white part of the columns represents the fraction of auxotrophs with a median frequency of rifampicinresistant variants at least 20-fold over the wildtype ancestor (emerging mutator clones). On days 150 and 220, the mean percentage of auxotrophs was not tested (nt) in the descendants of mutS1 and mutS– strains, respectively. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            658,
+            536,
+            926,
+            667
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            88,
+            344,
+            299
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To assess the relative importance of mutator-associated costs and benefits when bacteria experience both primary and secondary environments, we inoculated two mice: one with wild-type, the other one with mutator bacteria. Both were placed in the same cage with a third, initially germ-free, mouse. By summing the populations of mutator and wild-type strains subsequently colonizing the three mice (metapopulation), we monitored the combined effects on population sizes of competition in the gut and migration of bacteria between mice. In contrast to 1:1 competition, the competitive advantage of the mutator allele was not detectable in these metapopulations (Fig. 2D). When the same metapopulation experiment was done with mice inoculated with populations previously grown for 400 days in separate mice, the mutator metapopulation remained lower than the wild type (Fig. 2D), showing the prevailing effect of the costs associated with a mutator allele once the adaptive mutations have been acquired. ",
+        "bbox": [
+            76,
+            301,
+            344,
+            617
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "count for the observation that some natural bacterial isolates, such as those of Pseudomonas aeruginosa found in the lungs of cystic fibrosis patients, have a strong mutator phenotype. It may also inspire studies on emerging pathogenicity and drug resistance in microorganisms (2, 4, 21, 22), as well as assisting studies on the somatic evolution of malignant mutator tumor cells (23). ",
+        "bbox": [
+            367,
+            88,
+            635,
+            207
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "References and Notes ",
+        "text_level": 1,
+        "bbox": [
+            385,
+            224,
+            514,
+            234
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. I. Matic et al., Science 277, 1833 (1997).   \n2. J. E. LeClerc, B. Li, W. L. Payne, T. A. Cebula, Science 274, 1208 (1996).   \n3. M. D. Gross, E. C. Siegel, Mutat. Res. 91, 107 (1981).   \n4. A. Oliver, R. Canto´n, P. Campo, F. Baquero, J. Bla´zquez, Science 288, 1251 (2000).   \n5. L. Chao, E. C. Cox, Evolution 37, 125 (1983).   \n6. E. F. Mao, L. Lane, J. Lee, J. H. Miller, J. Bacteriol. 179, 417 (1997).   \n7. P. D. Sniegowski, P. J. Gerrish, R. E. Lenski, Nature 387, 703 (1997).   \n8. W. Tro¨bner, R. Piechocki, Mol. Gen. Genet. 198, 175 (1984).   \n9. F. Taddei et al., Nature 387, 700 (1997).   \n10. O. Tenaillon, B. Toupance, H. Le Nagard, F. Taddei, B. Godelle, Genetics 152, 485 (1999).   \n11. M. Radman, I. Matic, J. A. Halliday, F. Taddei, Philos. Trans. R. Soc. Lond. B 347, 97 (1995).   \n12. B. Picard et al., Infect. Immun. 69, 9 (2001).   \n13. Supplemental text describing detailed methods and results, Web figures 1 through 4, and Web table 1 are available at Science Online at www.sciencemag.org/ cgi/content/full/291/5513/2606/DC1.   \n14. Given that rifampicin-resistant mutants are not selected for in the mouse gut, their frequency is an indicator of the overall population mutation rate (13).   \n15. The mutation rate of a clone from mouse m2 (Fig. 1) transformed with a plasmid carrying the mutH wildtype allele was reduced to its wild-type ancestor level. The mutation rate of a clone from mouse m1 (Fig. 1) was reduced to its wild-type ancestor level when transformed with a plasmid carrying mutS or mutH wild-type alleles. Results of the complementation are available at (13).   \n16. Switching the antibiotic resistance markers had no effect on competition. Detailed description of the strain construction is available at (13).   \n17. J. Arjan et al., Science 283, 404 (1999).   \n18. The fixation of neutral or deleterious mutations in populations with a high mutation rate undergoing strong bottlenecks is known as Muller’s ratchet [H. Muller, Mutat. Res. 1, 2 (1964); P. Funchain, et al., Genetics 154, 959 (2000)]. To model our experimental conditions, the accumulation of neutral mutations in large populations subjected to directional selection was simulated on the basis of the model published by Tenaillon et al. (10). Even if the increase in the frequency of selective sweeps in mutator populations depended on the strength of selection, neutral mutations always accumulated 100-fold faster than in nonmutator populations (data not shown).   \n19. D. L. Hartl, D. E. Dykhuizen, Annu. Rev. Genet. 18, 31 (1984).   \n20. Different types of auxotrophs were isolated both between and within mice, thus suggesting that these mutations were not adaptive. See (13).   \n21. C. Bucci et al., Mol. Cell 3, 435 (1999).   \n22. M. A. Wainberg et al., Science 271, 1282 (1996).   \n23. L. A. Loeb, Adv. Cancer Res. 72, 25 (1998).   \n24. We are grateful to J. P. Coutanceau, A. M. Cirinesi, and C. Dohet for their technical help; F. Marcille for her constructive discussion; and D. Bre´geon, L. Le Chat, V. Colot, M. S. Fox, E. C. Friedberg, B. Godelle, A. Gomez, E. Stewart, and M. Vulic for comments on the manuscript. Funded by the Ligue contre le cancer, the Association de la Recherche contre le Cancer, the Programme Environnement et Sante´ (MATE), the Fondation pour la recherche Me´dicale, and the Programme de Recherche Fondamentale en Microbiologie et Maladies Infectieuses et Parasitaires (MENRT ). ",
+        "bbox": [
+            369,
+            234,
+            637,
+            530
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            656,
+            90,
+            928,
+            513
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "9 October 2000; accepted 2 February 2001 ",
+        "bbox": [
+            678,
+            520,
+            883,
+            530
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The mouse model showed that the advantage of mutator bacteria when colonizing new host is due to their capacity to generate adaptive mutations rapidly, allowing them to exploit the ecosystem resources more quickly than wild-type bacteria. This advantage is reduced to little or nothing once adaptation is achieved. Moreover, if the mutation rate is not reduced [as observed in some subpopulations (Fig. 1A)], it leads progressively to loss of functions that are dispensable in the current environment but compromise the longterm survival of mutator clones. Our experiments also showed that bacterial migration between hosts is a potent factor in reducing the benefits of enhanced mutation rate and should be taken into consideration for understanding the dynamics of mutator bacteria in natural populations. The heterogeneity of natural environments might be expected to favor variability in mutation rate, as we observed in some bacterial populations colonizing mice (Fig. 1A). This in vivo study shows that important variations of the mutation rate can happen within weeks. These results may ac",
+        "bbox": [
+            76,
+            618,
+            344,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Virus-Assisted Mapping of Neural Inputs to a Feeding Center in the Hypothalamus ",
+        "text_level": 1,
+        "bbox": [
+            437,
+            558,
+            859,
+            646
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jeff DeFalco,1 Mark Tomishima,2 Hongyan Liu,1 Connie Zhao,3 XiaoLi Cai,1 Jamey D. Marth,4,5 Lynn Enquist,2 Jeffrey M. Friedman1,3\\* ",
+        "bbox": [
+            415,
+            651,
+            875,
+            699
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We report the development of a pseudorabies virus that can be used for retrograde tracing from selected neurons. This virus encodes a green fluorescent protein marker and replicates only in neurons that express the Cre recombinase and in neurons in synaptic contact with the originally infected cells. The virus was injected into the arcuate nucleus of mice that express Cre only in those neurons that express neuropeptide Y or the leptin receptor. Sectioning of the brains revealed that these neurons receive inputs from neurons in other regions of the hypothalamus, as well as the amygdala, cortex, and other brain regions. These data suggest that higher cortical centers modulate leptin signaling in the hypothalamus. This method of neural tracing may prove useful in studies of other complex neural circuits. ",
+        "bbox": [
+            406,
+            710,
+            888,
+            856
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The decision to initiate feeding is dependent on a variety of motivational, metabolic, and hormonal factors including the plasma level of leptin (1, 2). Leptin is an adipocytederived hormone whose effects on food intake are mediated through distinct classes of neurons that express the leptin receptor. These neurons are distributed among several hypothalamic nuclei including the arcuate nucleus (ARC) and the ventromedial (VMH), lateral (LH), and dorsomedial (DMH) nuclei (3). Although neurons in these nuclei are ",
+        "bbox": [
+            367,
+            871,
+            635,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            658,
+            871,
+            926,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Costs and Benefits of High Mutation Rates: Adaptive Evolution of Bacteria in the Mouse Gut ",
+        "text_level": 1,
+        "bbox": [
+            297,
+            98,
+            908,
+            130
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Antoine Giraud et al. Science 291, 2606 (2001); DOI: 10.1126/science.1056421 ",
+        "bbox": [
+            295,
+            131,
+            566,
+            176
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This copy is for your personal, non-commercial use only. ",
+        "bbox": [
+            294,
+            223,
+            704,
+            238
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If you wish to distribute this article to others, you can order high-quality copies for your colleagues, clients, or customers by clicking here. ",
+        "bbox": [
+            161,
+            306,
+            823,
+            334
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Permission to republish or repurpose articles or portions of articles can be obtained by following the guidelines here. ",
+        "bbox": [
+            163,
+            342,
+            834,
+            369
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The following resources related to this article are available online at www.sciencemag.org (this information is current as of December 20, 2014 ): ",
+        "text_level": 1,
+        "bbox": [
+            165,
+            385,
+            758,
+            412
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Updated information and services, including high-resolution figures, can be found in the online   \nversion of this article at:   \nhttp://www.sciencemag.org/content/291/5513/2606.full.html ",
+        "bbox": [
+            161,
+            426,
+            870,
+            468
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Supporting Online Material can be found at: http://www.sciencemag.org/content/suppl/2001/03/28/291.5513.2606.DC1.html ",
+        "bbox": [
+            163,
+            476,
+            738,
+            503
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This article cites 19 articles, 8 of which can be accessed free: http://www.sciencemag.org/content/291/5513/2606.full.html#ref-list-1 ",
+        "bbox": [
+            165,
+            511,
+            665,
+            539
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This article has been cited by 159 article(s) on the ISI Web of Science ",
+        "bbox": [
+            165,
+            546,
+            678,
+            561
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This article has been cited by 82 articles hosted by HighWire Press; see: http://www.sciencemag.org/content/291/5513/2606.full.html#related-urls ",
+        "bbox": [
+            163,
+            569,
+            694,
+            597
+        ],
+        "page_idx": 3
+    }
+]

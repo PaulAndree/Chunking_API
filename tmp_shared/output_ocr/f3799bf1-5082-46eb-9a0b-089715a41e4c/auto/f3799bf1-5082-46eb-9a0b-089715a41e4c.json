@@ -1,0 +1,299 @@
+[
+    {
+        "type": "text",
+        "text": "Good to \"hear\" from you. So far so good here! ",
+        "bbox": [
+            119,
+            86,
+            610,
+            107
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I was supposed to finish my summary but got quite busy with nervous tensions (especially Danica) before our own corona testing on Saturday. We only now realize how irresponsible to all of us was our dear Kristian (he found reason enough to go for testing but not to tell us about!!! ) ",
+        "bbox": [
+            117,
+            108,
+            872,
+            216
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "So I got myself involved in thinking about some bizarre aspects of corona epidemiology that now look to me like a kind of \"viral parabiosis\" as an explanation. ",
+        "bbox": [
+            117,
+            217,
+            840,
+            281
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Why mixing of people coming from diverse geographies matters much more than the frequency of viral carriers (that frequency should not change much with tourism - unless corona drives people to travel!? haha) Hypothesis: complementation of non-overlapping deleterious mutants! ",
+        "bbox": [
+            117,
+            284,
+            855,
+            391
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "You see, if I got good information from sequencing, at least one in three new viral genomes acquires a mutation. If they were phenotypically neutral, only ten replication rounds of a single mutation-free corona genome would leave only $3 \\%$ of viral genome copies mutation-free! ",
+        "bbox": [
+            117,
+            393,
+            857,
+            499
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hence, huge \"positive\" effect of MOI (coinfection) is expected, or parabiosis (via TnT for instance) - with phylogenetically distant viruses - would be productive for the virus! ",
+        "bbox": [
+            119,
+            502,
+            813,
+            565
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Can you simulate the copy error rate of about 1/100 000 - and assume that all copies are copied - to see the distribution of the number of new mutations per viral genome in n genome replication rounds? ",
+        "bbox": [
+            117,
+            568,
+            870,
+            632
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It just could be like for those plant viruses carrying different genome fragments that all must get together in the same cell to make the population of fragmented-genome viruses! All genes carried in different viral particles are needed in the same cell... you see what I mean? Without mixing viral phylogenies, the virus would keep losing fitness and degenerate in spite of selection! Therapy? A viral mutagen! ",
+        "bbox": [
+            117,
+            633,
+            873,
+            784
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Let's write a short paper on this! \"No tourism\" corona therapy, haha... - Sequencing underestimates what happens mutation wise, because of selection. ",
+        "bbox": [
+            117,
+            787,
+            877,
+            850
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "- Expts in cell culture - moi effect with monoclonal versus polyclonal origins of infecting viruses!!! ",
+        "bbox": [
+            117,
+            852,
+            872,
+            894
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I cc Katarina but keep this for you if you think it's valuable! ",
+        "bbox": [
+            117,
+            85,
+            761,
+            107
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Let me know. Good night! Miro ",
+        "bbox": [
+            119,
+            127,
+            267,
+            189
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Dear Adam, ",
+        "bbox": [
+            119,
+            219,
+            247,
+            239
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "I have spent with Prosper several hours because, since the beginnings, he read daily most of the available news on corona epidemiology or rather phenomenology. ",
+        "bbox": [
+            119,
+            259,
+            806,
+            323
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conclusion: the model is beautifully simple - it must be true... we could not find a single incoherence but found tons of coherences (no deaths in American prisons with $4 0 – 7 0 \\%$ seropositivity - due to genetically impotent viruses!; China's and Serbia's closing the borders readily brought down the incidence of COVID-19 disease, etc etc). In Split, there was nightlife without corona increase until British and German youth joined in... ",
+        "bbox": [
+            117,
+            325,
+            875,
+            476
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mixing of viral phylogenies, much much more than the frequency of seropositivity, determines the outcome. The fast-emerging viral divergence matters much more than the \"old\" human immunovariations. ",
+        "bbox": [
+            117,
+            479,
+            863,
+            563
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The title of the story is \"Viral parabiosis and the spread of COVID-19 pathologies\". ",
+        "bbox": [
+            121,
+            567,
+            771,
+            607
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "BTW, the rate of mutations per genome is similar in HIV and corona. Such rates help virus in escaping the immunity but lead straight into a mutational catastrophe that is mitigated, temporarily, by complementation groups (viral parabiosis). ",
+        "bbox": [
+            119,
+            609,
+            865,
+            696
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Stopping effective parabiosis by mixing distant viral mutational phylogenies would stop the increase in pathologies and lead to extinction of COVID-19. ",
+        "bbox": [
+            119,
+            715,
+            816,
+            778
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "\\*Prediction: single virus sequencing from single persons should show the specific varietIES of complementing parabiotic viral \"teams\". ",
+        "bbox": [
+            117,
+            782,
+            870,
+            825
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Adam, forget human diversity at this point: what really matters is viral \"lethal sectoring\" (see the term); The Sweedish guys at ",
+        "bbox": [
+            119,
+            844,
+            831,
+            885
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Karolinska were right - just forgot to tightly close the borders (like prisons)! ",
+        "bbox": [
+            117,
+            86,
+            835,
+            128
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "I won't continue now, because I am $9 9 \\%$ sure that this is the gist of the epidemiology of COVID-19. ",
+        "bbox": [
+            117,
+            148,
+            877,
+            190
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Please, see the mutation rates of live coronaviruses (necessarily underestimated by sequencing - frequency, not the rate, of mutations! ",
+        "bbox": [
+            119,
+            192,
+            873,
+            235
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Simulation: ",
+        "bbox": [
+            119,
+            237,
+            247,
+            255
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "For simplicity, first, assume neutrality (no phenotype) of mutations. \\* This (above \\*) should be the source of the diagnostics of the complementing viral \"teams\" (the \"viral parabiomes\")! ",
+        "bbox": [
+            119,
+            259,
+            853,
+            322
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Go Adam go!   \nThis is the winner!   \nHug   \nMiro   \n$\\mathrm { P S } : \\mathrm { I }$ invite you, Katarina and Zoran to join in this adventure - there is no better explanation of all wild varieties of corona phenomenology. ",
+        "bbox": [
+            117,
+            343,
+            882,
+            473
+        ],
+        "page_idx": 2
+    }
+]

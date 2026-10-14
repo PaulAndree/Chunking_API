@@ -1,0 +1,519 @@
+[
+    {
+        "type": "text",
+        "text": "Escherichia coli mutator mutants deficient in methylationinstructed DNA mismatch correction ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            153,
+            788,
+            191
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(pu/am mutH, muL,mut/DNA ran /ih excis epair/hignegativte ",
+        "bbox": [
+            84,
+            197,
+            858,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Barry W. Glickman\\* and Miroslav Radmant ",
+        "bbox": [
+            68,
+            218,
+            462,
+            233
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "nvrs Lr  Bruxelles  Che  Rhode-Gen e ",
+        "bbox": [
+            62,
+            241,
+            842,
+            260
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by Evelyn M. Witkin, October 1, 1979 ",
+        "bbox": [
+            70,
+            268,
+            393,
+            280
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT Our approach to the isolation of DNA mismatch-correction-deficient mutants was based upon the isolation of 2-aminopurine-resistant second-site revertants of Esch erichia coli dam\" mutants. We isolated such second-site revertants which, when separated from the $\\pmb { d a m } ^ { - }$ mutation, have a mutator character of their own. These new mutators all mapped at three known mutator loci, mutH, mutL, and mutS, which exhibit the same mutagenic spectrum as the dam\" mutator: increased levels of base substitution and frameshift mutations. The mutator potencies of double and triple mut mutants suggest that these mutators are involved in the same general mismatch-repair pathway. All these mutations result in a hyper-recombination phenotype, but in four-factor crosses among λ phages, a specific loss of intragenic recombination $( P a m \\breve { 3 } \\times \\mathrm { { \\bf ~ P a m } } \\breve { 8 } 0 )$ was found in mutL and mutS mutants, as would be predicted from the postulated role of mismatch correction in gene conversion and high negative interference phenomena. ",
+        "bbox": [
+            65,
+            299,
+            467,
+            491
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The existence of an excision-repair system acting upon mismatched base pairs in the DNA has been postulated in order to account for gene conversion (1, 2), high negative interference (3), and map expansion phenomena (4) (for review, see ref. 5). The possibility of an involvement of mismatch repair in the suppression of spontaneous mutations was indicated by the discovery that pneumococcus hex\" and Escherichia coli uorE mutants, which are probably deficient in the repair of some mismatched base pairs, appear to be spontaneous mutators as well (6, 7). Furthermore, mismatch repair has been implicated in the avoidance of mutagenesis by 5-bromouracil (5-BrUra) (8). ",
+        "bbox": [
+            62,
+            499,
+            463,
+            646
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "However, the existence of a mismatch repair system to efficiently correct replication errors implies that a strand discrimination mechanism must exist ensuring that the excision of the mismatched base occurs exclusively from the newly synthesized strand. Because DNA methylation is a postreplicative process [i.e., newly synthesized strands are undermethylated (9), it has been suggested that DNA methylation is one possible means of discrimination between old (methylated) and new (undermethylated) strands (10-12). This suggestion is supported by the observation that E. coli dam mutants deficient in general methylation of adenine residues (13)occurring within the $\\mathbf { 5 ^ { \\prime } G }$ -A-T ${ \\bf \\dot { C } } { \\bf 3 ^ { \\prime } }$ sequence (14) are also spontaneous mutators (15). Direct evidence in favor of the above hypothesis was obtained by using transfection assays with heteroduplex λ DNA differing in the degree of methylation and carrying different genetic markers. Furthermore, a role for damdependent methylation in DNA strand discrimination in the elimination of the mutagenic effects of base analogs has been indicated by the sensitivity and hypermutability of E. coli dam\" mutants for the base analogs 2-aminopurine (2APur) and 5-BrUra (11, 12). ",
+        "bbox": [
+            57,
+            648,
+            460,
+            856
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            298,
+            910,
+            348
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Our strategy to isolate mutants defective in adenine-methylation-instructed mismatch correction was based upon the sensitivity of the dam mutants to 2APur (11). Fig. 1 illustrates the underlying hypothesis: relatively closely spaced, newly incorporated 2APur residues (or other mismatched bases) would result in overlapping excision repair tracts if excision occurred in both the parental and newly synthesized strands as postulated for the dam- mutants. Consequently, mutants deficient in mismatch correction (e.g., in endonucleolytic cleavage or exonucleolytic strand degradation) could be expected to restore resistance to 2APur in a dam\" mutant while maintaining the mutator properties associated with the $\\mathbf { D a m ^ { - } }$ phenotype. ",
+        "bbox": [
+            504,
+            349,
+            909,
+            498
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We have found such 2APur-resistant revertants of dam strains which, when separated from the dam mutation, are mutators themselves. They all mapped to the locations of three known mutator loci. We have studied their phenotypes, all of which are consistent with the hypothesized mismatch-correction deficiency of these mutants. These same mutants have been identified by Rydberg (16) by screening for 5BrUra hypermutability. A brief account of our work was presented at the 1978 Cold Spring Harbor Symposium (12). ",
+        "bbox": [
+            502,
+            498,
+            905,
+            609
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            581,
+            620,
+            821,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacterial Strains. The strains of E. coli K-12 used in this study are given in Tables 1 and 3. ",
+        "bbox": [
+            497,
+            638,
+            902,
+            662
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Media and General Methods. The media used were as described earlier (17). Where specified, the plates were supplemented with 2APur from Sigma $( { \\bf 2 0 0 } \\mu { \\bf \\tilde { g } } / { \\bf m l } )$ , L-valine (40 $\\pmb { \\mu } \\mathbf { g } / \\mathbf { m } \\mathrm { l } )$ , nalidixic acid $( 4 0 \\mu \\mathbf { g } / \\mathrm { m l } )$ , rifampicin $( 1 0 0 \\mu \\mathbf { g } / \\mathbf { m l } )$ , or streptomycin $( 1 0 0 \\mu \\mathrm { g / m l } )$ . P1.kc-mediated transductions were carried out as described (17); conjugations were performed as described by Miller (18). ",
+        "bbox": [
+            497,
+            663,
+            902,
+            749
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Phages and Crosses. Phage crosses were performed with λimm434 cI Pam3 Rts and $\\lambda \\bar { c } ^ { + } P a m { 8 0 } R ^ { + }$ constructed by recombination with phages from the collection of R. Thomas (University of Brussels). Bacteria were grown in enriched medium to a concentration of $3 \\times 1 0 ^ { 8 }$ cells per ml, centrifuged, and resuspended in $1 0 \\mathrm { m M } \\mathrm { M g } \\mathrm { S O } _ { 4 }$ Infection was carried out at a multiplicity of infection of 5 for each parental type at $3 7 ^ { \\circ } \\mathbf { C }$ for $1 0 \\ \\mathrm { m i n }$ Unadsorbed phage were eliminated by centrifugation through $5 \\%$ $( \\mathbf { v o l } / \\mathbf { v o l } )$ glycerol $/ 1 0 \\mathrm { \\ m M \\ M g { S O _ { 4 } } } .$ Adsorbtion was $9 9 \\%$ or greater in each case. Infected bacteria were allowed to grow for $7 0 \\mathrm { m i n }$ and were then treated with chloroform. After centrifugation to remove bacterial debris, free phage were plated together with the appropriate indicator strains. Phage $\\times$ prophage crosses were performed by superinfecting $( \\bar { \\lambda ^ { + } } )$ lysogens, grown as above, with λimm434 cI Ram216 red- int at a multiplicity of infection of 5 and terminating the cross as described for phage crosses, The frequency of λimm434 $R ^ { + }$ recombinants was determined by plating the lysate on KMBL 241 $( \\lambda ~ c I 8 5 7 ~ r e d ^ { - } { R a m 5 } ) ~ s u I I ^ { + }$ and N100 $( \\dot { \\lambda } c l { \\bf } { \\bf } { \\bf } 8 5 7 r e d ^ { - } R a m { \\bf } 5 $ $\\bullet u ^ { - }$ at ${ \\mathfrak { 3 2 } } ^ { \\circ } \\mathbf { C } .$ . ",
+        "bbox": [
+            495,
+            750,
+            899,
+            847
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/0707cdbff2b8e1da29fcb8eef9b7baac236553d0d0151adda13c44ba7da89593.jpg",
+        "image_caption": [
+            "G. mismatched sites; wavy lines parallel to the DNA strand indicate the ${ \\bf 5 ^ { \\prime } }  { \\bf 3 ^ { \\prime } }$ direction of the excision repair tract (10). The wavy portion of the molecule shown as C. dam: situation: $( X )$ Endonuclease/exonuclease can act on both the newly synthesized and the parental DNA strands would reverse many, perhaps all, of the dam-specific effects, except for the mutator effect. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            226,
+            97,
+            816,
+            326
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            92,
+            488,
+            495,
+            639
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Calculation of Mutation Rate. Mutation rates, expressed as mutations per cell per generation, were calculated as described earlier (11) by the method of Stahl (19). Fluctuation was usual with the mutation rates seen for NalR, $\\mathbf { V a l ^ { R } }$ , and RifR so that only differences of a factor of 2 or more can be considered significant. ",
+        "bbox": [
+            90,
+            640,
+            494,
+            678
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/24ef9a4fe42edbebfd3292874cdbff74d736972afce14402d1c72ee46194d71d.jpg",
+        "table_caption": [
+            "Table 1. Strains of E. coli K-12 used "
+        ],
+        "table_footnote": [
+            "\\* Received from E. Siegel as ES 455. † Received from E. Nestman as RH 213. "
+        ],
+        "bbox": [
+            85,
+            708,
+            489,
+            901
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            532,
+            488,
+            939,
+            526
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            618,
+            536,
+            852,
+            550
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genetic Characterization of Second-Site 2APur-Resistant Revertants of dam\" Strains. The 32 independent derivatives of dam strains resistant to $2 0 0 \\mu \\mathbf { g }$ of 2APur per ml obtained in KMBL 3701 and KMBL 3702 were all shown to be secondsite revertants by the recovery of 2APur-sensitive dam -aroB+ transductants of KMBL 3751. In addition, all 2APur-resistant dam\" derivatives showed spontaneous mutation rates towards streptomycin and nalidixic acid resistance higher than the original dam\" strain (data not shown). ",
+        "bbox": [
+            532,
+            555,
+            937,
+            668
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To localize these second-site mutations, bacteriophage Pl grown on these strains was used to transduce KMBL 3751 to ${ \\mathfrak { p } } u r A ^ { + }$ and $t h y A ^ { + } - l y s A ^ { + }$ to check for the presence of the known mutators mutL and mutH, which cotransduce with these markers (20). Eight revertants were found to have mutator mutations $100 \\%$ cotransducible with thyA-lysA and therefore likely to be mut H (21); 13 were found to be tightly linked with purA and therefore presumably mutL mutations. The 11 unmapped mutators were then localized by conjugation with KMBL 3731 $( d a m ^ { - } )$ to mutS. From the transductions which are summarized in Table 2 it can be concluded that the introduction of these mutator mutations into a dam\" strain does indeed result in 2APur resistance. Although a wild-type strain grows normally in the presence of $\\mathbf { l } \\mathbf { m } \\mathbf { g }$ of 2APur per ml in agar, the limiting concentrations allowing colony formation of dam, dam\\~ mut\\~, and mut\\~ strains are about 10, 400, and 750 $\\mu \\mathbf { g } / \\mathbf { m l } ,$ respectively. ",
+        "bbox": [
+            529,
+            669,
+            932,
+            806
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/a32cf0d89810ff8e1f1aaad78a7f4c25d36ddb6c53083547f6a24730eb7d84c7.jpg",
+        "table_caption": [
+            "Table 2. Acquirement of 2APur resistance by introduction of known mutator mutations into dam\\~ strain KMBL 3752 "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            526,
+            841,
+            931,
+            926
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            92,
+            473,
+            168
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mutation Rates in Multiple Mutator Mutants. We examined the spontaneous mutation rates of a series of otherwise isogenic strains carrying mutations mutH, mutL, and mutS (Table 3). It appears that mut H101 and mutL101 are stronger mutators for these markers than mutS101 (Table 3). The presence of the dam-3 mutation in the MutH, MutL, or MutS strains did not clearly affect the mutator activities of the more powerful mutators mut H and mutL; nor was there a great alteration in mutation rates in strains carrying multiple mutator mutations in either the presence or absence of the dammutation. Although additive mutator effects cannot be excluded, these results, and the fact that the mutH, mutL, mutS, and dam\" mutations result in the same mutational spectrum [i.e., increased transition and frameshift mutagenesis (20, 22)], are interpreted to mean that mut H, mutL, mutS, and dam are involved in the same error-avoidance mechanism. However, the significance of the apparent reduction of the mutation rates in some mut combinations cannot be ascertained. ",
+        "bbox": [
+            70,
+            168,
+            472,
+            392
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The possible involvement of uorE $( m u t U )$ in the hypothesized error-avoidance pathway is indicated by the failure of uorE mutants to correct some heteroduplex phage λ DNA (7). We transduced the uorE504 mutation into mut H, mutL, mutS, and dam\" strains. Its introduction into a dam\" strain did not result in 2APur resistance, nor were 2APur-resistant dam mut strains sensitized to 2APur by the introduction of the uorE mutation. The uorE mutation, itself a mutator, did not enhance the mutation rates in strains carrying the mut H, mutL, or mutS mutations (Table 3), suggesting that the uorE mutation may affect the same error-avoidance pathway. This is especially likely because uorE also shares the same mutational specificity as the mutH, mutL, mutS, and dam mutations (20, 22). ",
+        "bbox": [
+            65,
+            392,
+            467,
+            516
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            92,
+            915,
+            130
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We realize that the additivity of mutator effects cannot be ascertained from the data in Table 3; therefore, a forthcoming comparative analysis of the mutational spectra in single and multiple mutants should be more informative about single versus multiple pathways. At present, we have no explanation for the observation (Table 3 and data not shown) that the combination dam uorE results in a lower mutation rate than found for either dam\\~ or uorE alone. ",
+        "bbox": [
+            510,
+            131,
+            914,
+            229
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Restored Viability of dam recA Mutants by Addition of a mutH, mutL, or mutS Mutation. The lethality of the dam recA double mutant (15) may reflect a requirement for the recA gene to repair double-strand breaks hypothesized in Fig. 1. Hence, an additional deficiency in mismatch correction should prevent the occurrence of the double-strand breaks and alleviate the need for the recA gene in the maintenance of viability in a dam\\~ background. We constructed KMBL 3854, a dam-3 strain carrying the temperature-sensitive mutation recA200, and found that, as predicted, the introduction of mut H, mutL, or mutS mutations into this strain restored colony-forming ability on nutrient agar plates at the restrictive temperature. ",
+        "bbox": [
+            507,
+            230,
+            912,
+            379
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Hyper-Recombination Phenotype of dam, mutH, mutL, and mutS Mutants. In crosses between the wild-type prophage $\\lambda$ residing in KMBL 3752, KMBL 3754 (dam-3), KMBL 3755 (dam-3 mutH101), KMBL 3760 (dam-3 mutL101), and KMBL 3767 (dam-3, mutS101) and the superinfecting phage $\\lambda$ imm434 cI Ram216 red int\\~, marker rescue of the $\\bar { R } ^ { + }$ allele from the $\\lambda ^ { + }$ prophage was measured (see Materials and Methods). The average frequencies of $\\lambda$ imm434 $R ^ { + }$ recombinants were 0.004, 0.011, 0.4, 0.48, and 0.068 for the wild-type, dam\\~, dam\\~ mutH, dam\\~ mutL, and dam\\~ mutS strains, respectively. The moderate hyper-Rec phenotype of the dam mutant confirms other reports (23). A moderate hyper-Rec phenotype of mutH, mutL, and mutS mutants were also detected in Hfr crosses by S. Feinstein and B. Low (personal communication). The presence of mutH, mutL, and mutS mutations in a dam \" background not only does not suppress the hyper-Rec phenotype of the dam\" mutation, but leads to a strong hyper-Rec phenotype in our crosses, suggesting that unrepaired mismatched base pairs may initiate recombinational exchanges. ",
+        "bbox": [
+            504,
+            380,
+            909,
+            516
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/6ce8b133c26983a3cb21dbfa1bf1626de648d49a9e69219eec19993382c2de63.jpg",
+        "table_caption": [
+            "Table 3. Spontaneous mutation rates of $E$ coli derivatives carrying various combinations of dam, mutH, mutL, mutS, and uurE mutations "
+        ],
+        "table_footnote": [
+            "The rains stearedeivativ KMBL 75;the vrius markrs weretruced b ediateanucns. The mutations $d a m ^ { - }$ m, , an ur we ud by len  ro, p $c y s C ^ { + }$ ,and $m e t E ^ { + }$ transmultaneous selection of $t h y A ^ { + }$ h    o l having more than 5 times the mean number of mutants. "
+        ],
+        "bbox": [
+            117,
+            549,
+            847,
+            844
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ecba7ce4cd9c0d3da45ebdd9cfe82dec8c691db763f327e9daa3d052899dc4f5.jpg",
+        "image_caption": [
+            "FIG. 2. Arrangement of markers in the bacteriophage λ crosses described in Table 4. Pam3 and Pam80 are two intragenic markers probably separated by only a few hundred nucleotides, whereas cI and Rts2 are flanking markers. Marker distances are not proportional to physical distance (i.e., $c I { - } P$ and $P { - } R$ gene distances are roughly 2000 and 8000 nucleotides, respectively). Note that the immunity regions are nonhomologous. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            95,
+            93,
+            494,
+            179
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            92,
+            271,
+            494,
+            385
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Recombination Between Close and Well-Separated Markers in Mutator Mutants: λ cI Pam3 $\\pmb { R t s 2 } \\times$ λimm434 $C ^ { + }$ Pam80 $\\pmb { R } ^ { + }$ Crosses. Intragenic recombination in eukaryotes is often refered to as \"gene conversion\" because the majority of recombinants between two or more closely spaced markers are produced not by crossing over between the markers, but by the formation of hybrid·DNA involving one or more markers (molecular heterozygosity) followed by mismatch correction events in such heteroduplex regions which create a variety of recombinant genomes (ref. 3; for a review, see ref. 5). An excess of recombinants between tightly linked markers in the neighborhood of a selected event is called \"negative interference\" and has been extensively studied in bacteriophage λ (3, 24). Because recombination in a $\\gamma e c ^ { + } E$ . coli between well-separated markers in phage $\\lambda$ is usually due to reciprocal exchanges (25), one would predict that mismatch-correction-deficient mutants should decrease the frequency of intragenic recombination with little effect upon recombination between well-separated markers. ",
+        "bbox": [
+            87,
+            386,
+            490,
+            624
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fig. 2 shows the order and relative distances of the two closely linked markers Pam3 and Pam80 (24) and the two well-separated \"outside\" markers cI (clear plaque morphology) and Rts2 (temperature-sensitive plaque formation). Because the $\\lambda P$ gene is required for λ DNA replication and our E. coli hosts carry no suppressors of amber mutations, the crosses were performed under nonreplicative conditions where only recombined oligomeric λ DNAs are maturable. ",
+        "bbox": [
+            82,
+            624,
+            485,
+            725
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Of the mutator mutants, mutL and mutS decreased intra genic recombination (see Table 4, column A) without any sig. nificant effect on intergenic recombination (Table 4, columr B). mutH, however, consistently resulted in a very high frequency of $P ^ { + }$ recombinants, for which we have no satisfying interpretation. Despite the hyper-Rec phenotype of all three mutators, enhanced recombination was not detected in these crosses (see column B), perhaps because our phages carry an intact autonomous recombination system $( \\mathbf { R e d } ^ { + } )$ The $P ^ { + }$ recombinants arising in the mutS and mutL strains, if not due to mismatch correction, must represent either real crossovers between am3 and am80 or the termination of single-strand assimilation between the two markers during heteroduplex formation. The occurrence of crossovers between these markers should increase the proportion of $c ^ { + }$ phage among the $P ^ { + }$ progeny (see Fig. 2). Only mutS, which was most efficient in suppressing $P ^ { + }$ recombinants, exhibited an increase in the $c ^ { + } / c I$ ratio (Table 4, column F). The two other mutators gave the same quite high $c _ { . } ^ { + } / c I$ ratios as the wild-type (compare columns E and $\\mathbf { F }$ of Table 4), indicating a bias in the formation of $P ^ { + }$ recombinants (i.e., the λ imm434 $c ^ { + }$ genome is more susceptible to $P ^ { + }$ conversion events than is the λ cI genome). Similar to observations made in eukaryotic organisms (for review, see ref 5), the occurrence of a gene conversion event is often accompanied by crossovers of outside markers, in our case from about $7 \\%$ without selection (column B of Table 4) to around $30 \\%$ among the selected $P ^ { + }$ progeny (column C). We understand neither the quantitative differences between the mutators mutL and mutS in the suppression of Pam + recomoinants, nor the opposite (hyper-Rec) effect of mutH. The juantitative differences between the results shown in Table 4 ind the related published experiments (11) could, however, be explained by the acquisition of a recombinational hot spot luring construction of $\\lambda$ cI Pam3 Rts2 phage. ",
+        "bbox": [
+            532,
+            93,
+            936,
+            523
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Further Discussion. We envision three simple possibilities. (i) The mutH, mutL, mutS, and uorE genes might code for mismatch-repair enzymes of different recognition specificities. $( \\pmb { i } \\pmb { i } )$ All four genes might code for different subunits of a complex multimeric mismatch-correction enzyme. Mutations in the different subunits could show quantitative but not qualitative differences. (iii) Some of these mutator genes might be regulatory whereas others might be structural genes. The latter two possibilities could account for the fact that the properties of the multiple mutants indicate a single error-avoidance pathway (Table 3) and that all four mutators appear to have similar mutagenic specificities (20, 22). ",
+        "bbox": [
+            524,
+            524,
+            929,
+            675
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The evidence supporting the hypothesis of methylationinstructed mismatch correction (1012) is the following: (i) The dam\" mutation increased spontaneous mutagenesis and caused hypermutability to base analogs (11, 15). (ii) The transfection of E. coli wild-type strains with phage λ heteroduplex DNA with only one of the DNA strands methylated resulted in the preferential loss of genetic markers carried by the nonmethylated strand,‡ whereas such methylation-instructed strand discrimination is absent in our mutH101, mutLl01, and mutS101 strains. § These results cannot be accounted for by the preferential replication of the methylated DNA strands because the proliferative potential of the methylated and nonmethylated DNA was found to be equal. (iii) The loss of mismatch correction can also be inferred from the data on recombination of closely spaced markers in phage λ crosses (Table 4 and ref. 11). (iv) Finally, similar or identical mutational specificity is exhibited by the mutH, mutL, mutS, and dam\" mutants (20, 22). These points, together with other results (refs. 1012 and 22, and this work), are consistent with the existence of a methylation-instructed mismatch repair pathway acting as a postreplicative mutation-avoidance system. Insights into the intricacies of such a system, however, must await the biochemical characterization of the mismatch-repair enzymes. ",
+        "bbox": [
+            522,
+            675,
+            927,
+            725
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/eb28ea8d2f64430a9089f16c2740db371da11e2cbdd5c2b4500d7df24c667471.jpg",
+        "table_caption": [
+            "Table 4. Recombination between close and well-separated markers: λcI Pam3 Rts2 X λimm434c+ Pam80 R+ crosses in mutator strains "
+        ],
+        "table_footnote": [
+            "Column A: phage titer on $5 9 4 \\mathrm { S u ^ { - } / C 6 0 0 \\mathrm { S u ^ { + } } }$ (average of platings at $3 2 ^ { \\circ }$ and $\\mathbf { 4 2 ^ { \\circ } C }$ Column B: clear-plaque titer on C600 $\\mathrm { { \\ s u ^ { + } } }$ at $\\scriptstyle 4 2 ^ { \\circ } \\mathbf { C } ,$ /total titer on C600 at $\\bf { 3 2 ^ { \\circ } C }$ (crossover frequency in an unselected population). Column C: clear-plaque titer on ${ \\bf 5 9 4 ~ S u ^ { - } }$ at ${ \\bf 4 2 ^ { \\circ } C } .$ /total titer on ${ \\bf 5 9 4 ~ S u ^ { - } }$ at $\\bf { 3 2 ^ { \\circ } C }$ (crossover frequency among $a m ^ { + }$ phage). Column E: ratio of turbid to clear plaques on $\\mathbf { C 6 0 0 8 u ^ { + } }$ at $\\bf { 3 2 ^ { \\circ } C }$ Column F: ratio of turbid to clear plaques on ${ \\bf 5 9 4 ~ S u ^ { - } }$ at $\\bf { 3 2 ^ { \\circ } C }$ b "
+        ],
+        "bbox": [
+            137,
+            762,
+            867,
+            881
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            91,
+            473,
+            322
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "If only the five genes considered in this report determined the general characteristics of postreplicative mismatch correction, then the strongest of these mutators or their combination should give an order-of-magnitude estimate of the fidelity of the E. coli replication machinery. The mutators mut H and mutL increase the spontaneous mutation rate in a forwardmutation system by $1 0 ^ { 3 } \\cdot$ to ${ \\bf 1 0 ^ { 4 } }$ -fold. Taking as a rough estimate an error rate of $\\dot { 1 0 } ^ { - 9 }$ per nucleotide replicated (20), we can estimate the in vivo replication fidelity in E. coli as $1 0 ^ { - 5 } – 1 0 ^ { - 6 }$ mistakes per nucleotide per replication. This corresponds to the minimal error rates of DNA polymerase assayed in vitro with artificial homopolymers, alternating polymers, or primed single-stranded $\\phi \\bar { \\bf X } 1 \\dot { 7 } 4$ DNA as templates (26). ",
+        "bbox": [
+            63,
+            322,
+            468,
+            478
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We thank Mr. N. Guijt (Leiden) and Ms. Z. Toman and Ms. C. Dohet (Brussels) for their assistence with the research. This work was supported by EURATOM Contract BION 194-76 and Koningin Wilhelmina Fonds MG69.78 to B.W.G. and by EURATOM Contract 224 BIOB and an agreement between the Belgian Government and the Université Libre de Bruxelles \"Actions de Recherches Concertées\" to M.R. and to Prof. M. Errera. ",
+        "bbox": [
+            62,
+            481,
+            462,
+            557
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "1. Holliday, R. (1964) Genet. Res. 5, 282304. 2. Whitehouse, H. L. K. & Hastings, P. J. (1965) Genet. Res. 6, 27-92. 3. White, R. & M. Fox (1974) Mol. Gen. Genet. 141, 163171. 4. Fincham, J. R. S. & Holliday, R. (1970) Mol. Gen. Genet. 109, 307322. 5. Radding, C. M. (1978) Annu. Reo. Biochem. 47, 847880. 6. Tiraby, J. G. & Fox, M. S. (1973) Proc. Natl. Acad. Sci. USA 70, 35413545. 7. Nevers, P. & Spatz, H. (1975) Mol. Gen. Genet. 139, 133143. 8. Rydberg, B. (1977) Mol. Gen. Genet. 152, 1928. 9. Marinus, M. G. (1976) J. Bacteriol. 128, 853854.   \n10. Wagner, R., Jr. & Meselson, M. (1976) Proc. Natl. Acad. Sci. USA 73, 41354139.   \n11. Glickman, B. W., van den Elsen, P. & Radman, M. (1978) Mol. Gen. Genet. 163, 307312.   \n12. Radman, M., Villani, G., Boiteux, S., Kinsella, A. R., Glickman, B. W. & Spadari, S. (1979) Cold Spring Harbor Symp. Quant. Biol. 43, 937946.   \n13. Marinus, M. G. (1973) Mol. Gen. Genet. 127, 4755.   \n14. Lacks, S. & Greenberg, B. (1977) J. Mol. Biol. 114, 153168.   \n15. Marinus, M. G. & Morris, N. R. (1975) Mutat. Res. 28, 1526.   \n16. Rydberg, B. (1978) Mutat. Res. 52, 1124.   \n17. Glickman, B. W., Guijt, N. & Morand, P. (1977) Mol. Gen. Genet. 157, 8389.   \n18. Miller, J. H. (1972) Experiments in Molecular Genetics (Cold Spring Harbor Laboratory, Cold Spring Harbor, NY).   \n19. Stahl, F. W. (1969) The Mechanisms of Inheritance (Prentice Hall, Engelwood Cliffs, NJ), Ed. 2.   \n20. Cox, E. C. (1976) Annu. Rev. Genet. 10, 135156.   \n21. Nestman, E. R. (1978) Mutat. Res. 49, 421423.   \n22. Glickman, B. W. (1979) Mutat. Res. 61, 153162.   \n23. Bale, A. d'Alarcao, M. & Marinus, M. G. (1979) Mutat. Res. 59, 157165.   \n24. Amati, P. & Meselson, M. (1965) Genetics 51, 369379.   \n25. Sarathy, V. & Meselson, M. (1976) Proc. Natl. Acad. Sci. USA 73, 35413545.   \n26. Aal, S. S. Duke, D.K. & Loeb, L.A. 1979) J. BiolChem. , 101-106. ",
+        "bbox": [
+            504,
+            90,
+            910,
+            561
+        ],
+        "page_idx": 4
+    }
+]

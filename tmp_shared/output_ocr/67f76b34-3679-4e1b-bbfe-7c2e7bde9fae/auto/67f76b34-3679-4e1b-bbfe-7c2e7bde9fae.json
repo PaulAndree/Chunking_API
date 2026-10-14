@@ -1,0 +1,818 @@
+[
+    {
+        "type": "text",
+        "text": "The High Fidelity of DNA Duplication ",
+        "text_level": 1,
+        "bbox": [
+            171,
+            32,
+            819,
+            151
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Generation after generation, through countless cell divisions, the genetic heritage of living things is scrupulously preserved in DNA. Why are so few mistakes made when the DNA is copied? ",
+        "bbox": [
+            72,
+            156,
+            920,
+            231
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "by Miroslav Radman and Robert Wagner ",
+        "bbox": [
+            322,
+            262,
+            664,
+            278
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "tale of uncertain origin has it that Caesar, intending to grant amnesty to one of his army officers, issued the order \"Execute not, liberate.\" His message, however, was passed along with one small mistake: the comma was misplaced. The message the officer's guards received read \"Execute, not liberate\" and the unfortunate man lost his life. ",
+        "bbox": [
+            64,
+            312,
+            338,
+            445
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "All of life depends on the accurate transmission of information. As genetic messages are passed along through generations of dividing cells, even small mistakes can be life-threatening. In human beings the substitution of a single \"letter\" in the genetic message is responsible for such lethal hereditary diseases as sickle-cell anemia and thalassemia. Several common cancers are also associated with a single-letter change. ",
+        "bbox": [
+            64,
+            446,
+            338,
+            604
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To be sure, not every mistake in the ",
+        "bbox": [
+            82,
+            605,
+            338,
+            617
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MIROSLAV RADMAN and ROBERT WAGNER have collaborated on numerous research projects and papers, although their careers have taken radically different paths. Radman is a research director at the National Center for Scientific Research (CNRs) in Paris. He was born in Yugoslavia and received a Ph.D. from the Free University of Brussels in 1969. After 10 years on the faculty at the Free University, he joined the CNRS in 1983. Radman and Wagner met in 1972 at Harvard University, where Radman was a research fellow and Wagner was a graduate student in Matthew S. Meselson's laboratory. Wagner left Harvard to try farming soon after getting his Ph.D. in 1976. Four years later he moved to Brussels to resume his research with Radman. In 1981 he returned to the U.S. and bought a 375-acre farm near the Canadian border in upstate New York, where he now raises purebred Suffolk sheep. Wagner still spends several weeks of the year working with Radman at his laboratory in Paris. ",
+        "bbox": [
+            73,
+            631,
+            331,
+            941
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "transmission of genetic messages is catastrophic; some mistakes make no difference at all, and some can even be beneficial. But for the most part the message must be accurately preserved and transmitted. ",
+        "bbox": [
+            358,
+            312,
+            632,
+            391
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For organisms as complex as human beings, attaining sufficient accuracy is a monumental feat. The set of genetic instructions for humans is roughly three billion letters long. If mistakes were as rare as one in a million, 3,000 mistakes would be made during each duplication of the human genome. Since the genome replicates about a million billion times in the course of building a human being from a single fertilized egg, it is unlikely that the human organism could tolerate such a high rate of error. In fact, the actual rate of mistakes is more like one in 10 billion. How do cells achieve such high fidelity? ",
+        "bbox": [
+            358,
+            392,
+            632,
+            617
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Evidence drawn from many different disciplines has revealed that discrete enzymatic processes cooperate to ensure the hi-fi replication of DNA. It may be that nature has evolved several complementary mechanisms because a single very thorough system would be too time- and energy-consuming. The occasional errors that slip through the hi-fi mechanisms are also significant, since mutations are an important source of the genetic variation that is necessary for adaptive flexibility. ",
+        "bbox": [
+            358,
+            619,
+            632,
+            804
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the cells of all living organisms the genetic message is contained in double-stranded DNA. DNA's structure is marvelously suited to maintaining the integrity of the genetic message. The two strands are complementary, which is to say they carry the same genetic information, in the sense that positive and negative strips of movie film portray the same scene. Like the strips of film, one strand of DNA can be used to reconstruct the other. If one strand is damaged, it can be repaired by removing the damaged region and using the undamaged strand as a template for synthesizing a new strand. Indeed, DNA is routinely replicated by a similar process: the two parent strands are separated at a \"replication fork,\" and each becomes a template for building a new strand [see illustration on page 42]. ",
+        "bbox": [
+            652,
+            310,
+            926,
+            605
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The biochemical \"letters\" that encode information in DNA are four nucleotides, which are distinguished by the bases they contain. The bases are adenine, guanine, thymine and cyto sine, commonly designated A, G, Tand C. The order in which nucleotides occur determines the \"meaning\" of the genetic message. The bases on one strand pair with the bases on the other strand, linking the two strands like rungs on a ladder. The pairing is not random: adenine must pair with thymine, and guanine must pair with cytosine. Hence the complementarity of ",
+        "bbox": [
+            652,
+            605,
+            927,
+            804
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "REPLICATING DNA is subjected to three different \"quality control\" mechanisms, which are represented by the three enzyme complexes (brown) in this schematized drawing. During replication the two strands of the parental double helix are separated so that they can serve as templates for the synthesis of two new DNA strands. The nucleotides (colored pegs) of the new strands should be complementary to the nucleotides of the old ones: blue pairs with purple, and green pairs with yellow. The enzyme complex at the upper left is screening nucleotides for incorporation into the elongating strand. The complex at the right is excising an incorrect nucleotide that has just been added to the strand. The complex at the lower left is repairing a gap where a fragment with a mismatched nucleotide is being cut out. ",
+        "bbox": [
+            360,
+            827,
+            927,
+            951
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d94fb732ddd10a6896e5a4a0bd45bdcf25d2cda389e08ece68e4836470cdb031.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            91,
+            67,
+            996,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6d2586c886d48b672c16c06823cd3f0773293b86e3b9b26d8b692770e3baca54.jpg",
+        "image_caption": [
+            "REPLICATION FORK divides the double-stranded DNA molecule (1) like a zipper (2). Synthesizing enzymes called DNA polymerases (red) attach to the bared parental strands, and synthesis of the two nascent strands (blue) proceeds in opposite direc",
+            "tions (3). The polymerase on one side tags along after the advancing fork. On the other side new polymerases must keep binding close to the fork to synthesize the strand between the fork and the site at which the last polymerase bound (4). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            70,
+            42,
+            936,
+            376
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "base pairs is the basis for the complementarity of DNA strands. ",
+        "bbox": [
+            70,
+            462,
+            344,
+            489
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Errors arising in the course of DNA synthesis can result in noncomplementary base pairs, or mismatches. Other kinds of errors can be introduced by environmental influences. Repair of environmentally inflicted damage to DNA (from chemicals, radiation and so on) has been extensively studied and reviewed [see \"Inducible Repair of DNA,\" by Paul Howard-Flanders; SCIENTIFIC AMERICAN, November, 1981]. This article will concern itself only with those mistakes that arise during DNA replication. When DNA is synthesized in the absence of enzymes, such errors happen about once in every 100 bases. The enzymatic systems discussed here make synthesis 100 million times more accurate than nonenzymatic synthesis. ",
+        "bbox": [
+            72,
+            489,
+            344,
+            753
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "hree enzymatic processes are responsible for the high fidelity of DNA replication. The first proc  \ness is involved in selecting which of   \nthe four nucleotides is added to the   \nnascent strand. The second process   \ninvolves \"proofreading\" the most re  \ncently added nucleotide and expelling   \nit if it is noncomplementary. The third   \nprocess takes place after synthesis   \nand involves correcting errors that es  \ncaped the first two \"editors.\" Because   \nnucleotide selection and proofreading   \nact in concert with the DNA replication ",
+        "bbox": [
+            72,
+            766,
+            345,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "machinery, they are known as erroravoidance mechanisms. The mechanism that operates after synthesis is an error-correction mechanism; it is called mismatch repair. ",
+        "bbox": [
+            363,
+            462,
+            636,
+            528
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The accuracy of replication is due primarily to the effectiveness of nucleotide selection. The selection is mediated by the same enzyme that carries out the polymerization of nucleotides. The enzyme, called DNA polymerase, moves along the DNA template and synthesizes the complementary strand from the cellular pool of nucleotides. The free nucleotides are in the form of triphosphates; that is, they carry a string of three phosphate groups. The nucleotides must be cleaved to monophosphates before they can be added to the new strand. DNA polymerase takes up a nucleotide triphosphate, cleaves it to a monophosphate and adds the latter to the end of the nascent strand. ",
+        "bbox": [
+            363,
+            530,
+            637,
+            780
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nucleotide selection depends on the energetic relations between competing reactions; in other words, it is possible to insert any base opposite any other base, but the correct pairing is the most energetically favorable. Evidence suggests that selection acts both on triphosphate binding and on monophosphate incorporation [see illustration on opposite page]. In the case of triphosphate binding, for instance, results from experiments by Nancy Nossal of the National Institute of Arthritis, Diabetes, and Digestive and Kidney Diseases and by David Korn of the Stanford University School of Medicine have shown that the complex of polymerase, template DNA and nucleotide triphosphate is stablest when the triphosphate is complementary to the template nucleotide. ",
+        "bbox": [
+            365,
+            781,
+            637,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            657,
+            462,
+            929,
+            567
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Selection at the level of monophosphate incorporation is probably more rigorous than the selection that acts on triphosphate binding. A model based on work in our laboratory (which was then at the Free University of Brussels) postulates that most of the nucleotides the polymerase binds make it through the triphosphate screen; that is, they get cleaved to monophosphates and aligned with the template strand. If a nucleotide is indeed complementary, it fits well with the template base and the addition is stabilized. If the nucleotide is noncomplementary, it does not fit as well, the reaction is reversed and the nucleotide is restored to its triphosphate form. An apt metaphorical role for the polymerase would be that of a blind cook, who grabs ingredients at random, tastes each one and decides whether to add it to the soup or put it back on the shelf. ",
+        "bbox": [
+            657,
+            568,
+            929,
+            886
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "At the level of nucleotide selection, noncomplementary nucleotides are incorporated at the rate of about one in 100,000. An error that slips through this process encounters the second mechanism of error avoidance: proofreading. Proofreading is carried out by an enzymatic activity that is either part of or associated with the DNA polymerase. This activity was nicknamed \"proofreading exonuclease\" by Stanford investigators Douglas L. Brutlag and Arthur Kornberg, who discovered it in the early 1970's. The exonuclease is capable of removing both complementary and noncomplementary nucleotides from the terminal of the nascent chain. However, as a rule it only gets the opportunity to act when a nucleotide is noncomplementary. The presence of the mismatched nucleotide greatly inhibits the addition of the next nucleotide, and the pause in the polymerization process gives the exonuclease time to remove the noncomplementary nucleotide. The polymerase then tries again to find a complementary nucleotide for the terminal position. ",
+        "bbox": [
+            657,
+            887,
+            929,
+            953
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            48,
+            344,
+            367
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Under ordinary circumstances the combination of nucleotide selection and proofreading by exonuclease results in an error rate of about one mistake per 10 million base pairs. But both error-avoidance mechanisms can be impaired if the pool of triphosphates that supplies the raw material for synthesis has unequal proportions of the four kinds of nucleotides. In the early $1 9 8 0 ^ { \\cdot } s$ Alan R. Fersht and his colleagues at the Imperial College of Science and Technology in London found that the error rate at a given position on the nascent DNA strand is directly proportional to the concentration of noncomplementary nucleotides as well as to the concentration of the nucleotide that is complementary to the template base next in line. It is not surprising that a high concentration of noncomplementary nucleotides increases the likelihood of creating a mismatch, and a high concentration of the nucleotide complementary to the next base in line would hasten the polymerizing reaction, shortening the time the exonuclease has to act. Hence intracellular nucleotide pools must be delicately balanced. ",
+        "bbox": [
+            70,
+            369,
+            344,
+            766
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ago by Robin Holliday of the Medical Research Council in London. For quite a long time molecular biologists puzzled over how a repair system could distinguish the parental DNA strand from the newly synthesized strand. The distinction seemed necessary if the nonparental member of the mismatch was to be excised and the parental nucleotide preserved. In 1975, during a conference in Scotland, one of us (Radman) was discussing the problem of strand discrimination with Matthew S. Meselson of Harvard University. Meselson speculated, \"If I were the mismatch-repair enzyme, I would look for DNA methylation following replication.\" ",
+        "bbox": [
+            362,
+            48,
+            637,
+            286
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Meselson was referring to the process by which a newly synthesized DNA strand is tagged with methyl groups. In some bacteria a methyl group is attached to adenine in the sequence GATC wherever that sequence occurs. There is a small time lag after synthesis during which the new GATC sequences remain unmethylated. During that period parental and newly synthesized strands differ with respect to the extent of methylation. Meselson thought the mismatch-repair enzymes might operate within that time lag, exploiting the transient difference between young and old strands. ",
+        "bbox": [
+            362,
+            288,
+            637,
+            395
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            657,
+            48,
+            931,
+            154
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In 1976 the two of us met in Meselson's laboratory to test the methylation hypothesis. The results of our experiments suggested that mismatch repair does indeed occur preferentially on unmethylated DNA strands. Between 1980 and 1985 Christiane Dohet in our laboratory in Paris and Meselson's co-workers at Harvard did a series of experiments that confirmed and extended the results of our research. These workers constructed heteroduplexes containing mismatches and introduced them into various Escherichia coli mutants. (A heteroduplex is a DNA molecule in which the two strands do not carry identical information, because of nu",
+        "bbox": [
+            657,
+            156,
+            931,
+            394
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/93c4f910a7239334470e4b9c4ed1fc395d35fd031b48bb02fe35ba6c07e4a9f3.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            362,
+            416,
+            936,
+            754
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "rror-avoidance mechanisms are straightforward enzymatic reactions in which more energetically desirable outcomes prevail over less stable outcomes. Error correction is a little more complicated. In order to correct a mismatch in newly synthesized DNA, the enzymatic machinery must be able to detect and remove a mismatched nucleotide, and to regenerate the correct sequence. ",
+        "bbox": [
+            72,
+            780,
+            345,
+            926
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The phenomenon of mismatch repair was proposed almost 25 years ",
+        "bbox": [
+            72,
+            927,
+            345,
+            954
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "NUCLEOTIDE SELECTION avoids the incorporation of noncomplementary nucleotides in the growing DNA strand. It is mediated by DNA polymerase (brown) that carries out synthesis. Synthesis involves two steps: first the triphosphate nucleotide is cleaved to a monophosphate, and then the monophosphate is added to the end of the new strand. The authors think selection acts on both steps through reversible chemical pathways (double arrows). If the polymerase gets hold of a noncomplementary nucleotide, the nucleotide can be rejected before it forms a bond with the strand. ",
+        "bbox": [
+            365,
+            768,
+            641,
+            953
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "COMPLEMENTARY   \nNUCLEOTIDE PAIRS   \nNUCLEOTIDE   \nTRIPHOSPHATE   \nNUCLEOTIDE 1   \nMONOPHOSPHATE   \nFREE DIPHOSPHATE ",
+        "bbox": [
+            675,
+            769,
+            935,
+            951
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/4f45c4e75291dc5f3d13faef5e3fe6f9c77bc7fed7fea800435611be8881718d.jpg",
+        "image_caption": [
+            ". "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            59,
+            42,
+            936,
+            345
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "cleotide mismatches, deletions, additions or damage.) They found that when one strand of a mismatch-containing heteroduplex is fully methylated, repair occurs exclusively on the unmethylated strand. If all the GATC sequences on both strands are methylated, no repair takes place. ",
+        "bbox": [
+            64,
+            434,
+            336,
+            540
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Later our colleagues Françoise Langle-Rouault and Geneviève MaenhautMichel at the Free University of Brussels showed that the unmethylated GATC sequence that directs mismatch repair can be several thousand base pairs away from the mismatch itself. Furthermore, DNA with no GATC sequences is just as refractory to repair as DNA with fully methylated GATC sequences. The same investigators also found that a break in one chain of the heteroduplex can serve the same function as an unmethylated GATC sequence. ",
+        "bbox": [
+            64,
+            541,
+            338,
+            739
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Langle-Rouault and Maenhaut-Michel discovered that such heteroduplexes can be repaired by a strain of $E _ { \\ast }$ coli called mutH, one of four E. coli mutants known to be deficient in mismatch repair. The three other strains are known as mutL, mutS and mutU. Because of the mismatch-repair deficiency, some of the strains are strong mutators. It turns out that each of them lacks a proteinfunction involved in mismatch repair. The proteins are designated by the same letters as the mutants in which they malfunction. ",
+        "bbox": [
+            64,
+            741,
+            338,
+            926
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Langle-Rouault and Maenhaut-Michel's results suggest that the strand of DNA to be repaired is cut at an unmethylated GATC site, and that the MutH protein is the enzyme that cuts the strand. Their conclusions and those drawn from our earlier in vivo work have recently been confirmed at the Duke University Medical Center by Paul Modrich and his co-workers, who designed an ingenious assay for in vitro mismatch-repair activity. With this assay Modrich and his colleagues have shown that the MutH protein is in fact the cutting enzyme, and he has gone on to characterize the other Mut proteins. MutS protein is known to bind to the mismatch itself; MutL has also been implicated in mismatch recognition, and MutU is an enzyme that unwinds the two strands of a double helix, a step apparently necessary for repair to proceed. Modrich's research also revealed that another protein called single-strand binding protein is required for mismatch repair. This protein, which also takes part in DNA replication, is thought to protect and stabilize unpaired strands so that they remain accessible to the polymerase. ",
+        "bbox": [
+            77,
+            927,
+            336,
+            941
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            356,
+            435,
+            632,
+            820
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "lthough many of the specifics of the E. coli mismatch-repair system still have not been worked   \nout, two models have emerged to ex  \nplain its operation [see illustration on   \nopposite page]. Both models propose   \nthat the MutS protein, and perhaps   \nthe MutL protein, are involved in the ",
+        "bbox": [
+            356,
+            833,
+            632,
+            939
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "recognition of mismatches, and both postulate some means of long-distance communication between the mismatch and nearby unmethylated GATC sequences. In both of the models the MutH protein cleaves the newly synthesized strand at unmethylated GATC sequences, the MutU protein unwinds the strand and the section containing the mismatch is discarded. Single-strand binding protein is thought to protect the exposed template until a DNA polymerase reconstructs a complementary strand that fills the gap. ",
+        "bbox": [
+            652,
+            435,
+            926,
+            634
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The main difference between the two models has to do with the sites of MutH cleavage. One model proposes that cleavage takes place at the two GATC sites flanking the mismatch; the other proposes that cleavage occurs at the mismatch and at one adjacent GATC sequence. The former model also has MutH cleaving after the DNA strands separate, whereas the latter predicts that MutH cleaves before the strands separate. Both theories are currently being tested, but the data amassed so far do not support one over the other. ",
+        "bbox": [
+            652,
+            635,
+            926,
+            833
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Studies completed in the past few years have also revealed something about the kinds of mismatches that are corrected by mismatch repair. In our laboratory and in the laboratory headed by Hans Joachim Fritz at the Max Planck Institute for Biochemistry in Munich the studies focused on $E _ { \\ast }$ coli, groups led by Michel Sicard and Jean-Pierre Claverys of the University of Toulouse and by Sanford A. Lacks of the Brookhaven National Laboratory looked at mismatch repair in pneumococcus bacteria. The studies indicate that all mismatches are not repaired with equal efficiency. Instead, it seems that errors are more likely to be repaired when they do not disrupt the geometric configuration of the double helix. In other words, if a mismatch causes a bulge in the helical structure, it will probably not be detected by the mismatch-repair machinery. Such errors are beyond recall. ",
+        "bbox": [
+            652,
+            835,
+            926,
+            941
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            48,
+            344,
+            261
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Fortunately it appears error-avoidance mechanisms are best at preventing just the kinds of mistakes mismatch repair cannot \"see.\" Some nucleotide pairs are more likely to bulge than others, and nucleotide selection presumably creates fewest of those mismatches that cause the greatest disruption of pairing and stacking in the helix—the very mismatches the mismatch-repair system has trouble recognizing. The proofreading exonuclease also seems to be most proficient in the cases where mismatch repair is most inept. ",
+        "bbox": [
+            70,
+            262,
+            342,
+            315
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            362,
+            48,
+            636,
+            194
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "M ost of what is known about high-fidelity mechanisms of DNA replication comes from experiments with bacteria. To what extent can this knowledge be applied to more complex organisms? Both error-avoidance mechanisms are probably common to almost all organisms, where they would operate in essentially the same way. There is also ample evidence that mismatch repair occurs in yeast, fungi and fruit flies, as well as in frogs and mammals. However, most of the evidence pertains to errors arising not during replication but rather in the course of genetic recombination, in which strands of DNA are swapped between molecules of different parentage [see \"Genetic Recombination,\" by Franklin W. Stahl; SCIENTIFIC AMERICAN, February, 1987]. ",
+        "bbox": [
+            362,
+            207,
+            637,
+            315
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            657,
+            48,
+            931,
+            221
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "One thing seems clear: since GATC sequences are methylated in only a handful of the bacterial species, mismatch repair cannot be directed by the methylation of GATC sequences in most organisms. No methylation has been detected in the chromosomes of ",
+        "bbox": [
+            657,
+            222,
+            931,
+            315
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/c67d6533632dbe37f1f3dcc3bfa8677406f20307997cdedf183db5ba5511e30a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            64,
+            340,
+            942,
+            835
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MISMATCH REPAIR corrects errors after a DNA strand has been synthesized. Two different models have been proposed for the mechanism of repair. In both models, proteins called MutL and MutS interact with the mismatch site $( G - T ) ,$ and a protein called MutH cleaves the newly synthesized strand. The repair apparatus distinguishes the parental strand from the new one by means of the methyl groups (black dots) within the parental GATC sequences. The strands surrounding the mismatch are separated with the help of a protein called MutU, and are stabilized by single-strand binding protein (SSB). The main difference between the two models has to do with where the strand containing the incorrect nucleotide is cleaved: at two flanking GATC sequences (left) or at one GATC sequence and the mismatch itself (right). In each case polymerases synthesize a new segment in place of the excised one, and the corrected strand is eventually methylated like the parental copy. ",
+        "bbox": [
+            70,
+            841,
+            493,
+            942
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            841,
+            935,
+            942
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/2de159b20723853cece0620dfbb259b68eb512c0de3e98cd16bd91d5ed450a64.jpg",
+        "image_caption": [
+            "REPLICATION BEGINS on circular strands of DNA from a bacterial virus. Where the loops form knots, complexes of replication proteins from E. coli (enlarged 50,000 times in this image) are poised to begin copying. The micrograph was made by Jack D. Griffith of the University of North Carolina School of Medicine at Chapel Hill. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            68,
+            50,
+            636,
+            349
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "yeast and fruit flies; in mammalian cells, cytosine is methylated rather than adenine, and the methylation appears to be involved in gene regulation. How then do the cells of higher organisms distinguish the new strands from the old? ",
+        "bbox": [
+            68,
+            438,
+            340,
+            530
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We have suggested two different answers for the question. One rests on the fact that DNA synthesis in higher organisms is initially discontinuous, so that newly synthesized strands contain transient nicks. The nicks distinguish newly synthesized strands from old strands and may provide a starting point for removing the strand containing the mismatch, much as a nick can substitute for the cutting action of the MutH protein in E. coli. The resulting gap can then be filled in by a polymerase. ",
+        "bbox": [
+            68,
+            532,
+            342,
+            715
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "An alternative possibility, suggested by Philip J. Hastings of the University of Alberta as well as by us, is that mismatch repair in higher organisms relies on genetic recombination. The two \"sister chromatids\" issuing from the replication fork have identical nucleotide sequences, and so the strands of one chromatid could become templates for reconstructing the other. In this mechanism the repair system need not distinguish between parental and newly synthesized strands; when a mismatch is encountered, both strands of the double helix could be cleaved. The cleaved strands would interact with the strands in a homologous region of the sister chromatid. ",
+        "bbox": [
+            68,
+            717,
+            342,
+            954
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The intact sister chromatid's strands would then direct the repair of the cleaved strands. ",
+        "bbox": [
+            360,
+            438,
+            632,
+            477
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The results of experiments in our laboratory and the work of Kendric Smith at Stanford indicate that undirected mismatch repair in E. coli can produce double-strand breaks; Jack W. Szostak of the Harvard Medical School and Franklin W. Stahl of the University of Oregon and their colleagues have demonstrated that such breaks can be repaired by recombination. If a similar process occurs in higher organisms, it would explain the spontaneous recombination between the sister chromatids that is often observed in these organisms. One difficulty with this model is that, because mammalian cells contain multiple copies of some DNA sequences, there is a rather high risk that the cut strands will recombine improperly. Perhaps recombinational repair is restricted to the fairly short region immediately behind the replication fork by the DNA-packaging process called chromatinization. ",
+        "bbox": [
+            360,
+            478,
+            634,
+            796
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "It may be that the mismatch-repair enzymes themselves make mistakes, so that increasing the amount of such enzymes or allowing them more time to act would not improve the accuracy of replication. It could also be that mismatch repair is very costly, and that therefore a cell cannot afford to maintain more than a few dozen repair complexes. ",
+        "bbox": [
+            654,
+            54,
+            926,
+            187
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "he accuracy of DNA replication achieved by error-avoidance and error-correction mechanisms is commendable indeed. Yet they could do better. In E. coli, for instance, there are only a few dozen mismatch-repair proteins per cell. Why aren't there more? And why is the time during which mismatch repair must operate, as determined by the rate of methylation, kept so short? ",
+        "bbox": [
+            360,
+            808,
+            634,
+            954
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Errors, it should also be remembered, are not always detrimental to the health of an organism. If Caesar's order had been \"Execute, not liberate,\" a misplaced comma could have saved a life rather than cost it. Under some conditions the future of a population can depend on the ability of the individuals constituting it to mutate and thereby adapt to their surroundings. Edward C. Cox of Princeton University and Reinhard Piechocki of the University of Wittenberg in East Germany have done experiments with $E _ { * }$ coli showing that when growth conditions are harsh, strains that are potent mutators dominate strains having ordinary rates of mutation. Under favorable conditions, however, excessive mutation becomes a burden and the mutator strains lose the race. ",
+        "bbox": [
+            654,
+            186,
+            926,
+            463
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hence the optimal efficiency of error avoidance and error correction depends on the organism and the conditions in which it finds itself. When life is good and easy, change is more a threat than a benefit; when life is hard, sometimes only change can help. As it is in so many other biological systems, the balance between flexibility and precision in DNA replication is a delicate, complex and subtle product of billions of years of evolution. ",
+        "bbox": [
+            654,
+            465,
+            926,
+            623
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "HELPING COMPUTER PROGRAMMERS MAKE FAST AND STEADY PROGRESS. ",
+        "text_level": 1,
+        "bbox": [
+            183,
+            22,
+            834,
+            97
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Until now, manual skills were a big part of writing complicated computer programs. They required a major investment in time, effort and money —and days of boredom for the applications designer. ",
+        "bbox": [
+            93,
+            105,
+            497,
+            193
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "McDonnell Douglas information systems specialists bypass the dull, turtle-speed tedium formerly necessary for good programs. Their Pro-IV® software maps out the best program path and selects routine computer instructions for them. ",
+        "bbox": [
+            93,
+            193,
+            499,
+            296
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The result is a working program that emerges with hare-like speed, ready to use, allowing application systems designers to fully concentrate on the special characteristics of the project. ",
+        "bbox": [
+            118,
+            296,
+            464,
+            315
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            515,
+            105,
+            926,
+            176
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Designers like Pro-IV software because t lets them try out ideas in prototype programs, quickly and easily, selecting only the best. Managements like it because it's faster, cheaper and yields better results. ",
+        "bbox": [
+            517,
+            176,
+            924,
+            264
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/ed02034862c8d9a7d9798fc768eb45d8f0599a2a013e31ea8d344ac22d8df156.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            708,
+            819,
+            949,
+            939
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "MCDONNELL DOUGLAS ",
+        "text_level": 1,
+        "bbox": [
+            54,
+            911,
+            713,
+            945
+        ],
+        "page_idx": 7
+    }
+]

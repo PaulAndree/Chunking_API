@@ -1,0 +1,665 @@
+[
+    {
+        "type": "text",
+        "text": "Evolution of Evolvabilitya ",
+        "text_level": 1,
+        "bbox": [
+            120,
+            98,
+            532,
+            125
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MIROSLAV RADMAN,b IVAN MATIC, AND FRANÇOIS TADDEI ",
+        "bbox": [
+            120,
+            138,
+            710,
+            157
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Mutagenèse, Institut Jacques Monod, 2 place Jussieu, 75251 Paris Cedex 05, France ",
+        "bbox": [
+            122,
+            162,
+            865,
+            194
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT: Genomic sequence data provide evidence for a common origin of life and for its evolution by genetic variation via mutation and recombination. This paper discusses the fundamental dialectic paradigm of evolution—stability versus variability—at the crossroads of molecular genetics, population genetics, ecology, and the emerging science of experimental evolution. Experimental evolution of molecules, viruses, and bacteria can be used not only to test some basic evolutionary hypotheses but also to create new organisms for applications in biotechnology, agriculture, and medicine. ",
+        "bbox": [
+            162,
+            212,
+            833,
+            325
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "capacity to generate heritable, selectable phenotypic variation.' Whereas selection is an easy concept that has been put into practice in plant and animal breeding, the generation of genetic variability has been considered, until recently, as a mere by-product of nature's imperfection: an unavoidable stochastic error. However, mutation and recombination processes which create the somatic genetic diversity of the immune system are known to be wel oll na hebu ns. euha he and even patterns, of genomic mutations in bacteria are also genetically well controlled processes. The genetic control of mutation and recombination is evident at the level of bacterial populations (genetic mutators and/or hyper-rec mutants), individual cells (inducible mutator and recombinator activity), and even particular sequences (hypermutable genes and recombinational hotspots). Such molecular strategies for controlling genetic variability all hint at the trade-off problems between the cost and benefit of mutations. Thus, every mutation-generating mechanism seems to have some cost accompanying the benefit of rare favorable mutations. Even with hypermutation in chicken immunoglobulin genes, where mutations result from patchy recombination (gene conversion) between the different germ-line V sequences³ (i.e., such mutations result from new arrangements of pre-existing sequences which have undergone natural selection),4 there is no evidence suggesting that the immunoglobulin gene mutations are directly designed according to the nature of the newly appearing antigen. ",
+        "bbox": [
+            118,
+            359,
+            875,
+            716
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MECHANISMS OF GENETIC CONSERVATION ",
+        "text_level": 1,
+        "bbox": [
+            261,
+            742,
+            726,
+            759
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The memory of the estimated 3 billion years of evolution is contained in nucleic acid sequences, generally DNA, and, for some viruses, RNA. [See also Herbert and Rich, this volume.—ED.] This DNA-based memory directs biological functions of proteins and ",
+        "bbox": [
+            118,
+            779,
+            872,
+            828
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "\"Our research is supported by grants from C.N.R.S., Ministère de la Recherche and Association pour la Recherche sur le Cancer. M. R. is currently professor at the Medical Faculty-Necker, University of Paris-V, France. ",
+        "bbox": [
+            113,
+            841,
+            868,
+            884
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "bPhone and fax, 33 1 44 27 81 77; e-mail, radman@ccr.jussieu.fr ",
+        "bbox": [
+            141,
+            884,
+            629,
+            898
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RNAs (e.g., ribosomal and tRNAs). Proteins, while capable of biocatalysis, are too unstable to be carriers of genetic information. The DNA molecule, with its double-strand structure, has coevolved with proteins as the most stable molecular memory system known. For example, the error rate in DNA synthesis is about 1 in 10 billion polymerized nucleotides $( 1 0 ^ { - 1 0 } )$ which is a 1 million-fold lower error rate than that in RNA synthesis $( 1 0 ^ { - 5 } )$ which itself is at least 10 times more precise than the error rate of protein synthesis (above $1 0 ^ { - 4 }$ . ",
+        "bbox": [
+            122,
+            115,
+            879,
+            219
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How is the stability of DNA sequence maintained? Because DNA has no special chemical robustness, unlike some crystals, its structure is constantly corroding (e.g., oxygenfree radical damage to the bases), hydrolyzing (e.g., losing entire bases or just their amino groups leaving no, or wrong, base-pairing information for DNA polymerases), and being exposed to environmental physical and chemical insults. However, a panoply of proteins has evolved whose action, at several molecular levels and through diverse strategies, results in the observed stability of genetic information. The double-strand structure is essential in allowing a special class of proteins, DNA protection and repair proteins, to efficiently maintain the original nucleotide sequence despite frequent chemical insults on the fine DNA structure and despite the intrinsic imperfection of DNA replication machinery. Here is a list of some well known and extensively reviewed6 strategies: ",
+        "bbox": [
+            122,
+            220,
+            879,
+            405
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(A) Template maintenance: ",
+        "text_level": 1,
+        "bbox": [
+            150,
+            418,
+            381,
+            433
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protection: Numerous proteins scavenge free radicals, degrade them, or prevent thei formation, thereby decreasing the effective DNA damage. ",
+        "bbox": [
+            122,
+            435,
+            875,
+            469
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Repair: (i) Repair by damage reversion, such as enzymatic photoreversal of UVinduced pyrimidine dimers or transalkylation of alkylated bases (alkyl group transfer from DNA to the acceptor protein). ",
+        "bbox": [
+            122,
+            470,
+            879,
+            520
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(ii) Repair by damage excision, such as removal of damaged bases by specific DNA Nglycosylases and removal of damage-carrying oligonucleotides by the nucleotide excision repair systems. ",
+        "bbox": [
+            122,
+            523,
+            877,
+            572
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(iii) Repair by recombination is the only mechanism able to restore the sequences destroyed by double-strand breakage or double-strand crosslinks. The process involves \"invasion,\" or pairing, of broken DNA ends with an intact identical molecule (e.g., sister molecule), copying from it the missing sequence and then separating the two interacting molecules. ",
+        "bbox": [
+            120,
+            574,
+            877,
+            657
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(B) Nucleotide pool maintenance: ",
+        "text_level": 1,
+        "bbox": [
+            150,
+            660,
+            437,
+            675
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The pool of four substrates for DNA synthesis is equilibrated through the activity of a complex control network. The pool is also chemically \"sanitized\" from aberrant residues such as dUTP (by the dUTPase) and 8-oxo-dGTP ( by MutT). ",
+        "bbox": [
+            122,
+            677,
+            877,
+            728
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(C) High fidelity DNA copy machine: ",
+        "bbox": [
+            150,
+            729,
+            462,
+            746
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Only when the ingredients for DNA synthesis are of high chemical purity (due to the strategies in A and B) is high fidelity DNA reproduction possible. High precision of DNA synthesis results from the selection of complementary dNTPs by the DNA polymerase (error rate about $1 0 ^ { - 5 }$ ) and the excision of the just misincorporated wrong nucleotide by the \"proofreading\" ${ \\mathfrak { z } } ^ { \\prime }$ to ${ \\pmb 5 } ^ { \\prime }$ exonuclease. Therefore, the error rate of the replication machinery is about $1 0 ^ { - 7 }$ . ",
+        "bbox": [
+            120,
+            746,
+            877,
+            848
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "(D) Postreplicative mismatch correction: ",
+        "bbox": [
+            150,
+            851,
+            493,
+            867
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "This \"quality control\" system can act, in bacteria, independently of the DNA replication process by a sophisticated multi-step mechanism that involves detection of the error (mismatched or unpaired bases) by the MutS protein, strand discrimination (by the MutH protein), which targets the excision repair process to the new strand, and recopying the parental strand. Curiously, this system also edits some other aspects of DNA metabolism, including genetic recombination.7 ",
+        "bbox": [
+            120,
+            868,
+            877,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            120,
+            118,
+            877,
+            168
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(E) Chromosome and genome integrity mechanisms: ",
+        "bbox": [
+            148,
+            171,
+            590,
+            186
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The high-fidelity maintenance and copying of DNA sequences are complemented by numerous mechanisms of global chromosomal maintenance. These include inactivation of parasitic transposing elements, prevention of recombination between repeated sequences, precise mitotic and meiotic chromosomal segregation, and the like.8 ",
+        "bbox": [
+            118,
+            188,
+            877,
+            256
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MECHANISMS OF GENETIC CHANGE ",
+        "text_level": 1,
+        "bbox": [
+            305,
+            283,
+            687,
+            302
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Long-term survival of natural populations relies on their capacity to adapt to unpredictable environmental changes via genetic variability. Genetic variability is generated by mutation and recombination. Until recently, it was generally assumed that the mutation rates are the lowest possible given the cost of antimutator mechanisms. The dogma of molecular and evolutionary biology was that mutation is an unavoidable stochastic event because of the limits of the efficiency and fidelity of biological processes, a trade-off between the ideal and the real. However, it is possible to select, in the laboratory, bacterial mutants with increased precision of DNA or protein synthesis; therefore, it is clear that there was no durable selective pressure in nature for maximal fidelity. Perfection in the maintenance of genetic information may be too costly in energy and time. An example is bacterial ribosomal mutants resistant to high concentrations of streptomycin that have acquired very high ribosomal fidelity in the process of protein synthesis. Such mutants cannot grow any more without streptomycin (streptomycin addiction), the drug that increases the ribosomal error rate.1 Thus, in living systems, at least in bacteria, messy and efficient is more fit than precise and inefficient. These arguments will take yet another dimension when we consider long-term fitness, that is, evolutionary robustness, in relation to genetic error rates. This review shows that a significant recurrent selective pressure for genetic \"messiness\" must exist because several control systems in bacteria, some upregulated, some downregulated, act to increase mutation rates under strong metabolic or genotoxic stress conditions12,13 as well as under any condition allowing for the improvement of fitness1 This appeare counterintuitive either because the cost in thetrade- between mutation and adaptation was intuitively overestimated for mutation or because the benefit of adaptation was underestimated. It will become apparent that selection for genetic fidelity is balanced by selection for efficiency. ",
+        "bbox": [
+            118,
+            320,
+            877,
+            734
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "MUTATION AND RECOMBINATION IN ADAPTIVE EVOLUTION ",
+        "text_level": 1,
+        "bbox": [
+            173,
+            762,
+            812,
+            780
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Random mutation produces new alleles, whereas genetic recombination produces new combinations of pre-existing alleles. This property of genetic recombination improves the effectiveness of mutagenesis because it allows for sorting of adaptive from deleterious mutations. Most newly produced point mutations are either deleterious or neutral; very few are selectively advantageous, that is, adaptive. Estimates for bacteria are that the forer aeabout 10,-fol moreequnt han he later.For mor compex me, this ratio may be even higher; for simpler genomes, such as viral genomes, it is probably lower. This is because mutations are not targeted to the gene under selective pressure. Thus, to produce a new adaptive mutation unaccompanied by an excess of deleterious mutations in the same cell, two scenarios can be envisaged: (1) a low mutation rate in a very large population, or (2) a high mutation rate (in a limited size population) with coincident intense recombination among the mutated genomes, thereby permitting the rare adaptive mutation to become separated from frequent deleterious mutations with a finite probability (mutation sorting). ",
+        "bbox": [
+            115,
+            800,
+            872,
+            921
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            127,
+            115,
+            881,
+            236
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "EXPERIMENTATION WITH BACTERIAL MUTATORS ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            263,
+            773,
+            280
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "All experiments reviewed here were performed with enterobacterial species Escherichia coli and/or Salmonella enterica. Their primary habitat is the mammalian intestine (commensalism), but often they are pathogenic or become pathogenic (emerging pathogens) to humans. Their survival is threatened by the host's immune system, antibiotics, and the harshness of secondary habitats outside their host organisms. Like other parasites, ically \"run\" faster than the host's immune system, on the one hand, and the human pharmacological arsenal, on the other. In view of emerging diseases and the current spread of antibiotic resistance, the bacterial genetic system seems to be outrunning the two human systems. We know their basic success mechanisms—mutation and recombination—but we do not understand well the control systems that minimize the cost of such mechanisms. The Red Queen Principle teaches us that too little mutation and recombination would soon bee tal, but tomuct is certainly lthal s it yapper, bactia times find their evolutionary success through biochemical failure, a genetic defect that called mutator mutations and hyper-rec mutations. Such mutants have lost some specific function, this loss resulting in greatly increased rates of mutations and/or recombinations everywhere in their genome. The genes responsible for such effects are called mutator (u enai (re) e.0 Ouutatns, themost feqenty c those deficient in the mechanism described in D (above): the mismatch repair system (MutS,L,U,H), which edits both replication and recombination of DNA (for reviews see refs. 7, 20, 21). ",
+        "bbox": [
+            125,
+            302,
+            879,
+            677
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In competitions between wild-type and mut mutators, under laboratory conditions, mutators always win if present in comparable number at the outset, but they lose when their population is smaller than that of non-mutators (see ref. 18 and references therein; A. Giraud, M. Fons, M. Radman, F. Taddei & I. Matic, unpublished data). This means that they win indirectly by creating other mutations that are directly beneficial (adaptive mutations). This evolutionary behavior of indirect or secondary selection has been modeled whereby the key parameters of bacterial adaptive evolution have been described.15 Longterm bacterial cultures in the laboratory are in agreement with the theory14 that mutator mutants inevitably arise in bacterial cultures, some of which are \"lucky\" enough to acquire an adaptive (faster growing) mutation before debilitating themselves by the more frequent deleterious mutations. Lucky mutants will divide and become sufficiently numerous to make it unlikely that all of them would debilitate themselves quasi-simultaneously by newly arising deleterious mutations. These lucky mutants bearing both mutator and adaptive alleles will overgrow the unadapted wild-type population and take over the whole culture (Fig. 1B). If the mut mutation is a nonrevertible deletion mutation, then this culture growing isolated in a test tube will remain mutator for years, practically forever.14 However, if this successful mutator culture grows in nature, a possible scenario is that it will undergo some form of sex (DNA exchange) with members of a similar bacterial culture and reacquire the functional mut gene. This adapted non-mutator will now overgrow the adapted mutator (and nonadapted wild-type) for it does not suffer the mutation load. The same will occur with a reversible mut mutation: a rare back mutation to non-mutator phenotype will give it selective advantage. Alternatively, the adaptive mutation may be transferred from the mutator to a non-mutator and enjoy the benefit of a stable genome. ",
+        "bbox": [
+            122,
+            680,
+            879,
+            919
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            120,
+            114,
+            875,
+            266
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Last but not least, genetic barriers between related bacterial species are almost eliminated in mismatch-repair deficient mutants, due to the loss of editing of genetic recombination.2123 Thus, mutator genes mutS and mutL may have been instrumental in the divergent evolution of bacteria.20 Incidentally, the facility in bacteria of recombining homologous genes from different species and even crossing the entire genomes of related microbes offer a formidable opportunity for instant evolution of new mosaic genes and new mosaic species which could be a source of novel enzymatic activities and new metabolites for applications in biotechnology and medical therapy.24 ",
+        "bbox": [
+            118,
+            270,
+            875,
+            405
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CUTTING-DOWN THE COST OF MUTATION: INDUCIBLE MUTATORS AND HYPERMUTABLE SEQUENCES ",
+        "text_level": 1,
+        "bbox": [
+            122,
+            433,
+            868,
+            469
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The preceding discussion on genetic mutators points to the tension between mutagenesis and population fitness, particularly when high mutation rates persist even after successful adaptation. One way to cut down the cost of adaptive mutagenesis is exemplified by the inducible mutator systems present in wild-type cells in which transient mutator activities are genetically pre-programmed. Such mutator activities are turned on only under strong selective pressure (FiG. 1C). The SOS response in bacteria is the paradigmal, inducible mutator system12 (see also ref. 6 to Witkin's seminal work) which turns on otherwise repressed mutator genes (umuC and umuD) and upregulates a number of recombination genes (e.g., recA, recN, recQ, ruvA, ruvB) when bacteria undergo a genotoxic or a metabolic stress.13 These bacteria mutate at increased rates only under such selective pressure; as soon as growth conditions are restored (by either genetic adaptation or a favorable environmental change), mutator and hyper-recombination activities are repressed by the LexA repressor. ",
+        "bbox": [
+            118,
+            489,
+            877,
+            709
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Several inducible mutator systems have been discovered among laboratory strains and natural isolates. One is adaptive mutagenesis26 reviewed in this volume by Foster and Roche and by Rosenberg et al. This inducible mutator system requires homologous recomb npswinonnt lt . ",
+        "bbox": [
+            118,
+            711,
+            875,
+            779
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our laboratory has identified two other inducible mutator systems: the ROSE (resting organisms in structured environments) mutagenesis that occurs only in colonies (not in liquid cultures) and involves a composite control by two complex regulons: the SOS system (via second messenger cyclic AMP) for genetic change. [See also ref. 74 p. 18.—ED.] ",
+        "bbox": [
+            118,
+            780,
+            875,
+            865
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A third stress-inducible mutator system present in some, but not all, natural isolates has been identified (Matic, Taddei, and Radman, unpublished data). These three inducible mutator systems can be differentiated by their respective genetic requirements, physio",
+        "bbox": [
+            118,
+            867,
+            872,
+            918
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/acda500bc50c5dc37012ad069980e2f8c54e0195a32d2fcced4e97cc49b6a061.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            129,
+            140,
+            856,
+            487
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "FIGURE 1. Bacterial ways of learning to learn. These figures represent populations (drawn as meltin watches, as in Dali's drawing, to illustrate that most variants are deleterious or neutral climbing a fitness landscape. Genotypes can be modified along the $\\mathbf { x }$ and y axis, and fitness is represented on the z axis (altitude). The trajectory of the most common genotypes is represented as a dashed line. At three time points, the distribution of variants is represented by melting watches. The sizes of the watches reflect the mutation rate of the populations and are proportional to the sequence space explored. (A) Wild-type populations are short-sighted. Initially starting with a non-mutator (wildtype, WT) population, which can generate a limited subset of mutants (which can be neutral, deleterious, lethal, and rarely advantageous), evolution wil select for those that have a higher fitness (i.e., those that have a higher x, as the most likely mutations affecting the y axis are neutral or deleterious). In this simplified drawing we have neglected drift along the y axis, which may allow the population to get closer to the grey hill and then climb it, because it is a slow and stochastic process. (B) Selecting for mutator can allow st exploration of the ftess lanscape. As i A, except that duri this process, the mutator (which has been generated by inactivation of an antimutator function) can be selected by hitchhiking with favorable mutations. This mutator population will generate many more mutations. Among these mutations the proportion of deleterious mutations is still overwhelming, but new adaptive mutations, which were not likely to be created in the WT context, can be generated. Thus, the population, while adapting to the selective pressure acting on the $\\mathbf { x }$ axis, has selected a mutator that, by generating many more mutations along the y axis, can produce some having a higher fitness and thus start climbing the grey hill. However, at the end of the adaptive process, when no more adaptive mutations can be found, the mutator has a cost because it generates lots of deleterious mutations. (C) Stress-induced genetic variability can speed up adaptation. As in A except an inducible mutator that existed at the beginning. This increase willallow the generation of rare y mutants (on the grey hill) that will allow further adaptation. When the adaptive process is finished, stress being over, the inducible mutagenesis is switched off and therefore the number of mutations generated (now predominantly neutral and deleterious mutations) is low, hence the lower cost of this adaptive pathway as compared with pathway B. ",
+        "bbox": [
+            122,
+            521,
+            872,
+            913
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "logic conditions under which they are induced, and by the molecular specificity (spec.   \ntrum) of mutations generated by their respective mutator activities. ",
+        "bbox": [
+            125,
+            115,
+            872,
+            149
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We already have mentioned the case of gene-targeted mutagenesis in the immune system. Targeted mutation is a huge step towards minimizing the cost of adaptive mutation. How can mutation be targeted to specific genes or sequences? One way is through intense recombination resulting in sequence mosaics in expressed genes, through gene conversion with a repertoire of diverged silent pseudogenes. Interestingly, this mutagenic strategy was adopted by many parasites (trypanosomes, plasmodium, neisseria, etc.) to provide high variability f thei key surface antigens to ecape the host immue system, as we s by the chicken immune system for the hypermutation of the rearranged variable genes.2.3 The mecani hypermuato healia e stm ais elu. ",
+        "bbox": [
+            120,
+            151,
+            877,
+            304
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bacteria appear to use a very simple trick under strong selective pressure to render genes hypermutable: incorporation of microsatellite-like sequences within the coding frame. Moxon called such genes contingency genes; typically these are genes encoding bacterial surface antigens and restriction/modification systems (see Field et al., this volume). The reason for hypermutability of microsatellites (simple runs of one to six base motifs) is that all known DNA polymerases skip or add one or a few motifs when copying such sequences. This polymerase slippage error is up to $1 0 ^ { 4 }$ times more likely than a base substitution error, but it is very effectively corrected by the mismatch repair system.31 Thus, in wild-type cells, but much more so in mismatch repair-deficient mutators, such microsatellite sequences will make genes highly susceptible to frameshift mutagenesis.32 ",
+        "bbox": [
+            120,
+            307,
+            879,
+            475
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "On account of the specificity of the mismatch repair system, an argument can be made that the mutation rates in microsatellites of contingency genes have been maximized. It is intriguing that the microsatellite motif in the same contingency genes is different in different bacterial species; for example, it is mononucleotide runs in Helicobacter pylori and Mycoplasma genitalium, and tetra- and pentanucleotide runs in Neisseria gonorrhoae, Haemophilus influenzae, and Escherichia coli. It turns out that Helicobacter and Mycoplasma appear not to have a functional general mismatch repair system (i.e., these species are natural mutator species), whereas the former do. Considering the specificity of the mismatch repair system in bacteria (highly efficient repair of one and two unpaired bases, but poor or no repair of four or more unpaired bases3) and the fact that DNA polymerase slips more readily the shorter the repeat motif,34 then the conclusion is that the mutation rate at microsatellites in contingency genes has been maximized. (This idea was put forward by M.R. following a lecture by R. Moxon during the International Summer School, \"Molecular Basis of Bacterial Infection,\" August 30September 12, 1998, in Spetsai, Greece). ",
+        "bbox": [
+            120,
+            479,
+            877,
+            733
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "EVOLUTION OF IMPROVED GENES IN THE TEST TUBE ",
+        "text_level": 1,
+        "bbox": [
+            215,
+            760,
+            777,
+            779
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Stemmer, Arnold, and their colleagues have developed an ingenious method for in vitro evoluion  \"mproved\" genes called the sexual R\" or \"molecular breeding\"35.36 ee also Arnold, this volume). Genes in living organisms have evolved towards an optimization of their activity in the context of homeostasis of the cell, rather than to maximum activity, or efficiency, such as we might wish in an industrial, biotechnical, context. Sexual polymerase chain reaction (PCR) shows the value of recombination in adaptive evolution of genes. Genes can be highly mutagenized by the error-prone PCR conditions, then cloned and expressed in bacteria, and finally tested for increased or modified activity. Little success can be obtained with very high rates of mutation for the reasons just discussed: rare beneficial mutations will be swamped by the excess of deleterious mutations. The practice of sexual PCR involves nicking the mutated PCR products by DNaseI, denaturing and reannealing, then repairing by DNA polymerase before cloning and testing. The result is that mutations have been hyper-recombined, or shuffled, by this procedure. Selection or large-scale screening identifies gene copies with greatly modified activity. Even a \"backcross,\" as in plant breeding, is of great value: PCR-mediated crossing of the pool of highly mutated gene copies with the initial gene copy allows separation of the rare \"advantageous\" mutation from frequent deleterious mutations. This is how individual deleterious, neutral, and advantageous gene mutations can be identified.36 ",
+        "bbox": [
+            118,
+            799,
+            877,
+            919
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            122,
+            115,
+            879,
+            305
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Thus, recombination, by sorting mutations, has improved the efficacy of random mutagenesis. It may be less than coincidental that in bacteria, mutagenesis and recombination often are co-controlled as in SOS induction and mismatch repair deficiency.21 ",
+        "bbox": [
+            125,
+            307,
+            879,
+            358
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "GENERALITIES AND CONCLUSIONS ",
+        "text_level": 1,
+        "bbox": [
+            314,
+            385,
+            687,
+            404
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Living organisms are highly organized adaptive systems. Whereas the maintenance of organization requires conservation, adaptation requires variation, that is, genetic change. Thus, the perpetuation of life depends on fine tuning the dialectic: conservation versus change. Recent evolutionary experiments with bacteria suggest that there are several mechanisms that assure high mutation rates when survival is at stake (Fig. 1). Some are in the realm of molecular biology, such as inducible mutator systems affecting, potentially, every stressed cell. Others are in the realm of population genetics and appear to tune mutation frequencies of large bacterial populations by selection of cells with a constitutive mutator phenotype. Such mutators, although selectively disadvantageous because of their high random mutation load, are frequently present in natural populations.37,38 Mutators initially appear by random mutation in so-called mutator genes and can then be selected indirectly, for example, because of their propensity to generate mutations that happen to include rare adaptive mutations. In cells bearing an advantageous mutation created by the mutator effect, the mutator mutation will \"hitchhike\" with the adaptive mutation. However, following adaptation, the fitness of mutators may decrease because of the accumulation of deleterious mutations (Muller's ratchet). This may explain the rise and fall of mutators in natural and experimental populations of bacteria. ",
+        "bbox": [
+            120,
+            424,
+            879,
+            716
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mismatch repair-deficient mutators may directly contribute to the divergent evolution of bacteria, including their speciation. Mutators rapidly accumulate sufficient genomic sequence divergence, to strongly inhibit genetic recombination, that is, to create genetic barriers, through the activity of the mismatch repair system.23 Therefore, evolution of bacterial species could be accelerated by transitions between mutator and nonmutator states.20 ",
+        "bbox": [
+            120,
+            717,
+            877,
+            802
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            381,
+            830,
+            615,
+            848
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "We are grateful to our colleagues from the French multidisciplinary microbial network (including ecologists, microbiologists, clinicians, population geneticists, phylogeneticists, and molecular biologists, coauthors of our papers since 1997) for their collaboration and ",
+        "bbox": [
+            120,
+            868,
+            877,
+            919
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "many interesting discussions. Drs. Evelyn Keller Fox and Lynn Caporale made some important editorial modifications of the initial text. Discussions with R. Moxon and D. S. Thaler are always a source of inspiration. ",
+        "bbox": [
+            115,
+            117,
+            875,
+            168
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            430,
+            203,
+            557,
+            219
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "1. KiRsCHNER, M. & J. GERHART. 1998. Evolvability. Proc. Natl. Acad. Sci. USA 95: 84208427.   \n2. WEILL, J.-C. & C.-A. ReyNAUD. 1996. Rearrangement/hypermutation/gene conversion: When, where and why. Immunol. Today 17: 9297. A, C.A E, H.RAL&J.EL8. ye erates the chicken light chain preimmune repertoire. Cell 48: 379388.   \n4. RADMAN, M. 1983. Diversification and conservation of genes by mismatch repair: A case for immunoglobulin genes. In Cellular Responses to DNA Damage. E.C. Friedberg & B.A. Bridges, Eds.: 287298. Alan R. Liss, Inc. New York.   \n5.Nino, J. 1991. Transient mutators: A semiquantitative analysis of the influence of translation and transcription errors on mutation rates. Genetics 129: 957962.   \n6FRIEDBERG, E.C., G.C. WALKER & W. SIEDE. 1995. DNA Repair and Mutagenesis. ASM PreSS. Washington, DC.   \n7. RADMAN, M. & R. WAGNER. 1993. Mismatch recognition in chromosomal interactions and speciation. Chromosoma 102: 369373.   \n8 KUCHERLAPATI, R. & G.R. SMITH. 1988. Genetic Recombination. American Society for Microbiology. Washington, DC.   \n9. FuALKOwsKA, I.J, R.L. DUNN & R.M. ScHAAPER. 1993. Mutants of Escherichia coli with increased fidelity of DNA replication. Genetics 134: 10231030.   \n1.GALLANT, J. & L. PALMER. 1979. Error propagation in viable cells. Mech. Ageing Dev. 10: 27   \n38.   \n11. BJöRKMAN, J., P. SAMUELSSON, D.I. ANDERsSON & D. HUGHEs. 1999. Novel ribosOmal mutations affcting translational accuracy, antibiotic resistance and virulence of Salmonella typhimurium. Mol. Microbiol. 31: 5358.   \n12. RADMAN, M. 1974. Phenomenology of an inducible mutagenic DNA repair pathway in Escherichia coli: SOS repair hypothesis. In Molecular and Environmental aspects of mutagenesis. L. Prakash, F. Sherman, M. Miller, C. Lawrence & H.W. Tabor, Eds.: 128142. C.C Thomas. Springfield, IL.   \n1TADDEI, F. I. MATIC & M. RADMAN. 1995. Cyclic AMP-dependent SOS induction and mutagenesis in resting bacterial populations. Proc. Natl. Acad. Sci. USA 92: 1173611740.   \n1SNIEOwsKI, P.D., P.J. GERRISH & R.E. LENSKI. 1997. Evolution of high mutatin rates in experimental populations of E. coli. Nature 387: 703-705. T  Rol  apivu Nat   \n16. Van VaLEn, L. 1973. A new evolutionary law. Evol. Theory 1: 130.   \n17. FiALKowsKA, I. J. & R.M. ScHAAPER. 1996. Mutants in the Exo I motif of Escherichia coli dnaQ: Defective proofreading and inviability due to error catastrophe. Proc. Natl. Acad. Sci. USA   \n93: 28562861.   \n18TADDEI, F., I. MATIC, B. GoDELLE & M. RADMAN. 1997. To be a mutator, or how pathogenic and commensal bacteria can evolve rapidly. Trends Microbiol. 5: 427428.   \n1.MAGNAsCo, M.O. & D.S. THALER. 1996. Changing the pace of evolution. Phys. Lett. A 221:   \n287292.   \n2MATIC, I., F. TADDEI & M. RADMAN. 1996. Genetic barriers among bacteria. Trends Microbiol. 4:   \n6973.   \n21 MATIC, I., C. RAyssIGuER & M. RADMAN. 1995. Interspecies gene exchange in bacteria: The role of SOS and mismatch repair systems in evolution of species. Cell 80: 507515.   \n22. RAyssIGUIER, C., D.S. THALER & M. RADMAN. 1989. The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature   \n342: 396401.   \n.VuLIC, M., F. DioNIsIO, F. TADDEI & M. RADMAN. 1997. Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria. Proc. Natl. Acad. Sci. USA 94: 97639767.   \n24. RADMAN, M. & R. WAGNER. 1993. DNA mismatch repair systems: Mechanisms and applications in biotechnology. In Biotechnology and Genetic Engineering Reviews, Vol. 11. M.P. Tomms, Ed.: 357366. Intercept. Andover.   \n25. FRIEDBERG, E.C. 1985. DNA Repair. W. H. Freeman & Co. New York.   \n26CAIRNS, J., J. OvERBAUGH & S. MILLER. 1988. The origins of mutants. Nature 335: 142145.   \n27. ANDERssoN, D.I., E.S. SLECHTA & J.R. RoTH. 1998. Evidence that gene amplification underlies adaptive mutability of the bacterial lac operon. Science 282: 11331135.   \n28. TADDEI, F., J.A. HALLIDAY, M. MATIC & M. RADMAN. 1997. Genetic analysis of mutations in aging colonies of E. coli. Mol. Gen. Genet. 256: 277281.   \nee,ch ges n hemi  ntvart ri panosomes. Trends. Genet. 5: 389391.   \n30. MAizeLs, N. 1995. Somatic hypermutation: How many mechanisms diversify V region sequences? Cell 83: 912.   \n31. DOHET, C., R. WAGNER & M. RADMAN. 1986. Methyl-directed repair of frameshift mutations in heteroduplex DNA. Proc. Natl. Acad. Sci. USA 83: 3395-3397.   \n3RADMAN, M., I. MATIC, J.A. HALLDAY & F. TADDEI. 1995. Editing DNA replication and recombination by mismatch repair: From bacterial genetics to mechanisms of predisposition to cancer in humans. Phil. Trans. R. Soc. Lond. B 347: 97103.   \n33. PARKER, B.O. & M.G. MaRINUs. 1992. Repair of DNA heteroduplexes containing small heterologous sequences in Escherichia coli. Proc. Natl. Acad. Sci. USA 89: 17301734.   \n34. KuNKEL, T.A., S.S. PATEL & K.A. JoHNsoN. 1994. Error-prone replication of repeated DNA sequences by T7 DNA polymerase in the absence of its processivity subunit. Proc. Natl. Acad. Sci. USA 91: 68306834.   \n35. STEMMER, W.P.C. 1994. DNA shuffling by random fragmentation and reassembly: In vitro recombination for molecular evolution. Proc. Natl. Acad. Sci. USA 91: 1074710751.   \n36. ZHAO, H. & F.H. ARNOLD. 1997. Functional and nonfunctional mutations distinguished by random recombination of homologous genes. Proc. Natl. Acad. Sci. USA 94: 79978000.   \n3. LECLERC, J.E. B. LI, W.L. PAYNE & T.A. Cebula. 1996. Hi muta frequenc Escherichia coli and Salmonella pathogens. Science 274: 12081211.   \nMA, I.et al..Higl variable mutaion rates i commensal and pathogenicolScience 277: 18331834. ",
+        "bbox": [
+            122,
+            239,
+            872,
+            916
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            125,
+            117,
+            877,
+            600
+        ],
+        "page_idx": 9
+    }
+]

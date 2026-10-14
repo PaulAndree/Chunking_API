@@ -1,0 +1,239 @@
+[
+    {
+        "type": "text",
+        "text": "P56 Diphenyl diselenide improves the antioxidant response via activation of the Nrf-2 pathway in macrophage cells ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            70,
+            477,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Gianni Mancini a , Marcos Raniel Straliotto a , João Batista Texeira da Rocha b , Andreza Fabro de Bem a ",
+        "bbox": [
+            53,
+            143,
+            411,
+            168
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Universidade Federal de Santa Catarina (Centro de Ciências Bioló- gicas), Departamento de Bioquimica, Brasil   \nb Universidade Federal de Santa Maria (Centro de Ciências Biológicas), Departamento de Bioquímica, Brasil ",
+        "bbox": [
+            52,
+            184,
+            475,
+            235
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            266,
+            117,
+            277
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Diphenyl diselenide $[ ( \\mathrm { P h S e } ) _ { 2 } ]$ is an organoselenium compound that can mimic endogenous antioxidant enzymes, such as glutathione peroxidase (GPx), or be metabolized by thioredoxin reductase to form selenol intermediate, which can copy the function of the antioxidant selenoenzymes. This compound has shown potential role in preventing atherosclerosis and other oxidative stress-related diseases. ",
+        "bbox": [
+            53,
+            279,
+            475,
+            351
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The understanding of the underlying mechanism by which $( { \\mathrm { P h S e } } ) _ { 2 }$ modulates the glutathione-related antioxidant defenses is a relevant question. Therefore, we tested its ability to promote the nuclear translocation of the nuclear factor (erythroid 2-like)-related factor 2 (Nrf-2), increasing the expression of enzymes related to the antioxidant system, such as heme oxygenase 1 (HO-1) and peroxiredoxin 1 (Prx-1), in addition to the main enzyme in the glutathione synthesis - gamma glutamylcysteine synthetase $\\langle \\gamma$ -GCS) - in murine J774 macrophage cells. ",
+        "bbox": [
+            53,
+            353,
+            475,
+            447
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$( { \\mathrm { P h S e } } ) _ { 2 }$ $( 1 \\mu \\mathrm { M } )$ was able to promote nuclear translocation and increased the expression of the Nrf-2 factor in the nucleus in a timedependent manner (1-24 hours). In addition, this compound significantly increased the expression of HO-1 and $\\mathrm { P r x } { - 1 }$ at 24 hours and $\\mathrm { G P x } { - 1 }$ after the first hour. Furthermore, $( { \\mathrm { P h S e } } ) _ { 2 }$ was able to enhance GSH levels in a time-dependent manner, as well as GPx and GGCS activities. The increase in GPx and GGCS activities was dependent on the activation of PI3K, JNK, and p38MAPKs signaling pathways that may activate the Nrf2 factor. ",
+        "bbox": [
+            53,
+            448,
+            475,
+            544
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Altogether, these results show that $\\mathrm { ( P h S e ) } _ { 2 }$ improved the antioxidant defense by increasing the expression of HO-1 and Prx-1 and the synthesis of GSH as a consequence of the activation and nuclear translocation of Nrf-2 factor. ",
+        "bbox": [
+            53,
+            546,
+            477,
+            592
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http://dx.doi.org/10.1016/j.freeradbiomed.2014.10.788 ",
+        "bbox": [
+            53,
+            600,
+            394,
+            612
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P57 Hepatocellular carcinoma protein carbonylation in virus C and metabolic syndrome patients ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            694,
+            475,
+            737
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Martin Fernando Ariela , Mebarki Mouniyab , Paradis Valérieb , Friguet Bertrandc , Miroslav Radman a ",
+        "bbox": [
+            53,
+            751,
+            442,
+            778
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Institut national de la santé et de la recherche médicale (U1001),   \nParis, France   \nb Hopital Beaujon (Pathology Service), Paris, France   \nc Université Pierre et Marie Curie-CNRS UMR 8256, ERL Inserm U1164,   \nParis, France ",
+        "bbox": [
+            53,
+            794,
+            477,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            889,
+            115,
+            900
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Metabolic syndrome (MS) is becoming the leading cause of chronic liver diseases worldwide. Hepatocellular carcinoma (HCC) development in MS is peculiar compared to other chronic liver diseases. Carbohydrate and lipid metabolic imbalance in MS increase reactive oxygen species damaging proteins. In the present work we study the difference in protein oxidative damage (carbonylation) in human HCC derived from virus C infection (VHC) and from MS (MS_HCC) as the only subjacent cause. We selected a patient cohort containing of 10 non-tumoral and 10 tumoral liver resections in each study group (virus C and MS HCC) based on clinical patient history and histological parameters. Protein samples were labeled to saturation using CF 647-hydrazide™ dye. This approach allows us to perform carbonyl detection alongside with a DIGE experiment. We detected a total of 1184 spots with 36 differentially expressed proteins and 47 spots differentially carbonylated between VHC and MS_HCC (fold change $> 1 . 5$ , $\\mathsf { p } < 0 . 0 5$ ). VHC up-regulated proteins are involved in signaling pathways related to cancer development such as signaling by EGFR, Wnt, Cdc20 and cell cycle. Further, up-regulated proteins in MS HCC, are implicated in metabolism of carbohydrates and amino acids. Differential carbonylation analysis between VHC and MS_HCC showed protein damage in proteins such as glucose phosphate isomerase, isocitrate dehydrogenase, and 3-ketoacyl-CoA thiolase. Higher protein carbonylation in MS_HCC samples was observed in proteins involved in redox response and lipid metabolism. In conclusion, the observed difference in protein oxidative damage between MS and Virus C derived carcinoma could account for the different cancer development pathway. ",
+        "bbox": [
+            53,
+            902,
+            475,
+            938
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            70,
+            927,
+            348
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "http://dx.doi.org/10.1016/j.freeradbiomed.2014.10.789 ",
+        "bbox": [
+            505,
+            355,
+            847,
+            368
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "P58 Inflammation-Enhanced Drug-Induced Liver Injury ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            427,
+            914,
+            456
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Maruf Abdullah Ala , O'Brien Peterb a University of Toronto (Faculty of Medical Sciences), Department of Pharmacology & Toxicology, Canada b University of Toronto (Leslie Dan Faculty of Pharmacy), Graduate Department of Pharmaceutical Sciences, Canada ",
+        "bbox": [
+            507,
+            470,
+            729,
+            482
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            504,
+            499,
+            931,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            580,
+            568,
+            591
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Drug-induced liver injury is a major concern in clinical studies as well as in post-marketing surveillance. Previous evidence suggests that drug exposure during periods of inflammation can increase an individual’s susceptibility to toxicity. Inflammation caused by infections or endotoxin markedly activates NADPH oxidase that generates superoxide radicals by transferring electrons from NADPH. In the phagosome, superoxide radicals spontaneously form hydrogen peroxide $\\left( \\mathrm { H } _ { 2 } \\mathbf { O } _ { 2 } \\right)$ and other reactive oxygen species. Neutrophils or Kupffer cells also release myeloperoxidase on activation. The aim of this study was to develop and validate an in vitro oxidative stress inflammation model to identify compounds that may increase hepatotoxicity during inflammation. When a non-toxic $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ generating system (glucose/glucose oxidase) with peroxidase or Fe(II) (to simulate in vivo inflammation) were added to the freshly isolated rat hepatocytes prior to the addition of the investigated drug which increased drug-induced cytotoxicity and ROS formation. This was reversed by 6-Npropyl-2-thiouracil (a peroxidase inhibitor) or desferoxamine (an Fe(II) chelator), respectively. Flutamide, nilutamide, nimesulide, methotrexate, and 6-mercaptopurine were found to form pro-oxidant radicals leading to oxidative stress and mitochondrial injury whereas azathioprine did not form any radicals with this inflammation system. Electron spin resonance spectrometry spin trapping studies of 6-mercaptopurine metabolism by HRP (horseradish peroxidase) $J \\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ was also investigated. A mixture of two radicals were trapped using DMPO (5,5-dimethyl-1-pyrroline-Noxide) which were previously reported as purine-6-thiyl and superoxide radicals. This system may provide a more robust in vitro pre-clinical tool for screening of drugs for potential hepatotoxicity associated with inflammation. ",
+        "bbox": [
+            505,
+            593,
+            929,
+            919
+        ],
+        "page_idx": 0
+    }
+]

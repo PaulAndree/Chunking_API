@@ -1,0 +1,480 @@
+[
+    {
+        "type": "text",
+        "text": "Fuente hidrotermal ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            423,
+            127
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Una fuente hidrotermal, también traducido a veces como respiradero hidrotermal o fumarola hidrotermal, es una grieta en la superficie de un planeta de la cual fluye agua geotermalmente caliente. Las fuentes hidrotermales se encuentran comúnmente en lugares volcánicamente activos donde el magma está relativamente cerca de la superficie del planeta.1 Las fuentes hidrotermales son abundantes en la Tierra porque es geológicamente activa y tiene gran cantidad de agua en su superficie. Los tipos comunes en la Tierra incluyen fuentes hidrotermales subacuáticas, aguas termales y los géiseres.2 ",
+        "bbox": [
+            70,
+            140,
+            578,
+            350
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fuentes hidrotermales submarinas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            385,
+            522,
+            409
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Las áreas alrededor de las fuentes hidrotermales submarinas son biológicamente productivas y a menudo hospedan comunidades complejas alimentadas por los precipitados químicos que emiten. Las arqueas quimiosintéticas, presentes en estas fuentes hidrotermales, constituye la base de esta cadena alimenticia que sustenta a otros diversos organismos, como los gusanos de tubo gigantes, moluscos y crustáceos.3 ",
+        "bbox": [
+            70,
+            427,
+            578,
+            559
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a4b2c08422fa44b5598de636c5ebe7f1d868f4ca36385f4b0d682fef3892757.jpg",
+        "image_caption": [
+            "Fuente o respiradero hidrotermal de la dorsal Atlántica. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            149,
+            924,
+            477
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Los sistemas hidrotermales habrían jugado un importante papel en la evolución temprana de la Tierra, la conformación de la biosfera y en «la síntesis de los compuestos orgánicos que constituyen los ladrillos básicos de la vida».3 ",
+        "bbox": [
+            70,
+            574,
+            932,
+            631
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Descubrimiento ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            660,
+            250,
+            680
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Las fuentes hidrotermales marinas profundas fueron descubiertas por primera vez en 1977 en la dorsal de las Galápagos por un equipo de la Institución Oceanográfica de Woods Hole, a bordo de un submarino de tres personas que operaba a una profundidad de $2 4 0 0 \\mathrm { m }$ en el océano Pacífico.4 Posteriormente, en 1982, fue hallada, por el mismo submarino, una segunda fuente termal en la cuenca de Guaymas (México); easí como, sucesivamente, se han ido hallando otras muchas ventilas distribuidas en las diferentes dorsales oceánicas. Esto hizo que el hidrotermalismo adquiriera relevancia.3 ",
+        "bbox": [
+            70,
+            687,
+            932,
+            802
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Características físicas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            831,
+            322,
+            851
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Las fuentes hidrotermales marinas participan en el equilibrio bioquímico de los océanos, contribuyen a su regulación química y aportan nutrientes para su biota.2 Se dividen en someras, aquellas que se hallan a menos de $2 0 0 \\mathrm { m }$ de profundidad, y profundas, mayoritariamente situadas a más de $2 . 0 0 0 \\mathrm { m }$ de profundidad. El límite de 200 metros se justifica al darse a esta profundidad un cambio brusco de las condiciones ambientales, provocado por el aumento de la presión del agua y los niveles de oscuridad, variando el punto de ebullición del agua marina y llegando a impedir la fotosíntesis, alterando la mineralización y la biota de las fumarolas.5 ",
+        "bbox": [
+            70,
+            858,
+            931,
+            935
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            578,
+            136
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El agua que fluye de las fuentes hidrotermales del fondo oceánico consiste sobre todo en agua de mar conducida dentro del sistema hidrotérmico cerca de un volcán a través de fallas y de sedimentos porosos o estratos volcánicos; también fluye agua magmática lanzada por la ascensión del magma. El agua emerge de una fuente hidrotermal a temperaturas que se extienden hasta los $4 0 0 ~ ^ { \\circ } \\mathrm { C }$ , comparado con los $2 ~ ^ { \\circ } \\mathrm { C }$ del agua oceánica circundante.1 En profundidad, según aumenta la presión, aumenta el rango de temperaturas en el que el agua sigue siendo líquida, evitando así que entre en ebullición. El agua a una profundidad de $3 0 0 0 \\mathrm { ~ m ~ }$ y una temperatura de $4 0 7 ~ ^ { \\circ } \\mathrm { C }$ es un fluido supercrítico. Sin embargo, el aumento en salinidad empuja el agua a su punto crítico. 2 ",
+        "bbox": [
+            70,
+            153,
+            578,
+            266
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/85db72506277c205fa316df0892302fcd3d30c0967156d0aefbc9d9fee818be9.jpg",
+        "image_caption": [
+            "Caracterización química de la circulación hidrotermal en las dorsales mediooceánicas. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            51,
+            922,
+            181
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            268,
+            931,
+            363
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Algunas fuentes hidrotermales forman chimeneas casi cilíndricas. Estas se forman de los minerales que están disueltos en el fluido que emiten. Cuando el agua sobrecalentada entra en contacto con el agua de mar casi congelada, los minerales se precipitan hacia afuera para formar las partículas que le agregan altura a las chimeneas. Algunas de estas chimeneas pueden alcanzar alturas de $6 0 \\mathrm { m } . ^ { 2 }$ ",
+        "bbox": [
+            70,
+            378,
+            931,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Las etapas iniciales de una chimenea de la fuente comienzan con la deposición del mineral anhidrita. Los sulfuros de cobre, hierro y cinc entonces se precipitan en los boquetes de la chimenea, haciéndola menos porosa con el tiempo. Se han registrado crecimientos de fuentes en el orden de los $3 0 ~ \\mathrm { c m }$ al día. Las chimeneas que emiten una nubes negras se llaman “fumarolas negras”, nombrados para la tonalidad oscura de las partículas que emiten.1 Las fumarolas negras emiten típicamente partículas con altos niveles de sulfuros metálicos. Las fuentes que emiten minerales más ligeros, con tonalidades claras, se nombran: “fumarolas blancas”.1 Estas últimas, son típicamente más bajas en temperatura que las fumarolas negras, siendo deficientes en sulfuro de hidrógeno, hierro y cobre, mientras que son ricas en cinc. ",
+        "bbox": [
+            70,
+            470,
+            931,
+            642
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Las fumarolas blancas y negras pueden coexistir en el mismo campo hidrotermal, pero generalmente representan aberturas proximales y distales a la zona principal de flujo ascendente, respectivamente.1 ",
+        "bbox": [
+            68,
+            657,
+            931,
+            695
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Comunidades biológicas ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            723,
+            351,
+            744
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Tradicionalmente, la vida ha sido vista siempre dependiente de la escuela nergía proveniente del sol, pero los organismos de aguas profundas no tienen acceso a la luz solar, por lo que dependen de los nutrientes que se encuentran en los depósitos de polvo y productos químicos de los fluidos hidrotermales en el que viven. Antiguamente, los biólogos marinos suponían que organismos de las fuentes hidrotermales existían consumiendo la \"lluvia\" de detritus de los niveles superiores del océano. Esta teoría limitaba la vida submarina a la vida vegetal existente en la superficie, y por ende, haciéndola también dependiente de la luz solar. Si este fuese el único mecanismo por el cual se obtienen los nutrientes y la energía necesaria para la existencia de vida en el fondo del mar, las formas de vida serían muy escasas. Sin embargo, se ha demostrado que en el fondo del mar circundante a las zonas de respiraderos hidrotermales la densidad de microorganismos es 10.000 a 100.000 veces mayor. ",
+        "bbox": [
+            70,
+            751,
+            931,
+            883
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            931,
+            98
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Las comunidades hidrotermales son capaces de sostener esa enormes cantidad de organismos porque existen procariotas quimiosintéticos que aprovechan los compuestos minerales que existen en dicha área. El agua que sale de los respiraderos hidrotermales es rica en minerales disueltos, y es compatible con una gran población de procariotas autótrofos. Estos procariotas utilizan compuestos de azufre, en particular sulfuro de hidrógeno, un químico altamente tóxico para los organismos más conocidos, para producir materia orgánica mediante el proceso de quimiosíntesis.6 7 ",
+        "bbox": [
+            70,
+            114,
+            931,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El ecosistema existente es dependiente de los respiraderos hidrotermales como la fuente primaria de energía, que difiere de la vida de la mayoría de la superficie de la Tierra que se basa en la energía solar. También, algunos de los organismos de estos ecosistemas, en realidad, sí dependen de oxígeno producido por los organismos fotosintéticos. Otras formas de vida más simples son anaerobias. ",
+        "bbox": [
+            70,
+            243,
+            932,
+            318
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Una especie de bacteria fototróficas se ha encontrado que vive cerca de una fumarola negra frente a las costas de México a una profundidad de 2.500 metros (8.200 pies). A esa profundidad, la luz del sol es incapaz de llegar. Estas bacterias, que forma parte de la familia Chlorobiaceae, utiliza el débil resplandor de la fumarola negra para la fotosíntesis. Este es el primer organismo descubierto en la naturaleza que tiene exclusivamente otra fuente luz que no sea la luz del sol para la fotosíntesis.8 ",
+        "bbox": [
+            70,
+            333,
+            931,
+            428
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aunque la vida es muy escasa en estas profundidades, las fumarolas negras son el eje de los ecosistemas. La luz del sol es inexistente, por lo que muchos organismos –como arqueas y extremófilos– convierten el calor, el metano y los compuestos de azufre, proporcionados por las fumarolas negras, en energía a través de un proceso llamado quimiosíntesis. Más formas de vida complejas, como almejas y gusanos se alimentan de estos microorganismos. Los organismos de la base de la cadena alimentaria también depositan minerales en la base de la fumarola negra, por lo tanto completan el ciclo de vida.7 ",
+        "bbox": [
+            70,
+            444,
+            931,
+            558
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Nuevas e inusuales especies son constantemente descubiertas en las zonas vecinas a las fumarolas negras. El gusano de Pompeya fue encontrado en la década de 1980, además diferentes especies de gastrópodos, como por ejemplo el scaly-foot, el cual usa sulfuros de hierro (pirita y greigita) para la esclerita dérmica, en vez del carbonato calcio que usan el resto de especies de este género. La presión extrema de los 2500 metros de profundidad (aproximadamente 250 ATM) puede que juegue un rol fundamental en la estabilización del sulfuro de hierro para propósitos biológicos. Esta armadura sirve de defensa en contra de las rádulas de los caracoles predadores en dicha comunidad. ",
+        "bbox": [
+            70,
+            573,
+            931,
+            705
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El gusano amarillo del Pacífico P. hessleri combina toxinas (sulfuro y arsénico) intencionalmente, en un único mineral cristalino seguro, dentro de sus propias células.9 Este gusano del Pacífico acumula un nivel excepcionalmente alto de arsénico, un elemento tóxico ${ \\mathit { \\Sigma } } ^ { > 1 \\% }$ del peso húmedo de su cuerpo), y tolera concentraciones elevadas de sulfuro de hierro.10 Este poliqueto de aguas profundas desintoxica arsénico y azufre mediante la biomineralización del oropimente $( \\mathsf { A s } _ { 2 } \\mathsf { S } _ { 3 } )$ en gránulos intracelulares. ",
+        "bbox": [
+            70,
+            707,
+            931,
+            802
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            838,
+            262,
+            861
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Fumarola   \nSolfataras   \nGéiser   \nVolcán submarino   \nEmanación fría ",
+        "bbox": [
+            80,
+            43,
+            268,
+            140
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            161,
+            225,
+            184
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Colín-García, M., A. Heredia,G. Cordero, A. Camprubí, A. Negrón-Mendoza, F. OrtegaGutiérrez, H. Beraldi, S. Ramos-Bernal. (2016). «Hydrothermal vents and prebiotic chemistry: a review» (http://boletinsgm.igeolcu.unam.mx/bsgm/index.php/component/conten t/article/309-sitio/articulos/cuarta-epoca/6803/1620-6803-13-colin). Boletín de la Sociedad Geológica Mexicana. 68 (3): 599‒620. ",
+        "bbox": [
+            77,
+            205,
+            932,
+            289
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. Ingeoexpert, ed. (31 de agosto de 2020). «Fuentes hidrotermales ¿cómo se forman?» (http s://ingeoexpert.com/2020/08/31/fuentes-hidrotermales-como-se-forman/). https://ingeoexpert.com/ (en español). Consultado el 19 de febrero de 2021. ",
+        "bbox": [
+            75,
+            292,
+            934,
+            342
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Jerjes Pantoja Alor y José Arturo Gómez Caballero (Ciencias 75 - Julio de 2004). «Los sistemas hidrotermales y el origen de la vida» (http://www.ejournal.unam.mx/cns/no75/CNS 07503.pdf). En Universidad Nacional Autónoma de Mexico (UNAM), ed. https://www.unam.mx/ (en español). Consultado el 6 de febrero de 2021. ",
+        "bbox": [
+            75,
+            344,
+            932,
+            408
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. «Dive and Discover: Expeditions to the Seafloor» (http://www.divediscover.whoi.edu/ventcd/ vent_discovery/thediscovery/timeline_p.html). www.divediscover.whoi.edu (en inglés). Consultado el 4 de enero de 2016. ",
+        "bbox": [
+            77,
+            412,
+            931,
+            460
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. Canet, Carles; Prol-Ledesma, Rosa María (2006). «Procesos de mineralización en manantiales hidrotermales submarinos someros. Ejemplos en México» (http://www.scielo.or g.mx/pdf/bsgm/v58n1/1405-3322-bsgm-58-01-83.pdf). Boletín de la SOCIEDAD GEOLÓGICA MEXICANA (en español) (Mexico D.F.: SOCIEDAD GEOLÓGICA MEXICANA) (1): 83-102. Consultado el 19 de febrero de 2021. ",
+        "bbox": [
+            75,
+            463,
+            932,
+            543
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. Universidad de Valencia (ed.). «Los orígenes de la Evolución Biológica. 4 - Minerales y fuentes termales» (https://www.uv.es/\\~orilife/Autors/Pereto/p45.pdf). https://www.uv.es (en español). Consultado el 19 de febrero de 2021. «Se han descubierto unas trescientas especies de animales casi todas endémicas de las surgencias submarinas. Los taxónomos han establecido una clase nueva -Vestimentifera, gusanos gigantes que viven en el interior de tubos-, tres órdenes nuevos y 22 familias nuevas, entre bivalvos, gusanos, crustáceos, esponjas, estrellas y un largo etcétera que forman estos «oasis de las profundidades». Evidentemente se trata de ecosistemas mantenidos con independencia de la luz. Los organismos productores no son fotosintéticos sino quimioautótrofos.» ",
+        "bbox": [
+            75,
+            547,
+            932,
+            692
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. Amos, Jonathan (4 de septiembre de 2018). «Los \"superpoderes\" de las extrañas criaturas que viven en las zonas volcánicas de las profundidades del océano» (https://www.bbc.com/ mundo/noticias-45409561). En BBC, ed. https://www.bbc.com (en español). Consultado el 19 de febrero de 2021. ",
+        "bbox": [
+            77,
+            695,
+            932,
+            760
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. Beatty, JT.; Overmann, J.; Lince, MT.; Manske, AK.; Lang, As.; Blankenship, RE.; Van Dover, CL.; Martinson, Ta. et al. (2005). «An obligately photosynthetic bacterial anaerobe from a deep-sea hydrothermal vent» (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1166624). PNAS 102 (26): 9306-9310. PMC 1166624 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1166624). PMID 15967984 (https://www.ncbi.nlm.nih.gov/pubmed/15967984). doi:10.1073/pnas.0503674102 (https://dx.d oi.org/10.1073%2Fpnas.0503674102). ",
+        "bbox": [
+            77,
+            762,
+            934,
+            861
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. «This Deep-Sea Worm Creates a Toxic Yellow Pigment Found in Rembrandt and Cézanne Paintings» (https://www.scientificamerican.com/article/deep-sea-worm-produces-orpiment-atoxic-yellow-pigment-used-in-historical/). Scientihfic American. ",
+        "bbox": [
+            77,
+            863,
+            932,
+            912
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. Wang, Hao ; Cao, Leía ; Zhang Huan ; Zhong, Zhaoshan ; Zhou, Li ; Lian, Chao ; Wang, Xiaocheng ; Chen, Hao ;, Minxiao ; Zhang, Xin ; Li, Chaolun (2025). «A deep-sea hydrothermal vent worlds detoxifies arsenic and sulfur by intracellular biomineralization of orpiment $( A S _ { 2 } S _ { 3 } ) \\gg$ [Un] (https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio. 3003291). PLoS Biology (en inglés) (Public Library of Science) 23 (8): e3003291. doi:10.1371/journal.pbio.3003291 (https://dx.doi.org/10.1371%2Fjournal.pbio.3003291). Consultado el 10 de septiembre de 2025. ",
+        "bbox": [
+            67,
+            42,
+            931,
+            165
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bibliografía ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            193,
+            228,
+            217
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Luis A. Soto y Alejandro Estradas Romero. «La exploración en el mar profundo de ambientes extremos: sistemas hidrotermales» (http://www2.inecc.gob.mx/publicaciones2/lib ros/703/exploracion.pdf). En Instituto de Ciencias del Mar y Limnología, Universidad Nacional Autónoma de México., ed. http://www2.inecc.gob.mx/ (en español). Consultado el 19 de febrero de 2021. ",
+        "bbox": [
+            82,
+            237,
+            931,
+            318
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de «https://es.wikipedia.org/w/index.php?title $=$ Fuente_hidrotermal&oldid $\\underline { { \\underline { { \\mathbf { \\delta \\pi } } } } }$ 170045832» ",
+        "bbox": [
+            72,
+            339,
+            783,
+            355
+        ],
+        "page_idx": 4
+    }
+]

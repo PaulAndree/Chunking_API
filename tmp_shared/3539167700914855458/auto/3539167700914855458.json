@@ -1,0 +1,360 @@
+[
+    {
+        "type": "text",
+        "text": "The Princess Diaries 2: Royal Engagement es la secuela de 2004 de The Princess Diaries (2001) dirigida por Garry Marshall. ",
+        "bbox": [
+            70,
+            140,
+            495,
+            195
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Argumento ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            232,
+            220,
+            256
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mia ha de asumir el hecho de que algún día será reina de Genovia y prepararse para ello. No obstante, ese paso ha de darlo más pronto de lo que esperaba. Además, tiene que pasar por muchas cosas divertidas y grandes obstáculos que cambiaran su vida para siempre. Pero, hay un problema: las princesas de Genovia deben contraer matrimonio antes de poder ser reinas y, al parecer, Mia aún no está preparada para este gran paso y le cuesta encontrar el amor verdadero. ",
+        "bbox": [
+            70,
+            271,
+            497,
+            459
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Reparto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            497,
+            178,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Julie Andrews: Reina Clarisse Renaldi   \nAnne Hathaway: Amelia \"Mia\" Mignonette   \nThermopholis Renaldi   \nChris Pine: Lord Nicholas Deveraux   \nHéctor Elizondo: Joe   \nJohn Rhys-Davies: Vizconde Mabrey   \nHeather Matarazzo: Lilly Moscobitz   \nCallum Blue: Andrew Jacoby   \nKathleen Marshall: Charlotte Kutaway   \nCaroline Goodall: Helen Thermopolis   \nTom Poston: Señor Palimore   \nPaul Williams: Señor Harmony   \nRaven-Symoné: Princesa Asana   \nLarry Miller: Paolo   \nGreg Lewis: Baron Siegfried von Traken   \nBonnie Aarons: Baronesa Joy de von   \nTraken   \nShea Curry: La Dama Brigitte   \nAnna A. White: La Dama Brigitta   \nCassie Rowell: La Dama Olivia ",
+        "bbox": [
+            80,
+            538,
+            495,
+            925
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/dae7f156e0b9f555cdd394b3b6deca0f36e5b3cecbe8e6b348c02273d575f773.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            100,
+            926,
+            948
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Posible secuela ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            102,
+            265,
+            124
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En marzo de 2016, Garry Marshall anunció planes para una tercera película de The Princess Diaries, con Hathaway retomando su papel.3 Cuando Marshall murió en julio de 2016, el proyecto se había archivado indefinidamente.4 En agosto del mismo año, Héctor Elizondo habló sobre el desarrollo de la tercera entrega y dijo: «Sé que a Anne le gustaría hacerlo. Sé que a Julie le gustaría hacerlo. Me gustaría hacerlo. Así que estamos a bordo, es una cuestión de cuándo y una cuestión de conseguir una buena historia. ¡Estoy listo! ¡Es hora de volver a Genovia!».5 ",
+        "bbox": [
+            70,
+            142,
+            497,
+            371
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En mayo de 2018, Anne Hathaway declaró que todavía le gustaría aparecer en una tercera película de Princess Diaries. Para enero de 2019, se confirmó que se completó un guion y que ella y ",
+        "bbox": [
+            70,
+            389,
+            499,
+            463
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/9e8bc4049e9e6a780e97dd5e796423001758795818ab92a3da56941d5222458d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            522,
+            40,
+            927,
+            122
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/ebcdd98662af3b1e0c90ad9142cf1e1f1e5e4c2d8187bab1daccbdb9cbee4bad.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            79,
+            926,
+            453
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Andrews están actualmente a bordo para coprotagonizar la película y que la productora Debra Martin Chase regresará. Además, afirmó que la película no entrará en producción hasta que «sea perfecta».6 ",
+        "bbox": [
+            68,
+            465,
+            934,
+            502
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 2022, de acuerdo a The Hollywood Reporter, Disney ya se encuentra trabajando en la secuela.7   \nEn septiembre de 2024, Disney anunció oficialmente la producción de la tercera parte de la trilogía.8 ",
+        "bbox": [
+            68,
+            517,
+            889,
+            572
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/8475c1ccb442faab30d09511f3bd27cd2754dfb677535e741b302bee30a30e0d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            68,
+            109,
+            907,
+            913
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e96caf135569a66d9255acaf1e64ebd23cb6c0b1bbad440618aa99fb524c29cf.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            68,
+            40,
+            907,
+            473
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Premios y nominaciones ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            495,
+            384,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "La banda sonora de John Debney ganó un premio ASCAP.   \nHector Elizondo estuvo nominado en los premios Imagen Foundation como Mejor actor de reparto.   \nEl guion de Shonda Rhimes estuvo nominado en los premios Black Reel como Mejor guion adaptado. ",
+        "bbox": [
+            80,
+            538,
+            932,
+            628
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            649,
+            262,
+            673
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The Princess Diaries ",
+        "bbox": [
+            82,
+            694,
+            292,
+            711
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            733,
+            225,
+            756
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. The Princess Diaries 2: Royal Engagement (2004) - Box Office Mojo (http://www.boxofficem ojo.com/movies/?page=main&id=princessdiaries2.htm) ",
+        "bbox": [
+            75,
+            777,
+            926,
+            811
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. The Princess Diaries 2: Royal Engagement - Box Office Data, DVD Sales, Movie News, Cast Information - The Numbers (http://www.the-numbers.com/movies/2004/PDIA2.php) ",
+        "bbox": [
+            77,
+            814,
+            927,
+            846
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. «Director Garry Marshall confirms Anne Hathaway is ready to film Princess Diaries 3» (http:// metro.co.uk/2016/03/14/director-garry-marshall-confirms-anne-hathaway-is-ready-to-film-pri ncess-diaries-3-5752472/). Metro.co.uk. 14 de marzo de 2016. Consultado el 31 de julio de 2021. ",
+        "bbox": [
+            77,
+            849,
+            932,
+            914
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. «Anne Hathaway says it felt good to play bad in Ocean's 8» (http://ew.com/movies/2018/05/ 29/anne-hathaway-oceans-8/). Entertainment Weekly. 29 de mayo de 2018. Consultado el 31 de julio de 2021. ",
+        "bbox": [
+            77,
+            42,
+            931,
+            91
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. « 'The Princess Diaries 3' Could Still Happen, According to Hector Elizondo» (https://www.m oviefone.com/2016/08/25/the-princess-diaries-3-could-still-happen-hector-elizondo/). Movie Fone. Consultado el 31 de julio de 2021. ",
+        "bbox": [
+            77,
+            95,
+            931,
+            142
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. «Anne Hathaway says 'we're working on' a third Princess Diaries film» (https://ew.com/movie s/2019/01/25/anne-hathaway-third-princess-diaries-film/). Entertainment Weekly. Consultado el 31 de julio de 2021. ",
+        "bbox": [
+            77,
+            147,
+            932,
+            194
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. «¡Por fin! Disney prepara 'El diario de la princesa 3' » (https://www.excelsior.com.mx/funcion/ por-fin-disney-prepara-el-diario-de-la-princesa-3/1552727). Excélsior. 16 de noviembre de 2022. Consultado el 16 de noviembre de 2022. ",
+        "bbox": [
+            75,
+            198,
+            931,
+            245
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. SensaCine.com.mx (4 de octubre de 2024). «¿Anne Hathaway regresa? Disney confirma nuevos detalles de 'El diario de la princesa 3' » (https://www.sensacine.com.mx/noticias/noti cia-1000107095/). SensaCine.com.mx. Consultado el 4 de octubre de 2024. ",
+        "bbox": [
+            77,
+            249,
+            931,
+            299
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            328,
+            289,
+            349
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The Princess Diaries 2: Royal Engagement (http://www.filmaffinity.com/es/film277409.html) en FilmAffinity. ",
+        "bbox": [
+            80,
+            371,
+            931,
+            406
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Princesa por sorpresa 2 (https://www.imdb.com/title/tt0368933/) en Internet Movie Database (en inglés) ",
+        "bbox": [
+            82,
+            407,
+            934,
+            440
+        ],
+        "page_idx": 4
+    }
+]

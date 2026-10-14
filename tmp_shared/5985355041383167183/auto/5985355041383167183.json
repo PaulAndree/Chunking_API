@@ -1,0 +1,222 @@
+[
+    {
+        "type": "text",
+        "text": "Una colonia, en biología, es un término utilizado ampliamente como un grupo de seres vivos organizados bajo bases cooperativas. ",
+        "bbox": [
+            70,
+            140,
+            578,
+            194
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Descripción ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            231,
+            226,
+            256
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Muchos invertebrados inferiores son coloniales, como muchos hidrozoos y antozoos (corales), o los briozoos; diversos individuos, llamados zooides, viven más o menos fusionados y, en algunos casos, existen diversos tipos de zooides especializados en diferentes funciones como las de digestión (gastrozooides); captura de presas y defensa (dactilozoides); o incluso reproducción (gonozoides). ",
+        "bbox": [
+            70,
+            271,
+            576,
+            403
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a80d89edd403cef977b4591c44b14e736f5c2db8a28a995f05bc1827b1262f81.jpg",
+        "image_caption": [
+            "Colonia de hidrozoos del género Aglaophenia. Se observa la estructura reproductora denominada córbula. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            148,
+            922,
+            309
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En el caso de los insectos sociales como las abejas, hormigas, termitas o avispas, los individuos son independientes, pero no pueden sobrevivir fuera de la colonia; existen castas con especialización de trabajos, así como un nido, que puede ser un hormiguero, un hueco de árbol, un termitero, una colmena rústica o una colmena semiartificial, como las que utiliza el apicultor. En el caso de las abejas melíferas cuando el apicultor las traslada a sus cajones hablamos de colmena. La colmena es la suma del material vivo (abejas), más los cajones donde se confinan las mismas; en la naturaleza, la colonia ocupa un hueco de un árbol, grietas o cavernas en roca, o elementos que el hombre construyó (recipientes, construcciones, etc.).1 ",
+        "bbox": [
+            70,
+            419,
+            931,
+            570
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tipos de colonias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            606,
+            295,
+            630
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Colonia de organismos unicelulares ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            668,
+            478,
+            690
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Una colonia celular es un grupo de células con similares características, que actúan en conjunto, con la particularidad de no formar una unidad estructural mayor o tejido. La colonia de bacterias puede variar según el método de cultivo que se elija. ",
+        "bbox": [
+            70,
+            697,
+            931,
+            752
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Esta organización se observa tanto en organismos unicelulares procariotas como eucariotas. ",
+        "bbox": [
+            70,
+            768,
+            811,
+            786
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hay colonias en las que cada una de las células desempeña todas las funciones de un ser vivo independiente, en otros casos, existe un principio de división del trabajo, ya que algunas células pueden diferenciarse y convertirse en células reproductoras; este tipo de colonias microbianas se pueden conformar biopelículas. ",
+        "bbox": [
+            70,
+            801,
+            931,
+            876
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Colonia de organismos pluricelulares ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            494,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Colonias de animales ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            93,
+            278,
+            110
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Una colonia es un grupo de individuos de la misma especie relacionados que viven juntos. Por ejemplo: castores, pingüinos y mejillones. ",
+        "bbox": [
+            77,
+            121,
+            931,
+            155
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Los insectos eusociales como las hormigas, ciertas abejas (abeja doméstica y abejorros),2 termitas y ciertas especies de avispas viven en colonias con una estructura social compleja. Pueden ser consideradas como superorganismos. ",
+        "bbox": [
+            80,
+            168,
+            929,
+            217
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            241,
+            223,
+            262
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. «Colonia (biología)» (http://es-la.dbpedia.org/page/resource/Colonia_(biolog%C3%ADa)). Consultado el 15 de diciembre de 2019. ",
+        "bbox": [
+            70,
+            283,
+            929,
+            317
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. «Honey Bee Colonies - an overview | ScienceDirect Topics» (https://www.sciencedirect.com/ topics/agricultural-and-biological-sciences/honey-bee-colonies). www.sciencedirect.com. Consultado el 3 de enero de 2020. ",
+        "bbox": [
+            75,
+            320,
+            932,
+            369
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            397,
+            262,
+            420
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Animal social   \nBiopelícula   \nCenobio (Biología)   \nColmena   \nEstromatolito   \nEusocialidad   \nHormiguero   \nOolito   \nPartenogénesis   \nSimbiosis   \nSuperorganismo ",
+        "bbox": [
+            80,
+            441,
+            273,
+            657
+        ],
+        "page_idx": 1
+    }
+]

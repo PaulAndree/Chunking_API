@@ -1,0 +1,1022 @@
+[
+    {
+        "type": "text",
+        "text": "Ultraviolet Reactivation and Ultraviolet Mutagenesis of $\\lambda$ in Different Genetic Systems ",
+        "text_level": 1,
+        "bbox": [
+            155,
+            119,
+            844,
+            166
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "M. DEFAIS,1 P. FAUQUET,1 M. RADMAN,2, 3 AND M. ERRERA ",
+        "bbox": [
+            186,
+            180,
+            807,
+            198
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Laboratoire de Biophysique et Radiobiologie, Faculté des Sciences, Université libre de Bruxelles, Brussels, Belgium ",
+        "bbox": [
+            141,
+            214,
+            860,
+            243
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted October 26, 1970 ",
+        "bbox": [
+            405,
+            248,
+            594,
+            262
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The ${ \\mathit { l e x } } ^ { + }$ function is necessary for the induction of clear mutations of bacteriophage $\\lambda$ by ultraviolet irradiation. ",
+        "bbox": [
+            178,
+            280,
+            819,
+            308
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ultraviolet reactivation of λ phage is also dependent on the ${ \\mathit { l e x } } ^ { + }$ function. ",
+        "bbox": [
+            192,
+            310,
+            771,
+            324
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ultraviolet mutations are affected to a small extent by the red+ function of $\\gimel$ phage whereas this function seems to play an important role in the spontaneous mutation process. ",
+        "bbox": [
+            176,
+            325,
+            819,
+            364
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When organisms like Escherichia coli or bacteriophage λ are irradiated with moderate UV doses, the preponderant lethal and mutagenic lesions in their DNA consist of pyrimidine dimers (cf. Howard-Flanders, 1968; Witkin, 1969; Radman et al., 1970). These can be eliminated either before DNA replication or during and/or after DNA replication by DNA repair mechanisms (cf. Howard-Flanders, 1968). Excision repair (controlled by bacterial uvr+ functions) seems to be responsible for the elimination of dimers before DNA replication; recombinational repair (controlled by bacterial $r e c ^ { + }$ and λred+ functions) then removes the remaining unexcised dimers (Rupp and Howard-Flanders, 1968; Radman et al., 1970). Among the survivors, mutants can be found; this fact suggests that either some lesions remain, DNA repair processes being occasionally inaccurate (Witkin, 1969), or perhaps that repair processes enable mutated organisms to survive. ",
+        "bbox": [
+            103,
+            382,
+            485,
+            742
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Most studies on UV mutagenesis have been carried out with $E$ coli (see Witkin, 1968); the essential conclusions can be summarized as follows: ",
+        "bbox": [
+            101,
+            744,
+            483,
+            792
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            508,
+            382,
+            713,
+            397
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Mutations are expressed after DNA replication (Haas and Doudney, 1960; Lieb, 1960). 2. Synthesis of proteins (Witkin, 1956) and of RNA (Doudney and Haas, 1959) is required. ",
+        "bbox": [
+            506,
+            399,
+            890,
+            490
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "3. The exr function of $E$ coli B (similar to the lex function in $E$ coli K12)(Witkin, 1967) and the $r e c A ^ { + }$ function (Miura and Tomizawa, 1968; Witkin, 1969) are required for UV mutagenesis. Excision repair by the uur+ functions does not seem to be mutagenic. ",
+        "bbox": [
+            506,
+            492,
+            888,
+            600
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "4. The majority of UV-induced mutations are single base substitutions as cited by Witkin from the data of Yanofsky on the A chain of tryptophan synthetase of $E$ . coli (Yanofsky, see Witkin, 1969). ",
+        "bbox": [
+            506,
+            602,
+            888,
+            678
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In the present study, we have used the phage $\\lambda / E$ coli system in order to study mutation induction by irradiation of extracellular phage. ",
+        "bbox": [
+            504,
+            680,
+            886,
+            741
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "UV reactivation is the increased survival of infective centers when UV irradiated phage infects a UV irradiated host, as compared with infection of unirradiated bacteria (Weigle, 1953). UV irradiation of both bacteriophage and host cell is also an essential condition for extensive mutagenesis of bacteriophage λ (Weigle, 1953; Miura and Tomizawa, 1968). ",
+        "bbox": [
+            504,
+            742,
+            886,
+            878
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The results of different studies on UV reactivation (Weigle, 1953; Miura and Tomizawa, 1968; Kneser, 1968) and UV mutagenesis (Jacob and Wollman, 1955; Devoret, 1965; Miura and Tomizawa, 1968) of $\\lambda$ phage are sometimes at variance, because the doses given to phage and host cell, respectively, were different. ",
+        "bbox": [
+            107,
+            104,
+            486,
+            227
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We report here a study of UV reactivation and UV mutagenesis of λ phage as a function of low UV doses using various bacterial strains mutant in their rec, uur, or lex functions. ",
+        "bbox": [
+            105,
+            229,
+            484,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            166,
+            320,
+            420,
+            334
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phages. ",
+        "text_level": 1,
+        "bbox": [
+            125,
+            344,
+            188,
+            358
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\lambda ^ { + }$ red5 defective in autonomous vegetative genetic recombination (Signer and Weil, 1968) was provided by Professor R. Thomas. ",
+        "bbox": [
+            103,
+            359,
+            484,
+            405
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacteria. strains derived from $\\pmb { { \\cal E } }$ coli K12 were used throughout. ",
+        "bbox": [
+            103,
+            406,
+            484,
+            437
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AB1157 is rec+ uvr+ lex+. Derivatives of this strain are: ",
+        "bbox": [
+            105,
+            437,
+            484,
+            468
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "AB1886: rec+ uvrA6 lex+ AB2463: recA13 uvr+ lex+ AB2494: rec+ uvr+ lexAB2474: rec+ uvrA6 lexAB2480: recA13 uvrA6 lex+ ",
+        "bbox": [
+            121,
+            468,
+            361,
+            547
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "These strains were isolated and described by Howard-Flanders and Boyce (1966) and Howard-Flanders and Theriot (1966). ",
+        "bbox": [
+            103,
+            545,
+            484,
+            591
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "All strains were the kind gift of Dr. R. Devoret. ",
+        "bbox": [
+            103,
+            593,
+            482,
+            623
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Media. TBl and TA7 (soft agar) and TA12 have been described by Kaiser (1955), TM is ${ \\bf 1 0 ^ { - 2 } }$ M Tris $, ^ { * }$ HCl pH 7 containing $1 0 ^ { - 2 }$ M $\\bf { M g S O _ { 4 } }$ . ",
+        "bbox": [
+            103,
+            623,
+            484,
+            686
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV irradiation. This was carried out with a Mineralight lamp having a maximum output at 2537 $\\mathring \\mathrm { A }$ Dose rates were measured with a Latarjet dosimeter (Latarjet et al., 1953). Phage were irradiated at concentrations between ${ \\bf 1 0 7 }$ and $\\mathbf { 1 0 ^ { 8 } }$ particles/ $\\mathrm { \\dot { m l } }$ in TM using a depth of about $\\textbf { 1 m m }$ Bacteria suspended in $1 0 ^ { - 2 }$ M $\\bf { M g S O _ { 4 } }$ were irradiated under the same conditions at a concentration of $2 \\times 1 0 ^ { 8 }$ bacteria/ml. ",
+        "bbox": [
+            103,
+            687,
+            482,
+            838
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phage assays. The survival of phage was measured according to Adams (1959), after a preadsorption time at $3 7 ^ { \\circ }$ of $2 0 ~ \\mathrm { \\ m i n }$ ; photoreactivation was avoided. ",
+        "bbox": [
+            101,
+            840,
+            482,
+            902
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV reactivation. Bacteria were harvested in exponential phase and resuspended in $1 0 ^ { - 2 }$ M $\\bf { M g S O _ { 4 } }$ Irradiated phage were preadsorbed on irradiated and unirradiated bacteria with a multiplicity of less than 0.05, giving practically complete adsorption. The double mutant AB2480 (recA13 uvrA6) was uscd as indicator strain to avoid rescuing irradiated unadsorbed phage. Plates were incubated overnight at $3 7 ^ { \\circ }$ . ",
+        "bbox": [
+            121,
+            904,
+            480,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            104,
+            886,
+            244
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mutation frequencies. To measure the frequency of $\\lambda$ clear mutations, phage suspensions were diluted to obtain about 3000 plaques on each plate. Three plates were poured for each dilution and each result given is an average of about 5 experiments. The observed mutants are probably a mixture of cI, cII, and $y$ mutants. The spontaneous mutation frequency of $\\lambda$ assayed on the different strains was measured using the same conditions. ",
+        "bbox": [
+            505,
+            245,
+            884,
+            415
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Error calculation. We took in account dispersion in counting both the clear mutants (c) and the wild-type plaques $\\left( \\mathbf { c } ^ { + } \\right)$ for overall counts. The error is: ",
+        "bbox": [
+            503,
+            416,
+            884,
+            479
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/077346672cdca2056761d2d35003f196afe1ef2376c5ae91225e1bee9e0ff2c2.jpg",
+        "text": "$$\n\\begin{array} { r } { \\Delta R = R \\underbrace { \\sqrt { \\left( \\frac { \\Delta x } { x } \\right) ^ { 2 } + \\left( \\frac { \\Delta y } { y } \\right) ^ { 2 } } } _ { \\left. \\begin{array} { l l } { \\left( \\frac { \\Delta x } { x } \\right) ^ { 2 } + \\left( \\frac { \\Delta y } { y } \\right) ^ { 2 } } \\\\ { \\left( \\frac { \\Delta x } { y } \\right) ^ { 2 } } \\end{array} \\right. } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            569,
+            487,
+            823,
+            527
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "where: ",
+        "bbox": [
+            503,
+            533,
+            563,
+            547
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "equation",
+        "img_path": "images/3c3ac96bde54a3ab353f3c7c9c5c24937dba93d52599c9498d16081796f48143.jpg",
+        "text": "$$\n\\Delta x = \\frac { \\sigma x } { \\sqrt { n } } \\qquad \\Delta y = \\frac { \\sigma y } { \\sqrt { m } }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            581,
+            559,
+            811,
+            594
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$\\boldsymbol { R }$ is the ratio ${ \\mathfrak { c } } / { \\mathfrak { c } } ^ { + }$ , $\\boldsymbol { x }$ is the number of counted c plaques $y$ is the number of counted ${ \\mathfrak { c } } ^ { + }$ plaques, $\\mathscr { n }$ and $\\mathbf { \\nabla } m$ are the numbers of measurements for c plaques and $\\mathfrak { c } ^ { + }$ plaques, respectively, $\\sigma x$ and σy are the standard deviations. ",
+        "bbox": [
+            503,
+            604,
+            884,
+            697
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            652,
+            708,
+            734,
+            722
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "UV Reactivation of Bacteriophage λ ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            727,
+            803,
+            744
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is known that the bacterial recA function is necessary for UV reactivation of $\\lambda$ phage and that this function is also required for $\\lambda$ mutagenesis (Miura and Tomizawa, 1968). We therefore checked both UV reactivation and UV mutagenesis with bacterial strains carrying a mutation in the lex gene which is, as mentioned earlier, analogous to the exr gene of $E$ coli $\\mathbf { B }$ and necessary for bacterial UV mutagenesis (Witkin, 1967). ",
+        "bbox": [
+            503,
+            750,
+            882,
+            918
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/dbe4be76022a2fd5ef09ad416c3039f6e03b1fb80d0452430a2450b6c45401a6.jpg",
+        "image_caption": [
+            "FIG. 1a. UV reactivation of $\\lambda$ phage as function of the UV dose given to each bacterial strain before adsorption. Phage were previously irradiated with the UV dose (ergs $\\mathrm { { m m ^ { - 2 } } }$ indicated in brackets) giving a similar survival in each bacterial assay.The \"UV reactivation factor\"is the ratio: (phage survival fraction on bacteria irradiated with the dose indicated on the abscissae)/(phage survival fraction on unirradiated bacteria).Symbols indicating the type of host cell used for phage assay are the followings: $\\times$ , AB1157, wild type; $\\bullet$ , AB1886, uvrA-; $\\blacktriangle$ , AB2463, recA; $+$ , AB2474, uvrA-lex\"; O, AB2494, lex-. The open symbol $\\triangle$ indicates an assay of the $\\gimel$ red5 mutant on AB2463. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            103,
+            108,
+            890,
+            488
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "FIG. 1b. UV reactivation of $\\pmb { \\lambda }$ phage in function of UV dose given to λ. Bacteria were irradiated prior to adsorption with the UV dose (ergs $\\mathrm { { m m } } ^ { - 2 }$ ) indicated in brackets. The legend is the same as for Fig. 1a. ",
+        "bbox": [
+            105,
+            601,
+            894,
+            643
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We used radiation-sensitive mutants of $\\boldsymbol { \\varepsilon }$ coli isolated in Howard-Flanders' laboratory. ",
+        "bbox": [
+            105,
+            659,
+            489,
+            706
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Typical results are shown in Figs. 1a and 1b. In Fig. 1a, λ phage is irradiated with a single dose for each bacterial assay and the UV reactivation is presented as a function of the dose given to each bacterial strain before adsorption of the phage. If UV reactivation occurs, the curve always shows a maximum. In a further experiment, cells were irradiated with a dose giving the maximum effect observed in Fig. la. These curves give $\\lambda$ survival as a function of UV dose to $\\lambda$ phage (Fig. 1b). We applied (Figs. 1a and 1b) those UV doses to both λ and host cell which gave the maximum effect (for example, 2000 ergs/ $\\mathrm { m m } ^ { 2 }$ to the phage assayed on AB1157 irradiated with 700 ergs $\\mathrm { m m } ^ { - 2 }$ . Neither lex nor recA mutants showed UV reactivation of $\\lambda$ phage. In contrast, uvrA mutants produce UV reactivation which strongly depends on the UV dose given to the phage and to the host. The lex mutants did not display any UV reactivation of λ phage behaving similarly to recA mutants (Miura and Tomizawa, 1968) (Fig. 1a, b). ",
+        "bbox": [
+            105,
+            708,
+            487,
+            922
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            659,
+            892,
+            830
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "UV Induction of λc Mutations ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            840,
+            769,
+            856
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Under the conditions required for UV reactivation, i.e., UV irradiation of both $\\lambda$ and host cell, Miura and Tomizawa (1968) obtained a maximal increase in $\\lambda$ clear muta",
+        "bbox": [
+            508,
+            861,
+            890,
+            922
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/1e397ec9856f37edda7cf570e9a838ad20a0259aa2b8f9a169d91e88c19dbb94.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            97,
+            106,
+            882,
+            484
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FIG. 2a. Frequency of clear mutations among UV-irradiated $\\lambda$ phage as function of the UV dose to the bacteria used for phage assays. The UV doses to $\\pmb { \\lambda }$ phage which produced similar lethality in all bacterial assays are indicated in parentheses. Symbols are explained in Fig. la legend. ",
+        "bbox": [
+            101,
+            495,
+            886,
+            538
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "FIG. 2b. Frequency of $\\gimel$ clear mutations in function of the UV dose given to phage. Phage assays are carried out with bacteria irradiated with a UV dose (ergs $\\mathrm { m m } ^ { - 2 }$ indicated in brackets) which gave maximal effects in Fig. 2a. Symbols are the same as those in Fig. 1a. ",
+        "bbox": [
+            99,
+            540,
+            884,
+            581
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "tions. However, they observed low mutation yields after irradiating only the phage. On the other hand, Jacob (1954) and Devoret (1965) reported rather extensive mutagenesis after irradiating only the host cell. ",
+        "bbox": [
+            103,
+            606,
+            482,
+            684
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In our experiments, bacteria with the $r e c ^ { + } \\ l e x ^ { + }$ genotype showed a slight increase in the frequency of $\\lambda$ clear mutations, after irradiating either the phage or the host only. In order to produce a larger number of clear mutations, the phage and the host must be irradiated. The relationship between the kinetics of induction of $c$ mutations as a function of the dose given to λ and to the host is very similar to the curves observed for UV reactivation (compare Figs. 2a and 2b for mutation frequencies with Figs. 1a and Fig. 1b for UV reactivation). ",
+        "bbox": [
+            101,
+            687,
+            480,
+            884
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The bacterial lex function which is necessary for UV mutagenesis of $E$ .coli is also necessary for induction by UV of clear mutations of λ. ",
+        "bbox": [
+            99,
+            886,
+            480,
+            915
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            503,
+            606,
+            882,
+            637
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The low increase of the $\\lambda$ clear mutation frequency (Fig. 2a) in recA hosts is within the limits of error. However, the experiments done with λ red5 phage on the same cell culture and reported in the same time show a mutation frequency of a lower magnitude (Table 2); the difference is probably due to the contribution of the $\\lambda$ red functions to UV-induced mutagenesis. ",
+        "bbox": [
+            503,
+            638,
+            882,
+            776
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Frequencies of Spontaneous λ Clear Mutations in Various Host Cells ",
+        "text_level": 1,
+        "bbox": [
+            501,
+            787,
+            880,
+            818
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "We analyzed the appearance of spontaneous λ clear mutations with both $\\lambda ^ { + }$ and $\\lambda$ red5 in different hosts (Table 3). In contrast to the UV induction of clear mutations, which are mostly dependent on bacterial recA and lex functions (Table 1), the functions, as well as recB, do not seem to influence the spontaneous mutation rate. Spontaneous phage mutagenesis is strongly dependent on the $\\lambda$ red+ function in all bacterial strains except AB1886 (Table 3). At present we do not know whether this exception is a general property of uur mutants or a particular case. ",
+        "bbox": [
+            501,
+            825,
+            880,
+            915
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/908c51dbf3910a1203e4eb621489e4e2bece4fe4c13b69c976a077cd3b9d18b8.jpg",
+        "table_caption": [
+            "TABLE 1 Frequency of λ Clear Mutations × 10-4 "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            109,
+            138,
+            894,
+            515
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3360a2c12d9298e4418b4bf693ea50450ab05655868cc9df6580cbb84fe8f0ea.jpg",
+        "table_caption": [
+            "TABLE 2 Frequency of Clear Mutations of λ+ And λ red5 × 10-4 "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            103,
+            566,
+            892,
+            706
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            105,
+            722,
+            488,
+            831
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            240,
+            841,
+            351,
+            855
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "UV Reactivation ",
+        "text_level": 1,
+        "bbox": [
+            107,
+            861,
+            244,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The results show that of the known bacterial functions affecting radiation sensitivity at least two of them recA and lex are essential for UV reactivation of λ phage. Genes controlling excision repair (uurA, uvrB and uvrC) do not seem to be required for this phenomenon (Radman and Devoret, in press). However, the UV reactivation peak obtained with uvr mutants is strongly dose dependent, i.e. the capacity for UV reactivation of these mutants is limited with respect to the dose to both λ and host cell. This is probably why some authors did not find UV reactivation in excision-deficient mutants (Miura and Tomizawa, 1968) and others found only a very small effect (Harm, 1963; Kneser, 1968; Kneser et al. 1965). ",
+        "bbox": [
+            105,
+            881,
+            488,
+            913
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            725,
+            890,
+            913
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/419dad953dcef2c3f0cb4ac85f0449906ec3d80b385039c31ef5b5e00cf98af7.jpg",
+        "table_caption": [
+            "TABLE 3 Frequency of Spontneous Clear Mutations OF PHAGE $\\lambda ^ { + }$ AND λ red5 $\\times ~ 1 0 ^ { - 5 }$ "
+        ],
+        "table_footnote": [
+            "a The figures in parentheses are the number of plaques observed in each experiment. "
+        ],
+        "bbox": [
+            103,
+            151,
+            487,
+            393
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            103,
+            440,
+            483,
+            487
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The mechanism of UV reactivation is completely unknown. Weigle (1953) found that the mutation frequency among UV reactivated $\\lambda$ phages is strongly increased. We have confirmed here his observation that the same functions involved in UV mutagenesis of $\\lambda$ (recA- and lex functions) are also necessary for UV reactivation. ",
+        "bbox": [
+            103,
+            488,
+            483,
+            612
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Two nonexclusive hypotheses might explain UV reactivation. On the one hand, Garen and Zinder (1955) suggested that recombination between $\\mathcal { E }$ coli DNA and λ DNA could lead to an increase both of viability of $\\lambda$ and of mutation frequency. This hypothesis could explain the requirement of recombination functions for UV reactivation. However, it is difficult to imagine that the \"heterologous\" recombination could eliminate dozens of pyrimidine dimers in λ DNA and lead to such a high increase in survival. In addition, the absence of attachment regions from the host and λ chromosomes does not affect UV reactivation (Radman and Devoret, in press). ",
+        "bbox": [
+            101,
+            613,
+            483,
+            858
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "The following hypothesis seems attractive: irradiation of the host might induce some bacterial function necessary for UV reactivation. A strong argument for this hypothesis is the absence of UV reactivation in the absence of protein and RNA synthesis (Ono and Shimazu, 1966). ",
+        "bbox": [
+            99,
+            859,
+            483,
+            919
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            506,
+            104,
+            888,
+            151
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UV Mutagenesis of λ Phage ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            163,
+            745,
+            180
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "For the induction by UV of λ clear mutations both bacterial recA and lex functions are necessary. As in the case of UV reactivation, irradiation of both $\\lambda$ and host cell is required for extensive mutagenesis of λ. In addition, the dose relationships for $\\lambda c$ mutations and UV reactivation are extremely similar for each strain used. This suggests that there may be some steps in common in the two processes. Isolation of bacterial mutants which are deficient in only one of them might give more information about the relations between UV reactivation and UV mutagenesis in phage. ",
+        "bbox": [
+            506,
+            186,
+            888,
+            404
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "UV-Induced Mutation and Recombination ",
+        "text_level": 1,
+        "bbox": [
+            506,
+            419,
+            860,
+            434
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Our results confirm Witkin's suggestion (Witkin, 1968) that excision repair is an accurate repair mechanism for eliminating premutational lesions: uur functions are not required for UV mutagenesis of $\\lambda$ phage. Recombination repair in which both $r e c A ^ { + }$ and ${ \\it l e x ^ { + } }$ functions are involved appears to be inaccurate and lead to mutation (see Witkin, 1969). Recombination repair (HowardFlanders, 1968) is probably involved in both UV reactivation and UV mutagenesis of $\\lambda$ phage and is enhanced when bacteria are UV irradiated. For equivalent levels of UV reactivation or mutagenesis, uvr mutants require much lower doses than uvr+ bacteria, as is the case for prophage induction. The dose reduction factor for UV reactivation, UV mutagenesis, and UV induction of $\\lambda$ in uur bacteria corresponds to the excision repair factor indicating the essential role of the residual pyrimidine dimers in these phenomena. In addition, the necessity of protein synthesis for UV mutagenesis (Witkin, 1956; Doudney and Haas, 1958), UV reactivation (Ono and Shimazu, 1966) and UV induction of prophage λ (Tomizawa and Ogawa, 1967) also suggests that one (or more) bacterial function(s) are induced by UV. This hypothesis is now being tested. ",
+        "bbox": [
+            504,
+            440,
+            886,
+            891
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It is worthwhile to notice that both recA and exrA (equivalent to lex) bacterial mutations suppress pleiotropically UV mutagenesis, UV reactivation, and prophage induction (Donch et al., 1970) suggesting that some common pathways might be involved in these phenomena. ",
+        "bbox": [
+            504,
+            888,
+            884,
+            918
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8cef8df21e104c92d70f2801c2644a8a997ab893ebd8c9c1141a2ff1153efd6b.jpg",
+        "image_caption": [
+            "FIG. 3. Comparison of UV-induced increase in recombination frequency among $\\lambda$ phage (data from Baker and Haynes, 1967) and UV-induced clear mutations in singly infected hosts (Table 1). Recombination frequencies in wild-type host AB1157 $( \\times )$ and AB1886, $u v r A ^ { - }$ (). Mutation frequencies in assays with AB1157 $( \\otimes )$ and AB1886, urA- $\\mathbf { \\eta } ( \\bullet )$ (irradiated with UV doses indicated in Fig. 2b). The points for recombination frequency are taken from Baker and Haynes and our data were normalized from the mutation rate of λ at a dose of $\\mathbf { 5 0 0 ~ e r g s / m m ^ { 2 } }$ , assayed on uvr $\\mathbf { A } ^ { - }$ bacteria. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            252,
+            107,
+            749,
+            449
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            105,
+            560,
+            489,
+            638
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UV induced recombination (Jacob and Wollman, 1955) seems to be a consequence of recombination repair (Radman et al., 1970) which is thought to occur after DNA replication (Rupp and Howard-Flanders, 1968). If this is true, one would expect a certain correlation between UV-induced recombination and mutation. Therefore, we have plotted the recombination frequencies determined by Baker and Haynes (1967) using the same phage and bacterial strains, and our mutation frequencies against the UV dose given to the phage (Fig. 3). UVinduced recombination (Baker, 1970) and mutation is nonirradiated phage (Table 1) both increase in a similar way (by a factor of 2 to 3) with the UV dose to the host cell. ",
+        "bbox": [
+            105,
+            638,
+            489,
+            904
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Similar correlations were found between spontaneous mutations and crossovers in meiosis (Magni and von Borstel, 1962) as well as for acridine mutations and recombination (Streisinger et al., 1966). If these correlations are correct then recombination as a mutagenic process has a key role in evolution. ",
+        "bbox": [
+            121,
+            905,
+            485,
+            919
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            563,
+            894,
+            670
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENT ",
+        "text_level": 1,
+        "bbox": [
+            608,
+            684,
+            795,
+            698
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We are indebted to Dr. R. Devoret and Dr. R. Thomas for helpful advice and to Dr. N. Willets for critical reading of the manuscript. ",
+        "bbox": [
+            510,
+            705,
+            892,
+            746
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "This work was carried out under contract Euratom-U.L.B. 007-61-10 ABIB and supported by the \"Fonds de la Recherche Fondamentale Collective.\" ",
+        "bbox": [
+            508,
+            748,
+            892,
+            802
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Error calculation for each experiment was kindly computed for us by Dr. R. George. ",
+        "bbox": [
+            510,
+            803,
+            890,
+            831
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            638,
+            844,
+            763,
+            858
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "ADAMs, M. H. (1959). \"Bacteriophages,\" pp. 443 522. Wiley (Interscience), New York. BAKER, R. M. (1970). Ph.D. thesis, Univ. of California, Berkeley. ",
+        "bbox": [
+            508,
+            865,
+            892,
+            920
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "BAKER, R. M., and HAYNES, R. H. (1967). UV induced enhancement of recombination among lambda bacteriophage in UV sensitive host bacteria. Mol. Gen. Genet. 100, 166177.   \nDevoRET, R. (1965). Influence du génotype de la bactérie hôte sur la mutation du phage $\\gimel$ produite par rayonnement ultra-violet. C. R. Acad. Sci. 260, 15101513.   \nDoNcH, J., GreEnBERG, J., and GreEN, M. H. L. (1970). Repression of induction by UV of λ phage by exrA mutations in E. coli. Genet. Res. 15, 8797.   \nDoUDNEY, C. O., and HAAs, F. L. (1958). Post irradiation modification ultraviolet light induced mutation frequency and survival in bacteria. Proc. Nat. Acad. Sci. U.S. 44, 390401.   \nDOUDNEY, C. O., and HAAS, F. L. (1959). Mutation induction and macromolecular synthesis in bacteria. Proc. Nat. Acad. Sci. U.S. 45, 709722.   \nGAREN, A., and ZINDER, N.D. (1955). Radiological evidence for partial genetic homology between bacteriophage and host bacteria. Virology l, 347376.   \nHAAS, F. L., and DouDNEY, C. O. (1960). Correlation of loss of photoreversibility of ultraviolet induced mutations with deoxyribonucleic acid synthesis. Nature (London) 185, 637638.   \nHARM, W. (1963). On the relationship between host-cell reactivation and U.V. reactivation in UV inactivated phages. Z. Vererbungslehre 94, 6779.   \nHoWARD-FLANDERs, P. (1968). DNA repair. Annu. Rev. Biochem. 31, 175200.   \nHOWARD-FLANDERs, P., and BoYCE, R. P. (1966). DNA repair and genetic recombination: studies on mutants of $\\pmb { \\mathcal { E } }$ . coli defective in these processes. Radiat. Res., Suppl. 6, 156184.   \nHOWARD-FLANDERS, P., and THERIOT, L. (1966). Mutants of E. coli K12 defective in DNA repair and in genetic recombination. Genetics 53, 1137- 1150.   \nHOWARD-FLANDERS, P., THERIOT, L., and STEDEFORD, J. B. (1969). Some properties of excision defective recombination deficient mutants of E. coli K12. J. Bacteriol. 97, 1134-1141.   \nJACOB, F. (1954). Mutation d'un bactériophage induite par l'irradiation des seules bactérieshôtes avant l'infection. C. R. Acad. Sci. 218, 732734.   \nJACOB, F., and WoLLMAN, E. L. (1955). Etude génétique d'un bactériophage tempéré d'E. coli III. Effet du rayonnement ultraviolet sur la recombinaison génétique. Ann. Inst. Pasteur 88, 724749.   \nKAISER, A. D. (1955). A genetic study of the temperate coliphage. Virology 1, 424-443.   \nKNESER, H. (1968). Relationship between Kreactivation and UV reactivation of bacteriophage λ. Virology 36, 303305.   \nKNESER, H., METZGER, K., and SAUERBIER, W. (1965). Evidence of different mechanisms for ultraviolet reactivation and \"ordinary host cell reactivation\"' of phage λ. Virology 27, 213221.   \nLATARJET, R., MORENNE, P., and BERGER, R. (1953). Un appareil simple pour le dosage des rayonnements ultraviolets émis par les lampes germicides. Ann. Inst. Pasteur 85, 174.   \nLIEB, M. (1960). Deoxyribonucleic acid synthesis and ultraviolet induced mutation. Biochim. Biophys. Acta 37, 155157.   \nMAGNI, G. E., and voN BoRSTEL, R. C. (1962). Different rates of spontaneous mutation during mitosis and meiosis in yeast. Genetics 47, 1097- 1108.   \nMIURA, A., and ToMIZAWA, J. (1968). Studies on radiation sensitive mutants of $\\pmb { \\cal E }$ coli III. Participation of the rec system in induction of mutation by ultraviolet irradiation. Mol. Gen. Genet. 103, 1-10.   \nOGAWA, H., SHIMADA, K., and TOMIZAWA, J. (1968). Studies on radiation sensitive mutants of E. coli I. Mutants defective in repair synthesis. Mol. Gen. Genet. 101, 227244.   \nONO, J., and SHIMAzU, Y. (1966). Ultraviolet reactivation of a bacteriophage containing a single-stranded deoxyribonucleic acid as a genetic element. Virology 29, 295-302.   \nRADMAN, M. (1969). Mécanismes de la réparation du DNA et leurs roles biologiques. Ph.D. Thesis, Univ. libre de Bruxelles.   \nRADMAN, M., and DEvORET, R. (1970). UV-reactivation of bacteriophage λ in excision deficient hosts: independence of red functions and attachment regions. Virology, in press.   \nRADMAN, M., CORDONE, L., KRSMANOVIc-SIMI, D., and ERRERA, M. (1970). Complementary action of recombination and excision in the repair of UV-damaged DNA. J. Mol. Biol. 49, 203-212.   \nRUPP, W. D., and HoWARD-FLANDERs, P. (1968). Discontinuities in the DNA synthesized in an excision defective strain of $\\pmb { \\cal E }$ coli following ultraviolet irradiation. J. Mol. Biol. 31, 291304.   \nSIGNER, E. R., and WEIL, J. (1968). Recombination in bacteriophage I. Mutants deficient in general recombination. J. Mol. Biol. 34, 261-271.   \nSTREIsiNgER, G., OKADA, Y., EMRICH, J., NewTON, J., TSUGITA, A., TERZAGGHI, E., and InoUYE, M. (1966). Frameshift mutations and thc genetic code. Cold Spring Harbor Symp. Quant. Biol. 31, 7784.   \nTOMIZAWA, J., and OGAWA, T. (1967). Effect of ultraviolet irradiation on bacteriophage lambda immunity. J. Mol. Biol. 23, 247263.   \nWeIGLE, J. J. (1953). Induction of mutation in a bacterial virus. Proc. Nat. Acad. Sci. U. S. 39, 628636.   \nWirkIN, E. M. (1956). Time, temperature and protein synthesis: a study of ultraviolet induced mutation in bacteria. Cold Spring Harbor Symp. Quant. Biol. 21, 123137.   \nWITKIN, E. M. (1967). Mutation proof and mutation prone modes of survival in derivatives of E. coli B differing in sensitivity to ultraviolet light. Brookhaven Symp. Biol. 20, 1755.   \nWITKIN, E. M. (1968). The role of DNA repair and recombination in mutagenesis. Proc. Int. Congr. Genet. 12th 3, 225245.   \nWITKIN, E. M. (1969). Ultraviolet induced mutation and DNA repair. Annu. Rev. Microbiol. 23, 487513. ",
+        "bbox": [
+            99,
+            102,
+            484,
+            895
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            501,
+            105,
+            886,
+            894
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            103,
+            104,
+            490,
+            245
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            507,
+            104,
+            892,
+            245
+        ],
+        "page_idx": 8
+    }
+]

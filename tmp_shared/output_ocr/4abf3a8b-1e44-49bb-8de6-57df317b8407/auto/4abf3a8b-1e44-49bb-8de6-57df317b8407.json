@@ -1,0 +1,1468 @@
+[
+    {
+        "type": "text",
+        "text": "Accepted Manuscript ",
+        "text_level": 1,
+        "bbox": [
+            158,
+            128,
+            382,
+            150
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Title: Protein damage, radiation sensitivity and aging ",
+        "bbox": [
+            156,
+            184,
+            573,
+            202
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Author: Miroslav Radman ",
+        "bbox": [
+            158,
+            219,
+            370,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "PII: S1568-7864(16)30105-7   \nDOI: http://dx.doi.org/doi:10.1016/j.dnarep.2016.05.025   \nReference: DNAREP 2275 ",
+        "bbox": [
+            156,
+            256,
+            733,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To appear in: DNA Repair ",
+        "bbox": [
+            160,
+            325,
+            431,
+            343
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Please cite this article as: Miroslav Radman, Protein damage, radiation sensitivity and aging, DNA Repair http://dx.doi.org/10.1016/j.dnarep.2016.05.025 ",
+        "bbox": [
+            156,
+            377,
+            833,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to our customers we are providing this early version of the manuscript. The manuscript will undergo copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please note that during the production process errors may be discovered which could affect the content, and all legal disclaimers that apply to the journal pertain. ",
+        "bbox": [
+            156,
+            428,
+            831,
+            534
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNARR16 ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            83,
+            225,
+            103
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Protein damage, radiation sensitivity and aging ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            123,
+            673,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman1,2 ",
+        "bbox": [
+            116,
+            219,
+            296,
+            238
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1Mediterranean Institute for Life Sciences (MedILS), 21000 Split, Croatia. ",
+        "bbox": [
+            116,
+            312,
+            708,
+            328
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2Inserm Unit 1001, Université Paris-Descartes, Sorbonne Paris Cité, Faculté de Médecine Paris Descartes, 75014 Paris, France. ",
+        "bbox": [
+            116,
+            339,
+            878,
+            374
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Abstract: ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            84,
+            202,
+            102
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This paper promotes a concept that protein damage determines radiation resistance and underlies aging and age-related diseases. The first bottleneck in cell recovery from radiation damage is functional (proteome) rather than informational (DNA), since prokaryotic and eukaryotic cell death correlates with incurred protein, but not DNA, damage. Proteome protection against oxidative damage determines survival after ionizing or UV irradiation, since sufficient residual proteome activity is required to turn on the DNA damage response, activating DNA repair and protein renewal processes. ",
+        "bbox": [
+            114,
+            122,
+            887,
+            287
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Extreme radiation and desiccation resistance of rare bacterial and animal species is accounted for by exceptional constitutive proteome protection against oxidative damage. After excessive radiation their well-protected proteome faithfully reconstitutes a transcription-competent genome from hundreds of DNA fragments. The observation that oxidative damage targeted selectively to cellular proteins results in aging-like phenotypes suggests that aging and age-related diseases could be phenotypic consequences of proteome damage patterns progressing with age. (149 words) ",
+        "bbox": [
+            114,
+            305,
+            887,
+            469
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Abbreviations: ROS – reactive oxygen species; UV - ultraviolet; NER - nucleotide excision repair; Gy - Gray, unit of ionizing radiation dose; bp - base pair. ",
+        "bbox": [
+            111,
+            489,
+            883,
+            521
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Keywords: Protein oxidation, reactive oxygen species, ionizing and UV irradiation, DNA repair, aging, age-related diseases. ",
+        "bbox": [
+            109,
+            568,
+            966,
+            602
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Introduction ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            83,
+            220,
+            99
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Here I advance a common-sense concept for better understanding of survival, morbidity and cell death after acute and chronic damage inflicted by radiation and time, respectively. The similarity between biological effects of radiation and aging is well established. Survival curves plotted as a function of acute radiation dose or time are similar: a \"shoulder\" indicative of negligible morality precedes an exponential decay in survival with increasing radiation dose or age (Figure 1). At significant doses, irradiation inflicts aging-like phenotypes and shortens lifespan (1). More to the point, mutations that increase or decrease lifespan increase or decrease cellular resistance to radiation and other types of oxidative stress, respectively (2-4). If there is a common underlying cause of morbidity and mortality associated with radiation and aging, the study of aging would profit from more research on the biological effects of radiation. ",
+        "bbox": [
+            114,
+            117,
+            887,
+            356
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Let us consider the question of the principal biological target of deleterious effects of radiation and aging, if there is indeed one. Is it DNA or proteins, both, or something else? The founding concept of radiation biology was \"target theory\" with DNA being the obvious target. This is true in the case of viruses irradiated before infecting an intact host cell: the slopes of survival curves without shoulders precisely reflect the size of the viral genome (4). But for irradiated cells the performance of the DNA repair proteome overwhelms the DNA size factor in radiation resistance, as reflected by spectacular effects of mutations in genes encoding proteins involved in DNA repair, regulation of DNA repair systems and cell division. ",
+        "bbox": [
+            114,
+            374,
+            887,
+            564
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Are proteins the key targets of biological effects of radiation? The arguments for a positive answer started accumulating over a decade ago, but have not yet been well recognized. Changing existing paradigms is usually slower than introducing new ones. In this paper I summarize supporting evidence that the proteome matters more than the genome in cell recovery from radiation damage and in resisting age-related cellular damage (also reviewed in ref 5). Concentrating only on DNA damage has obscured the importance of the limits to DNA repair capacity mainly because treatments that damage DNA also damage proteins and inactivate proteome functions, including DNA repair. In simple terms, intact proteins can repair even highly damaged DNA, whereas a perfect genome is essentially useless in the absence of active proteins. ",
+        "bbox": [
+            114,
+            580,
+            885,
+            819
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The resistance to the paradigm that proteome damage limits resilience to radiation more than DNA damage also derives from the nonsensical notion of DNA versus proteins. While the perpetuation of life is inconceivable without either, proteome functions can persist for some time without the genome. For example, in animal cloning experiments the enucleated cell maintains its functions before receiving a new nucleus, but cells devoid of protein activities are moribund, even with a pristine genome. The relevant question to be asked really is: what is the bottleneck in restoring life after exposure to irradiation? Below, I list the arguments that the first-in-line bottleneck to cell recovery is strongly dependent on residual proteome activity, including DNA repair activities, followed by the genomic bottleneck to the perpetuation of life via regulated proteome renewal. The residual proteome activity is an absolute condition for activation of cellular responses to damage that can be assured only by protection against proteome damage during irradiation, as in extremely resistant organisms. ",
+        "bbox": [
+            116,
+            837,
+            883,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            114,
+            81,
+            885,
+            295
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Comparing protein and DNA damage to survival. ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            350,
+            513,
+            368
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The importance of protein damage in the survival of cells exposed to radiation has remained elusive. But in fact, nearly all known cytotoxic treatments that damage DNA also damage proteins, a parameter that is rarely examined. In the studies reported here we have examined conditions that spontaneously increase or decrease oxidative proteome damage without affecting reactive oxygen species (ROS) levels or DNA damage prior to exposing cells to radiation (7). The selective proteome damage relies on observations that native folded proteins are generally resistant to oxidation but even subtle imperfections, e.g., random biosynthetic errors (7, 8), folding accuracy (7 - 9, 35) and amino acid substituting mutations (protein polymorphisms) (10) increase the susceptibility of affected protein molecules to oxidation at constant levels of ROS. ",
+        "bbox": [
+            116,
+            385,
+            885,
+            623
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Reciprocally, two treatments that inflict damage to DNA only: induction of type II restriction enzymes (11) and the use of particular topoisomerase inhibitors (12) both induce double-strand breaks in DNA. Whereas protein oxidative damage has not been examined after induction of restriction enzymes, quinolone antibiotics, inhibitors of DNA ligation step by topoisomerases, have been shown to increase protein carbonylation as a downstream physiological consequence of their effect on DNA (12). ",
+        "bbox": [
+            114,
+            641,
+            887,
+            781
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Ultraviolet (UVC) light damages DNA directly by absorption of energy by the DNA bases (peak at $2 6 5 \\mathrm { n m }$ ) producing dimerization of pyrimidines, but it is also very efficient in generating ROS (13, 14) damaging all classes of biological molecules. UVB light damages both DNA and proteins whereas UVA light is more damaging for proteins than for DNA (14) and its bactericidal activity correlates with protein damage (oxidative carbonylation) (15). Respiration and ATP production is the most UVA-sensitive vital process, while the most resistant is membrane depolarization and permeability that coincides with the loss of bacterial cell division (colony formation) (16). If we take into account bactericidal effects of both UVA (predominantly protein damage) and UVC (predominantly DNA damage), the conclusion (below) will be that proteome capacity to repair DNA is limited, therefore the first bottleneck in surviving both ionizing and UV radiation is the residual post-irradiation activity of the DNA repair proteome. ",
+        "bbox": [
+            116,
+            799,
+            885,
+            915
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            116,
+            81,
+            887,
+            245
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We have measured, in parallel, DNA and protein oxidative damage and have observed that UVC-inflicted protein carbonylation, but not the generation of 8-oxo-guanine, correlates perfectly with cell killing and mutation induction in E. col (7). The UVC and gamma rayinflicted loss of cellular biosynthetic activity (transcription, translation and replication of infecting phage DNA) has been monitored by the quantification of the capacity of individual $E .$ . coli cells infected after irradiation to produce phage particles (7, 13). Unlike cell survival curves, phage production curves (both, infective centers and burst size from single cells) as a function of host cell irradiation do not display a \"shoulder\" (13). E. colicapacity to produce lambda phage is more sensitive to UVC than its capacity to survive and produce colonies (13, Figure 2). This indicates that cells can tolerate and recover from certain level of proteome damage manifested as a decline in the capacity to produce phage (Figure 2). ",
+        "bbox": [
+            114,
+            263,
+            887,
+            527
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "When high resistance to radiation is generated in $E .$ coli by sequential selection in the laboratory (17), the capacity to produce phage parallels acquired cellular resistance and correlates with the ad hoc evolved protection or defense against oxidative proteome damage (13). Similarly, when isogenic E. coli strains bearing higher or lower levels of carbonylated proteins than the wild type strain are irradiated with UVC light, survival is inversely proportional to pre-existing proteome damage and cell killing correlates with additional UVC-inflicted protein carbonylation (7). ",
+        "bbox": [
+            114,
+            545,
+            887,
+            709
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "DNA repair is limited by proteome damage ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            764,
+            469,
+            782
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "While these observations establish that protein damage is more limiting to cell recovery than DNA damage, they do not suggest that cells can survive and divide with damaged DNA. In fact, there is an inverse correlation between proteome damage and residual unrepaired DNA damage (7). Apparently, radiation-inflicted reduction in DNA repair capacity is one among many phenotypic consequences of the damaged proteome (7, 14). ",
+        "bbox": [
+            116,
+            800,
+            887,
+            915
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Peter Karran and colleagues (this issue) came up with similar conclusion in studies of effects of UV light on human skin cells: oxidative damage to identified DNA repair (NER) proteins appears as a bottleneck in cellular DNA repair capacity and long-term cell survival (14). Both, Karran's and our groups reached a banal, but fundamental, conclusion: residual protein activity can repair inert damaged DNA and make it again fit for transcription and replication, but DNA cannot restore the proteome without pre-existing relevant protein activity. In other words, proteins and DNA are equally important for long-term survival, but without residual proteome activity after radiation stress even a perfect DNA is a dead molecule, an unread book. ",
+        "bbox": [
+            114,
+            81,
+            887,
+            270
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Studies of extremely radiation resistant bacteria and small invertebrates ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            326,
+            683,
+            343
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The above research and conclusions originate chronologically and logically from the studies of extremely radiation-resistant bacterial species, notably Deinococcus radiodurans (review, 5). It would be redundant to re-review several inspiring (18-21) and comprehensive (22, 23) reviews on the radiobiology of this remarkable bacterium. I shall extract here the gist from these reviews. The credit for drawing attention to previous studies and further elaborating that protein damage matters in extreme resistance of $D .$ . radiodurans bacterium to ionizing radiation goes to Michael Daly (24). By studying the effect of intracellular manganese concentration on survival and oxidative protein damage (carbonylation) following ionizing radiation, Daly and his colleagues have placed protein damage in the focus of radiation resistance. The ratio of intracellular $\\mathrm { F e } ^ { + + }$ and $\\mathrm { M n } ^ { + + }$ ions correlates remarkably with protein carbonylation and both correlate, over a range of four orders of magnitude, with gamma-ray sensitivity of diverse bacterial species (24). ",
+        "bbox": [
+            114,
+            361,
+            887,
+            648
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The following text will show that the basic principles established in D. radiodurans studies apply to, and help the understanding of, radiation resistance of all organisms. D. radiodurans did not evolve any special DNA repair systems that do not exist in other species (26), but it produces more protein protecting activity than the majority of other species. Its DNA repair proteins remain undamaged even at high radiation doses and perform much better than do oxidatively damaged repair proteins in other species (5). ",
+        "bbox": [
+            114,
+            666,
+            887,
+            806
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "When the mechanism of the reassembly of hundreds of DNA fragments into intact genomes basically devoid of radiation-induced point mutations was elucidated in $D$ . radiodurans (25, 26), it turned out that a cell capable of repairing 10 double-strand breaks can repair a 1000 breaks by doing a hundred times more of the same repair work. It appears that $D .$ radiodurans does not produce higher quantities of standard DNA repair proteins, nor is there evidence of their increased intrinsic specific activity (see ref 23). But $D .$ radiodurans synthesizes in excess a molecular cocktail of small $\\left( < \\mathrm { 3 \\ k D a } \\right)$ ) molecules that neutralize radiation-induced ROS before they damage proteins (13, 27). Additionally, both intracellular proteins and a foreign molecule (dihidrorhodamine) that detects intracellular ROS activity are equally well protected by the deinococcal cytoplasm from gamma and UVC radiation-generated ROS (13). This ROSneutralizing, protective, antioxidant deinococcal activity persists in cell-free extracts. When a 1:1 mixture of $D .$ radiodurans and $E$ colicell extracts was irradiated, E coli proteins were equally well protected by deinococcal metabolites as the deinococcal proteins (13). This is in agreement with the observed equal intrinsic susceptibility to carbonylation of $E _ { \\ast }$ coli and D. radiodurans proteomes at the saturation plateau of carbonylation (13 and Figure 1). ",
+        "bbox": [
+            116,
+            824,
+            885,
+            916
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            114,
+            80,
+            887,
+            344
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The radio-protective activity passes through molecular filters with the cut-off at $3 \\mathrm { k D a }$ . Daly and his colleagues reconstituted a complex of manganese, orthophosphate and amino acids that exhibits protection of purified proteins against radiation-induced carbonylation and inactivation of their function (27). Furthermore, addition of the reconstituted antioxidant to the growth medium significantly protects cultured human Jurkat cells from killing by gamma rays (27). ",
+        "bbox": [
+            116,
+            362,
+            887,
+            478
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Why don't all cells imitate $D .$ radiodurans and become resistant to radiation and desiccation? It is presumably a matter of selection of trade-offs in nature: reproductive efficiency versus individual cell robustness. D. radiodurans is ubiquitous but does not invade ecological niches because it grows slowly and is overgrown by more fragile but faster dividing bacteria. Being highly desiccation and radiation resistant, its time comes when there is a drought or high UV radiation - killing efficient but fragile competitors. Desiccated Deinococcus can travel like dust through the atmosphere and stratosphere where, after being exposed to vacuum and extreme UVC radiation, it eventually falls back to Earth with rain and snow and is resurrected thanks to the residual activity of its protected proteome. Such a lifestyle may explain the high yet similar genetic diversity of $D .$ radiodurans around the planet (28). ",
+        "bbox": [
+            114,
+            495,
+            887,
+            733
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Natural selection for desiccation and radiation resistance is neither an exclusive privilege of $D$ . radiodurans, nor of prokaryotes. The list of similarly resistant bacteria (28) and archaea (29) keeps growing with the effort to find them. The first desiccation-resistant species, observed by A. van Leeuwenhoek in 1687 as \"animalculus\" growing from dust put in water (30), were small invertebrates, the bdelloid rotifers, recently studied by Matthew Meselson and colleagues who showed that, like $D .$ radiodurans, they are also highly resistant to ionizing radiation (31). ",
+        "bbox": [
+            114,
+            751,
+            885,
+            893
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Mattimore and Battista suggested that extreme radiation resistance is the byproduct of natural selection for desiccation resistance (32). This seems likely since the two types of resistance generally go hand in hand and both require residual proteome activity protected from ROS, to initiate recovery. It is interesting that biological time stops during desiccation: bdelloid rotifers bearing an egg deliver healthy progeny even after years of desiccation. I received a gift of 20 years old Sonora desert sand samples that I kept dry at room temperature for a further 10 years and showed that they still yielded $D .$ radiodurans colonies, as well as other desiccation resistant species from genus Bacillus. ",
+        "bbox": [
+            116,
+            81,
+            885,
+            270
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "During visits to our Paris laboratory, Matthew Meselson joined forces with Anita Krisko and Magaly Leroy to study comparatively two couples of radiation resistant and standard species: (i) D. radiodurans and E. coli bacteria and (i) two invertebrates of similar size (about thousand non-dividing cells) - the bdelloid rotifer Adineta vaga and the nematode Caenorhabditis elegans yielded amazing similarity. When plotted against the ionizing radiation dose, survival curves of bacterial cells and of animal reproductive cells (fecundity) cross with curves of increase in protein carbonylation (13, 33 and Fig 1). In all four species, radiation-induced protein carbonylation and cell killing increase in parallel with radiation dose (at low doses for standard species and at high doses for resistant species) (13, 32, Figure 1). No cell death is detected before protein carbonylation starts increasing, but when the protecting capacity is lost (probably titrated at high radiation doses), killing and carbonylation increase with similarly for both couples of species (13, 33). The constitutive levels of protein carbonylation, without radiation, are about 5-fold lower in radiation-resistant species (indicated in Figure 1) than in standard species, showing that the protective activity against ROS is already present at the time of radiation, in the absence of metabolism (in phosphate buffer on ice). ",
+        "bbox": [
+            114,
+            289,
+            887,
+            649
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Protein damage correlates with cell death ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            704,
+            446,
+            720
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "A recurrent question over the interpretation of \"Krisko plots\" in Figure 1 is whether protein carbonylation is the cause, consequence, or merely a correlate (marker) of cell death? It is neither consequence nor correlate, because an isogenic recA mutant shows the same protein carbonylation as the wild type at many orders of magnitude lower survival (13 and A. Krisko, unpublished). In addition, since radiation was carried out in ice-water and measured as soon as possible after radiation, it is difficult to imagine how could protein carbonylation be the consequence of death that has not yet taken place. Death occurs much later and is finally revealed by the observation of bacterial colonies and animal progeny a day, or few days, after metabolizing in growth medium. ",
+        "bbox": [
+            116,
+            738,
+            885,
+            904
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            116,
+            81,
+            883,
+            124
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "What decides who dies and who survives in an irradiated clonal bacterial population? We have measured, in irradiated $D .$ radiodurans and $E . { \\mathrm { \\ c o l i } }$ protein carbonylation through the time of recovery in rich medium until the division of surviving cells resumes. At sub lethal dose (5000 and $2 0 0 ~ \\mathrm { G y }$ , respectively), the bacterial cell populations get rid of the carbonylated proteins by the activity of $\\mathrm { L o n / C l p X P }$ protease, whereas at lethal dose ( $1 \\%$ survival at 14 and $0 . 8 \\mathrm { \\ k G y }$ respectively) protein carbonylation - already at the saturation plateau - is stationary until 8 hours after irradiation for $D .$ radiodurans when a burst of newly synthesized highly carbonylated proteins rises three times above the saturation by irradiation. Since, at this time, radiationinduced ROS are non-existent(?), this suggests that lethally damaged cells start producing proteins highly susceptible to carbonylation at measured normal ROS levels (S. Cvjetan, M. Kuzmic, J. Simunic, A. Krisko, M. Radman, prepared for publication). Blocking initiation of de novo protein synthesis by the bacteriostatic antibiotic kasugamycin, from 6 hours after irradiation, precludes both protein carbonylation and membrane permeability, meaning that cell death is in a \"frozen\" state. ",
+        "bbox": [
+            114,
+            143,
+            887,
+            478
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "To visualize the degree of importance of protein carbonylation for cell death, cell killing was plotted against global proteome carbonylation for the couples of bacterial and animal species (ref 6, 23 and Figure 3). A common relationship (hyperbolic, leveling necessarily at $1 0 0 \\%$ killing) erases differences in the applied kind (ionizing and UV) and dose of radiation, as well as bacterial radiation resistance status. The plot in Figure 3 leaves no option for any significant causes of death other than protein carbonylation (and/or any other oxidative damage that occurs in parallel with carbonylation). Whatever the difference between prokaryotic cells and animal reproductive cells, protein carbonylation measured before death (i.e., immediately after radiation) appears as the key correlate of death. The reproductive death of two animals was measured as sterilization, i.e., loss of fecundity due to the death of egg cell function, but the somatic survival of the both invertebrates - composed of post-mitotic cells - exhibits five times higher resistance (\"shoulder\") to radiation than does their reproductive survival (33). Amazingly, a \"memory\" (in F1 and F2 generation) of radiation of bdelloid rotifer's mothers and grandmothers was observed among the surviving progeny (in the absence of any further radiation) as a loss in fecundity proportional to radiation dose applied to the ancestor (33). ",
+        "bbox": [
+            114,
+            496,
+            885,
+            857
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Another curiosity is that saturation levels of proteome carbonylation by ionizing (and UV, when applied) radiation in all tested species (two bacterial and two animal species, as well as human cells, 34) are similar ( $7 + / - \\ 0 . 5 \\ \\mathrm { n m o l }$ carbonyls/mg protein, see Figure 1). This means that the evolved intrinsic proteome resistance to oxidation is constant across the aerobic species, reminding of another universality - that of spontaneous mutation rates (around $1 0 ^ { - 9 }$ per bp/DNA replication) (35). Only the pathogenic bacteria seem to have evolved significant intrinsic proteomic oxidation resistance, presumably by constant selection for resistance to ROS generated by the immune system cells (macrophages) to kill the infecting bacteria (35). ",
+        "bbox": [
+            116,
+            81,
+            885,
+            270
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Proteome damage generates a wealth of phenotypes ",
+        "text_level": 1,
+        "bbox": [
+            114,
+            326,
+            531,
+            343
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We can summarize these radiation studies by stating, perhaps awkwardly, that cell morbidity and mortality are phenotypic expressions of the extent and pattern of oxidative damage to cellular proteins. This introduces the theme of the emergence of variable phenotypes, independently of genomic change, although some phenotypes of a damaged proteome should, and do, affect the fate of the genome (e.g., genomic mutation rates and probably DNA methylation; see below). Unlike physiological, usually reversible, post-translational modifications that control and modify protein stability and activity, protein carbonylation is generally toxic and irreversible for the affected molecule, i.e., irreparable. However, protein turnover makes up for the reversibility of cellular protein carbonylation, and the reversibility of associated phenotypes at the cellular level (7). ",
+        "bbox": [
+            116,
+            362,
+            887,
+            599
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "To test for phenotypic effects of proteome oxidative damage, we used conditions (described above) altering solely protein carbonylation, at constant ROS. Other commonly used treatments that inflict oxidative damage to proteins also damage nucleic acids, lipids, sugars and metabolites, making any specific conclusions impossible. We exploited the fact that (i) most proteins from aerobic organisms are resilient to oxidation, and (ii) even subtle deviations from native protein sequence and folding can expose amino acid side chains (in particular lysine, arginine, threonine and proline) to carbonylation, and therefore increase protein susceptibility to such damage (7-9, 37). Hence, both increase and reduction in constitutive proteome carbonylation, relative to the wild type, can be achieved by using ribosomal low and high fidelity mutants, deletions and over-expression of chaperones and protein clearance-deficient Lon protease mutants (7). ",
+        "bbox": [
+            114,
+            616,
+            885,
+            880
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "At constant ROS, a wide range of constitutive protein carbonylation levels was obtained in $E$ . $c o l i ,$ from very low (e.g., rpsL) to prohibitively high (tig lon, double deletion mutant). The latter strain suffered proteomic catastrophe (protein carbonylation and aggregation) preventing colony formation without supplementation of the growth medium by the antioxidant Trolox (7). A gradient of constitutive protein carbonylation levels (in a 10-fold range) of 20 strains resulted in a gradient of phenotypes such as the global biosynthetic capacity (50-fold range in the production of lambda phage), cell resistance to UVC radiation, induced mutagenesis, DNA repair and spontaneous mutation rates (100-fold range). Such phenotypic alterations were not due to the primary effect of protein misfolding, since water-soluble vitamin E (Trolox) prevented these phenotypes in proportion to the reduction of protein carbonylation (7). Most likely, modification of the misfolded protein by carbonylation locks-in the abnormal structure precluding refolding by chaperones. ",
+        "bbox": [
+            114,
+            81,
+            885,
+            369
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "It is unlikely that Trolox could restore the activity of a deleted chaperone, improve fidelity of a mutant ribosome or compensate for the deleted protease. Presumably, by preventing oxidation of the misfolded protein, Trolox permits its refolding by the compensating chaperones. The paper in ref. 7 lays ground for the concept that phenotypes can emerge, last and progress, or reverse, as the consequence of proteome damage level. ",
+        "bbox": [
+            116,
+            385,
+            885,
+            503
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Proteome damage determines spontaneous and induced mutation rates ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            557,
+            686,
+            574
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Leslie Orgel hypothesized that errors in protein biosynthesis can feed back on DNA replication and transcription fidelity, i.e., that erroneous proteins involved in DNA metabolism could exert a mutagenic effect (38). Briefly, bad proteins make bad DNA. Past attempts to demonstrate this experimentally were not convincing. However, E. coli mutA and mutC genes bearing mutation in specific tRNA anticodons increase both mistranslation and spontaneous mutation rates (39) providing support to Orgel's error catastrophe hypothesis, initially postulated as the molecular basis of aging. Figure 4 shows that doubling constitutive protein carbonylation increases spontaneous mutation rate by 100-fold, i.e., spontaneous mutation rates rise with 6th to 7th power of protein carbonylation. Comparatively, induced mutation frequency rises linearly, or squared, with UV dose (40). Both DNA replication fidelity and mismatch repair efficiency seem to be affected by the exclusive oxidative proteome damage (7). Similarly, UVC-induced mutagenesis follows the curves of UVC-induced protein carbonylation (both level-off at the same dose) and not of the incurred oxidative DNA damage (linear increase in the relevant dose range) (7). Clearly, the residual proteome activity determines the levels of both residual mutagenic DNA damage and the fidelity of DNA replication thereby determining both induced and spontaneous mutation rates. ",
+        "bbox": [
+            114,
+            592,
+            885,
+            904
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            116,
+            81,
+            883,
+            148
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Reducing protein carbonylation to a certain level below the wild type level reduced spontaneous mutation rate by 5-fold. This is the first identification of protein damage as the dominating determinant of spontaneous mutation rates (7, Figure 4). Thus, among several measured phenotypes of protein damage, the mutator phenotype is a prominent one showing another, genetic, aspect of the biological effects of proteome damage. While phenotypes of protein damage are reversible upon decrease in protein carbonylation by selective protein turnover (7, 8,) or addition of Trolox (7), mutation and stable epigenetic consequences of such reversible phenotypes, are irreversible, i.e., remain \"memorized\". ",
+        "bbox": [
+            114,
+            167,
+            887,
+            355
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, protein damage appears to be more mutagenic than DNA damage. It would be surprising if these new fundamental insights into the origin of spontaneous and induced mutation rates do not apply to all species and therefore relate to the etiology of mutation-driven carcinogenesis. The reason for extensive review of a paper coauthored by myself (7) and unnoticed by the scientific community 3 years after its publication, can be found by reading it. ",
+        "bbox": [
+            116,
+            374,
+            885,
+            490
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Aging and disease - phenotypes of proteome damage? ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            545,
+            550,
+            562
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Now, back to the beginning of this paper to consider the similarities between radiationresistance (robustness) and chrono-resistance (longevity) in the light of the proteome damage paradigm. A wealth of emerging deleterious phenotypes resulting from the diversity in extent and pattern of oxidative proteome damage can be imagined in the framework of a common mechanism underlying aging and age-related diseases. Unlike acute radiation damage, progressive time-inflicted damage, called aging, is an accelerating degradation of biological activities causing progressive malfunction, morbidity and finally death (3, 44). ",
+        "bbox": [
+            114,
+            580,
+            887,
+            744
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Statistically, the incidence of nearly all age-related diseases and death increases exponentially with age with similar slopes (Gompertz curves; 5th power of age) suggesting a likely common underlying cause, called intrinsic aging (44). We posit that the chemistry of intrinsic aging is oxidative protein damage accumulating exponentially with age in animals and humans (45) and causing an avalanche of morbid phenotypes. Hence, aging and age-related diseases could be emerging phenotypes of increasingly damaged, progressively malfunctioning proteomes. ",
+        "bbox": [
+            116,
+            763,
+            885,
+            903
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "However, the reasons for species-specific rates of increase in protein damage with age remain obscure. ",
+        "bbox": [
+            114,
+            81,
+            883,
+            123
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Unlike for protein damage after acute radiation stress, the patterns of spontaneous oxidative proteome damage are \"snapshots\" of variable equilibria between incurred damage and the clearance of damaged proteins by the 20S proteasome activity and autophagy (37, Figure 5) averaged over a million cells (sample size required for 2D-DIGE analysis). Countless aging phenotypes can be downstream phenotypic consequences of proteome dysfunction caused by accumulating proteome damage that can affect any cellular process, including gene expression (e.g., by alteration in DNA methylation patterns) and protein activity (directly or via acquired somatic mutations, e.g., in cancer). Preventative intervention points are indicated in Figure 5. ",
+        "bbox": [
+            114,
+            142,
+            887,
+            332
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Understanding the underlying cause(s) and mechanism(s) of phenotypic changes emerging with age is an important global public health project because about $9 0 \\%$ of morbidity and mortality in developed countries is associated with age. Even the outcome of infection depends on the fitness and efficacy of the immune system known to decline with age. Here, I have highlighted only few arguments in support of the hypothesis that aging and age-related diseases can be phenotypic consequences of accumulating oxidative protein damage and that protein polymorphism can cause unique patterns of protein damage polymorphism determining individual predisposition to age-related diseases (10). ",
+        "bbox": [
+            114,
+            349,
+            887,
+            539
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements: I am grateful for financial support from the Jean-Noël Thorel Foundation. NAOS group (France), Orbico group (Croatia, Mr. B. Roglic) and, formerly, the Swiss FNAB foundation and donations from 26 Croatian companies and the city of Split, all assured MedILS operations and students' fellowships. Anita Krisko carried out the majority of the reviewed experiments in both laboratories. She and Errol C Friedberg improved the text. Discussions with her and Matt Meselson were most inspiring. François-Xavier Pellay, Dea Slade, Ivan Matic and Ksenija and Davor Zahradka are precious current colleagues or former and my favorite critics. Mikula Radman made the drawings. MedILS is home of most of our above reviewed research in constant cooperation with Inserm U-1001 and its director I. Matic. Our research in Paris was supported (2010-2014) by an AXA Research Fund grant to M.R. ",
+        "bbox": [
+            114,
+            557,
+            885,
+            795
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "References: ",
+        "text_level": 1,
+        "bbox": [
+            116,
+            84,
+            227,
+            102
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1. R.B. Richardson, Ionizing radiation and aging: rejuvenating an old idea, Aging 1 (2009) 887-   \n902. ",
+        "bbox": [
+            109,
+            123,
+            882,
+            155
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2. M. Holzenberger, J. Dupont, B. Ducos, P. Leneuve, A. Géloën, P.C. Even, P. Cervera, Y. Le Bouc, IGF-1 receptor regulates lifespan and resistance to oxidative stress in mice, Nature 421 (2003) 182-187. ",
+        "bbox": [
+            114,
+            166,
+            885,
+            216
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "3. C. Lopez-Otin, M.A. Blasco, L. Partridge, M. Serrano, G. Kroemer, Hallmarks fo aging, Cell   \n153 (2013) 1194-1217. ",
+        "bbox": [
+            114,
+            232,
+            882,
+            267
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "4. C. Yu, Y. Li, A. Holmes, K. Szafranski, C.G. Faulkes, C.W. Coen, R. Buffenstein, M. Platzer, J.P. de Magaelhaes, G.M. Church, RNA sequencing reveals differential expression of mitochondrial and oxidation reduction genes in the long-lived naked mole-rat whan compared to mice, PLoS ONE 6 (2011) e26729. ",
+        "bbox": [
+            114,
+            276,
+            885,
+            343
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "5. M. Radman, Target size of DNA in ultraviolet irradiation, Nature New Biology 230 (1971)   \n277-278. ",
+        "bbox": [
+            111,
+            353,
+            880,
+            388
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "6. A. Krisko, M. Radman, Biology of extreme radiation resistance: the way of Deinococcus radiodurans, Cold Spring Harb Perspect Biol 2013; 5:a012765. ",
+        "bbox": [
+            112,
+            402,
+            882,
+            438
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "7. A. Krisko, M. Radman, Phenotypic and genetic consequences of protein damage, PLoS Genet (2013) 9(9): e1003810. ",
+        "bbox": [
+            111,
+            464,
+            885,
+            497
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "8. S. Dukan, A. Farewell, M. Balesteros, F. Taddei, M. Radman, T. Nystrom, Protein oxidation in response to increased transcriptional and translational errors, Proc Natl Acad Sci USA 97 (2000) 5746-5749. ",
+        "bbox": [
+            116,
+            513,
+            883,
+            561
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "9. A. Fredricksson, M. Balesteros, S. Dukan, T. Nystrom, Defense against protein carbonylation by DnaK/DnaJ and proteases of the heat shock regulon, J Bactriol 187 (2005) 4207-4213. ",
+        "bbox": [
+            114,
+            573,
+            883,
+            623
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "10. M. Radman, A. Krisko, Protein damage in aging and age-related diseases, Intern Patent Publ No: WO 2014/125376 A2; PCT/IB2014/000/700 ",
+        "bbox": [
+            111,
+            634,
+            882,
+            668
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(11) Y. Asakura, I. Kobayashi, From damaged genome to cell surface: transcriptome changes during bacterial cell death triggered by loss of a restriction-modification gene complex, Nucleic Acids Res 37 (2009) 3021-3031. ",
+        "bbox": [
+            114,
+            679,
+            885,
+            729
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "12. M.A. Kohanski, D.J. Dwyer, B. Hayete, C.A. Lawrence, J.J. Collins, A common mechanism of cellular death induced by bactericidal antibiotics, Cell130 (2007) 797-810 ",
+        "bbox": [
+            112,
+            738,
+            883,
+            774
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "13. A. Krisko, M. Radman, Protein damage and death by radiation in Escherichia coli and Deinococcus radiodurans. Proc. Natl. Acad. Sci. USA 107 (2010)14373-14377. ",
+        "bbox": [
+            116,
+            783,
+            882,
+            818
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "14. Q. Gueranger, F. Li, M. Peacock, A. Larnicol-Fery, R. Brem, P. Macpherson, J.-M. Egly, P. Karran, Protein oxidation and DNA repair Inhibition by 6-thioguanine and UVA radiation J. Invest. Dermatol. 134 (2014) 1408-1417. ",
+        "bbox": [
+            116,
+            827,
+            942,
+            878
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "15. F. Bosshard, K. Riedel, T. Schneider, C. Geisler, M. Bucheli, T. Egli, Protein oxidation and aggregation in UVA-irradiated Escherichia coli cells as signs of accelerated cellular senescence, Environ Microbiol (2010) 12(11): 2931-2945. ",
+        "bbox": [
+            114,
+            893,
+            885,
+            910
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            111,
+            81,
+            941,
+            115
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "16. F. Bosshard, M. Bucheli, Y. Meur, T. Egli, The respiratory chain is cell's Achilles' heel during UVA inactivation in Escherichia coli, Microbiology156 (2010) 1-10. ",
+        "bbox": [
+            111,
+            130,
+            887,
+            166
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "17. Harris DR, Pollock SV, Wood EA, Goiffon RJ, Klingele AJ, Cabot EL, Schackwitz W, Martin J, Eggington J, Durfee TJ, Middle CM, Norton JE, Popelars M, Li H, Klugman SA, Hamilton LL, Bane LB, Pennacchio L, Albert TJ, Perna NT, Cox MM, Battista JR. Directed evolution of radiation resistance in Escherichia coli , J Bacteriol 191 (2009) 5240–5252. ",
+        "bbox": [
+            116,
+            174,
+            885,
+            242
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "18. M.M. Cox, J.R. Battista, Deinococcus radiodurans - The consummate survivor, Nature Rev Microbiol3 (2005) 882-892. ",
+        "bbox": [
+            114,
+            252,
+            883,
+            286
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "19. M.J. Daly, A new perspective on radiation resistance based on Deinococcus radiodurans, Nat Rev Microbiol 7(3) (2009) 237-245. ",
+        "bbox": [
+            112,
+            296,
+            883,
+            331
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "20. M.J. Daly, Death by protein damage in irradiated cells, DNA Repair 11 (2012)12–21. ",
+        "bbox": [
+            116,
+            340,
+            829,
+            359
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "21. J.R. Battista, Against all odds - the survival strategies of Deinococcus radiodurans, Annu Rev Microbiol 51 (1997) 203-224. ",
+        "bbox": [
+            114,
+            369,
+            888,
+            402
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "22. M. Blasius, U. Hubscher, S. Sommer, Deinococcus radiodurans: What belongs to the survival kit? Crit Rev Biochem Mol Biol 43 (2008) 221–238. ",
+        "bbox": [
+            111,
+            413,
+            883,
+            447
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "23. Slade D, Radman M. Oxidative Stress Resistance in Deinococcus radiodurans . Microbiol.   \nMol. Biol. Rev. 75 (2011)133-191. ",
+        "bbox": [
+            114,
+            458,
+            882,
+            492
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "24. M.J. Daly, E.K. Gaidamakova, V.Y. Matrosova, A. Vasilenko, M. Zhai, et al. Accumulation of Mn(II) in Deinococcus radiodurans facilitates gamma-radiation resistance, Science 306 (2004) 1025–10284. ",
+        "bbox": [
+            116,
+            502,
+            883,
+            552
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "25. K. Zahradka, D. Slade, A. Bailone, S. Sommer, D. Averbeck, M. Petranovic, M. Radman, Reassembly of shattered chromosomes in Deinococcus radiodurans. Nature 443 (2006) 569– 573. ",
+        "bbox": [
+            116,
+            562,
+            883,
+            612
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "26. D. Slade, A.B. Lindner, G. Paul, M. Radman, Recombination and replication in DNA repair of heavily irradiated Deinococcus radiodurans, Cell 136 (2009) 1044–1055. ",
+        "bbox": [
+            114,
+            623,
+            882,
+            659
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "27. M.J. Daly, E.K. Gaidamakova, V.Y. Matrosova, J.G., Kiang, R. Fukumoto, D-Y. Lee, N.B. Wehr, G.A. Viteri, B.S. Berlett, R.L. Levine, Small-molecule antioxidant proteome-shields in Deinococcus radiodurans. PLoS ONE (2010)5(9):e12570.doi:10.1371/journal.pone.0012570. ",
+        "bbox": [
+            116,
+            667,
+            883,
+            718
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "28. F.A. Rainey, K. Ray, M. Ferreira, B.Z. Gatz, M.F. Nobre, D. Bagaley, B.A. Rash, M.J. Park, A.M. Earl, N.C. Shank, A.M. Small, M.C. Henk, J.R. Battista, P. Kampfer, M.S. da Costa, Extensive diversity of ionizing-radiation-resistant bacteria recovered from Sonoran Desert soil and description of nine new species of the genus Deinococcus obtained from a single soil sample. ApplEnviron Microbiol71 (2005) 5225–5235. ",
+        "bbox": [
+            116,
+            729,
+            883,
+            812
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "29. Y. Zivanovic, J. Armengaud, A. Lagorce, C. Leplat, P. Guérin, M. Dutertre, V. Anthouard, P. Forterre, P. Wincker, F. Confalonieri, Genome analysis and genome-wide proteomics of Thermococcus gammatolerans, the most radioresistant organism known amongst the Archaea, Genome Biology 10 (2009) 10: R70 (doi:10.1186/gb-2009-10-6-r70) ",
+        "bbox": [
+            114,
+            823,
+            885,
+            889
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "30. B.J. Ford, Leeuwenhoek's specimen discovered after 307 years, Nature 292 (1981) 407. ",
+        "bbox": [
+            114,
+            83,
+            846,
+            99
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "31. E. Gladyshev, M. Meselson, Extreme resistance of bdelloid retofers to ionizing radiation.   \nProc Natl Acad Sci USA 105 (2008) 5139-5144. ",
+        "bbox": [
+            116,
+            110,
+            875,
+            144
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "32. Mattimore V, Battista JR. Radioresistance of Deinococcus radiodurans: functions necessary to survive ionizing radiation are also necessary to survive prolonged desiccation. J. Bacteriol. 1996;178:633–637 ",
+        "bbox": [
+            114,
+            155,
+            885,
+            204
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "33. A. Krisko, M. Leroy, M. Radman, M. Meselson, Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers. Proc Natl Acad Sci USA 109 (2012) 2354-2357. ",
+        "bbox": [
+            112,
+            216,
+            882,
+            249
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "34. A. Nikolic, M. Peric, R. Ladouce, A.M. Mikecin, F.A. Martin, M. Kralj, A. Krisko, M. Radman, Death by UVC light correlates with protein damage in isogenic human tumor cells: primary tumor SW480 versus its metastasis SW620, J Proteomics Computational Biol 2016; 2(1): 10. ",
+        "bbox": [
+            114,
+            258,
+            883,
+            325
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "35. J.W. Drake, A constant rate of spontaneous mutation in DNA-based microbes, Proc Natl Acad Sci USA 88 (1001) 7160-7164. ",
+        "bbox": [
+            111,
+            337,
+            882,
+            370
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "36. A. Vidovic, F. Supek, A. Nikolic, A. Krisko, Signatures of conformational stability and oxidation resistance of pathogenic bacteria, Cell Rep 7 (2014) 1393-400. ",
+        "bbox": [
+            112,
+            381,
+            882,
+            415
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "37. Nystrom T. Role of oxidative carbonylation in protein quality control and senescence, EMBOJ24 (2005) 1311-1307. ",
+        "bbox": [
+            112,
+            425,
+            880,
+            459
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "38. L.E. Orgel, The maintenance of the accuracy of protein synthesis and its relevance to ageing, Proc NatlAcadSciUSA49 (1963) 517-521. ",
+        "bbox": [
+            111,
+            470,
+            882,
+            504
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "39. M.M. Slupska, C. Baikalov, R. Lloyd, J.H. Miller, Mutator tRNAs are encoded by the Escherichia coli mutator genes mutA and mutC: A novel pathway for mutagenesis, Proc Nati Acad Sci USA 93 (1996) 4380-4385. ",
+        "bbox": [
+            116,
+            514,
+            885,
+            564
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "40. E.M. Witkin, Thermal enhancement of ultraviolet mutability in tif-1 uvrA a derivative of Escherichia coli B/r: evidence that ultraviolet mutagenesis depends upon en inducible function, Proc. Natl Acad Sci USA 71 (1974) 1930-1934. ",
+        "bbox": [
+            116,
+            574,
+            883,
+            625
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "41. I.M. Conboy, T.A. Rando, Heterochronic parabiosis for the study of the effects of aging on stem cells and their niches, CellCycle 11 (2012) 2260-2267. ",
+        "bbox": [
+            114,
+            636,
+            880,
+            671
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "42. R.E. Andresen, D.A. Lim, An ingredient for the elixir of youth, Cell Res 24 (2014) 1381-   \n1382. ",
+        "bbox": [
+            112,
+            680,
+            880,
+            713
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "43. L. Lapasset, O. Milhavet, A. Prieur, E. Besnard, A. Babled, N. Aid-Hamou, J. Leschnik, F. Pellestor, J.M. Ramirez, J. de Vos, S. Lehmann, J.M. Lemaitre, Rejuvanating senescent and centenarian human cells by reprogramming through the pluripotent state. Genes and Dev 25 (2011) 2248-2253. ",
+        "bbox": [
+            114,
+            724,
+            883,
+            790
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "44. T.B.L. Kirkwood, Understanding the odd science of aging, Cell 120 (2005) 437-447. ",
+        "bbox": [
+            111,
+            801,
+            821,
+            819
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "45. C.N. Oliver, B.W. Ahn, E.J. Moerman, S. Goldstein, E.R. Stadtman, Age-related changes in oxidized proteins, JBiolChem262 (1987) 5488-5491. ",
+        "bbox": [
+            111,
+            830,
+            883,
+            863
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Figure 1: Schematic relationship between survival and protein carbonylation for diverse species versus either (I) acute radiation dose or $\\mathbf { ( I I ) }$ age. ",
+        "bbox": [
+            109,
+            138,
+            882,
+            172
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Survival and normalized protein carbonylation are color-coded lines, blue and red, respectively. Left-side abscissa shows differences in constitutive levels of total protein carbonylation; rightside abscissa shows that protein carbonylation saturation levels (intrinsic oxidability) are similar for all tested species. ",
+        "bbox": [
+            116,
+            184,
+            882,
+            248
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "I. The crossing blue/red curves apply to ionizing and UV irradiation of $E _ { \\ast }$ coli (A), evolved radiation-resistant $E$ coli (B) and $D .$ radiodurans (C), shown in reduced proportions (13). A and B represent also reproductive survival of nematode $C .$ elegans (A) and bdelloid rotifer Adineta vaga (B) versus exposure to gamma radiation (33), as well as isogenic human primary (A) and metastatic tumor (B) cells versus UVC irradiation (34). ",
+        "bbox": [
+            116,
+            260,
+            883,
+            342
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "II. A, B and C represent also decreased survival and increased protein carbonylation versus age for nematode (A), mouse (B) and human species (C), respectively (not in proportion) (45). ",
+        "bbox": [
+            116,
+            353,
+            878,
+            387
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 2: Cell killing and inactivation of $E$ coli biosynthetic activities versus radiation-induced proteome carbonylation. ",
+        "bbox": [
+            116,
+            425,
+            880,
+            459
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Green line shows loss of survival of $E .$ coli colony forming units and red line the loss of phage lambda production, versus protein carbonylation induced by gamma irradiation of $E _ { \\ast }$ coli only. Experimental points are omitted (see ref. 13). ",
+        "bbox": [
+            116,
+            470,
+            882,
+            519
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 3: Common relationship between radiation-induced cell killing and protein carbonylation. ",
+        "bbox": [
+            114,
+            559,
+            878,
+            591
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Common relationship is irrespective of the kind of radiation (gamma and UV), radiation dose and species' radiation resistance status and phylogenetic origin, e.g., bacteria, nematode and bdelloid rotifer (13, 6). ",
+        "bbox": [
+            116,
+            604,
+            882,
+            653
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 4: Spontaneous mutation rate in $E$ coli is proportional to the level of constitutive proteome carbonylation. ",
+        "bbox": [
+            114,
+            692,
+            880,
+            725
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "WT is wild type; chaperone deletion mutants and a ribosomal low-fidelity (rpsD) mutant are blue-shaded; chaperone overexpression strains and a ribosomal high-fidelty (rpsL) mutant are red-shaded (7). The abscissa shows constitutive protein carbonylation measured by an ELISA assay (7) and the ordinate shows global genomic spontaneous mutation rate by the method of Elez et al., Curr Biol 20 (2010) 1432-1437). ",
+        "bbox": [
+            116,
+            737,
+            883,
+            818
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Figure 5: Causes and dynamics of protein oxidative damage and the points of potential protective interventions. ",
+        "bbox": [
+            114,
+            857,
+            880,
+            890
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "The sources of oxidative damage to cellular proteins are red colored. The susceptibility of misfolded proteins to oxidative damage determines the level of protein carbonylation more than does the level of ROS (7,8). Clearance of carbonylated proteins is that of eukaryotic cells (20S proteasome); for bacteria it is Lon/ClpXP proteasome (37). ",
+        "bbox": [
+            116,
+            83,
+            883,
+            148
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "The ratio of oxidized (red) to intact (blue) proteins and the pattern of distribution of oxidative damage within the proteome determine the phenotypic consequences (7, 34). Points of potential interventions to decrease the ratio of damaged over intact proteins are: (1) increased protein stability by chemical chaperones - structure corrector molecules, (2) targeted protection of exposed side chains against oxidation, (3) ROS-neutralizing antioxidants targeted to mitochondria, (4) protection from environmental oxidative insults, (5) \"generic\" antioxidant mixtures nutralizing simultaneously all relevant ROS and (6) stimulation of protesomal activity and/or autophagy. ",
+        "bbox": [
+            116,
+            160,
+            883,
+            290
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "image",
+        "img_path": "images/0ccb3a97ff6843a6b791b238b8822e5ead94be38605d9748acc71f86a31c8ac4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            136,
+            154,
+            712,
+            356
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "image",
+        "img_path": "images/43ddf28d59f2c93bca8e1238339a5e6c0ab9c15240f5e23ade67fcc8679d207c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            183,
+            102,
+            622,
+            365
+        ],
+        "page_idx": 20
+    },
+    {
+        "type": "image",
+        "img_path": "images/cf6f5cc8d7b967ae3258b207802797f55da6d4a1fda0b232111b6e516a86f51d.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            183,
+            147,
+            638,
+            401
+        ],
+        "page_idx": 21
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc38bcfc36991aa4248e7df9f21c8ed8e6c013208bb81ab01a5f8cd9c82dd730.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            185,
+            93,
+            653,
+            394
+        ],
+        "page_idx": 22
+    },
+    {
+        "type": "image",
+        "img_path": "images/343768f4aa2653af18e61166d07b9d36d129b122dc98c6c8158de71df2a0ffec.jpg",
+        "image_caption": [
+            ")→⑥ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            178,
+            137,
+            654,
+            356
+        ],
+        "page_idx": 23
+    }
+]

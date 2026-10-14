@@ -1,0 +1,488 @@
+[
+    {
+        "type": "text",
+        "text": "Pyrimidine Dimer-Induced Enhancement of Recombination among Lambda Bacteriophages' ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            133,
+            876,
+            180
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "L. CORDONE AND M. RADMAN2 ",
+        "bbox": [
+            345,
+            195,
+            658,
+            211
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Istituto di Fisica dellUniversilà and Grappi Nazionali Struttura della Matcria of theConsiglio Nazionale delle Ricerche, Palermo, Italy; and Laboratoire de Biophysique et Racicbiologie, Université Libre de Bruxelles, Belgium ",
+        "bbox": [
+            107,
+            227,
+            894,
+            272
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Accepted January 7, 1970 ",
+        "bbox": [
+            404,
+            277,
+            597,
+            290
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Experimental results are reported, showing that one of the important factors in the UV-induced increase of recombination is the A-T content of the DNA regions involved. A model explaining the results is suggested and discussed. ",
+        "bbox": [
+            178,
+            308,
+            825,
+            350
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "It is well known that ultraviolet irradiation of phage increases the absolute frequency of recombination (Jacob and Wollman, 1955). It has been suggested (Baker and Haynes, 1967) that this increase is due to UV-induced pyrimidine dimers in the parental phage DNA (Setlow, 1964). These are mostly thymine dimers or thyminecytosine dimers, where the efficiency of dimers formation is: $\\widehat { \\mathrm { T T } } > \\widehat { \\mathrm { C T } } > \\widehat { \\mathrm { C C } }$ for Escherichia coli (Setlow and Carrier, 1966) and $\\widehat { \\mathrm { T T } } = \\widehat { \\mathrm { C T } }$ for phage $\\lambda$ (KrsmanovieSimic, 1969) for UV doses in the biological range, $\\widehat { \\mathrm { C C } }$ being an absolute minority. As only adjacent pyrimidines can dimerize, the above increase in recombination should be expected to be higher in the A-T rich regions of DNA, than in the A-T poor regions. ",
+        "bbox": [
+            107,
+            366,
+            492,
+            658
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We wish to report on experiments undertaken with an aim to checking this hypothesis. If a genetic cross is performed in w hich two counterselectionable markers $a$ and $b$ are placed on opposite sides of a third morphological marker $c _ { \\scriptscriptstyle \\mathrm { i } }$ ,the ratio $\\scriptstyle ( \\mathbf { c } ^ { + } / \\mathbf { c } ) _ { \\mathrm { r e c ~ a } ^ { + } \\mathrm { b } ^ { + } }$ is a measure of the relative distance of markers $\\pmb { a }$ and $b$ from c. Moreover, if the region of DNA included between $^ { a }$ and $c$ is richer in A-T than the region between c and $b$ , this ratio should decrease upon UV irradiation (See fig. 1, a). ",
+        "bbox": [
+            111,
+            659,
+            492,
+            795
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            513,
+            368,
+            894,
+            413
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In order to pursue this idea, we have exploited the fact that the region located between the N and CII cistrons is on the average much richer in A-T content than the CII-R region in λ phage DNA. This follows from the fact (Inman, 1967; Skalka et al., 1968; Jaffé and Henry, 1969) that one of the zones of most effective thermal denaturation in phage $\\lambda$ DNA (after the $\\mathbf { \\boldsymbol { b } _ { 2 } }$ region)is that centered at about $1 3 . 7 ~ \\mu$ ,starting from its left end (Inman, 1967). This zone is probably located between the end of the N cistron and the beginning of the O cistron (Hogness, 1966; Davis and Davidson, 1968). It is well known (Inman, 1967) that the most effective denaturation zones are also the richest in A-T, and this seems to be the case for the region of our choice (Hogness, 1966; Davis and Davidson, 1968). Conversely any zone starting from the CII gene toward the right is on the average relatively poor in A-T. ",
+        "bbox": [
+            515,
+            416,
+            896,
+            752
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            579,
+            772,
+            833,
+            786
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strains. All crosses were performed on the permissive bacterial strain $E$ . coli C600 (Appleyard et al., 1956). ",
+        "bbox": [
+            515,
+            794,
+            896,
+            841
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Assays for selecting sus+ recombinants were made using the nonpermissive, selective bacterial strain $E$ . coli 594 (Campbell, 1961). ",
+        "bbox": [
+            517,
+            844,
+            898,
+            875
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            107,
+            104,
+            490,
+            134
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phage strains. The following $\\lambda$ phage mutants have been used in the crosses involved in this paper: $\\lambda$ sus $\\mathrm { { N _ { 2 1 9 } } }$ $\\mathrm { { C I I } _ { 2 0 0 2 } }$ $\\lambda$ sus $\\mathrm { O } _ { 2 0 5 } ; \\lambda$ sus $\\mathrm { P } _ { 2 0 7 } ; \\lambda$ sus $\\mathrm { Q _ { 2 0 3 } } ~ ; \\lambda$ sus $\\mathrm { R } _ { 2 1 6 }$ ; $\\lambda$ sus $\\mathrm { R _ { 2 2 1 } }$ (Thomas et $a l$ , 1967); $\\lambda$ sus $\\mathrm { O } _ { 8 }$ ; $\\lambda$ sus $\\mathrm { P } _ { 3 } ~ ; ~ \\lambda$ sus $\\mathrm { Q } _ { 2 1 } ; \\lambda$ sus $\\mathrm { Q } _ { 7 3 } \\ ; \\ \\lambda$ sus $\\mathrm { Q } _ { 1 1 7 }$ ; $\\lambda$ sus $\\mathrm { R } _ { 5 }$ (Campbell, 1961). The above-listed $c ^ { + }$ mutants have been used as phages or as prophages in lysogenic C600, according to the particular experiment performed. A triple mutant, λ sus $\\mathrm { { N _ { 2 1 9 } } }$ $\\mathrm { C I } _ { 8 5 7 } \\mathrm { C I I } _ { 2 0 0 2 }$ obtained through crosses between suitable mutants was also used. ",
+        "bbox": [
+            107,
+            137,
+            488,
+            336
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Methods. For the crosses we have used standard methods (Thomas, 1966). In the present work we are dealing both with mixed infection of nonlysogenic bacteria and with superinfection of lysogenic ones. In the case of superinfection, lysogenic bacteria have been superinfected and then, after adsorption, irradiated for induction. ",
+        "bbox": [
+            107,
+            337,
+            488,
+            461
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Almost all crosses have been performed at least twice, the total number of plaques scored being such that for each cross, a minimum of two hundred plaques exhibiting the minority phenotype was counted. In order to avoid the consequences of pipetting errors, both $c ^ { + }$ and $c$ plaques have been scored on the same dishes. ",
+        "bbox": [
+            105,
+            462,
+            488,
+            584
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "$U V$ irradiation. UV irradiation was performed with a Philips TUV 30 W $\\mathrm { A } _ { 5 }$ germicidal lamp at a dose rate of 17 ergs $\\mathrm { m m ^ { - 2 } }$ $\\mathrm { s e c ^ { - 1 } }$ , as measured with a Latarjet dosimeter. (Latarjet et al., 1953). Bacteria were suspended in a solution 0.01 $M$ of $\\mathrm { 3 f g S O _ { 4 } }$ at a concentration of $\\mathrm { \\sim 2 ~ \\times ~ } 1 0 ^ { \\mathrm { 8 } } / \\mathrm { m l }$ and were shaken during 20 sec of irradiation in a layer $1 { - } 2 \\ \\mathrm { m m }$ deep in a glass petri dish. ",
+        "bbox": [
+            105,
+            584,
+            488,
+            725
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Phages from highly concentrated stocks were diluted in a solution 0.01 $M$ of $\\mathrm { \\lambda \\mathrm { M g } S O _ { 4 } }$ at a concentration of ${ \\sim } 6 ~ \\times ~ 1 0 ^ { 9 } / \\mathrm { m l }$ and then shaken during 20 sec of irradiation in a layer $1 { - } 2 ~ \\mathrm { m m }$ deep in a glass petri dish. ",
+        "bbox": [
+            105,
+            725,
+            488,
+            802
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In all UV experiments, the dose of radiation was about 340 ergs $\\mathrm { m m ^ { - 2 } }$ . ",
+        "bbox": [
+            105,
+            802,
+            486,
+            831
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            255,
+            844,
+            339,
+            856
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "For a better comprehension of our results it is useful to refer to the map in Fig. 1, b (Dove 1968), which shows the part of the $\\lambda$ phage genome relevant to this paper. ",
+        "bbox": [
+            103,
+            862,
+            490,
+            925
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/20a0ebd451aab952c6f69ab0edfdccde1584066221cadd95a598a355dfd0b1f9.jpg",
+        "image_caption": [
+            "FIG. 1, a. Three factors cross between a double mutant carrying a morphological marker $c$ plus a counterselectionable marker $^ { a }$ and a single mutant carrying a counterselectionable marker $^ { b }$ . In such a case the ratio $\\scriptstyle ( \\mathbf { c } ^ { + } / \\mathbf { c } ) _ { \\mathrm { ~ r e c ~ a } } + _ { \\mathrm { ~ b } } +$ is a measure of the relative distances of markers $a$ and b from $c$ . "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            511,
+            106,
+            894,
+            231
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "FIG.1,b Genetic map of the part of the $\\lambda$ phage genome relevant to this paper. ",
+        "bbox": [
+            511,
+            325,
+            892,
+            352
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Constancy of the Ratio $( c ^ { + } / c ) _ { s u s ^ { + } }$ with respect to factors other than $U V$ irradiation ",
+        "text_level": 1,
+        "bbox": [
+            509,
+            365,
+            892,
+            397
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In order to verify the constancy of the ratio $( \\mathrm { c ^ { + } / c ) _ { s u s } + }$ , with respect to factors like the multiplicity of infection (m.o.i.) of both parents and the state cf bacteria used in the cross, we performed a set of crosses in which different m.o.i. for both parents, or bacteria in different states were used. The data of Table 1 show that the ratio $( \\mathrm { c ^ { + } / c ) _ { s u s } + }$ is remarkably insensitive to the factors tested. This fact makes us confident that this ratio is a quantity that can be used reliably to estimate the effect we are investigating. ",
+        "bbox": [
+            509,
+            402,
+            892,
+            588
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/bee5eec593b5bbd764dfebf5e4017b92bf3342b2c381fd0838639d89284edbe0.jpg",
+        "table_caption": [
+            "TABLE 1 Constancy of tHe $( \\mathrm { e ^ { + } / c ) _ { \\tt S u s ^ { + } } }$ RATIO WITH Respect to FActors OtheR Than UV IrradiatiOn "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            507,
+            658,
+            894,
+            925
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The Effect of UV Irradiation ",
+        "text_level": 1,
+        "bbox": [
+            105,
+            104,
+            349,
+            120
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In order to check our hypothesis, the crosses reported in Tables 2a and 2b were performed. One sees from the results reported in Table 2a the decrease in the $( \\mathrm { c ^ { + } / c ) _ { s u s } + }$ ratio predicted on the basis of our hypothesis as a consequence of the action of UV light on the phage $\\lambda$ DNA. Since the CII R region is on the average A-T poor, a percentage decrease of the same order in the value of the $( \\mathrm { { c } ^ { + } / \\mathrm { { c } ) _ { s u s } + } }$ ratio is obtained after UV irradiation for any marker $b$ to the right of CII. This is shown by the results reported in Table $\\mathrm { 2 b }$ , which concern two sets of crosses between various single mutants carrying the previously listed mutations of cistrons O, P, $\\mathbf { Q }$ ,R and the double mutant λ sus $\\mathrm { N _ { 2 1 9 } C I I _ { 2 0 0 2 } }$ . ",
+        "bbox": [
+            103,
+            126,
+            486,
+            390
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The figures given for thermal induction (see Table $\\mathrm { 2 a }$ , bottom line) are the controls for UV induction, showing that the induction of the prophage has no influence on the above decrease of the $( \\mathrm { c ^ { + } / c ) _ { s u s } + }$ ratio. ",
+        "bbox": [
+            105,
+            391,
+            486,
+            468
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/edf684b97fa96c5f684cc24fbcbcb9660e408a8438433fe11cc7b51850534862.jpg",
+        "table_caption": [
+            "TABLE 2a Effect of Uv Irradiation on the $( \\mathbf { c } ^ { + } / \\mathbf { c } ) _ { \\mathrm { s u s } ^ { + } }$ RATIO "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            103,
+            533,
+            484,
+            919
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/18d8d6c90a873c81eceb4981a6bce7e5d9d2170f33db704273513234c97a091d.jpg",
+        "table_caption": [
+            "TABLE 2b Effect of Uv Irradiation on the $( \\mathrm { c ^ { + } / c ) _ { \\mathrm { s u s } } + }$ RAtIO "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            505,
+            150,
+            888,
+            394
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "bbox": [
+            634,
+            409,
+            767,
+            423
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The A-T rich regions are expected to yield more UV-induced dimers than other regions do. The present results show that the UVinduced relative increase in genetic recombination in A-T rich N-CII region is higher than in the G-C richer CII-P region of $\\lambda$ phage DNA. We suggest, therefore, that the increase in recombination frequency caused by UV irradiation is higher in A-T rich regions than in others because of the higher yield of pyrimidine dimers. ",
+        "bbox": [
+            511,
+            429,
+            892,
+            600
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Jacob and Wollman (1955) have shown that photoreactivation, which monomerizes pyrimidine dimers (Wulff and Rupert, 1962), leads to the decrease of the UV effect on recombination frequency. Excision repair of pyrimidine dimers leads to the same consequences (Baker and Haynes, 1967). On the basis of the present results we therefore suggest that pyrimidine dimers are recombination-promoting sites. ",
+        "bbox": [
+            511,
+            601,
+            892,
+            754
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As for the question whether it is the presence of dimers or the presence of sites from which they have been removed that stimulates recombination, we suggest that the enhancement in recombination may be mostly promoted by the unpaired bases due to the presence of dimers (Marmur et al., 1961; Pearson and Johns, 1966) but perhaps also to their removal during the excision repair. It seems also reasonable to assume that more generally recombination takes place at those sites in which the original symmetry of the DNA base pairs has been perturbed, e.g., by thermal fluctuation processes. ",
+        "bbox": [
+            511,
+            755,
+            894,
+            920
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            105,
+            102,
+            490,
+            165
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            200,
+            179,
+            396,
+            193
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The authors wish to thank Professors R. Thomas and R. Errera for countless stimulating discussions and for their kind hospitality at their Laboratories. They are also indebted to Ir. P. Amati for his criticism. ",
+        "bbox": [
+            107,
+            202,
+            490,
+            272
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work was carried out while the authors were Research Fellows of the European Molecular Biology Organization. ",
+        "bbox": [
+            107,
+            273,
+            490,
+            315
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            236,
+            327,
+            361,
+            340
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "ApPLEYARD, R. K., McGREGOR, J. F., and BAIRD, K. M. (1956). Virology 2, 565574.   \nBAKER, R. M., and HAYNEs, R. H. (1967). Mol. Gen. Genetics 100, 166177.   \nCAMPBELL, A. (1961). Virology 14, 2232.   \nDAVIs, R. W., and DAvIDSON, N. (1968). Proc. Natl. Acad. Sci. U.S. 60, 243250.   \nDovE, W. F., (1968). Ann. Rev. Genetics 2, 305340.   \nHoGNEss, D. H. (1966). J. Gen. Physiol. 49, 2957.   \nINMAN, R. B. (1967). J. Mol. Biol. 28, 103116.   \nJACOB, F., and WoLLMAN, E. L. (1955). Ann. Inst. Pasteur, 88, 724749.   \nJAFFÉ, A., and HENRY, N. (1969). Biochim. Biophys. Acta 541544.   \nKRSMANOVIC-SIMIC, D. (1969). Ph.D. Thesis, Univ. of Brussels.   \nLATARJET, R., MORENNE, P., and BERGER, R. (1953). Ann. Inst. Pasteur 85, 174-185.   \nMARMUR, J., ANDERSON, W. F., MATTHEWS, L., BERNs, K., GajewSKA, E., LANE, D., and Doty, P. (1961). J. Cell. Comp. Physiol. 58, suppl. 1, 3355.   \nPEARSON, M., and JoHNs, H. E. (1966). J. Mol. Biol. 19, 303319.   \nSETLow, R. B. (1964). J. Cell. Comp. Physiol. 64, Suppl. 1, 5168.   \nSETLOW, R. B., and CARRIER, W. L. (1966). J. Mol. Biol. 17, 237254.   \nSKALKA, A., BURGI, E., and HERSHEY, A. D. (1968). J . Mol. Biol. 34, 1-16.   \nTHOMAs, R. (1966). J. Mol. Biol. 22, 7995.   \nTHOMAS, R., LEURS, C., DAMBLY, C., PARMENTIER, I)., LAMBERT, L., BRACHET, P., LEFEBVRE, N., MOUSSET, S., PORCHERET, J., SZPIRER, J., and WAUTERs, D). (1967). Mutation Res. 4, 735741.   \nWULFF, D. L., and RuPERT, C. S. (1962). Biochem. Biophys. Res. Commun. 7, 237240. ",
+        "bbox": [
+            105,
+            350,
+            492,
+            498
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            511,
+            104,
+            896,
+            501
+        ],
+        "page_idx": 3
+    }
+]

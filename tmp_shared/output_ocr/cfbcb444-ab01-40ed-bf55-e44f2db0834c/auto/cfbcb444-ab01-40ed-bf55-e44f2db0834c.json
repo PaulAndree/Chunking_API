@@ -1,0 +1,1409 @@
+[
+    {
+        "type": "text",
+        "text": "O.P. Doubleday, Ph. Lecomte, A. Brandenburger, W.P. Diver and M. Radman ",
+        "bbox": [
+            248,
+            277,
+            746,
+            306
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Université Libre de Bruxelles, Département de Biologie Moléculaire, Laboratoire de Biophysique et Radiobiologie rue des Chevaux 67   \nB - 1640 Rhode-St-Genèse (Belgium) ",
+        "bbox": [
+            250,
+            322,
+            855,
+            381
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mutagens may be divided into two classes on the basis of the mechanism of their mutagenic action and the requirement for cellular repair genes for their mutagenic effect. Direct mutagens cause subtle modifications of the bases in DNA (or its precursors) and give rise to mutations by mispairing during DNA replication. Direct mutagens do not require cellular DNA repair activity for their mutagenic effect (i.e. act independently of the bacterial recA and LexA genes) and normally have a high degree of mutagenic specificity, reflecting the specificity of mispairing. Examples of direct mutagens are deaminating agents, such as hydroxylamine and bisulfite ; some base analogs, such as 2-aminopurine ; and alkylating agents, such as ethylmethane sulfonate. Indirect mutagens destroy the coding properties of DNA templates, thereby blocking DNA replication, and, unless repaired, are lethal. In situations where there is a redundancy in the DNA sequence information error-free repair processes may eliminate (e.g. by excision repair) or 'tolerate' (e.g. by postreplication recombinational exchanges) these lesions. However, when the mutagen destroys a unique piece of DNA sequence information, repair by error-free processes is no longer possible, and recA lexA-dependent error-prone repair is the only alternative to lethality. Such a situation may occur when a non-coding lesion is located within an overlapping excision gap (1), or in an overlapping gap in nascent DNA (2), or in a single-stranded genome (3). Examples of indirect mutagens are ultraviolet (Uv) and ionizing radiation and many chemical mutagens and carcinogens, such as aflatoxin $\\mathtt { B } _ { 1 }$ , benzo(a)pyrene, and mitomycin C. ",
+        "bbox": [
+            126,
+            412,
+            873,
+            805
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "While there is evidence that some error-prone repair is constitutive (4), the observation made by Weigle (5) that both the survival and mutagenesis of Uv-irradiated phage is increased by irradiating the host cell (Weigle reactivation or W-reactivation) suggested that mutagenic \"Sos\" repair capacity is inducible (6). The finding that Uv-irradiation of host bacteria also increases the frequency of mutation of unirradiated phage (7,8), a phenomenon known as untargeted mutagenesis (9), indicates that the SOS repair system causes mutations in undamaged DNA. It appears that radiation and other treatments that interrupt DNA replication induce the error prone repair system (and the other recA LexA-dependent SOS functions), but the precise molecular inducing signal(s) have not yet been identified (10). ",
+        "bbox": [
+            176,
+            820,
+            769,
+            834
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            123,
+            125,
+            875,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We have used single-stranded DNA phages to study the error-prone repair system of E.coli. The use of phages in such an investigation allows us to separate the effects of irradiating the 'target' DNA from the effects of host cell irradiation (i.e. induction of the SOS repair system). We have exploited the fact that the rate of formatic of Uv-induced pyrimidine dimers is increased in the presence of ${ \\mathrm { A g } } ^ { + }$ (11,12) and decreased in the presence of $1 8 \\mathbf { g } ^ { + + } \\ ( \\ 1 2 \\mathbf { \\Omega } , 1 3 \\mathbf { \\bar { ) } }$ to study the role of pyrimidine dimers in the UV-induced lethality of Øx174. When UV-irradiated $\\$ 174$ DNA was used to transfect bacteria, phage production was increased if the irradiation had been performed in the presence of $\\mathrm { H g } ^ { + + }$ and decreased if the irradiation had been performed in the presence of ${ \\tt A } { \\tt g } ^ { + }$ (figure 1). Comparable effects were observed when these DNAs were used as templates for in vitro DNA synthesis by E.coli DNA polymerase III, i.e. relative to control templates irradiated in buffer, more synthesis was observed when the template had been irradiated in the presence of ${ \\mathrm { H g } } ^ { + + }$ and less synthesis was observed when the template had been irradiated in the presence of ${ \\tt A g } ^ { + }$ (figure 2). (Assays with pyrimidine dimer-specific T4 endonuclease V confirmed that the presence of $\\mathrm { H g } ^ { + + }$ during UVirradiation did indeed reduce pyrimidine dimer yields, while the presence of ${ \\tt A } { \\tt g } ^ { + }$ increased them, results not shown). We find that a single pyrimidine dimer seems to be sufficient to inactivate $\\$ 174$ DNA, as indicated by the fact that the fraction of molecules not inactivated by a given dose of Uv-irradiation correlates closely with the fraction of molecules that did not contain any pyrimidine dimers (calculated from known yields of pyrimidine dimers in UVirradiated ØX174 DNA, ref.3) (figure 3). ",
+        "bbox": [
+            125,
+            320,
+            863,
+            729
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is apparent that induction of the SOS repair system alleviates some of the effects of lethal lesions in DNA (figure 3). Induction of the SOS repair system was found to increase the extent to which UV-irradiated ØX174 DNA is converted to the double-stranded replicative form in vivo (3). The mechanism by which UV-irradiated DNA is replicated under conditions of error-prone repair has been the subject of considerable speculation. Villani et al. (14) found that the blockage of DNA synthesis upon UV-irradiated templates in vitro is accompagnied by the generation of deoxynucleoside monophosphates. ",
+        "bbox": [
+            125,
+            743,
+            876,
+            880
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/6c41894f89bbfb6820251db5702d48f43deac9d279a4a8943b19f893f49651bb.jpg",
+        "image_caption": [
+            "Figure 1. Infectivity of 0x174 DNA uv-irradiated in the presence of Ag and Hg+. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            128,
+            122,
+            444,
+            431
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\varnothing \\mathtt { X } 1 7 4$ DNA was UV-irradiated in the absence of metal or in the presence of equimolar $\\mathtt { A g N O 3 }$ or $\\mathtt { H g C l 2 }$ : After removal of the metal by $G -$ 50 gel filtration the infectivity of the DNA was assayed upon bacterial spheroplasts (16). ",
+        "bbox": [
+            470,
+            206,
+            841,
+            313
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "32p-labelled Hind II fragment 2 of $\\varnothing \\mathtt { X } 1 7 4$ RF was annealed to viral DNA and UV-irradiated in the absence of metal or in the presence of ${ \\tt A } { \\tt g } ^ { + }$ or $\\mathrm { H g } ^ { + + }$ After removal of the metal by gel filtration, 200 pmoles of these DNAs were replicated by $8 ~ \\mu 1$ of E.coli DNA polymerase III fraction II (23) for 20 min at $3 2 ^ { \\circ } \\mathrm { C }$ in a $3 0 ~ \\mu 1$ reaction containing $5 0 ~ \\mathtt { m M }$ Tris.HCl pH 7.4, $1 0 \\ \\mathrm { \\ m M } \\ \\mathrm { \\ M g C 1 } _ { 2 }$ , $1 0 ~ \\mathrm { \\ m M }$ DTT, $5 ~ \\mathrm { \\ m M }$ ATP, $5 0 ~ \\mu \\ M$ dNTPs. The DNA was then denatured and, with size markers, electrophoresed in a $2 \\%$ agarose gel which was dried and subjected to autoradiography. ",
+        "bbox": [
+            125,
+            516,
+            484,
+            779
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/b267091d99babc0ce0dcccee4a52180442dfe9aebbfbc69690072a47cc2e247a.jpg",
+        "image_caption": [
+            "Figure 2. Extent of DNA synthesised upon DNA templates UV-irradiated in the presence $o \\notin \\ A g ^ { + }$ and Hg+. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            498,
+            516,
+            823,
+            822
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/143408e97c93986f2e73a32793318ce590fa8696d98ca4195988610942a7e4d4.jpg",
+        "image_caption": [
+            "Figure 3 Infectivity of UV-irradiated 0X174 phage and DNA in UVirradiated and non-irradiated hosts. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            130,
+            122,
+            482,
+            443
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "UV-irradiated Øx174 phage (,) and DNA (O,) were titrated upon unirradiated (open symbols) and UVirradiated (closed symbols) bacteria or spheroplasts. In order to induce the Sos repair system a $_ { 1 \\circ g }$ phase culture of HF4733 host bacteria was UV-irradiated $( 7 0 \\mathrm { ~ J ~ m } ^ { - 2 }$ ) and grown for a further $2 0 \\mathrm { \\ m i n }$ (15) prior to being used as host for Øx174 phage or being converted to spheroplasts (16) and used to titrate ØX174 DNA. The dotted line indicates the fraction of molecules calculated to contain no pyrimidine dimer (3). ",
+        "bbox": [
+            494,
+            129,
+            873,
+            370
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "They proposed that this was due to DNA polymerase \"idling\", whereby the polymerase incorporates bases opposite pyrimidine dimers, but subsequently excises them with its proofreading $3 ^ { \\bullet } {  } 5 ^ { \\bullet }$ exonuclease. This led to the question: is the blockage of DNA synthesis at pyrimidine dimers due to DNA polymerase proofreading activity excising the mismatched primer nucleotide from which the polymerase might otherwise have extended, albeit inefficiently, over the non-coding lesion? The observation that the extent of overall synthesis upon Uv-irradiated DNA templates was increased when replication was performed by a polymerase lacking $3 ^ { \\bullet } {  } 5 ^ { \\bullet }$ exonuclease activity indirectly supported this hypothesis. Furthermore, the finding that diminished DNA polymerase proofreading activity results in increased misincorporation upon intact homopolymer templates (17,18) is analogous to untargeted mutagenesis. We have examined the influence of DNA polymerase proofreading activity upon the replication of UV-irradiated Øx174 DNA templates by analysing the extent of elongation of radioactivelylabelled DNA primers and find that DNA polymerases such as α polymerase from Drosophila, that are devoid of $3 ^ { \\bullet } {  } 5 ^ { \\bullet }$ exonuclease activity, are as sensitive to inhibition as polymerases with associated $3 ^ { \\bullet } {  } 5 ^ { \\bullet }$ exonuclease activity (figure 4). These experiments (19), and those of Moore et al (20), have shown that the arrest of DNA replication by pyrimidine dimers is not due exclusively to $3 ^ { 1 } {  } 5 ^ { 1 }$ exonulease activity associated with the DNA polymerase. What are the additional factors which determine whether a DNA polymerase may, or may not, replicate a given lesion ? Is it possible that diminished ",
+        "bbox": [
+            125,
+            513,
+            875,
+            890
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "$3 2 _ { \\tt P }$ -labelled Hind II fragment 6 of Øx174 RF was annealed to viral DNA. This template was UV-irradiated (500 $\\textbf { J m } ^ { - 2 }$ ) and replicated by 0.1 units of E.coli DNA polymerase I, large fragment (Boehringer Mannheim) or 1.0 units of Drosophila DNA polymerase $\\mathfrak { Q }$ (21) a gift of Dr.G.Villani. The DNA was denatured and, with size markers, electrophoresed in a $2 . 2 \\%$ agarose gel which was dried and subjected to autoradiography. ",
+        "bbox": [
+            438,
+            148,
+            831,
+            334
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/8825630a5dd8b160389fafbb5f865e66729d278026513b809948833c282568f0.jpg",
+        "image_caption": [
+            "Figure 4. Replication o6 UV-irradiated 0X174 DNA templates by E.coli DNA polymerase I and Drosophila DNA polymerase α. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            200,
+            116,
+            410,
+            370
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Hind II fragment 6, annealed to intact (i) or acid-treated (ap) (22) 0x174 DNA was $_ { 3 } \\bullet$ -labelled by limited extension in the presence of 32p-dNTP and heated to 60°C. After G-50 gel filtration these templates were replicated by E.coli DNA polymerase I, large fragment in reactions containing $5 0 \\ \\mathrm { \\ m M }$ Tris. HC1 $\\tt p H 8 . 5$ , 50 μM dNTPs and either 8 mM MgCl2 or $0 . 8 \\ \\mathfrak { m } \\ \\mathfrak { M } \\ \\mathfrak { M } \\mathfrak { c } \\mathtt { l } _ { 2 }$ Products were analysed by electrophoresis in $0 . 8 \\%$ alkaline agarose gels. ",
+        "bbox": [
+            160,
+            531,
+            583,
+            715
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/3a5f15c94ec9c0e8d6dbf2a596dda861d5d07f7e1c0baf0e68ceba6d7a05714c.jpg",
+        "image_caption": [
+            "Figure 5. Replication of DNA templates containing apurinic sites in the presence ${ \\dot { o } } { \\dot { \\delta } } M g ^ { + + }$ and $M n ^ { + + }$ : "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            607,
+            500,
+            845,
+            826
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "nucleotide discrimination by a DNA polymerase, such as has been observed for certain mutator mutants of T4 DNA polymerase (24,25), may allow DNA replication to proceed over non-coding lesions ? Moore et al (20) have shown that replication of a Uv-irradiated $\\$ 174$ DNA template is inhibited one (or more) bases before a pyrimidine dimer. However, when the mutagenic metal ion $\\mathrm { { \\ m } } ^ { + + }$ (which is thought to decrease DNA polymerase fidelity by reducing nucleotide discrimination, ref 6) was substituted in the replication reaction for $\\mathrm { { M g } ^ { + + } }$ , synthesis was terminated upon the first base of the pyrimidine dimer. Although we found no evidence for the replication of pyrimidine dimers in the presence of $\\mathrm { { N n } ^ { + + } }$ , we have observed increased extents of replication of depurinated $\\$ 174$ DNA templates in the presence of $\\mathrm { { M n } ^ { + + } }$ (figure 5). Since it is known that apurinic sites constitute lethal lesions in Øx174 DNA, but that these sites may be mutagenic under conditions of S0S repair (27), these results possibly suggest a role for decreased nucleotide discrimination in error-prone repair. Before detailed mechanisms for UV mutagenesis are elaborated, it is pertinent to remember that there is no evidence that pyrimidine dimers persist in Weigle reactivated phage DNA. Thus there is no information as to the nature of the lesion being replicated under conditions of Weigle reactivation. While little attention has been paid to hypotheses involving the modification or removal of non-coding lesions (as has been shown for the miscoding $0 ^ { 6 } -$ methyl guanine lesions repaired by the adaptation response, ref 28), such hypotheses cannot be ruled out. Perhaps the only (indirect) evidence against such models is the apparent specific requirement for DNA polymerase III in bacterial mutagenesis (29) and Weigle reactivation of phage (30). ",
+        "bbox": [
+            121,
+            127,
+            876,
+            534
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "While the mechanismof repair of pyrimidine dimers in Weiglereactivated phage remains obscure, we sought to determine the importance to UV mutagenesis of mutations occurring at the sites of pyrimidine dimers. We have analysed the DNA sequences of spontaneous and radiation-induced revertants of two amber mutants of phage M13. Phage M13 is particularly useful in such an investigation as its DNA has been completely sequenced (31), and rapid DNA sequencing methods have been developed specifically for M13 DNA (32). Furthermore, since it is a single-stranded DNA, it is possible to identify unambiguously the exact base or bases involved in any sequence alteration. ",
+        "bbox": [
+            121,
+            550,
+            876,
+            701
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "49 revertants of am6H1 and 125 revertants of am7H3 were isolated from populations of irradiated and unirradiated phages grown in irradiated and unirradiated bacteria (Table 1), and the DNA sequence in the region of the amber codon determined by the Sanger method (32,33). The number of occurrences of each reversion sequence is shown in fig 6. Except for the $\\mathrm { T A G } \\twoheadrightarrow \\mathrm { G A G }$ transversion, which was not found for either amber, all other detectable single nucleotide changes were observed. $\\mathbf { T A G } $ TAA produces an ochre nonsense codon which would not be detected as a revertant.) We are unable to assess the significance of our failure to detect any GAG revertants, since this might be due either ",
+        "bbox": [
+            121,
+            715,
+            876,
+            866
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "to the infrequency of the $\\mathbb { T } \\to \\mathbb { G }$ transversion or the inability of glutamic acid to substitute for glutamine at these two sites. ",
+        "bbox": [
+            130,
+            120,
+            813,
+            151
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The DNA sequence analysis revealed no obvious specificity of mutagenesis by either UV or $\\curlyvee$ irradiation of target DNA and no specificity of mutagenesis by the SOs repair system acting upon either irradiated or unirradiated DNA, although induction of the host Sos repair system increased revertant yields considerably (Table 1). All combinations of host cell and target irradiation induced both transitions and transversions involving each of the three bases of the amber codon. UV-irradiation of target DNA did not produce a pattern of revertant sequences suggesting that pyrimidine dimers are the primary sites of base changes, although the potential for thymine dimer formation involving the third base of the preceeding codon existed for both amber mutants. (In the case of the am6H1 mutation the third base of the valine codon preceeding the amber codon could be replaced by any other nucleotide without changing the sense of the codon.) Two tandem base change revertants were observed : one from unirradiated phage and the other, involving two purines, from γ-irradiated phage. ",
+        "bbox": [
+            128,
+            166,
+            861,
+            422
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The small number of revertants analysed in each class makes it difficult to assess the significance of any differences observed between the different treatments, such as the differences observed between irradiated and unirradiated bacteria (see references 7 and 34), or the large fraction of transversion mutants isolated from γ- irradiated phages (see reference 35). In addition, pre-existing mutants may make a significant contribution to spontaneous revertants and revertants isolated after those treatments for which the reversion frequency is close to the spontaneous frequency. (Reconstruction experiments did not reveal any significant growth advantage or disadvantage of revertants.) In an attempt to minimize the problems of pre-existing revertants, several stocks of amber phages were prepared from isolated plaques for each experiment. For those treatments resulting in an elevated reversion frequency, the fact that revertants were isolated from infective centres insures that they arose independently. ",
+        "bbox": [
+            126,
+            437,
+            873,
+            679
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "UV-irradiation of phages results in an elevated mutation frequency when the phages are grown in UV-irradiated hosts (Table 1) suggesting that UV-photoproducts in target DNA are involved in UVinduced mutagenesis. We have presented evidence that pyrimidine dimers are the major lethal DNA lesions induced by UV-irradiation of single-stranded DNA phages, and that their lethal effect may be partially alleviated by induction of the SOS repair system (figures 1 and 3). However this does not necessarily imply that pyrimidine dimers are the major sites for UV mutagenesis. Indeed, a recent comparison of the effects of various types of radiation upon the survival and mutation of Øx174 Eam3 has shown that although ",
+        "bbox": [
+            126,
+            694,
+            851,
+            861
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/9a47a739281575dd60ac9a710b925bd2fb9b8a37d8450773ea8a9bf7c31c11b9.jpg",
+        "table_caption": [
+            "Table 1. Survival and Mutagenesis $o \\not \\delta$ irradiated and unirradiated M13 grown in Uv-irradiated and unirradiated bacteria "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            244,
+            215,
+            734,
+            279
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ab9cabff95f38a6f78bd72d2acb0b4dc5a9906c6f4ade2b884ac40383a9958f3.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            242,
+            290,
+            732,
+            354
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/167caecc52ae57646a4bcf19e8ab11aa663545c96dcb81f4f0ab106659dd0619.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            242,
+            365,
+            728,
+            427
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/2ea3669803ac0d47951b02e4277273ce7c47e90d6204ef778282ad62be65fd77.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            242,
+            440,
+            728,
+            504
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a863ff44cc0a3d3ef19ecbf5e7a5da60aadc7353b8be30ec98e5e5850d57066f.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            242,
+            513,
+            726,
+            579
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/ea402d1a78dfa352997732c23fd1520babfcd38654c07ed34dad99ab06b54493.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            242,
+            590,
+            730,
+            684
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/8ca8e755c3e857f67ca262566845ee77b8c5846575d5296e15eea3d32d9f775b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            240,
+            695,
+            730,
+            791
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Log phase cultures of KA787 and KA805 SupD grown with bubbling at 37° to an 0.D.560= 0.3, were divided into two portions, one of which was UV-irradiated: The cultures were grown in the dark for a further 20 min, in order to maximise SOs induction (15), and were then infected with intact or irradiated M13 phage. After absorption at 20° for 3 min the infected bacteria were plated out and incubated overnight at 37°. Plaques were counted and revertants picked for DNA sequence analysis. _In experiments with am6H1 phages, the UV dose to phages was $\\mathsf { \\Omega } _ { 9 0 \\mathrm { ~ J ~ m ~ } } ^ { - 2 }$ and to host bacteria was $5 0 ~ \\mathrm { ~ J ~ m ~ } ^ { - 2 }$ . In experiments with am7H3 phages, phages were irradiated with 60 Jm-2or 1.5 mRad, and host bacteria with $6 0 ~ \\ J \\mathtt { m } ^ { - 2 }$ Mutation frequencies are the proportion of revertant phages (titred on KA798) to total phages (titred on KA $8 0 5 ~ \\Im u p \\mathcal { D } )$ : ",
+        "bbox": [
+            126,
+            820,
+            875,
+            901
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            132,
+            119,
+            867,
+            240
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "image",
+        "img_path": "images/9529e363cd13351e740093e7bec8eae7edad73bc03272f9af0070c48c4c5f58b.jpg",
+        "image_caption": [
+            "Figure 6. DNA sequences $o \\not \\delta$ irradiated and unirradiated M13 am7H3 and am6H1 grown in uv-irradiated and uniradiated bacteria. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            230,
+            247,
+            746,
+            668
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Revertants from the experiments shown in table 1 were isolated and their DNA sequences in the region of the amber codon determined by the Sanger method (32,33). For am6H1 the M13 Hha I fragment 5 (31) was used as primer, for am7H3 the M13 Tha I fragment 1 (31) was used as primer. After extension by E.coli DNA polymerase I Klenow subfragment, the primers were removed by Hha I digestion, and the products analysed on 12% polyacrylamide gels. Each box corresponds to an independently isolated revertant: () transition; () transversion; ([]) tandem base changes. ",
+        "bbox": [
+            123,
+            731,
+            878,
+            868
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "UV damage is the radiation damage most efficiently repaired by Weigle reactivation, it is less mutagenic (per lethal event) than other types of radiation (36). These experiments, in which virtually all mutagenesis was found to depend upon induction of the SOs repair system, afford a clear demonstration that there is no simple correlation between the lethality, reparability, and mutagenic potential of different radiation lesions in target DNA. It is difficult to assess the role of pyrimidine dimers in the UV-mutagenesis of singlestranded phages. It was already clear before we undertook this study that the UV-mutagenesis of single-stranded DNA phages is not confined to sites of pyrimidine dimers, since Bleichrodt and Verheij (7) have reported upon the UV-mutagenesis of the Øx174 Aam18 mutant, which subsequent DNA sequence analysis has shown to be separated by 2 bases from the nearest potential pyrimidine dimer site (37). Our data for the M13 am6H1 mutant do not suggest the involvement of pyrimidine dimers as principal sites for Uv-mutagenesis at this codon. On the other hand, the $\\mathbb { T } \\to \\mathbb { C }$ transition involving the potential thymine dimer site in the am7H3 mutant does appear to make a major contribution to mutagenesis of Uv-irradiated phage at this codon. However, interpretation of this data is difficult, since this transition also makes a significant contribution to untargeted mutagenesis. Furthermore, no tandem base change mutants involving this T were induced after UV irradiation of the phage, although it should be pointed out that any change of the adjacent T of the tyrosine codon other than to C (which does not affect the sense of the tyrosine codon) would generate a nonsense codon. ",
+        "bbox": [
+            126,
+            127,
+            871,
+            518
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our analysis of the DNA sequences of revertants isolated from UV-irradiated M13 populations revealed no tandem base changes and frequently contained base changes that could not have involved pyrimidine dimers, indicating that pyrimidine dimers are not the exclusive sites of base substitution mutations in Uv-irradiated M13 DNA. Two alternative possibilities are : (1) non-pyrimidine dimer UV photoproducts are significant targets for UV-induced base substitution mutagenesis (see reference 38 for a discussion of this possibility) or (2) pyrimidine dimers can have distal mutagenic effects on the same molecule. Other investigators (ref. 39 and references therein) have found that UV induces a significant proportion of tandem base change mutations. In our experiments two such mutations were detected in phages grown in UV-irradiated hosts, but could not be attributed to targeted mutagenesis at the site of pyrimidine dimers. This raises the possibility that the SOS repair system causes clusters of base changes. This idea is supported by the finding that non-tandem double base changes in the anticodon sequence of an E.coli tRNA gene occur at much higher frequencies after UV-irradiation than expected from the frequency of single base change mutants (40, see also 41). ",
+        "bbox": [
+            126,
+            533,
+            875,
+            834
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We realise that the contribution of untargeted mutagenesis to UV mutagenesis may be higher for phage genomes compared to bacterial genomes, since (1) phage DNA experiences more rounds of replication in the presence of SoS mutator activity (9) and (2) post-replicative mismatch correction (42) of untargeted mutations may be less efficient for phage DNA. Our data indicate that, under the conditions employed, thymine dimers are not the principal sites of UVinduced base substitution mutagenesis of phage M13. If this is a general phenomenon, the photoreversibility of the mutagenic effects of UV on bacteria (38) and the photoreversibility of the UV-induction of the SOs repair system (5) may indicate that pyrimidine dimers are primarily inducing lesions for a process (sos repair) necessary for targeted and leading to untargeted mutagenesis. ",
+        "bbox": [
+            125,
+            122,
+            867,
+            319
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGEMENTS ",
+        "text_level": 1,
+        "bbox": [
+            125,
+            344,
+            295,
+            358
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "We are very grateful to Dr. G.N. Godson (Yale University) and Drs. B.W. Glickman and C.A. van Sluis (Leiden State University) for their kind hospitality while the DNA sequence analyses were performed. We thank them and our colleagues for useful discussions. o.P.D., Ph.L. and A.B. were recipients of Euratom grants. This work was supported by Euratom Research Contracts 224-76-1 BI0 B, 156-76-1 BIO B (Brussels) and 197-76-1 BI0 N (Leiden) and NIH grant A1 11633 to Dr. G.N. Godson. ",
+        "bbox": [
+            123,
+            373,
+            876,
+            493
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            123,
+            516,
+            232,
+            530
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "1. Bresler, S.E.: Theory of misrepair mutagenesis. Mutation Res., 29:467-472 (1975) ",
+        "bbox": [
+            119,
+            538,
+            823,
+            569
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "2. Sedgwick, S.G.: Misrepair of overlapping daughter strand gaps as a possible mechanism for UV induced mutagenesis in UVR strains of Escherichia coli: a general model for induced mutagenesis by misrepair (SOS repair) of closely spaced DNA lesions. Mutation Res., 41:185-200 (1976) ",
+        "bbox": [
+            125,
+            583,
+            851,
+            659
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "3. Caillet-Fauquet, P., Defais, M. and Radman, M.:Molecular mechanisms of induced mutagenesis. Replication in vivo of bacteriophage 0X174 single-stranded, ultraviolet light-irradiated DNA in intact and irradiated host cells. J. Mol. Biol., 117:95-112 (1977) ",
+        "bbox": [
+            121,
+            673,
+            875,
+            733
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "4. Bridges, B.A. and Mottershead, R.P.: Mutagenic DNA repair in Escherichia coli. VIII. Involvement of DNA polymerase III in constitutive and inducible mutagenic repair after ultraviolet and gamma irradiation. Molec. gen. Genet., 162:35-41 (1978) ",
+        "bbox": [
+            121,
+            741,
+            839,
+            802
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "5. Weigle, J.J.: Induction of mutations in a bacterial virus. Proc. Natl. Acad. Sci. USA 39:628-636 (1953) ",
+        "bbox": [
+            121,
+            816,
+            777,
+            848
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "6. Radman, M.: Phenomenology of an inducible mutagenic DNA repair pathway in Escherichia coli : SOS repair hypothesis. In Molecular and Environmental Aspects of Mutagenesis, Ed. by L. Prakash, F. Sherman, M.W. Miller, C.W. Lawrence and H.W. Taber, C.C. Thomas Publ. Co., Springfield, Illinois, pp.128- 142 (1974) ",
+        "bbox": [
+            126,
+            126,
+            833,
+            216
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "7. Bleichrodt, J.F. and Verheij, W.S.D.: Mutagenesis by ultraviolet radiation in bacteriophage øx174:on the mutation stimulating processes induced by ultraviolet radiation in the host bacterium. Molec. gen. Genet., 135:19-27 (1974) ",
+        "bbox": [
+            126,
+            231,
+            880,
+            291
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "8. Ichikawa-Ryo, H. and Kondo, S.: Indirect mutagenesis in phage lambda by ultraviolet preirradiation of host bacteria. J. Mol. Biol., 97:77-92 (1975) ",
+        "bbox": [
+            126,
+            306,
+            823,
+            352
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "9. Witkin, E.M. and Wermundsen, I.E.: Targeted and untargeted mutagenesis by various inducers of Sos functions in Escherichia coli. In DNA : Replication and Recombination, Cold Spring Harbor Symposium on Quantitative Biology, 43:881-886 (1979) ",
+        "bbox": [
+            126,
+            366,
+            855,
+            427
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "10. Gottesman, S.: Genetic control of the SOS system in E.coli. Cell, 23:1-2 (1981) ",
+        "bbox": [
+            119,
+            441,
+            801,
+            472
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "11. Rahn, R.0. and Landry, L.C.: Ultraviolet irradiation of nucleic acids complexed with heavy atoms - II. Phosphorescence and photodimerization of DNA complexed with Ag. Photochem. Photobio1., 18:29-38 (1973) ",
+        "bbox": [
+            121,
+            486,
+            849,
+            547
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "12. Rahn, R.O., Setlow, J.K. and Landry, L.C.: Ultraviolet irradiation of nucleic acids complexed with heavy atoms - III. Influeece of ${ \\mathrm { A g } } ^ { + }$ band $\\mathrm { H g } ^ { 2 + }$ on the sensitivity of phage and of transforming DNA to ultraviolet radiation. Photochem. Photobiol., 18:39-41 (1973) ",
+        "bbox": [
+            121,
+            562,
+            865,
+            637
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "13. Rahn, R.O., Battista, M.D.C. and Landry, L.C.: Influence of mercuric ions on the phosphorescence and photochemistry of DNA. Proc. Natl. Acad. Sci. USA, 67:139O-1397 (1970) ",
+        "bbox": [
+            121,
+            652,
+            813,
+            697
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "14. Villani, G., Boiteux, S. and Radman, M.: Mechanism of ultravioletinduced mutagenesis: extent and fidelity of in vitro DNA synthesis on irradiated templates. Proc. Natl. Acad. Sci. USA, 75:3037-3041 (1978) ",
+        "bbox": [
+            121,
+            712,
+            875,
+            772
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "15. Defais, M., Caillet-Fauquet, P., Fox, M.S. and Radman, M.: Induction kinetics of mutagenic DNA repair activity in E.coli following ultraviolet irradiation. Molec. gen. Genet., 148: 125-130 (1976) ",
+        "bbox": [
+            121,
+            787,
+            847,
+            847
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "16. Guthrie, G.D. and Sinsheimer, R.L.: Observations on the infection of bacterial protoplasts with the deoxyribonucleic acid of bacteriophage Øx174. Biochim. Biophys. Acta, 72:290-297 (1963) ",
+        "bbox": [
+            128,
+            125,
+            875,
+            170
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "17. Hall, Z.W. and Lehman, I.R.: An in vitro transversion by a mutationally altered $\\mathrm { T } _ { 4 }$ -induced DNA polymerase. J. Mol. Biol., 36:321-333 (1968) ",
+        "bbox": [
+            128,
+            184,
+            863,
+            230
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "18. Byrnes, J.J., Downey, K.M., Que, B.G., Lee, M.Y.W., Black, V.L. and So, A.G.: Selective inhibition of the 3' to 5' exonuclease activity associated with DNA polymerases: a mechanism of mutagenesis. Biochemistry, 16:3740-3746 (1977) ",
+        "bbox": [
+            126,
+            245,
+            863,
+            306
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "19. Doubleday, O.P., Michel-Maenhaut, G., Brandenburger, A., Lecomte, Ph. and Radman, M.: Inhibition or absence of DNA proofreading exonuclease is not sufficient to allow copying of pyrimidine dimers. In Chromosome Damage and Repair, Ed. by E. Seeberg and K. Kleppe, Plenum Pub. Corp., New York (in press) ",
+        "bbox": [
+            125,
+            320,
+            869,
+            397
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "20. Moore, P.D., Bose, K.K., Rabkin, S.D. and Strauss, B.S.: Sites of termination of in vitro DNA synthesis on ultraviolet- and N-acetylaminofluorene-treated Øx174 templates by prokaryotic and eukaryotic DNA polymerases. Proc. Natl. Acad. Sci. USA, 78:110-114 (1981) ",
+        "bbox": [
+            125,
+            411,
+            841,
+            486
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "21. Banks, G.R., Boezi, J.A. and Lehman, I.R.: A high molecular weight DNA polymerase from Drosophila melanogaster embryos. Purificatin, structure, and partial characterization. J. Biol. Chem., 254:9886-9892 (1979) ",
+        "bbox": [
+            123,
+            501,
+            878,
+            562
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "22. Lindahl, T. and Nyberg, B.: Rate of depurination of native deoxyribonucleic acid. Biochemistry, 11:3610-3618 (1972) ",
+        "bbox": [
+            121,
+            576,
+            795,
+            608
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "23. Conrad, S.E. and Campbell, J.L.: Characterization of an improved in vitro DNA replication system for Escherichia coli plasmids. Nucleic Acids Res., 6:3289-3303 (1979) ",
+        "bbox": [
+            121,
+            620,
+            857,
+            666
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "24. Hershfield, M.S.: On the role of deoxyribonucleic acid polymerase in determining mutation rates. Characterization of the defect in the T4 deoxyribonucleic acid polymerase caused by the TS L88 mutation. J. Bio1. Chem., 248:1417-1423 (1973) ",
+        "bbox": [
+            121,
+            681,
+            839,
+            743
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "25. Reha-Krantz, L.J. and Bessman, M.J.: Studies on the biochemical basis of mutation. VI. Selection and characterization of a new bacteriophage T4 mutator DNA polymerase. J. Mol. Biol., 145: 677-695 (1981) ",
+        "bbox": [
+            121,
+            756,
+            857,
+            816
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "26. Dube, D.K. and Loeb, L.A.: Manganese as a mutagenic agent during in vitro DNA synthesis. Biochem. Biophys. Res. Comm., 67:1041- 1046 (1975) ",
+        "bbox": [
+            121,
+            833,
+            857,
+            879
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "27. Schaaper, R.M. and Loeb, L.A.: Depurination causes mutations in SOS-induced cells. Proc. Natl. Acad. Sci. USA, 78:1773-1777 (1981) ",
+        "bbox": [
+            117,
+            126,
+            847,
+            173
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "28. Olsson, M. and Lindahl, T.: Repair of alkylated DNA in Escherichia coli: methyl group transfer from $0 ^ { 6 }$ -methylguanine to a protein cysteine residue. J. Bio1. Chem., 255:10569-10571 (1980) ",
+        "bbox": [
+            117,
+            187,
+            871,
+            234
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "29. Bridges, B.A., Mottershead, R.P. and Sedgwick, S.G.: Mutagenic DNA repair in Escherichia coli. III. Requirement for a function of DNA polymerase III in ultraviolet-light mutagenesis. Molec. gen. Genet., 144:53-58 (1976) ",
+        "bbox": [
+            117,
+            248,
+            869,
+            309
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "30. Fields, P.I. and Yasbin, R.E.: Involvement of deoxyribonucleic acid polymerase III in W-reactivation in Bacillus subtilis. J. Bacteriology, 144:473-475 (1980) ",
+        "bbox": [
+            119,
+            323,
+            843,
+            370
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "31. Van Wezenbeek, P.M.G.F., Hulsebos, T.J.M. and Schoenmakers, J.G.G.: Nucleotide sequence of the filamentous bacteriophage M13 DNA genome: comparison with phage fd. Gene, 11:129-148 (1980) ",
+        "bbox": [
+            119,
+            384,
+            884,
+            430
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "32. Sanger, F., Coulson, A.R., Barrel1, B.G., Smith, A.J.H. and Roe, B.A.: Cloning in single-stranded bacteriophage as an aid to rapid DNA sequencing. J. Mol. Bio1., 143:161-178 (1980) ",
+        "bbox": [
+            121,
+            445,
+            861,
+            493
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "33. Sanger, F., Nicklen, S. and Coulson, A.R.: DNA sequencing with chain-terminating inhibitors. Proc. Natl. Acad. Sci.USA, 74: 5463-5467 (1977) ",
+        "bbox": [
+            121,
+            506,
+            835,
+            552
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "34. Bleichrodt, J.F. and Roos-Verheij, W.S.D.: Influence of SOS repair on the specificity of radiation mutagenesis in bacteriophage $\\varnothing \\mathtt { X } 1 7 4$ . Molec. gen. Genet., 176:155-160 (1979) ",
+        "bbox": [
+            121,
+            566,
+            878,
+            613
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "35. Glickman, B.W., Rietveld, K. and Aaron, C.S.: γ-ray induced mutational spectrum in the lacl gene of Escherichia coli. Comparison of induced and spontaneous spectra at the molecular 1evel. Mutation Res., 69:1-12 (1980) ",
+        "bbox": [
+            123,
+            626,
+            861,
+            688
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "36. Yatagai, F., Kitayama, S. and Matsuyama, A.: Weigle reactivation and Weigle mutagenesis in phage ØX174 by various types of radiation. Mutation Res., 91:3-7 (1981) ",
+        "bbox": [
+            125,
+            702,
+            861,
+            748
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "37. Smith, M., Brown, N.L., Air, G.M., Barrell, B.G., Coulson, A.R., Hutchison III, C.A. and Sanger, F.: DNA sequence at the C termini of the overlapping genes A and B in bacteriophage ØX174. Nature, 265:702-705 (1977) ",
+        "bbox": [
+            125,
+            762,
+            878,
+            825
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "38. Witkin, E.M.: Ultraviolet mutagenesis and inducible DNA repair in Escherichia coli. Bacteriological Rev., 40:869-907 (1976) ",
+        "bbox": [
+            123,
+            126,
+            845,
+            158
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "39. Coulondre, C. and Miller, J.H.: Genetic studies of the lac repressor. IV. Mutagenic specificity in the Lacl gene of Escherichia coli. J. Mo1. Bi01., 117:577-606 (1977) ",
+        "bbox": [
+            128,
+            172,
+            799,
+            219
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "40. Coleman, R.D., Dunst, R.W. and Hill, C.W.: A double base change in alternate base pairs induced by ultraviolet irradiation in a glycine transfer RNA gene. Molec. gen. Genet., 177:213-222 (1980) ",
+        "bbox": [
+            126,
+            233,
+            855,
+            294
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "41. Kubitschek, H.E.: Double mutations induced in Escherichia coli by ultraviolet 1ight. J. Bacteriology, 142:724-725 (1980) ",
+        "bbox": [
+            128,
+            308,
+            845,
+            340
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "42. Radman, M., Villani, G., Boiteux, S., Kinsella, A.R., Glickman, B.W. and Spadari, S.: Replicational fidelity: mechanisms of mutation avoidance and mutation fixation. In DNA: Replication and Recombination, Cold Spring Harbor Symposium on Quantitative Biology, 43:937-946 (1979) ",
+        "bbox": [
+            128,
+            352,
+            875,
+            430
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            138,
+            125,
+            250,
+            141
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. SHERMAN: How big a region did you sequence? In other words, how far away could you have detected up a double base pair change? ",
+        "bbox": [
+            138,
+            155,
+            851,
+            187
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: Well, we were using rather high concentration gels to get that separation. I guess about 80 base pairs. We picked up two double base-pair changes in S0s-induced bacteria, and we also picked up that unselected one which must have occurred during the stock preparation because it was found in combination with two different revertant sequences. ",
+        "bbox": [
+            138,
+            201,
+            855,
+            291
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. SARASIN: Did you notice any mutations due to the PydC lesions which have been suggested by W. Haseltine? ",
+        "bbox": [
+            138,
+            305,
+            851,
+            337
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: I can't say: there's not cytosine in, or adjacent to, the TAG sequence that we're reverting, which is a shame because one would be interested in having a look at mutations at cytosine. We also have some data that the hydrates of cytosine and uracil are, at least in vitro, mutagenic. So we would have liked to have been able to see those, but we couldn't. ",
+        "bbox": [
+            138,
+            350,
+            853,
+            440
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. SARASIN: Still referring to W. Haseltine' experiments, specificalTy his calculation of the efficiency of thymine dimer formation as a function of the two flanking nucleotides and the number of potential dimer sites, could you determine the probability of getting pyrimidine dimers at different sites in your system? ",
+        "bbox": [
+            138,
+            454,
+            823,
+            545
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: It wouldn't be able to account for all the mutations, I'm sure. We were looking to see whether we could get the Jeffrey Miller-type results (reference 39) of tandem double base change mutations which one would have predicted one would only see under conditions of target irradiation and induction of the S0S-repair system. And even if it had been at a relatively low frequency, we would have hoped to see them, but we didn't. But we got tandem base changes in other treatments. ",
+        "bbox": [
+            138,
+            559,
+            845,
+            681
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. GLICKMAN: I'd like to comment on the tandem base changes. As you just pointed out, they're predicted on the basis of pyrimidine dimers being sites for mutagenesis. In the original data, Miller quotes a fairly high percent of tandem double base changes, but in a later paper, when the sites were actually assigned to the given sequences, a lot of those presumed doubles turned out to be singles. 'It turns out that only something like 12 out of the 650 mutants examined were actually doubles, and of those twelve, one occurred at a non-pyrimidine dimer site and another wasn't tandem, giving an overall frequency for tandem doubles of $1 . 7 \\%$ . I agree with your conclusion that it's the induction of SOS which is most likely to be responsible. ",
+        "bbox": [
+            138,
+            695,
+            857,
+            877
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "DR. SINGER: Did I understand you to say in the beginning that you did not know whether the pyrimidine dimer was actually being copied? ",
+        "bbox": [
+            140,
+            123,
+            857,
+            169
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: That's right. In vivo there's no evidence for that. They have certainly not been copied, at least as yet, in vitro. I've not been able to do that; I don't think Peter Moore has. ",
+        "bbox": [
+            140,
+            183,
+            835,
+            244
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. SINGER: Have you quantitated the dimers? ",
+        "bbox": [
+            140,
+            258,
+            626,
+            275
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: Yes. We use T4 endonuclease to look at the DNA that we'd irradiated in the presence of mercury or silver. To that extent we had indeed attempted to quantify the dimer units. But more recently we've been trying simply to see whether there were primidine dimers in the Weigle reactivated RF DNA, (this was of course done in bacteria deficient in excision repair, under the yellow light and so on). We have not been able to detect them. ",
+        "bbox": [
+            140,
+            288,
+            857,
+            394
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. RIPLEY: How strong is the evidence that the silver and mercury reactions really affect only pyrimidine dimers and not other things? ",
+        "bbox": [
+            140,
+            409,
+            811,
+            455
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: They don't affect the formation of hydrates of cytosine and uracil. They're meant to inhibit   \ntriplet-excitation. Data from Setlow (reference 12) indicated that they reduce the lethality of UV irradiation by about $30 \\%$ : though they still found a significant amount of residual killing, which we don't get at all. But then we're looking at   \nsingle-stranded DNA and they were looking at the viability of double-stranded transforming DNA. ",
+        "bbox": [
+            138,
+            469,
+            841,
+            590
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. RIPLEY: That certainly may speak to the question of inactivating events, but not necessarily to the role of those lesions in mutagenesis. ",
+        "bbox": [
+            140,
+            604,
+            799,
+            650
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: I agree absolutely. Those data were only there to establish what is the inactivating lesion (pyrimidine dimer), and then I was trying to show a modest increase in survival for that inactivating lesion under conditions of Weigle-reactivation. ",
+        "bbox": [
+            138,
+            663,
+            853,
+            726
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. RIPLEY: What effect on survival does UV-irradiation to the cells have? ",
+        "bbox": [
+            134,
+            740,
+            821,
+            770
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: The Weigle reactivation effects are weak with M13. You tend to get a decrease in the plating efficiency, which makes life confusing. It normally works out at a factor of about 2, but not much more. Of course, the majority of the survival effects of S0s-induction in other systems would appear to be largely due to induction of uvrA and B and what not, that is to excision repair, which can't act upon single-stranded DNA like M13. ",
+        "bbox": [
+            138,
+            783,
+            843,
+            877
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            132,
+            127,
+            859,
+            144
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DR. LOEB: I have three sets of questions. First, I guess you're telling me that the previous reports on the ability to replicate past Uv dimers have not been substantiated; is that correct? The other question is, when you did those primer experiments, did you use isolated restriction primers? ",
+        "bbox": [
+            136,
+            158,
+            841,
+            234
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: Yes to both questions. ",
+        "bbox": [
+            136,
+            247,
+            545,
+            263
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DR. LOEB: So you've purified a single isolated restriction fragment and measured growth. Then your ability to detect replication past apurinic sites--using manganese--would be about $10 \\%$ because you're looking at the amount that goes past, on a gel: Thus, our results with manganese are similar. We find that $\\sin 2 +$ enhances the ability to replicate past an apurinic site, using a variety of DNA polymerase. ",
+        "bbox": [
+            134,
+            277,
+            841,
+            383
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DR. GLICKMAN: I would like to comment on why I thought the gamma experiments would be so important. In experiments that we published about two years ago we did a study of the spectrum of mutations in the lacI system, using 30 kilorads of gamma radiation. One of the questions that we later have tried to ask was, \"Is there a difference in spectra at different doses?\" This could be very important in thinking about chemicals and radiation in terms of thresholds and repair. We therefore did an experiment at approximately the doubling dose for mutagenesis. It appeared from this experiment that almost all of the mutants that we isolated were transitions, whereas in the 30 kilorad dose experiment we had approximately equal proportions of transitions and transversions. The state of the cell, its repair situation, will therefore affect mutational specificity. The idea for the M13 mutagenesis experiment was to take gamma irradiated phage and plate them on irradiated and non-irradiated hosts. I think your result indicates there is a substantial difference, and support the idea that the S0s-induced host cell gives a different spectrum with the gamma irradiated phage. ",
+        "bbox": [
+            134,
+            397,
+            851,
+            684
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DR. THILLY: I'm confused by not knowing the actual frequency of thymine dimers. You spoke of it as being very low, with what I would consider very large fluences. Would it have approached the frequency that you observed for mutations and perhaps exceeded that frequency 100-fold. Were you working at, say, 5 dimers per phage? ",
+        "bbox": [
+            136,
+            698,
+            839,
+            790
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: A little less. They're high fluences but on the other hand it's a very small target. ",
+        "bbox": [
+            130,
+            804,
+            829,
+            834
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "DR. THILLY: With a frequency of mutation at a site of $1 0 ^ { - 4 }$ , and an expectation of dimers at that site of 10-4 or some number ",
+        "bbox": [
+            134,
+            848,
+            833,
+            880
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "close to that, shouldn't we wonder about the relationship between the two. This is something that our discussion so far hasn't touched. ",
+        "bbox": [
+            136,
+            125,
+            843,
+            170
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: We were just looking to see whether mutations were occurring at potential sites for dimers. We didn't get a significant contribution to mutagenesis at the potential sites for pyrimidine dimers, except possibly for the amber-7 mutation. There we also had the increase for untargeted mutagenesis, so it's difficult to assess. ",
+        "bbox": [
+            136,
+            184,
+            853,
+            276
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. GLICKMAN: You're arguing that he is not seeing as many mutants as you should see because, if he's got let's say 5 dimers per phage, he has one in a thousand with a dimer at that site. And his frequency of mutation is not $1 0 ^ { - 3 }$ but $1 0 ^ { - 4 }$ , or less. But that's making a large number of assumptions. ",
+        "bbox": [
+            134,
+            290,
+            843,
+            366
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: Not every dimer produces a mutation. Most of them are lethal. Moreover, it is possible that only the least damaged phages are reactivated. ",
+        "bbox": [
+            136,
+            381,
+            851,
+            426
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. BRIDGES: But you haven't excluded the possibility that there may be 80 or $90 \\%$ of the dimers which are not giving rise to mutations, yet yielding viable phage. That would have serious implications for dimer replication models. ",
+        "bbox": [
+            134,
+            440,
+            845,
+            501
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. GLICKMAN: There's another possibility, one which your data doesn't remove. Most mutagenesis with Uv is due to transition, so you can make a model in which the SOS system puts in A's; every time you hit a dimer you put in an A. Since this is the correct base opposite a T, you don't see mutants. ",
+        "bbox": [
+            134,
+            515,
+            851,
+            590
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. S. PRAKASH: What is the proportion, from your data and others, of targeted versus untargeted mutations by UV? Can you quantify it in some way? ",
+        "bbox": [
+            136,
+            606,
+            819,
+            651
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: We had an increase of up to 10-fold by simply untargeted mutations. And the effect of target irradiation would perhaps double that, or a little bit more. But as I said previously, I wouldn't want people to extrapolate too much to cellular systems because there are differences, specifically in the number of replication runs. And also, maybe even more important, in the correction of untargeted mutations by the post-replicative mismatch correction system. ",
+        "bbox": [
+            134,
+            665,
+            839,
+            787
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. S. PRAKASH: Might the SOS repair system have evolved simply to produce untargeted mutations? ",
+        "bbox": [
+            130,
+            802,
+            829,
+            833
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: Miroslav Radman would love you for saying that.   \nThink teleologically. ",
+        "bbox": [
+            132,
+            847,
+            815,
+            879
+        ],
+        "page_idx": 18
+    },
+    {
+        "type": "text",
+        "text": "DR. S. PRAKASH: And that seems rather bizarre. Things don't evolve that way. ",
+        "bbox": [
+            136,
+            131,
+            797,
+            162
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: I think most of those untargeted mutations would get taken out by mismatch correction. There is evidence that the mismatch correction system does act upon untargeted mutations. And there's also evidence that phages are likely to have less efficient mismatch correction. For instance, the methylation of DNA, which instructs the process, is poor for phage lambda and its replicating all the time. ",
+        "bbox": [
+            134,
+            175,
+            851,
+            281
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "DR. LAwRENCE: You're probably underestimating the frequency of untargeted mutations, in any case, even if you want to call mutations in purine sequences untargeted; I suspect, for the reasons that you mentioned, that lesions other than dimers may also be significant. But even if you want to make that assumption, you are probably underestimating them because you have to correct for the time at which the phage replicate in relation to the time the cell is maximally induced. If you put in unirradiated phage, they replicate straight away, and a lot of that replication occurs before the cell is properly induced. But if you irradiate the phage, it replicates later. ",
+        "bbox": [
+            136,
+            295,
+            853,
+            462
+        ],
+        "page_idx": 19
+    },
+    {
+        "type": "text",
+        "text": "DR. DOUBLEDAY: I gave the bacteria 20-30 minutes postirradiation incubation in an attempt to maximize S0s inducation. But that's right; those are the sorts of problems you get into. ",
+        "bbox": [
+            138,
+            476,
+            841,
+            522
+        ],
+        "page_idx": 19
+    }
+]

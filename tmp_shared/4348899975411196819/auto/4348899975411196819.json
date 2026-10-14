@@ -1,0 +1,310 @@
+[
+    {
+        "type": "text",
+        "text": "Dedos de la mano ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            389,
+            127
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Se conoce con el nombre de dedos de las manos aquella parte del cuerpo humano que corresponde a los cinco dedos de la mano, clasificada en la Terminología Anatómica de 1997 con el código A01.1.00.030 y bajo el nombre latino de digiti manus. Es una parte duplicada, de tal modo que existen «dedos de la mano derecha» y «dedos de la mano izquierda», subpartes simétricas especularmente entre sí respecto al plano medio cuando se encuentran ambas en posición anatómica.1 ",
+        "bbox": [
+            70,
+            140,
+            497,
+            349
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recibe el mismo nombre la región anatómica correspondiente a esa parte del cuerpo, clasificada con el código A01.2.07.026 y bajo el mismo nombre latino. Esta región está compuesta por las siguientes subregiones:1 ",
+        "bbox": [
+            70,
+            365,
+            497,
+            459
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d2351d33d31ccb001a75cde3393c60d97128812a70c02481c8cd0a8c40aaa7f9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            524,
+            146,
+            917,
+            366
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Región de los dedos de la mano: vista exterior. ",
+        "bbox": [
+            531,
+            368,
+            910,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Pulgar ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            496,
+            159,
+            520
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Región correspondiente al dedo homónimo: también conocido como «primer dedo [I] de la mano», es el dedo más externo de la mano cuando esta se encuentra en la posición anatómica, es decir, con las palmas en posición frontal. Está clasificada con el código A01.2.07.027 y bajo los nombres ",
+        "bbox": [
+            70,
+            535,
+            499,
+            648
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/612b57b4c902df6b351c80cc842155fc0b0989209c4442269256d089e94ef3c9.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            519,
+            388,
+            926,
+            628
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "latinos de pollex y digitus primus [I] manus. El dedo y región correspondientes en el pie reciben el nombre de dedo gordo, además de primer dedo del pie.1 ",
+        "bbox": [
+            70,
+            649,
+            932,
+            688
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Índice ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            722,
+            154,
+            745
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Región correspondiente al dedo homónimo: también conocido como «segundo dedo [II] de la mano», es el segundo dedo más externo de la mano cuando esta se encuentra en la posición anatómica. Está clasificada con el código A01.2.07.028 y bajo los nombres latinos de index y digitus secundus [II] manus. El dedo y región correspondientes del pie no se llaman «índice», sino segundo dedo del pie.1 ",
+        "bbox": [
+            70,
+            763,
+            932,
+            839
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Región correspondiente al dedo homónimo: también conocido como «tercer dedo [III] de la mano» o «dedo cordial», es el tercer dedo más externo (o interno) de la mano cuando esta se encuentra en posición anatómica. Está clasificada con el código A01.2.07.029 y bajo los nombres latinos de digitus medius y digitus tertius [III] manus. El dedo y región correspondientes del pie no se llaman «dedo medio», sino tercer dedo del pie.1 ",
+        "bbox": [
+            72,
+            103,
+            515,
+            274
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Anular ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            309,
+            164,
+            332
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Región correspondiente al dedo homónimo: también conocido como «cuarto dedo [IV] de la mano», es el cuarto dedo más externo (o segundo más interno) de la mano cuando esta se encuentra en posición anatómica. Está clasificada con el código A01.2.07.030 y bajo los nombres latinos de digitus anularis y digitus quartus [IV] manus. El dedo y región correspondientes del pie no se llaman «anular», sino cuarto dedo del pie.1 ",
+        "bbox": [
+            70,
+            350,
+            514,
+            521
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/d5813e6acfd6022899fa5e52993d3f8170eeec809fe58d32bf50e55501f8a822.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            544,
+            52,
+            922,
+            450
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Huesos de la mano. Obsérvense las 2 falanges que componen el dedo pulgar y las 3 falanges que componen el resto de los dedos. ",
+        "bbox": [
+            544,
+            454,
+            902,
+            501
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Meñique de la mano ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            557,
+            336,
+            580
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Región correspondiente al dedo homónimo: también conocido como quinto dedo [V] de la mano, es el quinto dedo más externo (o primero más interno) de la mano cuando esta se encuentra en posición anatómica. Está clasificada con el código A01.2.07.031 y bajo los nombres latinos de digitus minimus y digitus quintus [V] manus. El dedo y región correspondientes del pie se llaman dedo meñique del pie o quinto dedo del pie.1 ",
+        "bbox": [
+            70,
+            596,
+            576,
+            749
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/eab697a6515a3b084f40ffdb1c33c766fa388d24814905b55d20deeebed3e0c4.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            536,
+            924,
+            834
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            785,
+            223,
+            807
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. «Dedos de la mano» en la Terminología Anatómica Internacional; pp. 2 y 5 (http://books.google.es/book ",
+        "bbox": [
+            77,
+            828,
+            576,
+            862
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "s?hl=es&lr=&id=55WRQHY4A3IC&oi=fnd&pg=PA2#v=onepage&q&f=false). 2001. Editorial Médica Panamericana. ISBN 84-7903-614-1. ",
+        "bbox": [
+            99,
+            862,
+            934,
+            894
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/35363256f5bc92eff8e7bb8b9973f5a5d48c14a8f33961166df0c0555fc0c58a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            52,
+            924,
+            220
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/13d289c48bd8cc37a61201a49fe2216089645875620ee01999d039044d14ac44.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            251,
+            924,
+            422
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/ac291eff7736ca1cf9db587b5fd05f38f597cfb8f1e7d2ba938af634f8e9d12c.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            457,
+            924,
+            619
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/bdc6c7558018da0474aa020c7e8605422928b3704fdd506ed02b894645c3fd28.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            605,
+            652,
+            924,
+            877
+        ],
+        "page_idx": 2
+    }
+]

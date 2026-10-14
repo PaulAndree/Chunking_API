@@ -1,0 +1,228 @@
+[
+    {
+        "type": "text",
+        "text": "Entalpía de formación ",
+        "text_level": 1,
+        "bbox": [
+            68,
+            98,
+            475,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La entalpía de formación $( \\Delta H _ { \\mathrm { f } } )$ de un compuesto químico es la variación de entalpía de la reacción de formación de dicho compuesto a partir de las especies elementales que lo componen, en su forma más abundante. Por ejemplo, la entalpía de formación del agua, formada por hidrógeno y oxígeno, sería equivalente a la entalpía de reacción de hidrógeno diatómico y oxígeno diatómico. ",
+        "bbox": [
+            70,
+            140,
+            931,
+            217
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Así, la entalpía de formación de un compuesto es la energía necesaria para formar un mol de dicho compuesto a partir de sus elementos, medida, normalmente, en unas condiciones de referencia estándar, 1 atm de presión y una temperatura de 298 K $( 2 5 ^ { \\circ } \\mathrm { C } )$ . ",
+        "bbox": [
+            70,
+            231,
+            931,
+            287
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Esta entalpía es negativa cuando se trata de una reacción exotérmica, que desprende calor, mientras que es positiva cuando es endotérmica. ",
+        "bbox": [
+            70,
+            302,
+            931,
+            339
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La entalpía estándar de formación de un compuesto es la variación de entalpía que acompaña la formación de 1 mol de una sustancia en su estado estándar a partir de sus elementos constituyentes en su estado estándar (la forma más estable de un elemento a 1 atmósfera de presión y a $2 5 ~ ^ { \\circ } \\mathrm { C }$ de temperatura). Se denota por $\\Delta _ { \\mathrm { f } } H ^ { 0 }$ . ",
+        "bbox": [
+            70,
+            353,
+            931,
+            431
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La variación de entalpía estándar de formación se mide en unidades de energía por cantidad de sustancia. Se suelen dar en kilojulios por mol $( \\mathrm { k J } \\mathrm { m o l } ^ { - 1 }$ ), pero puede venir dada en cualquier unidad con las mismas dimensiones. Todos los elementos en sus estados estándares (oxígeno gas, carbono sólido en forma de grafito, etc.) tienen una entalpía estándar de formación de cero, dado que su formación no supone ningún proceso. ",
+        "bbox": [
+            70,
+            446,
+            931,
+            542
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La variación de entalpía estándar de formación se usa en termoquímica para encontrar la variación de entalpía estándar de reacción. Esto se hace restándole la suma de las entalpías estándar de formación de los reactivos a la suma de las entalpías estándar de formación de los productos, como se muestra en la siguiente ecuación. ",
+        "bbox": [
+            70,
+            557,
+            931,
+            633
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/c78af4d0295baf8a9755927d4b2a54da602d757170db1228f8cdf2e1fa32674e.jpg",
+        "text": "$$\n{ \\Delta H ^ { 0 } } _ { \\mathrm { { r } } } = \\Sigma { \\Delta H ^ { 0 } } _ { \\mathrm { { f } } } \\left( { \\mathsf { P r o d u c t o s } } \\right) - \\Sigma { \\Delta H ^ { 0 } } _ { \\mathrm { { f } } } \\left( { \\mathsf { R e a c t i v o s } } \\right)\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            646,
+            547,
+            669
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "donde: ",
+        "bbox": [
+            70,
+            684,
+            127,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "O significa \"estándar\" r \"de reacción\" f \"de formación\" ",
+        "bbox": [
+            119,
+            716,
+            314,
+            770
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La entalpía estándar de formación es equivalente a la suma de varios procesos por separado incluidos en el ciclo de Born-Haber de las reacciones de síntesis. Por ejemplo, para calcular la entalpía de formación del cloruro de sodio, usamos la siguiente reacción: ",
+        "bbox": [
+            70,
+            786,
+            931,
+            842
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "equation",
+        "img_path": "images/64f77f4cd0db815a8a0f500af3c216ed306713b237c0448e7be9b33737be0b4b.jpg",
+        "text": "$$\n\\mathsf { N a } _ { ( \\mathsf { s } ) } + ( 1 / 2 ) \\mathsf { C l } _ { 2 ( \\mathsf { g } ) } \\to \\mathsf { N a C l } _ { ( \\mathsf { s } ) }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            856,
+            381,
+            878
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Este proceso se compone de muchos sub-procesos independientes, cada uno con su propia entalpía. Por ello tendremos en cuenta: ",
+        "bbox": [
+            70,
+            890,
+            931,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. La entalpía estándar de sublimación del sodio sólido   \n2. La primera energía de ionización del sodio gaseoso   \n3. La entalpía de disociación del cloro gaseoso   \n4. La afinidad electrónica de los átomos de cloro   \n5. La energía reticular del cloruro de sodio ",
+        "bbox": [
+            78,
+            42,
+            574,
+            138
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La suma de todos estos valores nos dará el valor de la entalpía estándar de formación del cloruro de sodio. ",
+        "bbox": [
+            68,
+            146,
+            931,
+            180
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Además, la aplicación de la Ley de Hess demuestra que la suma de las reacciones individuales correspondientes a la variación de entalpía de formación para cada sustancia en la reacción es igual a el cambio en entalpía para la reacción total, independientemente del camino seguido o del número de reacciones involucradas en el cálculo. En el ejemplo anterior la variación de entalpía estándar de formación del cloruro sódico es igual a la suma de la variación de entalpía estándar de cada uno de los pasos seguidos para el proceso. Esto es especialmente útil para reacciones largas con muchos pasos y compuestos intermedios. ",
+        "bbox": [
+            70,
+            198,
+            931,
+            328
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Esto nos lleva a la conclusión de que a veces se define una entalpía estándar de formación para una reacción hipotética. Por ejemplo, no podemos combinar carbón e hidrógeno en el laboratorio para formar metano, aunque definamos la entalpía estándar de formación para el metano en $- 7 4 . 8 \\mathrm { \\ k J \\ m o l ^ { - 1 } }$ . Por último, el signo negativo de este valor significa que el metano se forma a partir de una reacción exotérmica, es decir, que se forma con liberación de energía. ",
+        "bbox": [
+            70,
+            344,
+            931,
+            440
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            475,
+            262,
+            498
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ciclo de Born-Haber Anexo: Tablas de entalpías de formación de compuestos ",
+        "bbox": [
+            80,
+            519,
+            615,
+            557
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de «https://es.wikipedia.org/w/index.php?title=Entalpía_de_formación&oldid=167453412» ",
+        "bbox": [
+            70,
+            583,
+            811,
+            599
+        ],
+        "page_idx": 1
+    }
+]

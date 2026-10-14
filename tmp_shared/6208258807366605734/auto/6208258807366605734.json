@@ -1,0 +1,699 @@
+[
+    {
+        "type": "text",
+        "text": "El efecto isla de calor urbanonota 1 (abreviado ICU) o simplemente isla de calor es la elevación localizada de la temperatura en entornos urbanos respecto al área rural circundante.1 2 3 ",
+        "bbox": [
+            70,
+            138,
+            400,
+            232
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7db01d0764cf8a4d184a443f182068c62700ee0f50f9323ef7f891237c2b6554.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            426,
+            143,
+            926,
+            266
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Se presenta en las grandes ciudades y consiste en la dificultad de la disipación del calor durante las horas nocturnas, cuando las áreas no urbanas se enfrían ",
+        "bbox": [
+            70,
+            248,
+            400,
+            321
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Isla de calor. ",
+        "bbox": [
+            430,
+            269,
+            524,
+            282
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "notablemente por la falta de acumulación de calor.4 El centro urbano, donde los edificios y el asfalto desprenden por la noche el calor acumulado durante el día, provoca vientos locales desde el exterior hacia el interior. Comúnmente se da el fenómeno de elevación de la temperatura en zonas urbanas densamente construidas causado por una combinación de factores5  tales como la edificación, la falta de espacios verdes, los gases contaminantes o la generación de calor.3 Se ha observado que el fenómeno de la isla de calor aumenta con el tamaño de la ciudad y que es directamente proporcional al tamaño de la mancha urbana,6  también que los sectores que guardan más calor pueden coincidir con disparidades raciales y de clase.7 ",
+        "bbox": [
+            68,
+            323,
+            932,
+            475
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Causas ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            511,
+            163,
+            532
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Las zonas edificadas ofrecen más superficie para la absorción de calor, el cual irradian lentamente durante la noche.8 9 Otro efecto de los edificios altos son las múltiples reflexiones horizontales de la radiación recibida, que aumentan la probabilidad de que esta energía permanezca en el suelo en lo que se conoce como efecto cañón.10 ",
+        "bbox": [
+            70,
+            549,
+            931,
+            624
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La falta de grandes zonas verdes y el entubamiento de los afluentes acuosos en la ciudad reduce las oportunidades de transformar la energía solar a través de los procesos de fotosíntesis o evaporación del agua.5 Diversos estudios muestran la relación directa entre las altas temperaturas urbanas y la falta de vegetación.11 12 ",
+        "bbox": [
+            70,
+            641,
+            931,
+            716
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Por otra parte, la actividad industrial y doméstica genera un aporte de calor al medio. En particular los sistemas de refrigeración en la ciudad forman parte de un círculo vicioso, ya que generan calor extra y su uso se incrementa con la temperatura. Algunos autores explican la isla de calor como un efecto invernadero local, pues los gases se encierran en un solo lugar provocando una cápsula de gases que absorbe calor del sol.13 Los materiales que forman la ciudad absorben la radiación solar de onda corta y la emiten posteriormente con una longitud de onda más larga, frecuencia que resulta retenida por partículas en suspensión y gases de combustión. ",
+        "bbox": [
+            68,
+            732,
+            931,
+            862
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La cápsula de gases solo puede ser rota cuando los vientos son superiores a $2 0 \\ \\mathrm { k m / h }$ , si en la superficie hay demasiados edificios de mucha altura el aire será obstruido y la cápsula no se romperá, pero sin embargo hasta lo más natural puede provocar una cápsula de calor. Las ciudades localizadas en un valle rodeado de ",
+        "bbox": [
+            70,
+            877,
+            931,
+            932
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "montañas de más de $5 0 0 ~ \\mathrm { ~ m ~ }$ son más propensas a una isla de calor, pues es aire queda obstruido por las montañas que la rodean haciendo la cápsula más densa y gruesa. ",
+        "bbox": [
+            70,
+            43,
+            400,
+            134
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Otra de las causas que provocan el efecto de isla de calor es el albedo, o la capacidad de reflejar en mayor o menor medida la radiación solar. Por regla general, un color más claro absorbe menos calor que un color más oscuro. Las calles hechas de asfalto alcanzarán temperaturas mucho mayores a aquellas alcanzadas por una calle hecha de hormigón relativamente nuevo. ",
+        "bbox": [
+            70,
+            150,
+            400,
+            333
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/31f8dde778951140e658aa7755ea3e40bb747b5548fa9d0a3f0f1adcc3041db5.jpg",
+        "image_caption": [
+            "Tokio, ejemplo de isla de calor. Las temperaturas normales de Tokio subieron más que las del alrededor "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            428,
+            53,
+            922,
+            312
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Consecuencias ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            370,
+            257,
+            393
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La isla de calor urbana tiende a exagerar los extremos de calor en el verano y de los de frío en invierno. Mientras que en el verano se emplean cada vez más los aparatos de aire acondicionado5 en el uso doméstico, industrial y comercial, durante el invierno se utilizan aparatos de calefacción (que a veces son los mismos, es decir, inter-cambiadores de calor) que logran regular la temperatura de las viviendas y edificios de todo tipo, a costa de exagerar los extremos de esas temperaturas fuera de dichas viviendas o edificios y un aumento en el consumo de energía.14 ",
+        "bbox": [
+            70,
+            409,
+            931,
+            522
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Este fenómeno es fácil de observar en grandes ciudades, con múltiples aparatos de aire acondicionado en las ventanas de las viviendas que expulsan aire más cálido y húmedo en el verano y más frío en invierno. Se debe revisar con cautela los datos de las temperaturas de los termómetros digitales que abundan en todas las ciudades y que suelen indicarse como ejemplos del calentamiento global que dan las emisoras de radio y televisión globales. Metodológicamente, se debe implementar diferentes herramientas para el estudio de las islas de calor urbanas, mediante la revisión de diferentes fuentes de datos con las que se pueda analizar dichos fenómenos, y posteriormente obtener los parámetros que pueden influir en dicha isla de calor.9 ",
+        "bbox": [
+            70,
+            536,
+            932,
+            667
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hasta cierto punto, las islas de calor urbano son un ejemplo local del clima en el desierto, donde la temperatura puede llegar a $5 0 ~ ^ { \\circ } \\mathrm { C }$ en el día y bajar a menos de $1 0 ^ { \\circ }$ en la noche. Y en el clima mediterráneo podemos experimentar algo similar: el excesivo calor diurno se ve contrarrestado por una temperatura mucho más baja en las horas iniciales de la mañana, algo que los turistas de climas más fríos deberían tener en cuenta cuando visitan los países mediterráneos.15 16 ",
+        "bbox": [
+            70,
+            682,
+            931,
+            775
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Consecuencias en la salud ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            811,
+            401,
+            834
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El fenómeno de la isla de calor urbana (UHI, por sus siglas en inglés) tiene importantes repercusiones en la salud y el bienestar de la población. Diversos estudios han constatado su efecto en la mortalidad y morbilidad en diferentes partes del mundo 17 . ",
+        "bbox": [
+            70,
+            850,
+            931,
+            906
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Las temperaturas máximas diarias se correlacionan mejor con la mortalidad relacionada con las olas de calor, mientras que las temperaturas mínimas tienen una mayor relación con las admisiones hospitalarias de emergencia. En ciudades del interior, se ha observado una asociación estadísticamente significativa entre las temperaturas máximas y la mortalidad durante las olas de calor, mientras que en ciudades costeras, se ha encontrado una asociación entre las temperaturas mínimas y el impacto en la morbilidad y mortalidad, principalmente debido al efecto isla de calor. Las muertes asociadas a este fenómeno son en su mayoría prevenibles. 18 ",
+        "bbox": [
+            70,
+            42,
+            932,
+            172
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El calor ambiental durante la noche puede interrumpir la fisiología normal del sueño, lo que puede llevar a daños en el sistema inmunológico, mayor susceptibilidad a enfermedades cardiovasculares, enfermedades crónicas, inflamación sistémica, y daños psicológicos y cognitivos. Algunos estudios sugieren una conexión entre las noches calurosas y la mortalidad en áreas del sur de Europa. ",
+        "bbox": [
+            70,
+            188,
+            931,
+            262
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Es importante destacar que el impacto de la isla de calor en la morbilidad y mortalidad no puede generalizarse para todas las ciudades. Los factores locales determinan en gran medida si el efecto de la isla de calor tendrá un mayor o menor impacto en la salud durante los eventos de olas de calor. Por lo tanto, se requieren estudios a escala local para evaluar adecuadamente los riesgos y desarrollar estrategias de adaptación efectivas. ",
+        "bbox": [
+            70,
+            276,
+            931,
+            368
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Estos estudios son esenciales para crear marcos estratégicos y acciones específicas que aumenten la resiliencia y mitiguen la vulnerabilidad de las poblaciones urbanas frente al calor extremo. La adaptación exitosa requiere conocimiento, competencia y capacidades locales, lo que solo puede abordarse mediante alianzas entre individuos, hogares, comunidades, gobiernos locales y otras organizaciones con capacidad de intervención. ",
+        "bbox": [
+            70,
+            384,
+            931,
+            476
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Consecuencias en estaciones meteorológicas \"urbanas\" ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            510,
+            764,
+            534
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Con la urbanización, muchas estaciones meteorológicas han quedado dentro de las islas de calor. La deriva en los datos artificializados (ya que no registra la climatología regional, sino la forzada por el régimen de la isla de calor) puede ser eliminada matemáticamente con fórmulas de ajuste. Con el efecto de la isla de calor las temperaturas mínimas son notablemente más altas que en el entorno próximo y las máximas son ligeramente más bajas por lo que la temperatura media es más alta en la ciudad que además suele contar con un mayor grado de humedad. Sírvanos como ilustración el clima en Madrid medido en el Parque del Retiro, en el centro de la ciudad, y en el Aeropuerto de Barajas, en las afueras de la capital española. Las máximas son ${ 1 , 2 ~ ^ { \\circ } C }$ menos por la isla de calor que impide la llegada de vientos cálidos y del calentamiento solar, pero las mínimas son $2 , 1 ~ ^ { \\circ } \\mathrm { C }$ más altas, por lo que la temperatura media es más alta en el centro y con una oscilación media diaria mucho menor que en la periferia. ",
+        "bbox": [
+            68,
+            549,
+            932,
+            735
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/7d51536d99702866b3cc9b3c36a8545f6da89638e209a9d2da83a3e93cf85334.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            673,
+            758,
+            924,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Climograma de Madrid (Retiro). ",
+        "bbox": [
+            677,
+            872,
+            910,
+            887
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Observatorio del Parque del Retiro ",
+        "text_level": 1,
+        "bbox": [
+            366,
+            57,
+            642,
+            71
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/4a72508c5cc0bec92eb5eebd5e8850c8567f40396b9a5f2219f1493a3b52842a.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            74,
+            937,
+            209
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/ff0d1c789ec2604be56f6b1d87866bfa2f9e2f973d01b3c07f30cfab7962072a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            673,
+            229,
+            924,
+            339
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Climograma de Madrid (Barajas). ",
+        "bbox": [
+            677,
+            343,
+            848,
+            374
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Observatorio del Aeropuerto de Madrid-Barajas ",
+        "text_level": 1,
+        "bbox": [
+            317,
+            414,
+            694,
+            428
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "table",
+        "img_path": "images/44feefc492a235451ed6da719ed06938875724c74ee302bb1bff2a3523a14401.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            70,
+            431,
+            939,
+            565
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            598,
+            258,
+            619
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/6e381113cfaba7bf23e863a8cb62fcf7df1863eaa6a86ad928e2a96309649a2a.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            75,
+            646,
+            448,
+            844
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Techo verde en Chicago ",
+        "bbox": [
+            78,
+            847,
+            258,
+            862
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Infraestructura verde   \nTecho verde   \nClima urbano   \nMicroclima ",
+        "bbox": [
+            457,
+            642,
+            665,
+            716
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Notas ",
+        "text_level": 1,
+        "bbox": [
+            478,
+            739,
+            554,
+            758
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. También puede encontrarse como «isla de calor urbana», dependiendo de si se considera que el adjetivo «urbano/a» modifica a «isla» o a «calor». ",
+        "bbox": [
+            457,
+            781,
+            931,
+            828
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            478,
+            858,
+            628,
+            880
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Wingen, Duncan (6 de junio de 2023). «¿Qué son las islas de calor urbano y cómo afectan a la salud de las personas?» (https://www.tiempo.com/noticias/actualidad/que-son-las-islas-de-c alor-urbano-y-como-afectan-a-la-salud-de-las-personas.html). ",
+        "bbox": [
+            77,
+            900,
+            932,
+            933
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            94,
+            41,
+            640,
+            57
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "2. «Hidalgo García, David & Julián, & Díaz, Arco. (2022). Análisis espacio temporal de la Isla de Calor Urbana mediante imágenes satelitales: capitales de Andalucía. Architecture. 17. 10374. 10.5821/ace.17.49.10374.» (https://www.researchgate.net/publication/361720420_Analisis_es pacio_temporal_de_la_Isla_de_Calor_Urbana_mediante_imagenes_satelitales_capitales_de_ Andalucia). ",
+        "bbox": [
+            77,
+            60,
+            932,
+            141
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3. Chrobak, Ula (26 de marzo de 2025). Las ciudades más calientes están cartografiando sus puntos más cálidos, calle por calle (https://es.knowablemagazine.org/content/articulo/alimento s-ambiente/2025/mapeo-de-calor-urbano). doi:10.1146/knowable-032625-1 (https://dx.doi.org/10.1146% 2Fknowable-032625-1). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            75,
+            142,
+            932,
+            206
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4. Cabral de Oliveira, Eduardo Frederico (14 de abril de 2025). «Medidas de adaptação e mitigação das alterações climáticas em uma metrópole sul-americana» (https://editoraessenti a.iff.edu.br/index.php/boletim/article/view/23452). Boletim do Observatório Ambiental Alberto Ribeiro Lamego 19 (1): 44-62. ISSN 2177-4560 (https://portal.issn.org/resource/issn/2177-4560). doi:10.19180/2177-4560.v19n12025p44-62 (https://dx.doi.org/10.19180%2F2177-4560.v19n12025p44-62). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            77,
+            209,
+            932,
+            304
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "5. Carrasco Aldunate, Claudio; Palme, Massimo; Valenzuela, Jorge (31 de octubre de 2024). «Aplicación de cubiertas vegetales para la mitigación de la Isla de Calor Urbana en la ciudad de Valparaíso, Chile» (https://upcommons.upc.edu/handle/2117/419625). ACE: Architecture, City and Environment 19 (56). ISSN 1886-4805 (https://portal.issn.org/resource/issn/1886-4805). doi:10.5821/ace.19.56.12581 (https://dx.doi.org/10.5821%2Face.19.56.12581). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            75,
+            306,
+            932,
+            402
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "6. «¿Qué es el efecto isla de calor y cómo nos afecta?» (https://remicaatencionalcliente.es/isla-d e-calor-urbana/). REMICA Att Cliente. 13 de marzo de 2017. Consultado el 25 de julio de 2021. ",
+        "bbox": [
+            75,
+            403,
+            932,
+            452
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "7. Hoffman, Jeremy S.; Shandas, Vivek; Pendleton, Nicholas (13 de enero de 2020). «The Effects of Historical Housing Policies on Resident Exposure to Intra-Urban Heat: A Study of 108 US Urban Areas» (https://www.mdpi.com/2225-1154/8/1/12). Climate (en inglés) 8 (1): 12. ISSN 2225-1154 (https://portal.issn.org/resource/issn/2225-1154). doi:10.3390/cli8010012 (https://dx.doi.org/10.3 390%2Fcli8010012). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            77,
+            454,
+            932,
+            534
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "8. Ángel, Laura; Ramírez, Alberto; Domínguez, Efraín (22 de diciembre de 2023). «ISLA DE CALOR Y CAMBIOS ESPACIO-TEMPORALES DE LA TEMPERATURA EN LA CIUDAD DE BOGOTÁ» (https://doi.org/10.18257/raccefyn.34(131).2010.2410). Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales 34 (131): 173-183. ISSN 2382-4980 (https:// portal.issn.org/resource/issn/2382-4980). doi:10.18257/raccefyn.34(131).2010.2410 (https://dx.doi.org/10.1825 7%2Fraccefyn.34%28131%29.2010.2410). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            75,
+            536,
+            932,
+            633
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "9. Lorenzo-Gallardo, Jose Manuel; Lucas-Bonilla, Marta; Montalbán-Pozas, Beatriz (31 de agosto de 2024). «Estudio comparativo de distintas metodologías para la evaluación de islas de calor urbanas» (https://polired.upm.es/index.php/anales_de_edificacion/article/view/5463). Anales de Edificación 10 (2): 27-32. ISSN 2444-1309 (https://portal.issn.org/resource/issn/2444-1309). doi:10.20868/ade.2024.5463 (https://dx.doi.org/10.20868%2Fade.2024.5463). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            72,
+            635,
+            932,
+            730
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "10. Fuentes Pérez, C. A. (2015). Islas de calor urbano en Tampico, México: Impacto del microclima a la calidad del hábitat. Nova scientia, 7(13), 495-515. ",
+        "bbox": [
+            65,
+            732,
+            932,
+            764
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "11. «CLIMATOLOGÍA URBANA POR MODIFICACIÓN ANTROPOGÉNICA. ALTERACIÓN DEL BALANCE DE ENERGÍA NATURAL» (https://biblat.unam.mx/hevila/ContextorevistadelaFacult addearquitecturaUnivesidadAutonomadeNuevoLeon/2015/vol9/no11/6.pdf). ",
+        "bbox": [
+            65,
+            767,
+            932,
+            815
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "12. Franco Mateus, Sergio Andrés (2015). Valoración financiera de fachadas verdes - muros verdes en la ciudad de Bogotá (https://hdl.handle.net/1992/13478). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            65,
+            818,
+            932,
+            866
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. «Cambio Climático 2021, un resumen para todo el mundo» (https://www.ipcc.ch/report/ar6/wg 1/downloads/outreach/IPCC_AR6_WGI_SummaryForAll_Spanish.pdf). Cambio Climático 2021, un resumen para todo el mundo. Año 2021. Consultado el 25 de mayo de 2024. ",
+        "bbox": [
+            65,
+            869,
+            932,
+            918
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. Sisto, Nicholas P.; Pacheco, Harvy Vivas; Lara-Díaz, Eimmy (13 de junio de 2024). «Consumos de energía eléctrica bajo un contexto de temperaturas extremas e isla de calor en el norte de México» (https://www.investigacionesgeograficas.unam.mx/index.php/rig/article/vie w/60851). Investigaciones Geográficas (114). ISSN 2448-7279 (https://portal.issn.org/resource/issn/244 8-7279). doi:10.14350/rig.60851 (https://dx.doi.org/10.14350%2Frig.60851). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            65,
+            43,
+            932,
+            138
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "15. Honrubia, Mario. «Islas de calor: Impacto en el cambio climático y posibles soluciones» (http s://www.ennomotive.com/es/islas-de-calor/). Ennomotive. Consultado el 25 de julio de 2021. ",
+        "bbox": [
+            68,
+            141,
+            936,
+            173
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "16. [/https://www.cicy.mx/Documentos/CICY/Desde_Herbario/2022/2022-09-01- Manzanilla_Ulises-Islas-de-calor.pdf «Islas de calor urbanas: un fenómeno poco estudiado en México.Ulises Manzanilla-Quiñones. Desde el Herbario CICY 14: 178–186 (01/septiembre/2022) Centro de Investigación Científica de Yucatán, A.C. http://www.cicy.mx/sitios/desde_herbario/ ISSN: 2395-8790»] |url $=$ incorrecta (ayuda). ",
+        "bbox": [
+            65,
+            179,
+            934,
+            257
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "17. Cuerdo-Vilches, T.; Díaz, J.; López-Bueno, J. A.; Luna, M. Y.; Navas, M. A.; Mirón, I. J.; Linares, C. (2023). «Impact of urban heat islands on morbidity and mortality in heat waves: Observational time series analysis of Spain's five cities» (https://doi.org/10.1016/j.scitotenv.20 23.164412). Science of The Total Environment 890: 164412. ISSN 0048-9697 (https://portal.issn.org/ resource/issn/0048-9697). ",
+        "bbox": [
+            65,
+            261,
+            932,
+            342
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "18. Earthzine (24 de febrero de 2016). «B’more Cool: Monitoring the Urban Heat Island at High Density for Health and Urban Design» (https://earthzine.org/bmore-cool-monitoring-the-urbanheat-island-at-high-density-for-health-and-urban-design/). Earthzine (en inglés estadounidense). Consultado el 16 de junio de 2025. ",
+        "bbox": [
+            65,
+            343,
+            931,
+            407
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            437,
+            284,
+            457
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Cuerdo Vilches, T., Linares Gil, C., & Díaz Jiménez, J. (2023, junio 18). ¿Qué es el fenómeno de la isla de calor urbana? (https://theconversation.com/que-es-el-fenomeno-de-la-isla-de-cal or-urbana-y-como-puede-afectar-a-la-salud-206881) - Artículo de \\*The Conversation\\* sobre el impacto de las islas de calor urbanas en la salud humana. ",
+        "bbox": [
+            82,
+            478,
+            931,
+            541
+        ],
+        "page_idx": 5
+    }
+]

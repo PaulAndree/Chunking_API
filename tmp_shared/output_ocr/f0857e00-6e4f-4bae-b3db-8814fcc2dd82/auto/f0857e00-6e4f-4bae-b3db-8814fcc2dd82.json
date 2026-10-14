@@ -1,0 +1,173 @@
+[
+    {
+        "type": "text",
+        "text": "Commentary ",
+        "text_level": 1,
+        "bbox": [
+            67,
+            93,
+            229,
+            114
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "DNA replication: One strand may be more equal ",
+        "text_level": 1,
+        "bbox": [
+            69,
+            132,
+            670,
+            155
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman\\* ",
+        "bbox": [
+            67,
+            164,
+            208,
+            178
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Institute Jacques Monod, 75251 Paris Cedex 05, France ",
+        "bbox": [
+            69,
+            184,
+            355,
+            194
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Living organisms are highly organized adaptive systems. Whereas the maintenance of organization requires conservation, adaptation requires variation. Evolution, the fundamental strategy of Life, is an interplay of genetic variation and phenotypic selection. The wide variety of spontaneous mutation rates among natural isolates of bacteria show that the capacity for producing genetic variation is itself heritable (1, 2). Genetic variation results from somewhat imprecise reproduction due to a less-than-perfect fidelity of the transmission of genomic sequences. Could it be that the dialectic of conservation and change is reflected in the elementary act of DNA replication such that one strand is replicated with higher fidelity (conservation) than the other strand (change)? Fijalkowska et al. (3) suggest, in this issue of the Proceedings, that there is unequal fidelity in the copying of two complementary DNA template strands in the course of replication of the Escherichia coli chromosome. ",
+        "bbox": [
+            67,
+            213,
+            484,
+            428
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fijalkowska et al. (3) base their conclusion on the observation that the frequencies of specific point mutations change up to 5-fold when the mutational site is inverted. The mutational site is always the same codon in the lacZ gene, and mutation is measured as reversion frequency for a set of $l a c ^ { - }$ mutants that are known to revert only by mutation to the original sequence (4). The authors justifiably argue that the two orientations of the DNA segment containing the lacZ gene, at the same integration site (att lambda), would \"preserve all aspects of DNA metabolism, with the direction of replication fork movement relative to the gene as the only exception.\" Because this assumption is fundamental to the interpretation of the results, it is important to think of all alternatives. There are at least two other parameters that can potentially affect the precision of DNA replication upon inversion: direction of transcription relative to replication (discussed by the authors) and the distance of the mutational site from some fixed chromosomal points. If spontaneous mutations occur in a polarized way with fixed points of increased mutation rates distributed all along the chromosome, then changing the distance from such points could change the mutation frequency (5). Such sites could be as frequent as initiation sites for Okazaki fragments. Because the effect of inversion on mutation frequency was tested only on one mutational site (codon) and at a single chromosomal location, one cannot dismiss this possibility. However, the interpretation of the data is compelling, and it is supported by previous findings of radically different mutagenicity of some DNA lesions (6) and sequences (7) when residing in one or the other complementary strand. DNA sequences such as inverted repeats and $\\mathrm { \\bf G } { + } \\mathrm { \\bf C } .$ -rich trinucleotide repeats (involved in several human hereditary neuromuscular diseases) can form hairpin-like secondary structures (7). Such secondary structures in the template strand can act as barriers to elongation of DNA synthesis and thus cause deletions in the newly synthesized strand through a replicative bypass of such structures. Alternatively, expansions of trinucleotide repeats can occur by replicative idling—i.e., repeated polymerase slippage at the site of the secondary structure. Obviously, polymerase slippage cannot account for all base substitution mutagenesis. ",
+        "bbox": [
+            67,
+            430,
+            486,
+            911
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            526,
+            213,
+            944,
+            239
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "What aspect of the asymmetry of the replication fork is relevant to the unequal replicational fidelity of the two strands and at which biochemical step of DNA replication, or its editing, does the inequality occur? Is the asymmetry of leading (continuous synthesis) versus lagging (discontinuous synthesis) strand responsible for the asymmetry in fidelity? A little bit of mystery still lingers as to the nature and extent of discontinuity of DNA synthesis in vivo. The original paper by Okazaki et al. (8) reported discontinuous synthesis on both strands, with the lagging strand being far more discontinuous. Furthermore, ligase-deficient mutants of both $E$ coli and yeast revealed similarly high discontinuity on both strands (911). Therefore, it is not clear whether the strand difference in (dis)continuity is replicational or ligational. Could it be that both strands are replicated equally discontinuously after strand separation in front of the replication fork, but the ligation of the leading strand is, as would be expected, faster? DNA strand discontinuities (nicks) are required for mismatch repair in all organisms tested (12), such that error correction by mismatch repair could be more efficient on the lagging strand. However, although Fijalkowska et al. suggest that lagging strand synthesis is at least 5 times more accurate than leading strand synthesis, they exclude that either mismatch repair or polymeraseassociated exonucleolytic proofreading is responsible for the asymmetry in accuracy, because mutants deficient in the former (mutL) and/or latter (mutD5) editing mechanism showed similar asymmetry. The authors therefore consider that the asymmetry in fidelity occurs in the elementary act of DNA svnthesis, which is nucleotide insertion and elongation. ",
+        "bbox": [
+            526,
+            241,
+            944,
+            609
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The differences in the fidelity of diverse DNA polymerases are manifested much more in their capacity to elongate DNA after an erroneously inserted nucleotide (error tolerance) than in their propensity to make the mistake (misinsertion) (13). Because only surviving mistakes become mutations, only those nucleotide misinsertions that are followed by elongation of the DNA will become mutations if not removed by mismatch repair. Thus, high-fidelity DNA polymerases do not extend synthesis from a mismatched strand terminus unless the mismatched nucleotide is removed by some $3 ^ { \\prime }$ -end-specific exonuclease activity (5, 13). Therefore, the authors prefer the hypothesis that the $E$ coli replicative complex, DNA polymerase III (Pol III) holoenzyme, dissociates from the terminal mistake more readily when on the lagging than when on the leading strand. The abandoned mismatched end can be removed by any $3 ^ { \\prime }$ -end-specific exonuclease, and the Pol III holoenzyme can resume the lagging strand replication. The presumably higher processivity of DNA synthesis on the leading strand would increase the probability of extension of a mismatched terminus, hence its lower fidelity (Fig. 1). The above hypothesis proposed by Fijalkowska et al. is attractive, although one cannot dismiss the possibility that the nucleotide selection is lower on leading than on lagging strand. For example, if leading strand synthesis is faster (in a stepwise progression mode), its fidelity will be diminished. Along the lines of their hypothesis and of their discovery of dnaE antimutator mutants encoding the DNA-synthesizing subunit of the Pol III holoenzyme (15), it is clear that, in these antimutators, the fidelity of the leading (lower fidelity) strand must have been improved. Perhaps only leading strand replication fidelity has been improved in dnaE antimutators—e.g., by a decrease in processivity or velocity? ",
+        "bbox": [
+            526,
+            611,
+            944,
+            905
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/b81e1e7c51ff67833bbc101db9aaac56eb126fb1ffdad8f4c19c670774624ac7.jpg",
+        "image_caption": [
+            "G. synthesis. Therefore, according to Fijalkowska et al. (3), replication errors $\\mathbf { \\Pi } ^ { \\mathbf { ( m ) } }$ in the leading strand are more readily fixed by the extension of DNA $3 ^ { \\prime }$ terminus free for excision by some cellular exonuclease (free $\\mathbf { m } _ { \\cdot }$ ), allowing the replicase to resume synthesis $( B )$ . Mutation $\\mathbf { \\Pi } ^ { \\mathbf { ( m ) } }$ is a misincorporated nucleotide; the shaded elipsoid is the DNA replication complex. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            204,
+            71,
+            809,
+            262
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            67,
+            342,
+            486,
+            455
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "How would unequal fidelity of replication of the two strands of a single DNA molecule withstand selective evolutionary pressure? Particularly in the case of bacteria, if one strand acted as a more faithful keeper of evolutionary memory, the other providing more mutations for adaptation, they should immediately compete because the progeny of the two strands would occupy the same space (molecular sib competition or sib selection?). When low mutation rates are favored, there should be a strong selection for improved fidelity of the leading (lower-fidelity) strand, whereas when high mutation rates are favored, decreased fidelity of the lagging strand, or of both strands, would be selected for. The persistence of unequal mutation rates of the two strands may be due to frequently alternating selections for low and high mutation rates in the evolutionary history of bacteria. Indeed, modeling of bacterial adaptive evolution (16, 17), experimental evolution of bacteria (18), and studies of mutation rates among natural isolates of $E$ . coli $( 1 , 2 )$ all suggest that there are frequent selective pressures for increased mutation rates during bacterial evolution. Frequent alternations of feast and famine may favor the conservation/change dialectic in the act of bacterial DNA replication. ",
+        "bbox": [
+            67,
+            455,
+            486,
+            720
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Because DNA replication is usually bidirectional and because many organisms have a large number of replication origins, the mutational bias would not affect entire DNA strands in a single block, but the mutational effect would be patchy. Such a mutational bias is expected to affect particularly some error-prone DNA sequences which would be consistently replicated by either leading or lagging strand synthesis. It is remarkable that strand compositional bias found in some bacterial genomes correlates with replicational asymmetry expected from the position of the origin and termination of DNA replication (19). Some particular sequences are expected to evolve much faster than others. Mutation rates at blocks of many kinds of simple repetitive sequences, such as microsatellites, are expected to be very sensitive to the strandedness (20). As for base substitution mutagenesis, one should keep in mind that spontaneous chemical modifications (base losses, oxidations, deaminations, alkylations, etc.) may be at least as frequent sources of mutations as are genuine replication errors (21). ",
+        "bbox": [
+            67,
+            720,
+            486,
+            897
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            526,
+            342,
+            944,
+            406
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. Le Clerc, J. E., Bauguang, L., Payne, W. L. & Cebula, T.A. (1997) Science 274, 12081211.   \n2. Matic, I., Radman, M., Taddei, F., Picard, B., Bingen, E., Denamur, E. & Eion, J. (1997) Science 277, 18331834.   \n3. Fijalkowska, I. J., Jonczyk, P., Tkaczyk, M. M., Bialoskorska, M. & Schaaper, R. M. (1998) Proc. Natl. Acad. Sci. USA 95, 1002010025.   \n4. Cupples, C. G. & Miller, J. H. (1989) Proc. Natl. Acad. Sci. USA 86, 53455349.   \n5. Marians, K. J. (1992) Annu. Rev. Biochem. 61, 673719.   \n6. Veaute, X. & Fuchs, R. P. P. (1993) Science 261, 598600.   \n7. Sinden, R. R. & Wells, R. D. (1992) Curr. Opin. Biotechnol. 3, 612622.   \n8. Okazaki, R., Okazaki, T., Sakebe, K., Sugimoto, K. & Sugino, A. (1968) Proc. Natl. Acad. Sci. USA 59, 598-605.   \n9. Konrad, E. B., Modrich, P. & Lehman, I. R. (1973) J. Mol. Biol. 77, 519529.   \n10. Gottesman, M. M., Hicks, M. L. & Gellert, M. (1973) J. Mol. Biol. 77, 531536.   \n11. Johnston, L. H. & Nasmyth, K. A. (1976) Nature (London) 274, 891893.   \n12. Modrich, P. & Lahue, R. (1996) Annu. Rev. Biochem. 65, 101133.   \n13. Echols, H. & Goodman, M. F. (1991) Annu. Rev. Biochem. 60, 477511.   \n14. Lecomte, P., Doubleday, O. P. & Radman, M. (1986) J. Mol. Biol. 189, 643652.   \n15. Fijalkowska, I. J. & Schaaper, R. M. (1996) Proc. Natl. Acad. Sci. USA 93, 28562861.   \n16. Magnasco, M. O. & Thaler, D. S. (1996) Phys. Lett. A 221, 287292.   \n17. Taddei, F., Radman, M., Maynard-Smith, J., Toupance, B., Gouyon, P. H. & Godelle, B. (1997) Nature (London) 387, 700702.   \n18. Sniegowski, P. D., Gerrish, P. J. & Lenski, R. E. (1997) Nature (London) 387, 703705.   \n19. Mrazek, J. & Karlin, S. (1998) Proc. Natl. Acad. Sci. USA 95, 37203725.   \n20. Debrauwere, H., Gendrel, C. G., Lachat, S. & Dutreix, M. (1997) Biochimie 79, 577586.   \n21. Schaaper, R. M. & Dunn, R. L. (1991) Genetics 129, 317326. ",
+        "bbox": [
+            526,
+            417,
+            946,
+            900
+        ],
+        "page_idx": 1
+    }
+]

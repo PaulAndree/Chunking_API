@@ -1,0 +1,775 @@
+[
+    {
+        "type": "text",
+        "text": "Plasmids Spread Very Fast in Heterogeneous Bacterial Communities ",
+        "text_level": 1,
+        "bbox": [
+            140,
+            71,
+            868,
+            93
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Francisco Dionisio,\\*,†,1 Ivan Matic,\\* Miroslav Radman,\\* Olivia R. Rodrigues† and Franc¸ois Taddei\\* ",
+        "bbox": [
+            263,
+            114,
+            749,
+            149
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Faculte´ de Me´dicine Necker-Enfants Malade, INSERM U571, Universite´ Paris V, 75730 Paris Cedex 15, France and † Instituto Gulbenkian de Cieˆncia, Apartado 14, P-2781-901 Oeiras, Portugal ",
+        "bbox": [
+            102,
+            157,
+            915,
+            183
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Manuscript received April 1, 2002 Accepted for publication September 23, 2002 ",
+        "bbox": [
+            356,
+            187,
+            658,
+            214
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT ",
+        "text_level": 1,
+        "bbox": [
+            472,
+            237,
+            553,
+            249
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Conjugative plasmids can mediate gene transfer between bacterial taxa in diverse environments. The ability to donate the F-type conjugative plasmid R1 greatly varies among enteric bacteria due to the interaction of the system that represses sex-pili formations (products of finOP) of plasmids already harbored by a bacterial strain with those of the R1 plasmid. The presence of efficient donors in heterogeneous bacterial populations can accelerate plasmid transfer and can spread by several orders of magnitude. Such donors allow millions of other bacteria to acquire the plasmid in a matter of days whereas, in the absence of such strains, plasmid dissemination would take years. This “amplification effect” could have an impact on the evolution of bacterial pathogens that exist in heterogeneous bacterial communities because conjugative plasmids can carry virulence or antibiotic-resistance genes. ",
+        "bbox": [
+            165,
+            252,
+            850,
+            376
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ONJUGATION is considered a major pathway for C horizontal (or lateral) gene transfer among bacteria. Conjugation requires cell-to-cell contact and operates by DNA replication resulting in unidirectional transfer of genetic material from a donor to a recipient cell. It is mediated mainly by conjugative plasmids, although conjugative transposons are also capable of triggering the process of conjugation. ",
+        "bbox": [
+            91,
+            403,
+            487,
+            526
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Two aspects of conjugative plasmids have contributed to their importance as mediators of DNA transfer. First, it has been observed that conjugative plasmids mediate gene transfer in various environments such as soil and rhizosphere (Lilley and Bailey 1997; Troxler et al. 1997), plant surfaces (Bjorklof et al. 1995), water (Bale et al. 1987), or human gut (Balis et al. 1996). Second, conjugative plasmids are highly promiscuous: donor and recipient cells may belong to different genera or even to different kingdoms (for reviews, see AmabileCuevas and Chicurel 1992; Ochman et al. 2000). A conjugative plasmid can infect different bacterial species if they coexist in the same habitat because conjugation requires contact between donor and recipient cells. Indeed, it is often the case that bacteria share the habitat with several other bacterial species. For example, 400 or 500 different species of bacteria co-inhabit in a (healthy) human gut and ${ \\sim } 2 0 0$ co-inhabit on the human skin (Berg 1996; Nielsen et al. 1998; Whitman et al. 1998). ",
+        "bbox": [
+            91,
+            527,
+            487,
+            814
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In spite of the plasmids’ promiscuity, their ability to pass between different bacterial strains or species has been considered to be of lower efficiency than their ability to pass between similar bacteria, due to diverse barriers such as restriction systems (Schafer et al. 1994; Sanderson 1996). However, this does not take into account the possibility that some strains or species may be better donors than other strains. ",
+        "bbox": [
+            91,
+            816,
+            487,
+            860
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            525,
+            404,
+            923,
+            478
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "We investigated the ability of different bacterial strains and species to donate plasmids because the presence of bacterial cells with high donor activity (X in Figure 1) within a heterogeneous community of bacteria might allow a localized amplification of such plasmids. Following such amplification, a massive plasmid transfer to the rest of the bacterial community is expected. If that amplification indeed happens, the heterogeneity of donor ability should positively affect the dissemination of plasmids. ",
+        "bbox": [
+            527,
+            480,
+            925,
+            629
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "How could this amplification effect happen? Let us simplify the community to three strains: Y strain is the initial carrier of the plasmid with low transfer ability, X is the amplifier strain with high donor activity; and Z is the rest of the community. Initially, Y cells carry the plasmid but, because of their low donor ability, the plasmid does not propagate among the Z recipient cells. However, if X and Y cells coexist, Y cells could donate the plasmid to X cells where it would propagate thanks to the high donor ability of X cells. Then X cells could donate to the rest of the community (Z cells). If such a hypothesis is true, we should be able to (i) observe a huge variability of donor abilities, (ii) show that indeed the presence of amplifier cells can speed up the propagation of a plasmid, and (iii) model the observed dynamics in terms of their molecular mechanism. These predictions were fulfilled and the implications of this amplification process in heterogeneous bacterial communities are discussed here. ",
+        "bbox": [
+            525,
+            632,
+            923,
+            916
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            167,
+            60,
+            381,
+            72
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Strains and plasmid: The strains used in this article were Escherichia coli Vdg380, E. coli Vdg411, E. coli Vdg435, E. coli M3, E. coli M4, E. coli M1412, E. coli C4705, E. coli C4720, E. coli C4734, E. coli K12 MG1655, Escherichia blattae ATCC29907, Escherichia fergusonii ATCC35471, and Erwinia chrysanthemi AK38644. ",
+        "bbox": [
+            76,
+            83,
+            472,
+            159
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We used the conjugative plasmid R1, a natural plasmid that confers resistance to six antibiotics (chloramphenicol, kanamycin, ampicillin, streptomycin, spectinomycin, and sulfonamides) and that has been considered to be unable to persist as a genetic parasite (Gordon 1992; Bergstrom et al. 2000). The R1 plasmid is a member of a group of plasmids, the F-incompatibility complex of transferable or mobilizable plasmids, very well represented in nature (IncFII) and bearing many of the virulence determinants of enteric species (Falkow 1996). ",
+        "bbox": [
+            76,
+            160,
+            472,
+            287
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Antibiotics: In all experiments, the concentrations of the appropriate antibiotics in the media were $4 0 ~ \\mu \\mathrm { g / m l }$ of nalidixic acid, $1 0 ~ \\mu \\mathrm { g / m l }$ of mecillinam, $1 0 0 ~ \\mu \\mathrm { g / m l }$ of rifampicin, $3 0 ~ \\mu \\mathrm { g / m l }$ of fosfomycin, $1 0 0 ~ \\mu \\mathrm { g / m l }$ of kanamycin, or $3 0 ~ \\mu \\mathrm { g } /$ ml of chloramphenicol. ",
+        "bbox": [
+            76,
+            288,
+            472,
+            352
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conjugations: All conjugations in Tables 1 and 2 and for Figures 2, 4, and 5 were performed by mixing logarithmicphase cultures in a 1:1 (donor:recipient) ratio, deposited on a $0 . 4 5 \\mathrm { - } \\mu \\mathrm { m }$ pore size filter (Schleicher & Schuell, Keene, NH), and incubated on prewarmed Luria-Bertani (LB) broth with agar. After $1 0 0 ~ \\mathrm { { m i } \\bar { n } }$ at $3 7 ^ { \\circ }$ , cells were resuspended in $1 0 ^ { - 2 }$ m $\\mathrm { { \\bf M g } S O _ { 4 } }$ and separated by swirling with a vortex mixer. This mixture was plated on LB agar plates supplemented with the appropriate antibiotics to select for donors, recipients, or transconjugants. To select for the plasmids (donors or transconjugants), we used kanamycin and chloramphenicol. Bacterial colonies were scored after $4 8 ~ \\mathrm { h r }$ . The $E$ . coli strains used for intraspecies conjugation were randomly chosen from a collection of natural isolates obtained from Croatia ( $E .$ coli C4705, E. coli C4720, E. coli C4734), Mali (E. coli M3, E. coli M4, E. coli M1412), and France (E. coli Vdg380, E. coli Vdg411, E. coli Vdg435; Matic et al. 1997). To distinguish donors from recipients, we isolated spontaneous mutants to rifampicin and fosfomycin resistance (RifR and FosR) or to nalidixic acid and mecillinam (NalR and MecR) before introducing the plasmid R1. Donor cells were the RifR and FosR derivatives and recipient cells were the NalR and MecR derivatives. Crosses done in the reverse gave similar results. Three independent conjugations were performed and the values shown in Tables 1 and 2 are the mean values of the three measurements. By performing conjugations on filters (rather than in liquid medium) during a small period of time $1 0 0 \\ \\mathrm { m i n }$ ), secondary transfers from transconjugants to recipients and competition between the strains were minimized. This is important because if the conjugation rate from original donors to recipients is lower than that from transconjugants to recipients, then the obtained rate will be (erroneously) the rate of the last conjugation. Therefore, the end-point method (Simonsen et al. 1990) could not be used because it assumes that transfer rates between donors and recipients and between transconjugants and recipients are similar: the fact that this may be false is exactly our starting point. ",
+        "bbox": [
+            76,
+            351,
+            472,
+            827
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Serial dilutions: The serial dilution experiments, five of them in presence of “amplifier” cells, were done in $1 0 ~ \\mathrm { m l }$ of liquid LB. Every day we proceeded to dilutions of $1 / 1 0 0$ in LB. The cultures were incubated at $3 7 ^ { \\circ }$ and gently shaken. The chromosomal markers of each $E$ coli strain were RifR for the initially plasmid-free Vdg435 strain, FosR for the initially plasmid-free amplifier M4 strain, and NalR and MecR for the donor strain of Vdg435. ",
+        "bbox": [
+            76,
+            828,
+            472,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Computer simulations: Parameters used in simulations are as follows. The growth rate of plasmid-free cells was set to $1 . 6 /$ hr and the fitness disadvantage of bearing the plasmid was $1 0 \\%$ of their growth rate. We further fixed the transfer frequency between $\\mathrm { \\bar { V } d g 4 3 5 }$ cells and from Vdg435 to M4 cells to $1 0 ^ { - 1 \\dot { 6 } }$ Then the transfer frequencies between M4 cells and from M4 to Vdg435 cells in the formulas (Levin et al. 1979; Simonsen et al. 1990) were optimized to fit to the experimental values. For the optimization procedure, we minimized the distances between the experimental and simulated values. ",
+        "bbox": [
+            512,
+            60,
+            908,
+            187
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Curing bacteria: To determine the ideal concentration of acridine orange for plasmid curing that is known to affect the viability of these strains, $E$ . coli K12 strain was used as the reference test by incubating it overnight at $3 7 ^ { \\circ }$ in LB broth with different concentrations of acridine orange (dissolved in absolute ethanol) ranging from 100 to $5 0 0 ~ \\mathrm { \\bar { \\mu } g / m l }$ (Fujii et al. 1997). Triplicate samples of the resulting cultures were plated to estimate the ideal concentration at which at least $3 0 \\%$ reduction of viability was achieved. All the $E$ . coli natural isolates were cured using the same procedure. The ideal concentration at which at least $3 0 \\%$ reduction of viability was achieved was $5 0 0 ~ \\mu \\mathrm { g / m l }$ . In comparison to the control ( $E .$ coli K12 in the absence of acridine orange), the bacteria at 500 $\\mu \\mathrm { g } / \\mathrm { m l }$ suffered a reduction of $5 4 \\%$ . Thus, we used this concentration of acridine orange to cure bacteria and obtain strains lacking plasmids. Given that acridine orange is mutagenic, we had to rule out the hypothesis that our results in conjugations were not due to newly acquired mutations. Therefore, three clones of each strain treated with acridine orange were isolated and each replica of conjugations was carried out with each of the isolated clones. ",
+        "bbox": [
+            512,
+            187,
+            908,
+            454
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Statistical analysis: When testing for differences between means (to test the null hypothesis that means are equal), we used the two-sample t-test. When testing for differences between two variances (to test the null hypothesis that the two variances are equal), the variance ratio test (i.e., F-test) was used. When testing the null hypothesis that several mean values are equal, we used the single-factor analysis of variance (ANOVA). In all cases, we rejected the null hypothesis when $P < 0 . 0 5$ . ",
+        "bbox": [
+            512,
+            455,
+            908,
+            569
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RESULTS ",
+        "text_level": 1,
+        "bbox": [
+            674,
+            601,
+            744,
+            615
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "High variability of donor ability: To test our hypothesis (Figure 1), we started by checking the diversity of enterobacterial donor ability. We measured the conjugation frequency between nine natural isolates of $E$ . coli strains, a total of 81 conjugations (Table 1), and between strains belonging to four enterobacterial species (E. coli, E. blattae, E. fergusonii, and $E$ . chrysanthemi; Table 2). The highest transfer frequency found between different enterobacterial species $( 1 0 ^ { - 1 . 7 }$ , from $E$ . chrysanthemi to E. coli K12; see Table 2) is similar to the highest transfer frequency within the same species $( 1 0 ^ { - 1 . 7 }$ , between $E$ coli M4 cells; Table 1), showing that the plasmid transfer between different species can be as efficient as between cells of the same species. Moreover, conjugation frequencies between enterobacteria reveal an impressive diversity, ranging over more than six orders of magnitude. In particular, the range of donor ability spans several orders of magnitude, as may be seen by comparing the values found in the diagonals of Tables 1 and 2 (values of “self-transfer”). In the following we will use the term self-transfer to refer to plasmid transfer between bacteria of the same strain, where donors and recipients differ solely by the presence of the plasmid in the former cells. ",
+        "bbox": [
+            512,
+            624,
+            908,
+            931
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/367326a3a0a4a47207db61f2b3b58b6dea90ca7a8e1c3bcb2280a960cf468f17.jpg",
+        "image_caption": [
+            "Figure 1.—The model for the amplification effect. Consider three bacterial populations, X, Y, and Z, living in the same habitat. Suppose that Y cells bear a conjugative plasmid. The arrows represent the conjugation events: larger arrows represent higher efficiency of the plasmid transfer. The plasmid from Y is going to infect both X and Z plasmid-free cells. If the conjugation rate among X cells is high, the plasmid number among them will amplify. Following this, plasmids from X cells will be massively transferred to plasmid-free Z cells. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            137,
+            60,
+            437,
+            242
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            399,
+            487,
+            459
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Furthermore, a strain can be a good donor to several strains. For example, the transfer from cells of the M4 strain to those of the Vdg435 strain, as well as to those of the Vdg411, M1412, C4705, or C4720 E. coli strains, is much more efficient than self-transfer between cells of these strains (Table 1). Similarly, E. chrysanthemi (strain AK38644) cells are able to transfer the plasmid to cells of E. fergusonii ATCC35471, E. coli K12, or $E$ . blattae ATCC29907 in a more efficient way than self-transfer between cells of each of these species (Table 2). ",
+        "bbox": [
+            91,
+            461,
+            487,
+            567
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            525,
+            61,
+            925,
+            106
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Such large differences in donor activity among bacterial strains and species encouraged us to test the hypothesis (Figure 1) that the presence of potent donors (X) among poor donors (Y) might greatly accelerate the spread of plasmids in population Z. ",
+        "bbox": [
+            525,
+            107,
+            923,
+            183
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Finding other candidates for the amplification effect: Candidates for the amplification effect can be found by plotting the frequency of conjugation from $\\alpha$ to $\\beta$ vs. the frequency of self-transfer between $\\beta$ -cells (Figure 2). The points above the main diagonal represent bacterial strains (or species) $\\alpha$ and $\\beta$ where the transfer from $\\alpha$ -cells to $\\beta$ -cells is more efficient than self-transfer between $\\beta$ -cells. Out of the 81 experimental points (conjugations) obtained with nine $E$ . coli strains, we found 22 pairs $( > 2 7 \\%$ of the points above the main diagonal) of strains $\\alpha$ and $\\beta$ fulfilling such criterion (Figure 2A) and 6 out of 16 among the other enterobacterial species $( > 3 7 \\%$ of the points in Figure 2B). ",
+        "bbox": [
+            527,
+            185,
+            923,
+            381
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Observation of the “amplification effect”: We chose the E. coli strains M4 and $\\mathrm { V d g 4 3 5 }$ because the frequency of conjugation from cells of strain M4 to cells of strain $\\mathrm { V d g 4 3 5 }$ is ${ \\sim } 6 8 0 0$ -fold higher than the conjugation frequency between $\\mathrm { V d g 4 3 5 }$ cells. Moreover, the conjugation frequency between M4 cells is also high, allowing for plasmid amplification within the M4 population (X cells in Figure 1). E. coli Vdg435 bacterial cells bearing the R1 plasmid (Y cells) were mixed with Z cells (plasmidfree $\\mathrm { V d g 4 3 5 }$ cells having other chromosomal markers) in a 1:1 ratio. After five serial dilutions $\\sim 3 3$ generations), no transconjugants were observed; i.e., no detect",
+        "bbox": [
+            525,
+            383,
+            923,
+            567
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/193aadd9bd394341d1c036ddb10b8b7bc1807691fbe3d9cab46a263760cb923c.jpg",
+        "table_caption": [
+            "TABLE 1 Logarithm base 10 of conjugation frequencies between strains of $E$ coli "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            86,
+            637,
+            925,
+            862
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Conjugation frequencies were calculated by dividing the number of transconjugants by the geometric mean of the number of donor and recipient cells. All these conjugations were done three times and arithmetic means are shown. NA, not applicable because no transconjugants were detected in the three experiments. ",
+        "bbox": [
+            92,
+            865,
+            920,
+            905
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "a When no transconjugants were detected in the three experiments, we refer to this as $^ { * } < - 8 . 5 ,$ ,” which is the limit of detection.   \nb Mean donor abilities were found by calculating the arithmetic mean of all the values of the same column. ",
+        "bbox": [
+            94,
+            905,
+            922,
+            932
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "table",
+        "img_path": "images/c4d6d1bb01e4e113e716fe56a89c4a768b7134e7d5017af43ba058406d9796e4.jpg",
+        "table_caption": [
+            "TABLE 2 Logarithm base 10 of conjugation frequencies between different species of enterobacteria "
+        ],
+        "table_footnote": [
+            "a The coefficient of variation in percentage is indicated in parentheses. "
+        ],
+        "bbox": [
+            132,
+            102,
+            850,
+            214
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "able transfer occurred when only Y and Z cells were present. According to computer simulations of deterministic mathematical models of plasmid transfer (Levin et al. 1979; Simonsen et al. 1990), in the absence of X cells, it would take tens of years of serial dilutions to get $1 0 ^ { 6 } ~ \\mathrm { Z }$ transconjugants even without considering that there is some disadvantage in harboring a plasmid (data not shown). ",
+        "bbox": [
+            76,
+            260,
+            472,
+            381
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In contrast, when X cells (of the strain M4 initially without plasmid) were added at the beginning of the serial dilutions, we were able to detect ${ > } 1 0 ^ { 6 }$ transconjugants/ $\\mathrm { \\dot { m } l }$ of Z cells (and ${ > } 1 0 ^ { 8 }$ transconjugants/ $\\mathrm { \\dot { m l } }$ of X cells) after only 2 days (Figure 3). ",
+        "bbox": [
+            76,
+            383,
+            472,
+            458
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Resident extrachromosomal elements affect the variability of donor ability: The best amplifier strains do not seem to be related, as the best ones belong to different species: $E$ . coli M4 and $E$ . chrysanthemi AK38644. If amplifier strains are not closely related, then the cause of this effect might be essentially other extrachromosomal elements already present in these natural isolates, not chromosomal genes. ",
+        "bbox": [
+            76,
+            459,
+            472,
+            581
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "If resident extrachromosomal elements are responsible for the amplification effect, then that effect should be eliminated if donor strains are previously cured. To test this hypothesis we made further experiments using four strains of $E .$ . coli (the worst donor, $\\mathrm { V d g 4 3 5 }$ ; the best donor, M4; and two other strains randomly chosen from the previous set, M1412 and C4705). ",
+        "bbox": [
+            76,
+            581,
+            472,
+            687
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Before introducing the plasmid R1 in the chosen four strains, we eliminated putative resident plasmids by growing them in the presence of acridine orange. Only then did we introduce the plasmid R1. As expected, the variance of mean donor abilities of each strain decreased significantly $[ P = 0 . 0 3 2$ , $F ( 3 , 3 ) \\ = \\ 1 3 . 0 5$ ; see Figure 4] when strains were previously cured, and the mean of their donor abilities was similar in noncured and cured strains ( $P = 0 . 8 1 6$ , $t = 0 . 2 5 4$ , d.f. $= 3$ ; Figure 4]. Furthermore, noncured bacteria do not have similar donor abilities [ANOVA: $F ( 3 , 8 ) = 5 4 . 4$ , $P = 0 . 0 0 0 0 1 1 5$ Figure 4], while cured bacteria have significantly similar donor abilities [ANOVA: $F ( 3 , 8 ) = 2 . 4 1$ , $P = 0 . 1 4 2$ ; Figure 4]. This is because the average donor ability of the $\\mathrm { V d g 4 3 5 }$ increased after being previously cured of putative resident plasmids ( $P = 0 . 0 0 9$ , $t = 1 0 . 2 7$ , d.f. $=$ ",
+        "bbox": [
+            76,
+            688,
+            472,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2; see Figure 5, A and B), whereas the donor ability of the M4 strain decreased when previously cured $P =$ 0.001, $t = 2 6 . 1$ , d.f. $= 2$ ; Figure 5, A and B). Meanwhile, the donor abilities of the strains M1412 and C4705 did not change significantly after being cured $\\ P = 0 . 2 3 2$ , $t = 1 . 6 9 3$ , d.f. $\\mathit { \\Theta } = \\mathit { \\Theta } 2$ , and $P = 0 . 4 0 ^ { 9 }$ , $t = 1 . 0 5 4$ , d.f. $= 2$ ; Figure 5, A and B). ",
+        "bbox": [
+            510,
+            260,
+            910,
+            367
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The finOP genes are responsible for the diversity of donor ability: Because conjugative plasmids often carry genes whose products repress sex-pili formation, i.e., repress conjugation, and because these genes are the finO and the finP in the case of the plasmid R1, we tested the hypothesis that this effect was due to an interaction between the finOP repressor system of the R1 plasmid and those of other plasmids already present inside bacterial strains. ",
+        "bbox": [
+            510,
+            369,
+            908,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To test whether the genes involved in the interaction with the resident plasmids were indeed finO or finP, we carried out conjugations between the four noncured strains as before, but this time using the derepressed plasmid R1drd19, which is isogenic to R1 except for the inactivation of the finOP repressor (Koraimann et al. 1996). By calculating the mean value of donor ability of each of the four strains bearing the plasmid R1drd19 we reach the following two conclusions: first, as expected, the transfer ability of the plasmid R1drd19 is $\\mathord { \\sim } 1 0 0 0$ times (three orders of magnitude) more efficient than that of the plasmid R1 (the two points on the right side in Figure 4); second, the variance of mean values of donor abilities among the four strains was much lower when the plasmid R1drd19 was used than when the plasmid R1 was used $[ P = 0 . 0 3 8 , F ( 3 , 3 ) = 1 1 . 3 9$ ; Figure 4]. In other words, because the plasmid R1drd19 has its FinOP control system inactivated, its interaction with similar systems of putative resident plasmids is eliminated, which means that the average values of donor abilities of each natural strain with the plasmid R1drd19 are significantly similar [ANOVA: $F ( 3 , 8 ) \\ = \\ 1 . 1 6$ , $P =$ 0.382; Figure 5C]. ",
+        "bbox": [
+            512,
+            512,
+            908,
+            868
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Finally, conjugations with the plasmid R1drd19 were made with the cured bacteria (Figure 5D). As expected, these values (Figure 5D) are higher than those with the plasmid R1 (Figure 5B) but the mean values for R1drd19 (Figure 5D) are not significantly similar [ANOVA: $F ( 3 ,$ $8 ) \\ = 1 1 . 4 7$ , $P = 0 . 0 0 3 ]$ ]. ",
+        "bbox": [
+            510,
+            869,
+            908,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/c76f8b5edf3c624719c6d09228cf5fafcdbe60fb9a12719fb2ff5fb6096d4f6d.jpg",
+        "image_caption": [
+            "Figure 2.—Searching for other amplifier strains. In A, $\\alpha$ and $\\beta$ are different $E$ . coli strains, whereas in B, $\\alpha$ and $\\beta$ represent strains of different enterobacterial species. (A and B) Each point represents the value of conjugation frequencies from cells of a strain $\\alpha$ to cells of a strain $\\beta$ (vertical axis) vs. the frequencies of $\\beta$ self-transfer (horizontal axis). The points above the lower diagonal line represent pairs of strains $\\alpha$ and $\\beta$ where the transfer frequency from $\\alpha$ to $\\beta$ is higher than that between $\\beta$ -cells, i.e., where the ratio (conjugation frequency from $\\alpha$ to $\\beta$ )/(frequency of $\\beta$ self-transfer) is ${ > } 1$ , a prerequisite for the amplification effect. The other diagonal lines specify points with this ratio above 10, 100, and 1000. The points under the main diagonal represent pairs of strains $\\alpha$ and $\\beta$ where the transfer between $\\beta$ -cells is more efficient than that from $\\alpha$ -cells to $\\beta$ -cells: this happens when $\\beta$ -cells are better donors than $\\alpha$ -cells and/or is due to strain-specific barriers in $\\beta$ -cells (e.g., restriction enzymes). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            135,
+            61,
+            439,
+            429
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            89,
+            685,
+            487,
+            716
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            240,
+            742,
+            336,
+            754
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Our results show that the amplification process can indeed be responsible for the spread of a plasmid, at least under laboratory conditions (Figure 3). Furthermore, contrary to our expectations, it is seen in Figure 2 that many strains (or species) can be amplifiers of the R1 plasmid toward the other strains: out of the 97 points representing different pairs of strains, almost $3 0 \\%$ of them are above the main diagonal. ",
+        "bbox": [
+            91,
+            765,
+            487,
+            885
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The amplification effect can explain some observations in nature without being necessarily the only possible explanation. For example, it has been shown by sequence analysis of F-like plasmids collected from natural isolates of $E$ . coli and Salmonella enterica that plasmid divergence between the two species is similar to that found within species (Boyd et al. 1996; Boyd and Hartl 1997), contradicting the idea that horizontal gene transfer is more common between similar bacteria than between different ones. In another study, it was shown that F-like plasmids found in natural isolates of Salmonella, Shigella, Erwinia, and E. coli are very similar, also indicating frequent and recent interspecies gene transfer (Mulec et al. 2002). Moreover, we speculate that the amplification effect may be common also among other types of bacteria, as may be suggested by the observed similarity among plasmids found in Bacillus (Sonea 1991; Zawadzki et al. 1996). ",
+        "bbox": [
+            91,
+            887,
+            487,
+            931
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/e812c2b9ead3723540babb6a44bebc9f57d1eb2f10eb5fa8f9d35dd350a2c36c.jpg",
+        "image_caption": [
+            "Figure 3.—Evidence of the amplification effect. Solid symbols represent experimental points (connected by continuous lines), whereas open symbols (connected by broken lines) represent computer simulations. The solid points represent mean values of two sets of serial dilution experiments. In all of them, the plasmid-bearing and the plasmid-free $\\mathrm { V d g 4 3 5 }$ strain were mixed. In five of these experiments, no transconjugants were observed even after 5 days (solid circles): the points represent the limit of detection, i.e., the mean values of the reciprocal of the number of recipients in the system. In the other five experiments, we also added plasmid-free cells of the amplifier strain M4. Solid squares and triangles represent Vdg435 and M4 transconjugants, respectively. Vertical bars represent standard errors. On day 0 the error bars are very small. Open symbols connected by a broken line represent a computer simulation of equations (Levin et al. 1979; Simonsen et al. 1990) of their counterpart solid symbols. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            557,
+            60,
+            890,
+            256
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            527,
+            517,
+            923,
+            745
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Because of this polymorphism of the donor ability phenotype (Tables 1 and 2), the fitness of the plasmid is (highly) dependent on its host and on the bacteria present in that community. Therefore, if a plasmid invades a bacterial community in the presence of amplifier cells, its transfer (hence, duplication) efficiency may be several thousandfold higher than that in the absence of amplifier cells. Indeed, according to the simulations (Figure 3), the ratio of the transfer rates in the presence and absence of amplifier cells is, at least, $3 \\times 1 0 ^ { 8 }$ . According to our experiments (Figures 4 and 5), the strong difference in plasmid fitness in the two experimental situations (in the presence and in the absence of amplifier cells) is due to interactions between the FinOP repressor system of the conjugative plasmid R1 and that of other (resident) plasmids that were already present in some bacterial strains. The resident plasmids are either inhibiting the transfer of the plasmid R1 by reinforcing its FinOP expression, resulting in bad donors of the R1 plasmid, or stimulating sex-pili formation by being dominantly negative and hence stimulating the transfer of the R1 plasmid, resulting in very efficient donor strains. In the case of strains with values of donor ability similar to the average of the group, our experiments do not tell us whether they have intermediate values because the resident plasmids inflict both effects together in opposite directions; hence there is no net effect, nor any interaction of the resident plasmids with the plasmid R1 (which is similar to the case in which no resident plasmids were present). ",
+        "bbox": [
+            527,
+            748,
+            923,
+            931
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/58fad6b1a78e2233702aff40c47c3566a9f9d84b7d34ab93de982ddccfa4b7ff.jpg",
+        "image_caption": [
+            "Figure 4.—Comparison of mean value and standard deviation of donor abilities for all natural (nR1 and nR1drd19) and cured (cR1 and cR1drd19) bacteria, independently of the strain. Donor ability of a given strain is defined as the mean value of conjugation frequencies of that strain as the donor and all the other strains as recipients (including selftransfer). The vertical axis is in logarithmic scale. The square point represents the mean value, the outer rectangle the standard error, and the lines the standard deviation from the mean value. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            119,
+            61,
+            417,
+            203
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            76,
+            366,
+            472,
+            641
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Other authors have shown that, due to the FinOP system, sex-pili formation is repressed and that in a population of E. coli K12 cells harboring the R1 plasmid, ${ \\sim } 1 / 1 0 0 0$ cells escape from the FinOP system, initiating the process of horizontal transmission of the plasmid (Koraimann et al. 1991, 1996; Lee et al. 1992; van Biesen and Frost 1992; van Biesen et al. 1993). Moreover, other naturally occurring conjugative plasmids have evolved mechanisms (like FinOP system) to repress conjugative pilus synthesis and thus reduce their rate of infectious transfer (Gasson and Willetts 1975; Gaffney et al. 1983). ",
+        "bbox": [
+            76,
+            642,
+            472,
+            823
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "It has been proposed that repression of sex-pilus synthesis reduces the energy costs of the host because it prevents the constitutive expression of the plasmid transfer genes and lowers the risk of attack by pili-specific bacteriophages, like M13, Q\u0006, or MS2 (Anderson 1968). However, in terms of evolution, this hypothesis does not explain why conjugative plasmids have evolved such repressor systems instead of simply decreasing the efficiency of sex-pili formation. ",
+        "bbox": [
+            76,
+            826,
+            472,
+            932
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/8ec6745becef790cb23eee2f3d16021bf4378fb720ab0fddcdd6ea00b753b64a.jpg",
+        "image_caption": [
+            "Figure 5.—Comparison of mean values and standard deviation of donor abilities for the four natural [nR1 (A) and nR1drd19 (C)] and cured [cR1 (B) and cR1drd19 (D)] $E$ . coli strains: Vdg435, M4, M1412, C4705. Vertical axis, points, outer rectangle, and lines as in Figure 4. Given that the method to cure bacteria is mutagenic, we had to ensure that our results on conjugations were not due to newly acquired mutations; therefore three independent clones of each cured strain were isolated and each replica of conjugations was done with each of the isolated clones. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            552,
+            57,
+            864,
+            623
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            794,
+            907,
+            823
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Moreover, as shown here, these systems interact with similar systems of other plasmids, resulting in a fuzzy efficiency of the system itself: in a heterogeneous community bearing different bacterial strains, conjugative plasmids will spread very fast among certain bacteria (like the M4 strain or the strain of $E$ chrysanthemi used here) and very slowly among other bacteria cells, but the final result is that the plasmid will be stably present within that bacterial community. In other words, our observations are consistent with selection for diversity in piliformation and hence for fuzzy repressor systems like the FinOP. A mathematical model to test this hypothesis is being analyzed and will be published elsewhere. ",
+        "bbox": [
+            512,
+            825,
+            908,
+            932
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            91,
+            61,
+            487,
+            167
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bacteria-forming biofilms seem to be more prone to evade not only the immune system but also antimicrobial agents, amoebas, and bacteriophages (Costerton et al. 1999). Therefore, it is of particular interest to relate our results to the fact that some conjugative plasmids induce biofilm development (Ghigo 2001). Indeed, many sex-pili-producing plasmids, including the plasmid R1drd19, induce the development of biofilm (Ghigo 2001). However, unless transiently derepressed, the plasmid R1 does not induce biofilm formation (Ghigo 2001). Ghigo’s experiments were done with the strain E. coli K12. Therefore, we hypothesize that the plasmid R1 would be able to induce biofilm development if the experiments were done with an amplifier strain, such as the E. coli M4. ",
+        "bbox": [
+            91,
+            168,
+            487,
+            395
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, amplifier cells are likely to facilitate the emergence of new pathogenic strains when plasmids carry virulence factors (Falkow 1996; Hacker and Kaper 2000) and, in addition, to compromise the efficiency of antibiotic treatments when plasmids carry antibiotic-resistance genes (Davies 1997) or both (Gyles et al. 1977; Timmis et al. 1986), as well as to help to induce bacterial biofilm development (Ghigo 2001). The human body bears hundreds of different species of bacteria, a total of $1 0 ^ { 1 4 }$ cells (Berg 1996), many carrying conjugative plasmids (Datta and Hughes 1983; Hughes and Datta 1983) that can transfer virulence and antibiotic-resistance genes between pathogenic and nonpathogenic bacteria (Watanabe and Fukusawa 1961). Therefore, identification of amplifier strains could be of considerable importance for public health. ",
+        "bbox": [
+            91,
+            398,
+            487,
+            641
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "LITERATURE CITED ",
+        "text_level": 1,
+        "bbox": [
+            210,
+            863,
+            366,
+            876
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We thank D. Bregeon, B. R. Levin, E. P. C. Rocha, and O. Tenaillon for criticism and suggestions in the course of this work and the two anonymous reviewers for suggestions on previous versions of the manuscript. We also thank J. L. Rossignol for kindly providing the facilities of his laboratory to do part of this work. We are grateful to N. Cotte-Pattat, G. Koraimann, and B. Picard for providing the strain of E. chrysanthemi, the plasmids R1 and R1drd19, and the E. coli natural isolates strains, respectively, and to J. G. Lawrence for providing the strains of $E$ . fergusonii and E. blattae. This work was supported by grants from the “Programme de Recherche Fondamentale en Microbiologie et Maladies Infectieuses et Parasitaires—MENRT,” the Ligue contre le Cancer, “Programme Environnement et Sante´—MATE,” the Association pour la Recherche sur le Cancer. F.D. was supported by the “Programa Gulbenkian de Doutoramento” and Program PRAXIS XXI. ",
+        "bbox": [
+            91,
+            647,
+            487,
+            826
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Amabile-Cuevas, C. F., and M. E. Chicurel, 1992 Bacterial plasmids and gene flux. Cell 70: 189–199.   \nAnderson, E. S., 1968 The ecology of transferable drug resistance in the enterobacteria. Annu. Rev. Microbiol. 22: 131–180.   \nBale, M. J., J. C. Fry and M. J. Day, 1987 Plasmid transfer between strains of Pseudomonas aeruginosa on membrane filters attached to river stones. J. Gen. Microbiol. 133: 3099–3107.   \nBalis, E., A. C. Vatopoulos, M. Kanelopoulou, E. Mainas, G. Hatzoudis et al., 1996 Indications of in vivo transfer of an epidemic R plasmid from Salmonella enteritidis to Escherichia coli of the normal human gut flora. J. Clin. Microbiol. 34: 977–979.   \nBerg, R. D., 1996 The indigenous gastrointestinal microflora. Trends Microbiol. 4: 430–435.   \nBergstrom, C. T., M. Lipsitch and B. R. Levin, 2000 Natural selection, infectious transfer and the existence conditions for bacterial plasmids. Genetics 155: 1505–1519.   \nBjorklof, K., A. Suoniemi, K. Haahtela and M. Romantschuk, 1995 High frequency of conjugation versus plasmid segregation of RP1 in epiphytic Pseudomonas syringae populations. Microbiology 141: 2719–2727.   \nBoyd, E. F., and D. L. Hartl, 1997 Recent horizontal transmission of plasmids between natural populations of Escherichia coli and Salmonella enterica. J. Bacteriol. 179: 1622–1627.   \nBoyd, E. F., C. W. Hill, S. M. Rich and D. L. Hartl, 1996 Mosaic structure of plasmids from natural populations of Escherichia coli. Genetics 143: 1091–1100.   \nCosterton, J. W., P. S. Stewart and E. P. Greenberg, 1999 Bacterial biofilms: a common cause of persistent infections. Science 284: 1318–1322.   \nDatta, N., and V. M. Hughes, 1983 Plasmids of the same Inc groups in Enterobacteria before and after the medical use of antibiotics. Nature 306: 616–617.   \nDavies, J. E., 1997 Origins, acquisition and dissemination of antibiotic resistance determinants. Ciba Found. Symp. 207: 15–27.   \nFalkow, S., 1996 The evolution of pathogenicity in Escherichia, Shigella, and Salmonella, pp. 2723–2729 in Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology, edited by F. C. Neidhardt, R. Curtiss, III, J. L. Ingraham, E. C. C. Lin, K. B. Low, B. Magasanik, W. S. Reznikoff, M. Riley, M. Schaechter and H. E. Umbarger. ASM Publications, Washington, DC.   \nFujii, T., M. Takeo and Y. Maeda, 1997 Plasmid-encoded genes specifying aniline oxidation from Acinetobacter sp. strain YAA. Microbiology 143: 93–99.   \nGaffney, D., R. Skurray and N. Willetts, 1983 Regulation of the F conjugation genes studied by hybridization and tra-lacZ fusion. J. Mol. Biol. 168: 103–122.   \nGasson, M. J., and N. S. Willetts, 1975 Five control systems preventing transfer of Escherichia coli K-12 sex factor F. J. Bacteriol. 122: 518–525.   \nGhigo, J. M., 2001 Natural conjugative plasmids induce bacterial biofilm development. Nature 412: 442–445.   \nGordon, D. M., 1992 Rate of plasmid transfer among Escherichia coli strains isolated from natural populations. J. Gen. Microbiol. 138: 17–21.   \nGyles, C. L., S. Palchaudhuri and W. K. Maas, 1977 Naturally occurring plasmid carrying genes for enterotoxin production and drug resistance. Science 198: 198–199.   \nHacker, J., and J. B. Kaper, 2000 Pathogenicity islands and the evolution of microbes. Annu. Rev. Microbiol. 54: 641–679.   \nHughes, V. M., and N. Datta, 1983 Conjugative plasmids in bacteria of the ‘pre-antibiotic’ era. Nature 302: 725–726.   \nKoraimann, G., C. Koraimann, V. Koronakis, S. Schlager and G. Hogenauer, 1991 Repression and derepression of conjugation of plasmid R1 by wild-type and mutated finP antisense RNA. Mol. Microbiol. 5: 77–87.   \nKoraimann, G., K. Teferle, G. Markolin, W. Woger and G. Hogenauer, 1996 The FinOP repressor system of plasmid R1: analysis of the antisense RNA control of traJ expression and conjugative DNA transfer. Mol. Microbiol. 21: 811–821.   \nLee, S. H., L. S. Frost and W. Paranchych, 1992 FinOP repression of the F plasmid involves extension of the half-life of FinP antisense RNA by FinO. Mol. Gen. Genet. 235: 131–139.   \nLevin, B. R., F. M. Stewart and V. A. Rice, 1979 The kinetics of conjugative plasmid transmission: fit of a simple mass action model. Plasmid 2: 247–260.   \nLilley, A. K., and M. J. Bailey, 1997 The acqusition of indigenous plasmids by a genetically marked Pseudomonad population colonizing the sugar beet phytosphere is related to local environmental conditions. Appl. Environ. Microbiol. 63: 1577–1583.   \nMatic, I., M. Radman, F. Taddei, B. Picard, C. Doit et al., 1997 Highly variable mutation rates in commensal and pathogenic Escherichia coli. Science 277: 1833–1834.   \nMulec, J., M. Starcic and D. Zgur-Bertok, 2002 F-like plasmid sequences in enteric bacteria of diverse origin, with implication of horizontal transfer and plasmid host range. Curr. Microbiol. 44: 231–235.   \nNielsen, K. M., A. M. Bones, K. Smalla and J. D. van Elsas, 1998 Horizontal gene transfer from transgenic plants to terrestrial bacteria—A rare event? FEMS Microbiol. Rev. 22: 79–103.   \nOchman, H., J. G. Lawrence and E. A. Groisman, 2000 Lateral gene transfer and the nature of bacterial innovation. Nature 405: 299–304.   \nSanderson, K. E., 1996 F-mediated conjugation, $\\mathrm { F ^ { + } }$ strains, and Hfr strains of Salmonella typhimurium and Salmonella abony, pp. 2406–2412 in Escherichia coli and Salmonella Cellular and Molecular Biology, edited by F. C. Neidhardt, R. Curtiss, III, J. L. Ingraham, E. C. C. Lin, K. B. Low, B. Magasanik, W. S. Reznikoff, M. Riley, M. Schaechter and H. E. Umbarger. ASM Publications, Washington, DC.   \nSchafer, A., J. Kalinowski and A. Puhler, 1994 Increased fertility of Corynebacterium glutamicum recipients in intergeneric matings with Escherichia coli after stress exposure. Appl. Environ. Microbiol. 60: 756–759.   \nSimonsen, L., D. M. Gordon, F. M. Stewart and B. R. Levin, 1990 Estimating the rate of plasmid transfer: an end-point method. J. Gen. Microbiol. 136: 2319–2325.   \nSonea, S., 1991 Bacterial evolution without speciation, pp. 95–105 in Symbiosis as a Source of Evolutionary Innovation: Speciation and Morphogenesis, edited by L. Margulis and R. Fester. MIT Press, Cambridge, MA.   \nTimmis, K. N., M. I. Gonzalez-Carrero, T. Sekizaki and F. Rojo, 1986 Biological activities specified by antibiotic resistance plasmids. J. Antimicrob. Chemother. 18 (Suppl. C): 1–12.   \nTroxler, J., P. Azelvandre, M. Zala, G. Defago and D. Haas, 1997 Conjugative transfer of chromosomal genes between fluorescent Pseudomonads in the rhizosphere of wheat. Appl. Environ. Microbiol. 63: 213–219.   \nvan Biesen, T., and L. S. Frost, 1992 Differential levels of fertility inhibition among F-like plasmids are related to the cellular concentration of finO mRNA. Mol. Microbiol. 6: 771–780.   \nvan Biesen, T., F. Soderbom, E. G. Wagner and L. S. Frost, 1993 Structural and functional analyses of the FinP antisense RNA regulatory system of the F conjugative plasmid. Mol. Microbiol. 10: 35–43.   \nWatanabe, T., and T. Fukusawa, 1961 Episome-mediated transfer of drug resistance in enterobacteriaceae. J. Bacteriol. 81: 669–678.   \nWhitman, W. B., D. C. Coleman and W. J. Wiebe, 1998 Prokaryotes: the unseen majority. Proc. Natl. Acad. Sci. USA 95: 6578–6583.   \nZawadzki, P., M. A. Riley and F. M. Cohan, 1996 Homology among nearly all plasmids infecting three Bacillus species. J. Bacteriol. 178: 191–198. ",
+        "bbox": [
+            89,
+            885,
+            487,
+            931
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            524,
+            48,
+            925,
+            925
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            74,
+            60,
+            474,
+            363
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            60,
+            910,
+            343
+        ],
+        "page_idx": 7
+    }
+]

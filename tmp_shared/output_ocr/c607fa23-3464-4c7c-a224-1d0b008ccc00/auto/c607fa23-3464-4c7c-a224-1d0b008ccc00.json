@@ -1,0 +1,675 @@
+[
+    {
+        "type": "text",
+        "text": "Genetic barriers among bacteria Ivan Matic, François Taddei and Miroslav Radman ",
+        "text_level": 1,
+        "bbox": [
+            142,
+            111,
+            787,
+            177
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "B iological species are interbreeding roups of rganisms, with each species separated from others by reproductive barriers1. This classical definition of a species, as proposed by Mayr, applies only to organisms that can interbreed. Can bacteria be classified into different species according to this criterion? Genetic exchange is very different in prokaryotes and eukaryotes2. In bacteria, reproduction and genetic exchange are independent functions and so genetic exchange occurs less frequently than in eukaryotes. During genetic exchange in bacteria only a fraction of the genome is transferred and transfer is always unidirectional, from a donor cell to a recipient cell. The size of the DNA fragment transferred depends on the transfer mechanism. Segments of transforming DNA are several kilobases long; transductionmediated recombination can transfer sections of tens to hundreds of kilobases, whereas conjugation can transfer regions of hundreds to thousands of kilobases. ",
+        "bbox": [
+            80,
+            203,
+            295,
+            483
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            484,
+            452,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Barriers to chromosomal gene transfer between bacterial species control their genetic isolation. These barriers, such ",
+        "bbox": [
+            328,
+            203,
+            598,
+            241
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "as different microhabitats, the host ranges of genetic exchange vectors and restriction-modification systems, limit gene exchange, but the major limitation is genomic sequence divergence. ",
+        "bbox": [
+            325,
+            241,
+            601,
+            305
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In bacteria, the mobilization of genetic material primarily involves plasmids, many of which encode systems for their own transfer3. Promiscuous genetic exchange gives bacteria a special adaptive advantage: it allows cells to incorporate genes from other taxa or even other phyla that confer, for example, resistance to antibiotics, toxins and metals and the ability to degrade xenobiotic compounds. One consequence is a pool of genes that is accessible to virtually every bacterial species. Functions encoded by extrachromosomal genes are required only occasionally, whereas numerous chromosomal genes are essential for the survival, maintenance and reproduction of the cell. This could explain why the transfer of chromosomal genes is not as promiscuous as the transfer of extrachromosomal DNA. ",
+        "bbox": [
+            81,
+            561,
+            452,
+            751
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mismatch-repair system inhibits interspecies recombination, the inducible ",
+        "bbox": [
+            320,
+            306,
+            604,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "SOS system stimulates interspecies recombination, while natural selection determines the effective recombination frequencies. ",
+        "bbox": [
+            344,
+            332,
+            584,
+            383
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "I. Matic\\* and M. Radman are in the Laboratoire de   \nMutagénèse, Institut Jacques Monod, 2 place Jussieu,   \n75251 Paris Cedex 05, France; F. Taddei is on leave   \nof absence from the Ecole Nationale du Génie Rural des Eaux et des Forêts 19, avenue du Maine, 75015 Paris, France. \\*tel: +33 1 44 27 47 31,   \nfax: +33 1 44 27 57 16, e-mail: matic@ccr.jussieu.fr ",
+        "bbox": [
+            315,
+            393,
+            612,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The frequency and significance of recombination in the evolution of bacteria is the subject of intense debate2-6. Comparative analyses of the DNA sequences of different gene segments from different strains yield different phylogenetic relationships, providing evidence for recombination in Escherichia, Salmonella, Neisseria and Streptococcus7-10. The amount of genetic transfer observed varies from species to species. Those bacterial species where recombination appears to be common (Neisseria gonorrhoeae, Neisseria meningitidis and Bacillus subtilis) are naturally transformable5. However, transformability does not necessarily imply that extensive recombination occurs, as Haemophilus influenzae is transformable but shows little evidence of frequent recombination in nature. For species that are not naturally transformable, such as Escherichia coli and Salmonella typhimurium, the rate of recombination between strains in nature is relatively low, but is significant. Recombination, primarily involving short stretches of nucleotide sequence, has been important in shaping the nucleotide sequence of numerous E. coli and S. typhimurium genes7-9. However, it is difficult to estimate the recombination rate and its evolutionary relevance for an entire bacterial genome from data for a single or a few loci. ",
+        "bbox": [
+            81,
+            753,
+            452,
+            906
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            630,
+            203,
+            846,
+            483
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The transfer of chromosomal genes, particularly between closely related species, usually requires homologous recombination. Compared with recombination within each species, interspecies recombination of chromosomal markers occurs at a sufficiently reduced rate and extent to keep the species genetically distinct11,12. Therefore, the concept of a biological species, as used in eukaryotic systematics, may be applied to bacterial species that can exchange segments of chromosomal DNA4. ",
+        "bbox": [
+            475,
+            484,
+            846,
+            612
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Mechanisms of genetic isolation ",
+        "text_level": 1,
+        "bbox": [
+            475,
+            625,
+            714,
+            637
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The process of speciation can start only when genetic exchange is interrupted between two populations. Thus, the study of genetic isolation between closely related bacterial species might indicate what triggered the process of speciation. One theory considers isolation to be an accidental by-product of genetic divergence. Another regards isolation as a product of natural selection. The two theories for the origin of genetic isolation are not mutually exclusive. The degree of genetic isolation in nature between bacterial species may depend on several factors: differences in their microhabitats, the host ranges of genetic exchange vectors, and restriction-modification systems, as well as DNA sequence divergences and functional incompatibilities. It is not easy to identify functions involved in the initial phases of speciation because other functions contributing to genetic isolation may become fixed after speciation is complete. ",
+        "bbox": [
+            475,
+            638,
+            846,
+            854
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Barriers, such as different microhabitats and the host ranges of genetic exchange vectors, seem to slow down DNA transmission rather than to block it. The large overlap in host range among conjugal plasmids allows sequential DNA transmission among almost all bacterial species3. Transformation and transduction may provide routes for gene transfer between conjugationally incompatible groups. The promiscuous transfer of DNA among virtually all eubacteria, yeasts and even plant cells suggests that there is no strong selection against it13. The major limitation for interspecies gene transfer seems to consist of barriers that block the establishment of the acquired genetic information. ",
+        "bbox": [
+            475,
+            855,
+            846,
+            906
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d46995b6b68b5019b6c1f85e25e8da3c7b8aaf26e9f907acf833af2180001236.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            81,
+            115,
+            588,
+            533
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            614,
+            114,
+            916,
+            254
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Restriction-modification systems ",
+        "text_level": 1,
+        "bbox": [
+            616,
+            267,
+            862,
+            278
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "It is generally believed that restrictionmodification systems protect bacteria from infection by foreign DNA, but that this protection is limited and short lived14. Phages and other infectious foreign DNA can be modified by the restriction-modification systems and will then be able to infect bacteria of that restriction—modification system with impunity. Thus, the genetic barrier provided by restriction is far from complete, irrespective of the mechanism of DNA transfer. Single-stranded DNA is known to be refractory to most restriction systems, which may explain why the transformation of chromosomal markers of B. subtilis, Streptococcus pneumoniae and Haemophilus species seems not to be affected by the presence of a restriction system in recipient cells15. Many phages have specific mechanisms to evade the effects of a host restriction system, such as the absence or masking of restriction sites and the inactivation or modulation of restriction-modification enzymes14. The transfer of conjugative plasmids is also relatively resistant to type I restriction. The sites specific for some restriction enzymes have been eliminated from transmissible plasmids by mutation and selection16. Moreover, some conjugative plasmids carry the ard (alleviation of restriction of DNA) gene, which codes for an antirestriction protein 17. Another antirestriction mechanism is prolonged mating (transfer of multiple copies of plasmids or plasmid-mediated transfer of chromosomal DNA), which seems to protect against restriction by the transient saturation of the restriction system1820. ",
+        "bbox": [
+            614,
+            278,
+            916,
+            752
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Fig. 1. The complex regulation of conjugational recombination between Salmonella typhimurium and Escherichia coli has been studied in detail². Despite efficient conjugational DNA transfer, the frequency of conjugational recombination between these two species is very low, approximately ${ \\mathfrak { 1 } } { \\mathfrak { O } } ^ { 5 }$ times lower than the intraspecies recombination (1 compared with 2). During Hfr $\\times { \\mathsf { F } } ^ { - }$ conjugation, donor DNA enters the recipient cell as a single strand with a leading ${ 5 } ^ { \\prime }$ end. In $\\mathsf { F } ^ { - }$ cells, lagging-strand synthesis produces double-stranded DNA (dsDNA). (a) The dsDNA ends are substrates for the RecBcD enzyme, which travels as double-strand-specific helicase and exonuclease until it encounters the chi $( \\chi )$ sequence. The x sequence then alters the RecBCD enzyme by weakening the affinity of the RecD subunit for the RecBC heterodimer. (b) With the loss of the RecD subunit, the RecBC complex becomes deficient for exonuclease activity but proficient as a helicase, which produces single-stranded DNA (ssDNA) tails. The RecA protein polymerizes on ssDNA and catalyzes a search for identical sequences in dsDNA. RecA-mediated strand exchange requires a minimal length of sequence identity, the minimum efficient processing segment (MEPS). (c) During interspecies conjugation, the number of MEPSs is limited by the degree of divergence between DNA partners in recombination, slowing down the RecA-proteinmediated recombination steps. Consequently, the complex between the RecA and ssDNA might have a longer half-life during interspecies conjugation than during intraspecies conjugation, resulting in the activation of the RecA protein coprotease activity $( R e c A ^ { * } )$ and the derepression of the S0S regulon (Box 2). The resulting high concentration of RecA and RuvAB proteins stimulates interspecies recombination2®. Thus, the sos system acts as an inducible positive regulator of interspecies recombination. (d) However, SoS induction does not affect the activity of the long-patch mismatchrepair system (MRS; Box 2), which is a powerful inhibitor of recombination between diverged DNA sequences. The mismatch-recognizing and -binding proteins MutS and MutL [designated S and L in (d)] block the RecA-mediated strand-exchange process, thus reducing the frequency of interspecies recombination (3 compared with 2). These observations show that the structural component of the genetic barrier between S. typhimurium and E. coli is the genomic sequence divergence, while its active component is the mismatch-repair machinery, which acts as an editor of genetic recombination. The efficiency of genetic separation between these two species is also controlled by the Sos system, which acts as an inducible positive regulator of interspecies recombination. ",
+        "bbox": [
+            91,
+            541,
+            581,
+            896
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The fates of restricted phage, plasmid and bacterial DNA seem to be rather different. The fragmentation of phage and plasmid DNA leads to its complete elimination, while DNA fragments generated from a bacterial chromosome may be rescued by homologous recombination with the host genome. The chromosomal DNA ends generated by restriction enzymes are recombinogenic²1. One analysis of transductants suggests that the restriction-modification system in E. coli may influence the pattern of DNA fragments incorporated into the recipient chromosome, creating a mosaic of short sequences8. This finding is consistent with the observed mosaic patterns of the nucleotide sequences in the trp operons of naturally occurring E. coli isolates (members of the ECOR strain collection). ",
+        "bbox": [
+            612,
+            753,
+            915,
+            906
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            113,
+            338,
+            215
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "DNA divergence and homologous recombination ",
+        "text_level": 1,
+        "bbox": [
+            81,
+            229,
+            321,
+            252
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To become replicable and stably inherited, chromosomal DNA transferred by transformation, transduction or Hfr conjugation must become integrated into the recipient chromosome. The efficiency of integration by homologous recombination depends on the genomic sequence divergence between species. The increase in DNA sequence divergence has been shown to reduce the rate of transformation between Bacillus species11, and also to reduce the efficiency of recombination in E. coli22. The extent and degree of DNA sequence similarity determine the activities of the enzymes that control the fidelity of recombination (Fig. $1 ) ^ { 2 0 , 2 3 }$ Recombination enzymes appear to be highly selective for sequence identity only at the initial stage of the strand-exchange process, which requires a minimal length of sequence identity or minimum efficient processing segment (MEPS) below which recombination becomes inefficient22. Divergence between recombination substrates reduces recombination by reducing the number of available MEPSs. ",
+        "bbox": [
+            81,
+            253,
+            338,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            81,
+            332,
+            452,
+            533
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "However, once initiated, strand exchange occurs despite large numbers of mismatches and even large insertions24.25. During this stage of recombination, fidelity is controlled by the mismatch-repair system (Box 1). This has been confirmed by experiments in vitro in which purified MutS and MutL proteins have been shown to block RecA-catalyzed strand transfer between DNA substrates that differ by $3 \\%$ , without affecting strand transfer between identical substrates26. The mismatchrepair system is a potent inhibitor of recombination between genomes of related bacterial species. The frequency of conjugational and transductional genetic exchange between $E$ coli and S. typhimurium is enhanced up to a thousandfold when the MutHLSU mismatch-repair system is inactivated in recipients (Fig. 1)20,27. In natural populations of $E$ . coli, about $0 . 1 { - } 1 \\%$ of cells are mut\" mutants; such mutation increases the probability of interspecies gene transfer in that susceptible subpopulation20. ",
+        "bbox": [
+            80,
+            534,
+            450,
+            674
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            677,
+            334,
+            815
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Recombination in vivo between DNAs that have large insertions is fairly efficient, whereas recombination between DNAs differing by well-spaced point mutations is inhibited23. These results suggest that neutral divergence (nucleotide differ",
+        "bbox": [
+            78,
+            815,
+            334,
+            905
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Box 1. Long-patch mismatch-repair system ",
+        "text_level": 1,
+        "bbox": [
+            480,
+            122,
+            795,
+            136
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Enzymes that recognize and process mispaired and nonpaired bases have been identified in both prokaryotes and eukaryotes23,50; their primary function is the control of genetic integrity. The mismatch-repair system controls the fidelity of chromosomal replication by eliminating DNA-biosynthetic errors (substitution and frame-shift mutations), transposon excision and the degree of genetic diversification associated with homologous recombination (chromosomal rearrangements and interspecies recombination). The best-described bacterial mismatch-repair systems are the Escherichia coli methyl-directed system (MutHLSU)36 and the related HexAB system of Streptococcus pneumoniae51. The two systems have similar (but variable) specificities for each type of mismatch, which they repair in a strand-specific manner. In both systems, the strand specificity of repair is governed by secondary signals (nicks or unmethylated GATC sequences) that may be located far from the mismatch. As the excision-repair tracts associated with these pathways can be a kilobase or more long, these systems are referred to a 'long-patch repair systems'. ",
+        "bbox": [
+            370,
+            142,
+            906,
+            304
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ences in the third positions of codons that do not alter the amino acid sequence) between genomes of closely related bacterial species, rather than large insertions, is the main determinant of their genetic isolation. It is therefore possible to define bacterial species as clusters of populations assembled on the basis of their genomic DNA sequence similarities. It has been shown that the frequency of gene exchange varies more or less continuously with phylogenetic distance'1. There is a positive-feedback loop between genetic isolation and sequence divergence: increased genetic isolation leads to greater sequence divergence because it opposes the homogenization effect of genetic exchange, in particular gene conversion. ",
+        "bbox": [
+            473,
+            331,
+            846,
+            510
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SOS system ",
+        "text_level": 1,
+        "bbox": [
+            473,
+            523,
+            594,
+            534
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SOS system is induced when environmental conditions are adverse for the growth of bacterial cells (see Box 2), but it is also induced under normal environmental conditions28. SOS induction has been also detected during conjugation20, restriction of foreign or host DNA29, transposition of Tn10 (Ref. 30) and IS1 (Ref. 31), when the system of postsegregational killing of the $\\mathrm { F }$ plasmid is activated32 and when plasmid or phage DNA persists in single-stranded form33,34. ",
+        "bbox": [
+            473,
+            535,
+            846,
+            650
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Induction of the SOS system is required for efficient conjugational and transformational recombination. ",
+        "bbox": [
+            473,
+            651,
+            846,
+            677
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Box 2. The S0S system ",
+        "text_level": 1,
+        "bbox": [
+            549,
+            700,
+            722,
+            714
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SOS system is a set of physiological responses that is induced by exposure of bacterial cells to a variety of conditions that damage DNA and/or interfere with its replication36. This complex inducible system has two general features that favor the survival of stressed bacterial populations: it enhances the capacity for DNA repair and it increases genetic variation. Regulation of the SOS system is mediated by RecA and LexA. The LexA protein acts as repressor for more than 20 genes, including the recA and lexA genes, whereas the RecA protein is involved in inducing the SOS system. The inducing signal is thought to be persistent single-stranded DNA to which RecA binds and becomes activated as a coprotease that promotes proteolytic cleavage of the LexA repressor (as well as of some phage repressors, such as $\\gimel$ CI), thus derepressing the SOS regulon. The SOS functions involved in DNA repair are nucleotide excision repair, recombinational repair and SOS mutagenesis. SOS-promoted genetic variability includes targeted (to DNA lesions) and nontargeted mutagenesis, chromosomal rearrangements, transposon excision and transposition, and intra- and interspecies recombination20. ",
+        "bbox": [
+            367,
+            719,
+            903,
+            893
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Questions for future research ",
+        "text_level": 1,
+        "bbox": [
+            194,
+            121,
+            406,
+            135
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "How can a bacterial species be defined?   \nWhat is the extent and the evolutionary impact of recombination in nature?   \nIs the rate of recombination similar in different populations of the same bacterial species?   \nIs there an influence of stressful environmental conditions on the genetic barriers?   \nAre the mechanisms that control genetic exchanges in bacteria universal? For example, do the genomic sequence divergence and the mismatch-repair proteins cause meiotic sterility in hybrids between closely related eukaryotic species? ",
+        "bbox": [
+            93,
+            141,
+            513,
+            268
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Weak SOS induction, as detected during E. coli intraspecies conjugation, is required for efficient recombination, mainly through the overproduction of the RecA protein20. The SOS-inducing signal during intraspecies mating is probably the transient presence of singlestranded donor DNA. Very strong induction of the SOS response during conjugation between S. typhimurium and E. coli stimulates recombination in recipient cells through high concentration of the RecA and RuvAB proteins (see Fig. 1)20. Genetic characterization of the SOS response during interspecies mating suggests that the strong and persistent activation of RecA is probably caused by the reduced efficiency of early RecA-catalyzed recombination steps as a consequence of DNA divergence20. However, even during strong SOS induction, the mismatch-repair system is a powerful inhibitor of interspecies recombination. ",
+        "bbox": [
+            148,
+            291,
+            519,
+            508
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Similarly, the SOS response is induced in B. subtilis cells in the competent state in the absence of exogenous DNA-damaging treatments35. The initial competencespecific induction of the RecA protein seems to be independent of the SOS regulon. However, in competent B. subtilis cells, single-stranded gaps are formed in chromosomal DNA, which together with transforming single-strand DNA provide a substrate for the activation of RecA. Activated RecA then derepresses SOS functions, leading to a further increase in RecA concentration, which enhances the transformation efficiency. It is possible that the level of SOS induction during transformation with divergent DNA is higher than that during transformation with identical DNA20. ",
+        "bbox": [
+            148,
+            510,
+            519,
+            687
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In E. coli other SOS functions may be involved in the control of genetic exchanges; such as prophage induction36, restriction alleviation37, inhibition of RecBCD exonucleolytic activity38, increased permeability of the outer cell membrane39, higher transformation efficiency of $\\mathrm { C a C l } _ { 2 }$ -treated cells40, induction of the himA gene (the protein product of which is involved in site-specific recombination41) and increased transposon mobility42. Because so many SOS functions are implicated in genetic exchange, genetic exchanges might improve the survival of stressed bacterial populations, in which SOS functions are induced, by increasing their genetic variability. ",
+        "bbox": [
+            148,
+            688,
+            519,
+            841
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Role of natural selection ",
+        "text_level": 1,
+        "bbox": [
+            148,
+            854,
+            328,
+            865
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Genetic exchanges in bacteria usually involve a very small fraction of the genome, which reduces the chances for deleterious mixing of incompatible functions². However, the frequency of recombination observed in natural populations depends upon both the recombination rate and natural selection. If the recombinants are selectively deleterious, they will be lost from the population and never observed. If they are selectively neutral, as one might expect for functionally equivalent 'housekeeping' proteins, most may be lost by genetic drift43-45, but some may be retained. If the recombinants are selectively advantageous, they will be retained in the population at a higher frequency than the selectively neutral ones. A class of genes where recombinants could be selectively advantageous are those for which variability is a selective advantage (for example, $\\mathfrak { p i l i } ^ { 4 6 }$ , the restriction—modification system in $E . \\ c o l i ^ { \\bar { 4 } \\bar { 7 } }$ and flagellin in Salmonella enterica48). For these genes intragenic recombination could be a major source of allelic diversity. The rate of interspecies recombination is very low, but the rare recombinants can be preserved in the cases where there is a strong selection for such recombinants49. The probability of such an event happening is greater when organisms colonize a new territory or when a population is confronted with environmental challenges. In those cases, the predominant genotype may be less than optimal, and there is greater opportunity for a new recombinant to survive and to spread in the population. ",
+        "bbox": [
+            147,
+            866,
+            519,
+            905
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            544,
+            115,
+            915,
+            445
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            544,
+            453,
+            617,
+            464
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1 Mayr, E. (1982) The Growth of Biological Thought; Diversity, Evolution, and Inheritance, Harvard University Press   \n2 Cohan, F.M. (1994) Trends Ecol. Evol. 9, 175180   \n3 Amabile-Cuevas, C.F. and Chicurel, M.E. (1992) Cell 70, 189199   \n4 Dykhuizen, D.E. and Green, L. (1991) J. Bacteriol. 173, 72577268   \n5 Maynard Smith, J. et al. (1993) Proc. Natl Acad. Sci. USA 90, 43844388   \n6 Guttman, D.S. and Dykhuizen, D.E. (1994) Science 266, 1380-1383   \n7 DuBose, R.F., Dykhuizen, D.E. and Hartl, D.L. (1988) Proc. Natl Acad. Sci. USA 85, 70367040   \n8 Milkman, R. and McCane, M. (1995) in Population Genetics of Bacteria (Bauberg, S. et al., eds), pp.127, Sociy fr General Microbiology   \n9 Nelson, K. and Selander, R.K. (1994) Proc. Natl Acad. Sci. USA 91, 1022710231   \n10 Maynard Smith, J., Dawson, C.G. and Spratt, B.G. (1991) Nature 349, 29-31   \n11 Zawadzki, P., Roberts, M.S. and Cohan, F.M. (1995) Genetics 140, 917932   \n12 Sharp, P.M. (1991) J. Mol. Evol. 33, 2333   \n13 Heinemann, J.A. (1991) Trends Genet. 7, 181185   \n14 King, G. and Murray, N.E. (1994) Trends Microbiol. 2, 465469   \n15 Lorenz, M.G. and Wackernagel, W. (1994) Microbiol. Rev. 58, 462465   \n16 Guiney, D.G., Jr (1984) J. Infect. Dis. 149, 320329   \n17 Belogurov, A.A. et al. (1985) Mol. Gen. Genet. 198, 509513   \n18 Boulnois, G.J. and Wilkins, B.M. (1978) J. Bacteriol. 133, 19   \n19 Boyer, H. (1964) J. Bacteriol. 88, 16521660   \n20 Matic, I., Rayssiguier, C. and Radman, M. (1995) Cell 80, 507515   \n21 Stahl, M.M. et al. (1983) Proc. Natl Acad. Sci. USA 80, 23102313   \n22 Shen, P. and Huang, H.V. (1986) Genetics 112, 441457   \n23 Radman, M. and Wagner, R. (1993) Chromosoma 102, 369373   \n24 DasGupta, C. and Radding, C.M. (1982) Proc. Natl Acad. Sci. USA 79, 762766   \n25 Bianchi, M.E. and Radding, C.M. (1983) Cell 35, 511520   \n26 Worth, L., Jr. et al. (1994) Proc. Natl Acad. Sci. USA 91, 32383241   \n27 Rayssiguier, C., Thaler, D.S. and Radman, M. (1989) Nature 342, 396401   \n28 Taddei, F., Matic, I. and Radman, M. (1995) Proc. Natl Acad. Sci. USA 92, 1173611740   \n29 Dharmalingam, K. and Goldberg, E.B. (1980) Mol. Gen. Genet. 178, 5158   \n30 Roberts, D. and Kleckner, N. (1988) Proc. Natl Acad. Sci. USA 85, 60376041   \n31 Lane, D. Cavaille, J. and Chandler, M. (1994) J. Mol. Biol. 242, 339350   \n32 Bernard, P. and Couturier, M. (1992) J. Mol. Biol. 226, 735745   \n33 Higashitani, N. et al. (1992) J. Bacteriol. 174, 16121618   \n34 Gigliani, F. et al. (1993) Mol. Gen. Genet. 238, 333338   \n35 Yasbin, R.E., Cheo, D.L. and Bayles, K.W. (1992) Mol. Microbiol. 6, 12631270   \n36 Friedberg, E.C., Walker, G.C. and Siede, W. (1995) DNA Repair and Mutagenesis, American Society for Microbiology Press   \n37 Hiom, K.jJ. and Sedgwick, S.G. (1992) Mol. Gen. Genet. 231, 265275   \n38 Kannan, P. and Dharmalingam, K. (1990) Curr. Microbiol. 21, 7-15   \n39 Tessman, E.S. and Peterson, P.K. (1985) J. Bacteriol. 163, 688695   \n40 Vericat, J.A., Guerrero, R. and Barbé, J. (1988) Mol. Gen. Genet. 211, 526530   \n41 Miller, H.I., Kirk, M. and Echols, H. (1981) Proc. Natl Acad. Sci. USA 78, 6754-6758   \n42 Kuan, C-T., Liu, S-K. and Tessman, I. (1991) Genetics 128, 4557   \n43 Nelson, K. and Selander, R.K. (1992) J. Bacteriol. 174, 68866895   \n44 Boyd, E.F. et al. (1994) Proc. Natl Acad. Sci. USA 91, 1280-1284   \n45 Nelson, K., Whittam, T.S. and Selander, R.K. (1991) Proc. Natl Acad. Sci. USA 88, 66676671   \n46 Marklund, B. et al. (1992) Mol. Microbiol. 6, 22252242   \n47 Sharp, P.M. et al. (1992) Proc. Natl Acad. Sci. USA 89, 9836-9840   \n48 Li, J. et al. (1994) Proc. Natl Acad. Sci. USA 91, 25522556   \n49 Fermér, C. et al. (1995) J. Bacteriol. 177, 46694675   \n50 Radman, M. et al. (1995) Philos. Trans. R. Soc. London Ser. B 347, 97-103   \n51 Prudhomme, M. et al. (1991) in Genetics and Molecular Biology of Streptococci, Lactococci and Enterococci (Dunny, G.M., Cleary, P.P. and McKay, L.L., eds), pp. 67-70, American Society for Microbiology Press ",
+        "bbox": [
+            544,
+            466,
+            916,
+            906
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            80,
+            111,
+            449,
+            354
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            473,
+            111,
+            848,
+            355
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Lymphocyte activation by CpG dinucleotide motifs in prokaryotic DNA ",
+        "text_level": 1,
+        "bbox": [
+            147,
+            429,
+            777,
+            547
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Arthur M. Krieg ",
+        "bbox": [
+            372,
+            554,
+            555,
+            575
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "S everal types of polynucleotide are mitogenic for lymphocytes. For example, polymers composed of inosine and cytosine, poly(I,C), or guanosine and cytosine, poly(G,C), are potent inducers of interferon (IFN) production and of macrophage and natural killer (NK) cell lytic activity1,2. Bacille Calmette-Guérin, an attenuated mycobacterium, also stimulates murine IFN secretion and NK lytic activity, and has some antitumor activity, which Tokunaga et al. attributed to the DNA component3. ",
+        "bbox": [
+            78,
+            598,
+            292,
+            814
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "DNAs from all bacterial strains tested share this antitumor property, but eukaryotic DNAs are inactive4. The ability of bacterial DNA to induce IFN-γ secretion depends on its stimulation of interleukin 12 (IL-12) and tumor necrosis factor5. By synthesizing oligodeoxynucleotides from different regions of the mycobacterial genome, sequences were identified that induced IFN ",
+        "bbox": [
+            78,
+            815,
+            450,
+            905
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "CpG dinucleotides are present at the expected frequency in prokaryotic DNA, ",
+        "bbox": [
+            318,
+            598,
+            606,
+            625
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "but are underrepresented ('CpG suppression') and methylated in vertebrate DNA. The vertebrate immune system has apparently evolved the ability to recognize these unmethylated $\\mathbf { C p G }$ motifs and ",
+        "bbox": [
+            313,
+            626,
+            611,
+            675
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            334,
+            675,
+            599,
+            688
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "respond with a rapid and coordinated cytokine response leading to the induction of humoral and cell-mediated immunity. ",
+        "bbox": [
+            315,
+            689,
+            611,
+            726
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "A.M. Krieg is in the Dept of Internal Medicine,   \nUniversity of Iowa College of Medicine, Iowa City,   \nIA 52242, USA, and also in the Veterans Affairs Medical Center, Iowa City, IA 52246, USA. tel: +1 319 335 6841, fax: $+ I$ 319 335 6887, e-mail: arthur-krieg@uiowa.edu ",
+        "bbox": [
+            318,
+            738,
+            606,
+            802
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "production and NK lytic activity6. Lymphocyte activation by the stimulatory oligodeoxynucleotides was attributed to certain palindromic sequences (which all contained CpG dinucleotides)7. DNA from bacteria (but not vertebrates) can also induce murine B cell proliferation and immunoglobulin secretion8. ",
+        "bbox": [
+            629,
+            599,
+            844,
+            739
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Bacterial and vertebrate DNAs differ in their content of pyrimidine clusters, the presence of adenosine methylation, the absence of CpG suppression or methylation in bacteria, and other characteristics. For example, CpG dinucleotides are present at the expected frequency of approximately once per 16 bases in bacterial DNA, but are present at only one third to one quarter of this frequency in vertebrate DNAs. Moreover, approximately $8 0 \\%$ of the cytosines within CpG dinucleotides in vertebrate genomes are highly methylated, while those in ",
+        "bbox": [
+            629,
+            740,
+            844,
+            815
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            472,
+            815,
+            843,
+            906
+        ],
+        "page_idx": 4
+    }
+]

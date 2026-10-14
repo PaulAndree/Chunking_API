@@ -1,0 +1,549 @@
+[
+    {
+        "type": "text",
+        "text": "Campaña en África del Norte ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            95,
+            605,
+            129
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La Campaña en África del Norte fue un teatro de operaciones de la Segunda Guerra Mundial. Tuvo lugar en el desierto de África del Norte, a partir del 10 de junio de 1940 y hasta el 16 de mayo de 1943. Incluyó campañas en la Libia Italiana y Reino de Egipto (Desierto Occidental), en el Protectorado francés de Marruecos y en la Argelia francesa (conocida por los Aliados como Operación Torch) y en el Túnez francés. ",
+        "bbox": [
+            70,
+            138,
+            515,
+            309
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La campaña se produjo entre las potencias del Eje y las Aliadas. Los esfuerzos de guerra principales fueron dominados por el Reino Unido y su imperio (con sus dominios y colonias Canadá, Australia, Nueva Zelanda, India Británica y Unión Sudafricana) y por exiliados de la Europa ocupada, hasta que los Estados Unidos entraron en la guerra el 11 de mayo, proporcionando ayuda directa a las fuerzas aliadas en el Norte de África. ",
+        "bbox": [
+            70,
+            326,
+            515,
+            494
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La lucha en el norte de África empezó con la ocupación del Fuerte Capuzzo italiano por fuerzas británicas en junio de 1940. Esto fue seguido por una ofensiva italiana y una contraofensiva británica. Cuando los italianos sufrieron terribles derrotas, el Afrika Korps alemán (mandado por el mariscal de Campo Erwin Rommel) acudió en su ayuda. Después de una serie de batallas de desgaste por el control de Libia y de algunas partes de Egipto, las fuerzas británicas (bajo el mando del general Bernard Montgomery) empujaron a las fuerzas del Eje hacia Túnez. ",
+        "bbox": [
+            70,
+            510,
+            517,
+            736
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "A mediados de 1942, con los desembarcos aliados de la Operación Torch en el noroeste de África (al mando del general Dwight Eisenhower), y después de algunos enfrentamientos contra las fuerzas de la Francia de Vichy (que posteriormente se unieron a los Aliados), la Commonwealth y las fuerzas estadounidenses llevaron en un movimiento de tenazas a las fuerzas del Eje al norte de Túnez, donde fueron obligadas a rendirse. ",
+        "bbox": [
+            70,
+            754,
+            515,
+            922
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Campaña en África del Norte ",
+        "text_level": 1,
+        "bbox": [
+            552,
+            154,
+            910,
+            179
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Parte de Frente del Mediterráneo de la Segunda Guerra Mundial ",
+        "bbox": [
+            573,
+            185,
+            889,
+            219
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/a7f8e2209872f3fe26f76bdcd71a537f8bf45784ae00318c73d70c27c6164664.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            542,
+            224,
+            921,
+            418
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Tanque británico Matilda II, con una bandera italiana capturada en Tobruk el 24 de enero de 1941. ",
+        "bbox": [
+            559,
+            420,
+            902,
+            470
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Fecha 10 de junio de 1940 al 16 de mayo de 1943 Lugar Norte de África Resultado Victoria aliada ",
+        "bbox": [
+            541,
+            489,
+            877,
+            566
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/7a1978b8f3c82a38adfa5f15519622102b2c609b8b7c0dc70856469c5639b942.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            542,
+            573,
+            927,
+            934
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Haciendo que las fuerzas del Eje lucharan en un segundo frente en el norte de África, los Aliados occidentales ayudaron de alguna manera a la Unión de Repúblicas Socialistas Soviéticas, que luchaba contra el Eje en el Frente Oriental. La información obtenida con la operación Ultra de descifrar mensajes cifrados fue una ayuda muy importante para la victoria aliada en este. ",
+        "bbox": [
+            70,
+            42,
+            517,
+            192
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e6bedb81831509e06b4f58165e7c276c37dc9f8d598fb85b26993ccea9f75ed2.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            537,
+            40,
+            927,
+            209
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Campaña del Desierto Occidental ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            230,
+            509,
+            252
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/69c8977d1244d18b549da2cac41a1a9206d1a5a2ff65f37982c0eb8c3ab72a0f.jpg",
+        "image_caption": [
+            "Mapa del África colonial en 1939, antes de iniciarse la Segunda Guerra Mundial. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            77,
+            276,
+            521,
+            573
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El 13 de septiembre de 1940, los italianos lanzaron a su 10.º Ejército, compuesto de unos doscientos cincuenta mil hombres, contra el Egipto controlado por los británicos y montaron fuertes defensas en Sidi Barrani. El 10.º Ejército no estaba muy mecanizado y el general italiano Graziani, al no tener información sobre el estado de las fuerzas británicas decidió no continuar hacia El Cairo. ",
+        "bbox": [
+            70,
+            635,
+            578,
+            767
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Las fuerzas británicas eran muy superadas en número por los italianos. Un total de doscientos mil contra treinta y cinco mil, y solo la mitad de las fuerzas británicas eran combatientes. Sin embargo lanzaron un contraataque, Operación Compass. Fue bastante más exitoso de lo que pensaban. Lograron la rendición de todo el 10.º Ejército y el avance aliado hasta El Agheila. La impactante noticia de la ",
+        "bbox": [
+            70,
+            782,
+            578,
+            914
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La campaña en África del Norte era muy importante estratégicamente para el Eje y los Aliados. Los Aliados usaron la campaña como un acercamiento a un segundo frente de lucha contra el Eje de la Fortaleza Europa, y ayudó a disminuir la presión en el frente ruso. El Eje había planeado dominar el Mediterráneo a través del control de Gibraltar y del Canal de Suez, y al emprender una exitosa campaña en África del Norte donde, atacando septentrionalmente, se apoderaría de los ricos pozos de petróleo del Medio Oriente. Esto habría cortado los abastecimientos de petróleo más cercanos a los Aliados, y habría aumentado los disponibles para el funcionamiento de la maquinaria de guerra del Eje. ",
+        "bbox": [
+            549,
+            268,
+            931,
+            591
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/8deebf5df786849e78dd7677ce2ee79c7e1f8648cdf1fe0fa1a20a3ee91fb143.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            615,
+            924,
+            786
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Las tropas italianas, aunque numerosas, estaban constituidas inicialmente en 1940 por una mayoría de unidades coloniales libias. Como estos spahis montados en camello, que no pudieron resistir el ataque de los tanques británicos en la Operación Compass. ",
+        "bbox": [
+            608,
+            790,
+            912,
+            904
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "derrota italiana no pasó desapercibida y pronto tropas alemanas, el Deutsches Afrikakorps al mando de Rommel (El Zorro del Desierto), fueron enviadas en ayuda. ",
+        "bbox": [
+            67,
+            42,
+            931,
+            79
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Aunque solo se les ordenó defender la línea, Rommel lanzó una ofensiva desde El Agheila en que recuperó el terreno perdido hasta Sallum, con la excepción de Tobruk, dejando el territorio casi como estaba antes del conflicto. ",
+        "bbox": [
+            70,
+            95,
+            931,
+            149
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Durante el siguiente punto muerto, las fuerzas aliadas se reorganizaron como el 8.º Ejército, que estaba formado por unidades de los ejércitos británico y de otros países, especialmente del Ejército australiano y el Ejército Indio, aunque también del Ejército sudafricano, el Ejército neozelandés y una brigada de las Franceses Libres al mando de Marie-Pierre Koenig. La nueva formación lanzó una nueva ofensiva y recuperó casi todo el territorio recientemente conquistado por Rommel, excepto las guarniciones de Bardia y Sollum. Otra vez el frente quedó en El Agheila. ",
+        "bbox": [
+            70,
+            166,
+            931,
+            279
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Tras recibir suministros desde Trípoli, Rommel volvió a atacar. Derrotando a los Aliados en Gazala y capturando Tobruk, los empujó hacia la frontera de Egipto donde fue detenido en la Primera Batalla de El Alamein. ",
+        "bbox": [
+            70,
+            294,
+            929,
+            350
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En este momento, Bernard Montgomery tomó el mando como comandante de las fuerzas Aliadas en el Norte de África y, después de las victorias en las batallas de Alam Halfa y la segunda de El Alamein, Montgomery empezó a obligar a retroceder a las fuerzas del Eje, hasta capturar Trípoli. ",
+        "bbox": [
+            70,
+            366,
+            931,
+            420
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Campaña en el Marruecos franco-argelino (Operación Torch) ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            456,
+            870,
+            482
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La campaña en el Marruecos Franco-Argelino empezó el 8 de noviembre y acabó el 11 de noviembre de 1942. En un intento de hacer un movimiento de pinza sobre las fuerzas alemanas, los aliados desembarcaron en el Norte de África francés controlado por la Francia de Vichy con la suposición de que encontrarían poca o nula resistencia. ",
+        "bbox": [
+            70,
+            497,
+            578,
+            610
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "No obstante, las fuerzas de la Francia de Vichy se resistieron duramente a los Aliados en Orán y en Marruecos. Pero no en Argel, donde la Resistencia francesa dio un golpe de Estado el 8 de noviembre, que triunfó al neutralizar el XIX Cuerpo de Ejército francés y al arrestar a los oficiales de Argel antes de la llegada de los Aliados. Por lo tanto, prácticamente los desembarcos no hallaron resistencia en la ciudad y fue capturada el primer día con todo el mando vichyista. Después de tres días de conversaciones y amenazas, el general Mark Wayne Clark, un asistente de Eisenhower, obligó al almirante vichyista François Darlan y al comandante en jefe (el general Alphonse Juin), a que ordenasen a las fuerzas francesas el alto al fuego en Orán y Marruecos, entre el 10 y el 11 de noviembre. Así, Darlan pasaría a ser el jefe de la administración francesa del Norte de África y de la África Occidental con el título de \"Alto comisario de Francia para África\" ",
+        "bbox": [
+            70,
+            625,
+            578,
+            738
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/8f0d8ad29372635cb784132a774f9d972715186fcbc28f3a984c266e7fa2ca76.jpg",
+        "image_caption": [
+            "Operación Torch: tropas estadounidenses desembarcan en la playa de Arzeu, cerca de Orán. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            504,
+            922,
+            659
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            739,
+            932,
+            852
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Los desembarcos Aliados provocaron la invasión alemana de la Francia de Vichy (Operación Anton). Como respuesta, la flota francesa fue barrenada en Toulon y el ejército de Vichy en el Norte de África se unió a los Aliados (véase Fuerzas Francesas Libres). ",
+        "bbox": [
+            70,
+            868,
+            931,
+            925
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La campaña de Túnez empezó el 17 de noviembre de 1942 y terminó el 13 de mayo de 1943. Aunque Rommel estuviese rodeado por las fuerzas estadounidenses y de la Commonwealth, los pudo resistir con una serie de operaciones defensivas. La más importante fue la derrota del II Cuerpo en la batalla del Paso de Kasserine. Pero de todas formas, Rommel fue superado en táctica, en hombres y en potencia de fuego. Después que el 8.º Ejército británico, destrozó las defensas enemigas de la Línea Mareth, los Aliados apretaron al Eje hasta que su resistencia en África colapsó, terminando con la rendición de éstos el 12 de mayo de 1943, con unos doscientos veinticinco mil prisioneros de guerra en el cabo Bon.2 Esta pérdida de tantas unidades experimentadas redujo enormemente la capacidad militar del Eje y la fe en la victoria en la guerra de los satélites del mismo.2 ",
+        "bbox": [
+            70,
+            104,
+            578,
+            350
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/96860550e536613427e3f72c1a586a441a7200f24d01028496a34617b2c768a0.jpg",
+        "image_caption": [
+            "esta es una imagen del tanque Tiger capturado por las fuerzas aliadas en Túnez. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            111,
+            922,
+            258
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            352,
+            932,
+            388
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Conclusión ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            425,
+            216,
+            447
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Después de la victoria aliada, se creó el marco idóneo para que empezase la campaña de Italia. La invasión de Sicilia empezó apenas dos meses después. ",
+        "bbox": [
+            70,
+            465,
+            452,
+            540
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            577,
+            262,
+            599
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Campaña de Italia Batalla del Mediterráneo Operación Dragoon Frente de los Balcanes Guerra Greco-Italiana Barra (medalla) ",
+        "bbox": [
+            80,
+            619,
+            327,
+            736
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/bc973089c03adf624854e6c98ca096824f08b415142c02abbc6e0ee5386b6381.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            480,
+            472,
+            926,
+            768
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Mapa del África colonial en 1947, después de finalizar la Segunda Guerra Mundial. Pocos años después se iniciaría la descolonización de África. ",
+        "bbox": [
+            480,
+            773,
+            907,
+            821
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Notas y referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            758,
+            321,
+            782
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. Clodfelter, Micheal (2017). Warfare and Armed Conflicts: A Statistical Encyclopedia of Casualty and ",
+        "bbox": [
+            77,
+            807,
+            255,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Other Figures, 1492-2015, 4th ed (en inglés). McFarland. p. 448. ISBN 978- 0786474707. 2. Kolanovic (2006), p. 479 ",
+        "bbox": [
+            273,
+            795,
+            452,
+            931
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Kolanović, Nada Kisić (2006). «The NDH’s Relations with Southeast European Countries, Turkey and Japan, 1941–45» (http://www.informaworld.com/10.1080/14690760600963248). Totalitarian Movements and Political Religions 7 (4): 473-492.   \nAlfred Salinas, Les Américains en Algérie 1942-1945, L'Harmattan, Paris, 2013, Capítulo 2 \"L'expédient provisoire\", p. 47-86 ",
+        "bbox": [
+            80,
+            106,
+            932,
+            192
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            216,
+            290,
+            236
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Animación flash de la campaña, hecha por la BBC (https://www.bbc.co.uk/history/interactiv e/animations/wwtwo_map_n_africa/index.shtml) ",
+        "bbox": [
+            78,
+            258,
+            927,
+            292
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de «https://es.wikipedia.org/w/index.php?title=Campaña_en_África_del_Norte&oldid=169080767» ",
+        "bbox": [
+            70,
+            312,
+            873,
+            327
+        ],
+        "page_idx": 4
+    }
+]

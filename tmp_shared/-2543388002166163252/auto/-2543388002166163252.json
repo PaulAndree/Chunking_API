@@ -1,0 +1,1964 @@
+[
+    {
+        "type": "text",
+        "text": "En la mitología griega, Perséfone o Perséfona1  (en griego antiguo y moderno, Περσεφόνη; en latín, Persephone) es la hija de Zeus y Deméter. La joven doncella, también conocida por el nombre de Core (Κόρη, Kórē, esto es, «la Muchacha») y en la mitología romana como Prosérpina, es raptada por el dios Hades para hacerla su esposa y, además de ser una diosa, se convierte en la reina del Inframundo. La forma romana del nombre Proserpina procede de la forma dialectal de este en las ciudades eólicas y dóricas de la Magna Grecia. ",
+        "bbox": [
+            70,
+            140,
+            578,
+            311
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Etimología ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            346,
+            213,
+            371
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La diosa es reconocida con dos nombres distintos no relacionados etimológicamente: Perséfone y Core. La forma Core («Κόρη») es simplemente el nombre común kore (κόρη) para designar a una doncella o mujer joven, lo que evidentemente guarda relación con el significado del nombre de su madre Deméter.2 Cornuto, no obstante, dice que a la hija de Deméter la llamaron Perséfone (Persephónen) porque el trabajo comporta afanes y es causa de fatigas, o porque de los afanes (pónón) surge (phéresthai) la capacidad de soportar. 3 ",
+        "bbox": [
+            70,
+            388,
+            578,
+            577
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En la literatura épica, el primer nombre tiene, en dialecto jónico, las formas Perséfone (en griego antiguo Περσεφόνη) y (especialmente en Homero) Persefonea (Περσεφονεία,4 ",
+        "bbox": [
+            70,
+            593,
+            578,
+            650
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/99ded142fc199f55812259549c874384dd0e8b92c69c8e355bf5383c02d2e5ac.jpg",
+        "image_caption": [
+            "Estatua que representa a Isis-Perséfone con un sistro, hallada en el templo de los dioses egipcios de Gortina y conservada en el Museo Arqueológico de Heraclión. 180-190 d. C. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            148,
+            924,
+            554
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Persephoneia). En otros dialectos, el nombre tiene distintas formas que no son simples variantes dialectales: Persefasa (Περσεφάσσα), Persefata (Περσεφάττα), además de Perifona (Πηριφόνα) y Fersefasa (Φερσέφασσα). Toda esta variedad de formas sugiere que los propios griegos tenían dificultad en pronunciar su nombre, y por lo tanto tendría un origen pregriego.5 En el Crátilo, Platón la llama Ferepafa (Pherepapha, Φερέπαφα), y lo explica con una etimología ad hoc «porque es sabia y toca lo que se mueve».6 Clemente usa la forma Ferefata.7 ",
+        "bbox": [
+            70,
+            653,
+            931,
+            767
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Persefata (Περσεφάττα) se interpreta como «la que avienta el grano», relacionándola con el sánscrito parsa, «haz de grano» y un segundo elemento que tendría en indoeuropeo la forma $\\boldsymbol { * } _ { - \\mathrm { g } } \\mathrm { w h } _ { \\mathrm { n - t - i h } } \\}$ de la raíz \\*gʷʰen \"golpear\".8 Otra etimología propone explicarlo como 'φέρειν φόνον', pherein phonon, «(la que) trae la muerte».9 ",
+        "bbox": [
+            70,
+            782,
+            932,
+            858
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Sobre la tierra: diosa de las estaciones ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            124,
+            509,
+            146
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El mito del rapto de Perséfone posee un gran poder emocional que le ha otorgado una gran popularidad: una doncella inocente, el dolor de una madre por el rapto y el regreso de su hija. También es citada con frecuencia como un paradigma de los mitos que explican procesos naturales, con el descenso y el regreso de la diosa provocando el cambio de estación. La historia según la cual Perséfone pasaba una parte del año en el mundo inferior y otra en el mundo de la superficie convirtió su figura, ya en tiempos antiguos, en el símbolo de la vegetación que brota en primavera y cuyo poder se retira de la tierra en otras estaciones del año.10 De esta manera Plutarco la asocia como una diosa de primavera y Cicerón la denomina como «simiente de los frutos del campo».11 ",
+        "bbox": [
+            70,
+            154,
+            931,
+            306
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bajo la tierra: reina del inframundo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            333,
+            463,
+            355
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Pero los griegos también conocían otra faceta de Perséfone. Ella era, además, la terrible reina del inframundo, cuyo nombre no era seguro pronunciar en voz alta y a la que se referían como la «Doncella». En la Odisea de Homero, cuando Odiseo viaja al inframundo, alude a ella como «Reina de Hierro». Su mito central, aun con toda su familiaridad emotiva, era también el contexto tácito de los extraños ritos iniciáticos secretos de regeneración de los misterios eleusinos, que prometían la inmortalidad a sobrecogidos participantes: una inmortalidad en el mundo subterráneo de Perséfone, en un banquete con los héroes bajo su pavorosa mirada.12 ",
+        "bbox": [
+            70,
+            363,
+            931,
+            495
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ascendencia y descendencia ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            530,
+            435,
+            554
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Nacimiento ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            592,
+            198,
+            612
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Y él [Zeus] fue a la cama de la abundante Deméter, quien concibió a Perséfone, la de blancos brazos, robada por Hades del lado de su madre. ",
+        "bbox": [
+            156,
+            633,
+            499,
+            693
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hesíodo, Teogonía, 912 ",
+        "bbox": [
+            322,
+            694,
+            499,
+            710
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La mayoría de las fuentes clásicas consideran a Perséfone como hija de Zeus y Deméter, no obstante, la Biblioteca mitológica de Apolodoro recoge una versión alternativa que indica que era hija de Zeus y Estigia.13 Probablemente Apolodoro esté refiriéndose a Daera, hija de Océano y hermana de Estigia, que es identificada con Perséfone según Esquilo.14 Las versiones órficas tienen una versión diferente. Dicen que Zeus quería yacer con su propia madre Rea y que, tras el rechazo de ésta, Zeus resolvió transformarse en serpiente y así la violó. De esta unión nacería Perséfone.15 En Arcadia era venerada bajo el nombre de Despena, y en este contexto era hija de Poseidón Hipio y Deméter. Su preceptor fue Ánito.16 Cicerón opina que Prosérpina (Perséfone) y Líbero (Dioniso) eran hermanos e hijos de Júpiter (Zeus), a su vez hijo de Éter.17 Sanjuniatón dice que Perséfone y Atenea eran hijas de Crono, rey de Biblos.18 ",
+        "bbox": [
+            70,
+            729,
+            514,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/e5607cbd9dc945090a97093a0b8d5c6d6645a97c582793bd9ad33ff62f1a03b5.jpg",
+        "image_caption": [
+            "Pínax con el rapto de Perséfone, c. 460-450 a. C., procedente del santuario de Perséfone de Locros Epicefirios, conservado en el Museo Arqueológico Nacional de Regio de Calabria. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            544,
+            629,
+            922,
+            830
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            72,
+            42,
+            514,
+            198
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Descendencia ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            226,
+            231,
+            247
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Según la tradición más habitual, el matrimonio formado por Perséfone y Hades fue estéril y ninguna fuente le asigna descendencia de manera explícita. Los órficos, apartándose de la tradición común, dicen que las «renombradas Euménides, con benévola voluntad, son las castas hijas del gran Zeus Ctonio y de Perséfone». Pudiera interpretarse Zeus Ctonio («infernal») como una advocación de Hades, o bien estaría haciendo alusión a la tradición en la que Zeus yace incestuosamente con su hija.19 O bien las Euménides son nueve e hijas de Core y Hades.20 En otras fuentes se dice explícitamente que las Erinias son hijas de Hades y otra consorte, como la Noche.21 Otra hija de Hades nunca es asociada con Perséfone, como Macaria.22 La unión incestuosa entre Zeus y su hija Perséfone es citada en las versiones órficas. Melínoe, solo descrita en uno de los himnos órficos, era hija de Perséfone y Zeus; éste había adoptado la forma de Hades para yacer con su propia hija.23 E incluso se especifica que Zeus tomó la forma de una serpiente moteada para violentarla.24 Eubuleo (probablemente refiriéndose a Dioniso) también se dice hijo de Perséfone y Zeus.25 Otro hijo habido entre Perséfone y Zeus fue Zagreo;26 o bien se identifica a Yaco con Zagreo y de nuevo se le llama hijo de Zeus y Perséfone.27 Líbero (Dioniso), que fue desmembrado por los titanes, también era imaginado como hijo de Júpiter (Zeus) y Prosérpina (Perséfone).28 Cicerón dice que la primera Diana (Artemisa) era hija de Júpiter y Prosérpina y que Dioniso también habría nacido de esta unión.29 ",
+        "bbox": [
+            70,
+            255,
+            514,
+            347
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/0637e0e3ac3db16b0029feef5efecfd46abbf58aff94d55a297dd0670fe5ed3d.jpg",
+        "image_caption": [
+            "Grabado de 1690, obra de Johann Ulrich Krauß (1655- 1719): Las compañeras de Perséfone son transformadas en sirenas. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            544,
+            51,
+            922,
+            252
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            350,
+            932,
+            606
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mitos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            643,
+            146,
+            665
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El rapto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            705,
+            161,
+            724
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Perséfone estaba recogiendo flores con algunas ninfas Oceánides y con las diosas Palas y Artemisa,30 en un campo en Enna31 o en la llanura de Nisa32 cuando Hades apareció, emergiendo de una grieta del suelo y la raptó, llevándosela en su carro tirado por yeguas inmortales a su reino subterráneo en los montes Nebrodi. Deméter buscaba por todas partes a su hija perdida. Hécate, que había oído los gritos de Perséfone33 o bien la Osa Mayor sugirió a Deméter hablar con Helios, el sol, que todo lo ve, para que le contase lo que había pasado y este informó a Deméter de que había sido Hades quien se la había llevado,31 con la ayuda de Zeus.34 En otras versiones, quien revela a Deméter lo que ha ocurrido es la ninfa Cíane35 o los habitantes de Hermíone.36 En las versiones romanas se dice que el resto de las ninfas que acompañaban a Perséfone, así como las hijas de Aqueloo, fueron castigadas por no haber intervenido, siendo transformadas en las Sirenas.37 ",
+        "bbox": [
+            70,
+            733,
+            932,
+            928
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Deméter, desolada y llena de cólera, provocó que los campos quedaran estériles hasta que finalmente, Zeus obligó a Hades a devolver a Perséfone, enviando a Hermes para rescatarla. Sin embargo, Persefone comió varias semillas de granada, sin saber que la obligaban a volver al Inframundo y permanecer allí una tercera parte o la mitad de cada año. 36 Cuando Perséfone regresó junto a su madre, esta volvió a permitir crecer los frutos y las flores en los campos.38 31 En uno de sus reencuentros, Perséfone y Deméter ayudaron a Triptólemo en completar su misión de educar a Grecia entera en el arte de la agricultura como regalo por la hospitalidad que sus padres le brindaron a Deméter mientras buscaba a Perséfone. ",
+        "bbox": [
+            70,
+            42,
+            932,
+            195
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Fue después del rescate de Perséfone del inframundo cuando Deméter reveló los misterios eleusinos, un culto de raíces agrícolas que prometía esperanza de tener una existencia feliz en el más allá.39 Era frecuente referirse a Perséfone como «Core», que significa «la muchacha» o bien a ella y a su madre Deméter como «las Deméteres» o «las dos diosas», y ambas eran figuras centrales en los misterios eleusinos.40 41 La historia del rapto de Perséfone era parte de los ritos de iniciación en los misterios. En la versión arcaica, no obstante, es Hécate quien rescata a Perséfone.42 ",
+        "bbox": [
+            70,
+            210,
+            932,
+            327
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Perséfone como reina del inframundo ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            356,
+            497,
+            376
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Homero describe a Perséfone como la esposa de Hades y Platón añade que este la desposó debido a su sabiduría.43 En las obras homéricas Perséfone es una formidable, venerable y majestuosa reina del mundo subterráneo, que ejerce su poder y lleva las maldiciones de los hombres sobre las almas de los muertos.44 Según contaba Diodoro Sículo, durante la boda que tuvo lugar entre Hades y Perséfone, la isla de Sicilia le fue dada a la novia por Zeus como regalo.45 Los poetas latinos denominaban a Proserpina con advocaciones infernales, como Juno Inferna («Juno [reina] de los infiernos»), Averna («del Averno») y Estigia («del Estigia»).46 ",
+        "bbox": [
+            70,
+            384,
+            578,
+            616
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Perséfone también podía mostrar un temperamento clemente. Permitió que Sísifo regresara a la superficie,47 devolvió a la vida a Alcestis48 e intercedió en favor de Heracles cuando este se llevó a Cerbero.49 También se dice que debido a que la música de Orfeo era tan arrebatadoramente triste, permitió que este se llevase a su esposa, Eurídice, de vuelta al mundo de los vivos con la condición de que ella caminase tras él y él nunca intentase mirarla a la cara hasta que estuviesen en la superficie. Orfeo accedió pero falló, al mirar atrás, casi al final del recorrido, para asegurarse de que su esposa le seguía, perdió a Eurídice para siempre.50 Perséfone también convenció a Hades para que permitiera al héroe Protesilao regresar al mundo de los vivos por un periodo de tiempo limitado para ver a su esposa.51 Y de la misma manera accedió a darle a Psique, por encargo de Afrodita, un cofre que contenía algo de la belleza de la diosa.52 Cuando una plaga azotó Aonia sus habitantes sacrificaron a Menipe y Metíoque, hijas de Orión, pero Perséfone y Hades se compadecieron de ellas y transformaron sus cuerpos muertos en cometas.53 Sobre la constelación de la Flecha se dice que Etemea, una ninfa y esposa de Mérope, rey de Cos, dejó de ofrecer culto a Artemisa. La diosa le disparó una flecha pero Perséfone, testigo de ello, arrebató a la aún viva y la llevó al inframundo.54 Dioniso recuperó a su madre Sémele del inframundo a cambio de una rama de mirto que Perséfone aceptó como intercambio.55 ",
+        "bbox": [
+            70,
+            631,
+            578,
+            728
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/2aa7d6e0ef990ff34b8d06314b877c909f04868de9f53987abdea54471c08bf2.jpg",
+        "image_caption": [
+            "Hades y Perséfone en un pínax de la antigua ciudad de Locros Epicefirios. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            391,
+            924,
+            662
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            730,
+            932,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            931,
+            99
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Algunas versiones le conceden a Hades amantes. En estos casos Perséfone suele mostrar un temperamento vengativo. Se dice que la ninfa Mente se convirtió en la concubina de Hades, quien, según el mito fue pisoteada por Core, y la transformó en la planta de la menta, también conocida como hedýosmos («aromática»).56 En una versión las palabras de Mente, diciendo que sería una mejor reina del inframundo que Perséfone, llegan a oídos de Deméter y en otra es la propia Perséfone quien la confronta pero en ambas versiones el resultado es el mismo para Mente.57 Otro episodio cuenta cómo Hades se enamoró y secuestró a una ninfa llamada Leuce y la llevó al inframundo. A veces, Perséfone se enfadada por ello y la transformó en un álamo blanco, pero también existe otra versión del mito que cuenta que quien la transformó pudo haber sido Hades para inmortalizarla a la hora de su muerte natural.58 La misma Perséfone tuvo como amante al mortal Adonis, el consorte sirio de Afrodita, a pesar de su matrimonio con Hades. Cuando Adonis nació, Afrodita lo tomó bajo su protección y fue hechizada por su belleza sobrenatural. Afrodita se lo dio a Perséfone para que lo cuidara en el inframundo, pero ella también quedó asombrada y rehusó devolvérselo. La discusión entre las dos diosas fue resuelta por Zeus o Calíope, quien decidió que Adonis pasase varios meses —cuatro o seis, según distintas versiones— con cada una, en una especie de poliginia.59 60 Además, el poeta Laso de Hermíone en uno de sus poemas fragmentarios, un himno a Deméter y Core, hace a la última consorte de Clímeno, un héroe beocio, y no al dios Hades, como es habitual en la mayoría de relatos mitológicos.61 ",
+        "bbox": [
+            70,
+            116,
+            931,
+            444
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Aún otros mitos nos hablan de otros raptos o intentos de violación por parte de otros personajes. Por ejemplo, Perséfone fue codiciada por Pirítoo. Su amigo Teseo y él prometieron casarse con diferentes hijas de Zeus. Teseo escogió a Helena, la secuestró con la ayuda de Pirítoo y decidió retenerla hasta que tuviese la edad para casarse. Dejaron a Helena con la madre de Teseo, Etra, y viajaron al inframundo, reino de la elegida de Pirítoo, Perséfone, y del marido de esta, Hades, quien fingió ofrecerles hospitalidad y preparó un banquete. Tan pronto como la pareja se sentó, las serpientes se enroscaron en torno a sus pies atrapándolos.62 Teseo fue finalmente rescatado por Heracles.63 En otra historia, Hermes se atrevió a perseguir a Perséfone (o Hécate) con intenciones de violarla, pero esta gritó furiosa y Hermes no tuvo más remedio que desistir en su empeño. Desde ese momento a Perséfone se le conoció como Brimo («colérica»).64 ",
+        "bbox": [
+            70,
+            460,
+            932,
+            650
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Versión órfica ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            686,
+            253,
+            709
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Las versiones órficas, paralelas a la mitología clásica, le conceden a Perséfone una simbología más oscura y mistérica. Core es descrita como la diosa omnipresente de la naturaleza, que produce y destruye todas las cosas.65 Estas versiones la asocian e identifican con otras dioses de índole similar, como Isis, Rea, Gea, Hestia, Pandora, Artemisa o Hécate.66 En este papel es la madre, pues, de Dioniso, Yaco, Zagreo o Sabacio; dioses y epítetos indentificados los unos con los otros de manera confusa.67 ",
+        "bbox": [
+            70,
+            726,
+            932,
+            824
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Se dice que Zeus se une a su madre Rea-Deméter y en secreta unión nacería Perséfone, de manera incestuosa. Zeus, a continuación, intenta violar a su propia hija y Perséfone da a luz en Creta a Dioniso.68 En las rapsodias órficas a Perséfone también se la denomina con dos advocaciones: Praxídice, una deidad de la venganza; y Atela, el nombre místico de una Perséfone monstruosa.69 Como Atela Perséfone es decrita con dos ojos adicionales en la frente, la cara de un animal por la parte de atrás de su cuello, y también tenía cuernos; razón por la cual Rea, asustada, se niega a darle el pecho.70 Zeus adopta la forma de una serpiente y de esta guisa viola a Perséfone.71 Se llega a confundir a Core con Artemisa y también se predestina que tendrá unión con Apolo, pariendo así a un hijo con fuego resplandeciente en el rostro.72 Core, la Muchacha, ya asentada en el reino celeste, teje un peplo que es el universo y en él se representan la tierra y las estrellas. Este hecho es crucial para la visión órfica pues representa a Core como el nexo de unión entre el mundo terrestre y el mundo de ultratumba, al que ella va y regresa.73 Tan solo el rapto de Hades interrumpe la labor de la Muchacha. La desdichada Muchacha había sido entonces violada por Zeus y raptada por Hades.74 El mito cuenta que la Muchacha fue raptada durante la estación del otoño mientras se encontraba bordando un escorpión.75 Unida con Hades Perséfone alumbra a las Euménides, divinidades vengadoras de los crímenes familiares.76 Estas son nueve hijas de ojos brillantes productoras de flores.77 Hades no gobierna solo en el inframundo, Perséfone también ejerce su soberanía.78 También se dice que Melínoe nació de la unión entre Perséfone y Zeus.79 ",
+        "bbox": [
+            70,
+            839,
+            931,
+            935
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            68,
+            42,
+            932,
+            301
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Perséfone en el culto ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            336,
+            337,
+            358
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "¿Una divinidad pre-griega? ",
+        "text_level": 1,
+        "bbox": [
+            73,
+            397,
+            376,
+            418
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Muchos investigadores modernos han tratado de argumentar que el culto a Perséfone fue una continuación de la adoración que ya se le profesaba en el Neolítico o en la civilización minoica. Entre los clasicistas, esta tesis ha sido defendida por Günter Zuntz80 y cautamente incluida por Walter Burkert en su definitivo libro La religión griega. ",
+        "bbox": [
+            70,
+            426,
+            578,
+            540
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "El mitólogo Károly Kerényi ha vinculado a Perséfone con Ariadna, y ha sugerido su identificación con la anónima «señora del laberinto» de Cnosos.81 ",
+        "bbox": [
+            70,
+            555,
+            576,
+            611
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En una tablilla de griego micénico en Lineal B de Pilos, datada entre 1400 y 1200 a. C. (PY Tn 316), John Chadwick encuentra el nombre (como pe-re- $^ { * } 8 2$ o pe-re-swa) de una diosa \\*Presa que podría ser identificada con la oceánide Perseis, hija de Océano, y sugiere una posible conexión con el primer elemento del nombre \"Perséfone\".82 83 84 ",
+        "bbox": [
+            70,
+            629,
+            578,
+            741
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/71b9379408adc56e677c2123f6bd08373801393a185bf43171e652d50f7f530f.jpg",
+        "image_caption": [
+            "Relieve del siglo v a. C. procedente del Eleusis con la representación de Deméter, Perséfone y Triptolemo. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            608,
+            385,
+            921,
+            706
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Culto a Perséfone en la Antigua Grecia y sus colonias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            770,
+            576,
+            813
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Inspirados por James Frazer, Jane Ellen Harrison y los mitólogos modernos, algunos investigadores han etiquetado a Perséfone como una deidad de vida, muerte y resurrección. ",
+        "bbox": [
+            68,
+            821,
+            931,
+            858
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "En todo caso, pueden distinguirse dos facetas diferentes del culto a Perséfone en la Antigua Grecia. Uno de ellos, dentro del culto a «las dos diosas» compartido con su madre, Deméter, particularmente destacado en los misterios eleusinos celebrados en la región del Ática. Los ritos que se celebraban en este lugar eran, en parte, secretos. Hay testimonios de que entre ellos se celebraban actos sagrados en recuerdo del mito del rapto de Perséfone, su búsqueda y su reencuentro con su madre.85 En otras muchas ciudades de la Antigua Grecia —y también en las colonias griegas que existían a lo largo del mar Mediterráneo— existían santuarios donde se adoraban conjuntamente a Deméter y a Perséfone (habitualmente bajo el nombre alternativo de Core), aunque también existían algunos templos dedicados específicamente a Perséfone. Los festivales de las Tesmoforias eran dedicados conjuntamente a las dos diosas. Por otra parte, en el santuario de Deméter y Core del Acrocorinto, en concreto, se encontraron gran cantidad de exvotos que indican un culto de carácter agrícola en el que las mujeres y los campesinos tenían un papel importante, y no solo para solicitar ayuda a las diosas en las tareas cotidianas sino que además les expresaban sus deseos personales a través de las llamadas tablillas de maldición.86 ",
+        "bbox": [
+            70,
+            874,
+            931,
+            931
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            42,
+            932,
+            233
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Especialmente importante era su culto en diferentes lugares de la isla de Sicilia. En honor a ella se celebraba la festividad de las Antesforias.87 La tradición decía que en esta isla ambas diosas habían nacido, se había producido el rapto de Perséfone y que los cereales habían sido obtenidos allí por vez primera.88 ",
+        "bbox": [
+            70,
+            249,
+            931,
+            324
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "La otra faceta de su culto es como divinidad del Inframundo o Reina de los muertos. En este sentido, sobre todo a partir del siglo iv a. C. es cuando Perséfone se evoca a menudo en epigramas que aparecen en inscripciones epigráficas y laminillas de oro funerarias.89 ",
+        "bbox": [
+            70,
+            342,
+            931,
+            399
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Entre los santuarios dedicados a Perséfone, uno de los más destacados era el de Locros Epicefirios, en el sur de Italia. Las representaciones iconográficas en pinakes encontrados en esta área muestran que en este santuario se otorgaba a esta divinidad una función protectora de las mujeres, los niños y el matrimonio.90 ",
+        "bbox": [
+            70,
+            414,
+            931,
+            471
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            507,
+            262,
+            529
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Antesforia   \nCloris   \nDespena Misterios eleusinos Proserpina Proserpina, un drama mitológico en dos actos (Proserpine, a mythological drama in two acts), de Mary y Percy Bysshe Shelley.   \nTesmoforias ",
+        "bbox": [
+            80,
+            549,
+            932,
+            703
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            724,
+            223,
+            747
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. La grafía «Perséfona» se encuentra, por ejemplo, en Homero: Odisea (1993), volumen 48 de la Editorial Gredos. ISBN 84-249-0302- 1.   \n2. Liddell, H. G. y R. Scott, A Greek-English Lexicon s.v.   \n3. Cornuto: Compendio de teología griega, 55   \n4. Homero, Odisea X,494.   \n5. Nilsson, M. P. (1967), Die Geschichte der Griechische Religion, vol. I, C.F. Beck Verlag, p. 474.   \n6. Platón, Crátilo 404-D.   \n7. Clemente de Alejandría: Protréptico II 33, 8.   \n8. Beekes, R. S. P., Etymological Dictionary of Greek, Brill, 2009, p. 1179. ",
+        "bbox": [
+            77,
+            773,
+            494,
+            914
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            764,
+            931,
+            904
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "9. Smith, «Perse'phone.» (http://www.perseu s.tufts.edu/hopper/text?doc=Perseus:text:1 999.04.0104:entry=persephone-bio-1) ",
+        "bbox": [
+            75,
+            43,
+            490,
+            91
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "10. Escolio a Teócrito: Idilios III, 48 ",
+        "bbox": [
+            67,
+            95,
+            381,
+            110
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "11. Cicerón: De natura deorum, II, 26; Lido: De Mensibus, 90, 284; Porfirio: De antro nympharum, 118 ",
+        "bbox": [
+            67,
+            115,
+            492,
+            162
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "12. Kerényi (1960). ",
+        "bbox": [
+            67,
+            166,
+            238,
+            182
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "13. Apolodoro, Biblioteca mitológica I,3,1. ",
+        "bbox": [
+            67,
+            186,
+            438,
+            203
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "14. Ferécides, fr. 277; Licofrón: Alejandra 710 (con escolio); Etymologycum Magnum, 244, 34. ",
+        "bbox": [
+            67,
+            206,
+            492,
+            252
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "15. Atenágoras, Apología 20, 2 (fr. órfico, 58 Kern) ",
+        "bbox": [
+            65,
+            257,
+            492,
+            289
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "16. Pausanias: Descripción de Grecia VIII 37, 5-6 ",
+        "bbox": [
+            65,
+            293,
+            492,
+            324
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "17. Cicerón: De Natura deorum, III 21, 53 ",
+        "bbox": [
+            67,
+            328,
+            440,
+            344
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "18. Sanjuniatón, teología de los fenicios, citado por Eusebio de Cesarea, Preparatio Evangelica ",
+        "bbox": [
+            65,
+            349,
+            494,
+            396
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "19. Himno órfico 70 ",
+        "bbox": [
+            67,
+            400,
+            245,
+            415
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "20. Proclo en Platón, Crátilo 106, 55 ",
+        "bbox": [
+            65,
+            420,
+            394,
+            435
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "21. Virgilio: Eneida XII 845- 848 ",
+        "bbox": [
+            68,
+            439,
+            352,
+            456
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "22. Suda, voz «Macaria» ",
+        "bbox": [
+            65,
+            459,
+            292,
+            475
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "23. Himno órfico LXXI, A Melínoe ",
+        "bbox": [
+            68,
+            478,
+            366,
+            495
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "24. Himno órfico 71; Ovidio: Las metamorfosis VI, 115 ",
+        "bbox": [
+            65,
+            498,
+            494,
+            529
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "25. Himnos órficos, 29 ",
+        "bbox": [
+            65,
+            534,
+            270,
+            549
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "26. Himnos órficos 29 y 30; Higino: Fabulae 155; Diodoro Sículo: Biblioteca histórica IV 4.1; Nono: Dionisíacas 6.155; Suda, voz \"Zagreo\" ",
+        "bbox": [
+            65,
+            553,
+            494,
+            617
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "27. Escolios a Píndaro, odas ístmicas VII, 3, y a Eurípides, Orestes 952, y a Aristófanes, Las ranas 401, 479. ",
+        "bbox": [
+            65,
+            621,
+            492,
+            668
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "28. Higino: Fabulae 155 ",
+        "bbox": [
+            67,
+            673,
+            285,
+            688
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "29. Cicerón: De Natura Deorum III, 58 ",
+        "bbox": [
+            65,
+            692,
+            410,
+            707
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "30. Himno homérico a Deméter, 420 y ss.: «todas nosotras, en un prado encantador (Leucipe, Feno, Electra, Yante, Mélite, Yaque, Rodia, Calírroe, Melóbosis, Tique, así como Ocírroe de suave tez de flor, Criseida, Yanira, Acaste, Admete, Ródope, Pluto y la graciosa Calipso, Éstige, Urania, la amable Galaxaura, Palas, la que suscita el combate y Artemisa, diseminadora de dardos), jugábamos y cogíamos en un ramo con nuestras manos encantadoras flores». ",
+        "bbox": [
+            67,
+            712,
+            492,
+            902
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "31. Ovidio, Fastos IV,419-618. ",
+        "bbox": [
+            67,
+            908,
+            337,
+            923
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "32. Himno homérico II, a Deméter 8. ",
+        "bbox": [
+            505,
+            43,
+            831,
+            59
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "33. Himno homérico II, a Deméter 52. ",
+        "bbox": [
+            507,
+            62,
+            842,
+            79
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "34. Himno homérico II, a Deméter 78. ",
+        "bbox": [
+            509,
+            83,
+            842,
+            98
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "35. Ovidio, Las metamorfosis V,465. ",
+        "bbox": [
+            507,
+            103,
+            826,
+            118
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "36. Apolodoro, Biblioteca mitológica I,5,3. ",
+        "bbox": [
+            502,
+            122,
+            875,
+            138
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "37. Ovidio, Las metamorfosis V, 555. ",
+        "bbox": [
+            507,
+            142,
+            833,
+            157
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "38. Himno homérico II, a Deméter 360-470. ",
+        "bbox": [
+            502,
+            161,
+            894,
+            176
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "39. Himno homérico II, a Deméter 473. ",
+        "bbox": [
+            507,
+            180,
+            852,
+            197
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "40. Antonio Ruiz de Elvira, Mitología clásica, p.69, Madrid:Gredos, 2000, ISBN 84-249- 0204-1. ",
+        "bbox": [
+            504,
+            200,
+            929,
+            248
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "41. Grupo Tempe, Los dioses del Olimpo, p. 178. Madrid: Alianza, 1998, ISBN 84-206- 3648-7. ",
+        "bbox": [
+            502,
+            252,
+            929,
+            301
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "42. En el Museo Metropolitano de Arte hay una vasija ateniense en donde aparece ilustrada Hécate, con dos antorchas, y cómo esta rescata a Perséfone mientras Hermes se hace a un lado. ",
+        "bbox": [
+            502,
+            302,
+            931,
+            384
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "43. Platón: Crátilo, 404d ",
+        "bbox": [
+            504,
+            387,
+            724,
+            403
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "44. Homero: Odisea X 494; XI 226, 385, 634, Ilíada IX 457, 569; Apolodoro: Biblioteca mitológica I 9, 15 ",
+        "bbox": [
+            504,
+            407,
+            931,
+            456
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "45. Diodoro Sículo: Biblioteca histórica V,2. ",
+        "bbox": [
+            504,
+            459,
+            890,
+            473
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "46. Virgilio: Eneida VI, 138; Ovidio: Las metamorfosis XIV, 114 ",
+        "bbox": [
+            502,
+            478,
+            931,
+            510
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "47. Teognis, fr. I, 703 ",
+        "bbox": [
+            504,
+            514,
+            694,
+            530
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "48. Biblioteca mitológica I 9, 15 ",
+        "bbox": [
+            504,
+            534,
+            786,
+            549
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "49. Diodoro Sículo: Biblioteca histórica, IV 26, 1 ",
+        "bbox": [
+            504,
+            553,
+            929,
+            584
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "50. Ovidio, Las metamorfosis X, 1 - 85. ",
+        "bbox": [
+            507,
+            589,
+            850,
+            605
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "51. Luciano: Diálogos de los muertos, 28 (23) ",
+        "bbox": [
+            502,
+            609,
+            912,
+            624
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "52. Apuleyo: El asno de oro VI, 16-20. ",
+        "bbox": [
+            507,
+            628,
+            848,
+            643
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "53. Antonino Liberal: Metamorfosis, 25 ",
+        "bbox": [
+            507,
+            648,
+            852,
+            663
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "54. De Astronomica, II 16.2 (Flecha) ",
+        "bbox": [
+            504,
+            667,
+            830,
+            682
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "55. Esta imagen aparece dibujada en un ánfora ática que se encuentra en el museo J. Paul Getty. ",
+        "bbox": [
+            504,
+            687,
+            931,
+            735
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "56. Estrabón VIII,3,14. ",
+        "bbox": [
+            502,
+            738,
+            704,
+            754
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "57. Opiano: De la Pesca III 4, 85 ",
+        "bbox": [
+            507,
+            758,
+            798,
+            774
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "58. Servio: Sobre las Églogas de Virgilio VII 61 ",
+        "bbox": [
+            502,
+            776,
+            924,
+            794
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "59. Higino, Astronomía poética II,7. ",
+        "bbox": [
+            504,
+            798,
+            818,
+            813
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "60. Apolodoro, Biblioteca mitológica II,14,4. ",
+        "bbox": [
+            504,
+            817,
+            892,
+            833
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "61. Laso de Hermíone, PMG 21. Cfr. Lírica griega arcaica (poemas corales y monódicos, 700-300 a.C.), Biblioteca Clásica Gredos 31, 1980. ",
+        "bbox": [
+            504,
+            836,
+            931,
+            900
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "62. Apolodoro, Biblioteca mitológica, epítome ",
+        "bbox": [
+            500,
+            904,
+            929,
+            921
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "I,23-24. ",
+        "bbox": [
+            99,
+            41,
+            169,
+            57
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "63. Apolodoro, Biblioteca mitológica II,5,12. ",
+        "bbox": [
+            65,
+            61,
+            455,
+            77
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "64. Tzetzes, sobre Licofrón 1176 ",
+        "bbox": [
+            67,
+            80,
+            364,
+            97
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "65. Himno órfico 29, 16 ",
+        "bbox": [
+            67,
+            100,
+            280,
+            116
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "66. Tzetzes: Sobre Licofrón, 708, 1176; escolio a Apolonio de Rodas, Argonáuticas III, 467; escolio a Teócrito, Idilios, II, 12 ; Servio: Sobre la Eneida, IV, 609. ",
+        "bbox": [
+            65,
+            119,
+            494,
+            184
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "67. Hesiquio, voz «Zagreo»; escolio a Eurípides, Orestes, 952 ; Aristófanes: Las ranas, 326; Diodoro Sículo, IV, 4; Flavio Arriano: Anábasis de Alejandro Magno, II, 16; Juan Lido: De Mensibus, 198; Cicerón: De natura deorum, III, 23 ",
+        "bbox": [
+            65,
+            187,
+            494,
+            283
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "68. Martyrium Theodoti Ancyrani et septem cum eo virginum Acta S. S., 18 ",
+        "bbox": [
+            65,
+            288,
+            492,
+            319
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "69. Orphica Arg. 31 ",
+        "bbox": [
+            65,
+            324,
+            242,
+            339
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "70. Atenágoras, Pro Christ. 20, 1 ",
+        "bbox": [
+            67,
+            343,
+            361,
+            359
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "71. Escolio a Luciano 52, 9 ",
+        "bbox": [
+            68,
+            363,
+            314,
+            378
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "72. Proclo en Platón, Crátilo 96, 19 ",
+        "bbox": [
+            68,
+            382,
+            383,
+            397
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "73. Porfirio: El antro de las ninfas 14 p. 56, 10 ",
+        "bbox": [
+            67,
+            401,
+            478,
+            418
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "74. Proclo en Platón, Crátilo 85, 22 ",
+        "bbox": [
+            68,
+            421,
+            384,
+            438
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "75. Proclo en Platón, Remp. II 62, 9 ",
+        "bbox": [
+            68,
+            441,
+            394,
+            457
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "76. Olimpiodoro, en Platón, Fedón 7, 10 ",
+        "bbox": [
+            68,
+            460,
+            423,
+            477
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "77. Proclo en Platón, Crátilo 106, 55 ",
+        "bbox": [
+            68,
+            480,
+            398,
+            496
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "78. Proclo, en Platón, Timeo I 457, 14 ",
+        "bbox": [
+            68,
+            500,
+            408,
+            515
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "79. Himno órfico 71 (a Melínoe)   \n80. Zuntz (1973). ",
+        "bbox": [
+            65,
+            519,
+            352,
+            555
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "81. Karl Kerényi, Dionisios, raíz de la vida indestructible, p.83, Barcelona: Herder (2011), ISBN 978-84-254-2842-5. ",
+        "bbox": [
+            65,
+            559,
+            494,
+            606
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "82. Raymoure, K.A. «pe-re- $^ { \\star } 8 2 \\gg$ (https://web.ar chive.org/web/20210705083930/http://mino an.deaditerranean.com/resources/linear-bsign-groups/pe/pe-re-82/). Minoan Linear A & Mycenaean Linear B. Deaditerranean. Archivado desde el original (http://minoan.d eaditerranean.com/resources/linear-b-signgroups/pe/pe-re-82/) el 5 de julio de 2021. Consultado el 29 de enero de 2016. «PY 316 Tn (44)» (https://www2.hf.uio.no/damo ",
+        "bbox": [
+            68,
+            610,
+            494,
+            771
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "s/Index/item/chosen_item_id/4985).   \nDĀMOS: Database of Mycenaean at Oslo.   \nUniversidad de Oslo. ",
+        "bbox": [
+            534,
+            41,
+            929,
+            89
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "83. Chadwick, John (1976). The Mycenaean World (http://books.google.com/books?id= RMj7M_tGaNMC&lpg=PP1&pg=PA95#v=o nepage&q&f=false). Cambridge, UK: Cambridge University Press. p. 95. ISBN 0- 521-29037-6. En Google Books. ",
+        "bbox": [
+            502,
+            93,
+            931,
+            190
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "84. Comentarios sobre la diosa pe-re- $\\star 8 2$ de la tablilla de Pilos Tn 316, reconstruida provisionalmente como \\*Preswa ”It is tempting to see... the classical Perse... daughter of Oceanus...; whether it may be further identified with the first element of Persephone is only speculative.” John Chadwick. Documents in Mycenean Greek. Segunda edición. ",
+        "bbox": [
+            504,
+            193,
+            931,
+            353
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "85. Castro Jiménez (2002), pp.139-140. ",
+        "bbox": [
+            502,
+            357,
+            862,
+            374
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "86. Mariana Figueiredo Virgolino, O Santuário de Deméter e Core em Acrocorinto: um lugar antropológico (https://www.historia.uf f.br/revistaplethos/arquivos/numero1/maria na.pdf), p.84, en revista Plêthos, Vol. 1, (2011) (en portugués). ",
+        "bbox": [
+            504,
+            376,
+            929,
+            472
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "87. Diccionario Griego-Español en línea, voz Ἀνθεσφόρια (http://dge.cchs.csic.es/xdg e/%E1%BC%88%CE%BD%CE%B8%CE% B5%CF%83%CF%86%E1%BD%B9%CF% 81%CE%B9%CE%B1) ",
+        "bbox": [
+            502,
+            477,
+            929,
+            560
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "88. Cicerón, Verrinas II,IV,48. ",
+        "bbox": [
+            504,
+            564,
+            766,
+            579
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "89. Marta González González, Soberana del Hades. Perséfone en la epigrafía funeraria y en la láminas áureas (https://impactum-jo urnals.uc.pt/humanitas/article/view/_66_17/ 2114), p.324, en revista Humanitas n.º 66 (2014), pp. 323‑347. ",
+        "bbox": [
+            504,
+            583,
+            931,
+            679
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "90. Mirella Romero Recio, La presencia femenina en el proceso colonial griego (htt ps://core.ac.uk/reader/29403890), p.257, en revista Kolaios n.º 4 (1995), pp. 253- 264. ",
+        "bbox": [
+            504,
+            684,
+            931,
+            763
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Bibliografía ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            799,
+            228,
+            823
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Burkert, W. (1985). La religión griega.   \nCastro Jiménez, María Dolores: El mito de Proserpina: fuentes grecolatinas y pervivencia en la literatura española (http://eprints.ucm.es/3247/1/T16823.pdf), Madrid: Universidad Complutense (2002), ISBN 978-84-8466-296-9 ",
+        "bbox": [
+            78,
+            843,
+            932,
+            912
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Farnell, L. R. (1906). Las religiones de los estados griegos 3. (Capítulos sobre: Deméter y Kore-Perséfone; monumentos religiosos de Deméter-Core; tipos ideales de Deméter-Core.) Kerényi, K. (1960). Eleusis: Archetypal Image of Mother and Daughter. Zuntz, G. (1973). Perséfone: Tres ensayos sobre la religión y el pensamiento de la Magna Grecia. ",
+        "bbox": [
+            80,
+            42,
+            932,
+            133
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            155,
+            289,
+            175
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Biblioteca mitológica I, 5, 1 y 3. ",
+        "bbox": [
+            84,
+            198,
+            383,
+            214
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "I, 5, 1 - 3: texto (http://ugo.bratelli.free.fr/Apollodore/Livre1/I_5_1-3.htm) francés. ",
+        "bbox": [
+            121,
+            224,
+            852,
+            242
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto inglés con índice electrónico en el Proyecto Perseus: ed. de 1921 de James Frazer. ",
+        "bbox": [
+            119,
+            244,
+            932,
+            277
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1 (http://www.perseus.tufts.edu/hopper/text?doc $\\underline { { \\underline { { \\mathbf { \\Pi } } } } }$ Perseus%3Atext%3A1999.01.002 2%3Atext%3DLibrary%3Abook%3D1%3Achapter%3D5%3Asection%3D1); 3 (http:// www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0022%3Atex t%3DLibrary%3Abook%3D1%3Achapter%3D5%3Asection%3D3) ",
+        "bbox": [
+            146,
+            286,
+            931,
+            352
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto griego en Wikisource. ",
+        "bbox": [
+            115,
+            357,
+            384,
+            374
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "1 (https://el.wikisource.org/wiki/%CE%92%CE%B9%CE%B2%CE%BB%CE%B9%C E%BF%CE%B8%CE%AE%CE%BA%CE%B7/%CE%91#v.CE.91_5.2C1); 3 (https:// el.wikisource.org/wiki/%CE%92%CE%B9%CE%B2%CE%BB%CE%B9%CE%BF% CE%B8%CE%AE%CE%BA%CE%B7/%CE%91#v.CE.91_5.2C3). ",
+        "bbox": [
+            146,
+            383,
+            931,
+            447
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "El rapto de Proserpina en Las metamorfosis, de OVIDIO: Libro V, 332 - 571 (en el texto latino, 333 - 572); texto español en Wikisource. ",
+        "bbox": [
+            77,
+            463,
+            929,
+            496
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "V: texto latino. ",
+        "bbox": [
+            114,
+            507,
+            263,
+            523
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "HIGINO: Fábulas (Fabulae). ",
+        "bbox": [
+            82,
+            536,
+            357,
+            553
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "146: Proserpina (Proserpina). ",
+        "bbox": [
+            115,
+            562,
+            403,
+            580
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto inglés (http://www.theoi.com/Text/HyginusFabulae3.html#146) en el sitio (http:// www.theoi.com/) Theoi. ",
+        "bbox": [
+            132,
+            590,
+            932,
+            623
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto latino (http://www.hs-augsburg.de/\\~harsch/Chronologia/Lspost02/Hyginus/ hyg_fabu.html#c146) en el sitio (http://www.hs-augsburg.de/) de la Bibliotheca Augustana (Augsburgo). ",
+        "bbox": [
+            168,
+            633,
+            929,
+            681
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Ed. de 1872 en Internet Archive: texto latino (http://archive.org/stream/hyginifabul ae00hygigoog#page/n80/mode/2up) en facsímil electrónico. ",
+        "bbox": [
+            178,
+            685,
+            931,
+            718
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "CLAUDIANO: El rapto de Proserpina o Sobre el rapto de Proserpina (De raptu Proserpinae). ",
+        "bbox": [
+            87,
+            733,
+            929,
+            767
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto francés (http://remacle.org/bloodwolf/poetes/claudien/proserpine.htm) en el sitio (h ttp://remacle.org/) de Philippe Remacle. ",
+        "bbox": [
+            115,
+            776,
+            931,
+            809
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto inglés (http://www.theoi.com/Text/ClaudianProserpine.html#1p) en el sitio (http://w ww.theoi.com/) Theoi; traducción de 1922 de Maurice Platnauer. ",
+        "bbox": [
+            112,
+            813,
+            927,
+            845
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto latino en LacusCurtius: I (http://penelope.uchicago.edu/Thayer/E/Roman/Texts/Cla udian/De_Raptu_Proserpinae/1\\*.html); II (http://penelope.uchicago.edu/Thayer/E/Roma n/Texts/Claudian/De_Raptu_Proserpinae/2\\*.html); III (http://penelope.uchicago.edu/Thay er/E/Roman/Texts/Claudian/De_Raptu_Proserpinae/3\\*.html). ",
+        "bbox": [
+            112,
+            847,
+            932,
+            913
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto en latín (https://la.wikisource.org/wiki/De_raptu_Proserpinae), en Wikisource. ",
+        "bbox": [
+            117,
+            916,
+            878,
+            933
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Texto en latín, en el sitio (http://www.thelatinlibrary.com) The Latin Library (La Biblioteca Latina). ",
+        "bbox": [
+            110,
+            42,
+            931,
+            76
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Libros: I (http://www.thelatinlibrary.com/claudian/claudian.proserp1.html); II (http://ww w.thelatinlibrary.com/claudian/claudian.proserp2.html); III (http://www.thelatinlibrary.c om/claudian/claudian.proserp3.html). ",
+        "bbox": [
+            144,
+            85,
+            931,
+            135
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Himnos órficos 28: A Perséfone. ",
+        "bbox": [
+            84,
+            149,
+            393,
+            166
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Texto inglés (http://www.theoi.com/Text/OrphicHymns1.html#28) en Theoi: trad. de 1792 de Thomas Taylor.   \nTexto inglés (http://www.sacred-texts.com/cla/hoo/hoo33.htm): otra edición, en el sitio (ht tp://www.sacred-texts.com/) del Internet Sacred Text Archive. ",
+        "bbox": [
+            114,
+            176,
+            932,
+            245
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "BULFINCH, Thomas: Mitología de Bulfinch (Bulfinch's Mythology). ",
+        "bbox": [
+            80,
+            257,
+            697,
+            276
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "I: La era de la fábula o Historias de dioses y héroes (The Age of Fable o Stories of Gods and Heros, 1855). ",
+        "bbox": [
+            105,
+            285,
+            932,
+            319
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "I, 7: Proserpina; Glauco y Escila (Proserpine - Glaucus and Scylla): texto, en inglés (https://www.sacred-texts.com/cla/bulf/bulf06.htm), en el sitio del Internet Sacred Text Archive. ",
+        "bbox": [
+            139,
+            327,
+            932,
+            376
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "El mismo texto (https://en.wikisource.org/wiki/The_Age_of_Fable/Chapter_VII) en Wikisource. ",
+        "bbox": [
+            146,
+            380,
+            932,
+            414
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Traducción (https://pt.wikisource.org/wiki/Hist%C3%B3ria_da_Mitologia/VII#Pro s%C3%A9rpina) portuguesa en Wikisource. ",
+        "bbox": [
+            166,
+            422,
+            931,
+            456
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "«Persephone» (http://www.maicar.com/GML/Persephone.html) en Greek Mythology Link (htt p://www.maicar.com/GML/) (en inglés) ",
+        "bbox": [
+            82,
+            472,
+            934,
+            505
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "«Persephone» (http://theoi.com/Khthonios/Persephone.html) en Theoi Project (http://theoi.c om/) (en inglés). ",
+        "bbox": [
+            84,
+            516,
+            932,
+            552
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Imágenes de Perséfone (https://iconographic.warburg.sas.ac.uk/vpc/VPC_search/results_b asic_search.php?p=1&var_1=Persephone), en el sitio (https://iconographic.warburg.sas.ac. uk) del Instituto Warburg. ",
+        "bbox": [
+            80,
+            561,
+            932,
+            611
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Perséfone (http://www.perseus.tufts.edu/hopper/searchresults?q=persephone), en el sitio (h ttp://www.perseus.tufts.edu/hopper/) del Proyecto Perseus. ",
+        "bbox": [
+            84,
+            622,
+            934,
+            655
+        ],
+        "page_idx": 10
+    }
+]

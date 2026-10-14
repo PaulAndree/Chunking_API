@@ -1,0 +1,2658 @@
+[
+    {
+        "type": "text",
+        "text": "RouteRAG: Efficient Retrieval-Augmented Generation from Text and Graph via Reinforcement Learning ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            89,
+            878,
+            128
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Yucan Guo, Miao Su, Saiping Guan†, Zihao Sun, Xiaolong $\\mathbf { J i n } ^ { \\dagger }$ , Jiafeng Guo, Xueqi Cheng 1State Key Laboratory of AI Safety 2Institute of Computing Technology, Chinese Academy of Sciences 3University of Chinese Academy of Sciences ",
+        "bbox": [
+            225,
+            139,
+            826,
+            224
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "{guoyucan23z, sumiao22z, guansaiping, sunzihao18z, jinxiaolong, guojiafeng, cxq}@ict.ac.cr ",
+        "bbox": [
+            156,
+            225,
+            836,
+            237
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Abstract ",
+        "text_level": 1,
+        "bbox": [
+            263,
+            261,
+            339,
+            277
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Retrieval-Augmented Generation (RAG) integrates non-parametric knowledge into Large Language Models (LLMs), typically from unstructured texts and structured graphs. While recent progress has advanced text-based RAG to multi-turn reasoning through Reinforcement Learning (RL), extending these advances to hybrid retrieval introduces additional challenges. Existing graph-based or hybrid systems typically depend on fixed or handcrafted retrieval pipelines, lacking the ability to integrate supplementary evidence as reasoning unfolds. Besides, while graph evidence provides relational structures crucial for multi-hop reasoning, it is substantially more expensive to retrieve. To address these limitations, we introduce RouteRAG, an RL-based framework that enables LLMs to perform multi-turn and adaptive graph-text hybrid RAG. RouteRAG jointly optimizes the entire generation process via RL, allowing the model to learn when to reason, what to retrieve from either texts or graphs, and when to produce final answers, all within a unified generation policy. To guide this learning process, we design a two-stage training framework that accounts for both task outcome and retrieval efficiency, enabling the model to exploit hybrid evidence while avoiding unnecessary retrieval overhead. Experimental results across five question answering benchmarks demonstrate that RouteRAG significantly outperforms existing RAG baselines, highlighting the benefits of end-to-end RL in supporting adaptive and efficient retrieval for complex reasoning. 1 ",
+        "bbox": [
+            146,
+            287,
+            458,
+            772
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Introduction ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            785,
+            257,
+            801
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Large Language Models (LLMs) have demonstrated remarkable capabilities in reasoning, decision-making, and long-form generation (Zhao et al., 2023; Touvron et al., 2023; Team et al., 2024), especially when further trained with Reinforcement Learning (RL) (OpenAI et al., 2023; DeepSeekAI et al., 2025; Yang et al., 2025a). These abilities have enabled LLMs to follow complex instructions, emulate chain-of-thought reasoning, and solve complicated multi-hop questions (Zhou et al. 2023; Wei et al., 2022). However, the knowledge of LLMs remains static, bounded by the data available at pretraining time. As a result, LLMs often produce inaccurate or outdated outputs when faced with knowledge-intensive queries that require access to external or up-to-date information (Augenstein et al., 2024; Huang et al., 2025). ",
+        "bbox": [
+            115,
+            812,
+            487,
+            873
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            262,
+            882,
+            469
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To overcome this limitation, RetrievalAugmented Generation (RAG) has emerged as a core paradigm for enhancing LLMs with access to external knowledge sources (Lewis et al., 2020; Gao et al., 2023). By conducting retrieval at inference time, RAG decouples knowledge from model parameters, improving factual accuracy and generalization. Early RAG systems typically perform a single round of retrieval before generation (Guu et al., 2020; Wang et al., 2023). Recent work has shown the benefits of multi-turn retrieval, where the model interleaves retrieval and reasoning over multiple steps (Yao et al., 2023; Trivedi et al., 2023; Li et al., 2025). However, these prompt-based approaches often depend on large closed-source models with strong intrinsic reasoning and planning skills. Smaller open-source models struggle to determine when to retrieve, how to formulate retrieval queries, and how to analyze retrieved evidence. This gap has motivated a new line of research (Jin et al., 2025; Song et al., 2025) that employs RL to explicitly train models to make retrieval and reasoning decisions. By optimizing a learned policy over interleaved thinking and retrieval actions, these RL-based methods aim to equip models with adaptive, context-sensitive retrieval strategies that surpass static instructions. ",
+        "bbox": [
+            512,
+            473,
+            882,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "In parallel, graph-based RAG systems (Edge et al., 2024; Gutiérrez et al., 2024, 2025) utilize structured knowledge graphs to integrate and reason over information scattered across multiple passages, thereby improving coverage of factual entities and relations. While graphs enable more accurate entity disambiguation and multi-hop path reasoning than text-only retrieval, retrieving and processing graph evidence is often more computationally expensive, especially in large-scale or dense graphs. Moreover, existing graph-based RAG systems typically operate in a one-shot retrieval setting, fetching graph evidence once before generation, and lack the ability to adaptively choose between graph and text retrieval based on the evolving information needs of the query. Consequently, the current architecture of graph-based RAG systems presents challenges in managing complex reasoning that necessitates multi-turn interactions, and can also lead to unnecessary retrieval overhead when the reasoning chain is too long. ",
+        "bbox": [
+            529,
+            907,
+            878,
+            921
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            84,
+            487,
+            405
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "We address these limitations with RouteRAG, an RL-based framework that enables LLMs to perform multi-turn and hybrid retrieval over both unstructured texts and structured knowledge graphs. Instead of passively executing preset instructions, RouteRAG actively orchestrates retrieval decisions, selecting when and where to access external knowledge. To overcome the challenges of managing complex reasoning and avoiding unnecessary retrieval overhead, RouteRAG learns to interleave reasoning, retrieval, and answer formulation through a unified generation policy, adapting its retrieval behavior to the evolving task context. ",
+        "bbox": [
+            117,
+            409,
+            487,
+            615
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To enable RouteRAG to generate accurate answers while efficiently retrieving relevant knowledge, we adopt a two-stage Group Relative Policy Optimization (GRPO) (Shao et al., 2024) training framework. In the first stage, the model is rewarded solely for answer correctness, allowing it to acquire the core capability of generating accurate responses and establishing a solid starting point for further optimization. In the second stage, we introduce an additional efficiency reward that discourages unnecessary retrieval, guiding the model to strike a balance between accuracy and computational cost. With these designs, RouteRAG can achieve both high accuracy and retrieval efficiency in complex multi-hop reasoning tasks. ",
+        "bbox": [
+            117,
+            618,
+            485,
+            858
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Our main contributions lie in three aspects: ",
+        "bbox": [
+            136,
+            862,
+            453,
+            875
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•We propose RouteRAG, an RL-based framework for multi-turn and hybrid RAG. The model learns a unified generation policy that interleaves reasoning, adaptive graph-text hybrid retrieval, and answer formulation through a two-stage training framework. ",
+        "bbox": [
+            139,
+            890,
+            487,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            547,
+            85,
+            882,
+            147
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "•We design a reward function that jointly optimizes answer accuracy and retrieval efficiency, encouraging the model to retrieve selectively and to reason effectively over retrieved evidence across multiple steps. ",
+        "bbox": [
+            534,
+            161,
+            882,
+            239
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "• Extensive experiments on five Question Answering (QA) benchmarks demonstrate that RouteRAG outperforms prior multi-turn and graph-based RAG systems significantly. ",
+        "bbox": [
+            534,
+            252,
+            882,
+            315
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2 Related Work ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            328,
+            663,
+            343
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1 RAG ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            354,
+            594,
+            368
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "RAG has become a key paradigm for enhancing LLMs with external knowledge, thus mitigating hallucination and improving factual grounding (Guu et al., 2020; Gao et al., 2023). Traditional RAG systems retrieve relevant text chunks from an external knowledge base according to the query, and then feed the query into the LLM together with those text chunks to generate a final answer (Lewis et al., 2020; Yu et al., 2022). Beyond such one-shot retrieve-then-generate pipelines, recent research has explored multi-turn retrieval to provide more fine-grained and incremental supplementation of external knowledge, interleaving reasoning with evidence acquisition. For instance, IRCoT (Trivedi et al., 2023) shows that alternating chain-of-thought reasoning with retrieval improves the performance of LLM on knowledge-intensive multi-hop QA. Search-o1 (Li et al., 2025) further develops this line by introducing a reason-in-documents module to alleviate the issue of redundant information in retrieved documents. ",
+        "bbox": [
+            512,
+            375,
+            882,
+            711
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "As an alternative route for deep knowledge integration, graph-based RAG methods incorporate structured knowledge graphs to aggregate evidence across passages and to make relational connections explicit (Peng et al., 2024; Zhao et al., 2023). By exposing entities and relations directly, these methods are particularly effective for multi-hop questions that require linking facts across disparate documents (Edge et al., 2024; Gutiérrez et al., 2024, 2025). However, graph retrieval is often more computationally expensive than text retrieval, and existing methods commonly perform one-shot retrieval. Although recent work such as HybGRAG (Lee et al., 2025b) demonstrates that multi-turn hybrid text-graph retrieval is feasible through predefined multi-step procedures, these methods rely on fixed heuristics rather than a learnable policy. ",
+        "bbox": [
+            512,
+            714,
+            882,
+            921
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            84,
+            487,
+            147
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "2.2 RL for LLM Reasoning ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            165,
+            347,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "RL has played a central role in improving the reasoning capabilities of LLMs. RL from Human Feedback (RLHF) (Christiano et al., 2017; Ouyang et al., 2022) has established a standard paradigm, where a reward model trained from human preferences directs the optimization of policies (Lambert et al., 2025), allowing models to adhere to instructions and reason with greater accuracy. Proximal Policy Optimization (PPO) (Schulman et al., 2017) remains the predominant algorithm for achieving these goals. More recently, GRPO (Shao et al., 2024) has been proposed as a more efficient variant, which leverages group-wise relative rewards to stabilize training and reduce variance. Building on these advances, researchers have begun to apply RL directly to the training of multi-turn RAG systems (Jin et al., 2025; Song et al., 2025). For instance, Search-R1 (Jin et al., 2025) trains LLMs with RL to decide when and what to search in the middle of reasoning, using only outcome rewards. While this reward design effectively improves correctness, it does not explicitly address retrieval cost or efficiency. ",
+        "bbox": [
+            115,
+            191,
+            487,
+            558
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3 RouteRAG ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            577,
+            243,
+            594
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In this section, we present RouteRAG, an RL-based framework for multi-turn hybrid RAG. We first describe the multi-turn workflow and the mechanism for hybrid knowledge access (Section 3.1). Subsequently, we introduce our two-stage RL framework (Section 3.2), encompassing the formulation of outcome and efficiency rewards, alongside the GRPO-based training algorithm. ",
+        "bbox": [
+            117,
+            608,
+            487,
+            736
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1 Overall Framework ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            752,
+            315,
+            768
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We begin by outlining the overall architecture of RouteRAG. This framework integrates LLMs with external retrievers in a multi-turn reasoning loop, where special tokens from the reasoning process can trigger retrieval actions from text and graph knowledge sources. We describe the multi-turn reasoning and retrieval workflow in Section 3.1.1 and the hybrid knowledge access mechanisms of the external retriever in Section 3.1.2. ",
+        "bbox": [
+            117,
+            777,
+            487,
+            921
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Algorithm 1 RouteRAG Framework ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            84,
+            783,
+            98
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Require: Input query $q$ , policy model $\\pi \\theta$ , retriever $\\mathcal { R }$ , maximum step budget $B$ . ",
+        "bbox": [
+            512,
+            103,
+            882,
+            128
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Ensure: Final response $_ y$ .   \n1: Initialize response $y  \\emptyset$ , step count $b \\gets 0$   \n2: while $b < B$ do   \n3: Initialize current rollout $y _ { b } \\gets \\emptyset$   \n4: while True do   \n5: Sample next token $y ^ { \\prime } \\sim \\pi _ { \\boldsymbol { \\theta } } ( \\cdot \\mid q , y + y _ { b } )$   \n6: $y _ { b } \\gets y _ { b } + y ^ { \\prime }$   \n7: if y'  {</search>, </answer>, ${ < } \\mathrm { e o s } >$ } then   \n8: break   \n9: $y  y + y _ { b }$ Combine rollout with history   \n10: if <search>...</search> detected in $y _ { b }$ then   \n11: if [passage] in $y _ { b }$ then $m \\gets$ Passage   \n12: if [graph]in $y _ { b }$ then $m \\gets$ Graph   \n13: if[passage]and[graph] in $y _ { b }$ then   \n14: $m \\gets$ Hybrid   \n15: Extract query $q ^ { \\prime } \\gets \\mathrm { P a r s e Q u e r y } ( y _ { b } )$   \n16: $d \\gets \\mathcal { R } ( \\mathbf { \\hat { q } ^ { \\prime } } , \\mathbf { \\hat { m } } )$ Retrieve documents according   \nto the retrieval mode m   \n17: $y  y +$ <information>d</information>   \n18: else if <answer>. </answer> detected in $y _ { b }$ then   \n19: return final response $_ y$   \n20: $b \\gets b + 1$   \n21: return final response $y$ ",
+        "bbox": [
+            514,
+            121,
+            880,
+            407
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "3.1.1 Multi-Turn Reasoning and Hybrid Retrieval Workflow ",
+        "text_level": 1,
+        "bbox": [
+            510,
+            442,
+            840,
+            473
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We formulate multi-turn retrieval-augmented generation as a sequential decision-making process, as shown in Algorithm 1. Given an input query $q$ , the policy model $\\pi _ { \\theta }$ interacts with external knowledge sources over a sequence of steps $b =$ $\\{ 1 , \\ldots , B \\}$ , where $B$ is the maximum step budget. At each step, the policy model conditions on the query and the current context to generate an action token. The action space includes continuing internal reasoning, triggering a retrieval operation (<search>...</search>), or producing a final answer (<answer>...</answer>). The retrieval operation further specifies a retrieval mode $m \\in \\{ \\mathsf { P a s s a g e } , \\mathsf { G r a p h } , \\mathsf { H y b r i d } \\}$ by special tokens $y \\in \\{$ [passage], [graph] $\\}$ and a sub-query $q ^ { \\prime }$ which are used to obtain documents $d$ from the retriever $\\mathcal { R } ( q ^ { \\prime } , m )$ . The retrieved information is then appended to the context and becomes available for subsequent reasoning. ",
+        "bbox": [
+            512,
+            483,
+            882,
+            789
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This workflow enables the model to progressively refine its knowledge state by deciding what to retrieve and when to retrieve it, conditioned on the evolving reasoning trajectory. Moreover, the explicit action space over different retrieval modes allows the model to adaptively choose among passage, graph, and hybrid retrieval, depending on the requirements of the query. ",
+        "bbox": [
+            512,
+            794,
+            882,
+            921
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/e8546904dd269f2d8cf24a333d721c36ff491263207619f5656b295f7106a58d.jpg",
+        "image_caption": [
+            "Figure : Previous RL-based multi-turn RAG vs. RouteRAG. Prior methods mainly focus on interleaving reasoning with passe etrival an ewar nswercoretesRouteRAGextends rerival pssage,graph, and modes, and is trained with a two-stage RL framework that optimizes both accuracy and efficiency. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            122,
+            83,
+            873,
+            356
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.1.2 Hybrid Knowledge Access ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            439,
+            379,
+            455
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In RouteRAG, the retriever $\\mathcal { R }$ is responsible for providing external knowledge to support reasoning, with three different retrieval modes. ",
+        "bbox": [
+            115,
+            467,
+            487,
+            514
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Passage Retrieval. The passage retriever is implemented with Dense Passage Retrieval (DPR) (Karpukhin et al., 2020), which encodes both the sub-query and all passages in the corpus into a shared embedding space. Retrieval is performed by computing similarity scores between the query vector and passage vectors, and the top- $k$ passages are selected as evidence. ",
+        "bbox": [
+            115,
+            527,
+            487,
+            656
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Graph-based Retrieval. The graph retriever is implemented based on HippoRAG 2 (Gutiérrez et al., 2025), which first constructs a knowledge graph over passages. Given a sub-query, the retriever applies personalized PageRank over the graph to propagate relevance from query-linked nodes, thereby identifying passages that are related to the query through multi-hop connections. ",
+        "bbox": [
+            115,
+            669,
+            487,
+            796
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Hybrid Retrieval. The hybrid retriever combines passage and graph retrieval using Reciprocal Rank Fusion (RRF) (Cormack et al., 2009). Specifically, given two ranked lists, each document is assigned a fused score that decreases with its reciprocal rank in each list, which ensures that documents highly ranked by either retrieval mode are promoted in the merged list. Formally, the fused score is defined as ",
+        "bbox": [
+            115,
+            809,
+            487,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            439,
+            882,
+            455
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "equation",
+        "img_path": "images/de773c7febb5f6091886167d1e944e84c703846cf062bf1fc32403eead81f10b.jpg",
+        "text": "$$\n\\operatorname { R R F } ( d ) = \\sum _ { m \\in \\{ \\mathsf { P a s s a g e } , \\mathsf { G r a p h } \\} } \\frac { 1 } { k + \\operatorname { r a n k } _ { m } ( d ) } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            522,
+            460,
+            848,
+            501
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "where $\\mathrm { r a n k } _ { m } ( d )$ denotes the rank position of document $d$ in retrieval mode $m$ , and $k$ is a smoothing hyperparameter. Documents are then re-ranked according to ${ \\mathrm { R R F } } ( d )$ to form the final hybrid list. ",
+        "bbox": [
+            510,
+            507,
+            882,
+            571
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2 Two-Stage Reinforcement Learning ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            581,
+            835,
+            598
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "To optimize the unified generation policy, RouteRAG is trained with a two-stage RL framework based on GRPO. The motivation is to first ensure that the model acquires the basic ability to produce correct answers, and then to further refine its retrieval strategy to improve efficiency without sacrificing accuracy, as shown in Figure 1. In this section, we introduce the reward design that guides the learning objectives (Section 3.2.1) and the training algorithm that realizes the optimization procedure (Section 3.2.2). ",
+        "bbox": [
+            512,
+            602,
+            882,
+            778
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2.1 Reward Design ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            788,
+            689,
+            803
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "RL optimization is fundamentally guided by the reward signal. To support the two-stage training, we devise different rewards for each stage, i.e., outcome-oriented reward and accuracy—efficiency reward. ",
+        "bbox": [
+            512,
+            807,
+            884,
+            887
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Stage 1: Outcome-Oriented Reward. In the first stage, the reward is defined purely by the correctness of the model output. Specifically, the reward is set to 1 if the generated answer $y$ exactly matches the ground-truth label $y ^ { * }$ , and 0 otherwise: ",
+        "bbox": [
+            512,
+            890,
+            882,
+            921
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            84,
+            487,
+            131
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/79f179f62eade2b92dd237a525db6d721260bf944023c018e44226e7baa82777.jpg",
+        "text": "$$\nR _ { \\phi } ( x , y ) = \\operatorname { E } \\mathbf { M } ( y , y ^ { * } ) .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            213,
+            143,
+            389,
+            162
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Stage 2: Accuracy-Efficiency Reward. In the second stage, we extend the reward function to jointly optimize for correctness and retrieval efficiency. The reward is defined as ",
+        "bbox": [
+            115,
+            177,
+            487,
+            241
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/6351dae057d34db38564a889bfb8ab2f342f9ae0dae678ec591aa901c193503c.jpg",
+        "text": "$$\nR _ { \\phi } ( x , y ) = \\left\\{ \\begin{array} { l l } { R _ { \\mathrm { o u t c o m e } } , } & { R _ { \\mathrm { o u t c o m e } } = 0 } \\\\ { R _ { \\mathrm { o u t c o m e } } + R _ { \\mathrm { e f f c i e n c y } } , R _ { \\mathrm { o u t c o m e } } = 1 } \\end{array} , \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            115,
+            249,
+            494,
+            294
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { o u t c o m e } } \\in \\{ 0 , 1 \\}$ denotes exact match accuracy. The efficiency reward $R _ { \\mathrm { e f f i c i e n c y } }$ is computed from the total retrieval time across all reasoning steps, and only for those trajectories that correctly reach the answer. We apply a centered scaling by subtracting the average retrieval time $t _ { \\mathrm { a v g } }$ , such that ",
+        "bbox": [
+            115,
+            306,
+            487,
+            403
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/094b74e8cbfba4cf6e2c76b1f3fd7a6ba20f82ef61e570ea7b9c41d1ef579be7.jpg",
+        "text": "$$\nR _ { \\mathrm { e f f i c i e n c y } } = \\frac { t _ { \\mathrm { a v g } } - t } { T } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            220,
+            412,
+            381,
+            444
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $t$ is the total retrieval time for the current trajectory, $t _ { \\mathrm { a v g } }$ is the average retrieval time of the current batch, and $T$ is a normalization constant ensuring the value of $t$ and $t _ { \\mathrm { a v g } } \\in [ 0 , 0 . 5 ]$ . This design provides positive reward for trajectories that achieve the correct answer at a pace exceeding the average, while imposing penalties on those that do not, thereby encouraging the model to retrieve more selectively without sacrificing answer quality. ",
+        "bbox": [
+            117,
+            453,
+            485,
+            596
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.2.2 Training Algorithm ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            607,
+            327,
+            623
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We adopt GRPO (Shao et al., 2024; DeepSeek-AI et al., 2025) to train the unified generation policy $\\pi _ { \\theta }$ over interleaved reasoning and retrieval actions. GRPO stabilizes learning by comparing trajectories within a group, thereby reducing variance in sparsereward settings. ",
+        "bbox": [
+            115,
+            626,
+            487,
+            721
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The policy model $\\pi _ { \\theta }$ is optimized by maximizing the following objective: ",
+        "bbox": [
+            115,
+            722,
+            485,
+            753
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/81ac24993a97b44c6a27a9e53e173b9750a797978883c0216320fa8dbc58d176.jpg",
+        "text": "$$\n\\begin{array} { l } { \\displaystyle { J _ { \\mathrm { G R P O } } ( \\theta ) = \\mathbb { E } _ { x \\sim Q , \\{ y _ { i } \\} _ { i = 1 } ^ { G } \\sim \\pi _ { \\theta _ { \\mathrm { o l d } } } ( Y \\mid q ) } \\frac { 1 } { G } \\sum _ { i = 1 } ^ { G } } } \\\\ { \\displaystyle { \\left[ \\operatorname* { m i n } \\left( r _ { i } ( \\theta ) A _ { i } , \\mathrm { c l i p } ( r _ { i } ( \\theta ) , 1 - \\epsilon , 1 + \\epsilon ) A _ { i } \\right) \\right. } } \\\\ { \\displaystyle { \\left. - \\beta \\mathbb { D } _ { \\mathrm { K L } } [ \\pi _ { \\theta _ { \\mathrm { o l d } } } \\| \\pi _ { \\theta } ] \\right] , } } \\end{array}\n$$",
+        "text_format": "latex",
+        "bbox": [
+            122,
+            763,
+            480,
+            876
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "where $\\epsilon$ and $\\beta$ are hyperparameters, $\\pi _ { \\theta _ { \\mathrm { o l d } } }$ denotes the old policy, $\\begin{array} { r } { r _ { i } ( \\theta ) = \\frac { \\pi _ { \\theta } ( y _ { i } | x ) } { \\pi _ { \\theta _ { \\mathrm { o l d } } } ( y _ { i } | x ) } } \\end{array}$ θod (yi(x), Ai denotes the group-relative advantage for the $i$ -th trajectory, and the KL penalty $\\mathbb { D } _ { \\mathrm { K L } } [ \\pi _ { \\theta _ { \\mathrm { o l d } } } \\| \\pi _ { \\theta } ]$ regularizes the new policy against deviating excessively from the old policy. Further theoretical analysis on the effectiveness of the efficiency reward and GRPO is provided in Section A. ",
+        "bbox": [
+            115,
+            887,
+            487,
+            925
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            510,
+            85,
+            882,
+            180
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4 Experiments ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            192,
+            653,
+            209
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "4.1 Experimental Setting ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            218,
+            722,
+            234
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Evaluation Datasets. Following (Gutiérrez et al., 2024) and Gutiérrez et al. (2025), we evaluate RouteRAG on five widely used benchmarks for simple and multi-hop QA, namely PopQA (Mallen et al., 2023), Natural Questions (NQ) (Kwiatkowski et al., 2019; Wang et al., 2024), HotpotQA (Yang et al., 2018), 2WikiMultihopQA (2Wiki) (Ho et al., 2020), and MuSiQue (Trivedi et al., 2022). PopQA is an open-domain QA dataset designed to evaluate factual recall over long-tail knowledge, and NQ contains naturally occurring queries paired with answers from Wikipedia. HotpotQA and 2Wiki focus on multi-hop reasoning across Wikipedia passages, while MuSiQue requires reasoning over compositional sub-questions. ",
+        "bbox": [
+            510,
+            239,
+            882,
+            480
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Baselines. We compare RouteRAG against several types of representative approaches: (1) Vanilla RAG (Lewis et al., 2020), which performs singleshot dense passage retrieval and generation. (2) Multi-turn RAG methods, including Search-o1 (Li et al., 2025), Search-R1 (Jin et al., 2025), and R1- Searcher (Song et al., 2025), wherein the latter two methods utilize RL to enhance multi-turn passage RAG. (3) Graph-based RAG methods, including GraphRAG (Edge et al., 2024), LightRAG (Guo et al., 2025), RAPTOR (Sarthi et al., 2024), HippoRAG (Gutiérrez et al., 2024), and HippoRAG 2 (Gutiérrez et al., 2025), which leverage structured knowledge graphs for retrieval. ",
+        "bbox": [
+            510,
+            485,
+            884,
+            708
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Implementation Details. We conduct training using Qwen2.5-3B-Instruct and Qwen2.5-7BInstruct (Yang et al., 2025b) as the backbone models. The training data consists of $1 0 \\mathrm { k }$ sampled queries from the HotpotQA training set (Yang et al., 2018), while the retrieval corpus is built from their associated documents. For retrieval, we adopt Contriever (Izacard et al., 2022) and NV-Embedv2 (Lee et al., 2025a) as the dense retriever for 3B and 7B models, respectively. For baseline evaluations, text-based RAG systems are assessed under the same Qwen2.5 backbone, while graph-based RAG systems utilize the GPT-4o-mini backbone. ",
+        "bbox": [
+            510,
+            713,
+            882,
+            921
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "table",
+        "img_path": "images/3dff30d8dafbdee9b8fd1fcb55164f03317f1cee755461134b1fcf52af0a77a8.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table  Main results on simple andmulti-hop QA benchmarks. The best results within each backbone group re icate ol whihendeinvlurerent he seconbest results.rereent -mtas "
+        ],
+        "bbox": [
+            115,
+            79,
+            882,
+            571
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "In particular, HippoRAG 2 (Gutiérrez et al., 2025), the strongest graph-based baseline, is evaluated employing both Qwen2.5 and GPT-4o-mini backbones. We report Exact Match (EM) and F1 scores as evaluation metrics. Additional implementation details, including the training prompt template, hyperparameters, and training configuration, are provided in Section B. ",
+        "bbox": [
+            117,
+            636,
+            487,
+            763
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "4.2 Main Results ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            782,
+            262,
+            797
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "We conduct a comprehensive comparison of RouteRAG against all the baseline methods, as shown in Table 1. From the results, we make the following key observations: ",
+        "bbox": [
+            115,
+            808,
+            487,
+            870
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(1) RouteRAG substantially improves the performance of a small backbone, especially on multi-hop QA. Graph-based methods such as HippoRAG 2 perform well with the strong GPT-40- mini backbone but drop sharply with the smaller Qwen2.5-3B and Qwen2.5-7B models, indicating that small LLMs struggle to handle complex reasoning chains. In contrast, RouteRAG achieves much better performance on small backbones by jointly learning reasoning, retrieval, and answer generation within a unified policy model. ",
+        "bbox": [
+            115,
+            875,
+            487,
+            921
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            636,
+            882,
+            764
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "(2) RouteRAG approaches GPT-4o-minibased graph-based RAG systems despite using a much smaller model. Despite the large performance gap usually observed between GPT-4omini and Qwen2.5-3B/7B, RouteRAG narrows this gap substantially and even surpasses several graphbased systems built on GPT-4o-mini. This suggests that improving the policy can be as impactful as scaling up the backbone itself. ",
+        "bbox": [
+            512,
+            777,
+            882,
+            921
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "table",
+        "img_path": "images/e1d479f2ef32d3faca4c3d9e5b67a26cac0b7a7c3ad1d3336d841359090192d1.jpg",
+        "table_caption": [
+            "TaAblat studesn RL trai and hyri rerival trai\"denotes the basemodelwih RL ai nd sag \"  y wi hrst aFo yi evala compaRoueRAGwi vant etrite ty pas rerival, ny rah rereval, nyhybrvl. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            115,
+            82,
+            882,
+            228
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/33b56a12cdc132c62d2348744cad9df868d91cd658da1df0adb6095e3b6c3b68.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Tabla suy  effy war ef war ra ny i -a rewards. "
+        ],
+        "bbox": [
+            115,
+            294,
+            884,
+            419
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "(3) RouteRAG outperforms the strongest RLtrained multi-turn baseline with much smaller training cost. Search-R1, the prior strongest RL-based multi-turn system, is trained on $1 7 0 \\mathrm { k }$ questions from NQ and HotpotQA. Despite being trained on a mere 10k HotpotQA instances, RouteRAG achieves the best average scores among all 3B and 7B methods, demonstrating that structured retrieval and retrieval mode selection can yield more effective and sample-efficient multiturn RAG policies than scaling training data alone. While RouteRAG is slightly weaker on simple QA, this is expected because the training data is dominated by multi-hop questions. Nevertheless, its overall performance remains competitive given the smaller training cost. ",
+        "bbox": [
+            115,
+            483,
+            487,
+            740
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "4.3 Ablation Study ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            752,
+            277,
+            768
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In this section, we conduct ablation experiments to validate the effectiveness of RL training, hybrid retrieval, and the efficiency reward. ",
+        "bbox": [
+            115,
+            774,
+            485,
+            820
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "RL Training. The upper part of Table 2 compares the full model against two ablated variants: (1) a model trained only with the first stage, and (2) the untrained backbone. The results show that RouteRAG already acquires a strong reasoning ability through the Stage 1 training, outperforming the untrained backbone by a large margin. The Stage 2 training further improves the performance of RouteRAG, especially on multi-hop QA datasets. ",
+        "bbox": [
+            115,
+            826,
+            487,
+            921
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            483,
+            882,
+            531
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Hybrid Retrieval. The lower part of Table 2 presents an ablation study comparing RouteRAG with variants restricted to a single retrieval mode. Passage retrieval performs well on simple QA, while graph retrieval is more effective for multihop reasoning, confirming their complementary strengths. The full RouteRAG achieves the highest average accuracy by dynamically selecting among the three modes, showing that adaptive retrieval yields stronger robustness and generalization than any fixed strategy. ",
+        "bbox": [
+            512,
+            542,
+            882,
+            718
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Efficiency Reward. We evaluate whether RouteRAG learns to retrieve evidence more efficiently while keeping effectiveness with the efficiency reward by comparing it to a variant trained only with the outcome reward, using the same number of training steps. As shown in Table 3, RouteRAG maintains comparable or even higher accuracy than its outcome rewards-only counterpart. Figure 2 shows that both RouteRAG-3B and RouteRAG-7B consistently reduce the average retrieval turns across all datasets, with larger savings observed on the 7B model. Table 4 further assesses the trade-off between retrieval turns and task accuracy, highlighting that efficiency gains do not come at the cost of answer quality. This demonstrates that incorporating efficiency rewards encourages the policy to avoid unnecessary retrieval steps while still collecting sufficient evidence. A comprehensive analysis of this phenomenon is available in Section A.4. ",
+        "bbox": [
+            512,
+            730,
+            882,
+            921
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/83fcfb6288a914aa4a1502e5a401223a9155cd08c5451dcfe3c0288db4a0183c.jpg",
+        "image_caption": [
+            "Figure 2: Comparing the average retrieval turns of RouteRAG and its variant without efficiency reward. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            119,
+            83,
+            882,
+            227
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/b3781a8b836a66a6a335c0f40afdcb4b455d7e82544a4510c99ef3d78a9cb552.jpg",
+        "table_caption": [
+            "Table 4: Average retrieval turns and accuracy of RouteRAG. "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            131,
+            313,
+            470,
+            398
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            115,
+            428,
+            487,
+            555
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.4 Analysis on Reasoning Ability ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            575,
+            393,
+            589
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To better understand how the multi-round reasoning ability of RouteRAG evolves during training, we analyze the average number of reasoning steps before and after training. As shown in Figure 3, both the 3B and 7B models exhibit increased reasoning depth after training. Compared with RouteRAG3B, RouteRAG-7B shows a more pronounced improvement, with larger gains on the more complex MuSiQue and 2Wiki datasets, and smaller increases on PopQA and NQ. Figure 4 further expands the analysis by jointly examining performance, response token length, and reasoning turns across datasets. The results show that RouteRAG consistently achieves a more favorable balance among the three factors compared with Search-R1 and R1-Searcher, achieving high F1 with moderate token length. For a qualitative view of how the reasoning behavior changed in practice, case studies comparing model outputs before and after training are presented in Section D.2. ",
+        "bbox": [
+            115,
+            600,
+            487,
+            921
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/7ac180965ec3227f8ad273ba63fe322472da5fccd922d1167abb0bb1c3d23b2c.jpg",
+        "image_caption": [
+            "Figure 3: Comparison of average reasoning steps. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            514,
+            274,
+            880,
+            404
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/81a032b9b03c5f3dd71e2bc0d8e2528b61a8c1648a842ac3c4f086d9f29bb454.jpg",
+        "image_caption": [
+            "Figure 4: Comparison in terms of performance, response token length, and reasoning turns. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            512,
+            454,
+            880,
+            571
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4.5 Analysis on Dense Retrievers ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            649,
+            781,
+            664
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Table 5 shows the performance of RouteRAG and Search-R1 with two different dense retrievers, i.e., Contriever (Izacard et al., 2022) and NV-Embedv2 (Lee et al., 2025a). Across both 3B and 7B model sizes, RouteRAG yields consistent gains on multi-hop QA benchmarks, regardless of which dense retriever is used. In contrast, Search-R1 is more sensitive to the quality of the dense retriever, benefiting substantially from the stronger NV-Embed-v2 retriever on simple QA tasks. This highlights that RouteRAG relies less heavily on the dense retriever, since its adaptive use of graph and hybrid retrieval provides accurate evidence, thereby stabilizing performance even when the dense retriever is relatively weak. ",
+        "bbox": [
+            512,
+            681,
+            882,
+            921
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "table",
+        "img_path": "images/a7c471b17f3802f9912fc674eb9c33396dad49e682c01696bc6b44a27a845b01.jpg",
+        "table_caption": [],
+        "table_footnote": [
+            "Table 5: Performance comparison among RouteRAG and Search-R1 with different dense retrievers.\\* represents in-domain datasets. "
+        ],
+        "bbox": [
+            115,
+            82,
+            880,
+            412
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "5 Conclusions ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            475,
+            252,
+            492
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "In this paper, we presented RouteRAG, an RL framework for efficient multi-turn hybrid RAG. Unlike prior multi-turn RAG systems that rely on static prompting or single-mode retrieval, our approach learns a unified policy that interleaves reasoning, retrieval mode selection, retrieval query generation, and answer generation. Our twostage training framework further ensures that the model first acquires robust answer correctness and then improves retrieval efficiency without sacrificing accuracy. Experiments conducted on five knowledge-intensive QA benchmarks demonstrate that RouteRAG significantly outperforms existing graph-based and multi-turn RAG systems, highlighting that efficiency gains can be achieved without compromising answer quality. ",
+        "bbox": [
+            117,
+            501,
+            487,
+            757
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Limitations ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            769,
+            216,
+            784
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Despite the strong empirical results, our proposed RouteRAG has several limitations. First, due to computational constraints, we conduct RL training and evaluation only on 3B and 7B LLMs. Larger or more diverse model architectures may exhibit different behaviors under our training framework. Second, our experiments utilize HippoRAG 2 as the graph retriever. While we adopt it because it is currently the strongest graph-based RAG system, this choice limits our evaluation of how RouteRAG interacts with alternative graph retrievers or graph construction pipelines. ",
+        "bbox": [
+            117,
+            794,
+            485,
+            921
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            476,
+            882,
+            541
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgments ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            552,
+            670,
+            568
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work is partially supported by the Strategic Priority Research Program of the CAS under Grant No. XDB0680102, the CAS Special Research Assistant Fund, the National Natural Science Foundation of China under Grants No. 62306299, 62441229, and 62406308, and the Innovation Funding of ICT, CAS under Grant No. E561010. ",
+        "bbox": [
+            512,
+            579,
+            884,
+            689
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            718,
+            606,
+            733
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Isabelle Augenstein, Timothy Baldwin, Meeyoung Cha, Tanmoy Chakraborty, Giovanni Luca Ciampaglia, David Corney, Renee DiResta, Emilio Ferrara, Scott Hale, Alon Halevy, Eduard Hovy, Heng Ji, Filippo Menczer, Ruben Miguez, Preslav Nakov, Dietram Scheufele, Shivam Sharma, and Giovanni Zagni. 2024. Factuality challenges in the era of large language models and opportunities for fact-checking. Nature Machine Intelligence, 6(8):852863. ",
+        "bbox": [
+            512,
+            740,
+            882,
+            858
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Paul F Christiano, Jan Leike, Tom Brown, Miljan Martic, Shane Legg, and Dario Amodei. 2017. Deep reinforcement learning from human preferences. Advances in neural information processing systems, 30. ",
+        "bbox": [
+            512,
+            869,
+            882,
+            921
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Gordon V Cormack, Charles LA Clarke, and Stefan Buettcher. 2009. Reciprocal rank fusion outperforms condorcet and individual rank learning methods. In Proceedings of the 32nd international ACM SIGIR conference on Research and development in information retrieval, pages 758759. ",
+        "bbox": [
+            117,
+            86,
+            485,
+            164
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "DeepSeek-AI, Daya Guo, Dejian Yang, Haowei Zhang, Junxiao Song, Ruoyu Zhang, Runxin Xu, Qihao Zhu, Shirong Ma, Peiyi Wang, Xiao Bi, Xiaokang Zhang, Xingkai Yu, Yu Wu, Z. F. Wu, Zhibin Gou, Zhihong Shao, Zhuoshu Li, Ziyi Gao, and 181 others. 2025. Deepseek-r1: Incentivizing reasoning capability in llms via reinforcement learning. arXiv preprint arXiv:2501.12948. ",
+        "bbox": [
+            117,
+            175,
+            487,
+            279
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Darren Edge, Ha Trinh, Newman Cheng, Joshua Bradley, Alex Chao, Apurva Mody, Steven Truitt, Dasha Metropolitansky, Robert Osazuwa Ness, and Jonathan Larson. 2024. From local to global: A graph rag approach to query-focused summarization. arXiv preprint arXiv:2404.16130. ",
+        "bbox": [
+            117,
+            292,
+            487,
+            369
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Yunfan Gao, Yun Xiong, Xinyu Gao, Kangxiang Jia, Jinliu Pan, Yuxi Bi, Yixin Dai, Jiawei Sun, Haofen Wang, and Haofen Wang. 2023. Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997, 2(1). ",
+        "bbox": [
+            117,
+            381,
+            487,
+            447
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Aaron Grattafiori, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, Abhishek Kadian, Ahmad AlDahle, Aiesha Letman, Akhil Mathur, Alan Schelten, Alex Vaughan, Amy Yang, Angela Fan, Anirudh Goyal, Anthony Hartshorn, Aobo Yang, Archi Mitra, Archie Sravankumar, Artem Korenev, Arthur Hinsvark, and 542 others. 2024. The llama 3 herd of models. arXiv preprint arXiv:2407.21783. ",
+        "bbox": [
+            117,
+            458,
+            487,
+            563
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Zirui Guo, Lianghao Xia, Yanhua Yu, Tu Ao, and Chao Huang. 2025. LightRAG: Simple and fast retrievalaugmented generation. In Findings of the Association for Computational Linguistics: EMNLP 2025, pages 1074610761, Suzhou, China. Association for Computational Linguistics. ",
+        "bbox": [
+            117,
+            574,
+            487,
+            652
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Bernal Jiménez Gutiérrez, Yiheng Shu, Yu Gu, Michihiro Yasunaga, and Yu Su. 2024. Hipporag: neurobiologically inspired long-term memory for large language models. In Proceedings of the 38th International Conference on Neural Information Processing Systems, pages 5953259569. ",
+        "bbox": [
+            117,
+            664,
+            487,
+            743
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Bernal Jiménez Gutiérrez, Yiheng Shu, Weijian Qi, Sizhe Zhou, and Yu Su. 2025. From RAG to memory: Non-parametric continual learning for large language models. In Forty-second International Conference on Machine Learning. ",
+        "bbox": [
+            115,
+            755,
+            487,
+            820
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Kelvin Guu, Kenton Lee, Zora Tung, Panupong Pasupat, and Mingwei Chang. 2020. Retrieval augmented language model pre-training. In International conference on machine learning, pages 39293938. PMLR. ",
+        "bbox": [
+            115,
+            831,
+            487,
+            883
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Xanh Ho, Anh-Khoa Duong Nguyen, Saku Sugawara, and Akiko Aizawa. 2020. Constructing a multi-hop qa dataset for comprehensive evaluation of reasoning steps. In Proceedings of the 28th International Conference on Computational Linguistics, pages 66096625. ",
+        "bbox": [
+            115,
+            895,
+            487,
+            921
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            531,
+            86,
+            882,
+            139
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Lei Huang, Weijiang Yu, Weitao Ma, Weihong Zhong, Zhangyin Feng, Haotian Wang, Qianglong Chen, Weihua Peng, Xiaocheng Feng, Bing Qin, and Ting Liu. 2025. A survey on hallucination in large language models: Principles, taxonomy, challenges, and open questions. ACM Transactions on Information Systems, 43(2):155. ",
+        "bbox": [
+            510,
+            148,
+            882,
+            240
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Gautier Izacard, Mathilde Caron, Lucas Hosseini, Sebastian Riedel, Piotr Bojanowski, Armand Joulin, and Edouard Grave. 2022. Unsupervised dense information retrieval with contrastive learning. Transactions on Machine Learning Research. ",
+        "bbox": [
+            510,
+            249,
+            882,
+            313
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Bowen Jin, Hansi Zeng, Zhenrui Yue, Jinsung Yoon, Sercan Arik, Dong Wang, Hamed Zamani, and Jiawei Han. 2025. Search-r1: Training llms to reason and leverage search engines with reinforcement learning. arXiv preprint arXiv:2503.09516. ",
+        "bbox": [
+            510,
+            324,
+            882,
+            388
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Vladimir Karpukhin, Barlas Ouz, Sewon Min, Patrick Lewis, Ledell Wu, Sergey Edunov, Danqi Chen, and Wen Tau Yih. 2020. Dense passage retrieval for opendomain question answering. In 2020 Conference on Empirical Methods in Natural Language Processing, EMNLP 2020, pages 67696781. ",
+        "bbox": [
+            512,
+            399,
+            882,
+            478
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Tom Kwiatkowski, Jennimaria Palomaki, Olivia Redfield, Michael Collins, Ankur Parikh, Chris Alberti, Danielle Epstein, Illia Polosukhin, Jacob Devlin, Kenton Lee, Kristina Toutanova, Llion Jones, Matthew Kelcey, Ming-Wei Chang, Andrew M. Dai, Jakob Uszkoreit, Quoc Le, and Slav Petrov. 2019. Natural questions: A benchmark for question answering research. Transactions of the Association for Computational Linguistics, 7:452466. ",
+        "bbox": [
+            510,
+            487,
+            882,
+            605
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Woosuk Kwon, Zhuohan Li, Siyuan Zhuang, Ying Sheng, Lianmin Zheng, Cody Hao Yu, Joseph E. Gonzalez, Hao Zhang, and Ion Stoica. 2023. Efficient memory management for large language model serving with pagedattention. In Proceedings of the ACM SIGOPS 29th Symposium on Operating Systems Principles. ",
+        "bbox": [
+            510,
+            614,
+            882,
+            706
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Nathan Lambert, Valentina Pyatkin, Jacob Morrison, LJ Miranda, Bill Yuchen Lin, Khyathi Chandu, Nouha Dziri, Sachin Kumar, Tom Zick, Yejin Choi, Noah A. Smith, and Hannaneh Hajishirzi. 2025. RewardBench: Evaluating reward models for language modeling. In Findings of the Association for Computational Linguistics: NAACL 2025, pages 17551797, Albuquerque, New Mexico. Association for Computational Linguistics. ",
+        "bbox": [
+            512,
+            715,
+            882,
+            832
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Chankyu Lee, Rajarshi Roy, Mengyao Xu, Jonathan Raiman, Mohammad Shoeybi, Bryan Catanzaro, and Wei Ping. 2025a. NV-embed: Improved techniques for training LLMs as generalist embedding models. In The Thirteenth International Conference on Learning Representations. ",
+        "bbox": [
+            512,
+            843,
+            882,
+            921
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Meng-Chieh Lee, Qi Zhu, Costas Mavromatis, Zhen Han, Soji Adeshina, Vassilis N Ioannidis, Huzefa Rangwala, and Christos Faloutsos. 2025b. Hybgrag: Hybrid retrieval-augmented generation on textual and relational knowledge bases. In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 879893. ",
+        "bbox": [
+            117,
+            86,
+            485,
+            189
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Patrick Lewis, Ethan Perez, Aleksandra Piktus, Fabio Petroni, Vladimir Karpukhin, Naman Goyal, Heinrich Küttler, Mike Lewis, Wen-tau Yih, Tim Rocktäschel, Sebastian Riedel, and Douwe Kiela. 2020. Retrieval-augmented generation for knowledgeintensive nlp tasks. Advances in neural information processing systems, 33:94599474. ",
+        "bbox": [
+            117,
+            202,
+            487,
+            292
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, and Zhicheng Dou. 2025. Search-o1: Agentic searchenhanced large reasoning models. arXiv preprint arXiv:2501.05366. ",
+        "bbox": [
+            115,
+            305,
+            487,
+            369
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Alex Mallen, Akari Asai, Victor Zhong, Rajarshi Das, Daniel Khashabi, and Hannaneh Hajishirzi. 2023. When not to trust language models: Investigating effectiveness of parametric and non-parametric memories. In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 98029822. ",
+        "bbox": [
+            117,
+            381,
+            487,
+            473
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "OpenAI, Josh Achiam, Steven Adler, Sandhini Agarwal, Lama Ahmad, Ilge Akkaya, Florencia Leoni Aleman, Diogo Almeida, Janko Altenschmidt, Sam Altman, Shyamal Anadkat, Red Avila, Igor Babuschkin, Suchir Balaji, Valerie Balcom, Paul Baltescu, Haiming Bao, Mohammad Bavarian, Jeff Belgum, and 262 others. 2023. Gpt-4 technical report. arXiv preprint arXiv:2303.08774. ",
+        "bbox": [
+            117,
+            483,
+            487,
+            588
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Long Ouyang, Jeff Wu, Xu Jiang, Diogo Almeida, Carroll L. Wainwright, Pamela Mishkin, Chong Zhang, Sandhini Agarwal, Katarina Slama, Alex Ray, John Schulman, Jacob Hilton, Fraser Kelton, Luke Miller, Maddie Simens, Amanda Askell, Peter Welinder, Paul Christiano, Jan Leike, and Ryan Lowe. 2022. Training language models to follow instructions with human feedback. Advances in neural information processing systems, 35:2773027744. ",
+        "bbox": [
+            115,
+            600,
+            487,
+            718
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Boci Peng, Yun Zhu, Yongchao Liu, Xiaohe Bo, Haizhou Shi, Chuntao Hong, Yan Zhang, and Siliang Tang. 2024. Graph retrieval-augmented generation: A survey. arXiv preprint arXiv:2408.08921. ",
+        "bbox": [
+            115,
+            728,
+            487,
+            781
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Parth Sarthi, Salman Abdullah, Aditi Tuli, Shubh Khanna, Anna Goldie, and Christopher D Manning. 2024. RAPTOR: Recursive abstractive processing for tree-organized retrieval. In The Twelfth International Conference on Learning Representations. ",
+        "bbox": [
+            115,
+            793,
+            487,
+            858
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, and Oleg Klimov. 2017. Proximal policy optimization algorithms. arXiv preprint arXiv:1707.06347. ",
+        "bbox": [
+            115,
+            869,
+            487,
+            920
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y. K. Li, Y. Wu, and Daya Guo. 2024. Deepseekmath: Pushing the limits of mathematical reasoning in open language models. arXiv preprint arXiv:2402.03300. ",
+        "bbox": [
+            512,
+            86,
+            882,
+            164
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Guangming Sheng, Chi Zhang, Zilingfeng Ye, Xibin Wu, Wang Zhang, Ru Zhang, Yanghua Peng, Haibin Lin, and Chuan Wu. 2025. Hybridflow: A flexible and efficient rlhf framework. In Proceedings of the Twentieth European Conference on Computer Systems, pages 12791297. ",
+        "bbox": [
+            512,
+            178,
+            882,
+            256
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, and JiRong Wen. 2025. R1-searcher: Incentivizing the search capability in llms via reinforcement learning. arXiv preprint arXiv:2503.05592. ",
+        "bbox": [
+            510,
+            268,
+            882,
+            334
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Gemini Team, Petko Georgiev, Ving Ian Lei, Ryan Burnell, Libin Bai, Anmol Gulati, Garrett Tanzer, Damien Vincent, Zhufeng Pan, Shibo Wang, Soroosh Mariooryad, Yifan Ding, Xinyang Geng, Fred Alcober, Roy Frostig, Mark Omernick, Lexi Walker, Cosmin Paduraru, Christina Sorokin, and 1118 others. 2024. Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context. arXiv preprint arXiv:2403.05530. ",
+        "bbox": [
+            510,
+            347,
+            882,
+            463
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Hugo Touvron, Louis Martin, Kevin Stone, Peter Albert, Amjad Almahairi, Yasmine Babaei, Nikolay Bashlykov, Soumya Batra, Prajjwal Bhargava, Shruti Bhosale, Dan Bikel, Lukas Blecher, Cristian Canton Ferrer, Moya Chen, Guillem Cucurull, David Esiobu, Jude Fernandes, Jeremy Fu, Wenyin Fu, and 49 others. 2023. Llama 2: Open foundation and fine-tuned chat models. arXiv preprint arXiv:2307.09288. ",
+        "bbox": [
+            510,
+            478,
+            882,
+            582
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, and Ashish Sabharwal. 2022. Musique: Multihop questions via single-hop question composition. Transactions of the Association for Computational Linguistics, 10:539554. ",
+        "bbox": [
+            510,
+            595,
+            882,
+            659
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Harsh Trivedi, Niranjan Balasubramanian, Tushar Khot, and Ashish Sabharwal. 2023. Interleaving retrieval with chain-of-thought reasoning for knowledgeintensive multi-step questions. In The 61st Annual Meeting Of The Association For Computational Linguistics. ",
+        "bbox": [
+            510,
+            674,
+            882,
+            751
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Yile Wang, Peng Li, Maosong Sun, and Yang Liu. 2023. Self-knowledge guided retrieval augmentation for large language models. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 1030310315. ",
+        "bbox": [
+            512,
+            764,
+            882,
+            829
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Yuhao Wang, Ruiyang Ren, Junyi Li, Wayne Xin Zhao, Jing Liu, and Ji-Rong Wen. 2024. Rear: A relevance-aware retrieval-augmented framework for open-domain question answering. In Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing, pages 56135626. ",
+        "bbox": [
+            514,
+            843,
+            882,
+            921
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Jason Wei, Xuezhi Wang, Dale Schuurmans, Maarten Bosma, Brian Ichter, Fei Xia, Ed H. Chi, Quoc V. Le, and Denny Zhou. 2022. Chain-of-thought prompting elicits reasoning in large language models. Advances in neural information processing systems, 35:2482424837. ",
+        "bbox": [
+            117,
+            85,
+            487,
+            164
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "An Yang, Anfeng Li, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo Zheng, Bowen Yu, Chang Gao, Chengen Huang, Chenxu Lv, Chujie Zheng, Dayiheng Liu, Fan Zhou, Fei Huang, Feng Hu, Hao Ge, Haoran Wei, Huan Lin, Jialong Tang, and 41 others. 2025a. Qwen3 technical report. arXiv preprint arXiv:2505.09388. ",
+        "bbox": [
+            117,
+            174,
+            487,
+            265
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "An Yang, Baosong Yang, Beichen Zhang, Binyuan Hui, Bo Zheng, Bowen Yu, Chengyuan Li, Dayiheng Liu, Fei Huang, Haoran Wei, Huan Lin, Jian Yang, Jianhong Tu, Jianwei Zhang, Jianxin Yang, Jiaxi Yang, Jingren Zhou, Junyang Lin, Kai Dang, and 23 others. 2025b. Qwen2.5 technical report. arXiv preprint arXiv:2412.15115. ",
+        "bbox": [
+            117,
+            277,
+            487,
+            367
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Ruslan Salakhutdinov, and Christopher D Manning. 2018. Hotpotqa: A dataset for diverse, explainable multi-hop question answering. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing, pages 23692380. ",
+        "bbox": [
+            115,
+            378,
+            487,
+            469
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Shunyu Yao, Jeffrey Zhao, Dian Yu, Nan Du, Izhak Shafran, Karthik Narasimhan, and Yuan Cao. 2023. React: Synergizing reasoning and acting in language models. In The Eleventh International Conference on Learning Representations. ",
+        "bbox": [
+            115,
+            480,
+            487,
+            546
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Wenhao Yu, Chenguang Zhu, Zaitang Li, Zhiting Hu, Qingyun Wang, Heng Ji, and Meng Jiang. 2022. A survey of knowledge-enhanced text generation. ACM Computing Surveys, 54(11s):138. ",
+        "bbox": [
+            117,
+            556,
+            487,
+            609
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Wayne Xin Zhao, Kun Zhou, Junyi Li, Tianyi Tang, Xiaolei Wang, Yupeng Hou, Yingqian Min, Beichen Zhang, Junjie Zhang, Zican Dong, Yifan Du, Chen Yang, Yushuo Chen, Zhipeng Chen, Jinhao Jiang, Ruiyang Ren, Yifan Li, Xinyu Tang, Zikang Liu, and 3 others. 2023. A survey of large language models. arXiv preprint arXiv:2303.18223, 1(2). ",
+        "bbox": [
+            117,
+            619,
+            487,
+            711
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Jeffrey Zhou, Tianjian Lu, Swaroop Mishra, Siddhartha Brahma, Sujoy Basu, Yi Luan, Denny Zhou, and Le Hou. 2023. Instruction-following evaluation for large language models. arXiv preprint arXiv:2311.07911. ",
+        "bbox": [
+            115,
+            721,
+            487,
+            785
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "A Analysis on Efficiency Reward ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            83,
+            415,
+            99
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "In this section, we provide a detailed theoretical analysis of why the efficiency reward designed in RouteRAG improves selective retrieval in GRPObased training. ",
+        "bbox": [
+            115,
+            109,
+            487,
+            172
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A.1 Batch-Level Efficiency Reward ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            183,
+            406,
+            199
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Let $\\tau _ { i }$ denote the $i$ -th trajectory in a group of $G$ trajectories sampled from a batch of size $B$ .The total reward for trajectory $\\tau _ { i }$ is ",
+        "bbox": [
+            115,
+            205,
+            487,
+            252
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e1a158d54ab8d0cd80ac22612724c655df943a4585aacfd4c58ee9730a62848c.jpg",
+        "text": "$$\nR _ { \\phi } ( \\tau _ { i } ) = \\left\\{ \\begin{array} { l l } { R _ { \\mathrm { o u t c o m e } } ( \\tau _ { i } ) , } & { R _ { \\mathrm { o u t c o m e } } ( \\tau _ { i } ) = 0 } \\\\ { R _ { \\mathrm { o u t c o m e } } ( \\tau _ { i } ) + R _ { \\mathrm { e f f i c i e n c y } } ( \\tau _ { i } ) , R _ { \\mathrm { o u t c o m e } } ( \\tau _ { i } ) = 1 } \\end{array} , \\right.\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            259,
+            484,
+            296
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $R _ { \\mathrm { o u t c o m e } } ( \\tau _ { i } ) ~ \\in ~ \\{ 0 , 1 \\}$ indicates the correctness of the answer. The efficiency reward is centered on the batch-level average retrieval time rather than the group-level average: ",
+        "bbox": [
+            115,
+            306,
+            487,
+            370
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "img_path": "images/bdec4e1700901b6e4a78dfdb0d3281840645773b4c029eafdf8ed4bc655a4ace.jpg",
+        "text": "$$\nR _ { \\mathrm { e f f i c i e n c y } } ( \\tau _ { i } ) = \\frac { t _ { \\mathrm { a v g } } - t _ { i } } { T } , \\quad t _ { \\mathrm { a v g } } = \\frac { 1 } { B } \\sum _ { \\tau \\in \\mathrm { b a t c h } } t _ { \\tau } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            122,
+            376,
+            480,
+            418
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $t _ { i }$ is the total retrieval time of trajectory $\\tau _ { i }$ and $T$ is a normalization constant. ",
+        "bbox": [
+            117,
+            431,
+            487,
+            461
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "There are three main reasons for choosing batchlevel efficiency reward together with GRPO-based training, instead of using group-level efficiency: ",
+        "bbox": [
+            115,
+            463,
+            487,
+            511
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• Variance reduction and stability. Batchlevel averaging reduces the impact of noisy fluctuations in retrieval time (e.g., hardware latency or network delays). ",
+        "bbox": [
+            137,
+            519,
+            487,
+            583
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• Mitigating anomalies across queries. Although batch-level normalization may produce unusually high or low raw efficiency rewards for certain queries, GRPOs grouprelative advantage compensates for this effect. ",
+        "bbox": [
+            137,
+            594,
+            489,
+            674
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "•Encouraging selective retrieval. Combining batch-level centering with GRPO advantage ensures that trajectories with unnecessary retrieval are penalized, while efficient yet accurate trajectories are favored. ",
+        "bbox": [
+            137,
+            683,
+            489,
+            763
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A.2 Variance Reduction and Stability ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            772,
+            423,
+            788
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Each GRPO group may contain only a few trajectories (e.g., $G = 5$ ). Raw retrieval times $t _ { i }$ can fluctuate due to hardware noise, network latency, or retriever stochasticity. If group-level averaging were used, such fluctuations could lead to unstable rewards. By computing $t _ { \\mathrm { a v g } }$ across the entire batch, we obtain a more stable reference signal that smooths out these random variations. ",
+        "bbox": [
+            115,
+            794,
+            487,
+            921
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "This reduces the variance of the group-relative advantage, which in turn stabilizes policy gradient updates. ",
+        "bbox": [
+            510,
+            85,
+            882,
+            131
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A.3 Mitigating Anomalies Across Queries ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            142,
+            852,
+            158
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Batch-level normalization may produce unusually high or low raw efficiency rewards for certain queries. For example, a simple question requiring little retrieval could yield a disproportionately large positive $R _ { \\mathrm { e f f i c i e n c y } } ( \\tau _ { i } )$ . This is indeed a potential drawback of using batch-level efficiency reward. ",
+        "bbox": [
+            510,
+            164,
+            882,
+            259
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "However, GRPO compensates for this issue through its group-relative formulation. Although $R _ { \\mathrm { e f f i c i e n c y } } ( \\tau _ { i } )$ is normalized at the batch level, the advantage $A _ { i }$ is computed relative to the group mean reward within each GRPO group, i.e., ",
+        "bbox": [
+            512,
+            260,
+            882,
+            340
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "img_path": "images/1fc03a3dbd1aad4c6d6cfd069e98167623fd43c74fabba95ce305b7cb2272738.jpg",
+        "text": "$$\nA _ { i } = \\frac { R _ { \\phi } ( \\tau _ { i } ) - \\frac { 1 } { G } \\sum _ { j = 1 } ^ { G } R _ { \\phi } ( \\tau _ { j } ) } { \\mathrm { s t d } \\big ( \\{ R _ { \\phi } ( \\tau _ { j } ) \\} _ { j = 1 } ^ { G } \\big ) } .\n$$",
+        "text_format": "latex",
+        "bbox": [
+            566,
+            346,
+            826,
+            391
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Even if a particular query obtains an abnormally large batch-normalized efficiency reward, its influence on learning is moderated by this grouprelative centering. As a result, the combination of batch-level normalization and group-level centering ensures that the learning signal remains consistent across diverse query types. ",
+        "bbox": [
+            510,
+            395,
+            884,
+            508
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "A.4 Encouraging Selective Retrieval ",
+        "text_level": 1,
+        "bbox": [
+            514,
+            518,
+            810,
+            535
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "For trajectories that correctly answer the query $\\ R _ { \\mathrm { o u t c o m e } } \\ = \\ 1 _ { \\cdot }$ ), the numerator of $A _ { i }$ can be decomposed into outcome and efficiency components, yielding ",
+        "bbox": [
+            510,
+            539,
+            884,
+            604
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "equation",
+        "img_path": "images/2a90d5f1e432a96a3610c40cf645c87db437b767d5b0fba4f5a7820ab4552caf.jpg",
+        "text": "$$\nA _ { i } ~ = ~ { \\frac { \\left( 1 - { \\overline { { R _ { \\mathrm { o u t c o m e } } } } } \\right) + \\left( R _ { \\mathrm { e f f i c i e n c y } } ( \\tau _ { i } ) - { \\overline { { R _ { \\mathrm { e f f i c i e n c y } } } } } \\right) } { \\operatorname { s t d } \\left( \\{ R _ { \\phi } ( \\tau _ { j } ) \\} _ { j = 1 } ^ { G } \\right) } } ,\n$$",
+        "text_format": "latex",
+        "bbox": [
+            514,
+            609,
+            878,
+            645
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "where $\\overline { { R _ { \\mathrm { o u t c o m e } } } }$ and $\\overline { { R _ { \\mathrm { e f f i c i e n c y } } } }$ are group means computed within the GRPO group, while $R _ { \\mathrm { e f f i c i e n c y } } ( \\tau _ { i } )$ itself is computed using the batch-level reference $t _ { \\mathrm { a v g } }$ . ",
+        "bbox": [
+            510,
+            656,
+            882,
+            720
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "From Equation (9) we see: ",
+        "bbox": [
+            531,
+            721,
+            727,
+            736
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• If a trajectory answers correctly and its retrieval time is less than the group average, then $R _ { \\mathrm { e f f i c i e n c y } } ( \\tau _ { i } ) - \\overline { { R _ { \\mathrm { e f f i c i e n c y } } } } > 0$ , and consequently, the numerator increases, thereby rewarding the policy for selective retrieval. ",
+        "bbox": [
+            532,
+            745,
+            884,
+            825
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "• If a trajectory performs redundant retrieval, the efficiency term is negative and reduces $A _ { i }$ , discouraging unnecessary retrieval. ",
+        "bbox": [
+            532,
+            834,
+            884,
+            882
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "Thus, GRPO guides the policy towards trajectories that balance correctness with efficient retrieval. ",
+        "bbox": [
+            512,
+            890,
+            884,
+            921
+        ],
+        "page_idx": 12
+    },
+    {
+        "type": "text",
+        "text": "B Implementation Details ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            83,
+            356,
+            99
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "B.1 Evaluation Datasets and Baselines ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            110,
+            431,
+            126
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Evaluation Datasets. The statistics of evaluation datasets are shown in Table 6. ",
+        "bbox": [
+            115,
+            131,
+            485,
+            162
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "table",
+        "img_path": "images/3ea6519c11f6a91e079e30f695ec7067421ced8d768e51e48977a45e230803f0.jpg",
+        "table_caption": [
+            "Table 6: Dataset statistics "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            134,
+            198,
+            468,
+            312
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Baselines. ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            331,
+            196,
+            346
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "•Vanilla RAG (Lewis et al., 2020) is a standard RAG framework that combines an LLM with a learned retriever to condition generation on retrieved documents. ",
+        "bbox": [
+            137,
+            359,
+            487,
+            422
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "•Search-o1 (Li et al., 2025) is an agentic retrieval system that performs on-demand multistep search with a \"reason-in-documents\" refinement module. ",
+        "bbox": [
+            137,
+            434,
+            489,
+            498
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "• Search-R1 (Jin et al., 2025) is an RL-trained model that interleaves stepwise reasoning with autonomous search actions. ",
+        "bbox": [
+            137,
+            511,
+            487,
+            557
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "•R1-Searcher (Song et al., 2025) is an RL approach that teaches LLMs when and how to invoke external search for improved reasoning. ",
+        "bbox": [
+            137,
+            570,
+            487,
+            633
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "• GraphRAG (Edge et al., 2024) is a graphbased RAG method that aggregates evidence via local-to-global graph traversal. ",
+        "bbox": [
+            137,
+            646,
+            487,
+            694
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "• LightRAG (Guo et al., 2025) is a lightweight and efficient graph-based RAG method with simplified indexing and fast dual-level retrieval. ",
+        "bbox": [
+            137,
+            706,
+            487,
+            769
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "• RAPTOR (Sarthi et al., 2024) is a hierarchical, tree-structured RAG approach that uses recursive summarization to access multi-level abstractions. ",
+        "bbox": [
+            137,
+            782,
+            487,
+            845
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "• HippoRAG (Gutiérrez et al., 2024) is a memory-inspired RAG framework that builds a knowledge graph and retrieves via personalized PageRank. ",
+        "bbox": [
+            137,
+            858,
+            487,
+            921
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "• HippoRAG 2 (Gutiérrez et al., 2025) is an enhanced graph-based RAG framework that extends HippoRAG with deeper passage integration. ",
+        "bbox": [
+            532,
+            84,
+            882,
+            148
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "B.2 Training Prompt Template ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            162,
+            768,
+            178
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "The training prompt template for the policy LLM is shown in Table 7. ",
+        "bbox": [
+            512,
+            185,
+            880,
+            215
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "B.3 Training Details ",
+        "text_level": 1,
+        "bbox": [
+            512,
+            229,
+            685,
+            246
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Hyperparameters. For GRPO training of RouteRAG, we set the policy LLM learning rate to $1 \\times 1 0 ^ { - 6 }$ , a total batch size of 256, with a minibatch size of 128 and a micro-batch size of 32. The KL divergence regularization coefficient $\\beta$ is set to 0.001, and the clip ratio $\\epsilon$ is set to 0.2. The retrieval budget is fixed at $B = 4$ , and the number of retrieved passages per call is $k = 3$ The maximum sequence length is set to 4,096 tokens, with a maximum response length of 500 tokens, a maximum start length of 2,048 tokens, and a maximum observation length of 500 tokens. ",
+        "bbox": [
+            512,
+            252,
+            882,
+            444
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Open Information Extraction Models We employ Llama-3.1-8B-Instruct and Llama-3.3-70BInstruct (Grattafiori et al., 2024) for Open Information Extraction (OpenIE) during graph construction. Following HippoRAG 2, the model is used to extract entities and relational triplets from corpus passages, which are then used to build the knowledge graph that supports graph and hybrid retrieval in both HippoRAG 2 and RouteRAG. For experiments based on 3B models, we use Llama-3.1- 8B-Instruct as a more lightweight alternative to the larger OpenIE models (Llama-3.3-70B-Instruct and GPT-4o-mini) adopted in HippoRAG 2. For experiments involving 7B models, we adopt the same Llama-3.3-70B-Instruct model used in HippoRAG 2 to construct higher-quality graphs. ",
+        "bbox": [
+            510,
+            450,
+            884,
+            707
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Training Configuration. Our training framework is adapted from the Search-R1 training framework (Jin et al., 2025), which builds upon the verl (Sheng et al., 2025). Training is conducted on a single node with ${ 8 \\times 8 0 } \\mathrm { G B }$ NVIDIA A100 GPUs. To improve memory efficiency, we enable gradient checkpointing and apply Fully Sharded Data Parallel (FSDP) with CPU offloading for parameters, gradients, and optimizer states. Rollouts are sampled with vLLM (Kwon et al., 2023) using a tensor parallel size of 1 and a GPU memory utilization ratio of O.6. The rollout sampling temperature is set to 1.0. ",
+        "bbox": [
+            510,
+            713,
+            884,
+            920
+        ],
+        "page_idx": 13
+    },
+    {
+        "type": "text",
+        "text": "Answer the given question. You must conduct reasoning inside <think> and </think> first every time you get new strict format: ",
+        "bbox": [
+            149,
+            143,
+            850,
+            179
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "1You MUT rst decide which retival mode to use (both mode wil eu eevant dcuments, but usediffent retrieval methods): ",
+        "bbox": [
+            151,
+            179,
+            848,
+            204
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "- Use [passage] to find documents using semantic similarity-based dense retrieval -Use [raph] tofnd documents through graph-based retrieval, whic perfors retrieval on a structured knowedge graph constructed from documents using fact ranking and graph reasoning - You can combine them as [graph] [passage] to get documents from both retrieval methods ",
+        "bbox": [
+            161,
+            214,
+            850,
+            284
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "2. Then formulate your specific search query based on what information you need Finally, wrap everything in<search and $< /$ search> tags For example: ",
+        "bbox": [
+            151,
+            293,
+            652,
+            329
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "- Using dense retrieval: <search> [passage] the capital of France </search> - Using graph-based retrieval: <search>[graph] the capital of France </search> - Using both methods: <search> [graph][passage] the capital of France </search> ",
+        "bbox": [
+            163,
+            338,
+            697,
+            398
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "The search results (relevant documents) will be returned between <information> and</information> tags. You c r   n answer inside <answerand<answer without detailed illustrations. For example, <answerParis <answer Question: {question} ",
+        "bbox": [
+            151,
+            406,
+            845,
+            455
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "image",
+        "img_path": "images/e21cb88b657240541a5bcbd3e48d56f82e67bf78af754c48ef7f502c5ef63fec.jpg",
+        "image_caption": [
+            "Figure 5: Performance of RouteRAG-3B with different numbers of retrieved documents. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            117,
+            488,
+            880,
+            613
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "Two-Stage Training. Stage 1 is trained for 20 steps (0.5 epoch) with EM-based rewards only, ensuring correctness. Stage 2 continues for an additional 20 steps (0.5 epoch) with the accuracyefficiency reward introduced in Section 3.2. In both stages, we sample five responses per prompt during training to compute group-relative advantages. Checkpoints are saved every 10 steps, and the final checkpoint is used for evaluation. ",
+        "bbox": [
+            115,
+            665,
+            487,
+            808
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "C Findings on Learned Routing Behavior ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            826,
+            487,
+            843
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "We summarize key findings on the learned routing behavior to better understand how the model selects retrieval modes. ",
+        "bbox": [
+            115,
+            857,
+            485,
+            903
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(1) Suppression of weak retrieval modes. Dur. ",
+        "bbox": [
+            137,
+            907,
+            484,
+            921
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "ing training, the policy naturally down-weights retrieval modes that provide limited marginal benefit. In our setup, standalone passage retrieval is often less informative than graph or hybrid exploration, and the learned policy concentrates decisions on graph-based and hybrid actions. This supports the motivation for learning routing decisions rather than relying on fixed pipelines. ",
+        "bbox": [
+            512,
+            665,
+            884,
+            793
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "(2) Adaptation to task structure. The learned routing strategy varies with dataset characteristics. On multi-hop datasets, the policy performs more retrieval rounds and relies more heavily on hybrid exploration, whereas on simpler factoid datasets, it terminates earlier and uses fewer retrieval steps. This indicates that the model learns to adjust exploration depth to query complexity. ",
+        "bbox": [
+            512,
+            810,
+            884,
+            921
+        ],
+        "page_idx": 14
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            117,
+            85,
+            361,
+            99
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(3) More refined strategies with larger backbones. We observe that smaller models primarily optimize the number of retrieval steps, while the larger model learns a more nuanced strategy that jointly optimizes both the number of steps and the choice of retrieval modes, preferring lower-cost modes for simpler queries. ",
+        "bbox": [
+            115,
+            102,
+            487,
+            214
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "improvements in its ability to understand complex questions, decompose them into manageable subproblems, and construct concise yet targeted retrieval queries that lead to well-grounded and correct answers. ",
+        "bbox": [
+            510,
+            84,
+            884,
+            164
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "D Additional Experiments ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            227,
+            359,
+            242
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "D.1 Analysis on Number of Retrieved Documents ",
+        "text_level": 1,
+        "bbox": [
+            115,
+            253,
+            425,
+            284
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "In this experiment, we analyze the performance of RouteRAG-3B with varying numbers of retrieved documents. As shown in Figure 5, the increasing $k$ generally improves both EM and F1 across all datasets, though the gains diminish beyond $k = 3$ Interestingly, retrieval turns consistently decrease as $k$ grows, indicating that providing the model with richer evidence reduces the need for iterative retrieval. These results demonstrate that a moderate retrieval breadth yields a balance between accuracy and retrieval efficiency. ",
+        "bbox": [
+            115,
+            291,
+            487,
+            467
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "D.2 Case Study ",
+        "text_level": 1,
+        "bbox": [
+            117,
+            480,
+            250,
+            495
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "To further illustrate how our training framework improves model behavior, we present several qualitative case studies comparing the outputs of the base model before training and our proposed RouteRAG after training, as shown in Tables 89. These cases reveal several representative issues of the base model and how our training addresses them. ",
+        "bbox": [
+            115,
+            502,
+            487,
+            613
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(1) Over-reliance on internal knowledge without validation. The base model tended to rely on its parametric knowledge and give confident but unsupported answers, skipping the step of verifying correctness against external evidence (Case 1). Our model, by contrast, learns to cross-check candidate answers with retrieved documents before finalizing its response, which reduces hallucinations and increases factual accuracy. ",
+        "bbox": [
+            115,
+            617,
+            487,
+            759
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "(2) Failure to understand or decompose complex questions. The base model frequently struggled with multi-hop or compositional questions, failing to recognize their underlying structure or to plan effective retrieval steps (Case 2). Through training, our model acquires the ability to analyze the question, break it down into subproblems, and issue precise retrieval queries for each part, which leads to more accurate and complete answers. ",
+        "bbox": [
+            115,
+            762,
+            487,
+            904
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Overall, after training, RouteRAG shows clear ",
+        "bbox": [
+            136,
+            907,
+            484,
+            921
+        ],
+        "page_idx": 15
+    },
+    {
+        "type": "text",
+        "text": "Tas u ea  hal ou ro that Johnny Pemberton played Bo Thompson  That 0s Show\" and that it was created by Steven MolaroAte ae to identify the creator as Justin Spitzer. ",
+        "bbox": [
+            115,
+            218,
+            884,
+            275
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "table",
+        "img_path": "images/b139a8d6269ff166d65526d19a8f9b9e9267e84844a6e515b570a934e2acc539.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            121,
+            279,
+            877,
+            784
+        ],
+        "page_idx": 16
+    },
+    {
+        "type": "text",
+        "text": "Table Case studyBefore training, the model failed t answer the question due to alack of reasonigand qaihehe s the perorme  HeTomorrw\"as DaveKoz, and thenfindingout who was featureon mooh Jazz Staion along with Kenny G and Dave Koz. ",
+        "bbox": [
+            115,
+            278,
+            882,
+            334
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Qoi end   Heha   JzS ",
+        "bbox": [
+            124,
+            353,
+            863,
+            366
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Ground Truth: George Benson ",
+        "bbox": [
+            126,
+            374,
+            324,
+            386
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Before Training (Qwen2.5-7B-Instruct) ",
+        "text_level": 1,
+        "bbox": [
+            126,
+            395,
+            381,
+            406
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "Tomorrow. I don't have this information directly, so I will need to search for it. </think>   \n<arh>[graph][passageartists feature on Smooth Jazz Stations with Kenny Gand Hello Tomorrow performer </search>   \nu George Benson, Kenny G and Dave Koz...   \nDocTitle:Hello Tomorrow (album) Hello Tomorrow is the ninth studio album by saxophone player DaveKoz. </information> ",
+        "bbox": [
+            121,
+            406,
+            877,
+            504
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "<answer> Dave Koz </answer> ",
+        "bbox": [
+            126,
+            513,
+            322,
+            524
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "After Training (RouteRAG-7B) ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            531,
+            331,
+            542
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "  \nfeatured on Smooth Jazz Stations. I will start by identifying the performer of \"Hello Tomorrow\". </think>   \n<search>[graph]performer of Hello Tomorrow </search>   \n<oTiHellTmorow abum Hell Tmoe ith sudi albumyxohone plaDave   \nKoz...</information>   \n<k rom he orain provie Dave oz performe \"Hell TomorrowNow I nee o id ut who was u   \non Smooth Jazz Stations along with Kenny G and Dave Koz. </think>   \n<rh>graph][passageartist featue on Smooh Jazz Statins along with Kenny Gnd Dave Koz /erch>   \n  \nGeorge Benson, Kenny G and Dave Koz...</information>   \n  \nGeorge Benson. </think>   \n<answer>George Benson</answer> ",
+        "bbox": [
+            126,
+            543,
+            872,
+            600
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            122,
+            612,
+            873,
+            673
+        ],
+        "page_idx": 17
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            129,
+            683,
+            870,
+            720
+        ],
+        "page_idx": 17
+    }
+]

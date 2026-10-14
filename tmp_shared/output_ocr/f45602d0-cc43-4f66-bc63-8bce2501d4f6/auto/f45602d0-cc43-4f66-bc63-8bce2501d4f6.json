@@ -1,0 +1,313 @@
+[
+    {
+        "type": "text",
+        "text": "Methyl-directed repair of frameshift mutations in heteroduplex DNA ",
+        "text_level": 1,
+        "bbox": [
+            127,
+            107,
+            701,
+            148
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "(bacteriophage λ/Escherichia coli/mismatch repair/mutagenesis/gene conversion ",
+        "bbox": [
+            154,
+            154,
+            608,
+            166
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Christiane Dohet, Robert Wagner, and Miroslav Radman ",
+        "bbox": [
+            130,
+            177,
+            591,
+            191
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            127,
+            198,
+            863,
+            210
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Communicated by Franklin W. Stahl, January 2, 1986 ",
+        "bbox": [
+            127,
+            219,
+            434,
+            231
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "ABSTRACT DNA heteroduplexes with single unpaired bases of the four different kinds were prepared by annealing separated strands of bacteriophage λ DNA and used to transfect Escherichia coli. Genetic analysis of the progeny phages obtained from transfected bacteria indicates that the $\\pmb { \\cal E }$ coli mismatch repair system can recognize and repair heteroduplexes with single unpaired bases—i.e., frameshift/ wild-type heteroduplexes. The repair of a particular strand of the heteroduplex is inhibited by full methylation of the adenines in the GATC sequences of that strand. Thus, it appears that the E. coli mismatch repair system can act on newly synthesized DNA strands to remove replication errors involving the insertion or deletion of a single base. ",
+        "bbox": [
+            127,
+            249,
+            505,
+            411
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The Escherichia coli mismatch repair system is able to recognize noncomplementary base pairs in DNA and acts, apparently via localized excision and resynthesis, to replace mispaired bases (for review, see ref. 1). Regions of DNA in which GATC sequences are fully adenine-methylated appear to be refractory to mismatch repair (2, 3), and it appears to be the transient undermethylation of newly synthesized GATC sequences in the region immediately following the replication fork that allows mismatch repair to operate only on newly synthesized strands and thereby remove replication errors (15). ",
+        "bbox": [
+            128,
+            425,
+            507,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The $\\pmb { \\cal E }$ . coli mismatch repair system does not recognize and/or repair all mismatches with equal efficiency (6, 7). Both transition mismatches (G-T and C·A) are readily recognized and repaired, whereas three of the six transversion mismatches are not (6). This pattern can account, in part, for the findings that the mutator effects observed in E. coli mutH, mutL, mutS, and mutU mutants, which are deficient in mismatch repair (refs. 28; for review, see ref. 1), and dam mutants, which have undirected mismatch repair (2, 6), are due primarily to an increase in transition and frameshift mutations (1). ",
+        "bbox": [
+            130,
+            562,
+            508,
+            700
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The fact that mutants deficient in mismatch repair show increased frequencies of frameshift mutations suggests that the E. coli mismatch repair system can recognize and repair heteroduplexes with one or more unpaired bases—i.e., frameshift/wild-type heteroduplexes. This hypothesis was tested. The results indicate that heteroduplexes with one unpaired base can be recognized and repaired by the E. coli mismatch repair system. ",
+        "bbox": [
+            130,
+            701,
+            510,
+            803
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "MATERIALS AND METHODS ",
+        "text_level": 1,
+        "bbox": [
+            209,
+            819,
+            432,
+            833
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "λ phages with sequenced frameshift mutations in the cI gene were obtained from Franklin Hutchinson (Yale University). Strand preparation and annealing, transfection conditions, and scoring procedures have been described (6). ",
+        "bbox": [
+            130,
+            840,
+            510,
+            890
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/956ebe6732ae8e9cbf7dc512b573625fd54618a3a15ae16e90b189791cb4ddf1.jpg",
+        "image_caption": [
+            "FIG. 1. DNA sequence of the cI gene in the region of the three sequenced frameshift mutations used in this study. Numbers indicate the number of bases from the start of the $\\pmb { c } \\mathbf { I }$ promoter for rightward transcription (11). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            591,
+            247,
+            869,
+            367
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Unmethylated DNA is prepared from phages grown in dam (deficient in adenine methylation) bacteria, GM33 (9). Fully methylated DNA is prepared from phages grown in a methylase overproducer strain (10) [the GATC sequences in λ DNA prepared from phages grown in wild-type $\\pmb { { \\cal E } }$ coli are only about $7 5 \\%$ methylated (2)]. ",
+        "bbox": [
+            543,
+            447,
+            925,
+            522
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RESULTS AND DISCUSSION ",
+        "text_level": 1,
+        "bbox": [
+            626,
+            538,
+            842,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "When single strands of DNA from wild-type and frameshift mutant phages are annealed, the resulting heteroduplexes contain one or more unpaired bases. If the frameshift is of the $^ { + 1 }$ addition type, a single unpaired base will be present on the mutant strand. If the frameshift is of the $^ { - 1 }$ deletion type, a single unpaired base will be present on the wild-type strand. In other words, $^ { + 1 }$ addition frameshift/wild-type heteroduplexes and $^ { - 1 }$ deletion/wild-type heteroduplexes are structurally equivalent and differ only with respect to the genotype of the strand with an unpaired base. Each frameshift/wild-type pair of DNAs will form two heteroduplexes that differ only with respect to the unpaired base. Thus, by annealing separated strands of DNA from wild-type bacteriophage λ with separated strands of DNA from phages with addition frameshift mutations, one $+ 1 \\ : { \\bf G } { \\cdot } { \\bf C }$ and one $+ 1$ A·T, it has been possible to form individual heteroduplexes with single unpaired bases of the four different kinds (Fig. 1; Table 1, lines 14). ",
+        "bbox": [
+            545,
+            559,
+            926,
+            780
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Repair of unmethylated frameshift/wild-type heteroduplexes is relatively efficient, as judged by the small fraction of mixed infective centers—i.e., those yielding phages of both clear $( c \\mathbf { I } )$ and turbid $( c ^ { + } )$ genotypes, obtained from transfections of wild-type bacteria relative to transfections of mismatch repair-deficient (mutL) bacteria (Table 1, lines 14; see ref. 6). The extent of the repair is comparable to that observed for heteroduplexes with single base-pair mismatches (6) and much greater than that observed for heteroduplexes with a large (800-base-pair) single-stranded loop (ref. 3; unpublished data). As was observed for single base-pair mismatches (6), there is a consistent, but unexplained, bias in favor of L-strand genotypes among pure infective centers—i.e., those infective centers yielding only $\\pmb { c } \\mathbf { I }$ or $c ^ { + }$ phages. ",
+        "bbox": [
+            546,
+            781,
+            928,
+            940
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/c9664abcc868813743c2f21e5bc4d2630c523b269e2c997a517ab1d96dacd8c8.jpg",
+        "table_caption": [
+            "Table 1. Genetic analysis of infective centers derived from heteroduplexes with single unpaired bases "
+        ],
+        "table_footnote": [
+            "Wild-type cells are E. coli C600 (see ref. 6), and MutL cells are $\\pmb { \\cal E }$ coli C600 mutL (mut-211):Tn5 constructed by P1 transduction from ES 1293 (12). DNA strands are unmethylated unless otherwise indicated $( \\tt m e ^ { + } )$ . p ort heteroduplexes have shown that snglenpaired bases can be ether intrar extrahelical (13, 4). Preliminary results obtained from transfections with these heteroduplexes (3) could not be confirmed. ‡Mutant strands of these heteroduplexes have a (G·C) deletion frameshift. "
+        ],
+        "bbox": [
+            158,
+            86,
+            848,
+            702
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            103,
+            790,
+            484,
+            816
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To confirm that the genotype of the strand with the unpaired base does not somehow influence mismatch repair, frameshift/wild-type heteroduplexes were prepared using $^ { - 1 }$ deletion frameshift DNA. The results of transfections with these heteroduplexes (Table 1, lines 3 and 4) are indistinguishable from those obtained from transfections with $+ 1$ addition frameshift/wild-type heteroduplexes. ",
+        "bbox": [
+            104,
+            816,
+            484,
+            900
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To mimic more closely the situation in which mismatch repair is believed to operate in vivo—i.e., in hemimethylated DNA immediately behind the replication fork (1)— heteroduplexes were prepared in which one strand was methylated and the other was not (Table 1, lines 710). Repair of frameshift/wild-type heteroduplexes occurs in hemimethylated DNA and occurs preferentially, if not exclusively, on unmethylated strands. Repair is greatly reduced when both strands are methylated (Table 1, lines 11 and 12). ",
+        "bbox": [
+            104,
+            900,
+            486,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            521,
+            791,
+            903,
+            863
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The $\\pmb { { \\cal E } }$ , coli mismatch repair system appears to recognize and repair heteroduplexes with single unpaired bases no less efficiently than it recognizes and repairs heteroduplexes with repairable single base-pair mismatches. Because the repair is methyl-directed, the repair system can presumably act on newly synthesized DNA strands to remove replication errors ",
+        "bbox": [
+            521,
+            864,
+            903,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genetics: Dohet et al. ",
+        "text_level": 1,
+        "bbox": [
+            179,
+            53,
+            324,
+            65
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "involving the insertion or deletion of a single base. It may also be possible for the $E$ coli mismatch repair system to recognize and repair heteroduplexes with somewhat larger unpaired regions (2 or 3 bases). However, the finding that a large unpaired region (800 base pairs) is not repaired by the $\\pmb { { \\cal E } }$ coli mismatch repair system (ref. 3; unpublished data) suggests that there is a maximum-sized unpaired region that the system can recognize as a mismatch. Further experiments are required to determine what that size is. ",
+        "bbox": [
+            124,
+            81,
+            503,
+            194
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The sequenced mutants used in this study were provided by Dr. F. Hutchinson. R.W. was supported by senior fellowships from the Association pour la Recherche sur le Cancer (A.R.C.) and the Ligue Nationale Française contre le Cancer. This work was supported by the Centre National de la Recherche Scientifique and by grants from the Ligue Nationale Française contre le Cancer and the A.R.C. ",
+        "bbox": [
+            125,
+            200,
+            503,
+            267
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Radman, R. & Wagner, R. (1984) Curr. Top. Microbiol. Immunol. 108, 2328.   \n2. Pukkila, P. J., Peterson, J., Herman, G., Modrich, P. & Meselson, M. (1983) Genetics 104, 571582.   \n3. Wagner, R., Dohet, C., Jones, M., Doutriaux, M.-P., Hutchinson, F. & Radman, M. (1985) Cold Spring Harbor Symp. Quant. Biol. 49, 611615.   \n4. Wagner, R. & Meselson, M. (1976) Proc. Natl. Acad. Sci. USA 73, 41354139.   \n5. Radman, M., Wagner, R., Glickman, B. W. & Meselson, M. (1980) in Progress in Environmental Mutagenesis, ed. Alacevic, M. (Elsevier, Amsterdam), pp. 121130.   \n6. Dohet, C., Wagner, R. & Radman, M. (1985) Proc. Natl. Acad. Sci. USA 82, 503505.   \n7. Kramer, B., Kramer, W. & Fritz, H.-J. (1984) Cell 38, 879887.   \n8. Glickman, B. W. & Radman, M. (1980) Proc. Natl. Acad. Sci. USA 77, 10631067.   \n9. Marinus, M. G. & Morris, N. R. (1975) Mutat. Res. 28, 1526.   \n10. Herman, G.E. & Modrich, P. (1981) J. Bacteriol. 145, 644646.   \n11. Sauer, R. T. (1978) Nature (London) 276, 301302.   \n12. Siegel, E. C., Wain, S. L., Meltzer, S. F., Binion, M. L. & Steinberg, J. L. (1982) Mutat. Res. 93, 2533.   \n13. Morden, K. M., Chu, Y. G., Martin, F. H. & Tinoco, I., Jr. (1983) Biochemistry 22, 55575563.   \n14. Pardi, A., Morden, K. M., Patel, D. J. & Tinoco, I., Jr. (1982) Biochemistry 21, 65676574. ",
+        "bbox": [
+            130,
+            274,
+            505,
+            331
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            543,
+            81,
+            923,
+            330
+        ],
+        "page_idx": 2
+    }
+]

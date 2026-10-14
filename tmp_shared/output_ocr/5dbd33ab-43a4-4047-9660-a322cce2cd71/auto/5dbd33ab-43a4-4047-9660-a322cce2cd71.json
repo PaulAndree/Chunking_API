@@ -1,0 +1,344 @@
+[
+    {
+        "type": "text",
+        "text": "Delaying Aging, Disease and Death ",
+        "text_level": 1,
+        "bbox": [
+            297,
+            99,
+            700,
+            123
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Miroslav Radman and Robert E. Wagner ",
+        "bbox": [
+            328,
+            162,
+            671,
+            181
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "“But in this world nothing can be said to be certain, except death and taxes.” Those are the words of Ben Franklin and few would argue. However, people spend time and money trying to avoid taxes and humans have been and are currently extremely concerned about aging and increasing lifespan, particularly a healthy lifespan and, most importantly, their own. Age-related diseases, malignant and degenerative, account for about $9 0 \\%$ of all deaths in European and North American countries. It just may be that these deadly age-related diseases and even aging itself are not inevitable and can be, if not prevented, at least delayed significantly. ",
+        "bbox": [
+            76,
+            214,
+            919,
+            405
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "For years, a primary cause of aging and age-related diseases was assumed to be the accumulation of mutations in the genetic material (DNA). These mutations, which can arise either as copy errors in the replication of the DNA or from DNA damage, such as that associated with ultraviolet and ionizing radiation and some chemicals, will occasionally affect gene function thereby causing disease, such as cancer, and, ultimately, death. Clearly, the incidence of mutation in any individual could be expected to increase with age due to more DNA replications and increased exposure to DNA damaging agents. ",
+        "bbox": [
+            76,
+            421,
+            918,
+            612
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "There are several lines of evidence supporting the significant role of mutation in aging. Humans are diploid, which means that they carry two copies of nearly every gene, one derived from the mother and one from the father. It is, generally, possible to function normally with only a single functioning copy of most genes, such that an individual with a disease causing mutation in one copy of a gene would not be expected to be afflicted with that disease if the other copy of the gene was functioning normally. However, such an individual might be more likely to develop that disease later in life by having a mutation arise in the good copy as a result of DNA damage or a replication error. For example, predispositions to several cancers have been found to be associated with mutations in specific genes and those who carry such mutations in one copy of the gene are far more susceptible to developing cancer than are those who are born with two normal copies of the same gene. ",
+        "bbox": [
+            76,
+            626,
+            919,
+            933
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Genetic susceptibility to disease has been a driving force in directing biomedical research and research on aging. Many grants have been given to look for gene variants (mutations) responsible for a plethora of diseases and many candidate genes have been identified. For individual diseases this approach may be justified, although identifying the causative gene variant is frequently only the first step in a long and challenging process to find a cure for the disease. ",
+        "bbox": [
+            78,
+            44,
+            890,
+            205
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "More recently, compelling evidence has been obtained suggesting that the primary cause of aging and age-related diseases may not be DNA mutation, but rather protein damage. Proteins are the products of genes, but, most importantly, proteins perform and control all life functions, including the synthesis, maintenance and repair of DNA, RNA, proteins and all other cellular constituents. Damage to proteins, therefore, can directly affect every aspect of life. It is not at all difficult to imagine how damage to proteins involved with DNA replication or repair might prevent these specialized proteins from acting or make their action less robust or accurate, and could lead to an increase in mutations, such as those mutations responsible for gene regulation and leading to cancer. Thus, mutations might be only a secondary contributor to aging and much disease and not the primary cause. ",
+        "bbox": [
+            76,
+            220,
+            916,
+            498
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To what sort of damage might proteins be susceptible? It turns out that the damage that appears most to affect protein function and, therefore, aging, is oxidation, a consequence of aerobic living (i.e., requiring oxygen to produce energy in cells). Oxidation is what causes much corrosion, such as rust on iron and rancid butter. ",
+        "bbox": [
+            78,
+            513,
+            919,
+            619
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Before going deeper into the process of protein oxidation, it will be helpful to think a bit about protein structure. Proteins are long chains of amino acids held together by chemical bonds. Think of beads on a wire. (There are twenty different amino acids found in human proteins, usually several hundred in a protein, in different orders and in different numbers. Proteins are coded for by DNA (genes) with each amino acid being coded for by a set of three nucleotides (triplets) in the DNA.) ",
+        "bbox": [
+            78,
+            633,
+            900,
+            796
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "What is important for this discussion is that, in proteins, some amino acids are particularly sensitive to oxidative damage of different kinds, most of which can be reverted or repaired. One type of oxidative damage, known as carbonylation, is irreversible. The only way for a cell to get rid of a dysfunctional or toxic carbonylated protein is to dispose of the entire protein (by cellular garbage disposal machine called proteasome). Protein oxidation is generally caused by things known as “reactive oxygen species” (ROS) which are generally metabolic byproducts, that play roles in cell signaling and homeostasis and include peroxides, superoxide, hydroxyl radical, and singlet oxygen. If proteins are the targets for the process of aging, the sensitive amino acids are the bullseyes and ROS are the arrows. ",
+        "bbox": [
+            76,
+            811,
+            915,
+            946
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            45,
+            910,
+            148
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Evolution has, in general, created proteins wherein the targets, particularly targets for carbonylation, are as unavailable as possible to the ROS arrows. Remember that proteins are linear strands of amino acids. However, protein function is largely determined by what is known as secondary structure, i.e., that linear wire with beads is bent and twisted into complex structures, each specific for the particular protein, and it is this secondary structure that allows amino acids from distant portions of the chain to interact to create active sites for enzymatic and other activities. If the oxidation sensitive amino acids are hidden on the inside of this secondary structure, they are largely protected from ROS and that is where evolution tends, wherever possible, to put them. ",
+        "bbox": [
+            76,
+            164,
+            916,
+            412
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Predisposition to some human diseases has been linked to changes in proteins that make them more sensitive to oxidation. For example, mistakes causing amino acid substitutions in proteins can put easily oxidizable amino acids where they are more accessible to the ROS “arrows,” or make small changes in the protein structure that may not affect function, but can change susceptibility to oxidation, i.e., changes that can make the protein a larger ROS target. In both amyotrophic lateral sclerosis (ALS, also known as Lou Gehrig’s disease) and Parkinson’s disease variants of particular genes have been identified which predispose to the diseases and make the proteins for which they code more susceptible to oxidation. The susceptibility to oxidation and the extent of oxidation of these proteins have been shown to correlate with the age of onset and degree of disease severity. ",
+        "bbox": [
+            76,
+            428,
+            911,
+            704
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Thus, the function of any protein, including those already identified as associated with aging and/or disease, can be altered or destroyed either by alteration (mutation) in the gene coding for that protein (in inborn syndromes), or by accumulating damage (oxidation) to proteins (in aging), or by the combination of both, such as a benign mutation increasing protein susceptibility to damage (in predisposition to disease). ",
+        "bbox": [
+            78,
+            719,
+            919,
+            853
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Susceptibility to infection is not generally considered an age-related “disease,” but normally increases with age. Thus, it may be that oxidation of proteins plays an important role in the loss of resistance to infectious disease in that it may damage and/or reduce the synthesis or ",
+        "bbox": [
+            78,
+            869,
+            908,
+            946
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "effectiveness of key protein elements of the immune system. The fact that many infectious diseases, including flu, pneumonia, and COVID-19, more seriously affect older people, may be yet another consequence of protein oxidation. ",
+        "bbox": [
+            78,
+            44,
+            913,
+            121
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In addition, misfolded oxidized proteins can be “sticky” and, if not removed, can form the aggregates regularly seen in cells of patients with degenerative diseases such as Alzheimer’s. Small aggregates can form pore or donut-like structures in biological membranes and prove toxic to cells. It may be that most age-related degenerative diseases caused by loss of cell mass including neurodegenerative, muscular, cardiovascular and metabolic diseases (diabetes) may be caused by the persistence and ultimate toxicity of oxidized proteins in a variety of cell types. ALS, Parkinson’s, Alzheimer’s and even diabetes (type 2) may well be models for all age-related degenerative diseases, as well as the reduction of resistance to infectious disease, and aging in general. Protein oxidation occurs, at varying rates, in a large number of proteins. One way to think of aging might be to imagine these proteins as archery targets. There would be hundreds, perhaps thousands of these targets in a field that is the human proteome (set of all human proteins) and the size of the bullseyes in these targets would depend on their ease of oxidation, i.e., their susceptibility to the ROS arrows that cause oxidation. Genetic alterations, such as those responsible for the increased predispositions to diseases as ALS and Parkinson’s, can increase the size of the bullseyes. ",
+        "bbox": [
+            75,
+            136,
+            918,
+            563
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Given that, as indicated above, malignant and degenerative age-related diseases account for about $9 0 \\%$ of deaths in European and North American countries, it is not surprising that over the last decades there has been a monumental world-wide investment (trillions of dollars, engaging millions of MDs, PhDs and technicians) in mission-oriented research to mitigate deadly agerelated diseases. Yet, they remain incurable. The focus of these efforts has tended to be on single diseases. Thinking in terms of our target/arrow analogy, research has focused on individual targets, identifying gene variants associated with specific diseases or predispositions to specific diseases (targets) and then seeks to find ways to undo, mask or overcome the damage, i.e., research attempts to find ways to cover or reduce the size of the bullseye. Such an approach has, thus far, proven generally unsuccessful and, given the scope of the problem, i.e., the number of targets that must be addressed to have any hope of affecting aging in general, it seems unlikely to have a significant probability of ever succeeding. ",
+        "bbox": [
+            76,
+            577,
+            916,
+            911
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "It should perhaps not be surprising that the results of studies of sick people teach little or nothing useful about the cause and mitigation of diseases. They can, at best, reveal only proximal causes or consequences of diseases (often referred to as biomarkers). There seems little reason to expect that targeting of drugs to such biomarkers, which are generally not the cause and, most likely, are downstream of the initiation of the disease, can reverse the disease. Such “smart drugs,” although they have not worked and probably should not work successfully, and may cause painful secondary effects, are still a key (perhaps the key) strategy of much pharmaceutical research. A potentially more successful approach might be to try to find a way to block all the arrows and/or to protect all the targets with a single “shield.” Therefore, instead of studying millions of sick people, a more productive approach might be to study healthy centenarians, particularly those with bad habits and risky lifestyles. Their biology could teach what it takes to become resistant simultaneously to all of what may be hundreds of age-related malignant and degenerative diseases and dysfunctions. It may be that these people possess some sort of shield which manages to protect all their protein targets from the ROS arrows. Additional evidence for the existence of such a shield in long-lived humans might be found if studies of the genomes of such people were to show that they contain as many sequences coding for ROS targets as people living much shorter lives including those mutations which normally predispose to some agerelated diseases. ",
+        "bbox": [
+            75,
+            41,
+            921,
+            558
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "It might seem reasonable to ask, given what was said above, why evolution hasn’t simply put all the sensitive amino acids inside protein structures to shield them in that way from the ROS arrows. Well, for many proteins it might be impossible to make such changes without losing their function. There are additional problems with respect to that solution. First, proteins are synthesized (on ribosomes) as linear polymers of amino acids and, while being synthesized (i.e., before folding into their final structure), can be highly susceptible to oxidation. Second, protein structures can “breathe,” meaning that they can relax their secondary (protective) structure and create opportunities for ROS to attack susceptible amino acids. It should also be noted that, while speeding up protein synthesis and thus minimizing the time the protein is linear (and, therefore, a target for oxidation) might seem a good idea, it turns out, not surprisingly, that haste does make waste in this case. Speeding up protein synthesis dramatically increases the error rate, i.e., the insertion of incorrect amino acids. Nature has apparently found a sweet spot between oxidation sensitivity and biosynthetic error rate. ",
+        "bbox": [
+            76,
+            570,
+            919,
+            933
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In addition to centenarians, nature has provided other examples of organisms that appear to have good shields to protect their proteins. The bacterium, Deinococcus radiodurans, is extremely resistant to radiation (hence its name) and is even listed in The Guinness Book of World Records as the world’s toughest bacterium. Radiation damages DNA and produces ROS. It was originally imagined that Deinococcus somehow protected its DNA better than any other organism, but it has been conclusively demonstrated that what makes Deinococcus so tough is that it protects its proteins and it appears that this protection is conferred by a shield comprised of small molecules (more about them later). When proteins from a radiation sensitive bacterium (E. coli) are produced in Deinococcus, they show far lower levels of radiation induced oxidation than when produced in their native E. coli and when Deinococcus proteins are produced in E. coli, they appear as sensitive to oxidation as E. coli proteins, suggesting that it is not something unusual about the individual proteins themselves that confers oxidation resistance and gives support to the idea that Deinococcus possess a shield of some sort which protects all proteins from ROS. ",
+        "bbox": [
+            76,
+            45,
+            915,
+            435
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Somewhat up the evolutionary scale, bdelloid rotifers, microscopic, multicellular, fresh water dwelling animals, resemble Dienococcus in their extreme radiation resistance and the protection of their proteins from oxidation such that they may also possess a similar shield. Among mammals, naked mole rats appear also to have a shield against protein damage and aging, living many times longer than other rodents, free of cancer and generally showing no normal signs of aging. More about naked mole rats later. ",
+        "bbox": [
+            76,
+            449,
+            916,
+            611
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Centenarians may be the human equivalent of Deinoccocus, bdelloid rotifers or naked mole rats and they raise the obvious question of: Why isn’t our entire species centenarian? The answer is probably that, unlike those other species, humans cannot reproduce for their entire life and the reproductive lifespan of centenarians is not significantly different from that of non-centenarian humans. While it might be understandable that evolution would select for somewhat extended non-reproductive lifespan in a species where the offspring are helpless for a relatively long period of time such that two generations of caregivers might be advantageous, a third generation or even an aged second generation may well be too costly in terms of resource utilization to be advantageous evolutionarily. Therefore, it is not likely that there is any positive selection for extra long life in humans. However, the optimistic reality is that centenarians do exist and it is highly unlikely, particularly in the absence of selection, that the increasing number of still rare centenarians is due to chance assembly in single genomes of genetic resistances to each of hundreds of deadly diseases. It is far more likely that diverse age-related diseases – malignant, degenerative and even infectious - share a common cause, or few common causes that are controlled in centenarians. If the mechanism by which this control is accomplished can be discovered, i.e., if the shield centenarians possess to protect their proteins can be identified, it may be possible to find ways to mitigate simultaneously all age-related diseases and extend the lives of most humans. ",
+        "bbox": [
+            76,
+            627,
+            915,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            44,
+            898,
+            234
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "What is the nature of the shield found in centenarians and the species discussed above? Given that oxidation is the damage that appears to need to be prevented to increase lifespan, it is not surprising that antioxidants have been widely studied for decades and even touted as life-saving compounds. Unfortunately, recent research suggests that one class of oxidants that can be reduced by antioxidants, namely free radicals, became important for other cellular functions and antioxidants can reduce those important actions and actually reduce lifespan. So while some antioxidants may be useful in preventing some protein oxidation by removing some ROS, they are apparently not the primary component of the shield that can to increase lifespan. ",
+        "bbox": [
+            76,
+            250,
+            919,
+            469
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Another class of molecules currently gaining favor as key components of the ROS shield are protein molecules known as “chaperones” (like the experienced ladies in French courts watching over the virginity of noble young girls). Chaperone proteins assist in folding of other proteins, thus helping to ensure proper secondary structure and minimizing access of ROS to unfolded proteins. In addition, it has been shown that numerous silent mutations (polymorphisms) in proteins are “silent”, i.e., without consequence, because of the activity of chaperones. Thus, chaperones are the doctors of other proteins that are “sick” by virtue of being misfolded due to a benign mutation or to a random mistake in their production. Oxidation of a protein destabilized by such a silent mutation can irreversibly paralyze the aberrant protein structure leading the protein to malfunction, or worse, to convert to a toxic function that can kill cells and cause degenerative disease. However, if a chaperone gets to a misfolded protein before it is oxidized, it can correct its structure to a normal oxidation-resistant state. Thus, in acting upon misfolded proteins, refolding by chaperones and oxidation by ROS are competitive antagonists – who comes first wins. Naked mole rats have high levels of chaperone proteins, which are believed to contribute significantly to their longevity. ",
+        "bbox": [
+            76,
+            484,
+            916,
+            905
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Other smaller molecules, called chemical chaperones, can also act to protect proteins either by binding to and preventing oxidation of sensitive amino acids, assisting in proper folding or preventing improper action of a misfolded or oxidized protein. These molecules may be key components of the shield. ",
+        "bbox": [
+            78,
+            44,
+            892,
+            150
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Given all the evidence described above, it is reasonable to ask why more research dollars are not being spent to study centenarians to see what makes their lifespan so long and so healthy. The answer may be that traditions and established paradigms of research and research funding are as hard to change as cultural traditions. The desire to find the gene variant or mutation responsible for some disease is an attractive research goal, involves well established protocols of examining the genomes of affected individuals, and offers the promise, or at least the hope, that to identify the cause at the DNA level can lead to a cure. Such an approach is probably the only way to deal with syndromes, i.e., those conditions that are caused by protein malfunction as a direct consequence of a gene mutation or by absence of gene function, and are, therefore, present at birth or even prenatally. ",
+        "bbox": [
+            76,
+            164,
+            915,
+            441
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "However, age-related diseases are, by definition, not seen until later in life and are defined genetically, when they are the consequence of gene variants, as predispositions. Thus, the function of any protein, including those identified as being associated with aging and/or disease, can be destroyed or altered either by mutation in the gene coding for such protein (in syndromes), or by accumulating damage to that protein (oxidation) over time (in aging) or by the combination of both as when a benign mutation increases protein susceptibility to damage (in predisposition to disease). ",
+        "bbox": [
+            78,
+            457,
+            915,
+            647
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The thesis presented here is that age-related diseases, increased susceptibility to infectious diseases, and aging in general are the consequence of protein “corrosion” by oxidation and that genetic predispositions reflect gene alterations that render proteins more susceptible to oxidation. Healthy centenarians (as well as Deinococcus radiodurans, bdelloid rotifers and naked mole rats) are evidence that there must be a naturally occurring way to reduce or even prevent protein oxidation. To reuse the metaphor that has been used throughout this text, there must be some shield that blocks the arrows (reactive oxygen species - ROS) that are bent on targeting the proteins the functions of which are essential to preventing age-related diseases and extending life. Finding and understanding this shield and exploring ways to enhance the shielding must become a major, if not the major, focus of research into the mechanism and control of aging and disease. Success could well mean a revolution in public health and economy (how productive can be young centenarians?) by virtue of increased healthy lifespan for most humans. ",
+        "bbox": [
+            76,
+            661,
+            918,
+            940
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            78,
+            44,
+            885,
+            93
+        ],
+        "page_idx": 8
+    }
+]

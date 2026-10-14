@@ -1,0 +1,444 @@
+# Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey
+
+Aoran $\mathbf { G A N ^ { 1 } }$ , Hao $\mathbf { Y U } ^ { 2 }$ , Kai ZHANG1, Qi $\mathbf { L I U } ( \boxtimes )$ , Wenyu $\mathbf { Y A N }$ , Zhenya HUANG1, Shiwei TONG3, Enhong CHEN1, Guoping $\mathbf { H } \mathbf { U } \cdot \mathbf { \partial }$
+
+1 State Key Laboratory of Cognitive Intelligence, University of Science and Technology of China, Hefei, China 2 McGill University, Montreal, Canada 3 Tencent Company, Shenzhen, China 4 Artificial Intelligence Research Institute, iFLYTEK Co., Ltd, Hefei, China
+
+$^ { © }$ Higher Education Press 2025
+
+Abstract Recent advancements in Retrieval-Augmented Ge eration (RAG) have revolutionized natural language processing by integrating Large Language Models (LLMs) with external information retrieval, enabling accurate, up-to-date, and verifiable text generation across diverse applications. However, evaluating RAG systems presents unique challenges due to their hybrid architecture that combines retrieval and generation components, as well as their dependence on dynamic knowledge sources in the LLM era. In response, this paper provides a comprehensive survey of RAG evaluation methods and frameworks, systematically reviewing traditional and emerging evaluation approaches, for system performance, factual accuracy, safety, and computational efficiency in the LLM era. We also compile and categorize the RAG-specific datasets and evaluation frameworks, conducting a meta-analysis of evaluation practices in high-impact RAG research. To the best of our knowledge, this work represents the most comprehensive survey for RAG evaluation, bridging traditional and LLM-driven methods, and serves as a critical resource for advancing RAG development.
+
+Keywords Retrieval Augmented Generation, System Evaluation, Large Language Model
+
+# 1 Introduction
+
+Retrieval Augmented Generation (RAG) has emerged as a powerful methodology that enhances natural language generation by incorporating information from external knowledge.
+
+This approach significantly improves Large Language Models through non-parametric learning, multi-source knowledge integration, and specialized domain adaptation [1, 2]. By connecting LLMs with external databases, RAG produces responses that are both contextually appropriate and grounded in authoritative, up-to-date information, marking a substantial advancement in developing more sophisticated natural language processing (NLP) systems [3, 4].
+
+As a sophisticated and expansive system that encompasses numerous elements from both the LLM and retrieval domains, RAG can be approximately segmented into two principal sections from a macroscopic viewpoint: retrieval and generation. The retrieval section typically entails diverse operations including preprocessing, dense or sparse retrieval, reranking and pruning, etc [5, 6]. The generation section comprises components such as retrieval planning, the integration of multi-source knowledge, and logical reasoning [7, 8]. Additionally, RAG systems incorporate interconnected upstream and downstream elements such as document chunking, embedding generation, and mechanisms for ensuring security and credibility [9]. The overall performance of RAG systems depends not only on each individual component but also on their interactions and integrated functionality.
+
+When faced with such complex systems, a fundamental and practical question arises regarding the evaluation framework for assessing the efficacy of architectural methodologies governing both the holistic system and its constituent components. This challenge proves particularly pronounced in RAG systems, where three factors - the expansive scope of implementation domains, the heterogeneity of internal components, and the dynamic progression of current developments - collectively render the establishment of a unified systematic evaluation paradigm an ongoing research frontier. In response to this, we conducted this survey on RAG Evaluation to gather methods for multi-scale assessment of RAG in recent years. The comprehensiveness of this survey is demonstrated in four aspects: 1) Systematic completeness, encompassing both the evaluation of RAG’s internal components and the system as a whole; 2) Methodological variety, including both traditional statistically-based evaluation metrics and the innovative methods characteristic of the LLM era; 3) Source diversity, incorporating both structured evaluation frameworks, as well as cutting-edge methods scattered across various papers; and 4) Practicality, both in terms of metrics’ definition to be evaluated and their subsequent application. Through this multi-dimensional approach, we aim to provide researchers and practitioners with a comprehensive toolkit for evaluating and improving RAG systems.
+
+The remainder of this paper is organized as follows: Section 2 offers a concise review of the existing LLM-based RAG system to provide the reader with relevant background knowledge. Our comprehensive evaluation is divided into two distinct sections: Internal Evaluation (Section 3) and External Evaluation (Section 4). Internal Evaluation assesses component level performance and methodology-specific metrics within basic RAG systems, focusing on technical advancement. External evaluation examines system-wide factors like safety and efficiency, emphasizing practical viability. We pay particular attention to the emerging trend of LLM-based evaluation methods, which represent a novel assessment approach unique to the current era. Section 5 presents existing RAG evaluation frameworks, datasets, and methods, providing a practical resource for researchers. Furthermore, we compiled a comprehensive collection of high-level RAG studies spanning multiple dimensions in recent years, and conducted a preliminary analysis and discussion from the perspective of evaluation (Section 6).
+
+# 2 Background
+
+# 2.1 Large Language Model (LLM)
+
+Large Language Models, with billions of parameters, are a class of generative neural language models trained on extensive natural language data [10, 11]. Due to the wide coverage of the training corpus, LLMs are considered to implicitly integrate world knowledge [12]. LLMs are capable of adhering to human instructions or requests though instruction tuning, thus being able to effectively understand and generate human-like text [13]. Its generalization open up a wide range of applications, such as NLP, signal processing, and recommender systems [14, 15]. However, LLM’s capability remains circumscribed by their training data. It is sometimes predisposed to generating factually inconsistent outputs (hallucinations), particularly when processing novel information beyond training data [16]. Despite the adaptability of LLMs to diverse downstream tasks through post-training or fine-tuning on specific datasets, these methods encounter challenges related to arithmetic, timeliness, flexibility, or usability (on close models). Optimization techniques during the LLM inference phase have thus garnered significant attention. One of the representative techniques is Prompt Engineering, in which artificially constructed task descriptions and commands are used to enhance LLMs’ understanding of task objectives. In-context learning is designed to enable LLMs to analyze patterns and generalize from task samples, offering substantial advantages in few-shot scenarios [17,18]. Unlike these approaches, RAG aims to address the issue of knowledge limitations inherent in LLM by incorporating external knowledge. Both LLM and RAG possess complementary strengths: RAG can effectively leverage the superior reasoning capabilities of LLMs, combined with the broad knowledge scope of external data, to explore the potential applications of LLMs more extensively [19]. On the other hand, LLMs can serve as crucial components in RAG, functioning as the decision maker, reasoner, generator, or even evaluating certain aspects of RAG [20, 21].
+
+# 2.2 Retrieval Augmented Generation (RAG)
+
+RAG is a technical framework that enhances NLP systems by integrating external knowledge retrieval, whose core innovation enables extra non-parametric optimization of parameterfixed neural language models after training, effectively expanding their operational domains while maintaining architectural stability [22]. Prior to the widespread adoption of LLM, scholarly investigations had already established methods for enhancing NLP tasks through external knowledge infusion [23]. Initial researches on RAG adhered to an elementary indexing and reading paradigm [24, 25]. Later formulations delineated two core components: (1) the retriever, which identifies, indexes, filters, and structures relevant knowl edge fragments from external data sources; (2) the generator, which synthesizes the curated segments through analysis and logical reasoning to produce outputs [9]. Figure 1 shows the workflow of an RAG system with recommendations of components implementation using LLMs at present. We provide a concise description of each module’s process below.
+
+The retrieval component of RAG systems is inspired by the retrieval technologies in multiple domains, such as information retrieval [26], open-domain question answering [27], and recommender systems [28, 29]. Before the retrieval, it is necessary to construct a suitable corpus for the retrieval component at the beginning. The sources of data are diverse, such as domain-specific datasets like Wikipedia, specialized corpora (e.g., scientific articles, financial reports) [30], or realtime data gathered from web scraping or search engines [31]. The corpus is subsequently filtered and preprocessed to conform to the retrieval-friendly structure via offline chunking and embedding. Chunking involves segmenting large documents into smaller, more manageable units guided by the original structure or context information [32–34]. Embedding (or text vectorization) aims to represent the textual content in a high-dimensional, dense semantic space for efficient retrieval computation [5, 35].
+
+  
+Fig. 1 The workflow of the RAG system and component implementation in the LLM era.
+
+Typically, RAG assessments convert the task into a conversational format of Question Answering (QA) comprising question and the ground-true answers with doc candidates [36, 37]. In the online RAG workflow, some additional components are introduced before the retrieval, such like intent recognition, query rewriting and routing [38]. The retriever then indexes document collections from the data source. In this core step, multiple retrieval strategies can be employed, including sparse retrieval, dense retrieval, graph retrieval or hybrid methods [6, 39]. Certain systems conduct additional dynamic searches through search engines, typically found in commercialized products. Some systems may introduce an extra post-retrieval step to rerank the documents or fuse the data scross different sources [7,40]. In the generation pipeline, the responding progress based on the relevant documents is assigned to the LLM, which serves primarily as a decisionmaker or reasoner [8]. Instead of generating knowledge independently, the LLM synthesizes retrieved information to form coherent responses, thereby reducing the risk of internal hallucination. Additionally, a range of methods of prompt engineering are available, including CoT [18], ToT [41], SelfNote [42] and RaR [43], etc. Depending on the specific task and expected output, a post-processing step may be required after the knowledge-oriented response, such as Entity Recognition for multi-choice questions or classification task, and the translation component for multilingual task. Moreover, the utility of the model’s application is a point of concern, particularly regarding safety and efficiency [44].
+
+# 2.3 Related Surveys
+
+Li et al. [23] summerrized and formalized the key definitions of RAG while providing a synthesis of early-stage methodologies and practical applications. Expanding the scope beyond NLP, Zhao et al. [45] traced the developmental trajectory of multimodal RAG across the broader AIGC landscape. The emergence of LLM has since triggered an accelerated development of RAG methods, with numerous survey papers emerging to document this growing research domain [1,9,19, 20, 46]. Current researches mainly focus on collecting methods or applications, but lack substantive discussion about systematic evaluation mechanisms. While Yu et al. [21] provided an initial review outlining conceptual approaches for RAG evaluation, their analysis was predominantly confined to mainstream the frameworks, offering limited insights into emerging assessment methods applicable to diverse contexts. Building upon previois foundational work, this comprehensive survey extends beyond these limitations, offering deeper insights into emerging evaluation methods.
+
+This study extends the research [21] by incorporating a broader array of RAG evaluation methods within a systems theory context. We differentiate between internal and external evaluations: the former examines the RAG component assessments and their interactive processes within the system architecture, while the latter focuses on holistic system evaluation and environmental considerations, where environment specifically denotes the external tasks or particular evaluation contexts. We extend our horizons beyond collecting conceptual definitions of evaluation methods to exploring and analyzing their practical application in the actual RAG studies. Simultaneously, we focuses on RAG evaluation in LLM contexts, prioritizing unstructured text retrieval as the prevailing paradigm. Domain-specific variants of RAG evaluation (e.g., knowledge graph, multimodal retrieval) are excluded due to fundamental architectural gaps. Unless otherwise indicated, all the ‘RAG’ hereafter pertain to the narrow operational training-free framework employing unstructured documents as external knowledge resources.
+
+# 3 Internal Evaluation
+
+In this section, we summarize and organize the evaluations of the internal components with their interactions within a RAG system from prior studies. We deconstruct the evaluation of a whole RAG system, focusing on internal component interactions. A range of evaluation approaches are then introduced, from traditional to new ones. The elements mentioned and the implication of internal evaluation point to a framework for evaluating the strengths of the RAG system’s core functionality, that is, generating accurate and credible output.
+
+# 3.1 Evaluation Target
+
+The diverse components of the RAG system can be boiled down to solving two core problems: the retrieval of the ground truth, and the generation of the response that closely aligns with the gold answer. They correspond to the respective evaluation objectives of the retrieval and generation modules.
+
+Figure 2 summarizes the evaluation targets of the retrieval and generation component. The retrieval component includes two main stages, recall and ranking. The outputs, relevant documents, for both are similar to evaluate. Then we can construct several pairwise relationships for the retrieval component by defining the target as follows:
+
+Relevance (Relevant Documents $ Q u e r y )$ evaluates how well the retrieved documents match the information needed expressed in the query. It measures the precision and specificity of the retrieval process.
+
+Comprehensiveness (Relevant Documents Relevant Doc uments) evaluates the diversity and coverage of the retrieved documents. This metric assesses how well the system captures a wide range of relevant information, ensuring that the retrieved documents provide a comprehensive view of the topic according to the query.
+
+Correctness (Relevant Documents Documents Candidates) assesses how accurate the retrieved documents are in comparison to a set of candidate documents. It is a measure of the system’s ability to identify and score relevant documents higher than less relevant or irrelevant ones.
+
+The similar pairwise relations and targets for the generation component are outlined below.
+
+Relevance $( R e s p o n s e  Q u e r y )$ measures how well the generated response aligns with the intent and content of the initial query. It ensures that the response is related to the query topic and meets the query’s specific requirements.
+
+Faithfulness (Response Relevant Documents) evaluates how the generated response accurately reflects the information contained in the relevant documents and measures the consistency between the generated and source documents.
+
+Correctness (Response Sample Response) Similar to the accuracy in the retrieval component, this measures the accuracy of the generated response against a sample response, which serves as a ground truth. It checks if the response is correct in terms of factual information and appropriate in the context of the query.
+
+# 3.2 Conventional Evaluation Methods
+
+RAG is a cross-disciplinary system founded on traditional research fields including information retrieval (IR) and natural language generation (NLG). Adhering to the conventional methods of them, numerous traditional metrics are employed to evaluate the retrieval and generation of RAG as follows.
+
+# 3.2.1 IR-related Metrics
+
+The IR-related metrics refer to the indicators associated with conventional retrieval systems. These metrics are categorized into two groups based on their correlation to ranking:
+
+• Non-rank-based Metrics
+
+The non-rank-based metrics typically evaluate binary outcomes, that is, whether an item is relevant or not, without taking into account the item’s position in a ranked list.
+
+Accuracy/Hit $@ \mathbf { K }$ is the proportion of true results (both true positives and true negatives) among the cases examined.
+
+$$
+\mathrm { A c c u r a c y } = { \frac { T P + T N } { T o t a l N u m b e r } }
+$$
+
+where $T P$ is the number of true positives, $T N$ is the number of true negatives in the response.
+
+  
+Fig. 2 The evaluation target of the Retrieval and Generation component in RAG.
+
+Recall $@ \mathbf { K }$ is the portion of relevant instances that have been retrieved over the total amount of relevant cases, considering only the top $k$ results.
+
+$$
+{ \mathrm { R e c a l l } } = { \frac { | R D \cap T o p _ { k d } | } { | R D | } }
+$$
+
+where $R D$ is the relevant documents, and $T o p _ { k d }$ is the top-k retrieved documents.
+
+Precision $@ \mathbf { K }$ is the fraction of relevant instances among the retrieved instances, considering only the top $k$ results.
+
+$$
+\mathrm { P r e c i s i o n } = { \frac { T P } { T P + F P } }
+$$
+
+where $T P$ represents true positives and $F P$ represents false positives, respectively.
+
+F1 Score measures the balance between precision and recall, defined as the Harmonic Mean of the two.
+
+$$
+\mathrm { F 1 } = \frac { 2 \times { \mathrm { P r e c i s i o n } } \times \mathrm { R e c a l l } } { \mathrm { P r e c i s o n } + \mathrm { R e c a l l } }
+$$
+
+# • Rank-Based Metrics
+
+The rank-based metrics focuse on the sequential presentation of relevant items, assigning greater significance to the positioning of these items within the ranking list.
+
+MRR (Mean Reciprocal Rank) is the average of the reciprocal ranks of the first correct answer for a set of queries.
+
+$$
+M R R = \frac { 1 } { | Q | } \sum _ { i = 1 } ^ { | Q | } \frac { 1 } { r a n k _ { i } }
+$$
+
+where $| Q |$ is the number of queries and ranki is the rank position of the first relevant document for the $i \cdot$ -th query.
+
+NDCG (Normalized Discounted Cumulative Gain) accounts for the position of the relevant documents by penalizing relevant documents that appear lower in the search results [47].
+
+$$
+N D C G @ k = { \frac { D C G @ k } { I D C G @ k } }
+$$
+
+where $D C G @ k$ is the Discounted Cumulative Gain at rank $k$ and $I D C G @ k$ is the Ideal Discounted Cumulative Gain at rank $k$ , which represents the maximum possible $D C G @ k$ . $D C G @ k$ is defined as:
+
+$$
+D C G @ k = \sum _ { i = 1 } ^ { k } { \frac { 2 ^ { r e l _ { i } } - 1 } { \log _ { 2 } ( i + 1 ) } }
+$$
+
+with $r e l _ { i }$ being the graded relevance of the result at position $i$ .
+
+MAP (Mean Average Precision) is the mean of the average precision scores for each query.
+
+$$
+M A P = \frac { 1 } { | Q | } \sum _ { q = 1 } ^ { | Q | } \frac { \sum _ { k = 1 } ^ { n } ( P ( k ) \times r e l ( k ) ) } { | \mathrm { { r e l e v a n t d o c u m e n t s } } _ { q } | }
+$$
+
+where $P ( k )$ is the precision at cutoff $k$ in the list, $r e l ( k )$ is an indicator function equaling 1 if the item at rank $k$ is a relevant document in the $n$ retrieved documents, 0 otherwise.
+
+# 3.2.2 NLG-related Metrics
+
+The NLG-related metrics focus on the content of the text output, dedicated to the evaluation on the char or semantic level.
+
+EM (Exact Match) is a simple, stringent and widely-used evaluation metric that assesses the accuracy of model-generated answers compared to the ground truth. It scores as 1 if a generated answer precisely aligns with the standard otherwise 0. Typically, the responses need standardization and preprocessing (e.g., conversion to lowercase, removal of punctuation, elimination of articles, and standardization of number formats) before comparison. A general approach involves combining EM and Precision / Recall / F1 or edit distance [48,49].
+
+ROUGE (Recall-Oriented Understudy for Gisting Evaluation) [50] is a set of metrics designed to evaluate the quality of summaries by comparing them to human-generated reference summaries. ROUGE can be indicative of the content overlap between the generated text and the reference text. The variants of ROUGEs measure the overlap of n-grams (ROUGE-N, ROUGGE-W), word subsequences (ROUGE-L, ROUGGE-S), and word pairs between the system-generated summary and the reference summaries.
+
+BLEU (Bilingual Evaluation Understudy) [51] is a metric for evaluating the quality of machine-translated text against one or more reference translations. BLEU calculates the precision of n-grams in the generated text compared to the reference text and then applies a brevity penalty to discourage overly short translations. Beyond machine translation evaluation, BLEU can also be used for supervised comparison evaluation for general natural language generation. BLEU has limitations, such as not accounting for the fluency or grammaticality of the generated text.
+
+METEOR [52] is a metric designed to assess the quality of machine translation or text generation. It enhances BLEU by incorporating mechanisms like synonymization, stemming matching, and word order penalties, demonstrating a stronger correlation with results obtained from manual evaluations. METEOR is defined as:
+
+$$
+\mathbf { M E T E O R } = ( 1 - p ) \frac { ( \alpha ^ { 2 } + 1 ) \mathrm { P r e c i s i o n } \times \mathrm { R e c a l l } } { \mathbf { R e c a l l } + \alpha \mathrm { P r e c i s i o n } } ,
+$$
+
+where $\alpha$ is the balanced factor, and $p$ is the penalization factor αfor word order.
+
+BertScore [53] leverages the contextual embedding from pre-trained transformers like BERT to evaluate the semantic similarity between generated text and reference text. BertScore computes token-level similarity using contextual embedding and produces precision, recall, and F1 scores. Unlike n-grambased metrics, BertScore captures the meaning of words in context, making it more robust to paraphrasing and more sensitive to semantic equivalence. It has multiple variants, including backbone advanced pre-trained models (e.g. BERT, RoBERTa and BART) and supervised evaluation based on external classifier design.
+
+Textual Similarity measures the semantic variety in retrieved documents. It can be calculated using metrics like
+
+Intra-Document Similarity or Inter-Document Similarity, which assess the similarity between documents within a set.
+
+$$
+\mathrm { S i m i l a r i t y } = \frac { 1 } { | D | ^ { 2 } } \sum _ { i = 1 } ^ { | D | } \sum _ { j = 1 } ^ { | D | } s i m ( d _ { i } , d _ { j } )
+$$
+
+where $D$ is the set of retrieved documents, $d _ { i }$ and $d _ { j }$ are embeddings of individual documents, and $s i m ( d _ { i } , d _ { j } )$ is a simi,larity measure (e.g.,the most commonly used cosine similarity) between the two documents.
+
+Coverage measures the proportion of relevant documents retrieved from the total number of relevant documents available in the dataset. It quantifies how comprehensively the system captures all pertinent information across the corpus, across topics, categories, or entities defined by humans or in the knowledge base.
+
+$$
+\mathrm { C o v e r a g e } = \frac { | R D \cap R e t r i e \nu e d | } { | R D | }
+$$
+
+where $R D$ is the set of relevant documents and the notation Retrieved is the set of retrieved documents. The coverage can also be calculated at the group level, where the relevant documents are grouped into different categories or topics.
+
+$$
+\mathrm { C o v e r a g e } = { \frac { | { \mathrm { R e l e v a n t G r o u p s } } \cap { \mathrm { R e t r i e v e d G r o u p s } } | } { | { \mathrm { R e l e v a n t G r o u p s } } | } }
+$$
+
+Perplexity (PPL) gauges a language model’s predictive prowess, illustrating its level of uncertainty concerning test data. Essentially, it is an exponential variation of cross-entropy, quantifying the model’s fit to the probability distribution of the text. It is defined base on the generative LM output as
+
+$$
+{ \mathrm { P e r p l e x i t y } } = \exp \left( - { \frac { 1 } { N } } \sum _ { i = 1 } ^ { N } \log p ( w _ { i } | w _ { 1 } , w _ { 2 } , \ldots , w _ { i - 1 } ) \right) .
+$$
+
+It’s important to note that the IR-related and NLG-related methods are not directly equivalent to retrieval and generation assessment methods. In RAG systems, retrieval and generation operations typically alternate. For instance, the query understanding and document fusion component are considered as pre- and post-retrieval operations in the retriever, respectively, yet the evaluation is sometimes based on the NLG-like methods. SCARF [54] used BLEU / ROUGE to evaluate the query relevance of the retriever. Blagojevic et al. [40] utilized cosine similarity to assess the retrieval diversity. Additionally, the metrics can be adapted into various designs with new label based on the specific subject of study, such as EditDist [55], Fresheval [56], etc.
+
+# 3.2.3 Upstream Evaluation
+
+Given the rapid advancement of RAG systems, it is crucial to emphasize the significance of offline preprocessing of the corpus. We supplement the evaluation method of preprocessing modules, including chunking and embedding.
+
+The evaluation of chunking methods can be conducted at two levels. First, chunk-specific evaluation focuses on intrinsic metrics such as Accuracy, measured by Full Keyword Coverage—the percentage of required keywords present in at least one retrieved chunk—and the Tokens To Answer metric, which tracks the index of the first fully comprehensive chunk and cumulative token count needed for full context coverage [57]. Second, extrinsic evaluation analyzes how different chunking approaches influence retrieval performance on downstream tasks. For example, [34] and [58] evaluate chunking methods by comparing retrieval recall, precision, and response quality using metrics like ROUGE, BLEU, and F1 scores against ground truth evidence paragraphs, while considering computational overhead. Other works extend this evaluation using domain-specific datasets, such as financial reports [57], to observe how structure-based and semantic chunking improves retrieval accuracy while reducing latency and token usage during inference.
+
+Before retrieval, the embedding model determines the actual performance of retrieving relevant documents. Comprehensive benchmarks like Massive Text Embedding Benchmark (MTEB) [59] and Massive Multicultural Text Embedding Benchmark (MMTEB) [60] have become standard for the evaluation of embedding models. MTEB introduced the first large-scale benchmark covering 8 embedding tasks across 58 datasets and 112 languages, establishing that no single embedding method excels across all tasks. MMTEB significantly expanded this work through a community-driven effort, encompassing over 500 evaluation tasks across $^ { 2 5 0 + }$ languages and introducing novel challenges like instruction following, long-document retrieval, and code retrieval.
+
+Although the models of chunking and embedding have broad applications, they primarily serve as an upstream component of the retriever in RAG. The primary benefit to the entire system, involving chunking and embedding, is reflected in the enhancement of the retriever’s evaluation metrics.
+
+# 3.3 Evaluation Methods via LLMs
+
+The advancement of LLM has catalyzed refined investigations into RAG system architectures. Contemporary studies increasingly employ LLM-driven assessment metrics, which establish quantifiable benchmarks for iterative improvements across different RAG modules. They can be broadly categorized into the output and representation based methods.
+
+# 3.3.1 LLM Output based Methods
+
+The LLM-output based evaluation methods perform content identification or statistical analysis of the text-format output of the RAG components assumed by the LLM. These methods feature a concise and easily understandable process without restrictions regarding whether the LLM is open or closed.
+
+The most straightforward approach is to instruct the LLM to explicitly evaluate or score the textual output of the component by prompt engineering. Methods like RAGAS [61] and
+
+Databricks Eval [62] prompt GPT-based judges with explicit instructions, such as “Check if the response is supported by the retrieved context.” or “Assess completeness with respect to the user query.” Zhang et al. [63] utilized GPT-4 with a few-shot prompt design to determine whether the generated answer matches the gold ones comprehensively. Finsås et al. [64] implemented a multi-agent LLM framework to evaluate the retrieval performance and reported a higher relevance with the human preference than the traditional methods. Patil et al. [65] proposed an Abstract Syntax Tree (AST) based method to measure the hallucination in RAG, which indicates the accuracy of calling external APIs in the RAG system. These methods typically benefit from CoT reasoning.
+
+In addition, numerous researchers have proposed novel definitions of statistical metrics derived from the LLM output, facilitating a multi-perspective approach to evaluating the RAG components.
+
+Dai et al. [66] proposed a new metric Semantic Perplexity $( S e P e r )$ to capture the LLM’s internal belief about the correctness of the generated answer. Given the query $q$ and the reference answers $a ^ { * }$ , SePer is defined as the output sequence likelihood with clustered entity target as:
+
+$$
+S e P e r _ { M } ( q , a ^ { * } ) = P _ { M } ( a ^ { * } \mid q ) \approx \sum _ { C _ { i } \in C } k ( C _ { i } , a ^ { * } ) p _ { M } ( C _ { i } \mid q ) ,
+$$
+
+where $M$ is the specific LLM. $c$ is the cluster set that the another clustering model groupes the responses into. $p _ { M } ( C _ { i } \mid$ $q$ ) means the probability that a response generated by $M$ is mapped to the cluster $C _ { i }$ . $k ( C _ { i } , a ^ { * } )$ is a simple kernal fuc,tion to measure the distance between the meaning of semantic cluster $C _ { i }$ and $a ^ { * }$ by utilizing char-level matching or simply asking the LLM to get a True / False response.
+
+Qi et al. [67] introduced the key point extraction to the RAG evaluation and designed $K P R$ metric to evaluate the extent to which LLMs incorporate key points extracted from the retrieved documents into their generated responses:
+
+$$
+K P R ( \cdot ) = \frac { 1 } { | Q | } \sum _ { q \in Q } \frac { \sum _ { x \in { \bf x } ^ { { \mathfrak { q } } } } I ( x , M ( q | | d ^ { q } ) ) } { | { \bf x } ^ { { \mathfrak { q } } } | } ,
+$$
+
+where $Q$ is the global query set, and $I ( x , M ( q | | d ^ { q } ) )$ is a fuc,tion to judge whether a single LLM output sequence $\textstyle { \mathcal { M } } ( q | | d ^ { q } )$ based on the query $q$ and the recalled documents $d ^ { q }$ entails the predefined key points $\mathbf { X ^ { q } }$ .
+
+To evaluate the inconsistency of the different retrievers in RAG, Li et al. [68] proposed a pair of naive metrics called Mean Relative Win/Lose Ratio (MRWR/MRLR). Given $M$ different retrievers $\mathcal { R } = \{ r _ { 1 } , r _ { 2 } , . . . , r _ { M } \}$ and the dataset with $N$ query $\&$ , , ..., answer pairs, the correctness of model response for each sample $< q _ { n } , a _ { n } >$ is first cauculated, denoted by ${ \bf { I } } ^ { m } ( n ) =$ <1 if the retriever $r _ { m }$ >answers correctly on sample $s _ { n }$ otherwise 0. Then the Relative Win Ratio (RWR) of retriever $r _ { i }$ over another retriever $r _ { j }$ is defined as:
+
+$$
+R W R ( i , j ) = \frac { \sum _ { n = 1 } ^ { N } \mathbf { I } ^ { i } ( n ) * ( 1 - \mathbf { I } ^ { j } ( n ) ) } { \sum _ { n = 1 } ^ { N } 1 - \mathbf { I } ^ { j } ( n ) } ,
+$$
+
+which represents the proportion of questions answered incorrectly by retriever $r _ { j }$ that were correctly answered by retriever $r _ { i }$ . MRWR and MRLR are calculated by respectively averaging RWR across rows and columns among the retrievers:
+
+$$
+\begin{array} { l l } { { \displaystyle { \mathrm { M R W R } } ( i ) = \frac { 1 } { M - 1 } \sum _ { j \neq i } { \mathrm { R W R } } ( i , j ) } , } \\ { ~ } \\ { { \displaystyle { \mathrm { M R L R } } ( i ) = \frac { 1 } { M - 1 } \sum _ { j \neq i } { \mathrm { R W R } } ( j , i ) } . } \end{array}
+$$
+
+Especially, $\mathbf { M R L R } ( i ) = 0$ implies that retriever $r _ { i }$ consistently outperforms all of the other ones.
+
+Min et al. [69] proposed FactScore to messure whether the generated content matches the given knowledge source by breaking the generations into atomic facts. Chiang et al. [70] further consideder the synonym expression and proposed the advanced $D$ -FAatScore. FactScore is a simple statistical determination whether the factual content $a$ in the generated text $y$ matches the external knowledge base $c$ :
+
+$$
+\mathrm { F S } ( y ) = \frac { 1 } { \vert \mathcal { A } _ { y } \vert } \sum _ { a \in \mathcal { A } _ { y } } \mathbb { I } _ { [ a \mathrm { \ i s \ s u p p o r t e d \ b y } \ : C ] } .
+$$
+
+D-FActScore links synonymous entities into the same cluster ${ \mathcal { A } } _ { { \mathrm { y } } _ { i } }$ and consider a cluster-level evaluation:
+
+$$
+\mathrm { D F S } ( y ) = \frac { 1 } { | \mathcal { A } _ { y } | } \sum _ { \mathcal { A } _ { y _ { i } } \in \mathcal { A } _ { y } } \sum _ { a \in \mathcal { A } _ { y _ { i } } } \mathbb { I } _ { [ a \mathrm { i s } \mathrm { s u p p o r t e d b y } C _ { i } ^ { * } ] } .
+$$
+
+To evaluate the risk in the generator’s response, Chen et al. [71] introduced the divided cases of the generated answer, answerable(A) and unanswerble(U), along with the different prediction process in the RAG system, keep(K) and discard(D). Four risk-aware evaluation metrics from various aspects are defined as:
+
+1) Risk that measures the proprotion of risky casess among the kept samples:
+
+$$
+R i s k = { \frac { \left| \mathrm { U K } \right| } { \left| \mathrm { A K } \right| + \left| \mathrm { U K } \right| } }
+$$
+
+2) Care f ulness indicates the percentage of incorrect and discarded samples that are equivalent to recall for the unanswerable samples:
+
+$$
+C a r e f u l n e s s = \frac { \left| \mathrm { U D } \right| } { \left| \mathrm { U K } \right| + \left| \mathrm { U D } \right| }
+$$
+
+3) Alignment refers to the proportion of samples in which the system’s judgment align with the assigned labels:
+
+$$
+A l i g n m e n t = \frac { \left| \mathrm { A K } \right| + \left| \mathrm { U D } \right| } { \left| \mathrm { A K } \right| + \left| \mathrm { A D } \right| + \left| \mathrm { U K } \right| + \left| \mathrm { U D } \right| }
+$$
+
+4) Coverage quantifies the proportion of samples retained:
+
+$$
+C o \nu e r a g e = \frac { \left| \mathrm { { A K } } \right| + \left| \mathrm { { U K } } \right| } { \left| \mathrm { { A K } } \right| + \left| \mathrm { { A D } } \right| + \left| \mathrm { { U K } } \right| + \left| \mathrm { { U D } } \right| }
+$$
+
+# 3.3.2 LLM Representation based Methods
+
+The representation-based methods, conversely, captures valuable metrics by modeling vector representation in the intermediate or final layers of the LLM. These methods can mitigate overreliance on surface lexical patterns, but they may lose interpretability since the final numeric similarity does not necessarily clarify which factual detail is correct or not.
+
+Certain methods are inspired by the conventional metrics, demonstrated as expansions of existing metrics on the LLM. For instance, GPTScore [72] is a GPT based LLM-scoring method inspired by BertScore, which has been widely used as a convincing metric. ARES [73] combined a classifier with LLM embeddings to check whether a generative answer is semantically aligned with ground-truth evidence. RAGAS [61] uses a cosine similarity approach on LLM-generated embeddings to gauge answer relevance.
+
+Moreover, numerous researchers have developed novel representation based metrics, which serve not only to evaluate the components but also to guide the further enhancement.
+
+Zhao et al. [74] introduced a novel metric, Thrust, which assesses the LLM’s knowledgeability by leveraging the representation distribution of the instances produced by the LLM. A hypothesis was proposed that if an LLM has acquired adequate knowledge pertaining to a task, it should effectively cluster samples related to that task through its hidden states. The Thrust metric was defined as:
+
+$$
+s _ { \mathrm { t h r u s t } } ( q ) = \left\| \frac { 1 } { N \cdot K } \sum _ { l = 1 } ^ { N } \sum _ { k = 1 } ^ { K } \frac { | C _ { k l } | } { \| d _ { k l } ( q ) \| ^ { 2 } } \cdot \frac { d _ { k l } ( q ) } { \| d _ { k l } ( q ) \| } \right\| ,
+$$
+
+where $N$ is the number of classes for the specific task, $K$ is the number of clusters per class, $| C _ { k l } |$ denotes the cardinality of the set. $d _ { k l } ( q )$ is a vector pointing from the representacion of the query to the centroid.
+
+Zhu et al. [75] introduced the information bottleneck theory into retrieval component to messure the relevance of the recalled document and candidate document. Moreover, a new information bottleneck-based loss function was derived and used to train a better noise filter for the retriever. Given the sample $\{ q , x , y \}$ from the dataset and the noise filter $p ( \tilde { x } | x , q )$ , , ,(need tuning), the information bottleneck in the RAG task is derived and formulated as:
+
+$$
+\mathrm { I B } ( \tilde { x } ) = P _ { \mathrm { L L M } } ( x | [ q , \tilde { x } , y ] ) - \alpha P _ { \mathrm { L L M } } ( y | [ q , \tilde { x } ] ) ,
+$$
+
+where $[ \cdot ]$ means the concatenation operation. $P _ { \mathrm { L L M } }$ means the final output probability of the LLM.
+
+Li et al. [76] proposed a new metric $G E C E$ based on METEOR for assessing the extent of the long-tailness of the generated text in RAG:
+
+$$
+G E C E = \frac { | \mathbf { M E T E O R } ( p r e d , r e f ) - \frac { 1 } { n } \sum _ { i = 1 } ^ { n } P _ { L L M } ( t _ { i } ) | } { \alpha \cdot [ E ( \nabla _ { i n s } ) \cdot \nabla _ { i n s } ] } ,
+$$
+
+where $\alpha$ is the average word frequency, $\nabla _ { i n s }$ and $E ( \nabla _ { i n s } )$ are αthe gradient w.r.t. the current instance and the mean gradient
+
+of the total dataset, separately. A long-tail instance usually has a smaller $\alpha$ and $\nabla _ { i n s }$ , obtaining a larger $G E C E$ , which αimplies larger degree of long-tailness.
+
+To assess the extent to which external knowledge is utilized in the RAG response, Sun et al. [77] proposed External Context Score $\varepsilon$ , which is defined on the response level as:
+
+$$
+\mathcal { E } _ { \mathbf { r } } ^ { l , h } = \frac { 1 } { | \mathbf { r } | } \sum _ { t \in \mathbf { r } } \mathcal { E } _ { t } ^ { l , h } = \frac { 1 } { | \mathbf { r } | } \sum _ { t \in \mathbf { r } } \frac { e \cdot \mathbf { x } _ { t } ^ { L } } { | | e | | | x _ { t } ^ { L } | | } ,
+$$
+
+where $\vert \mathbf { r } \vert$ means the length of the response $\mathbf { r }$ , $\pmb { x } _ { t } ^ { L }$ is the $t$ -th token’s vector logit of the last layer $L , \ e$ is a pooled vector of the most relevant vectors of $\pmb { x } _ { t } ^ { L }$ according to the attention weights in the middle layer:
+
+$$
+e = \frac { 1 } { | \bar { \mathcal { I } } _ { t } ^ { l , h } | } \sum _ { j \in \bar { \mathcal { I } } _ { t } ^ { l , h } } \boldsymbol { x } _ { j } ^ { L } ,
+$$
+
+where $\boldsymbol { \mathcal { I } } _ { t } ^ { l , h }$ means the attended times where the token has larger than top- $1 \%$ attention scores with $\pmb { x } _ { t } ^ { L }$ in the $l$ -th layer.
+
+Noted that some of these LLM based evaluation metrics represent research specializations. While they may not be directly targeted towards an actual RAG system, their presentation is an integral part of advancing researches in the field of RAG, indicating significant contributions as well.
+
+# 4 External Evaluation
+
+We have dissected the components of RAG and provided a comprehensive account of its internal evaluation. This section shifts our focus to the external utility that RAG, as a complete system, encounters. We summarize the external utility in two areas: safety and efficiency, the evaluation of whom are introduced below.
+
+# 4.1 Safety Evaluation
+
+Safety pertains to the RAG system’s capacity to ensure the generation of stable and harmless content within a dynamic, even noisy or hazardous environment. As RAG systems continue widespread deployment, safety concerns have intensified beyond those of standalone LLMs. The incorporation of external knowledge sources introduces unique vulnerabilities requiring specialized evaluation frameworks [20].
+
+Robustness evaluations focus on system behavior when processing misleading information in retrieval results. The RECALL benchmark [78] tests discrimination between reliable and counterfactual knowledge using BLEU, ROUGE-L, and specialized metrics like Misleading Rate. Wu et al. [79] quantify susceptibility to semantically related but irrelevant information using Misrepresentation Ratio and Uncertainty Ratio. SafeRAG [80] categorizes challenges like ”inter-context conflict” with specific evaluation metrics, while C-RAG [81] provides theoretical guarantees on generation risks using conformal risk analysis and ROUGE-L. Cheng et al. [82] introduce two metrics to evaluate the RAG system: 1) Resilience
+
+Rate, aiming to emphases the system’s stability and robustness, quantifies the percentage of instances where the system’s responses remain accurate, both prior to and following retrieval augmentation. 2) Boost Rate quantifies the proportion of instances initially answered erroneously that were subsequently corrected upon the introduction of a retrieved document, evaluating the effectiveness of RAG.
+
+Factuality focuses on generating accurate information and avoiding plausible but incorrect statements (hallucinations), especially with noisy or conflicting retrieval results [78, 83, 84]. Key metrics include Factual Accuracy, using standard QA metrics (EM, F1, accuracy, etc.) when the context might be misleading [78]; the Hallucination Rate, the frequency of generated information not supported by or contradicting retrieved documents, often measured via LLM-as-judge [85] or human evaluation; Citation Accuracy, assessing correct attribution to sources using Citation Precision and Citation Recall [20, 85]; and Faithfulness Metrics, evaluating how accurately the output reflects retrieved information [83].
+
+Adversarial attacks target specific components within the RAG pipeline. Knowledge database poisoning (PoisonedRAG [86]) targets the retrieval corpus by injecting malicious texts that trigger predetermined outputs when retrieved. This attack vector is evaluated using Attack Success Rate (ASR) and retrieval-focused Precision/Recall/F1 metrics. Retrieval hijacking (HijackRAG [87]) exploits ranking algorithms to prioritize malicious content during retrieval, with evaluation focusing on attack transferability across models. Phantom attacks [88] use trigger-activated documents evaluated through Retrieval Failure Rate (Ret-FR), while jamming attacks [89] insert ‘blocker’ documents that force response refusal, assessed through oracle-based metrics.
+
+Privacy assess information exposure risks from retrieval databases or user queries [90]. Evaluation often involves simulated attacks [91,92]. Key metrics about privacy include the Extraction Success Rate, the frequency or success rate of attacks extracting specific private information (e.g., names, PII) from the knowledge base, often measured by the count of successfully extracted items [90]; the PII Leakage Rate, the amount or percentage of Personally Identifiable Information inadvertently revealed in generated outputs, typically found via pattern matching or inspection [93]; and the Membership Inference Attack Success, which measures an attacker’s ability to determine if a specific data record was in the RAG system’s knowledge base.
+
+Fairness examines if the RAG system exhibits or amplifies biases from retrieved documents or training, leading to inequitable outputs [94]. Bias Metrics are used to analyze the outputs for disparities, which are quantitative measures of performance disparities (e.g., error rates, sentiment scores) across demographic groups [94]. Stereotype Detection measures the frequency or severity of harmful stereotypes in generated text, assessed via lists or human evaluation. Counterfactual Fairness checks if outputs change inappropriately when sensitive attributes in queries or context are altered.
+
+Transparency / Accountability assesses the understandability and traceability of the RAG system’s reasoning process, enabling verification of sources and justification [95, 96]. Metrics are often qualitative or user-focused, such as Explanation Quality, based on human ratings of the clarity, completeness, and usefulness of explanations or provenance information [96]; Traceability, the ease of linking the final output back to specific source documents or passages; and Citation Accuracy (precision/recall) [20].
+
+Comprehensive safety benchmarks standardize evaluation across multiple dimensions. SafeRAG [80] classifies attack tasks into four categories with tailored datasets. VERA framework [97] uses bootstrap sampling for confidence bounds on safety metrics, while DeepTeam’s red teaming approach [93] identifies vulnerabilities through systematic testing. In addition, current research indicates defense mechanisms remain insufficient against sophisticated attacks [86–88]. Evaluations reveal significant vulnerabilities in current RAG systems [87, 88], underscoring the need for robust benchmarks and metrics addressing the unique safety challenges arising from the retrieval-generation interplay. Further efforts are required to evaluate the safety of RAG.
+
+# 4.2 Efficiency Evaluation
+
+Efficiency is another crucial aspect of RAG’s utility, directly linked to the real-world significance of a system’s popularity, cost, and effectiveness.
+
+Latency evaluation typically focuses on two critical metrics. Time to first token (TTFT) [98] measures the time taken by the system to produce its initial output token after receiving a query, which is particularly crucial for user experience as it directly impacts perceived responsiveness. This metric is especially important in interactive applications where immediate feedback maintains user engagement. Additionally, complete response time (total latency) measures the duration from query submission to the generation of the entire response. This encompasses retrieval time, processing time, and generation time for all tokens. Hofstatte et al. [99] proposed Single Query Latency that refers to the complete endto-end time taken to process a single query, including both complete retrieval and generation phases.
+
+Resources and Money Cost evaluation of RAG systems is another critical component for assessing the efficiency. Cost evaluation methodologies typically focus on quantifying both direct expenditures and efficiency metrics that impact overall system economics. The total cost of RAG systems can be categorized into several key components [126]:
+
+• Infrastructure Costs: Computing local resources for embedding generation, vector database maintenance, and LLM inference for open models. • Token-based Expenses: API charges for external LLM services based on input and output token usage. • Storage Costs: Vector database hosting and maintenance expenses that scale with corpus size.
+
+Table 1 Overview of RAG benchmarks and their evaluation datasets. Source Domain indicates the data origin (e.g., real-time news, specialized corpora), and Special Points highlight unique or novel features (like domain-specific tasks, dynamic changes, or false-premise data).   
+
+
+• Operational Overhead: Human supervision, system maintenance, and regular updates to knowledge bases.
+
+• Development Costs: Initial implementation, integration, and customization expenses.
+
+For more details in the token-based expenses, LLM providers such as OpenAI and Google offer token usage metrics that track input and output token consumption during evaluation processes. This approach calculates costs by multiplying token counts by their respective pricing rates [127]. Researchers have developed metrics to evaluate the economic efficiency of RAG implementations:
+
+• Cost-Effectiveness Ratio: Measures performance improvement per unit of cost, allowing for standardized comparison between different RAG configurations [127].
+
+• Retrieval Precision ROI: Quantifies the economic return of improving retrieval precision by measuring the reduction in irrelevant context processing costs [127]. This metric demonstrated that optimizing retrieval can improve cost efficiency by up to around $50 \%$ through reducing token consumption during LLM inference.
+
+• User-Controllable Cost-Accuracy Tradeoffs: Su et al. [128] propose evaluation methods using an interpretable control parameter $( \alpha )$ that allows systematic assessment αof the relationship between retrieval costs and accuracy. This approach enables evaluating RAG systems across a spectrum of cost constraints rather than at fixed operating points.
+
+• Comparative Cost Analysis: Methodologies for evaluating relative cost efficiency between different RAG implementations for specific use cases, considering both direct costs and long-term economic sustainability [129].
+
+# 5 Resources
+
+The evaluation methodologies previously examined are comprehensive, though not necessarily abundant. This section systematically compiles, categorizes, and presents the implemented RAG evaluation frameworks, benchmarks, analytical tools, and datasets that have emerged in the large language model era. To our knowledge, this compilation constitutes the most exhaustive collection of RAG evaluation frameworks currently documented in the literature.
+
+Datasets. We compiled the benchmarks along with the associated datasets in recent years. Early works focus on static general-purpose QA datasets (e.g., NQ [100], HotpotQA [101]), providing well-established baselines but lack recency or domain specificity. Recent benchmarks counter these limitations by 1) sourcing live news or rapidly updated online documents (e.g., RGB [85], MultiHop-RAG [7]) to test timesensitive capabilities; 2) curating domain-specific corpora in law, healthcare, or finance (e.g., MedRAG [107], OmniEval [120], LegalBench-RAG [114]); or 3) generating synthetic data or specialized QA pairs, possibly with false-premise or counterfactual elements (e.g., FreshLLMs [56], RAGEval [115 to assess robustness and misinformation handling. We further provide a concise description of the original domains and characteristics according to the original resource, as shown in Table 1. Noted that only the datasets containing retrieved ground truth documents are included, indicating a concern for more in-depth system component evaluation.
+
+Table 2 RAG evaluation frameworks, highlighting principal evaluation targets and methods. Retrieval focuses mainly on Relevance (R), Correctness $\mathrm { ( C ) }$ or Comprehensiveness, whereas generation (right) focuses on Faithfulness (F), Correctness (C), or Relevance (R). External evaluation targets (safety, efficiency) or other statements appear in italics.   
+
+
+Frameworks with Evaluation Methods. We compiled and summarized the evaluation methods devised by existing frameworks, as illustrated in Table 2. These efforts span from initial, point-level researches [40, 99] to later, multicomponent evaluation tools and benchmarks [73, 131], encompassing a remarkably comprehensive collection of assessment frameworks. The evaluation methods employed are varied, encompassing both traditional [78, 132] and LLM-based metrics [106, 110]. Additionally, there are frameworks that facilitate safety-focused evaluations [85, 116], or are tailored to specific downstream domains like document [55,125], telecom [113], medicine [107], etc. Referencing the component evaluation objectives outlined in section 3.1, we categorize and highlight the evaluation elements and specific metrics.
+
+  
+Fig. 3 Statistics on the distribution of RAG studies across four key areas: retrieval, generation, safety, and efficiency. A paper may utilize evaluation methods in more than one areas.
+
+  
+Fig. 4 Frequency statistics wordcloud of evaluation metrics in RAG studies. The LLM-based methods are categorized based on the targets and presented with the suffix ‘-LLM’. F-score refers to the expanded F1-score.
+
+# 6 Discussion
+
+# 6.1 Statistics and Analysis of RAG Evaluation
+
+The proliferation of LLM has contributed to a significant diversification of RAG evaluation methods. Current researches, while demonstrating comprehensive coverage of RAG evaluation dimensions, often subjectively assert their respective utility statements. To assess the popularity of these evaluation methods, we conducted a statistical analysis of the available methods from a survey perspective. This can also be viewed as a research-oriented simple meta-evaluation. We crawled the collection of the papers since 2022 autumn with keywords about RAG in the accepted papers of the high-level conferences about NLP & AI, and extracted the component as well as the evalauation metrics the papers focus and utilize. We finally amassed a total of 582 PDF manuscripts. All the included papers have undergone rigorous peer review, demonstrating scholarly merit with complete experimental methodologies and logically structured evaluation procedures.
+
+Research Focus. Figure 3 illustrates the statistical distribution of evaluation methods used across the four different segments in RAG studies (Retrieval / Generation / Safety / Efficiency). The data suggests a prevailing focus on internal research and evaluation of RAG systems, as indicated by the extensive coverage of the retrieval and generation processes. In contrast, external evaluations, particularly those related to safety, have garnered less attention.
+
+Metric Preference. Word frequency counts were conducted for the assessment metrics mentioned in the papers, with the wordcloud displayed in Figure 4. Whenever a metric is formally introduced in the body of a paper or reported in the table of experimental results, its word frequency count is set $+ 1$ . We manually merged and mapped synonymous metrics in the same session and excluded the words with global occurrences lower than twice. It is observed that traditional metrics predominantly dominate the evaluation usage, while LLM-based methods have not yet gained widespread acceptance among researchers. This phenomenon is attributed to the simplicity and reliability of the conventional metrics. Conversely, the LLM-based methods often require more effort and involve multiple settings that are difficult to keep the same across different researches, such as the LLM version and prompt design.
+
+  
+Fig. 5 The number of papers explicitly mentioning LLM-based evaluation on RAG. The $2 0 2 5 \ : \mathrm { H } 1$ collection is up to March 31st.
+
+Trend of LLM Usage. Despite the potential issues with LLM-based methods, there is an observable trend of increasing application, as shown in Figure 5 $. 2 0 2 4 \ : \mathrm { H } 2$ and $2 0 2 5 \ : \mathrm { H } 1$ have the top two highest numbers. LLM judges are ultimately capable of handling more complex designs, drawing closer to real-world applications. LLM itself, additionally, has continued to evolve in recent years, with the performance progressively improving, and the supported functions expanding.
+
+# 6.2 Challenges and Future Directions
+
+This section addresses several challenges inherent in contemporary RAG evaluation.
+
+Limitations of LLM-based Methods. The current evaluation design does not sufficiently address the timeliness and the black-box nature inherent in the LLM. The method of employing LLMs for assessments, particularly through direct prompts, raises latent risk about stability and security. Future research should focus on enhancing the robustness of the evaluation process itself and minimizing the likelihood of LLM errors in the RAG system.
+
+Cost of Evaluation. The cost associated with the RAG system has garnered attention. Nevertheless, a thorough evaluation remains expensive due to the vast scale of the tools and datasets involved. Determining an efficient method for system evaluation, or striking a balance between cost and effectiveness, is one of the directions for future research.
+
+Advanced Evaluation Methods. As LLMs continue to evolve, the components of RAG systems are becoming more diverse. Currently, many of these components are evaluated using end-to-end RAG ontology metrics, with a lack of comprehensive functional decomposition evaluation or theoretical analysis. Concurrently, there remains untapped potential in the functionalities of LLMs themselves. For instance, the evaluation about deep thinking models (e.g. openai-o1 [135]) along with the thinking process of LLMs in conjunction with RAG’s retrieval and generation process, is still inadequate. These in-depth evaluation strategies require further research and development in the future.
+
+Comprehensiveness of the Evaluation Framework. Despite the abundant evaluation frameworks at present, individual ones are somewhat limited in their metrics and methods of evaluation. Moreover, most contemporary frameworks concentrate on widely used languages such as English and Chinese. There is an urgent need for frameworks that are not only methodologically but also linguistically diverse.
+
+# 7 Conclusion
+
+In this paper, we have presented the first comprehensive survey of RAG evaluation methodologies in the LLM era. Our systematic analysis reveals several important insights for researchers and practitioners working with these increasingly prevalent systems. For the evaluation of internal RAG performance, we dissect the internal components of RAG systems, define the assessment objectives, and gather a range of methods and metrics from traditional to innovative. Moreover, we investigate the external evaluation related to system integrity such as safety and efficiency, which are underexplored in RAG research according to our statistical analysis. Additionally, we compile and categorize the current evaluation datasets and frameworks to elucidate the unique attributes and assessment focuses of the resources. Last but not least, we analyze the implementation of existing evaluation methods and synthesize the challenges and future directions of RAG evaluation in the LLM era.
+
+# Acknowledgements
+
+Competing interests The authors declare that they have no competing interests or financial conflicts to disclose.

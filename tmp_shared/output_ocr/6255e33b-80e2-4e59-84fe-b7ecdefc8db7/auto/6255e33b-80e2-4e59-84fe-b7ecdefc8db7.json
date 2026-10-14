@@ -1,0 +1,267 @@
+[
+    {
+        "type": "text",
+        "text": "2-Aminopurine Allows Interspecies Recombination by a Reversible Inactivation of the Escherichia coli Mismatch Repair System ",
+        "text_level": 1,
+        "bbox": [
+            99,
+            114,
+            900,
+            160
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Ivan Matic,1\\* Ana Babic,1,2 and Miroslav Radman1 INSERM U571 and MIXIS France SA,² Faculté de Médecine, Necker-Enfants Malades, Université René Descartes, 75730 Paris Cedex 15, France ",
+        "bbox": [
+            203,
+            164,
+            786,
+            214
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Received 3 September 2002/Accepted 22 November 2002 ",
+        "bbox": [
+            328,
+            224,
+            666,
+            236
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2-Aminopurine treatment of Escherichia coli induces a reversible phenotype of DNA mismatch repair deficiency. This transient phenotype results in a 300-fold increase in the frequency of interspecies conjugational recombination with a Salmonella enterica serovar Typhimurium Hr donor. This method can be used for the generation of biodiversity by allowing recombination between diverged genes and genomes. ",
+        "bbox": [
+            133,
+            251,
+            864,
+            302
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Homologous genetic recombination depends stringently on the DNA sequence identity of the two parental molecules, as well as on the activity of the recombination and mismatch repair proteins (13). Homologous pairing of nonidentical DNA sequences results in mismatched heteroduplex molecules. Mismatched and unpaired bases are recognized by the methyldirected mismatch repair system (MMRS), which prevents recombination between nonidentical DNA sequences (17, 21). This function of the MMRS plays a role in maintenance of the structural integrity of chromosomes (1, 12) and in genetic isolation among bacterial strains and species (8, 14, 20). For example, transductional recombination between two serovars (Typhimurium and Typhi) of Salmonella enterica, whose genomes differ by only 1 to $2 \\%$ at the DNA sequence level, increases $1 0 ^ { 2 } .$ to $1 0 ^ { 3 }$ -fold in MMRS-deficient genetic backgrounds (23). Two Escherichia coli MMRS proteins, MutS and MutL, are required for this strong antirecombination activity, whereas the effect of other MMRS proteins, MutH and UvrD, is less pronounced (3). ",
+        "bbox": [
+            71,
+            325,
+            483,
+            591
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The antirecombination activity of MMRS can be inhibited by the overproduction of mismatched DNA molecules, as a consequence of the MutS protein titration (6). Treatment with agents that produce DNA lesions recognized by the MMRS can also inhibit MMRS activity in E. coli (11, 15, 18). Whereas the resulting increase in mutagenesis has been well documented, the effect on recombination is unknown. ",
+        "bbox": [
+            71,
+            592,
+            483,
+            689
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "2-Aminopurine (2-AP) was used to investigate whether 2-AP-treated cells show a hyperrecombination phenotype and, if they do, whether it is a consequence of functional inactivation of the MMRS. Incorporation of the adenine analog 2-AP into newly synthesized DNA forms 2-APthymine base pairs and 2-APcytosine mispairs. These mismatches are apparently recognized by the MMRS, as suggested by the observation that inactivation of MMRS genes restores the resistance of dam mutants to 2-AP (dam mutants are killed by 2-AP because of MMRS activity [5]). Functional inactivation of the MMRS by 2-AP treatment was suggested by the finding that the spectrum of mutations induced in wild-type $E$ coli cells treated with high concentrations of 2-AP is not different from that of untreated MMRS mutants (2). ",
+        "bbox": [
+            71,
+            690,
+            483,
+            858
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            325,
+            923,
+            353
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "As a model system, we have used interspecies conjugational recombination between S. enterica serovar Typhimurium and E. coli strains. Hfr strains were S. enterica serovar Typhimurium SA965 and E. coli $\\mathrm { P 4 X } \\ : m e t B ^ { + }$ .Recipient strains were AB1157 Nal derivatives constructed by P1-mediated transduction. Relevant genotypes of the recipient strains were thr-34::Tn10, thr-3091::Tn10 Kanf, thr-34:Tn10 mutS::ΩSmSp, and thr-3091::Tn10 Kan mutL218::Tn10. All of the strains and alleles used in this study have been described previously (3). Plasmids expressing $m u t S ^ { + }$ (pMQ341) and $m u t L ^ { + }$ (pMQ339) are derivatives of the pACYC184 Cam\" vector (22). Conjugations were performed as previously described (3), except that 2-AP was added to Luria-Bertani medium during the exponential growth of recipient strains ( $^ { 3 \\mathrm { ~ h ~ } }$ of incubation), as well as to Luria-Bertani plates on which conjugational crosses (1 h) were performed. Selection of $\\mathrm { T h r ^ { + } }$ recombinants took place on minimal M9 medium without 2-AP. ",
+        "bbox": [
+            512,
+            356,
+            924,
+            597
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The frequency of recombination between S. enterica serovar Typhimurium Hfr and $E$ coli wild-type $\\mathrm { F ^ { - } }$ strains, whose genomic sequences diverge by about $20 \\%$ , is very low ( $1 0 ^ { - 7 }$ to $1 0 ^ { - 6 }$ . Inactivation of the mutS or mutL gene in recipient cells increased the frequency of interspecies recombination about $1 0 ^ { 3 } .$ to $1 0 ^ { 4 } .$ -fold (3, 13; Table 1). Treatment of wild-type recipient cells with 2-AP (concentrations of ${ > } 2 5 ~ \\mu \\mathrm { g } / \\mathrm { m l }$ increased the frequency of interspecies recombination nearly to, at 75 $\\mu \\mathrm { g / m l } .$ , that obtained with mutS or mutL mutant recipients without 2-AP (Fig. 1). 2-AP concentrations of $> 7 5 ~ \\mu \\mathrm { g / m l }$ did not result in a further increase in interspecies recombination. 2-AP treatment did not significantly affect intraspecies recombination in wild-type and mutS bacteria or interspecies recombination in the mutS strain. The hyperrecombination phenotype of 2-AP-treated wild-type bacteria is reversible. (i) The absence of 2-AP only during the mating period $( 1 \\mathrm { ~ h ~ } )$ lowered the frequency of interspecies recombination, and (ii) $2 \\textrm { h }$ of growth (five to six generations) in the absence of 2-AP eliminated the hyperrecombination phenotype of bacteria pregrown (for $3 \\mathrm { ~ h ~ }$ )with 2-AP (data not shown). ",
+        "bbox": [
+            512,
+            598,
+            924,
+            883
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "To test for potential selection of MMRS-deficient mutator mutants during growth with 2-AP prior to conjugation, the frequency of mutator mutants was analyzed among the selected interspecies recombinants by testing the frequency of rifampin-resistant mutants. Although the frequency of spontaneously occurring MMRS-deficient mutators in the laboratory cultures of $E _ { \\ast }$ coli is about $1 0 ^ { - 5 }$ (7), we found $9 \\%$ (19 out of 211) mutators among interspecies recombinants obtained with untreated wild-type recipients, corroborating published observations (4). This result is accounted for by second-order selection (19). When 2-AP $( 3 0 0 ~ \\mu \\mathrm { g / m l } )$ -treated wild-type cells were used as recipients, mutators represented only about $0 . 5 \\%$ (1 out of 192) of the interspecies recombinants, showing decreased second-order selection of MMRS mutants. Therefore, it can be concluded that 2-AP induces interspecies recombination in wild-type cells. ",
+        "bbox": [
+            512,
+            886,
+            924,
+            927
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/20bc16b0a800712d7584a8395602eba6bce85ae8d868e1c9a75e2e3c37f77f5e.jpg",
+        "table_caption": [
+            "TABLE 1. Identification of $E _ { i }$ coli methyl-directed mismatch repair component depleted by 2-AP treatment "
+        ],
+        "table_footnote": [
+            "a $E .$ coli $\\mathrm { H f r } \\times E .$ coli $\\mathrm { F ^ { - } }$ - $^ b S .$ enterica serovar Typhimurium Hfr $\\times E .$ coli $\\mathrm { F ^ { - } }$ . $\\mathrm { { } ^ { c } T h r ^ { + } }$ recombinant-Hfr donor. d Ratio of mean frequencies of recombination without/with 2-AP treatment. "
+        ],
+        "bbox": [
+            70,
+            100,
+            929,
+            298
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            376,
+            483,
+            558
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine whether a specific MMRS protein is inactivated by 2-AP treatment, conjugational crosses were performed with recipient strains carrying plasmids with active $m u t S ^ { + }$ and mutL+ genes (Table 1). Overproduction of MutS had no effect, whereas MutL overproduction nearly completely abolished the 2-AP effect (Table 1). It is not clear why MutS is not limiting for antirecombination activity upon 2-AP treatment, as was observed with mismatched retron DNA (6). However, MutL (and not MutS) protein saturation has been observed in an $E .$ coli mutD5 mutator mutant that generates excessive DNA replication errors by a defect in the DnaQ proofreading subunit of DNA polymerase III (16), as well as by the base analog deoxyribosyl-dihydropyrimido[4,5-c][1, 2]oxazin-7-one (11). All of these studies on alleviation of the saturation of mismatch repair by MutS and MutL overproduction used very similar means of overproduction; i.e., increased levels of Mut proteins were achieved by increasing the copy number of the plasmid-borne natural mutS and mutL genes (in our case, about 15 copies per cell). ",
+        "bbox": [
+            71,
+            559,
+            483,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            376,
+            924,
+            544
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "In conclusion, genetic barriers among enterobacteria can be alleviated in a reversible way by 2-AP treatment. Other mismatch-generating treatments may show a similar effect. Mergeay and Gerits (10) observed a transient $N .$ methyl $N ^ { \\prime }$ -nitro$N .$ -nitrosoguanidine-induced hyperrecombination phenotype during $E$ coli $\\times \\ S .$ enterica serovar Typhimurium transductional recombination well before the role of MMRS was discovered. Alleviation of genetic barriers may allow efficient interspecies recombination of genes, operons, or genomes, producing large-scale biodiversity as a useful source of biotechnological innovation (9). The advantages of this \"chemical\" method over the use of MMRS-deficient mutants are that (i) the genetically unstable state can be limited to the time of the interspecies cross and (ii) the procedure can be applied to different bacterial species and probably also to eukaryotic cells. ",
+        "bbox": [
+            512,
+            545,
+            924,
+            656
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "image",
+        "img_path": "images/2f011b01908eb1bac9be361a86dfdd0258196c1899baa2eefa9ef52e0baf9ed0.jpg",
+        "image_caption": [
+            "FIG. 1. Efct of 2-AP on intraspecis and interspecis conjugational recombination. Shown are the results of $E _ { \\ast }$ coli $\\mathrm { H f r } \\times E$ coli $\\mathrm { F ^ { - } }$ (A), $E _ { i }$ coli Hfr $\\times E$ coli mutS $\\mathrm { F ^ { - } }$ (B), S. enterica serovar Typhimurium Hfr $\\times E .$ coli $\\mathrm { F ^ { - } }$ (C), and S. enterica serovar Typhimurium Hfr $\\times E$ coli mutS $\\mathrm { F ^ { - } }$ c $\\pm$ the standard error). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            73,
+            689,
+            921,
+            886
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            71,
+            85,
+            483,
+            182
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "We thank Max Mergeay for many stimulating discussions. ",
+        "bbox": [
+            87,
+            199,
+            430,
+            210
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "This work was supported by grants from the Programme de Recherche Fondamentale en Microbiologie et Maladies Infectieuses et Parasitaires-MENRT and the Programme Environnement et Santé- MATE. ",
+        "bbox": [
+            71,
+            210,
+            482,
+            255
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            237,
+            263,
+            317,
+            273
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "1. Abdulkarim, F., and D. Hughes. 1996. Homologous recombination between the tuf genes of Salmonella typhimurium. J. Mol. Biol. 260:506522.   \n2. Cupples, C. G., M. Cabrera, C. Cruz, and J. H. Miller. 1990. A set of lacZ mutations in Escherichia coli that allow rapid detection of specific frameshift mutations. Genetics 125:275280.   \n3Denamur, E., G. Lecointre, P. Darlu, O. Tenaillon, C. Acquaviva, C. Sayada, I. Sunjevaric, R. Rothstein, J. Elion, F. Taddei, M. Radman, and I. Matic. 2000. Evolutionary implications of the frequent horizontal transfer of mismatch repair genes. Cell 103:711721.   \n4.Funchain, P., A. Yeung, J. Stewart, W. M. Clendenin, and J. H. Miller. 2001. Amplification of mutator cells in a population as a result of horizontal transfer. J. Bacteriol. 183:37373741.   \n5. Glickman, B. W., and M. Radman. 1980. Escherichia coli mutator mutants deficient in methylation-instructed DNA mismatch correction. Proc. Natl. Acad. Sci. USA 77:10631067.   \n6. Maas, W. K., C. Wang, T. Lima, A. Hach, and D. Lim. 1996. Multicopy single-stranded DNA of Escherichia coli enhances mutation and recombination frequencies by titrating MutS protein. Mol. Microbiol. 19:505509.   \n7. Mao, E. F., L. Lane, J. Lee, and J. H. Miller. 1997. Proliferation of mutators in a cell population. J. Bacteriol. 179:417422.   \n8. Matic, I., F. Taddei, and M. Radman. 1996. Genetic barriers among bacteria. Trends Microbiol. 4:6973.   \n9. Matic, I., F. Taddei, and M. Radman. 1999. Interspecies recombination and mismatch repair: generation of mosaic genes and genomes, p. 149157. In P. Vaughan (ed.), DNA repair protocols, vol. 152. Humana Press Inc., Totowa, N.J.   \n1Mergeay, M., and J. Gerits. 1983. Transduction of Escherichia coli t genes in Salmonella typhimurium and effect of $N .$ $N ^ { \\prime }$ -nitro $. N .$ nitrosoguanidine on transduction with heterogenotic DNA. J. Gen. Microbiol. 129:321   \n335.   \n11. Negishi, K., D. Loakes, and R. M. Schaaper. 2002. Saturation of DNA mismatch repair and error catastrophe by a base analogue in Escherichia coli. Genetics 161:13631371.   \n12. Petit, M. A., J. Dimpfl, M. Radman, and H. Echols. 1991. Control of chromosomal rearrangements in E. coli by the mismatch repair system. Genetics   \n129:327332.   \n13. Radman, M., and R. Wagner. 1993. Mismatch recognition in chromosomal interactions and speciation. Chromosoma 102:369373.   \n14. Rayssiguier, C., D. S. Thaler, and M. Radman. 1989. The barrier to recombination between Escherichia coli and Salmonella typhimurium is disrupted in mismatch-repair mutants. Nature 342:396401.   \n15. Rene, B., C. Auclair, and C. Paoletti. 1988. Frameshift lesions induced by oxazolopyridocarbazoles are recognized by the mismatch repair system in Escherichia coli. Mutat. Res. 193:269273.   \n16. Schaaper, R. M., and M. Radman. 1989. The extreme mutator effect of Escherichia coli mutD5 results from saturation of mismatch repair by excessive DNA replication errors. EMBO J. 8:35113516.   \n17. Shen, P., and H. V. Huang. 1986. Homologous recombination in Escherichia coli: dependence on substrate length and homology. Genetics 112:441457.   \n18. Skopek, T. R., and F. Hutchinson. 1984. Frameshift mutagenesis of lambda prophage by 9-aminoacridine, proflavin and ICR-191. Mol. Gen. Genet.   \n195:418423.   \n19. Tenaillon, O., F. Taddei, M. Radman, and I. Matic. 2001. Second order selection in bacterial evolution: selection acting on mutation and recombination rates in the course of adaptation. Res. Microbiol. 152:1116.   \n20. Vulic, M., F. Dionisio, F. Taddei, and M. Radman. 1997. Molecular keys to speciation: DNA polymorphism and the control of genetic exchange in enterobacteria. Proc. Natl. Acad. Sci. USA 94:97639767.   \n21. Worth, L., Jr., S. Clark, M. Radman, and P. Modrich. 1994. Mismatch repair proteins MutS and MutL inhibit RecA-catalyzed strand transfer between diverged DNAs. Proc. Natl. Acad. Sci. USA 91:32383241.   \n22. Wu, T.-H., and M. G. Marinus. 1994. Dominant negative mutations in the mutS gene of Escherichia coli. J. Bacteriol. 176:53935400.   \n23. Zahrt, T. C., G. C. Mora, and S. Maloy. 1994. Inactivation of mismatch repair overcomes the barrier to transduction between Salmonella typhimurium and Salmonella typhi. J. Bacteriol. 176:15271529. ",
+        "bbox": [
+            76,
+            277,
+            483,
+            522
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            512,
+            85,
+            924,
+            522
+        ],
+        "page_idx": 2
+    }
+]

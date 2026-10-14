@@ -1,0 +1,1137 @@
+[
+    {
+        "type": "text",
+        "text": "RecA protein assures fidelity of DNA repair and genome stability in Deinococcus radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            205,
+            766,
+            248
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Jelena Repar a,1, Svjetlana Cvjetan a,b,1, Dea Slade c,1, Miroslav Radman b,c, Davor Zahradkaa, Ksenija Zahradkaa,b,∗ ",
+        "bbox": [
+            70,
+            258,
+            685,
+            292
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a Department of Molecular Biology, Rud¯er Boskovi ˇ ´c Institute, Bijenicka 54, 10000 Zagreb, Croatia ˇ b Mediterranean Institute for Life Sciences, Mestrovi ˇ ´cevo setali ˇ ste bb, 21000 Split, Croatia ˇ c Université Paris Descartes, Faculté de Médecine, INSERM U571, 156 rue de Vaugirard, 75015 Paris, France ",
+        "bbox": [
+            70,
+            300,
+            591,
+            331
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a r t i c l e i n f o ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            360,
+            230,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "a b s t r a c t ",
+        "text_level": 1,
+        "bbox": [
+            351,
+            360,
+            460,
+            374
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Article history:   \nReceived 5 January 2010   \nReceived in revised form 2 August 2010   \nAccepted 6 August 2010   \nKeywords:   \nDeinococcus radiodurans   \nDNA repair   \n$\\gamma .$ -Radiation   \nGenome rearrangements   \nRecA protein ",
+        "bbox": [
+            68,
+            387,
+            275,
+            430
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            455,
+            198,
+            519
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deinococcus radiodurans is one of the most radiation-resistant organisms known. It can repair hundreds of radiation-induced double-strand DNA breaks without loss of viability. Genome reassembly in heavily irradiated D. radiodurans is considered to be an error-free process since no genome rearrangements were detected after post-irradiation repair. Here, we describe for the first time conditions that frequently cause erroneous chromosomal assemblies. Gross chromosomal rearrangements have been detected in recA mutant cells that survived exposure to 5 kGy $\\gamma$ -radiation. The recA mutants are prone also to spontaneous DNA rearrangements during normal exponential growth. Some insertion sequences have been identified as dispersed genomic homology blocks that can mediate DNA rearrangements. Whereas the wild-type D. radiodurans appears to repair accurately its genome shattered by 5 kGy $\\gamma$ -radiation, extremely high $\\gamma \\cdot$ - doses, e.g., 25 kGy, produce frequent genome rearrangements among survivors. Our results show that the RecA protein is quintessential for the fidelity of repair of both spontaneous and $\\gamma$ -radiation-induced DNA breaks and, consequently, for genome stability in $D .$ . radiodurans. The mechanisms of decreased genome stability in the absence of RecA are discussed. ",
+        "bbox": [
+            351,
+            388,
+            947,
+            542
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "$^ { © }$ 2010 Elsevier B.V. All rights reserved. ",
+        "bbox": [
+            719,
+            544,
+            946,
+            556
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1. Introduction ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            588,
+            176,
+            601
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Deinococcus radiodurans, an extremophile bacterium, resists extreme conditions of life, such as excessive desiccation and exposures to high doses of ionizing and ultraviolet radiation, as well as many toxic chemicals (reviewed in [1–3]). These conditions are known to severely damage the cellular genome by introducing double-strand DNA breaks (DSBs) [4]—the most severe form of chromosomal damage. Whereas most vegetative prokaryotic and eukaryotic cells can survive less than a dozen simultaneous DSBs, D. radiodurans survives extreme ionizing radiation breaking its genome into hundreds of fragments (i.e., over a thousand DSBs in a typical “polyploid” cell). Remarkably, these fragments are readily reassembled into functional chromosomes due to an efficient and precise DNA repair process [5] (reviewed in [1,6]). ",
+        "bbox": [
+            70,
+            615,
+            494,
+            785
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The mechanism of DNA repair in gamma $( \\gamma )$ -irradiated $D$ . radiodurans was found to be a recA-dependent recombination process [7,8]. The RecA protein plays a central role in homologous recombination and recombinational DNA repair in bacteria (reviewed in [9–11]). It catalyzes the key steps of the recombination process—homologous pairing and DNA strand exchange. D. radiodurans mutants with no functional RecA protein show deficiency in natural transformation and extreme sensitivity to various DNAdamaging agents, including UV, ionizing radiation and mitomycin C [8,12,13]. The deinococcal recA gene has been cloned, sequenced, and shown to be a homolog of the Escherichia coli recA gene/protein, sharing $56 \\%$ sequence identity with the E. coli RecA [8]. There are two major regulatory and functional differences between E. coli and D. radiodurans RecA proteins. First, induction of the deinococcal RecA after DNA damage seems to be controlled by a mechanism that differs from the classical SOS regulon typical of E. coli [14,15]. Second, in E. coli as well as in all other tested species, RecA preferably binds onto single-stranded DNA (ssDNA) substrate forming a nucleoprotein filament that searches for homologous duplex DNA [11]. In contrast, in vitro studies showed that D. radiodurans RecA binds with higher affinity to double-stranded DNA (dsDNA) than to ssDNA [16] and promotes an inverse DNA strand exchange reaction, binding the duplex DNA first and the homologous ssDNA second [17]. ",
+        "bbox": [
+            68,
+            786,
+            494,
+            812
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            524,
+            586,
+            946,
+            877
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Recently, the mechanism of reconstitution of the D. radiodurans genome shattered by $\\gamma$ -radiation has been identified as a two-stage process involving interdependent recombination and replication processes [18]. In the first stage, called extended synthesisdependent strand annealing (ESDSA), both ends of chromosomal fragments produced by radiation acquire long single-stranded tails by strand-elongation synthesis using overlapping homologous chromosomal fragments as templates. This synthesis was shown to depend on DNA polymerase III that is essential for the initiation of repair synthesis [19], whereas DNA polymerase I enables efficient elongation of single strands [18,19]. Newly synthesized single-strand extensions subsequently anneal with high precision, joining together contiguous DNA fragments into long linear intermediates. In the second stage, the long intermediates formed by ESDSA are matured by RecA-mediated homologous recombination into circular chromosomes, consisting of double-stranded patchworks of numerous “old” DNA blocks synthesized before radiation, connected by DNA blocks synthesized after radiation [18]. In addition to its role in the final stage of the repair process, recent molecular dissection of ESDSA suggested a role for the deinococcal RecA protein also in the early stage of the repair process, i.e., in the resection of DNA ends and in the efficient priming of the repair synthesis [19]. Moreover, it was shown that the priming of DNA synthesis requires not only RecA but also its homolog, the RadA protein, although the RecA function is dominant in this process [19]. ",
+        "bbox": [
+            524,
+            878,
+            947,
+            904
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            68,
+            475,
+            383
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Although RecA is crucial for the efficient genome reassembly in D. radiodurans, a significant residual repair was observed in irradiated recA mutant cells [18–20]. This repair is characterized by different kinetics, absence of significant DNA synthesis, and a smaller extent of DNA degradation. At present, the data suggest that the RecA-independent repair mechanism, presumably a direct synthesis-independent single-strand annealing (SSA), is able to mend individual radiation-induced DSBs but fails to reconstruct full-size chromosomes. ",
+        "bbox": [
+            52,
+            384,
+            475,
+            501
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Genome reconstitution in irradiated D. radiodurans is generally considered to be not only the most efficient, but also the most faithful DNA repair process. This view is partially based on early studies that failed to detect any increase in mutation frequency after UV, $\\gamma \\cdot$ -radiation and some chemical mutagens [21–23]. Recently, it was demonstrated that UV and $\\gamma$ -radiation induce significant transpositional mutagenesis involving insertion sequences, while $\\gamma$ -radiation was also shown to moderately increase the frequency of point mutations in D. radiodurans [24]. However, there is no indication that this mutagenesis is associated with recombinational DNA repair, which has the principal role in maintaining the global genome integrity after irradiation. Furthermore, the studies focused on the kinetics of DNA reconstitution after exposure to high $\\gamma$ -doses (up to 7000 Gy) did not reveal any deletions or rearrangements within the D. radiodurans genome [1,6,18], suggesting that chromosome reassembly is basically an error-free process. The question arises which genes, enzymes and molecular mechanisms ensure high precision of DNA repair in $D .$ radiodurans? In this work, we have focused on the role of the RecA protein in the DNA repair process and found that RecA is essential for the fidelity of genome reconstitution in $\\gamma$ -irradiated D. radiodurans. Moreover, we have shown that RecA is indispensable also for the fidelity of repair of spontaneous DNA breaks occurring during normal cell growth, and consequently, for genetic stability in $D$ . radiodurans. ",
+        "bbox": [
+            53,
+            503,
+            475,
+            832
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2. Materials and methods ",
+        "text_level": 1,
+        "bbox": [
+            52,
+            851,
+            193,
+            860
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.1. Bacterial strains and growth conditions ",
+        "text_level": 1,
+        "bbox": [
+            53,
+            871,
+            270,
+            881
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The following D. radiodurans strains were used: R1 (ATCC 13939) wild type [25] and its derivatives GY10922 $\\Delta$ (cinA ligT recA)1::kan [15] and GY10929 -(cinA ligT recA)::tet [26]. Bacteria were grown at $3 0 ^ { \\circ } \\mathrm { C }$ in TGY medium ( $0 . 5 \\%$ tryptone, $0 . 1 \\%$ glucose, $0 . 3 \\%$ yeast extract) with aeration or on TGY plates solidified with $1 . 5 \\%$ agar. ",
+        "bbox": [
+            52,
+            892,
+            475,
+            936
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.2. Survival after $\\gamma$ -irradiation ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            69,
+            665,
+            79
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacterial strains were grown in TGY medium to the late exponential phase $( \\mathrm { O D } _ { 6 5 0 } = 0 . 4 – 0 . 8$ , corresponding to $1 \\times 1 0 ^ { 8 } – 2 \\times 1 0 ^ { 8 }$ colony-forming units/ml for wild type and $1 \\times 1 0 ^ { 7 } – 2 \\times 1 0 ^ { 7 } \\mathrm { c f u / m l }$ for recA strains). Cells were washed in $1 0 \\mathrm { m M }$ sodium phosphate buffer, concentrated 10 times in the same buffer, and irradiated on ice with a $^ { 6 0 } { \\mathsf { C o } } \\gamma$ ray source at a dose rate of $1 1 \\mathrm { G y } / s$ . In most experiments, cells were irradiated with either $5 \\mathrm { k G y }$ , a dose reducing survival of the recA mutant strains $1 0 ^ { 6 } – 1 0 ^ { 7 }$ -fold, or 25 kGy, a dose reducing survival of the wild-type cells to the same low level. In additional testing of recA survivors, a dose of 3 kGy was applied. Appropriate dilutions of the cells in phosphate buffer were plated on TGY agar plates to obtain individual colonies. Following 3–5 days incubation at $3 0 ^ { \\circ } \\mathrm { C }$ , the colonies were counted to estimate cell viability. ",
+        "bbox": [
+            505,
+            90,
+            929,
+            209
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.3. UV-irradiation ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            223,
+            601,
+            233
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Bacteria were grown in TGY medium to the exponential phase $\\mathrm { { } ^ { \\prime } O D } _ { 6 5 0 } = 0 . 4 \\mathrm { { } ^ { \\prime } }$ , centrifuged and resuspended in the same volume of $1 0 \\mathrm { m M }$ sodium phosphate buffer. Five milliliter aliquots of bacterial suspension were irradiated with UV $( 2 5 4 \\mathrm { - n m } )$ light in a Petri dish with shaking, at a dose rate of $3 J / \\mathrm { m } ^ { 2 } / s$ . The viability of irradiated cells was determined as described above. ",
+        "bbox": [
+            504,
+            244,
+            929,
+            298
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.4. Kinetics of DNA repair followed by pulsed-field gel electrophoresis (PFGE) ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            312,
+            889,
+            322
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Cells were grown and exposed to $\\gamma .$ - or UV-radiation as described above, diluted in TGY to an $0 \\mathrm { D } _ { 6 5 0 } = 0 . 2$ , and incubated at $3 0 ^ { \\circ } \\mathrm { C } .$ . At different post-irradiation incubation times, $5 \\mathrm { - m l }$ aliquots of the cultures were concentrated by centrifugation, washed and suspended in $0 . 5 \\mathrm { M }$ EDTA $\\left( \\mathsf { p H 8 } . 0 \\right)$ ), and heated to $6 5 ^ { \\circ } \\mathrm { C }$ for $3 0 \\mathrm { { m i n } }$ . Cells were then pelleted and resuspended in $0 . 0 5 \\mathrm { M }$ EDTA before being embedded in an equal volume of $1 . 6 \\%$ low-melting-point ultra-pure agarose (Gibco) in $0 . 0 5 \\mathrm { M }$ EDTA. Agarose plugs containing the embedded cells were soaked overnight in a $\\scriptstyle 1 - \\mathrm { m g } / \\mathrm { m l }$ lysozyme solution in $0 . 0 5 \\mathrm { M }$ EDTA $\\left( \\mathrm { p H } 8 . 0 \\right)$ at $4 5 ^ { \\circ } \\mathrm { C }$ . The lysozyme solution was removed by aspiration and replaced with a $\\scriptstyle 1 - \\mathrm { m g } / \\mathrm { m l }$ proteinase K solution in $0 . 5 \\mathrm { M }$ EDTA–1% lauroylsarcosine $\\left( \\mathsf { p H 8 . 0 } \\right)$ . The plugs were soaked in this solution overnight at $4 5 ^ { \\circ } \\mathsf C$ and then washed two times in $0 . 5 { \\mathrm { M } }$ EDTA and three times in TE buffer. Chromosomal DNA liberated by this treatment was further treated with 30 units of NotI restriction enzyme (New England Biolabs) for $1 6 \\mathrm { h }$ at $3 7 ^ { \\circ } \\mathrm { C } ,$ and subjected to PFGE in $0 . 5 { \\times } \\mathrm { T B E }$ using a CHEF-DR III electrophoresis system (Bio-Rad). PFGE conditions were as follows: $6 { \\mathrm { { V } } } / { \\mathrm { { c m } } ^ { 2 } }$ for $^ { 2 2 \\mathrm { h } }$ at $1 2 ^ { \\circ } \\mathsf C$ , with a linear pulse ramp of 10–60 s and a switching angle of $1 2 0 ^ { \\circ }$ . Gels were stained with water containing $0 . 5 \\mu \\mathrm { g } / \\mathrm { m l }$ ethidium bromide for $3 0 \\mathrm { { m i n } }$ , destained for $1 0 \\mathrm { { m i n } }$ in water, and visualized under UV illumination. ",
+        "bbox": [
+            505,
+            334,
+            929,
+            527
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.5. DNA analysis of individual colonies by PFGE ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            542,
+            744,
+            552
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Colonies of radiation survivors, or those formed by unirradiated cells, were re-grown in TGY broth at $3 0 ^ { \\circ } C$ to the mid-exponential phase $( 0 \\mathrm { D } _ { 6 5 0 } = 0 . 2 – 0 . 4$ , corresponding to $5 \\times 1 0 ^ { 7 } – 1 \\times 1 0 ^ { 8 } \\mathrm { c f u / m l }$ for wild type and $5 \\times 1 0 ^ { 6 } – 1 \\times 1 0 ^ { 7 } \\mathrm { c f u / m l }$ for recA strains). Culture aliquots $( 5 \\mathrm { m l } )$ were taken to prepare DNA plugs that were further treated and subjected to PFGE as described above. ",
+        "bbox": [
+            504,
+            563,
+            927,
+            616
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "2.6. Verification of a DNA rearrangement by PCR ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            631,
+            746,
+            641
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Insertion of the small plasmid (CP1) into the large chromosome (DR1) at the ISDra5 location in the recA::kan mutant was verified by PCR (Fig. 4). Genomic DNA was isolated using DNeasy Blood & Tissue Kit (Qiagen) according to the supplier’s instructions. PCR amplifications were carried out with DyNAzyme DNA polymerase (Finnzymes) and the following oligonucleotide primers: $5 ^ { \\prime }$ -GAAGTCTGAAGAATGGCTGC- $. 3 ^ { \\prime }$ (primer a), 5\u0004 - AGATGTCAGAGGCATCAGAC- $_ { \\cdot 3 ^ { \\prime } }$ (primer $b$ ), $5 ^ { \\prime }$ -TTGATACTCCTCTGCCTCAC-3\u0004 (primer c), $5 ^ { \\prime }$ -CAAAGTTCGTGCTGCCATTA- $_ { \\cdot 3 ^ { \\prime } }$ (primer d), $5 ^ { \\prime }$ -TGCCATTAAGGCAGCAGTAG-3\u0004 (primer e), and $5 ^ { \\prime }$ -CTCTGCCTCACCCTAATTCA-3\u0004 (prime $f )$ . ",
+        "bbox": [
+            505,
+            653,
+            929,
+            749
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3. Results ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            767,
+            574,
+            779
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "3.1. Inaccurate assembly of DNA fragments in $\\gamma$ -irradiated recA mutants ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            794,
+            897,
+            819
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The ability of D. radiodurans to survive extreme doses of $\\gamma .$ - radiation critically depends on the functional RecA protein [7,8]. This is exemplified in Fig. 1A that presents typical survival curves for D. radiodurans wild type and recA null mutants. $\\mathsf { A } \\gamma$ -dose of $5 \\mathrm { k G y }$ that only marginally affects survival of the wild-type strain, reduces survival of the recA mutant $1 0 ^ { 6 }$ to $1 0 ^ { 7 }$ -fold (Fig. 1A). Remarkably, this drastic difference in survival between wild type and recA strains is not accompanied by a similarly sharp difference in the kinetics of DNA repair as demonstrated by pulsed-field gel electrophoresis (PFGE) (Fig. 1B and D). Despite the fact that in the population of 5 kGy-irradiated recA mutants only a few cells survive, a large fraction of cells clearly undergo substantial, but incomplete, DNA repair (Fig. 1D). As shown before [18–20], this RecA-independent repair starts $^ { 2 \\mathrm { h } }$ after irradiation but seems to abate later on and remains incomplete $^ { 2 8 \\mathrm { h } }$ after irradiation (note that wild-type cells finish the repair process in $^ { 2 - 3 \\mathrm { h } }$ ; Fig. 1B). These results suggest that death of irradiated recA cells results mostly from their inability to complete the attempted process of genome reconstitution. On the other hand, the presence of substantial residual repair in the recA cells allows the possibility that a part of cell death results from an imprecise fragment assembly leading to the formation of non-functional chromosomes. To examine the latter assumption, we have tested the fidelity of genome reconstitution in irradiated wild type and recA mutants. ",
+        "bbox": [
+            505,
+            833,
+            929,
+            938
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            68,
+            494,
+            277
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cultures of wild type, recA::kan and recA::tet cells were exposed to 5 kGy $\\gamma$ -radiation, a dose that brings the recA population to the edge of extinction (Fig. 1A). For each strain, 13–15 colonies of survivors were re-grown and their DNA was analyzed by PFGE. The DNA NotI restriction patterns of 15 selected wild-type survivors did not differ from the pattern of unirradiated (control) cells, showing 11 well-resolved DNA fragments (Fig. 2A). We note that one of the fragments in the NotI ladder (i.e., second from the bottom) is sometimes visible as a single band while sometimes appears as two closely spaced bands that could be of the same or different intensities. Since this variation is also frequently found in NotI patterns of unirradiated wild-type and recA cells (see lane C in Figs. 1B,D and 2B), we have ascribed it to some undefined inconsistency in PFGE conditions rather than to a DNA rearrangement. ",
+        "bbox": [
+            70,
+            278,
+            494,
+            397
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            522,
+            68,
+            946,
+            133
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "In contrast to the wild type, the survivors of the two recA strains exhibited frequent changes in their NotI patterns: six out of 13 recA::kan and seven out of 15 recA::tet survivors tested showed changed DNA band patterns compared to the respective unirradiated control culture (Fig. 2B and C). Two major classes of changes can be distinguished among these patterns: (i) loss of one NotI fragment (e.g., in recA::kan survivors no. 2, 5, 6 and 8; Fig. 2B) and (ii) acquisition of one fragment (e.g., in all rearranged recA::tet survivors, and particularly visible in the survivor no. 7; Fig. 2C). The latter class of change comes in two forms characterized by different sizes of the acquired fragment (Fig. 2C). In addition, the recA::kan survivors no. 10 and 12 showed a slight shift in the mobility of the fourth NotI fragment from above, a change that could be associated with a small rearrangement, possibly a DNA insertion (Fig. 2B). ",
+        "bbox": [
+            524,
+            133,
+            946,
+            317
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The results described suggest that in the absence of the functional RecA protein, some frequent aberrant DNA repair process takes place leading to inaccurate fragment assembly and gross DNA rearrangements that can be detected in the individual surviving clones. No genome rearrangements were found among 15 unirradiated cultures of both recA::tet and recA::kan strains grown to the mid-exponential phase from individual colonies (data not shown) showing that high proportion of rearranged DNA patterns observed among recA $\\gamma$ -survivors is associated with DNA-damaging treatment. ",
+        "bbox": [
+            524,
+            319,
+            947,
+            397
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe1976a53289329e1b7ba5d66803c67d6cc5046b43bb1415b885542a4f6be436.jpg",
+        "image_caption": [
+            "Fig. 1. Survival curves for D. radiodurans wild type $( \\bullet )$ , recA::kan (\u0005) and recA::tet $\\left( \\blacktriangle \\right)$ strains after $\\gamma$ -irradiation (A). Kinetics of DNA repair followed by PFGE in 5 kGy-irradiated wild type (B), 3 kGy-irradiated recA::tet (C) and 5 kGy-irradiated recA::tet (D) cells. PFGE shows NotI-treated DNA from unirradiated (control) cells (lane labeled C), and from cells immediately after irradiation (0) and at indicated incubation times (h). $\\lambda$ DNA ladder was used as a molecular mass standard (lane labeled S). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            252,
+            421,
+            761,
+            894
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/769aebc57d01bdb31e7c42a5a61f409bddc7b76a964d3cf1626d3a39294d3682.jpg",
+        "image_caption": [
+            "Fig. 2. PFGE analysis of NotI-treated DNA from survivors of $5 \\mathrm { k G y } \\gamma$ -irradiation. Analyzed is DNA from D. radiodurans wild type (A), recA::kan (B) and recA::tet (C) survivors. DNA of unirradiated cells (lane labeled C) was used as a control for each set of survivors. $\\lambda$ DNA ladder was used as a molecular mass standard (lane labeled S). Rearranged DNA patterns are marked by circles. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            213,
+            68,
+            759,
+            701
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            52,
+            765,
+            475,
+            818
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3.2. Spontaneous genome rearrangements in D. radiodurans recA mutants ",
+        "text_level": 1,
+        "bbox": [
+            50,
+            833,
+            455,
+            858
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "During the experiments described above, we unexpectedly noticed that the DNA patterns of unirradiated recA cells differ from that of the wild-type strain (compare lanes C in Fig. 2A–C). As can be seen in Fig. 2A, the control DNA pattern from wild-type cells typically contains two clusters of three well-resolved bands (hereafter referred as triplets) that range between 224 and $3 9 2 \\mathrm { k b }$ . In contrast, the control DNA pattern of the recA::tet mutant clearly lacks the third band $\\sim 3 2 6 \\mathrm { k b }$ in size) in the first triplet (Fig. 2C, lane C) suggesting that this mutant suffered a large DNA deletion. Since this change could not be associated with genetic manipulations during construction of the recA strain [26], we have concluded that it represents a spontaneous DNA rearrangement. Although it seems that the loss of a 326 kb-band in the recA::tet DNA ladder is not accompanied by appearance of a new one with different mobility (size) (Fig. 2C, lane C), we cannot exclude the possibility that a new band exists but co-migrates with some other band (e.g., with a 258-kb band—the first one in the second triplet—that seems thicker than the others). ",
+        "bbox": [
+            52,
+            872,
+            475,
+            938
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            765,
+            929,
+            936
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/cfa8c303e0d86fb6bc7fc82568c1e90791c797c1dc46b94a6a1fd6407def9baa.jpg",
+        "image_caption": [
+            "Fig. 3. Spontaneous DNA rearrangements found in D. radiodurans recA mutants. PFGE analysis of DNA from four different variants of the recA::kan strain (A) and two different variants of the recA::tet strain (B). Wt, DNA from wild type strain. S, \u0004 DNA ladder as a molecular mass standard. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            260,
+            66,
+            756,
+            341
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "An obvious DNA rearrangement has also been observed with the recA::kan strain (compare lanes C containing control DNA from unirradiated wild-type and recA::kan strains in Fig. 2A and B). Interestingly, the control DNA pattern from the recA::kan cells differs not only from the wild type but also from the recA::tet pattern (see lane C in Fig. 2C). In addition to the loss of the third band in the first triplet, the recA::kan mutant shows a new band of approximately $2 7 0 \\mathrm { k b }$ , positioned close to the second triplet (see lane C in Fig. 2B). This result suggests that the recA::kan cells underwent a different type of spontaneous DNA rearrangement than the recA::tet mutants. We speculate that the new band in the recA::kan pattern originates from the third band in the first triplet that has lost a part of its sequence. This loss could be explained by a large DNA deletion, however such event would probably cause cell death. Hence, we suggest a DNA translocation as an alternative explanation for the observed rearrangement (although the PFGE pattern does not provide apparent evidence in favor of this assumption). ",
+        "bbox": [
+            70,
+            397,
+            494,
+            620
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "In the course of this study, we found some more types of spontaneous DNA rearrangements in recA mutants. In total, we have managed to isolate four variants of the recA::kan strain and two variants of the recA::tet strain that differ in their NotI patterns (Fig. 3). The most striking DNA rearrangement is observed with the recA::kan variant no. 1 (see lane 1 in Fig. 3A). In addition to the rearrangements that have been described above (the loss of the third band in the first triplet and the gain of a new band between the triplets), this variant exhibits two more changes: loss of the smallest NotI fragment and appearance of (at least) one new fragment in the second triplet (that now looks like a quadruplet). Another interesting observation is that the recA::kan variant no. 2 (that has been isolated as a derivative of the variant no. 1) acquired the wild type pattern (compare lanes 2 and wt in Fig. 3A). ",
+        "bbox": [
+            70,
+            621,
+            494,
+            804
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The recA mutants of D. radiodurans growing in the absence of any exogenous damage show 10-fold lower viability than the wildtype cells [15] (our unpublished observation) suggesting that RecA protein has a crucial role in the repair of endogenous DNA lesions. The results described above reveal that recA mutants are prone to gross spontaneous DNA rearrangements during normal exponential growth. Hence, we infer that the RecA protein is indispensable for the fidelity of repair of DNA lesions occurring spontaneously during normal cell growth, and consequently, for genome stability of D. radiodurans. ",
+        "bbox": [
+            70,
+            807,
+            494,
+            936
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.3. Dra5 insertion sequence mediates a specific genome rearrangement in D. radiodurans recA mutants ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            397,
+            870,
+            422
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "The most intriguing spontaneous DNA rearrangement observed in recA mutants was the loss of the smallest $( \\sim 4 6 \\ – \\mathrm { k b } )$ ) NotI fragment (see DNA pattern of the recA::kan variant no. 1 in Fig. 3A) that corresponds to the linearized form of the D. radiodurans small plasmid CP1. Formally, three events could account for the absence of the CP1 fragment: (i) loss of the whole CP1 from the cell (due to aberrant segregation), (ii) a large deletion that would increase electrophoretic mobility of the fragment, and (iii) integration of CP1 into one of the three other chromosomal elements. Since the first two events are likely to be lethal to the cell, we have considered the third option. The integration of the plasmid DNA into other chromosomal elements would require a suitable block of homology which could be provided by interspersed repetitive sequences. Available genome sequence data showed that CP1 contains several insertion sequences (ISs) which are also present on the large chromosome and on the mega-plasmid [27]. In silico analysis of possible IS-related rearrangements led us to consider ISDra5 as a target sequence for the observed DNA rearrangement (Fig. 4A and B). ISDra5 (also designated AXL DR) is a 912 bp-insertion sequence present in two identical copies in D. radiodurans genome, one of which is situated on CP1 plasmid and the other on the large chromosome DR1 [27] (Fig. 4A). Integration of CP1 into DR1 at ISDra5 location is expected to result in the loss of a 392 kb-fragment and appearance of two smaller NotI fragments (of 211 and $2 2 6 \\mathrm { k b }$ ) (Fig. 4A), the change that agrees with the NotI pattern of the recA::kan variant no.1 (Fig. 4B). This rearrangement was finally confirmed by PCR analysis which showed that CP1 is inserted into the large chromosome in a clockwise orientation, flanked by two directly repeated ISDra5 sequences (Fig. 4C,D). ",
+        "bbox": [
+            524,
+            438,
+            947,
+            817
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "3.4. Frequency of spontaneous genome rearrangements in recA mutants ",
+        "text_level": 1,
+        "bbox": [
+            522,
+            833,
+            910,
+            858
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "To estimate the frequency of spontaneous rearrangements that apparently occur in the absence of the functional RecA protein, recA::tet cells were continuously grown in TGY broth by successive reinoculations for 24 generations (approximately 5-fold longer growth period than in aforementioned experiments). Cells were then plated on TGY agar, and DNA from 15 individual colonies was analyzed by PFGE. The results are shown in Fig. 5A. Thirteen out of 15 colonies analyzed exhibited the same NotI pattern as the recA::tet control culture (the one from which the inoculum was taken at the very beginning of the experiment). Two clones (no. 6 and 12), however, underwent a specific type of DNA rearrangement—a slightly changed positions of the bands in the second cluster (quadruplet). From these results we estimate that the frequency of spontaneous genome rearrangements in recA mutants amounts to $1 3 . 3 3 \\%$ per 24 generations, i.e., $0 . 5 5 \\%$ per generation. ",
+        "bbox": [
+            522,
+            872,
+            946,
+            938
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/beddbd3624232503a4a50c2323bf38b5283b4ec17eb7b4eb91a4f36e807bda4c.jpg",
+        "image_caption": [
+            "Fig. 4. Identification of Dra5 insertion sequence as a homology block that cause a specific genome rearrangement in the recA::kan mutant—integration of the small plasmid into the large chromosome. (A) The location of the shared ISDra5 sequence (green rectangles) on two chromosomal elements—the small plasmid (CP1) and the large chromosome (DR1). (B) The NotI patterns of DNA from wild type and recA::kan cells, with arrows pointing at the rearrangements caused by plasmid insertion. (C) Scheme depicting two possible orientations of plasmid integration into the chromosome. Arrows indicate positions of oligonucleotide primers (a–f) used in PCR analysis. Green rectangles represent ISDra5 sequences. (D) PCR verification of the integration of the CP1 plasmid into the large chromosome at the ISDra5 location. I–V, PCR reactions using different combinations of primers. 2-Log DNA ladder (NEB) was used as a molecular mass standard. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            216,
+            59,
+            766,
+            633
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            737,
+            475,
+            881
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Since D. radiodurans may thrive in dry and nutrient-poor environments (e.g. deserts, rock surfaces, room dust, etc.) [1], it is possible that fast growth in the laboratory conditions (i.e., in the rich TGY medium) leads to a higher incidence of spontaneous DSBs and consequently, to increased requirement for efficient recombinational repair. If so, we assumed that in the conditions of slower growth, the requirement for the RecA recombinase would be lowered, possibly leading to a higher genome stability of the recA mutants. To check this assumption, we examined how conditions of reduced nutrients affect genome instability observed with the recA mutants. For this purpose, we repeated the above experiment of prolonged growth of the recA::tet mutants using TGY $1 / 1 0$ medium that contained all nutrient components as standard TGY but in 10- fold lower concentration. In the TGY $1 / 1 0$ medium, recA mutant cells exhibited 1.5-fold longer mass-doubling time than in the standard TGY medium (not shown). Surprisingly, after 24 generations of growth, five out of 15 clones showed rearranged DNA (Fig. 5B). Among the five clones with rearranged DNA, four clones exhibited the same DNA pattern as that already found after prolonged growth in the standard TGY medium (see Fig. 5A, lines 6 and 12), while one clone (no. 13) showed an additional DNA rearrangement (i.e., loss of the CP1 plasmid), resulting in the same DNA pattern as that observed with the recA::kan variant no. 1 (see Fig. 3A). These results show that growth under conditions of reduced nutrients does not suppress genome instability in recA cells. Rather, it seems that food deprivation favors the occurrence of DNA rearrangements. ",
+        "bbox": [
+            52,
+            882,
+            475,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            737,
+            929,
+            934
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "image",
+        "img_path": "images/a2b2f5f53f2b9ea2d3cf0e08abd559f5308b564c4205e49dbee5e2f52c4720f3.jpg",
+        "image_caption": [
+            "Fig. 5. DNA analysis of 15 individual colonies of D. radiodurans recA::tet cells grown for 24 generations by succesive reinoculations. Cells were grown in TGY (A) and TGY $1 / 1 0$ (B) medium to the late exponential phase, then diluted $1 0 0 0 \\times$ in the fresh medium and regrown; the procedure was repeated until 24 mass-doublings were obtained. DNA from recA::tet start culture was used as a control (lane labeled C). Rearranged DNA patterns are marked by circles. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            215,
+            66,
+            801,
+            278
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            335,
+            494,
+            427
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "3.5. The origin of DNA rearrangements in $\\gamma$ -irradiated recA mutants ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            440,
+            435,
+            465
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "We assumed that genome rearrangements observed in irradiated recA mutants (Fig. 2B and C) arose during attempted postirradiation DNA repair. However, the finding of spontaneous DNA rearrangements in recA cells led us to re-examine the above assumption. Notably, there is a possibility that some of the spontaneous rearrangements lead to an increased capacity for DNA repair. If so, a high incidence of genome rearrangements in $\\gamma .$ -survivors could be simply a consequence of selection of radiation-resistant variants that were present in the population prior to irradiation. To check this possibility, we have re-grown all recA $\\gamma$ -survivors previously tested for DNA rearrangements (Fig. 2B and C) and measured their $\\gamma$ -sensitivity. From a total of 28 examined cultures of recA survivors, only three displayed a significant increase (6-, 14- and 140-fold) in $\\gamma$ -ray resistance (Table 1), however none of them belonged to the group of survivors with rearranged genomes (see Fig. 2B and C). Among 12 cultures of rearranged recA survivors, one half showed no changes in $\\gamma$ -sensitivity (those with relative survival ranging from 0.83 to 1.50), while the other half had only a marginally increased $\\gamma$ -resistance (with relative survival ranging from 2.25 to 3.20) (Table 1). Similar distribution of $\\gamma$ -sensitivity was observed among non-rearranged recA survivors (except for the three resistant survivors mentioned above). These results do not reveal any correlation between gross DNA rearrangements detected by PFGE and increased $\\gamma \\cdot$ -resistance in recA survivors. Hence, it can be concluded that gross genome rearrangements in $\\gamma$ -survivors are caused, rather than being selected by, radiation and presumably result from aberrant post-irradiation DNA repair. It should be mentioned that this conclusion does not necessarily apply to smaller genomic changes that may be present but remain unrevealed due to the limited resolution power of PFGE. ",
+        "bbox": [
+            70,
+            477,
+            494,
+            871
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "In order to further investigate the link between DNA damage caused by $\\gamma$ -irradiation and genome rearrangements, we have performed an experiment in which a lower dose of $\\gamma$ -radiation $( 3 \\mathrm { k G y }$ instead of $5 \\mathrm { k G y }$ ) was applied to recA::tet cells and DNA samples isolated from 30 survivors were subjected to NotI restriction analysis. ",
+        "bbox": [
+            70,
+            873,
+            494,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Exposure of recA::tet cells to 3 kGy $\\gamma$ -irradiation caused $1 0 ^ { 5 } – 1 0 ^ { 6 }$ - fold reduction of viability, a survival that is approximately 10-fold higher than that observed after exposure to $5 \\mathrm { k G y }$ (see Fig. 1A). As judged from pulsed-field gels, reduction of dose to 3 kGy resulted in less pronounced DNA fragmentation upon irradiation whereas the kinetics of DNA repair appeared similar to that observed after $5 \\mathrm { k G y }$ (Figs. 1C and D). None of $3 0 ~ r e c A$ survivors tested displayed visible changes in their NotI patterns (data not shown) thus clearly demonstrating that reduction of dose from 5 to $3 \\mathrm { k G y }$ resulted in a strong decrease in the frequency of gross genome rearrangements. This suggests that the incidence of DNA rearrangements after $\\gamma$ - irradiation depends on the amount of DNA damage inflicted (the higher dose applied the stronger enhancement in genomic rearrangements). ",
+        "bbox": [
+            524,
+            336,
+            947,
+            519
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The finding that high doses of $\\gamma$ -radiation stimulate DNA shuffling in recA mutants conceivably leads to the assumption that double-strand breaks introduced by $\\gamma$ -irradiation represent the main trigger for chromosomal rearrangements. To test this assumption, we have checked if rearrangements in recA mutants could be also stimulated by UV light, an agent that does not directly introduce DSBs. For this test, we have used the UV-irradiation dose ",
+        "bbox": [
+            522,
+            522,
+            947,
+            612
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "table",
+        "img_path": "images/5cefe8778c40a4b15f648f411e88153931961f5049f1f3f7ef7da788beeafc25.jpg",
+        "table_caption": [
+            "Table 1 $\\gamma \\cdot$ -Sensitivity test for recA survivors isolated after irradiation with 5 kGy. "
+        ],
+        "table_footnote": [
+            "a Unirradiated corresponding recA culture was used as a control. Cultures of survivors that exhibited rearranged DNA pattern compared to the unirradiated control culture (see Fig. 2B and C) are designated with (R). "
+        ],
+        "bbox": [
+            521,
+            663,
+            947,
+            871
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "b Survival after 3 kGy $\\gamma$ -irradiation for each survivor was given relative to that of the unirradiated (control) culture of the corresponding strain. Values are averages of two measurements for each culture. ",
+        "bbox": [
+            522,
+            907,
+            947,
+            938
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/6df1b15fe3511a0dd73ae592327079280bf3779747c17897e29153bc185a3370.jpg",
+        "image_caption": [
+            "Fig. 6. Survival curves for D. radiodurans wild type $( \\bullet )$ and recA::tet $( \\blacktriangle )$ strains after UV-irradiation (A). Kinetics of DNA repair followed by PFGE in $1 1 0 0 \\mathrm { J } / \\mathrm { m } ^ { 2 }$ UV-irradiated wild-type (B) and recA::tet (C) cells. PFGE shows NotI-treated DNA from unirradiated (control) cells (lane labeled C), and from cells immediately after irradiation (0) and at indicated incubation times (h). $\\lambda$ DNA ladder was used as a molecular mass standard (lane labeled S). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            183,
+            68,
+            796,
+            264
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "of $1 1 0 0 \\mathrm { J } / \\mathrm { m } ^ { 2 }$ that causes $1 0 ^ { 7 }$ -fold drop of the recA cell viability (Fig. 6A), an effect similar to that provoked by $\\gamma$ -irradiation dose of $5 \\mathrm { k G y }$ . The kinetics of DNA repair in UV-irradiated wild-type and recA strains (presented in Fig. 6B and C) differs significantly from the kinetics observed with the same strains after $\\gamma .$ -irradiation (Fig. 1B and D). In contrast to the effect of $\\gamma$ -rays, exposure to UV does not lead to an immediate fragmentation of the genome. Rather, fragmentation proceeds gradually during postirradiation incubation, reaching its maximum approximately 1 and $^ { 4 \\mathrm { h } }$ after UV-irradiation, in wild-type and recA strain, respectively (Fig. 6B and C). This is in accord with notion that DSBs associated with UV arise in an indirect way, involving excision repair of pyrimidine dimers closely spaced on opposite DNA strands [28] and DNA replication that proceeds on nicked (or gapped) template [29]. The difference in duration of DNA fragmentation between wild-type strain and recA mutant is most probably determined by different capacities of the two strains to commence DNA repair process. In UV-irradiated wild-type strain, progressive DNA fragmentation is counteracted by an exceptionally efficient DNA repair which restores chromosomes within $^ { 3 \\mathrm { h } }$ of postirradiation incubation (Fig. 6B). In the recA mutant, however, crippled DNA repair machinery cannot cope with ongoing DNA fragmentation thus allowing a longer period of DSB accumulation. As in $\\gamma \\cdot$ -irradiation experiment, the RecA-independent mechanism was unable to finish DNA repair process in vast majority of UV-irradiated recA cells (Fig. 6C). ",
+        "bbox": [
+            53,
+            324,
+            475,
+            653
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Although the $1 1 0 0 \\mathrm { J } / \\mathrm { m } ^ { 2 }$ UV treatment caused severe loss of cell viability (comparable to the effect of $5 \\operatorname { k G y } \\gamma $ -irradiation), we could not detect any rearrangement in NotI restriction patterns of 29 UV-survivors (Supplementary Figure). This could be explained if we assume that some of the UV-associated DNA lesions that may cause killing of recA cells (e.g., unrepaired pyrimidine dimers or single-strand DNA gaps) do not necessarily enhance genome rearrangements. On the other hand, the amount of DSBs produced by UV-dose of $1 1 0 0 \\mathrm { J } / \\mathrm { m } ^ { 2 }$ may be insufficient to increase the frequency of rearrangements to the level that could be measured in our experimental conditions. ",
+        "bbox": [
+            52,
+            654,
+            475,
+            707
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            505,
+            324,
+            929,
+            416
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3.6. Fidelity of genome reconstitution is compromised also in wild-type D. radiodurans exposed to very high radiation doses ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            432,
+            884,
+            457
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "To examine whether genome rearrangements occur exclusively in the absence of the functional RecA protein or could also happen in irradiated wild-type cells, we tested the fidelity of fragment reassembly in wild-type cells irradiated with $2 5 \\mathrm { k G y }$ , a dose reducing survival of the wild type to the same low level as $5 \\mathrm { k G y }$ did with recA cells (i.e., survival of $1 0 ^ { - 7 } – 1 0 ^ { - 6 } ,$ ). Interestingly, five out of 22 survivors tested showed changed NotI patterns compared to the unirradiated control (Fig. 7). The changes appeared either as a loss of a fragment (e.g., in survivor no. 19), gain of a new fragment (e.g., in survivors no. 13 and 21) or both (as can be seen in survivors no. 6 and 11). The most frequent change is the loss of the third fragment in the first triplet (see survivors no. 6, 11 and 19) that has already been observed as a major spontaneous DNA rearrangement in recA mutants. In addition, the loss of the smallest NotI fragment in survivor no. 11 corresponds to the spontaneous rearrangement observed in one of the recA::kan variants (see Fig. 3A). ",
+        "bbox": [
+            505,
+            472,
+            929,
+            682
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "These results show that genome reconstitution in wild-type $D$ . radiodurans after extremely high $\\gamma$ -doses (such as $2 5 \\mathrm { k G y }$ ) is not precise and frequently produces gross chromosomal rearrangements similar to those seen in the recA mutants. Apparently, the high accuracy of DNA repair that is characteristic of wild-type $D$ radiodurans has its limits and becomes compromised at $\\gamma$ -doses that cause almost $1 0 0 \\%$ lethality. In addition, the results described above suggest that some of the rearrangements in extremely irradiated wild-type cells involve the same recombination hotspots as those found in recA mutants, although DNA fragment size after $2 5 \\mathrm { k G y }$ is much smaller than after 5 kGy $\\gamma$ -irradiation. ",
+        "bbox": [
+            504,
+            683,
+            929,
+            709
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "image",
+        "img_path": "images/a05d5473c5d8d217b99d816f07d806e948ce565b295f41777b330cdc850d56c0.jpg",
+        "image_caption": [
+            "Fig. 7. PFGE analysis of NotI-treated DNA from 22 D. radiodurans wild-type survivors of $2 5 \\mathrm { k G y }$ $\\gamma$ -irradiation. S, \u0004 DNA ladder as molecular mass standard. C, DNA of unirradiated (control) cells. Rearranged DNA patterns are marked by circles. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            186,
+            726,
+            791,
+            907
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            68,
+            494,
+            186
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "4. Discussion ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            213,
+            163,
+            225
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This work describes for the first time the conditions that impair the remarkable fidelity of DNA repair in D. radiodurans. The major finding is that the RecA protein, the main bacterial recombinase, has a crucial role in maintaining genome stability in these heavily irradiated bacteria. We have demonstrated that residual DNA repair, which is operative in recA mutants, is not only inefficient, but also a quite imprecise process which frequently causes chromosome misassembly. Gross chromosome rearrangements have been detected in more than $4 0 \\%$ of cultures obtained from recA cells that have survived exposure to $5 \\mathrm { k G y }$ of $\\gamma$ -irradiation (Fig. 2B and C). Much higher frequency and larger repertoire of genome rearrangements can be expected among non-surviving cells that comprise almost $1 0 0 \\%$ of the population after the $\\gamma$ -dose applied. By analyzing the surviving cells we can detect only those DNA rearrangements that did not lead to the loss of any vital gene. It is likely that chromosome rearrangements themselves are the main cause of dying in a high proportion of irradiated recA cells. We are currently developing a methodology that could allow us to identify and quantify lethal genome rearrangements that are out of range of the present study. ",
+        "bbox": [
+            70,
+            238,
+            494,
+            501
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The finding that exposure to $\\gamma$ -irradiation leads to chromosome rearrangements in recA mutants immediately suggests that DSBs are the lesions that underlie the observed genome instability. Such assumption is corroborated by experiments with UV-irradiation which show that dose of $1 1 0 0 \\mathrm { J } / \\mathrm { m } ^ { 2 }$ cause the same cell killing effect in recA mutant as $5 \\mathrm { k G y }$ of $\\gamma$ -radiation (Figs. 1A and 6A), but does not induce genome rearrangements, at least not at frequency that could be detected in our experimental conditions (Supplementary Figure). In UV-irradiated cells, DSBs arise as secondary lesions which certainly affect cell viability, especially in repair deficient strains such as recA mutants. However, the significant part of cell killing may result from other secondary lesions such as ssDNA gaps, which also require RecA function in order to be repaired. Hence, it is possible that UV-dose of $1 1 0 0 \\mathrm { J } / \\mathrm { m } ^ { 2 }$ , although being equally lethal to recA cells as $5 \\mathrm { k G y }$ of $\\gamma$ -irradiation, does not produce sufficient amount of DSBs that could frequently induce gross genome rearrangements. In addition, UV-induced DSBs appear gradually during postirradiation time (Fig. 6C), which could also influence the probability for genome rearrangements. In heavily $\\gamma$ -irradiated cells, DNA is instantly broken into numerous fragments, and it is very likely that such situation increases chances for erroneous chromosome assembly. ",
+        "bbox": [
+            70,
+            504,
+            494,
+            793
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The results of our analysis showed that D. radiodurans wild-type cells undergo accurate DNA repair following $5 \\mathrm { k G y }$ of $\\gamma$ -irradiation, however numerous genome rearrangements have been detected among wild-type survivors after exposure to $2 5 \\mathrm { k G y }$ (Fig. 7). The lowered fidelity of DNA repair at such a high dose could be attributed to overabundance of DNA lesions that led to the saturation of the RecA-associated repair machinery. We could speculate that in such conditions a fraction of DNA lesions is redirected to an alternative, RecA-independent repair pathway that is less accurate. Another explanation for reduced repair fidelity is that after such extreme irradiation, cellular proteins (including DNA repair proteins) are extensively oxidized as to impair their activity and specificity. This assumption is based on a recent study suggesting that protein oxidation is the primary cause of bacterial radiosensitivity [30]. Even in D. radiodurans that is suggested to possess a highly efficient anti-oxidative protection [30], applying extreme doses of $\\gamma \\cdot$ -radiation may lead to a gradual protein inactivation. Hence, wild type cells irradiated with $2 5 \\mathrm { k G y }$ could behave like recA phenocopies that consequently exhibit chromosome instability. ",
+        "bbox": [
+            70,
+            794,
+            494,
+            938
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            524,
+            68,
+            946,
+            172
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Another interesting observation is that D. radiodurans recA cells experience spontaneous chromosomal rearrangements during normal growth in the laboratory conditions. Most likely, these rearrangements are associated with a RecA-independent repair of DSBs that occasionally occur during normal DNA replication. The studies on E. coli and other organisms showed that DSBs can arise when a replication fork runs into a nicked template or when it is stalled on different structural obstacles [29,31–33]. Collapsed or broken replication forks may provide free ends that must be properly processed by recombination enzymes in order to preserve chromosomal integrity and to allow resumption of replication. In D. radiodurans cells that are devoid of the RecA protein, such ends are likely to be the source of chromosome instability. A part of their recombinogenic potential might arise from the fact that $D$ . radiodurans lacks a powerful nuclease such as RecBCD enzyme of E. coli. RecBCD was shown to catalyze extensive (so-called “reckless”) chromosome degradation in E. coli recA mutants that experienced either spontaneous or exogenously induced DSB [34–37]. In addition to RecBCD, D. radiodurans also lacks ExoI [27], a $3 ^ { \\prime } { - } 5 ^ { \\prime }$ ssDNA exonuclease that is considered to be a threat for recombinogenic ${ \\boldsymbol { 3 ^ { \\prime } } }$ ssDNA tails in E. coli [9]. It could be expected that the absence of the above mentioned nucleases in D. radiodurans results in a higher stability of DNA ends and their increased availability for recombination processes. ",
+        "bbox": [
+            524,
+            174,
+            947,
+            489
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The repeated occurrence of discrete DNA rearrangements observed in our study suggests the existence of recombinational hotspots in the deinococcal genome. Previous studies on both prokaryotic and eukaryotic model organisms have identified repetitive DNA elements as a major source of genomic change [38–40]. While the present work was in progress, an extensive study was published describing the complex spectrum of chromosome aberrations that arise in $\\gamma$ -irradiated yeast as a result of homologous recombination between repetitive elements, mostly retrotransposons [41]. The genome of $D _ { * }$ . radiodurans contains a number of repetitive elements, including insertion sequences (ISs) and small noncoding repeats (SNRs) [27,42]. ISs comprise almost $2 \\%$ of $D$ radiodurans DNA, which is one of the highest IS contents observed among sequenced bacterial genomes [27]. It was shown recently that $\\gamma .$ - and UV-irradiation induce transposition of a single IS, ISDra2, in D. radiodurans genome [24,43]. However, there have been no reports to date demonstrating that ISs or other repetitive elements might influence DNA repair process in this bacterium. The failure of previous studies to detect any genome rearrangement associated with the repair of DNA damage raised the possibility that D. radiodurans possesses some regulatory mechanism that negatively controls recombination between repetitive sequences [3]. The present work demonstrates not only that recombination between repetitive (insertion) sequences indeed occurs in D. radiodurans but also that it may cause DNA rearrangement as drastic as the fusion of two chromosomal elements (Fig. 4). Our results suggest that the RecA protein is involved in the avoidance of such chromosomal rearrangements. ",
+        "bbox": [
+            524,
+            491,
+            946,
+            858
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The questions remain as to the recombination mechanism(s) that rearrange D. radiodurans genome while recovering from DNA damage, which enzymes are involved, and how is this process inhibited by the RecA protein? Recent studies have shown that the RecA-independent recombinational repair in D. radiodurans proceeds without significant DNA synthesis [18,19]. Three mechanisms could account for this repair: single-strand annealing (SSA), conservative homologous recombination (HR), and nonhomologous end joining (NHEJ). SSA has been earlier invoked to explain DSBs mending observed in recA mutants of D. radiodurans [20]. It was suggested that SSA occurs between different copies of broken D. radiodurans chromosomes at early times after irradiation as a preparatory step for further DNA repair that is RecA-dependent [20]. The studies on eukaryotes have revealed the potential of SSA to produce intra- and inter-chromosomal rearrangements (reviewed in [39]). SSA can produce DNA deletions in cases when a DSB occurs between two direct repeats that are positioned relatively close to each other so that end resection may expose homologies required for annealing. When the repeats are distantly located on the same chromosome or are present on two different chromosomes, each repeat should suffer a DSB, either within itself or in the flanking region, in order to be engaged in the SSA process. The latter scenario requires high density of DSBs, the condition that is met only when cells are exposed to very severe DNA-damaging treatment (e.g., after extreme doses of ionizing radiation). While SSA could be responsible for some of radiation-induced rearrangements that we observed in recA cells, it is less likely that the same mechanism accounts for the spontaneous rearrangement characterized in this work, i.e., integration of the small D. radiodurans plasmid into the large chromosome (Fig. 4). If this particular rearrangement is to occur via SSA, DSBs should arise concomitantly in both IS copies positioned on two separated chromosomal elements, a situation that could hardly be expected during normal cell growth. Rather, we hypothesize that the spontaneous rearrangement was triggered by a single DSB in one of the IS copies, and that the underlying molecular mechanism was similar to classical homologous recombination involving the crossing over. ",
+        "bbox": [
+            524,
+            860,
+            947,
+            938
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            53,
+            70,
+            475,
+            475
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Our results do not give any indication that NHEJ is involved in RecA-independent DNA repair. As mentioned above, DNA rearrangements observed in our study suggest the existence of recombinational hotspots, which is not compatible with NHEJ. However, we cannot exclude that NHEJ could contribute to DNA rearrangements, especially in dead cells that could not be analyzed in this work. ",
+        "bbox": [
+            52,
+            477,
+            475,
+            568
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "In the absence of the RecA protein, both SSA and HR could be aided by other DNA pairing enzymes, although with much lower efficiency. A plausible candidate for this function is the RadA protein that has recently been identified as an auxiliary recombinase in RecA-catalyzed reactions [19]. Inactivation of the radA gene was shown to moderately increase $\\gamma .$ -sensitivity of D. radiodurans recA mutants suggesting that RadA has a role in RecA-independent recombination [19]. Additional participants in this process could be RecF, RecO, and RecR enzymes, but their function is poorly characterized in D. radiodurans. In E. coli, RecFOR complex has been shown to play an important role in mediating the loading of RecA onto ssDNA substrate [44]. In addition, in vitro studies on the E. coli RecO protein revealed the ability of this enzyme to promote annealing of ssDNA covered with the SSB protein, a function that could be relevant for the SSA process in vivo [45]. A recO null mutant of D. radiodurans was constructed and shown to be extremely sensitive to UV and $\\gamma \\cdot$ -radiation suggesting that RecO plays important role in DNA repair [46]. It remains to be elucidated which is the exact role of the deinococcal RecFOR proteins in recombinational DNA repair, and to which extent they contribute to both RecA-dependent and -independent recombination pathways. ",
+        "bbox": [
+            53,
+            569,
+            475,
+            844
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Slade et al. [19] showed that $\\gamma$ -irradiated wild-type D. radiodurans cells undergo extensive DNA degradation associated with resection of DNA ends produced by radiation. It was suggested that this process produces ${ \\boldsymbol { 3 ^ { \\prime } } }$ ssDNA tails required for ESDSA. Remarkably, such DNA degradation is largely diminished in recA mutants suggesting that RecA protein itself could be involved in stimulating DNA end resection, possibly by a helicase-like activity [19]. ",
+        "bbox": [
+            52,
+            847,
+            475,
+            938
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "These findings imply that ssDNA ends that are formed in recA mutants upon irradiation are much shorter than those produced in wild-type cells. If assumed that a majority of rearrangements is initiated by repeat-related DSBs, different extent of end resection could explain why the RecA-dependent recombination pathway avoids DNA rearrangements in contrast to the highly erroneous RecA-independent pathway. An extensive RecA-dependent endresection and DNA synthesis produce long ssDNA overhangs in which the length of the repetitive sequence might represent only a minor fraction [18]. In such case, the RecA-mediated DNA pairing might be determined by flanking regions rather than by the repetitive element itself. Consequently, the RecA-dependent pathway would favor pairing with the allelic part on the sister chromosome thus preserving the contiguity of the genome. However, in the absence of RecA, a limited end resection would expose short ssDNA overhangs. When containing a repetitive sequence, such overhangs could pair with similar probability with many members of the repetitive sequence family, which would inevitably lead to genome rearrangements. The identified rearrangement mediated by two identical ISs (Fig. 4) is reminiscent of a study in E. coli that showed that both HR and SSA are efficiently prevented by low sequence divergence and mismatch repair [47,48]. Since SSA is known to pair even micro-homologies of several bases, thereby causing deletions [49], we presume that the SSA process may be the main source of chromosomal rearrangements in D. radiodurans. ",
+        "bbox": [
+            505,
+            68,
+            929,
+            397
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Chromosomal rearrangements have serious biological consequences including cancer, low cell fitness and death. As long as DNA repair assures that all functional genes are present in a damaged cell, there is hope of its return to life, perhaps following long recovery periods required to turn over the damaged proteome. Our ongoing study of DNA rearrangements in irradiated dead cells may provide the answer to a fundamental question that is quintessential to cancer therapies: is cell death in fine caused exclusively by the loss of genes and/or their impaired expression? ",
+        "bbox": [
+            505,
+            398,
+            929,
+            515
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Conflict of interest statement ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            530,
+            702,
+            542
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "The authors declare that there are no conflicts of interest. ",
+        "bbox": [
+            527,
+            557,
+            892,
+            569
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Acknowledgements ",
+        "text_level": 1,
+        "bbox": [
+            504,
+            583,
+            638,
+            596
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "We thank the Laboratory for Radiation Chemistry and Dosimetry at Ru –der Boskovi ˇ c Institute, Zagreb for the use of the ´ $^ { 6 0 } { \\sf C o } \\gamma$ -source, and especially Milan Blazeviˇ c for his help in´ $\\gamma$ -irradiation. J.R. and S.C. are doctoral fellows of the Croatian Ministry of Science, Education and Sports that supported this research at RBI in Zagreb (grant no. 098-0982913-2862 to D.Z.). Research of S.C. in Split was supported by the MedILS institutional funds. D.S. was a Boehringer Ingelheim Fonds PhD Fellow and holds an AXA Research Fund post-doctoral fellowship, and her work was supported by INSERM, France. ",
+        "bbox": [
+            505,
+            610,
+            929,
+            741
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Appendix A. Supplementary data ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            755,
+            731,
+            769
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Supplementary data associated with this article can be found, in the online version, at doi:10.1016/j.dnarep.2010.08.003. ",
+        "bbox": [
+            505,
+            781,
+            929,
+            808
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "References ",
+        "text_level": 1,
+        "bbox": [
+            505,
+            822,
+            578,
+            834
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "[1] J.R. Battista, Against all odds: The survival strategies of Deinococcus radiodurans, Annu. Rev. Microbiol. 51 (1997) 203–224.   \n[2] M.M. Cox, J.R. Battista, Deinococcus radiodurans—The consummate survivor, Nat. Rev. Microbiol. 3 (2005) 882–892.   \n[3] M. Blasius, S. Sommer, U. Hübscher, Deinococcus radiodurans: What belongs to the survival kit? Crit. Rev. Biochem. Mol. Biol. 43 (2008) 221–238.   \n[4] V. Mattimore, J.R. Battista, Radioresistance of Deinococcus radiodurans: Functions necessary to survive ionizing radiation are also necessary to survive prolonged desiccation, J. Bacteriol. 178 (1996) 633–637. [5] C.J. Dean, P. Feldschreiber, J.T. Lett, Repair of X-ray damage to the deoxyribonucleic acid in Micrococcus radiodurans, Nature 209 (1966) 49–52.   \n[6] K.W. Minton, DNA repair in the extremely radioresistant bacterium Deinococcus radiodurans, Mol. Microbiol. 13 (1994) 9–15.   \n[7] M.J. Daly, L. Ouyang, P. Fuchs, K.W. Minton, In vivo damage and recA-dependent repair of plasmid and chromosomal DNA in the radiation-resistant bacterium Deinococcus radiodurans, J. Bacteriol. 176 (1994) 3508–3517.   \n[8] P.D. Gutman, J.D. Carroll, C.I. Masters, K.W. Minton, Sequencing, targeted mutagenesis and expression of a recA gene required for the extreme radioresistance of Deinococcus radiodurans, Gene 141 (1994) 31–37.   \n[9] S.C. Kowalczykowski, D.A. Dixon, A.K. Eggleston, S.D. Lauder, W.M. Rehrauer, Biochemistry of homologous recombination in Escherichia coli, Microbiol. Rev. 58 (1994) 401–465.   \n[10] A. Kuzminov, Recombinational repair of DNA damage in Escherichia coli and bacteriophage \u0004, Microbiol. Mol. Biol. Rev. 63 (1999) 751–813.   \n[11] M.M. Cox, Regulation of bacterial RecA protein function, Crit. Rev. Biochem. Mol. Biol. 42 (2007) 41–63.   \n[12] B.E. Moseley, H.J. Copland, Isolation and properties of a recombination-deficient mutant of Micrococcus radiodurans, J. Bacteriol. 121 (1975) 422–428.   \n[13] C.I. Masters, M.D. Smith, P.D. Gutman, K.W. Minton, Heterozygosity and instability of amplified chromosomal insertions in the radioresistant bacterium Deinococcus radiodurans, J. Bacteriol. 173 (1991) 6110–6117.   \n[14] I. Narumi, K. Satoh, M. Kikuchi, T. Funayama, T. Yanagisawa, Y. Kobayashi, H. Watanabe, K. Yamamoto, The LexA protein from Deinococcus radiodurans is not involved in RecA induction following gamma irradiation, J. Bacteriol. 183 (2001) 6951–6956.   \n[15] C. Bonacossa de Almeida, G. Coste, S. Sommer, A. Bailone, Quantification of RecA protein in Deinococcus radiodurans reveals involvement of RecA, but not LexA, in its regulation, Mol. Genet. Genom. 268 (2002) 28–41.   \n[16] J.I. Kim, A.K. Sharma, S.N. Abbott, E.A. Wood, D.W. Dwyer, A. Jambura, K.W. Minton, R.B. Inman, M.J. Daly, M.M. Cox, RecA protein from the extremely radioresistant bacterium Deinococcus radiodurans: expression, purification, and characterization, J. Bacteriol. 184 (2002) 1649–1660.   \n[17] J.I. Kim, M.M. Cox, The RecA proteins of Deinococcus radiodurans and Escherichia coli promote DNA strand exchange via inverse pathways, Proc. Natl. Acad. Sci. U. S. A. 99 (2002) 7917–7921.   \n[18] K. Zahradka, D. Slade, A. Bailone, S. Sommer, D. Averbeck, M. Petranovic, A.B. Lindner, M. Radman, Reassembly of shattered chromosomes in Deinococcus radiodurans, Nature 443 (2006) 569–573.   \n[19] D. Slade, A.B. Lindner, G. Paul, M. Radman, Recombination and replication in DNA repair of heavily irradiated Deinococcus radiodurans, Cell 136 (2009) 1044–1055.   \n[20] M.J. Daly, K.W. Minton, An alternative pathway of recombination of chromosomal fragments precedes recA-dependent recombination in the radioresistant bacterium Deinococcus radiodurans, J. Bacteriol. 178 (1996) 4461–4471.   \n[21] D.M. Sweet, B.E.B. Moseley, Accurate repair of ultraviolet-induced damage in Micrococcus radiodurans, Mutat. Res. 23 (1974) 311–318.   \n[22] D.M. Sweet, B.E.B. Moseley, The resistance of Micrococcus radiodurans to killing and mutation by agents which damage DNA, Mutat. Res. 34 (1976) 175–186.   \n[23] P.R. Tempest, B.E.B. Moseley, Lack of ultraviolet mutagenesis in radiationresistant bacteria, Mutat. Res. 104 (1982) 275–280.   \n[24] S. Mennecier, P. Servant, G. Coste, A. Bailone, S. Sommer, Mutagenesis via IS transposition in Deinococcus radiodurans, Mol. Microbiol. 59 (2006) 317– 325.   \n[25] A.W. Anderson, H.C. Nordon, R.F. Cain, G. Parrish, D. Duggan, Studies on a radioresistant micrococcus. I. Isolation, morphology, cultural characteristics, and resistance to gamma radiation, Food. Technol. 10 (1956) 575–578.   \n[26] F. Lecointe, G. Coste, S. Sommer, A. Bailone, Vectors for regulated gene expression in the radioresistant bacterium Deinococcus radiodurans, Gene 336 (2004) 25–35.   \n[27] K.S. Makarova, L. Aravind, Y.I. Wolf, R.L. Tatusov, K.W. Minton, E.V. Koonin, M.J. Daly, Genome of the extremely radiation-resistant bacterium Deinococcus radiodurans viewed from the perspective of comparative genomics, Microbiol. Mol. Biol. Rev. 65 (2001) 44–79.   \n[28] B. Thoms, W. Wackernagel, Interaction of the RecBCD enzyme with DNA at double-strand breaks produced in UV-irradiated Escherichia coli: requirement for DNA end processing, J. Bacteriol. 180 (1998) 5639–5645.   \n[29] A. Kuzminov, Single-strand interruptions in replicating chromosomes cause double-strand breaks, Proc. Natl. Acad. Sci. U. S. A. 98 (2001) 8241–8246.   \n[30] M.J. Daly, E.K. Gaidamkova, V.Y. Matrosova, A. Vasilenko, M. Zhai, R.D. Leapman, B. Lai, B. Ravel, S.M. Li, K.M. Kemner, J.K. Fredrickson, Protein oxidation implicated as the primary determinant of bacterial radioresistance, PLoS Biol. 5 (2007) e92.   \n[31] M.M. Cox, Recombinational DNA repair of damaged replication forks in Escherichia coli: Questions, Annu. Rev. Genet. 35 (2001) 53–82.   \n[32] B. Michel, G. Grompone, M.-J. Flores, V. Bidnenko, Multiple pathways process stalled replication forks, Proc. Natl. Acad. Sci. U. S. A. 101 (2004) 12783–12788.   \n[33] E.V. Mirkin, S.M. Mirkin, Replication fork stalling at natural impediments, Microbiol. Mol. Biol. Rev. 71 (2007) 13–35.   \n[34] N.S. Willets, A.J. Clark, Characteristics of some multiply recombinationdeficient strains of Escherichia coli, J. Bacteriol. 100 (1969) 231–239.   \n[35] F.N. Capaldo, S.D. Barbour, DNA content, synthesis and integrity in dividing and non-dividing cells of Rec-strains of Escherichia coli K12, J. Mol. Biol. 91 (1975) 53–66.   \n[36] K. Skarstad, E. Boye, Degradation of individual chromosomes in recA mutants of Escherichia coli, J. Bacteriol. 175 (1993) 5505–5509.   \n[37] K. Zahradka, M. Buljubasiˇ c, M. Petranovi ´ c, D. Zahradka, Roles of ExoI and SbcCD ´ nucleases in “reckless” DNA degradation in recA mutants of Escherichia coli, J. Bacteriol. 191 (2009) 1677–1687.   \n[38] M. Bzymek, S.T. Lovett, Instability of repetitive DNA sequences: The role of replication in multiple mechanisms, Proc. Natl. Acad. Sci. U. S. A. 98 (2001) 8319–8325.   \n[39] D.J. Hedges, P.L. Deininger, Inviting instability: Transposable elements, doublestrand breaks, and the maintenance of genome integrity, Mutat. Res. 616 (2007) 46–59.   \n[40] A. Aguilera, B. Gómez-Gonzáles, Genome instability: A mechanistic view of its causes and consequences, Nat. Rev. Genet. 9 (2008) 204–217.   \n[41] J.L. Argueso, J. Westmoreland, P.A. Mieczkowski, M. Gawel, T.D. Petes, M.A. Resnick, Double-strand breaks associated with repetitive DNA can reshape the genome, Proc. Natl. Acad. Sci. U. S. A. 105 (2008) 11845–11850.   \n[42] O. White, J.A. Eisen, J.F. Heidelberg, E.K. Hickey, J.D. Peterson, R.J. Dodson, D.H. Haft, M.L. Gwinn, W.C. Nelson, D.L. Richardson, K.S. Moffat, H. Qin, L. Jiang, W. Pamphile, M. Crosby, M. Shen, J.J. Vamathevan, P. Lam, L. McDonald, T. Utterback, C. Zalewski, K.S. Makarova, L. Aravind, M.J. Daly, K.W. Minton, R.D. Fleischmann, K.A. Ketchum, K.E. Nelson, S. Salzberg, H.O. Smith, J.C. Venter, C.M. Fraser, Genome sequence of the radioresistant bacterium Deinococcus radiodurans R1, Science 286 (1999) 1571–1577.   \n[43] C. Pasternak, B. Ton-Hoang, G. Coste, A. Bailone, M. Chandler, S. Sommer, Irradiation-induced Deinococcus radiodurans genome fragmentation triggers transposition of a single resident insertion sequence, PLoS Genet. 6 (2010) e1000799.   \n[44] M. Spies, S.C. Kowalczykowski, Homologous recombination by the RecBCD and RecF pathways, in: N.P. Higgins (Ed.), The Bacterial Chromosome, American Society for Microbiology, Washington DC, 2005, pp. 389–403.   \n[45] N. Kantake, M.V.V.M. Madiraju, T. Sugiyama, S.C. Kowalczykowski, Escherichia coli RecO protein anneals ssDNA complexed with its cognate ssDNA-binding protein: A common step in genetic recombination, Proc. Natl. Acad. Sci. U. S. A. 99 (2002) 15327–15332.   \n[46] G. Xu, L. Wang, H. Chen, H. Lu, N. Ying, B. Tian, Y. Hua, RecO is essential for DNA damage repair in Deinococcus radiodurans, J. Bacteriol. 190 (2008) 2624–2628.   \n[47] M.-A. Petit, J. Dimpfl, M. Radman, H. Echols, Control of large chromosomal duplications in Escherichia coli by the mismatch repair system, Genetics 129 (1991) 327–332.   \n[48] M. Elez, M. Radman, I. Matic, The frequency and structure of recombinant products is determined by the cellular level of MutL, Proc. Natl. Acad. Sci. U. S. A. 104 (2007) 8935–8940.   \n[49] J.E. Haber, Partners and pathways repairing a double-strand break, Trends Genet. 16 (2000) 259–264. ",
+        "bbox": [
+            509,
+            847,
+            931,
+            938
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            67,
+            65,
+            495,
+            718
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            519,
+            69,
+            947,
+            721
+        ],
+        "page_idx": 10
+    }
+]

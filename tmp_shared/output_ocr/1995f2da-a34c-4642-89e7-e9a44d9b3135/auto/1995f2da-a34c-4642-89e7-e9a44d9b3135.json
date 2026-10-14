@@ -1,0 +1,765 @@
+[
+    {
+        "type": "text",
+        "text": "Biology of Extreme Radiation Resistance: The Way of Deinococcus radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            246,
+            125,
+            785,
+            175
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Anita Krisko1 and Miroslav Radman1,2 ",
+        "bbox": [
+            245,
+            202,
+            513,
+            218
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "1 Mediterranean Institute for Life Sciences, 21000 Split, Croatia   \n2 Faculte´ de Me´decine, Universite´ Rene´ Descartes—Paris V, INSERM U1001, 75015 Paris, France   \nCorrespondence: miroslav.radman@gmail.com ",
+        "bbox": [
+            245,
+            227,
+            816,
+            275
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The bacterium Deinococcus radiodurans is a champion of extreme radiation resistance that is accounted for by a highly efficient protection against proteome, but not genome, damage. A well-protected functional proteome ensures cell recovery from extensive radiation damage to other cellular constituents by molecular repair and turnover processes, including an efficient repair of disintegrated DNA. Therefore, cell death correlates with radiationinduced protein damage, rather than DNA damage, in both robust and standard species. From the reviewed biology of resistance to radiation and other sources of oxidative damage, we conclude that the impact of protein damage on the maintenance of life has been largely underestimated in biology and medicine. ",
+        "bbox": [
+            245,
+            335,
+            813,
+            459
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "everal recent reviews comprehensively presSent the extraordinary bacterium Deinococcus radiodurans, best known for its biological robustness involving an extremely efficient DNA repair system (Cox and Battista 2005; Blasius et al. 2008; Daly 2009; Slade and Radman 2011). The aim of this short review of the biology of $D$ . radiodurans is to single out a general concept of the primacy of biological function (proteome) over information (genome) in the maintenance of life. A cell dies when its vital functions performed by the proteome cease, for example, because of the direct loss of proteome functionality or via the loss of membrane integrity, whereas genome integrity is required (in addition to an active proteome) for the perpetuation of cells that have survived. But survival itself depends primarily on the proteome rather than the genome. A cell that instantly loses its genome can function for some time, unlike one that loses its proteome. In other words, the proteome sustains and maintains life, whereas the genome ensures the perpetuation of life by renewing the proteome, a process contingent on a preexisting proteome that repairs, replicates, and expresses the genome. In addition to the functional integrity of the proteome, small metabolites and other cofactors for catalysis and protein interactions are equally important for proteome functionality. However, chemical damage to cofactors is not a likely primary bottleneck in survival because of their high molar concentrations, compared with proteins. And, finally, it is the proteome that synthesizes metabolites and imports vital metal cofactors and ions. Although obvious, the concept that the prime target in cell degeneracy and death is proteome activity—ensuring all vital functions including genome integrity—is conspicuously absent in biological and medical sciences. This overview of the biology of a prokaryotic cell that survives conditions lethal to other species is to define and elaborate a general concept of sustainability of life that applies to all living cells. ",
+        "bbox": [
+            245,
+            505,
+            553,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            581,
+            505,
+            890,
+            776
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            245,
+            128,
+            553,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ROBUSTNESS AND LIFESTYLE OF Deinococcus radiodurans (DRA) ",
+        "text_level": 1,
+        "bbox": [
+            246,
+            303,
+            475,
+            332
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Since its anecdotal discovery as a contaminant in radiation-sterilized corned beef cans (Anderson et al. 1956; Duggan et al. 1963), Deinococcus radiodurans (Dra) has fascinated biologists by its extraordinary resistance to ionizing radiation. Radiation biology—the study of how radiation alters and destroys life—brought about the birth of a DNA-centered molecular biology. Thus, when it was shown that (1) Dra DNA is as sensitive to radiation-induced breakage as the genomes of other bacteria (Burrell et al. 1971; Bonura and Smith 1976; Ge´rard et al. 2001), and (2) the analyses of its genome and proteome showed nothing extraordinary (White et al. 1999), some fundamental queries surfaced (below). Because the extreme radiation resistance did correlate with an extraordinary capacity to repair massive DNA damage inflicted by ionizing radiation or ultraviolet light, several questions arose: What is the mechanism of such spectacular DNA repair capacity? Can extreme resistance to radiation be acquired by other organisms, for instance, human? Why and how did robust life evolve, in particular, because no radiation sources on Earth are known that could produce doses comparable to those of Dra resistance? The hypothesis of an extraterrestrial origin of Dra (Pavlov et al. 2006) should place its genome outside the terrestrial phylogenetic tree (which is not true; see below), unless all DNA-sequenced terrestrial life was seeded by Dra, that is, descended from a deinococcal panspermia. In that case, Dra should be at the root of the current DNA-based terrestrial phylogenetic tree. ",
+        "bbox": [
+            245,
+            335,
+            553,
+            867
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Mattimore and Battista (1996) proposed a more plausible hypothesis that the resistance to radiation is a by-product of a primary selection for resistance to desiccation. Moreover, such a hypothesis is sensible because some other rare unrelated bacteria, as well as some archaea, plants, and small animals, for example, bdelloid rotifers and tardigrada, also acquired coincident resistance to desiccation and radiation. In other words, mechanisms of recovery from desiccation damage ensure recovery from radiation damage. But why did the selection for resistance to desiccation operate on Dra rather than on all other bacteria? The answer might lie in the lifestyle and ecological distribution of Dra. ",
+        "bbox": [
+            583,
+            128,
+            890,
+            353
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Unlike the well-known enterobacteria, Dra is ubiquitous in nature but its populations are minor compared with other bacteria occupying the same ecological niches. The likely reason is that other bacteria overgrow Dra in Nature, because in the standard laboratory media they grow faster than Dra. It looks as if Dra made an “investment” in the efficiency of survival (robustness), whereas other bacteria made an investment in the efficiency of growth (reproduction). The nature of such an “investment” is discussed below. Robustness is the characteristic of individual cells and does not imply winning the race, at the level of populations, with less robust but faster growing competitors, particularly in mild natural habitats. However, under harsh life conditions—arid environments such as deserts—desiccated Dra populations dominate the less-resilient species by their capacity to regrow after rehydration. ",
+        "bbox": [
+            581,
+            356,
+            890,
+            657
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The lifestyle and metabolism of Dra suggest that this bacterium is a scavenger of food produced by (or composed of ) other (dead) organisms: It feeds on amino acids from degraded proteins and sugars from degraded polymers by excreting diverse hydrolytic enzymes. Its mosaic genome composition and remarkable genomic variability (below) are consistent with an evolved preadaptation to diverse environments scattered among the deinococcal populations and species, hence, the ubiquitous presence of similar deinococcal variants in different habitats (White et al. 1999; for review, see Slade and Radman 2011). ",
+        "bbox": [
+            581,
+            659,
+            890,
+            868
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "THE ECOLOGY AND THE GENOME OF D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            245,
+            127,
+            514,
+            155
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The genome of Dra R1 consists of two large DNAs $\\left( 3 . 0 6 \\mathrm { M b } \\right)$ called chromosomes and two smaller DNAs $( 2 2 3 \\mathrm { k b } )$ ) called plasmids (White et al. 1999). Sequence-wise, the Dra genome is a mosaic of Bacillus subtilis- and Thermus thermophilus-like genomes with some individual genes that could have been acquired even from other kingdoms of life. Such interkingdom horizontal gene transfer could originate from DNAscavenging events facilitated by the high natural transformability of Dra. Genome sequencing of 37 natural isolates (Deinove, pers. comm.) showed a very high diversity that, astonishingly, appears similar worldwide (see Slade and Radman 2011). There is even a factor of two in the genome size and gene content between the smallest and largest sequenced deinococcal genomes (Jung et al. 2010; Deinove, pers. comm.). ",
+        "bbox": [
+            245,
+            172,
+            553,
+            444
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The ubiquitous ecological distribution of deinococcal diversity may account for the results of genome analyses in the following way. The desiccated bacteria are constituents of the dust occasionally blown up by the winds into the atmosphere and stratosphere. where bacteria from different geographic origins mix while being exposed to UVC light 100 to 1000 times more intense than on Earth’s surface. They eventually rehydrate when falling back on Earth with the rain and snow (this is how Francois-Xavier Pellay in our laboratory collects robust bacteria) and—depending on their genomic constitution—develop, or not, in the ecological niches into which they happen to fall. Indeed, the most efficient cellulose degraders are deinococci found growing in the waist of the wood-sawing industry (Deinove, pers. comm.). ",
+        "bbox": [
+            245,
+            445,
+            553,
+            718
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The resistance of $D _ { * }$ . radiodurans is not exclusive to radiation and desiccation but extends also to many toxic chemicals and conditions (Lown et al. 1978). Therefore, Dra is called a polyextremophile, a robust “generalist,” to be distinguished from specialized extremophiles with an evolutionary redesign of their proteome (e.g., proteins purified from thermophiles are thermostable in vitro) (see Smole et al. 2011). Unlike specialized extremophiles, Dra does not thrive on extreme conditions—indeed, it does not grow while desiccated or when heavily irradiated—but it can reproduce under standard growth conditions after recovering from damage inflicted by chronic moderate, or acute intense, exposures to cytotoxic conditions. This “resurrection” following diverse kinds of damage lethal to most organisms raises the question: How did the multiresistance evolve? Was it by many parallel strategies, each selected for a specific resistance, or by a single polyvalent strategy generating resistance to many different conditions lethal to most species? The latter seems to be the case of Dra (see below). ",
+        "bbox": [
+            245,
+            719,
+            553,
+            868
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            581,
+            128,
+            890,
+            339
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "ROBUST DNA REPAIR IN D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            583,
+            363,
+            859,
+            377
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The science of molecular biology was dominated by the notion of information, its storage, transmission, and evolution as encrypted in the nucleotide sequence of nucleic acids. But the biological information is relevant to life only to the extent of its translation into useful biological functions performed, directly or indirectly, by proteins; that is, selection operates on phenotypes. Because proteins repair DNA, the destiny of genetic information depends directly on the function of dedicated proteins. Thus, when the extent of DNA breakage by ionizing radiation was studied in Dra, it came as a surprise that it is the same as in the most sensitive bacterial and animal cells; that is, there is no special protection of DNA to account for its resistance to radiation (Burrell et al. 1971; Bonura and Smith 1976; Ge´rard et al. 2001). What seemed to correlate with radiation resistance is the extraordinary capacity to repair hundreds, sometimes thousands, of radiationinduced DNA double-strand breaks (DSBs) per cell, whereas standard species’ cells can repair only a dozen (Cox and Battista 2005; Slade and Radman 2011). Therefore, at the time, it had seemed reasonable to anticipate the discovery of a novel repair mechanism or of improved “smart” repair proteins that are more efficient in Dra than in most other species. ",
+        "bbox": [
+            581,
+            386,
+            890,
+            823
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Eventually, the basic mechanism of DSB repair in Dra was discovered and called extended synthesis-dependent strand annealing (ESDSA) ",
+        "bbox": [
+            581,
+            825,
+            890,
+            869
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "(Fig. 1) whose elementary act is similar to the synthesis-dependent strand annealing (SDSA) (Zahradka et al. 2006), well known to operate in other species including eukaryotic meiosis, in which DNA is broken by a topoisomerase. The term “extended” refers to the capability of performing the elementary act of DSB repair many hundred times in the same cell. ",
+        "bbox": [
+            245,
+            127,
+            553,
+            248
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/fe083600687de28a78cf0bfa4e2639169da75a8b7b0a3fa058c3071e2aad0f3f.jpg",
+        "image_caption": [
+            "Figure 1. Extended synthesis-dependent strand annealing (ESDSA) pathway for reassembly of broken DNA in $D .$ . radiodurans. Several genomic copies present in $D$ . radiodurans undergo radiation-induced random DNA double-strand breakage, producing numerous fragments. The end-recessed fragments (step 1) prime synthesis use the homologous regions of partially overlapping fragments as a template (step 2), presumably through a moving D-loop (bracketed intermediate). The strand extension can run to the end of the template, producing fragments with long, newly synthesized (red) single-stranded overhangs (step 3) that can a priori engage in several rounds of extension until they find a complementary partner strand (steps 4 and 5). Hydrogen bonds are indicated only for interfragment associations. Long linear fragments mature into unit-size circular chromosomes by homologous recombination (crossover). "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            254,
+            285,
+            540,
+            617
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "A NEW PARADIGM FOR ALL SPECIES: THE PROTEOME RATHER THAN THE GENOME IS THE PRIME TARGET IN RADIATIONINDUCED CELL DEATH ",
+        "text_level": 1,
+        "bbox": [
+            581,
+            127,
+            879,
+            185
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "When the extensive analysis of the mechanism and genes/proteins involved in the repair of DSBs in Dra showed no novelty (Makarova et al. 2000; Omelchenko et al. 2005; Slade et al. 2009), the puzzle of a “smart” mechanism of repair turned into a puzzle of unexplained efficiency of a standard DNA repair system. Neither the specific activity of purified key repair proteins nor their cellular amounts could account for the extreme efficiency of repair (see Slade and Radman 2011). The puzzle of Dra robustness remained until several old studies revived and extended by the recent research from Michael Daly’s group (Daly et al. 2007) changed the paradigm: Radiation-induced oxidative damage to proteins inactivates their function, for example, DNA repair and other vital functions, becoming the principal cause of the sensitivity of the standard organisms. Dra has a way of protecting its proteins from oxidative damage, thereby preserving their activity. This paradigm got support from research in Daly’s and our laboratories and withstands rigorous experimental tests. ",
+        "bbox": [
+            581,
+            204,
+            892,
+            551
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Reactive oxygen species (ROS) and, consequently, protein carbonylation (PC)—a widely used marker of irreversible oxidative proteome damage—are found at much lower levels in unirradiated Dra than in other bacteria and somatic cells of animal species (Table 1) (Krisko and Radman 2010; Krisko et al. 2012). Furthermore, the dose ranges of $\\gamma$ rays and UVC light that saturate PC in Escherichia coli show no effect on carbonylation of the Dra proteome (Table 1) (Krisko and Radman 2010). Only, and precisely at doses of radiation that become lethal, does there commence an increase in PC such that the killing and PC curves coincide for both E. coli and Dra, albeit at widely different dose ranges (Table 1) (Krisko and Radman 2010). ",
+        "bbox": [
+            581,
+            554,
+            890,
+            792
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Radiation-induced PC levels saturate at the same level in E. coli and Dra, meaning that the intrinsic susceptibility of proteins to carbonylation is similar in the two species (Fig. 2) and that a proteome protection system consumed by radiation is present at much higher levels of activity in Dra than in E. coli cells. When extracts of broken E. coli and Dra cells are exposed to radiation, the same difference in PC is found as with intact cells (Krisko and Radman 2010). Mixing of the two extracts before radiation showed that the Dra resistance to radiation-induced PC is dominant: Apparently, a diffusible entity from the Dra cell extract protects E. coli proteins equally effectively as its own proteins. That protective entity is composed of moieties smaller than $3 \\mathrm { k D a }$ (Daly et al. 2010; Krisko and Radman 2010) and acts by preventing ROS production, or neutralizing ROS, induced by ionizing radiation and UVC light as measured by intracellular dihydrorhodamine fluorescence (Krisko and Radman 2010). ",
+        "bbox": [
+            581,
+            795,
+            890,
+            869
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/90f8b044eb82204494a2783570c277aa5648c59993ecb710c8d187511c0998a9.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            245,
+            162,
+            888,
+            351
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            245,
+            383,
+            555,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            581,
+            383,
+            892,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "image",
+        "img_path": "images/66e8c986307169aa69b365d0ea437ab564ada4fdbc2c18a75c24bd4e404f5a64.jpg",
+        "image_caption": [
+            "Figure 2. Single correlation between cell killing and protein carbonylation. A similar correlation is observed for the two bacterial $E _ { * }$ coli and D. radiodurans) and the two animal (bdelloid rotifer Adineta vaga and the worm Caenorhabditis elegans) species of widely different radiation resistance. (Data from Krisko and Radman 2010; Krisko et al. 2012.) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            354,
+            522,
+            725,
+            806
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            245,
+            127,
+            553,
+            172
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "MULTIPLE ANTIOXIDANT SYSTEMS IN D. radiodurans ",
+        "text_level": 1,
+        "bbox": [
+            245,
+            196,
+            495,
+            226
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Based on whole-genome comparisons, there is in Dra a remarkable abundance of genes encoding catabolic enzymes including phosphatases, nucleases, and proteases, which would be expected to give rise to the pool of small antioxidant molecules found in the Dra ultrafiltrate (Daly et al. 2010). There are several mechanisms for maintenance of low ROS levels in Dra that contribute to its resilience. They can be belong to at least three independent, but complementary groups: (1) increased ROS-scavenging and ROSdetoxifying activities (high levels of constitutive catalase and superoxide dismutase activity, increased amount of manganese complexes, and small antioxidant molecules) (Makarova et al. 2000; Daly et al. 2010); (2) altered metabolic activities that result in a decreased ROS production, for example, glyoxylate bypass of the TCA cycle (Liu et al. 2003; Ghosal et al. 2005); and (3) reduction of the proteins containing Fe-S clusters, as well as reduction of the number of respiratory chain enzymes (Ghosal et al. 2005). ",
+        "bbox": [
+            245,
+            234,
+            553,
+            566
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Divalent iron is a source of production of the most reactive ROS, the hydroxyl radical. As a consequence of the redundancy of the antioxidant mechanisms in Dra, single pathways can be inactivated without significantly compromising the resilience of the bacterium. For example, inactivation of the deinococcal pigment deinoxanthin, one of the most potent antioxidants known to date, has very little effect on the resilience of Dra (Lemee et al. 1997; Ji 2010). On the other hand, the production of deinoxanthin and the cytosolic antioxidant pyrroloquinoline quinone in E. coli increases its resistance to oxidative damage (Misra et al. 2012). Moreover, Dra extract of molecules smaller than $3 \\mathrm { k D a }$ provides antioxidant protection to E. coli proteins in vitro (Daly et al. 2010; Krisko and Radman 2010) and human Jurkat T cells in culture (Daly et al. 2010). The group of Michael Daly has characterized the composition of the Dra ultrafiltrate. In addition to the abundance of manganese complexes, they have found elevated concentrations of orthophosphate, nucleotides, and their derivatives, as well as amino acids and peptides. The radioprotective properties of the $D$ . radiodurans ultrafiltrate have also been assigned to the abundance of metabolites like TCA cycle products (Daly et al. 2010). ",
+        "bbox": [
+            245,
+            568,
+            553,
+            868
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            581,
+            127,
+            890,
+            248
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Apart from low ROS production in Dra, there are several additional metabolic properties that contribute to its robustness: for instance, highly efficient proteolysis, import of exogenous amino acids and peptides, and the conversion of glucose into precursors for dNTPs, as well as carbohydrate and polyphosphate storage (see Slade and Radman 2011). D. radiodurans is a proteolytic bacterium and, as such, contains redundant mechanisms for protein degradation and amino acids catabolism. Interestingly, proteolytic activities are induced following ionizing radiation (Daly et al. 2010). The degradation of proteins produces amino acids and peptides that can be reused during the energetically demanding recovery period, thus enabling an efficient damage repairand finally survival (Omelchenko et al. 2005). Furthermore, the pool of amino acids and peptides has been suggested to have a role as ROS scavengers during irradiation (Daly et al. 2010). The source of the large amino acid and peptide pool can be accounted foralso by their import: Namely, Dra has as many as 90 ABC transporters dedicated to amino acid and peptide uptake (de Groot et al. 2009). ",
+        "bbox": [
+            581,
+            251,
+            890,
+            627
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Glucose metabolism also contributes to the remarkable resistance of $D$ . radiodurans. For example, mutants with G6PDH deficiency (upregulated in the wild type during the postirradiation recovery) are more sensitive to UV-induced oxidative stress, as well as $\\mathrm { H } _ { 2 } \\mathrm { O } _ { 2 }$ and mitomycin C (Zhang et al. 2005). Glucose can be metabolized into NADPH, which can be a precursor of dNTPs as well as a cofactor in the production of glutathione and thioredoxin. As mentioned above, ROS production in Dra is presumably also reduced owing to fewer proteins with iron – sulfur clusters. A negative correlation between the proportion of iron – sulfur cluster proteins and radiation resistance has been observed over several species. For example, the radiation-sensitive bacterium Shewanella oneidensis encodes $6 5 \\%$ more iron – sulfur cluster proteins compared with Dra (Ghosal et al. 2005). ",
+        "bbox": [
+            581,
+            628,
+            890,
+            868
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            245,
+            128,
+            553,
+            188
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "One of the mechanisms maintaining low ROS levels in Dra is the activity of the manganese complexes. A strong correlation has been shown between intracellular $\\mathrm { M n / F e }$ concentration ratios and bacterial resistance to radiation, in which the most resistant bacteria contained about 300 times more $\\mathrm { M n } ^ { 2 + }$ and about three times less $\\mathrm { F e } ^ { 2 + }$ than the most radiation-sensitive bacteria (Daly et al. 2007). However, the nature of Mn-facilitated resistance to ionizing radiation was at first unclear, and the question persisted why many bacteria that encode a normal complement of repair functions are killed by doses of ionizing radiation that cause little or no DNA damage? ",
+        "bbox": [
+            245,
+            189,
+            553,
+            415
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A potential answer can be found in the results showing that the amount of protein damage caused by a given dose of $\\gamma$ radiation is very different for resistant and sensitive bacteria (Daly et al. 2007). High levels of protein protection during irradiation correlate with high intracellular $\\mathrm { M n / F e }$ concentration ratios and high levels of resistance, whereas proteins in radiation-sensitive cells were highly susceptible to radiation-induced oxidation. When cell extracts are devoid of the small-molecular-weight $( < 3 \\mathrm { k D a } )$ ) moieties by ultrafiltration, then $D$ . radiodurans and E. coli proteomes are equally susceptible to radiation-induced PC, and the (re)addition of Dra ultrafiltrate bestows the resilience to radiation-induced PC to either of the two species’ proteomes (Krisko and Radman 2010). It is obvious that the biosynthetic “investment” providing prevention against oxidative proteome damage, required for radiation and desiccation resistance, is quite significant and evolved under selective pressure for robustness. ",
+        "bbox": [
+            245,
+            417,
+            553,
+            747
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "PROTEIN, NOT DNA, DAMAGE PREDICTS DEATH BY RADIATION ",
+        "text_level": 1,
+        "bbox": [
+            245,
+            772,
+            537,
+            801
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "The above experiments and the observation that purified individual proteins from resistant and standard species appear to be similarly susceptible to oxidation in vitro argue that the overwhelming proteome protection against oxidative damage resides in a small-molecular-weight fraction of the cytosol. It is this constitutive protection, present in cells before irradiation, whose exhaustion determines the sensitivity of the species to radiation and other oxidative damage. ",
+        "bbox": [
+            245,
+            809,
+            553,
+            869
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            581,
+            128,
+            890,
+            233
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Indeed, in all bacterial and animal species tested (E. coli, D. radiodurans, C. elegans, and A. vaga), we have found a characteristic quantitative relationship between $\\gamma \\cdot$ - and UVC-lightinduced cell mortality and total protein carbonylation, regardless of their intrinsic potential to resist oxidative damage as seen at the level of PC saturation upon high radiation exposures (Fig. 2) (Krisko and Radman 2010; Krisko et al. 2012). This observation suggests that the functionality of the proteome of all tested species is similarly sensitive to incurred PC; however, all species do not accumulate oxidative protein damage at the same radiation exposures. The basis of the remarkable robustness of resilient species is predominantly the antioxidant protection of the cellular proteome. ",
+        "bbox": [
+            581,
+            234,
+            890,
+            491
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Having established that PC indeed correlates with cell mortality over a wide range of doses of two different cytotoxic agents, the key question remained: Is high PC the cause or the consequence of the process of cell death? Even the activity of refrigerated purified proteins must be routinely protected by antioxidants (e.g., DTT); therefore, it is likely that the decay of cellular functions culminating in cell death is a direct result of the accumulated oxidative damage to the proteome. To measure the proteome’s biosynthetic efficacy independently of cell death, we have used a “parasite” of $E$ . coli, the bacteriophage $\\lambda$ , as a quantitative probe. Upon entering the host cell, phage l DNA hijacks biosynthetic machineries of $E _ { \\ast }$ . coli and directs them to its own reproduction. That involves host cell replication and transcription and translation machineries, all of which require multiple protein interactions and catalytic reactions expected to be sensitive to PC. Exposure of E. coli to ionizing radiation or UVC light before infection with undamaged bacteriophage $\\lambda$ results in a progressive loss of phage production correlating with PC levels better than cell death (Fig. 3). In other words, this experiment showed that an intact phage genome fails to replicate and express when host cell proteome incurs a critical amount of oxidative damage. ",
+        "bbox": [
+            581,
+            494,
+            890,
+            869
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "image",
+        "img_path": "images/2376952cf8ade235a08334db507b6455d53e18efa327fbb98eac0307178460de.jpg",
+        "image_caption": [
+            "Figure 3. Correlations between radiation-induced protein carbonylation (filled square), cellular capacity to produce phage $\\lambda$ (open circle), and cell death (filled circle) in $E _ { i }$ . coli. (A) $\\gamma { \\cdot }$ -radiation. (B) UVC radiation. (Data from Krisko and Radman 2010.) "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            251,
+            128,
+            883,
+            356
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            245,
+            445,
+            553,
+            506
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "The chemistry of DNA damage in cells exposed to ionizing radiation and UV light is distinctly different. Exposure to ionizing radiation primarily generates DNA strand breaks and base damage, whereas exposure to UV light primarily generates photoproducts (Friedberg et al. 2004). The cellular responses to these types of DNA damage are also distinctive. Therefore, the observation that saturation levels of PC are the same in $D$ . radiodurans and E. coli heavily exposed to either source of damage shows that oxidative damage is a common correlate of toxicity and that the intrinsic susceptibility to PC of the proteomes of these two bacterial species is indistinguishable. However, the doses at which increases in PC and cell killing commence are always coincident, suggesting that protein damage—rather than DNA damage—might be the fundamental chemistry of cell killing (Krisko and Radman 2010). The same conclusion was reached by Daly and coworkers (Daly et al. 2007; Daly 2009). Thus, biological responses to genomic insults depend primarily on the integrity of the proteome, which includes proteins involved in DNA repair, proteostasis, and structural maintenance. This conclusion is the consequence of the fact that dedicated proteins repair DNA, and not vice versa. This paradigm is fundamental in its obviousness (no living cell can function correctly with an oxidized proteome) and, if it is true, must be universal, that is, hold also for human cells. ",
+        "bbox": [
+            245,
+            508,
+            553,
+            869
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            581,
+            445,
+            890,
+            565
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "EVOLVED RADIATION RESISTANCE IN E. coli ",
+        "text_level": 1,
+        "bbox": [
+            583,
+            590,
+            890,
+            604
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Is proteome protection the molecular basis of the radiation resistance also in other species? To provide an answer to this question, the groups of John Battista and Michael Cox have produced radiation-resistant strains of $E .$ . coli by directed evolution in the laboratory (Harris et al. 2009). Genome sequencing of several independently obtained radiation-resistant $E .$ . coli strains has revealed more than 60 acquired mutations in nonoverlapping genes that do not reveal genes already associated with recognizable radio protection or repair mechanisms. However, we have found that both tested strains of radioresistant E. coli show the same correlation between radiation-induced loss of biosynthesis, mortality, and PC levels as seen in irradiated $D .$ . radiodurans and wild-type E. coli. Because neither gene acquisition nor any Deinococcus-like features evolved during selection of resistant E. coli in the test tube, it is likely that many distinct molecular mechanisms exist for increasing the resistance of bacteria to ionizing radiation, UV light, and other toxic agents, but necessarily involve acquisition of proteome protection against oxidative damage. This conclusion is supported by the finding that the reproductive death by ionizing radiation correlates with induced PC both in radiation-sensitive (C. elegans) and radiation-resistant (A. vaga) invertebrates (Krisko et al. 2012). ",
+        "bbox": [
+            581,
+            612,
+            890,
+            869
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            245,
+            128,
+            553,
+            324
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "CONCLUSIONS ",
+        "text_level": 1,
+        "bbox": [
+            245,
+            348,
+            357,
+            362
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We draw the following general conclusions from the reviewed studies of naturally and experimentally evolved radiation resistance. Protein activities sustain life, whereas the genome perpetuates life by maintaining the levels of active proteins. Hence, the acute cell killing occurs by destroying the proteome’s functional integrity, not necessarily genome integrity, because even an excessively damaged genome can be fully repaired by an active proteome, even if it takes days (Slade et al. 2009), ensuring the perpetuation of cellular life. Obviously, well-protected proteome activities perform all vital cell functions including protein turnover, genome maintenance, and its expression. $D$ . radiodurans presents a spectacular example. If this paradigm holds also for mammalian cells, then an effective cancer therapy by tumor cell killing should target the proteome, or both the proteome and the genome, rather than the genome alone. ",
+        "bbox": [
+            245,
+            369,
+            553,
+            672
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "PERSPECTIVES: PROTEIN DAMAGE AND AGING ",
+        "text_level": 1,
+        "bbox": [
+            245,
+            696,
+            529,
+            724
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Progressive cell dysfunction and massive cell death are at the basis of aging of multicellular organisms. A cell dies when it loses its activities and/or structures necessary for vital cellular functions. Studying Dra has shown that life depends acutely on proteome quality (function), whereas membrane integrity (structure—cellularity) has long been the standard diagnostic of cell death. ",
+        "bbox": [
+            245,
+            734,
+            553,
+            869
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Is it reasonable to make ad hoc connections between the biological effect of oxidative protein damage caused by radiation and the same damage caused by (or just accompanying) aging (see Richardson 2009)? Is protein damage the cause or the consequence of cellular degeneracy caused by radiation or aging? The deleterious cellular effects of the inactivation of the proteasome that degrades oxidized proteins (Servant et al. 2007; Bayot et al. 2010) argues that accumulating protein damage is likely the original cause of general degradation of cellular functions. ",
+        "bbox": [
+            581,
+            128,
+            890,
+            309
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "We posit that studying the most robust organisms can bring about the definition of molecular “wear and tear” mechanisms in standard organisms. Such mechanisms are likely to be relevant to aging and age-related diseases. There is a possibility that such knowledge and the availability of highly efficient natural antioxidants from robust species could have a major impact on public health. ",
+        "bbox": [
+            581,
+            310,
+            890,
+            445
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "The pioneering work of Earl Stadtman and associates in the late 1980s showed that the exponentially accumulating oxidative damage to the proteome is the best biomarker and the likely fundamental cause of aging and age-related diseases because it correlates in the same exponential way with the fraction of life span of different species (extending from 3 weeks to 100 years) (Oliver et al. 1987) and with the Gompertz curve of incidence of disease and death in human and animal populations (Sas et al. 2012). We propose here the concept that aging and age-related diseases are the emerging phenotypes of accumulating proteome damage whose severity and complexity increase with time. Current research in the cell biology of aging deals usually with the complicated consequences of aging, but nothing seems to contradict the hypothesis that aging has a simple cause with increasingly complex consequences. Aging and age-related diseases could be progressively complex phenotypes of accumulating proteome damage. ",
+        "bbox": [
+            581,
+            446,
+            890,
+            779
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "ACKNOWLEDGMENTS ",
+        "text_level": 1,
+        "bbox": [
+            583,
+            803,
+            743,
+            816
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "This review is supported by a generous gift from Jean-Noe¨l Thorel, who also supported all quoted unpublished work at the Mediterranean ",
+        "bbox": [
+            581,
+            825,
+            890,
+            869
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "Institute for Life Sciences. M.R. receives support from the two affiliated institutions (University of Paris V and Institut National pour la Sante´ et la Recherche Me´dicale). A.K. receives support from the Mediterranean Institute for Life Sciences. We thank Dr. Jean-Paul Leonetti and Dr. Jacques Biton of the Paris-based Deinove company for allowing us to quote the company’s unpublished work. ",
+        "bbox": [
+            245,
+            128,
+            553,
+            263
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "REFERENCES ",
+        "text_level": 1,
+        "bbox": [
+            245,
+            294,
+            334,
+            306
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "Anderson AW, Nordan HC, Cain RF, Parrish G, Duggan D. 1956. Studies on a radio-resistant micrococcus. I. Isolation, morphology, cultural characteristics, and resistance to $\\gamma$ radiation. Food Technol 10: 575 –577.   \nBayot A, Gareil M, Rogowska-Wrzesinska A, Roepstorff P, Friguet B, Bulteau AL. 2010. Identification of novel oxidized protein substrates and physiological partners of the mitochondrial ATP-dependent Lon-like protease Pim1. J Biol Chem 285: 11445–11457.   \nBlasius M, Sommer S, Huebscher U. 2008. Deinococcus radiodurans: What belongs to the survival kit? Crit Rev Biochem Mol Biol 43: 221 –238.   \nBonura T, Smith KC. 1976. The involvement of indirect effects in cell-killing and DNA double-strand breakage in $\\gamma$ -irradiated Escherichia coli K-12. Int J Rad Biol 29: 293–296.   \nBurrell AD, Feldschreiber P, Dean CJ. 1971. DNA–membrane association and the repair of double breaks in Xirradiated Micrococcus radiodurans. Biochim Biophys Acta 247: 38–53.   \nCox MM, Battista JR. 2005. Deinococcus radiodurans—The consummate survivor. Nat Rev Microbiol 3: 882–892.   \nDaly MJ. 2009. A new perspective on radiation resistance based on Deinococcus radiodurans. Nat Rev Microbiol 7: 237–245.   \nDaly MJ, Gaidamakova EK, Matrosova VY, Vasilenko A, Zhai M, Leapman RD, Lai B, Ravel B, Li S-MW, Kemner KM, et al. 2007. Protein oxidation implicated as the primary determinant of bacterial radioresistance. PLoS Biol 5: e92.   \nDaly MJ, Gaidamakova EK, Matrosova VY, Kiang JG, Fukumoto R, Lee D-Y, Wehr NB, Viteri GA, Berlett BS, Levine RL. 2010. Small-molecule antioxidant proteomeshields in Deinococcus radiodurans. PLoS ONE 5: e12570.   \nde Groot A, Dulermo R, Ortet P, Blanchard L, Gue´rin P, Fernandez B, Vacherie B, Dossat C, Jolivet E, Siguier P, et al. 2009. Alliance of proteomics and genomics to unravel the specificities of Sahara bacterium Deinococcus deserti. PLoS Genet 5: e1000434.   \nDuggan de, Anderson AW, Elliker PR. 1963. Inactivation of the radiation-resistant spoilage bacterium Micrococcus radiodurans. I. Radiation inactivation rates in three meat substrates and in buffer. Appl Microbiol 11: 398 – 403.   \nFriedberg EC, McDaniel LD, Schultz RA. 2004. The role of endogenous and exogenous DNA damage and mutagenesis. Curr Opin Genet Dev 14: 5 – 10.   \nGe´rard E, Jolivet E, Prieur D, Forterre P. 2001. DNA protection mechanisms are not involved in the radioresistance of the hyperthermophilic archaea Pyrococcus abyssi and P. furiosus. Mol Genet Genomics 266: 72–78.   \nGhosal D, Omelchenko MV, Gaidamakova EK, Matrosova VY, Vasilenko A, Venkateswaran A, Zhai M, Kostandarithes HM, Brim H, Makarova KS, et al. 2005. How radiation kills cells: Survival of Deinococcus radiodurans and Shewanella oneidensis under oxidative stress. FEMS Microbiol Rev 29: 361–375.   \nHarris DR, Pollock SV, Wood EA, Goiffon RJ, Klingele AJ, Cabot EL, Schackwitz W, Martin J, Eggington J, Durfee TJ, et al. 2009. Directed evolution of ionizing radiation resistance in Escherichia coli. J Bacteriol 191: 5240 – 5252.   \nJi HF. 2010. Insight into the strong antioxidant activity of deinoxanthin, a unique carotenoid in Deinococcus radiodurans. Int J Mol Sci 11: 4506– 4510.   \nJung S, Joe M, Im S, Kim D, Lim S. 2010. Comparison of the genomes of deinococcal species using oligonucleotide microarrays. J Microbiol Biotechnol 20: 1637 – 1646.   \nKrisko A, Radman M. 2010. Protein damage and death by radiation in Escherichia coli and Deinococcus radiodurans. Proc Natl Acad Sci 107: 14373–14377.   \nKrisko A, Leroy M, Radman M, Meselson M. 2012. Extreme anti-oxidant protection against ionizing radiation in bdelloid rotifers. Proc Natl Acad Sci 109: 2354 – 2357.   \nLemee L, Peuchant E, Clerc M, Brunner M, Pfander H. 1997. Deinoxanthin: A new carotenoid isolated from Deinococcus radiodurans. Tetrahedron 53: 919 –926.   \nLiu Y, Zhou J, Omelchenko MV, Beliaev AS, Venkateswaran A, Stair J, Wu L, Thompson DK, Xu D, Rogozin IB, et al. 2003. Transcriptome dynamics of Deinococcus radiodurans recovering from ionizing radiation. Proc Natl Acad Sci 100: 4191–4196.   \nLown JW, Sim SK, Chen HH. 1978. Hydroxyl radical production by free and DNA-bound aminoquinone antibiotics and its role in DNA degradation. Electron spin resonance detection of hydroxyl radicals by spin trapping. Can J Biochem 56: 1042–1047.   \nMakarova KS, Aravind L, Daly MJ, Koonin EV. 2000. Specific expansion of protein families in the radioresistant bacterium Deinococcus radiodurans. Genetica 108: 25–34.   \nMattimore V, Battista JR. 1996. Radioresistance of Deinococcus radiodurans: Functions necessary to survive ionizing radiation are also necessary to survive prolonged desiccation. J Bacteriol 178: 633–637.   \nMisra HS, Rajpurohit YS, Khairnar NP. 2012. Pyrroloquinoline-quinone and its versatile roles in biological processes. J Biosci 37: 313 – 325.   \nOliver CN, Ahn B, Moerman EJ, Goldstein S, Stadtman ER. 1987. Age-related changes in oxidized proteins. J Biol Chem 262: 5488–5491.   \nOmelchenko MV, Wolf YI, Gaidamakova EK, Matrosova VY, Vasilenko A, Zhai M, Daly MJ, Koonin EV, Makarova KS. 2005. Comparative genomics of Thermus thermophilus and Deinococcus radiodurans: Divergent routes of adaptation to thermophily and radiation resistance. BMC Evol Biol 5: 57.   \nPavlov AK, Kalinin VL, Konstaninov AN, Shelegedin VN, Pavlov AA. 2006. Was Earth ever infected by Martian Biota? Clues from radioresistant bacteria. Astrobiology 6: 911 –918.   \nRichardson RB. 2009. Ionizing radiation and aging: Rejuvenating an old idea. Aging 1: 887 –902.   \nSas AA, Snieder H, Korf J. 2012. Gompertz’ survivorship law as an intrinsic principle of aging. Med Hypotheses 78: 659–663.   \nServant P, Jolivet E, Bentchikou E, Mennecier S, Bailone A, Sommer S. 2007. The ClpPX protease is required for radioresistance and regulates cell division after $\\gamma$ -irradiation in Deinococcus radiodurans. Mol Microbiol 66: 1231–1239.   \nSlade D, Radman M. 2011. Oxidative stress resistance in Deinococcus radiodurans. Microbiol Mol Biol Rev 75: 133–191.   \nSlade D, Lindner AB, Paul G, Radman M. 2009. Recombination and replication in DNA repair of heavily irradiated Deinococcus radiodurans. Cell 136: 1044–1055.   \nSmole Z, Nikolic N, Supek F, Sˇmuc T, Sbalzarini IF, Krisko A. 2011. Proteome sequence features carry signatures of the environmental niche of prokaryotes. BMC Evol Biol 11: 26.   \nWhite O, Eisen JA, Heidelberg JF, Hickey EK, Peterson JD, Dodson RJ, Haft DH, Gwinn ML, Nelson WC, Richardson DL, et al. 1999. Genome sequence of the radioresistant bacterium Deinococcus radiodurans R1. Science 286: 1571–1577.   \nZahradka K, Slade D, Bailone A, Sommer S, Averbeck D, Petranovic M, Lindner AB, Radman M. 2006. Reassembly of shattered chromosomes in Deinococcus radiodurans. Nature 443: 569–573.   \nZhang C, Wei J, Zheng Z, Ying N, Sheng D, Hua Y. 2005. Proteomic analysis of Deinococcus radiodurans recovering from $\\gamma$ -irradiation. Proteomics 5: 138–143. ",
+        "bbox": [
+            243,
+            310,
+            555,
+            872
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            580,
+            126,
+            892,
+            868
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            245,
+            128,
+            553,
+            356
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            580,
+            128,
+            892,
+            357
+        ],
+        "page_idx": 10
+    }
+]

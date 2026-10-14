@@ -1,0 +1,793 @@
+[
+    {
+        "type": "text",
+        "text": "Erupción del monte Agung de 2017 ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            704,
+            130
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "En 2017, el monte Agung, un volcán en la isla de Bali, Indonesia, hizo erupción violentamente causando el desplazamiento de $1 0 0 ~ \\mathrm { { m i l } }$ personas y la interrupción de vuelos cerca del área.1 Al 27 de noviembre de 2017, el nivel de alerta estuvo en su nivel más alto y se llevaron a cabo evacuaciones. ",
+        "bbox": [
+            70,
+            140,
+            497,
+            254
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Se detectaron sismos volcanotectónicos al interior del volcán desde inicios del mes de agosto de 2017, y la actividad volcánica se intensificó durante varias semanas antes de disminuir significativamente a finales de octubre. Un segundo periodo más violento de actividad importante comenzó a finales de noviembre. ",
+        "bbox": [
+            70,
+            270,
+            497,
+            401
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cronología de eventos eruptivos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            438,
+            489,
+            461
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "La última erupción del monte Agung, en 1963, se encuentra entre los más catastróficos eventos volcánicos en la historia de Indonesia. Después de unas explosiones iniciales en el cráter el 18 de febrero del mismo año, comenzó a fluir lava por la montaña el 24 de febrero, avanzando unos $7 \\mathrm { k m }$ las siguientes tres semanas. El 17 de marzo, ocurrió una erupción altamente explosiva, alcanzando un índice de explosividad volcánica nivel 5, y que ocasionó flujos piroclásticos letales viajando a altas velocidades cuesta abajo de la montaña, provocando la muerte de 1,500 personas,2  lo que la llevó a quedar registrada como una de las erupciones que más víctimas ha causado en la historia. Desde entonces, el monte Agung es considerado como altamente peligroso por las ",
+        "bbox": [
+            70,
+            477,
+            497,
+            781
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Erupción del Monte Agung de 2017 ",
+        "text_level": 1,
+        "bbox": [
+            537,
+            155,
+            905,
+            198
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/69a2fbf6ef7999c18fb38b1e47b3adadf06b30efbdf748c06d1bdeffe73d3338.jpg",
+        "image_caption": [
+            "Monte Agung , 27 de noviembre de 2017 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            583,
+            205,
+            863,
+            467
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/2e2eede70955a3ee1545246882f53235391209a344bce78847cd84e50b3f7c1b.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            488,
+            907,
+            636
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/f3fac95d58614bc26a2615cca53306d21f32f5af7852cce4c813469ef97ac53e.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            531,
+            638,
+            897,
+            761
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Primer periodo de actividad importante ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            43,
+            512,
+            64
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Agosto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            93,
+            144,
+            110
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Se observaron sismos volcanotectónicos desde agosto de 20173 y la intensidad en la actividad aumentó en las semanas posteriores. ",
+        "bbox": [
+            72,
+            116,
+            931,
+            154
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Septiembre ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            182,
+            184,
+            200
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En septiembre de 2017, un incremento de ruido y actividad sísmica cerca del volcán elevó la alerta al nivel más alto, y cerca de 122,500 personas fueron evacuadas de sus hogares cerca del volcán.4 El 24 de septiembre, la Junta Nacional de Indonesia para la Gestión de Desastres declaró una zona de exclusión de 12 kilómetros alrededor del volcán.5  Se observó una columna de ceniza el 13 de septiembre.3 ",
+        "bbox": [
+            72,
+            206,
+            931,
+            283
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Los evacuados fueron llevados a gimnasios y otros edificios comunitarios cerca de las ciudades de Klungkung, Karangasem, Buleleng, y otras áreas.6 La estación de monitoreo estaba localizada en Tembuku, Rendang, ciudad de Karangasem, donde fueron monitoreadas la intensidad y la frecuencia de los tremores, en busca de signos de una gran erupción inminente.7 ",
+        "bbox": [
+            70,
+            298,
+            931,
+            376
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La zona experimentó 844 sismos volcanotectónicos el 25 de septiembre, y entre 300 y 400 al mediodía del 26 de septiembre. Los sismólogos se alarmaron por la fuerza y la frecuencia de los incidentes, ya que en otros volcanes, los incidentes habían sido menores antes de hacer erupción.8 9 ",
+        "bbox": [
+            70,
+            390,
+            931,
+            448
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Octubre ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            477,
+            151,
+            494
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A finales de octubre de 2017, la actividad del volcán disminuyó de manera significativa, llevando a bajar el nivel de alerta el 28 de octubre.10 ",
+        "bbox": [
+            72,
+            500,
+            932,
+            536
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El nivel de alerta se mantuvo en fase 3 (de 4) hasta el comienzo de un segundo periodo de gran actividad, y donde se observaron grandes plumas volcánicas.11 12 ",
+        "bbox": [
+            70,
+            553,
+            931,
+            591
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Segundo periodo de actividad importante ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            619,
+            537,
+            640
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Martes 21 de noviembre ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            669,
+            304,
+            687
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Hubo una pequeña erupción freática reportada a las 09:05 (UTC), con una nube de ceniza alcanzando los 3842 metros (12 605 pies) sobre el nivel del mar.13 Miles de personas abandonaron el área inmediatamente,14 y se reportó que cerca de 29,000 refugiados temporales fueron alojados en 270 lugares cercanos.15 ",
+        "bbox": [
+            70,
+            693,
+            932,
+            770
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Sábado 25 de noviembre ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            799,
+            312,
+            817
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Una erupción magmática comenzó temprano el sábado por la mañana.16 Se reportó que la columna eruptiva resultante se elevó de 1.5 a $4 \\mathrm { k m }$ por encima del cráter, desplazándose hacia el sur, arrastrando una fina capa de ceniza oscura, lo que llevó a algunas aerolíneas a cancelar sus vuelos con destino a Australia y Nueva Zelanda. Posteriormente, se observó incandescencia de color naranja alrededor del cráter durante la noche, confirmando que el magma fresco había alcanzado la superficie.17 18 ",
+        "bbox": [
+            70,
+            823,
+            932,
+            919
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Domingo 26 de noviembre ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            42,
+            326,
+            60
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "A las 23:37 (UTC), ocurrió otra erupción.16 El Aeropuerto Internacional Ngurah Rai fue cerrado el mismo día,19 dejando varados a muchos turistas.20 El cierre del aeropuerto se extendió a las 07:00 del 29 de noviembre.21 Se ordenó la evacuación de más de 100,000 personas en un radio de 6 millas (9,7 km) del volcán.22 ",
+        "bbox": [
+            70,
+            65,
+            932,
+            144
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Lunes 27 de noviembre ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            173,
+            297,
+            191
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La erupción del domingo continuó a un ritmo constante,23 y se reportaron lahares en el distrito de Selat, al sur del volcán.20 La Oficina de Meteorología del Gobierno de Australia reportó que la parte más alta de la columna eruptiva había alcanzado una altura de $9 , 1 4 4 \\mathrm { ~ m ~ }$ (5.7 millas).24 La ceniza continuó expandiéndose en dirección sudeste, y según predicciones del Centro de Desastres del Pacífico, la exposición de ceniza en la atmósfera afectaría a más de 5.6 millones de personas dentro de la región densamente poblada que rodea al volcán.23 ",
+        "bbox": [
+            70,
+            197,
+            578,
+            389
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/2d6d4d6ed49fd9cae2fe4904325237bd7351be5cb84f514d496f1765a51207af.jpg",
+        "image_caption": [
+            "Columna de ceniza del monte Agung, 27 de noviembre de 2017 "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            205,
+            922,
+            374
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Miércoles 29 de noviembre ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            419,
+            331,
+            435
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Una disminución en la intensidad de la erupción y la dispersión por el viento de la nube de cenizas, llevó a las autoridades a reabrir el Aeropuerto Internacional Ngurah Rai a las 07:00 (UTC).25 26 Sin embargo, las autoridades advirtieron que la intensidad de la erupción podría incrementarse en cualquier momento, cancelando potencialmente el tráfico aéreo una vez más.26 ",
+        "bbox": [
+            70,
+            441,
+            578,
+            577
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Enero 2018 ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            604,
+            181,
+            621
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Se presentó una nueva erupción el 11 de enero, que generó plumas de humo y ceniza, sin embargo el Aeropuerto Internacional de Bali se declaró a salvo y operando con normalidad.27 Se reportó que la columna eruptiva se elevó $2 . 5 \\mathrm { k m }$ por encima del volcán. ",
+        "bbox": [
+            70,
+            627,
+            578,
+            722
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/253e4a13eb71021dfdb8bb1a325c242ae4808da7394db480630db09a3f5880a2.jpg",
+        "image_caption": [
+            "Imagen satelital de la ceniza capturada por el MODIS instalado en el satélite Terra. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            606,
+            450,
+            922,
+            665
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Impacto ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            760,
+            179,
+            782
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La erupción provocó que cerca de 40,000 personas fueran evacuadas de 22 villas en los alrededores del monte Agung. También causó que aeropuertos alrededor de la zona cerraran. El Aeropuerto Internacional de Lombok, ubicado en la isla vecina de Lombok, cerró el 26 de noviembre, y fue reabierto a la mañana siguiente. El Aeropuerto Internacional Ngurah Rai, ubicado en la punta sureña de la isla, y al suroeste del volcán, cerró el 27 de noviembre. Más de 400 vuelos fueron cancelados, y cerca de 50,000 pasajeros quedaron varados;28 el aeropuerto reinició operaciones el 29 de noviembre. La erupción causó una baja aproximada del $3 0 \\%$ del turismo en Bali. ",
+        "bbox": [
+            70,
+            798,
+            932,
+            932
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "La última vez que el monte Angung hizo erupción fue en 1963. En esa erupción, los habitantes tuvieron tan solo unos pocos minutos de advertencia, lo que causó la muerte de casi 1,500 personas.2 ",
+        "bbox": [
+            65,
+            103,
+            927,
+            141
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Referencias ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            178,
+            223,
+            199
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. «Ante \"inminente gran erupción volcánica\", elevan alerta en Bali» (http://www.elunivers al.com.mx/mundo/ante-inminente-gran-eru pcion-volcanica-elevan-alerta-en-bali). El Universal. 28 de noviembre de 2017. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            77,
+            226,
+            494,
+            323
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "2. «Mount Agung: Bali volcano alert raised to highest level» (https://www.bbc.co.uk/news/ world-asia-42132912). BBC News. 27 de noviembre de 2017. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            77,
+            327,
+            492,
+            407
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "3. Global Volcanism Program. «Report on Agung (Indonesia)» (https://web.archive.or g/web/20171201042537/http://volcano.si.e du/showreport.cfm?doi=GVP.WVAR201709 13-264020). En Sennert, Sally Kuhn, ed. Weekly Volcanic Activity Report, 13 September-19 September 2017 (Smithsonian Institution and US Geological Survey). Archivado desde el original (http:// volcano.si.edu/showreport.cfm?doi=GVP.W VAR20170913-264020) el 1 de diciembre de 2017. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            77,
+            410,
+            494,
+            617
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "4. «Indonesian official: More than 120,000 flee Bali volcano» (http://www.foxnews.co m/world/2017/09/28/indonesian-official-mor e-than-120000-flee-bali-volcano.html). Fox News. 28 de septiembre de 2017. Consultado el 28 de septiembre de 2017. ",
+        "bbox": [
+            77,
+            622,
+            494,
+            718
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "5. «Thousands evacuated as Bali volcano sparks fear» (http://www.theaustralian.com. au/news/world/thousands-evacuated-as-bal i-volcano-sparks-fear/news-story/7a323056 f5e512345575a14cf4e1f213). The Australian. 24 de septiembre de 2017. ",
+        "bbox": [
+            77,
+            723,
+            492,
+            819
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "6. «Mount Agung: facts about Bali's imminent volcano eruption» (http://ubudhood.com/mo unt-agung-facts/). UbudHood (en inglés estadounidense). 23 se septiembre de 2017. Consultado el 1 de noviembre de 2017. ",
+        "bbox": [
+            77,
+            823,
+            494,
+            918
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "7. «How do experts know Mount Agung is about to erupt?» (http://www.abc.net.au/ne ws/2017-09-25/how-do-experts-know-moun t-agung-is-about-to-erupt/8985974). ABC News Australia. 25 de septiembre de 2017. Consultado el 1 de noviembre de 2017. ",
+        "bbox": [
+            515,
+            218,
+            931,
+            313
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "8. Once tremors detected, Bali volcano can erupt within hours: Volcanologist (http://ww w.channelnewsasia.com/news/asiapacific/o nce-tremors-detected-bali-volcano-can-eru pt-within-hours-9269148) Archivado (http s://web.archive.org/web/20171206110101/ http://www.channelnewsasia.com/news/asi apacific/once-tremors-detected-bali-volcan o-can-erupt-within-hours-9269148) el 6 de diciembre de 2017 en Wayback Machine. CNA, 3 de octubre de 2017 ",
+        "bbox": [
+            514,
+            318,
+            931,
+            492
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "9. Lamb, Kate (26 de septiembre de 2017). «Bali volcano eruption could be hours away after unprecedented seismic activity» (http s://www.theguardian.com/world/2017/sep/2 6/bali-volcano-eruption-seismic-activity-mo unt-agung). The Guardian (en inglés británico). ISSN 0261-3077 (https://portal.issn.org/ resource/issn/0261-3077). Consultado el 26 de septiembre de 2017. ",
+        "bbox": [
+            510,
+            497,
+            931,
+            642
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "10. Topsfield, Jewel; Rosa, Amilia (30 de octubre de 2017). «Mount Agung volcano alert in Bali downgraded» (http://www.smh. com.au/world/mount-agung-volcano-alert-in -bali-downgraded-20171029-gzalz0.html). The Sydney Morning Herald. Consultado el 27 de noviembre de 2017. ",
+        "bbox": [
+            504,
+            646,
+            929,
+            758
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "11. Global Volcanism Program. «Report on Agung (Indonesia)» (http://volcano.si.edu/s howreport.cfm?doi=GVP.WVAR20171101-2 64020). En Sennert, Sally Kuhn, ed. Weekly Volcanic Activity Report, 1 de noviembre-7 de noviembre de 2017 (Smithsonian Institution and US Geological Survey). Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            505,
+            762,
+            931,
+            904
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "12. Global Volcanism Program. «Report on Agung (Indonesia)» (http://volcano.si.edu/s howreport.cfm?doi=GVP.WVAR20171108-2 64020). En Sennert, Sally Kuhn, ed. Weekly Volcanic Activity Report, 8 de noviembre-14 de noviembre de 2017 (Smithsonian Institution and US Geological Survey). Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            65,
+            42,
+            492,
+            187
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "13. «VONA» (https://web.archive.org/web/2018 0630000620/https://magma.vsi.esdm.go.id/ vona/display?noticenumber=2017AGU15). Archivado desde el original (https://magma. vsi.esdm.go.id/vona/display?noticenumber =2017AGU15) el 30 de junio de 2018. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            65,
+            191,
+            492,
+            302
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "14. «Bali's Mount Agung volcano erupts» (http s://www.bbc.com/news/world-asia-4207036 2). BBC News (en inglés británico). 21 de noviembre de 2017. Consultado el 21 de noviembre de 2017. ",
+        "bbox": [
+            65,
+            307,
+            492,
+            387
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "15. Regular bulletins are posted on the website of the Indonesian National Disaster Management Agency (https://www.bnpb.go. id/). ",
+        "bbox": [
+            65,
+            390,
+            494,
+            456
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "16. «Gunung Agung volcano (Bali, Indonesia): eruption has begun» (https://www.volcanod iscovery.com/agung/news/66181/Gunung-A gung-volcano-Bali-Indonesia-eruption-hasbegun.html). Volcano Discovery (en inglés británico). 25 de noviembre de 2017. Consultado el 26 de noviembre de 2017. ",
+        "bbox": [
+            67,
+            459,
+            492,
+            571
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "17. « 'Get out now' 100,000 people told as Bali volcano continues to spew ash» (http://metr o.co.uk/2017/11/27/get-out-now-100000-pe ople-told-as-bali-volcano-continues-to-spew -ash-7110690/). Metro (en inglés británico). 27 de noviembre de 2017. Consultado el 27 de noviembre de 2017. ",
+        "bbox": [
+            67,
+            574,
+            494,
+            686
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "18. «A volcanologist explains Bali eruption photos» (https://www.bbc.com/news/worldasia-42133502). BBC News (en inglés británico). 27 de noviembre de 2017. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            65,
+            690,
+            492,
+            770
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "19. Saifulbahri Ismail (27 de noviembre de 2017). «Mount Agung eruption: Bali airport closed, flights cancelled» (https://web.archi ve.org/web/20171127032737/http://www.ch annelnewsasia.com/news/asiapacific/moun t-agung-eruption-bali-airport-closed-flightscancelled-9443114). CNA. Archivado desde el original (http://www.channelnewsa sia.com/news/asiapacific/mount-agung-eru ption-bali-airport-closed-flights-cancelled-9 ",
+        "bbox": [
+            68,
+            774,
+            492,
+            935
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "443114) el 27 de noviembre de 2017.   \nConsultado el 27 de noviembre de 2017. ",
+        "bbox": [
+            536,
+            41,
+            927,
+            73
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "20. «Locals Watch As Lahars From Mount Agung Sweep Away Rice Fields» (http://ww w.viva.co.id/berita/nasional/981801-lahar-di ngin-gunung-agung-sapu-sawah-jadi-tonto nan-warga). VIVA Indonesia (en indonesio). 27 de noviembre de 2017. Consultado el 27 de noviembre de 2017. ",
+        "bbox": [
+            504,
+            77,
+            929,
+            188
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "21. «Bali volcano: Mt Agung ash shuts airport for second day» (https://www.bbc.co.uk/ne ws/world-asia-42147422). BBC News Online. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            504,
+            193,
+            929,
+            273
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "22. «Mount Agung: Bali volcano alert raised to highest level» (https://www.bbc.co.uk/news/ world-asia-42132912). BBC News Online. Consultado el 27 de noviembre de 2017. ",
+        "bbox": [
+            502,
+            276,
+            931,
+            340
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "23. «Life-saving technology provides alert as Bali's Mount Agung spews ash, raises alarm» (https://web.archive.org/web/20171 201044413/http://www.pdc.org/news-n-med ia/pdc-updates/2017-Mount-Agung-Bali/). www.pdc.org. Archivado desde el original (http://www.pdc.org/news-n-media/pdc-upd ates/2017-Mount-Agung-Bali/) el 1 de diciembre de 2017. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            504,
+            345,
+            931,
+            504
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "24. «Volcanic ash update for Mount Agung» (ht tp://media.bom.gov.au/releases/398/volcani c-ash-update-for-mount-agung/). Australian Government Bureau of Meteorology (en inglés). 27 de noviembre de 2017. Consultado el 27 de noviembre de 2017. ",
+        "bbox": [
+            504,
+            508,
+            929,
+            604
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "25. «Indonesia reopens Bali airport as wind clears volcanic ash» (https://www.reuters.c om/article/us-indonesia-volcano/indonesia-r eopens-bali-airport-as-wind-clears-volcanic -ash-idUSKBN1DT07N). Reuters.com. 29 de noviembre de 2017. ",
+        "bbox": [
+            504,
+            609,
+            929,
+            704
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "26. «Bali volcano: live updates on Mount Agung eruptions as airport reopens» (http s://www.standard.co.uk/news/world/bali-vol cano-live-latest-on-mount-agung-eruptionsas-airport-set-to-reopen-a3704541.html). Evening Standard. 29 de noviembre de 2017. ",
+        "bbox": [
+            504,
+            707,
+            931,
+            820
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "27. «Volcano erupts in Indonesia's Bali, airport remains safe» (https://web.archive.org/web/ 20180302215454/http://www.xinhuanet.co m/english/2018-01/11/c_136888943.htm). Archivado desde el original (http://www.xin huanet.com/english/2018-01/11/c_1368889 ",
+        "bbox": [
+            504,
+            824,
+            931,
+            921
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "43.htm) el 2 de marzo de 2018. Consultado el 8 de febrero de 2018. ",
+        "bbox": [
+            99,
+            41,
+            494,
+            72
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "28. «La erupción del Monte Agung sofoca la economía de Bali» (http://expansion.mx/ec onomia/2017/11/28/la-erupcion-del-monteagung-sofoca-la-economia-de-bali?internal source=PLAYLIST). Expansión (Grupo Expansión). 28 de noviembre de 2017. Consultado el 28 de noviembre de 2017. ",
+        "bbox": [
+            65,
+            77,
+            494,
+            110
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            536,
+            41,
+            929,
+            121
+        ],
+        "page_idx": 5
+    }
+]

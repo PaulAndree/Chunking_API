@@ -1,0 +1,724 @@
+[
+    {
+        "type": "text",
+        "text": "This copy is for your personal, non-commercial use only. ",
+        "bbox": [
+            294,
+            222,
+            705,
+            238
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "If you wish to distribute this article to others, you can order high-quality copies for your colleagues, clients, or customers by clicking here. ",
+        "bbox": [
+            161,
+            306,
+            823,
+            334
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Permission to republish or repurpose articles or portions of articles can be obtained by following the guidelines here. ",
+        "bbox": [
+            165,
+            342,
+            834,
+            369
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "The following resources related to this article are available online at www.sciencemag.org (this information is current as of September 26, 2012 ): ",
+        "bbox": [
+            165,
+            385,
+            766,
+            412
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Updated information and services, including high-resolution figures, can be found in the online   \nversion of this article at:   \nhttp://www.sciencemag.org/content/319/5869/1533.full.html ",
+        "bbox": [
+            161,
+            426,
+            870,
+            468
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Supporting Online Material can be found at: http://www.sciencemag.org/content/suppl/2008/03/14/319.5869.1533.DC1.html ",
+        "bbox": [
+            163,
+            476,
+            740,
+            503
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This article has been cited by 29 article(s) on the ISI Web of Science ",
+        "bbox": [
+            165,
+            511,
+            671,
+            526
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "This article has been cited by 21 articles hosted by HighWire Press; see: http://www.sciencemag.org/content/319/5869/1533.full.html#related-urls ",
+        "bbox": [
+            163,
+            534,
+            694,
+            561
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "RecA family member, have been identified (12). Because DMC1B is expressed in vegetatively growing trophozoites and cysts whereas DMC1A is cyst-specific, we postulate that DMC1B may have a Rad51-like function and be involved in somatic DNA damage repair. Similarly, we suspect that although Mnd1 is involved in meiosisspecific recombination in other organisms, it may have a more general role in Giardia. ",
+        "bbox": [
+            58,
+            50,
+            340,
+            173
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "To determine when HOP1::GFP begins to be localized to the cyst nuclei, we monitored encystation over 24 hours with an antibody to cyst wall protein (CWP), which is transported via encystation-specific vesicles (ESVs) to the exterior of the cell and deposited to form the cyst wall (14). Three hours after induction of encystation, CWP was detected in ESVs in the cytoplasm (Fig. 4A), and the number of ESVs continued to increase through the first 12 hours (Fig. 4B). After 15 hours, cells were filled with ESVs, and HOP1::GFP was first detected in the two nuclei of the encysting trophozoite (Fig. 4C). By 24 hours (Fig. 4D), mature cysts with four nuclei and a defined wall were present, and HOP1::GFP was localized to all four nuclei. Thus, HOP1, which is involved in binding double-strand breaks during meiosis in yeast (15), is first detected in the nuclei in Giardia during encystation and persists indefinitely in cysts. ",
+        "bbox": [
+            58,
+            174,
+            340,
+            451
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Karyogamy during encystation, if accompanied by homologous recombination and/or gene conversion driven by the HMGs, could provide a mechanism by which Giardia maintains low levels of allelic heterozygosity. This parasexual process, which we call diplomixis, appears to be unique to Giardia, although we predict that it occurs in other members of the order Diplomonadida. Unlike automixis, diplomixis is not accompanied by meiotic genome reduction and the subsequent fusion of gametes from the same parent, as is found in the sexual or parasexual life cycle of other organisms (16). It is also possible that rare meiotic events occur in the wild, as suggested by a recent Giardia population study (17). Understanding the functions of the HMGs and the behavior of chromosomes as nuclei fuse will be essential to test for the occurrence of homologous recombination. A deeper understanding of the roles of these genes, as well as others involved in karyogamy, may shed light on the evolution of meiosis and provide new targets for drug treatments. ",
+        "bbox": [
+            360,
+            50,
+            639,
+            366
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "References and Notes ",
+        "text_level": 1,
+        "bbox": [
+            382,
+            382,
+            503,
+            394
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "1. L. Savioli, H. Smith, A. Thompson, Trends Parasitol. 22, 203 (2006).   \n2. R. D. Adam, T. E. Nash, T. E. Wellems, Nucleic Acids Res. 16, 4555 (1988).   \n3. K. S. Kabnick, D. A. Peattie, J. Cell Sci. 95, 353 (1990).   \n4. L. Z. Yu, C. W. Birky, R. D. Adam, Eukaryot. Cell 1, 191 (2002).   \n5. H. G. Morrison et al., Science 317, 1921 (2007).   \n6. S. Teodorovic, J. M. Braverman, H. G. Elmendorf, Eukaryot. Cell 6, 1421 (2007).   \n7. R. D. Adam, Clin. Microbiol. Rev. 14, 447 (2001).   \n8. R. Bernander, J. E. Palm, S. G. Svärd, Cell. Microbiol. 3, 55 (2001).   \n9. M. S. Sagolla, S. C. Dawson, J. J. Mancuso, W. Z. Cande, J. Cell Sci. 119, 4889 (2006).   \n10. C. W. Birky, Genetics 144, 427 (1996).   \n11. Materials and methods are available as supporting material on Science Online.   \n12. M. A. Ramesh, S. B. Malik, J. M. Logsdon, Curr. Biol. 15, 185 (2005).   \n13. A. M. Villeneuve, K. J. Hillers, Cell 106, 647 (2001).   \n14. D. S. Reiner, H. Douglas, F. D. Gillin, Infect. Immun. 57, 963 (1989).   \n15. N. M. Hollingsworth, L. Goetsch, B. Byers, Cell 61, 73 (1990).   \n16. A. S. Kondrashov, Annu. Rev. Ecol. Syst. 28, 391 (1997).   \n17. M. A. Cooper, R. D. Adam, M. Worobey, C. R. Sterling, Curr. Biol. 17, 1984 (2007).   \n18. We thank the Cande and Dawson labs for discussion, as well as E. Slawson for help with experiments. We gratefully acknowledge funding from the NIH (grants A1054693 to W.Z.C. and 1F32GM078971 to M.K.P.) and the NSF (predoctoral fellowship to M.L.C.). ",
+        "bbox": [
+            368,
+            395,
+            638,
+            449
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            663,
+            50,
+            941,
+            351
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Supporting Online Material ",
+        "text_level": 1,
+        "bbox": [
+            659,
+            355,
+            809,
+            366
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "www.sciencemag.org/cgi/content/full/319/5869/1530/DC1   \nMaterials and Methods   \nFigs. S1 and S2   \nReferences   \nMovies S1 to S6 ",
+        "bbox": [
+            658,
+            365,
+            915,
+            423
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "4 December 2007; accepted 11 February 2008   \n10.1126/science.1153752 ",
+        "bbox": [
+            658,
+            428,
+            873,
+            449
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Direct Visualization of Horizontal Direct Visualiz ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            476,
+            562,
+            539
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Ana Babić, 1,2\\* Ariel B. Lindner,1,2 Marin Vulić, $^ { 1 , 2 } \\dag$ Eric J. Stewart $^ { 1 , 2 } \\dag$ Miroslav Radman1,2,3‡ ",
+        "bbox": [
+            57,
+            548,
+            639,
+            566
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conjugation allows bacteria to acquire genes for antibiotic resistance, novel virulence attributes, and alternative metabolic pathways. Using a fluorescent protein fusion, SeqA-YFP, we have visualized this process in real time and in single cells of Escherichia coli. We found that the F pilus mediates DNA transfer at considerable cell-to-cell distances. Integration of transferred DNA by recombination occurred in up to $96 \\%$ of recipients; in the remaining cells, the transferred DNA was fully degraded by the RecBCD helicase/nuclease. The acquired integrated DNA was tracked through successive replication rounds and was found to occasionally split and segregate with different chromosomes, leading to the inheritance of different gene clusters within the cell lineage. The incidence of DNA splitting corresponds to about one crossover per cell generation. ",
+        "bbox": [
+            58,
+            579,
+            639,
+            703
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ient in single-stranded form and converted to duplex DNA by the synthesis of the complementary strand in the recipient cell. Once the conjugational transfer ceases, double-stranded donor DNA is either circularized (in the case of $\\mathrm { F ^ { \\prime } }$ transfer) or, in the case of Hfr transfer, incorporated into the recipient chromosome by RecAdependent homologous recombination or degraded by RecBCD exonuclease (3, 6). ",
+        "bbox": [
+            658,
+            478,
+            939,
+            603
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Many aspects of the mechanism and consequences of conjugation remain unresolved, including the role of the F pilus in DNA transfer during conjugation, the fate of the transferred DNA, the global frequency of the horizontal gene transfer (versus the frequency of inheritance of individual genetic markers), and the pattern of inheritance of donor DNA present in the initial transconjugant cell. To address these questions, we have developed an experimental system that enables us to distinguish the transferred donor DNA from both donor and recipient DNA, and to visualize DNA transfer and recombination by means of fluorescence microscopy in real time, ",
+        "bbox": [
+            658,
+            604,
+            939,
+            796
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "ogether with transformation and phagemediated transduction, conjugation is a key mechanism for horizontal gene transfer in bacteria $( I )$ . The first evidence for sex by conjugation in $E$ . coli was provided by Lederberg, who obtained prototrophic progeny by mixing two different auxotrophic parents (2). Since then, the phenomenon of horizontal gene transfer has been shown to be responsible for widespread transfer among bacterial populations of genes conferring antibiotic resistance, metabolic functions, and virulence determinants. ",
+        "bbox": [
+            58,
+            728,
+            340,
+            892
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Conjugational DNA transfer is driven by the F plasmid unidirectionally from an $\\mathrm { F } ^ { + }$ donor cell to an $\\mathrm { F ^ { - } }$ recipient cell. The F plasmid contains all the genes required for conjugation (e.g., mediating the contact between donor and recipient cells) and for regulation of DNA mobilization and its unidirectional transfer (3). At low frequencies, the F plasmid can integrate into the chromosome of the host cell, giving rise to an Hfr (high frequency of recombination) strain (4). Chromosomal genes of the Hfr bacterium can be mobilized and transferred to a recipient. In some cases, F can excise from the chromosome of Hfr, creating an $\\mathrm { F ^ { \\prime } }$ molecule that carries chromosomal genes as well as the conjugation genes (5). Both Hfr and $\\mathrm { F ^ { \\prime } }$ can serve as DNA vehicles in horizontal gene transfer between bacteria. ",
+        "bbox": [
+            58,
+            894,
+            340,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            358,
+            728,
+            638,
+            906
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "The contact between mating cells is mediated by a tube-like structure known as the F pilus (3). DNA is transferred from the donor to the recipat the level of individual living cells. This tool allowed us to quantify the ongoing transfer of DNA during conjugation and to acquire timelapse movies that follow the fate of the newly acquired DNA in individual cells through any number of cell divisions. ",
+        "bbox": [
+            358,
+            908,
+            639,
+            948
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            58,
+            48,
+            340,
+            130
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "SeqA is a negative regulator of initiation of $E$ . coli replication, with a high affinity for DNA that has been hemimethylated (i.e., only one strand in the duplex DNA is methylated) by Dam methylase at $5 ^ { \\prime }$ GATC sequences (7–9). We mated Dam methylation–proficient donor (Hfr or $\\mathrm { F ^ { \\prime } }$ ) cells with methylation-deficient recipient cells, producing the SeqA-YFP (yellow fluorescent protein) fusion protein, which enabled us to specifically and permanently label only the transferred DNA. Once methylated donor DNA is transferred to the $\\mathrm { D a m } ^ { - }$ recipient as a single strand and converted to a DNA duplex by the synthesis of the complementary nonmethylated strand, the acquired DNA is expected to remain permanently hemimethylated and therefore bound by SeqA-YFP. Indeed, we have previously shown the binding of SeqA to conjugally transferred DNA by immunofluorescence on fixed cells (10). ",
+        "bbox": [
+            58,
+            133,
+            340,
+            394
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The SeqA-YFP translational fusion was constructed and placed in the chromosome under the control of the native seqA promoter, replacing the resident seqA gene (11). As expected, in $\\mathrm { D a m } ^ { + }$ cells SeqA-YFP localizes to DNA replication forks to form compact foci (Fig. 1A). As DNA methylation lags considerably behind DNA synthesis, the newly replicated DNA is transiently hemimethylated DNA and therefore transiently bound by SeqA-YFP (Fig. 1A) (12–14). In contrast, in Dam– cells SeqA-YFP fluorescence is diffuse (Fig. 1B). The number of SeqA-YFP foci in $\\mathrm { D a m } ^ { + }$ cells varied from one to two in minimal medium, and up to eight in LB (Luria Bertani) medium, as expected from the occurrence of multiple replication forks in rich medium (13, 15). Foci were positioned at the half- or quarter-length positions in the cell. Both the number and position of SeqA-YFP foci corresponded to those previously reported for SeqA (13, 14), which suggests that SeqA-YFP is functional in terms of DNA binding specificity. ",
+        "bbox": [
+            58,
+            395,
+            340,
+            698
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To investigate the localization of SeqA-YFP protein during conjugation, we placed a mixture of dam+ donors and dam– seqA-yfp recipients on a nutrient-containing agarose slab in a sealedcavity microscope slide and observed it with time-lapse fluorescence microscopy. About $5 \\mathrm { { m i n } }$ after mixing the parental cells, distinct SeqAYFP foci started to appear in recipient cells (Fig. 1, D and E). During the next 30 to $4 0 \\mathrm { { m i n } }$ , almost all recipients in the vicinity of donors acquired intense fluorescent foci of the SeqAYFP due to the sequestration of previously diffused SeqA-YFP by the transferred DNA (Fig. 1E and movie S1). A single recipient cell could receive DNA more than once, as shown by the presence of independent, well-separated foci arising at different time points at different positions in the cell (fig. S1 and movie S1). ",
+        "bbox": [
+            58,
+            701,
+            340,
+            949
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "As expected, when dam– donors were used in conjugation, no SeqA-YFP foci were observed in the dam– recipients. Also, no SeqA-YFP foci were seen when donors lacking the structural pilus protein (TraA) were used and were therefore transfer-deficient (16). These results confirm that SeqA-YFP foci formation reflects the entry of a methylated donor DNA strand into the dam– recipient during conjugation. Although the conjugal transfer of the extrachromosomal R plasmid was previously observed by fluorescence of a specific locus on the plasmid (17), our system allows visualization of transfer of any extrachromosomal or chromosomal DNA in a sequenceindependent fashion. ",
+        "bbox": [
+            358,
+            50,
+            639,
+            256
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "To visualize the expression of conjugally transferred DNA in the recipient cells, we constructed the ANB35 donor strain of E. coli, which carries the tetracycline (Tet) promoter–driven monomeric red fluorescent protein (mrfp1) gene (18) and tetR (repressor) gene $( I I )$ . In the absence of induction, donor cells exhibit weak red fluorescence because of the leakiness of the Tet promoter (movie S2). When ANB35 donors were mated with dam– seqA-yfp recipients, we first observed the appearance of the SeqA-YFP focus, denoting DNA transfer, followed by the red fluorescence in the recipient cell, showing mrfp1 gene expression, about 2 hours after the transfer of the mrfp1 gene. This expression of the mrfp1 gene was detected in 25 of 307 mated recipients $( 8 . 1 \\% )$ . Not all successful transfers would have included the mrfp1 gene, because conjugational transfer ceases at random points, and the probability of transferring a specific marker decreases exponentially with its distance from origin of transfer oriT (19). The recipient cell eventually became intensely red relative to the fluorescence of the donor (movie S2). Upon entry of the donor DNA into the recipient cell lacking the TetR repressor, the transcription of mrfp1 occurred before sufficient TetR repressor was expressed and functional. The recipient cell therefore became intensely red before repression started. This phenomenon is known as induction of gene expression by conjugation, or zygotic induction (20). ",
+        "bbox": [
+            358,
+            257,
+            639,
+            408
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            658,
+            50,
+            939,
+            339
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "The F pilus is a tubular organelle, extruding from the surface of the donor cell, that is required for conjugation (21). Some authors have argued that the F pilus serves only to bring the mating cells in direct contact, and that DNA is transferred subsequently through a pore in the membrane (22, 23). Others have shown that DNA can be transferred from the donor to the recipient even when mating cells were apparently physically separated (24). In three experiments, we observed SeqA-YFP foci appearing in 43 of 753 recipients that were not in direct cell wall contact; the maximal observed distance to the closest donor was $1 2 \\mu \\mathrm { m }$ (Fig. 2 and movie S3). No distant transfer of DNA was observed in the presence of $0 . 0 1 \\%$ SDS (which depolymerizes F pili) or when using the transfer-deficient $t r a A ^ { - }$ donors (which lack the pili). Clearly, the appearance of distant SeqA-YFP foci depends on conjugation and on the presence of F pili. Thus, our results offer evidence supporting the idea that the F pilus, in addition to establishing the contact between mating cells, serves as a channel for single-stranded DNA transfer during conjugation. ",
+        "bbox": [
+            658,
+            341,
+            939,
+            408
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "image",
+        "img_path": "images/4bd1816780517d3772f666bb5aa4d04b0694f12be096ec91bc932eaf2e14fa72.jpg",
+        "image_caption": [
+            "Localization of SeqAFig. 1.YFP in DNA replication and in conjugation. ( ) Dam-proficient Acells. ( ) Dam-deficient cells. B( ) Recipient with SeqA-YFP Cfocus after conjugation with F donor. Left, phase contrast image; center, fluorescence image; right, overlay between the phase contrast image and the fluorescence image represented in green. ( Dand ) Real-time conjugation E[(D), phase contrast; (E), fluorescence overlay] of donors (red cells) with recipient (green cells) as followed by time-lapse microscopy at 0, 10, and 30 min after plating on nutrient-agarose cavity slide. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            557,
+            435,
+            936,
+            947
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            58,
+            50,
+            340,
+            325
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In conjugations with recombination-deficient recipients (recA– ), transferred DNA is known to be degraded by the RecBCD exonuclease (6, 25). RecBCD is a highly processive enzyme degrading single- and double-stranded linear DNA (26, 27). The kinetics of degradation of conjugally transferred DNA have so far only been measured in large cell populations (6, 25) and not at the level of single cells. ",
+        "bbox": [
+            58,
+            326,
+            340,
+            449
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "In our experiments we found that the SeqAYFP focus fluorescence intensity in the recipient is proportional to the time of active conjugation, that is, to the length of transferred DNA (fig. S2). The gradual disappearance of the fluorescence of ",
+        "bbox": [
+            58,
+            452,
+            340,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "SeqA-YFP foci that we observed in recombinationdeficient cells (movie S4) probably reflected DNA degradation mediated by the RecBCD helicase/nuclease complex. Indeed, Hfr DNA transferred into recA– recD– recipients was largely left unchanged, and no degradation was seen in 459 of 471 recipients [i.e., $9 7 \\pm 0 . 2 4 \\%$ (SEM) in three experiments] 4 hours after interruption of mating. By contrast, in $r e c A ^ { - }$ recipients, transferred DNA was rapidly broken down in 313 of 343 recipients (i.e., $9 1 . 3 \\pm 4 . 1 \\%$ in three experiments). DNA degradation over time in most cases was linear, yet individual cells exhibited variable degradation rates (fig. S3A). Occasionally (for 9 of 135 foci in two experiments) we saw a delay in the onset of degradation (fig. S3B). Interestingly, a subpopulation of SeqAYFP foci $( 8 . 7 \\ : \\pm \\ : 4 . 1 \\%$ for 343 tracked foci) exhibited an initial decrease in fluorescence due to degradation of DNA but eventually reached a stable fluorescence level, even 4 hours after the interruption of mating (fig. S3C). This contrasts with the findings that no genuine genetic recombinants can be obtained in crosses with recA– recipients (28). In these cases, the nonreplicative Hfr DNA somehow must be end-protected—for example, by circularization via microhomologies, palindromic end structures, or protein binding. ",
+        "bbox": [
+            360,
+            50,
+            639,
+            436
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "The fate of transferred DNA in recombinationproficient $( r e c { A } ^ { + } )$ recipients was followed after interruption of mating $( l I )$ . In $E$ . coli, all free linear DNA is rapidly degraded by the RecBCD exonuclease (27); therefore, SeqA-YFP foci that remain stable in $r e c A ^ { + }$ recipients for at least 4 hours were considered as recombined DNA. Transferred DNA followed two fates in the $r e c A ^ { + }$ recipients: In 11 of 336 mated recipients $3 . 3 \\pm 0 . 8 3 \\%$ in three experiments), SeqA-YFP foci disappeared, indicating that the donor DNA was degraded (fig. S4). However, in the majority $( 9 6 . 7 \\ : \\pm \\ : 0 . 8 3 \\% )$ ), the fluorescence intensity remained constant or slowly increased for the higher-intensity foci. This is coherent with the binding of newly synthesized SeqA-YFP to available GATC sequences of large conjugated fragments, whereas small fragments are readily saturated by available SeqA-YFP (fig. S4). ",
+        "bbox": [
+            358,
+            437,
+            639,
+            519
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            658,
+            50,
+            939,
+            228
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/b1604c27d3a7136d5b1b4d316455036f79d9e3d26dfd82a0e4a50758169bf512.jpg",
+        "image_caption": [
+            "RepresentaFig. 2.tive example of conjugational DNA transfer without visible cell contact between donors and recipients. Recipients and donors were plated on the nutrient-agarose slab without previously being in contact and were observed by time-lapse fluorescence microscopy. ( ) Phase contrast "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            208,
+            544,
+            632,
+            697
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This direct, physical, measure of recombination shows substantially higher recombination frequencies than those measured genetically as the acquisition of specific genetic markers (ranging from 10 to $30 \\%$ depending on specific genetic marker, donor strain, and mating conditions) (29, 30). Our results show that conjugational recombination is an extremely efficient process when donors and recipients are essentially genetically identical strains. ",
+        "bbox": [
+            658,
+            230,
+            939,
+            366
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Aimages. ( ) Overlay of fluorescence images of recipients (green cells) and donors (red cells) at 0, 5, and B10 min after plating on LB-agarose in a cavity slide. ",
+        "bbox": [
+            57,
+            714,
+            639,
+            740
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "image",
+        "img_path": "images/163b0cfbaa3dad1a3b25a726101cb4198c5c9b8453f38695bee8055e99582a56.jpg",
+        "image_caption": [
+            "Two representative cases of the Fig. 3.SeqA-YFP focus splitting, differentiated by color. SeqA-YFP foci were acquired during $3 0 \\mathrm { { m i n } }$ of mating on a nitrocellulose filter with a recombination-proficient recipient. Time 0 represents the interruption of mating by nalidixic acid and transfer under the microscope for observation. Times of splitting are indicated by arrows; a.u., arbitrary units. Fluorescence 0 is the average background SeqA-YFP fluorescence level of nonconjugating recipients. Each point represents an integral (total) fluorescence of SeqA-YFP focus. "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            314,
+            764,
+            638,
+            917
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Remarkably, SeqA-YFP foci frequently split within single cell lineages (Fig. 3 and movie S5). The sum of fluorescence intensities of newly formed foci was not statistically different from the intensity of the ancestral focus $( t$ test, $P =$ 0.62, $n = 2 0 \\mathrm { \\Omega }$ ); that is, the splitting events were conservative, showing no evidence of significant DNA degradation (Fig. 3). Most likely, the splitting of SeqA-YFP foci reflects the physical breakage of the initial transferred DNA strand into two DNA fragments $( l I )$ . This is reminiscent of reciprocal crossovers (sister chromatid exchange) because the splitting frequency is proportional to the DNA size and occurs only in recombinationproficient cells $( I I )$ . Extrapolation of the splitting frequency of the acquired DNA to the entire genome suggests that there are about 1.4 crossovers (sister or cousin molecule exchange) per cell generation. ",
+        "bbox": [
+            658,
+            369,
+            941,
+            629
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "This work allowed us to visualize and quantify the DNA of any sequence as it is being transferred from one individual cell to another, and to watch its stable genomic acquisition via genetic recombination (horizontal gene transfer) in real time. The observations also implicated F pilus–mediated conjugation at cell-to-cell distances of up to $1 2 \\mu \\mathrm { m }$ and permitted estimation of the frequency of intragenomic crossover events, or sister-chromatid exchanges. This experimental system can now be applied to monitor horizontal gene transfer by indefinitely following the fate of DNA acquired in intra- and interspecies crosses. ",
+        "bbox": [
+            658,
+            632,
+            939,
+            824
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "References and Notes ",
+        "text_level": 1,
+        "bbox": [
+            681,
+            847,
+            803,
+            858
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "1. H. Ochman, J. G. Lawrence, E. A. Groisman, Nature 405,   \n299 (2000).   \n2. J. Lederberg, E. L. Tatum, Cold Spring Harb. Symp. Quant. Biol. 11, 113 (1946).   \n3. N. Willetts, R. Skurray, in Escherichia coli and Salmonella typhimurium: Cellular and Molecular Biology, F. C. Neidhardt, Ed. (American Society for Microbiology, Washington, DC, 1987), pp. 1110–1113.   \n4. W. Hayes, Cold Spring Harb. Symp. Quant. Biol. 18, 75 (1953).   \n5. K. B. Low, Methods Enzymol. 204, 43 (1991).   \n6. R. G. Lloyd, C. Buckman, Genetics 139, 1123 (1995).   \n7. T. Brendler, A. Abeles, S. Austin, EMBO J. 14, 4083 (1995).   \n8. M. Lu, J. L. Campbell, E. Boye, N. Kleckner, Cell 77, 413 (1994).   \n9. S. Slater et al., Cell 82, 927 (1995).   \n10. M. Kohiyama, S. Hiraga, I. Matic, M. Radman, Science 301, 802 (2003).   \n11. See supporting material on Science Online.   \n12. J. L. Campbell, N. Kleckner, Cell 62, 967 (1990).   \n13. S. Hiraga, C. Ichinose, H. Niki, M. Yamazoe, Mol. Cell 1, 381 (1998).   \n14. T. Onogi, H. Niki, M. Yamazoe, S. Hiraga, Mol. Microbiol. 31, 1775 (1999).   \n15. C. Helmstetter, S. Cooper, O. Pierucci, E. Revelas, Cold Spring Harb. Symp. Quant. Biol. 33, 809 (1968).   \n16. L. S. Frost, W. Paranchych, N. S. Willetts, J. Bacteriol. 160, 395 (1984).   \n17. T. D. Lawley, G. S. Gordon, A. Wright, D. E. Taylor, Mol. Microbiol. 44, 947 (2002).   \n18. R. E. Campbell et al., Proc. Natl. Acad. Sci. U.S.A. 99, 7877 (2002).   \n19. G. R. Smith, Cell 64, 19 (1991).   \n20. F. Jacob, E. L. Wollman, Ann. Inst. Pasteur 91, 486 (1956).   \n21. J. Manchak, K. G. Anthony, L. S. Frost, Mol. Microbiol. 43, 195 (2002).   \n22. M. Achtman, G. Morelli, S. Schwuchow, J. Bacteriol. 135, 1053 (1978).   \n23. M. M. Panicker, E. G. Minkley Jr., J. Bacteriol. 162, 584 (1985).   \n24. L. C. Harrington, A. C. Rogerson, J. Bacteriol. 172, 7263 (1990).   \n25. S. Delmas, I. Matic, Proc. Natl. Acad. Sci. U.S.A. 103, 4564 (2006).   \n26. A. K. Eggleston, S. C. West, Curr. Biol. 7, R745 (1997).   \n27. S. C. Kowalczykowski, D. A. Dixon, A. K. Eggleston, S. D. Lauder, W. M. Rehrauer, Microbiol. Rev. 58, 401 (1994).   \n28. B. Low, Proc. Natl. Acad. Sci. U.S.A. 60, 160 (1968).   \n29. L. S. Baron, P. Gemski, E. M. Johnson, J. A. Wohlhieter, Bacteriol. Rev. 32, 362 (1968).   \n30. C. Rayssiguier, C. Dohet, M. Radman, Biochimie 73, 371 (1991).   \n31. Supported by fellowships from ARC and Chancellerie des Universites de Paris and a fellowship supplement from the Croatian Ministry of Science, Education and Sports (A.B.); postdoctoral fellowships from EMBO and Marie Curie program (A.B.L.); postdoctoral fellowships from Ligue Contre le Cancer and Inserm (Poste Vert) (M.V.); postdoctoral fellowships from EMBO, Fondation pour la Recherche Médicale, and Inserm (E.J.S.); and Inserm and Institut Necker (contract Mixis-Pliva). ",
+        "bbox": [
+            666,
+            859,
+            941,
+            948
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            63,
+            50,
+            341,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            361,
+            50,
+            639,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            661,
+            50,
+            937,
+            182
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Supporting Online Material ",
+        "text_level": 1,
+        "bbox": [
+            659,
+            202,
+            811,
+            212
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "www.sciencemag.org/cgi/content/full/319/5869/1533/DC1   \nMaterials and Methods   \nSOM Text   \nFigs. S1 to S4   \nMovies S1 to S5   \nReferences ",
+        "bbox": [
+            658,
+            214,
+            915,
+            280
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "28 November 2007; accepted 5 February 2008   \n10.1126/science.1153498 ",
+        "bbox": [
+            659,
+            285,
+            873,
+            306
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Neurokinin 1 Receptor Antagonism Neurokinin 1 Receptor Antagonism ",
+        "text_level": 1,
+        "bbox": [
+            60,
+            338,
+            631,
+            402
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "David T. George,1 \\* Jodi Gilman,1 \\* Jacqueline Hersh,1 \\* Annika Thorsell,1 \\* David Herion,1 Christopher Geyer,2 Xiaomei Peng,3 William Kielbasa,3 Robert Rawlings,1 John E. Brandt,3 Donald R. Gehlert,3 Johannes T. Tauscher,3 Stephen P. Hunt,4 Daniel Hommer,1 Markus Heilig1 † ",
+        "bbox": [
+            58,
+            415,
+            614,
+            472
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Alcohol dependence is a major public health challenge in need of new treatments. As alcoholism evolves, stress systems in the brain play an increasing role in motivating continued alcohol use and relapse. We investigated the role of the neurokinin 1 receptor (NK1R), a mediator of behavioral stress responses, in alcohol dependence and treatment. In preclinical studies, mice genetically deficient in NK1R showed a marked decrease in voluntary alcohol consumption and had an increased sensitivity to the sedative effects of alcohol. In a randomized controlled experimental study, we treated recently detoxified alcoholic inpatients with an NK1R antagonist (LY686017; $n = 2 5$ ) or placebo $( n = 2 5 )$ ). LY686017 suppressed spontaneous alcohol cravings, improved overall well-being, blunted cravings induced by a challenge procedure, and attenuated concomitant cortisol responses. Brain functional magnetic resonance imaging responses to affective stimuli likewise suggested beneficial LY686017 effects. Thus, as assessed by these surrogate markers of efficacy, NK1R antagonism warrants further investigation as a treatment in alcoholism. ",
+        "bbox": [
+            58,
+            489,
+            638,
+            669
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "genetic deletion of NK1Rs causes a loss of conditioned place preference for opiates and opiate self-administration (9, 10). In humans, the NK1 antagonist GR205171 reduces symptoms of social anxiety and suppresses brain responses to the Trier Social Stress Test (TSST) $( l I )$ . Together, these findings suggest that blockade of NK1Rs might modulate stress- and reward-related processes of importance for excessive alcohol use and relapse. To our knowledge, no data are presently available to address this hypothesis. ",
+        "bbox": [
+            658,
+            339,
+            939,
+            490
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "We first explored preclinically whether inactivation of NK1R might modulate stress- and reward-related processes that impact alcohol use. We chose a genetic inactivation strategy, because available NK1R antagonists have limited activity in rats and mice, because of insufficient NK1R amino acid homology between humans and these rodent species (8). We evaluated NK1R null-mutant mice for voluntary alcohol consumption, alcohol sensitivity, and alcohol metabolism (12). NK1R null mice (13) were back-crossed into a C57BL/6 background for 10 generations to ensure that there was adequate voluntary alcohol consumption in control animals $( I 4 )$ . We used a two-bottle free-choice model with increasing alcohol concentration, and alcohol was continuously available. Wildtype littermates $( + / + )$ ultimately consumed in excess of $1 0 \\mathrm { ~ g ~ }$ alcohol/kg of body weight per day at the end of an escalation procedure in which alcohol concentration was gradually increased from 3 to $1 5 \\%$ over 60 days. ",
+        "bbox": [
+            658,
+            492,
+            939,
+            794
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "lcohol use accounts for $4 \\%$ of global disease burden $( I )$ . Alcohol dependence, or alcoholism, is characterized by a chron  \nic relapsing course, in which alcohol-associated   \ncues and stress are known relapse triggers (2–6).   \nRecent research suggests that neural systems   \nmediating behavioral stress responses may offer   \nuseful targets for pharmacotherapy of alcohol",
+        "bbox": [
+            58,
+            686,
+            340,
+            797
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "ism. In animal models, excessive alcohol consumption that results from a history of alcohol dependence is accompanied by increased behavioral sensitivity to stress (7). Up-regulated corticotropin-releasing hormone (CRH) signaling in extrahypothalamic brain sites contributes to these dependence-induced changes, but other stress-related neurotransmitters may also play a role. ",
+        "bbox": [
+            358,
+            686,
+            639,
+            809
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "One such neurotransmitter is substance P (SP), which together with its preferred neurokinin 1 receptor (NK1R) is highly expressed in brain areas involved in stress responses and drug reward, including the hypothalamus, amygdala, and nucleus accumbens. In rodents, psychological stressors induce release of SP in the amygdala, whereas genetic deletion or pharmacological blockade of NK1R inhibits the associated behavioral responses (8). Furthermore, ",
+        "bbox": [
+            358,
+            810,
+            638,
+            948
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Alcohol consumption by $\\mathrm { N K 1 R ^ { - / - } }$ mice was markedly lower than that by wild-type controls (Fig. 1A). The difference was most prominent at higher alcohol concentrations, at which consumption motivated by pharmacological alcohol effects dominates over intake for taste, calories, or other nonpharmacological effects $( I 4 )$ . Alcohol consumption by heterozygous $( + / - )$ mice was similar to wild-type controls, highlighting the necessity for near-complete inactivation of NK1Rs to suppress alcohol consumption. Sev",
+        "bbox": [
+            658,
+            797,
+            939,
+            948
+        ],
+        "page_idx": 4
+    }
+]

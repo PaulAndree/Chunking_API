@@ -1,0 +1,1636 @@
+[
+    {
+        "type": "text",
+        "text": "Bicarbonato de sodio ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            98,
+            452,
+            127
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato de sodio (también llamado bicarbonato sódico, hidrogenocarbonato de sodio,4 carbonato ácido de sodio o bicarbonato de soda) es un compuesto sólido cristalino de color blanco soluble en agua, con un ligero sabor alcalino parecido al del carbonato de sodio (aunque menos fuerte y más salado que este último), de fórmula ${ \\underline { { \\mathrm { N a H C O } } } } _ { 3 }$ . Se puede encontrar como mineral en la naturaleza o se puede producir artificialmente.5 La forma mineral natural es nahcolita. Es un componente del mineral natrón y se encuentra disuelto en muchos manantiales minerales.6 ",
+        "bbox": [
+            70,
+            140,
+            499,
+            371
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Cuando se expone a un ácido moderadamente fuerte se descompone produciendo dióxido de carbono y agua, con una característica efervescencia. La reacción es la siguiente: ",
+        "bbox": [
+            70,
+            387,
+            497,
+            461
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Debido a la capacidad del bicarbonato de sodio de liberar dióxido de carbono se usa junto con compuestos acídicos como aditivo leudante en panadería y en la producción de gaseosas. Algunas levaduras panarias contienen bicarbonato de sodio. Antiguamente se usaba como fuente de dióxido de carbono para la gaseosa Coca Cola. ",
+        "bbox": [
+            70,
+            543,
+            497,
+            675
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Es el componente fundamental de los polvos extintores de incendios o polvo BC. ",
+        "bbox": [
+            70,
+            691,
+            495,
+            728
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nomenclatura ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            763,
+            257,
+            786
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Debido a que se conoce desde hace mucho tiempo y se usa ampliamente, la sal tiene muchos nombres diferentes, como bicarbonato de soda, bicarbonato sódico, hidrogenocarbonato de sodio, etc., y a menudo se puede encontrar cerca del polvo de hornear en las tiendas. \"Baking soda\" es ",
+        "bbox": [
+            70,
+            804,
+            497,
+            916
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Bicarbonato de sodio ",
+        "text_level": 1,
+        "bbox": [
+            591,
+            156,
+            855,
+            176
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/d26391c0cfc332a663268cd26b76d96a0088a3ecb48a4c4a71e3686773deca79.jpg",
+        "image_caption": [],
+        "image_footnote": [],
+        "bbox": [
+            655,
+            185,
+            788,
+            236
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "image",
+        "img_path": "images/2cfe0962a82b1e8ac83a13efde556143b6ac0ceff5a603853249328e8f6bcd91.jpg",
+        "image_caption": [
+            "Cristales de ${ \\mathsf { N a H C O } } _ { 3 }$ "
+        ],
+        "image_footnote": [],
+        "bbox": [
+            626,
+            258,
+            818,
+            339
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Nombre IUPAC ",
+        "text_level": 1,
+        "bbox": [
+            655,
+            535,
+            788,
+            551
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "Hidrogenocarbonato (IV) de sodio ",
+        "bbox": [
+            584,
+            558,
+            862,
+            573
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "table",
+        "img_path": "images/48295442cf7344d3196fb8945589108638008c8253a27d65b5992049a05b602d.jpg",
+        "table_caption": [],
+        "table_footnote": [],
+        "bbox": [
+            522,
+            573,
+            922,
+            897
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "InChI=InChI=1S/CH2O3.Na/c2- 1(3)4;/h(H2,2,3,4);/q;+1/p-1 ",
+        "bbox": [
+            522,
+            891,
+            768,
+            926
+        ],
+        "page_idx": 0
+    },
+    {
+        "type": "text",
+        "text": "más común en los Estados Unidos, mientras que \"bicarbonate of soda\" es más común en Australia, Reino Unido e Irlanda,7 y en muchos países del norte/centro de Europa se le llama Natrón.8 ",
+        "bbox": [
+            70,
+            42,
+            495,
+            118
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "La palabra saleratus, del Latín sal æratus (que significa \"sal aireada\"), se usó ampliamente en el siglo x ix tanto para el bicarbonato de sodio como para el bicarbonato de potasio.9 ",
+        "bbox": [
+            70,
+            136,
+            495,
+            211
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "Su número E como código de aditivo alimentario es E500.10 ",
+        "bbox": [
+            70,
+            228,
+            495,
+            263
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "El prefijo bi en bicarbonato proviene de un sistema de nomenclatura obsoleto anterior al conocimiento molecular en referencia a los dos equivalentes molares de dióxido de carbono (conocido como ácido carbónico en lenguaje químico en la antigüedad) que libera hidrocarbonato/bicarbonato de potasio al descomponerse en carbonato de (di)potasio y en óxido de potasio (potasa).11 Las fórmulas químicas modernas de estos compuestos ahora expresan sus composiciones químicas precisas que se desconocían cuando se acuñó el nombre \"bicarbonato de potasa\" (véase también: bicarbonato). ",
+        "bbox": [
+            70,
+            281,
+            497,
+            527
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1791, el químico francés Nicolas Leblanc (1742-1806) produjo carbonato sódico (también conocido como ceniza de sosa). ",
+        "bbox": [
+            70,
+            542,
+            495,
+            598
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "A partir del carbonato sódico, el farmacéutico alemán Valentin Rose el Joven12 descubrió el bicarbonato sódico en 1801, en Berlín. ",
+        "bbox": [
+            70,
+            615,
+            495,
+            669
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1846, dos panaderos estadounidenses, Austin Church y John Dwight, crearon la primera fábrica en Estados Unidos que producía bicarbonato sódico a partir de carbonato sódico y dióxido de carbono. ",
+        "bbox": [
+            70,
+            686,
+            497,
+            760
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En la novela Capitanes intrépidos (1897), de Rudyard Kipling (1865-1936), se menciona el salerato (bicarbonato sódico) como un producto muy utilizado en el siglo x ix en la pesca comercial para evitar que el pescado recién capturado se estropeara. ",
+        "bbox": [
+            70,
+            777,
+            497,
+            888
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "table",
+        "img_path": "images/2b9fd4db803d1147156b4ac717f277d6d3c7004f3c86b8fcba372e419a86b5b5.jpg",
+        "table_caption": [
+            "Key: UIIMBOGNXHQVGW-UHFFFAOYSA-M "
+        ],
+        "table_footnote": [],
+        "bbox": [
+            521,
+            51,
+            926,
+            877
+        ],
+        "page_idx": 1
+    },
+    {
+        "type": "text",
+        "text": "En 1919, el senador estadounidense Lee Overman declaró que el bicarbonato de sodio podía curar la gripe española. En pleno debate, el 26 de enero de 1919, interrumpió la discusión para anunciar el descubrimiento de la cura. La supuesta cura implicaba una crítica infundada a la ciencia moderna y un aprecio irracional por la sabiduría simple de la gente sencilla: ",
+        "bbox": [
+            70,
+            42,
+            932,
+            117
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Quiero decir, en beneficio de los que están haciendo esta investigación, que un juez en el país montañoso de Carolina del Norte me dijo que han descubierto un remedio para esta enfermedad. ",
+        "bbox": [
+            156,
+            136,
+            845,
+            181
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Dicen que el bicarbonato de sodio común cura la enfermedad, que la han curado con él, que no tienen ninguna muerte allí arriba; usan bicarbonato de sodio común, que cura la enfermedad. ",
+        "bbox": [
+            157,
+            182,
+            843,
+            228
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Obtención ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            267,
+            208,
+            289
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Mediante el proceso Solvay. Aunque es utilizado para obtener $\\mathrm { N a } _ { 2 } \\mathrm { C O } _ { 3 }$ , es posible obtener en una de las reacciones intermedias bicarbonato sódico. El proceso consiste en la siguiente reacción: ",
+        "bbox": [
+            65,
+            307,
+            927,
+            345
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "equation",
+        "img_path": "images/e5da1b4a48c7d03a68d8b55f85af1d754322aba7a576e592778f165c34e26792.jpg",
+        "text": "$$\n\\mathsf { N a C l } + \\mathsf { N H } _ { 3 } + \\mathsf { C O } _ { 2 } + \\mathsf { H } _ { 2 } \\mathsf { O } \\to \\mathsf { N a H C O } _ { 3 } + \\mathsf { N H } _ { 4 } \\mathsf { C l }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            117,
+            358,
+            551,
+            378
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "cloruro de sodio $( N a C l ) +$ amoníaco $( \\mathsf { N H } _ { 3 } ) +$ dióxido de carbono $( \\mathsf { C O } _ { 2 } ) +$ agua $( \\mathsf { H } _ { 2 } \\mathsf { O } )$ ",
+        "bbox": [
+            121,
+            390,
+            371,
+            463
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En la cual precipita el bicarbonato de sodio. ",
+        "bbox": [
+            70,
+            478,
+            426,
+            496
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Usos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            533,
+            134,
+            553
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Cocina ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            593,
+            141,
+            610
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "Leudante o gasificante ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            640,
+            292,
+            657
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "En la cocina, el bicarbonato de sodio se utiliza principalmente como agente leudante, o gaseante para hornear. Cuando reacciona con ácido, se libera dióxido de carbono, lo que causa la expansión de la masa y forma la textura y el grano característicos en pasteles, panes rápidos, pan de soda y otros alimentos horneados y fritos. La reacción ácido-base puede representarse genéricamente de la siguiente manera: ",
+        "bbox": [
+            70,
+            663,
+            931,
+            737
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { N a H C O 3 + H ^ { + }  N a ^ { + } + C O 2 + H 2 O }$ Los materiales ácidos que inducen esta reacción incluyen fosfatos de hidrógeno, crema de tártaro, jugo de limón, yogur, suero de leche, cacao y vinagre. El bicarbonato de sodio se puede utilizar junto con masa madre, que es ácida, para hacer un producto más ligero con un sabor menos ácido. ",
+        "bbox": [
+            70,
+            751,
+            931,
+            826
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "El calor también puede hacer que el bicarbonato de sodio actúe como agente leudante en la cocción debido a la descomposición térmica, liberando dióxido de carbono a temperaturas superiores a $8 0 ~ ^ { \\circ } \\mathrm { C }$ (180 ${ } ^ { \\circ } \\mathrm { F }$ ), como se muestra a continuación: ",
+        "bbox": [
+            70,
+            844,
+            931,
+            899
+        ],
+        "page_idx": 2
+    },
+    {
+        "type": "text",
+        "text": "$\\mathrm { 2 \\ N a H C O 3  N a 2 C O 3 + H 2 O + C O 2 }$ Cuando se utiliza de esta manera por sí solo, sin la presencia de un componente ácido (ya sea en la masa o mediante el uso de un polvo de hornear que contiene ácido), solo se libera la mitad del CO2 disponible (se forma una molécula de CO2 por cada dos equivalentes de NaHCO3). Además, en ausencia de ácido, la descomposición térmica del bicarbonato de sodio también produce carbonato de sodio, que es fuertemente alcalino y le da al producto horneado un sabor amargo y \"jabonoso\" y un color amarillento. Dado que la reacción ocurre lentamente a temperatura ambiente, las mezclas (masa de pastel, etc.) pueden dejarse reposar sin levantar hasta que se calienten en el horno. ",
+        "bbox": [
+            70,
+            42,
+            932,
+            174
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Polvo de hornear ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            201,
+            236,
+            219
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Artículo principal: Polvo de hornear El polvo de hornear, también utilizado para cocinar, contiene alrededor del $3 0 \\%$ de bicarbonato, y varios ingredientes ácidos que se activan mediante la adición de agua, sin necesidad de ácidos adicionales en el medio de cocción. Muchas formas de polvo de hornear contienen bicarbonato de sodio combinado con fosfato de ácido cálcico, fosfato de aluminio sódico o cremor tártaro. El bicarbonato de sodio es alcalino; el ácido utilizado en el polvo de hornear evita un sabor metálico cuando el cambio químico durante la cocción crea carbonato de sodio. ",
+        "bbox": [
+            70,
+            226,
+            931,
+            338
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Pirotecnia ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            366,
+            171,
+            384
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato de sodio es uno de los principales componentes del fuego artificial comúnmente conocido como \"serpiente negra\". El efecto se produce por la descomposición térmica, que produce gas dióxido de carbono para generar una larga serpiente de ceniza similar como producto de la combustión del otro componente principal, la sacarosa.13 El bicarbonato de sodio también se utiliza para retrasar las reacciones de combustión mediante la liberación de CO2 y H2O cuando se calienta, ambos son retardantes de llama. ",
+        "bbox": [
+            70,
+            390,
+            931,
+            503
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Desinfectante suave ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            532,
+            268,
+            548
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Tiene propiedades desinfectantes débiles14 15 y puede ser un fungicida eficaz contra algunos organismos.16 Debido a que el bicarbonato de sodio absorbe olores a humedad, se ha convertido en un método fiable para los vendedores de libros usados para hacer que los libros sean menos malolientes.17 ",
+        "bbox": [
+            72,
+            554,
+            931,
+            615
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Extintor de incendios ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            643,
+            278,
+            660
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato de sodio se puede usar para extinguir pequeños incendios de grasa o eléctricos arrojándolo sobre el fuego, ya que el calentamiento del bicarbonato de sodio libera dióxido de carbono.18 Sin embargo, no se debe aplicar a incendios en freidoras; la liberación repentina de gas puede hacer que la grasa salpique.18 El bicarbonato de sodio se utiliza en extintores de incendios químicos secos de clase BC como alternativa al fosfato monoamónico más corrosivo en los extintores ABC. La naturaleza alcalina del bicarbonato de sodio lo convierte en el único agente químico seco, además del K-Púrpura, que se utilizó en sistemas de supresión de incendios a gran escala instalados en cocinas comerciales.19 Debido a que puede actuar como un álcali, el agente tiene un efecto de saponificación suave sobre la grasa caliente, lo que forma una espuma suave y protectora. ",
+        "bbox": [
+            70,
+            666,
+            931,
+            839
+        ],
+        "page_idx": 3
+    },
+    {
+        "type": "text",
+        "text": "Neutralización de ácidos ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            42,
+            310,
+            60
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato de sodio reacciona espontáneamente con ácidos, liberando gas CO2 como producto de reacción. Se usa comúnmente para neutralizar soluciones ácidas no deseadas o derrames de ácido en laboratorios químicos.20 No es apropiado usar bicarbonato de sodio para neutralizar bases,21 aunque sea anfótero, reacciona con ácidos y bases.22 ",
+        "bbox": [
+            70,
+            66,
+            931,
+            143
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Suplemento deportivo ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            171,
+            287,
+            188
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato de sodio se usa como suplemento deportivo para mejorar la resistencia muscular. Estudios sugieren que es efectivo para la resistencia de grupos musculares pequeños y grandes, pero no para aumentar la fuerza muscular. Sin embargo, no se observan efectos significativos dependiendo del momento de su ingesta o el nivel de bicarbonato en sangre antes del ejercicio.23 ",
+        "bbox": [
+            70,
+            195,
+            931,
+            270
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Agricultura ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            298,
+            183,
+            315
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Cuando se aplica bicarbonato de sodio en hojas, puede prevenir el crecimiento de hongos; sin embargo, no mata el hongo. Una cantidad excesiva de bicarbonato de sodio puede causar decoloración de las frutas (solución del dos por ciento) y clorosis (solución del uno por ciento). ",
+        "bbox": [
+            70,
+            323,
+            931,
+            377
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Usos médicos y salud ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            406,
+            285,
+            423
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Véase también: Bicarbonato sódico intravenoso ",
+        "bbox": [
+            104,
+            427,
+            477,
+            445
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato sódico mezclado con agua puede utilizarse como antiácido para tratar la indigestión ácida y la acidez estomacal.24 25  Su reacción con el ácido estomacal produce sal, agua y dióxido de carbono: ",
+        "bbox": [
+            70,
+            452,
+            931,
+            489
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "equation",
+        "img_path": "images/0d384105838b29c879c407674230bad08517996a18ea775256a9542d0c97b1f3.jpg",
+        "text": "$$\n\\mathrm { N a H C O 3 + H C l  N a C l + H 2 O + C O 2 ( g ) }\n$$",
+        "text_format": "latex",
+        "bbox": [
+            68,
+            504,
+            423,
+            523
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Una mezcla de bicarbonato sódico y polietilenglicol como PegLyte,26 disuelta en agua y tomada por vía oral, es una preparación eficaz para el lavado gastrointestinal y un laxante antes de la cirugía gastrointestinal, gastroscopia, etc. ",
+        "bbox": [
+            70,
+            538,
+            931,
+            595
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato sódico intravenoso en solución acuosa se utiliza a veces en casos de acidosis, o cuando no hay suficientes iones de sodio o bicarbonato en la sangre.27 En casos de acidosis respiratoria, el ión bicarbonato infundido impulsa el tampón ácido carbónico/bicarbonato del plasma hacia la izquierda, y eleva así el pH. Por este motivo, el bicarbonato sódico se utiliza en la reanimación cardiopulmonar bajo supervisión médica. La infusión de bicarbonato sólo está indicada cuando el pH sanguíneo es marcadamente bajo $( < 7 , 1 { - } 7 , 0 )$ .28 ",
+        "bbox": [
+            70,
+            610,
+            932,
+            726
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "El HCO3- se utiliza para el tratamiento de la hiperpotasemia, ya que devuelve $\\mathrm { K } +$ a las células durante los periodos de acidosis.29 Dado que el bicarbonato sódico puede causar alcalosis, a veces se utiliza para tratar las sobredosis de aspirina.30 La aspirina requiere un entorno ácido para su correcta absorción, y un entorno básico disminuirá la absorción de aspirina en casos de sobredosis.31 El bicarbonato sódico también se ha utilizado en el tratamiento de la sobredosis de antidepresivos tricíclicos. También se puede aplicar tópicamente en forma de pasta, con tres partes de bicarbonato sódico y una parte de agua, para aliviar algunos tipos de mordeduras y picaduras de insectos (así como la hinchazón que las acompaña).32 ",
+        "bbox": [
+            70,
+            741,
+            931,
+            878
+        ],
+        "page_idx": 4
+    },
+    {
+        "type": "text",
+        "text": "Algunos médicos alternativos, como Tullio Simoncini, han promocionado el bicarbonato de sodio como remedio contra el cáncer, algo contra lo que ha advertido la Sociedad Americana contra el Cáncer debido tanto a su eficacia no probada como al peligro potencial de su uso.33 Edzard Ernst ha calificado la promoción del bicarbonato de sodio como remedio contra el cáncer como \"una de las estafas alternativas contra el cáncer más enfermizas que he visto en mucho tiempo\".34 ",
+        "bbox": [
+            70,
+            42,
+            931,
+            138
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato sódico puede añadirse a los anestésicos locales para acelerar la aparición de sus efectos y hacer que su inyección sea menos dolorosa.35 También es un componente de la solución de Moffett, utilizada en cirugía nasal.36 ",
+        "bbox": [
+            72,
+            154,
+            931,
+            211
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Se ha propuesto que las dietas ácidas debilitan los huesos.37 Un metaanálisis sistemático de la investigación no muestra tal efecto.38 Otro también encuentra que no hay pruebas de que las dietas alcalinas mejoren la salud ósea, pero sugiere que \"puede haber algún valor\" en las dietas alcalinas por otras razones.39 ",
+        "bbox": [
+            72,
+            226,
+            931,
+            305
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Los manifestantes han preparado y utilizado soluciones antiácidas (como el bicarbonato de sodio) para aliviar los efectos de la exposición a gases lacrimógenos durante las protestas.40 ",
+        "bbox": [
+            72,
+            321,
+            931,
+            359
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "De forma similar a su uso en repostería, el bicarbonato sódico se utiliza junto con un ácido suave como el ácido tartárico como excipiente en comprimidos efervescentes: cuando se deja caer un comprimido de este tipo en un vaso de agua, el carbonato abandona el medio de reacción en forma de gas carbónico $\\mathrm { ( H C O 3 - + H +  \\ H 2 O + C O 2 \\uparrow \\ o }$ , más exactamente, $\\mathrm { H C O 3 - + H 3 O +  2 H 2 O + C O 2 \\uparrow } )$ . Esto hace que el comprimido se desintegre, quedando el medicamento suspendido $\\mathrm { y } / { \\sigma }$ disuelto en el agua junto con la sal resultante (en este ejemplo, tartrato sódico).41 ",
+        "bbox": [
+            70,
+            375,
+            931,
+            489
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Higiene personal ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            517,
+            236,
+            535
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato sódico también se utiliza como ingrediente en algunos enjuagues bucales. Tiene propiedades anticaries y abrasivas. Actúa como limpiador mecánico de los dientes y las encías, neutraliza la producción de ácido en la boca y también actúa como antiséptico para ayudar a prevenir infecciones. El bicarbonato sódico, en combinación con otros ingredientes, puede utilizarse para elaborar un desodorante seco o húmedo. El bicarbonato sódico puede utilizarse como agente tampón, combinado con sal de mesa, al crear una solución para la irrigación nasal. ",
+        "bbox": [
+            70,
+            541,
+            931,
+            653
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Se utiliza en la higiene ocular para tratar la blefaritis. Para ello, se añade una cucharadita de bicarbonato sódico al agua fría recién hervida y, a continuación, se frota suavemente la base de las pestañas con un bastoncillo de algodón humedecido en la solución. ",
+        "bbox": [
+            70,
+            668,
+            931,
+            724
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Usos veterinarios ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            752,
+            243,
+            769
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato sódico se utiliza como suplemento alimenticio para el ganado, en particular como agente amortiguador del rumen.42 ",
+        "bbox": [
+            72,
+            776,
+            931,
+            813
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "Agente de limpieza ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            842,
+            257,
+            859
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato sódico se utiliza en un proceso de eliminación de pintura y corrosión denominado sodablasting. Como medio de chorreado, el bicarbonato sódico se utiliza para eliminar la contaminación superficial de sustratos más blandos y menos resistentes, como el aluminio, el cobre o la madera, que podrían resultar dañados por los medios abrasivos de arena de sílice.43 ",
+        "bbox": [
+            70,
+            865,
+            931,
+            920
+        ],
+        "page_idx": 5
+    },
+    {
+        "type": "text",
+        "text": "",
+        "bbox": [
+            70,
+            41,
+            643,
+            61
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Un fabricante recomienda una pasta hecha de bicarbonato de sodio con un mínimo de agua como estropajo suave, y es útil para eliminar el óxido superficial,18 ya que el óxido forma un compuesto soluble en agua cuando se encuentra en una solución alcalina concentrada;44 debe utilizarse agua fría, ya que las soluciones de agua caliente pueden corroer el acero.45 El bicarbonato sódico ataca la fina capa protectora de óxido que se forma sobre el aluminio, por lo que no es adecuado para limpiar este metal.46 Una solución en agua templada eliminará el deslustre de la plata cuando esta esté en contacto con un trozo de papel de aluminio.46 47 El bicarbonato sódico se suele añadir a las lavadoras como sustituto del descalcificador y para eliminar los olores de la ropa. También es casi tan eficaz para eliminar las manchas de té y café de las tazas como el hidróxido de sodio, cuando se diluye en agua caliente. ",
+        "bbox": [
+            70,
+            78,
+            932,
+            252
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Durante el Proyecto Manhattan para desarrollar la bomba nuclear a principios de la década de 1940, la toxicidad química del uranio fue un problema. Se descubrió que los óxidos de uranio se adherían muy bien a la tela de algodón y no se eliminaban con jabón o detergente. Sin embargo, el uranio se eliminaba con una solución al $2 \\%$ de bicarbonato sódico. La ropa puede contaminarse con polvo tóxico de uranio empobrecido (DU), que es muy denso, de ahí que se utilice para contrapesos en un contexto civil, y en proyectiles perforantes de blindaje. El uranio empobrecido no se elimina con el lavado normal; el lavado con $1 7 0 { \\bf g }$ de bicarbonato de sodio en 7,5 l de agua ayuda a eliminarlo.48 ",
+        "bbox": [
+            70,
+            268,
+            931,
+            401
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Control de olores ",
+        "text_level": 1,
+        "bbox": [
+            70,
+            429,
+            242,
+            446
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "A menudo se afirma que el bicarbonato de sodio es un eficaz eliminador de olores,49 y a menudo se recomienda mantener una caja abierta en el frigorífico para absorber el olor.50 Esta idea fue promovida por la principal marca estadounidense de bicarbonato de sodio, Arm & Hammer, en una campaña publicitaria que comenzó en 1972.51 Aunque esta campaña se considera un clásico del marketing, ya que en el plazo de un año más de la mitad de los frigoríficos estadounidenses contenían una caja de bicarbonato de sodio,52 53  hay pocas pruebas de que sea realmente eficaz en esta aplicación.54 55 ",
+        "bbox": [
+            70,
+            453,
+            932,
+            571
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Producción de gas hidrógeno ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            597,
+            357,
+            616
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "El bicarbonato sódico puede utilizarse como catalizador en la producción de gas. Su rendimiento para esta aplicación es \"bueno\", sin embargo no suele utilizarse. El gas hidrógeno se produce mediante electrólisis del agua, proceso en el que se aplica corriente eléctrica a través de un volumen de agua, lo que provoca que los átomos de hidrógeno se separen de los átomos de oxígeno. Esta demostración suele hacerse en las clases de química de los institutos para mostrar la electrólisis. ",
+        "bbox": [
+            70,
+            622,
+            931,
+            716
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Véase también ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            750,
+            262,
+            773
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "Bicarbonato   \nLevadura   \nLista de minerales   \nCarbonato de sodio   \nÁcido carbónico ",
+        "bbox": [
+            80,
+            794,
+            284,
+            891
+        ],
+        "page_idx": 6
+    },
+    {
+        "type": "text",
+        "text": "1. Número CAS (http://webbook.nist.gov/cgi/cbook.cgi?ID $^ { 1 = }$ 144-55-8) ",
+        "bbox": [
+            72,
+            106,
+            695,
+            124
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "2. Goldberg, Robert N.; Kishore, Nand; Lennen, Rebecca (2017). CRC Press, ed. CRC Handbook (https://archive.org/details/crchandbookofche0000unse_r5p4). ISBN 9781498784542. ",
+        "bbox": [
+            75,
+            127,
+            932,
+            176
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "3. «Bicarbonato de sodio, en Cosmos Online» (http://www.cosmos.com.mx/f/tec/dwbj.htm). Consultado el 23 de octubre de 2012. ",
+        "bbox": [
+            77,
+            178,
+            927,
+            211
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "4. Nomenclature of Inorganic Chemistry IUPAC Recommendations 2005 (https://web.archive.o rg/web/20170518230415/http://old.iupac.org/publications/books/rbook/Red_Book_2005.pdf), IUPAC, p. 137, archivado desde el original (http://old.iupac.org/publications/books/rbook/Re d_Book_2005.pdf) el 18 de mayo de 2017. ",
+        "bbox": [
+            77,
+            213,
+            932,
+            279
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "5. Hoja de seguridad elaborada por Química Básica, S.A. (http://www.quiminet.com/archivos_e mpresa/d3f95c9d6363f9b3f3b262393c9fc62e.pdf) ",
+        "bbox": [
+            72,
+            281,
+            931,
+            314
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "6. «Mineral Springs – an overview | ScienceDirect Topics» (https://www.sciencedirect.com/topic s/engineering/mineral-springs). ",
+        "bbox": [
+            72,
+            317,
+            931,
+            352
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "7. «What's the difference between bicarbonate of soda, baking soda and baking powder?» (htt ps://www.thatslife.com.au/bicarbonate-of-soda-baking-soda-baking-powder-difference). ThatsLife! Pacific Network. ",
+        "bbox": [
+            77,
+            353,
+            932,
+            402
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "8. PubChem. «Sodium bicarbonate» (https://pubchem.ncbi.nlm.nih.gov/compound/516892). pubchem.ncbi.nlm.nih.gov (en inglés). Consultado el 25 de enero de 2021. ",
+        "bbox": [
+            72,
+            404,
+            927,
+            438
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "9. «Definition of SALERATUS» (https://www.merriam-webster.com/dictionary/saleratus). www.merriam-webster.com (en inglés). Consultado el 6 de diciembre de 2020. ",
+        "bbox": [
+            73,
+            440,
+            927,
+            472
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "10. «Approved additives and E numbers» (https://www.food.gov.uk/business-guidance/approved -additives-and-e-numbers). Food Standards Agency (en inglés). Consultado el 7 de diciembre de 2020. ",
+        "bbox": [
+            67,
+            476,
+            932,
+            524
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "11. Wollaston, WH (January 1814). «I. A Synoptic scale of chemical equivalents» (https://royalso cietypublishing.org/doi/10.1098/rstl.1814.0001). Philosophical Transactions of the Royal Society of London 104: 1-22. S2CID 96774986 (https://api.semanticscholar.org/CorpusID:96774986). doi:10.1098/rstl.1814.0001 (https://dx.doi.org/10.1098%2Frstl.1814.0001). ",
+        "bbox": [
+            65,
+            527,
+            931,
+            592
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "12. Valentin Rose el Joven (Berlín, 30 de octubre de 1762 - Berlín, 9 de agosto de 1807) fue un farmacólogo alemán del margraviato de Brandeburgo. Hijo de Valentin Rose el Viejo (1736- 1771). ",
+        "bbox": [
+            62,
+            595,
+            931,
+            643
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Se le atribuyen los descubrimientos del bicarbonato sódico (1801) y la inulina (1807, a partir de la raíz de la elecampana). ",
+        "bbox": [
+            80,
+            643,
+            929,
+            676
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "También desarrolló un método para la detección del arsénico para su uso en investigaciones criminales. ",
+        "bbox": [
+            90,
+            676,
+            927,
+            707
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Tuvo dos hijos, ambos mineralogistas famosos: Heinrich Rose (Berlín, 1795-1864) y Gustav Rose (Berlín, 1798-1873). ",
+        "bbox": [
+            87,
+            707,
+            931,
+            739
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "El clasicista\\* y crítico literario Valentin Rose (Berlín, 1829-1916) y el cirujano Edmund Rose (Berlín, 1836-1914) fueron hijos de Gustav Rose. ",
+        "bbox": [
+            99,
+            741,
+            931,
+            771
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "\\* Se llama clasicista a quien estudia los textos en griego antiguo y latín de los escritores de la Antigüedad grecorromana. ",
+        "bbox": [
+            89,
+            773,
+            927,
+            804
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "13. «Sugar snake» (https://web.archive.org/web/20191006112734/https://melscience.com/US-e n/experiments/sugar-snake/). MEL Science. MEL Science 2015–2019. Archivado desde el original (https://melscience.com/US-en/experiments/sugar-snake/) el 6 de octubre de 2019. Consultado el 28 de octubre de 2019. ",
+        "bbox": [
+            65,
+            807,
+            932,
+            871
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "14. Malik YS, Goyal SM (May 2006). «Virucidal efficacy of sodium bicarbonate on a food contact surface against feline calicivirus, a norovirus surrogate». International Journal of Food ",
+        "bbox": [
+            65,
+            875,
+            931,
+            908
+        ],
+        "page_idx": 7
+    },
+    {
+        "type": "text",
+        "text": "Microbiology 109 (1–2): 160-3. PMID 16540196 (https://www.ncbi.nlm.nih.gov/pubmed/16540196).   \ndoi:10.1016/j.ijfoodmicro.2005.08.033 (https://dx.doi.org/10.1016%2Fj.ijfoodmicro.2005.08.033). ",
+        "bbox": [
+            95,
+            41,
+            926,
+            74
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "15. Rutala WA, Barbee SL, Aguiar NC, Sobsey MD, Weber DJ (January 2000). «Antimicrobial activity of home disinfectants and natural products against potential human pathogens». Infection Control and Hospital Epidemiology 21 (1): 33-8. PMID 10656352 (https://www.ncbi.nlm.ni h.gov/pubmed/10656352). S2CID 34461187 (https://api.semanticscholar.org/CorpusID:34461187). doi:10.1086/501694 (https://dx.doi.org/10.1086%2F501694). ",
+        "bbox": [
+            65,
+            77,
+            932,
+            157
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "16. Zamani M, Sharifi Tehrani A, Ali Abadi AA (2007). «Evaluation of antifungal activity of carbonate and bicarbonate salts alone or in combination with biocontrol agents in control of citrus green mold». Communications in Agricultural and Applied Biological Sciences 72 (4): 773-7. PMID 18396809 (https://www.ncbi.nlm.nih.gov/pubmed/18396809). ",
+        "bbox": [
+            65,
+            160,
+            932,
+            225
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "17. Altman, Gail (22 de mayo de 2006). «Book Repair for BookThinkers: How To Remove Odors From Books» (http://www.bookthink.com/0069/69alt.htm). The BookThinker (69). ",
+        "bbox": [
+            65,
+            228,
+            931,
+            261
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "18. «Arm & Hammer Baking Soda – Basics – The Magic of Arm & Hammer Baking Soda» (http s://web.archive.org/web/20090831133032/http://www.armhammer.com/basics/magic). armandhammer.com. Archivado desde el original (http://www.armhammer.com/basics/magi c) el 31 de agosto de 2009. Consultado el 30 de julio de 2009. ",
+        "bbox": [
+            65,
+            263,
+            931,
+            328
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "19. Voelkert, J. Craig (2015). «Fire and Fire Extinguishment - A Brief Guide to Fire Chemistry and Extinguishment Theory for fire Equipment Service Technicians» (https://web.archive.org/ web/20240531221055/https://www.amerex-fire.com/upl/downloads/educational-documents/fi re-and-fire-extinguishment-99cd88b2.pdf). pp. 14-15. Archivado desde el original (https://ww w.amerex-fire.com/upl/downloads/educational-documents/fire-and-fire-extinguishment-99cd8 8b2.pdf) el 31 de mayo de 2024. Consultado el 22 de septiembre de 2023. ",
+        "bbox": [
+            65,
+            332,
+            931,
+            428
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "20. «Prepare for Emergencies from Uncontrolled Hazards» (https://www.acs.org/content/acs/en/ chemical-safety/basics/prepare-for-emergencies.html). American Chemical Society. ",
+        "bbox": [
+            65,
+            431,
+            927,
+            464
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "21. Hurum, Deanna. «Laboratory Safety» (http://faculty.washington.edu/korshin/Class-486/AEE SP-safety-notes.pdf). Civil Engineering. Northwestern University. ",
+        "bbox": [
+            63,
+            466,
+            926,
+            501
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "22. Davidson, David (November 1955). «Amphoteric molecules, ions and salts» (https://pubs.ac s.org/doi/abs/10.1021/ed032p550). Journal of Chemical Education (en inglés) 32 (11): 550. ISSN 0021-9584 (https://portal.issn.org/resource/issn/0021-9584). doi:10.1021/ed032p550 (https://dx.doi.org/1 0.1021%2Fed032p550). ",
+        "bbox": [
+            63,
+            503,
+            932,
+            568
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "23. Grgic J, Rodriguez RF, Garofolini A, Saunders B, Bishop DJ, Schoenfeld BJ, Pedisic Z (July   \n2020). «Effects of Sodium Bicarbonate Supplementation on Muscular Strength and   \nEndurance: A Systematic Review and Meta-analysis» (https://pubmed.ncbi.nlm.nih.gov/3209   \n6113/). Sports Medicine 50 (7): 1361-1375. PMID 32096113 (https://www.ncbi.nlm.nih.gov/pubmed/32   \n096113). S2CID 211254185 (https://api.semanticscholar.org/CorpusID:211254185). doi:10.1007/s40279-020-   \n01275-y (https://dx.doi.org/10.1007%2Fs40279-020-01275-y). ",
+        "bbox": [
+            65,
+            570,
+            932,
+            668
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "24. «Sodium Bicarbonate» (https://web.archive.org/web/20161005124933/http://gicare.com/med ication/sodium-bicarbonate/). Jackson Siegelbaum Gastroenterology. 1998. Archivado desde el original (http://gicare.com/medication/sodium-bicarbonate/) el 5 de octubre de 2016. Consultado el 4 de octubre de 2016. ",
+        "bbox": [
+            65,
+            669,
+            932,
+            735
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "25. «Sodium Bicarbonate (Oral Route, Intravenous Route, Subcutaneous Route) Side Effects - Mayo Clinic» (https://www.mayoclinic.org/drugs-supplements/sodium-bicarbonate-oral-routeintravenous-route-subcutaneous-route/side-effects/drg-20065950?p=1). www.mayoclinic.org. Consultado el 5 de mayo de 2023. ",
+        "bbox": [
+            65,
+            738,
+            932,
+            802
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "26. «PegLyte» (http://pendopharm.com/product/peglyte/). Pendo Phama. ",
+        "bbox": [
+            63,
+            805,
+            719,
+            823
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "27. «Sodium Bicarbonate Intravenous Infusion» (https://web.archive.org/web/20080822111454/ http://www.betterhealth.vic.gov.au/bhcv2/bhcmed.nsf/pages/pucsodbi/\\$File/pucsodbi.pdf). Consumer Medicine Information. Better Health Channel. 13 de julio de 2004. Archivado desde el original (http://www.betterhealth.vic.gov.au/bhcv2/bhcmed.nsf/pages/pucsodbi/\\$Fil e/pucsodbi.pdf) el 22 de agosto de 2008. ",
+        "bbox": [
+            63,
+            825,
+            932,
+            906
+        ],
+        "page_idx": 8
+    },
+    {
+        "type": "text",
+        "text": "28. «Respiratory Acidosis: Treatment & Medication» (http://emedicine.medscape.com/article/301 574-treatment). emedicine. 26 de marzo de 2020. ",
+        "bbox": [
+            62,
+            42,
+            932,
+            76
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "29. Dart, Richard C. (2004). Medical Toxicology (https://books.google.com/books?id=BfdighlyGi wC&pg=PA910). Lippincott Williams & Wilkins. pp. 910-. ISBN 978-0-7817-2845-4. ",
+        "bbox": [
+            65,
+            78,
+            926,
+            111
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "30. Cloth Diapers (https://books.google.com/books?id=Nz4J9oSJT4IC&pg=PA46). Donald C. Cooper PhD. pp. 46-. ",
+        "bbox": [
+            67,
+            114,
+            924,
+            147
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "31. Knudsen K, Abrahamsson J (April 1997). «Epinephrine and sodium bicarbonate independently and additively increase survival in experimental amitriptyline poisoning». Critical Care Medicine 25 (4): 669-74. PMID 9142034 (https://www.ncbi.nlm.nih.gov/pubmed/9142034). doi:10.1097/00003246-199704000-00019 (https://dx.doi.org/10.1097%2F00003246-199704000-00019). ",
+        "bbox": [
+            63,
+            149,
+            932,
+            214
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "32. «Insect bites and stings: First aid» (http://www.mayoclinic.com/health/first-aid-insect-bites/fa 00046). Mayo Clinic. 15 de enero de 2008. ",
+        "bbox": [
+            62,
+            217,
+            932,
+            250
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "33. «Sodium Bicarbonate» (https://web.archive.org/web/20130219044718/http://www.cancer.or g/treatment/treatmentsandsideeffects/complementaryandalternativemedicine/herbsvitaminsa ndminerals/sodium-bicarbonate). American Cancer Society. 28 de noviembre de 2008. Archivado desde el original (http://www.cancer.org/treatment/treatmentsandsideeffects/comp lementaryandalternativemedicine/herbsvitaminsandminerals/sodium-bicarbonate) el 19 de febrero de 2013. Consultado el 19 de febrero de 2013. ",
+        "bbox": [
+            65,
+            252,
+            932,
+            350
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "34. Ernst, Edzard (3 de febrero de 2017). «This must be the most sickening cancer scam I have seen for a while» (https://edzardernst.com/2017/02/this-must-be-the-most-sickening-cancerscam-i-have-seen-for-a-while/). ",
+        "bbox": [
+            65,
+            353,
+            931,
+            402
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "35. Edgcombe, H; Hocking, G (6 de octubre de 2006). «Local Anaesthetic Pharmacology» (http s://web.archive.org/web/20151222085359/http://www.frca.co.uk/article.aspx?articleid=10050 5). Anaesthesia UK. Archivado desde el original (http://www.frca.co.uk/article.aspx?articleid= 100505) el 22 de diciembre de 2015. ",
+        "bbox": [
+            65,
+            404,
+            932,
+            470
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "36. Benjamin, E.; Wong, D.K.K.; Choa, D. (2004). « 'Moffett's' solution: a review of the evidence and scientific basis for the topical preparation of the nose». Clinical Otolaryngology and Allied Sciences 29 (6): 582-587. PMID 15533141 (https://www.ncbi.nlm.nih.gov/pubmed/15533141). doi:10.1111/j.1365-2273.2004.00894.x (https://dx.doi.org/10.1111%2Fj.1365-2273.2004.00894.x). ",
+        "bbox": [
+            65,
+            472,
+            932,
+            536
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "37. Fox, Douglas (15 de diciembre de 2001). «Hard cheese» (https://www.newscientist.com/artic le/mg17223214-900-hard-cheese/). New Scientist. Consultado el 20 de julio de 2017. ",
+        "bbox": [
+            65,
+            540,
+            931,
+            573
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "38. Fenton, T. R.; Tough, S. C.; Lyon, A. W.; Eliasziw, M.; Hanley, D. A. (2011). «Causal assessment of dietary acid load and bone disease: A systematic review & meta-analysis applying Hill's epidemiologic criteria for causality» (https://www.ncbi.nlm.nih.gov/pmc/article s/PMC3114717). Nutrition Journal 10: 41. PMC 3114717 (https://www.ncbi.nlm.nih.gov/pmc/articles/P MC3114717). PMID 21529374 (https://www.ncbi.nlm.nih.gov/pubmed/21529374). doi:10.1186/1475-2891-10- 41 (https://dx.doi.org/10.1186%2F1475-2891-10-41). ",
+        "bbox": [
+            65,
+            576,
+            932,
+            673
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "39. Schwalfenberg, Gerry K. (2012). «The Alkaline Diet: Is There Evidence That an Alkaline pH Diet Benefits Health?» (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195546). Journal of Environmental and Public Health 2012: 1-7. PMC 3195546 (https://www.ncbi.nlm.nih.gov/pmc/articles/ PMC3195546). PMID 22013455 (https://www.ncbi.nlm.nih.gov/pubmed/22013455). doi:10.1155/2012/727630 (https://dx.doi.org/10.1155%2F2012%2F727630). ",
+        "bbox": [
+            63,
+            675,
+            932,
+            756
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "40. «Medical information from Prague 2000» (https://web.archive.org/web/20141018221605/htt p://www.starhawk.org/activism/trainer-resources/teargas.html). Archivado desde el original (http://www.starhawk.org/activism/trainer-resources/teargas.html) el 18 de octubre de 2014. ",
+        "bbox": [
+            65,
+            760,
+            932,
+            808
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "41. Shirsand, S. B.; Suresh, Sarasija; Jodhana, L. S.; Swamy, P. V. (2010). «Formulation Design and Optimization of Fast Disintegrating Lorazepam Tablets by Effervescent Method» (https:// www.ncbi.nlm.nih.gov/pmc/articles/PMC3013557). Indian Journal of Pharmaceutical Sciences 72 (4): 431-436. ISSN 0250-474X (https://portal.issn.org/resource/issn/0250-474X). PMC 3013557 (https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3013557). PMID 21218052 (https://www.ncbi.nl m.nih.gov/pubmed/21218052). doi:10.4103/0250-474X.73911 (https://dx.doi.org/10.4103%2F0250-474X.7391 1). ",
+        "bbox": [
+            67,
+            811,
+            932,
+            926
+        ],
+        "page_idx": 9
+    },
+    {
+        "type": "text",
+        "text": "42. Paton, Laura J.; Beauchemin, Karen A.; Veira, Douglas M.; von Keyserlingk, Marina A. G. (2006). «Use of sodium bicarbonate, offered free choice or blended into the ration, to reduce the risk of ruminal acidosis in cattle» (https://archive.org/details/sim_canadian-journal-of-ani mal-science_2006-09_86_3/page/n116). Canadian Journal of Animal Science 86 (3): 429- 437. doi:10.4141/A06-014 (https://dx.doi.org/10.4141%2FA06-014). ",
+        "bbox": [
+            65,
+            42,
+            932,
+            123
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "43. «Blast Away Grime With Baking Soda» (https://www.popularmechanics.com/home/tools/revi ews/a9280/blast-away-grime-with-baking-soda-15773126/). Popular Mechanics. 5 de agosto de 2013. Consultado el 2 de agosto de 2020. ",
+        "bbox": [
+            65,
+            127,
+            932,
+            175
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "44. Housecroft, Catherine E.; Sharpe, Alan G. (2008). «Chapter 22: d-block metal chemistry: the first row elements». Inorganic Chemistry, 3rd Edition. Pearson. p. 716. ISBN 978-0-13-175553-6. ",
+        "bbox": [
+            63,
+            178,
+            932,
+            212
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "45. «Science Lab.com» (https://web.archive.org/web/20120905154417/http://www.sciencelab.co m/msds.php?msdsId=9927263). MSDS- Sodium carbonate. sciencelab.com. Archivado desde el original (http://www.sciencelab.com/msds.php?msdsId=9927263) el 5 de septiembre de 2012. ",
+        "bbox": [
+            63,
+            213,
+            932,
+            279
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "46. «Finishing Techniques in Metalwork» (http://www.philamuseum.org/booklets/7_44_85_1.htm l?page=2). Philadelphia Museum of Art. ",
+        "bbox": [
+            62,
+            281,
+            931,
+            314
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "47. «Put a Shine on It» (https://archive.today/20120731071117/http://scifun.chem.wisc.edu/hom eexpts/TARNISH.html). scifun.chem.wisc.edu. Archivado desde el original (http://scifun.che m.wisc.edu/homeexpts/TARNISH.html) el 31 de julio de 2012. Consultado el 6 de marzo de 2011. ",
+        "bbox": [
+            65,
+            317,
+            932,
+            382
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "48. «Depleted Uranium and Health: Facts and Helpful Suggestions» (https://web.archive.org/we b/20130117213341/http://myweb.brooklyn.liu.edu/lawrence/duproject/duhealth.htm). Pharmacology and Toxicology of Uranium Compounds. McGraw-Hill. Archivado desde el original (http://myweb.brooklyn.liu.edu/lawrence/duproject/duhealth.htm) el 17 de enero de 2013. Consultado el 21 de marzo de 2012. Parámetro desconocido |vauthors $=$ ignorado (ayuda) ",
+        "bbox": [
+            62,
+            385,
+            934,
+            486
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "49. Raymond, Jessica (10 de junio de 2016). «Kitchen Odor Eliminating Candles, Products, and Tricks» (https://web.archive.org/web/20200807080836/http://cravedujour.com/kitchen-odor-e liminating-candles-products-tricks/#xxTICWbUEW5oLJeh.99). cravedujour.com. Archivado desde el original (http://cravedujour.com/kitchen-odor-eliminating-candles-products-tricks/#x xTICWbUEW5oLJeh.99) el 7 de agosto de 2020. Consultado el 29 de junio de 2016. ",
+        "bbox": [
+            63,
+            488,
+            932,
+            568
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "50. Vicki Lansky, Martha Campbell, Baking Soda: Over 500 Fabulous, Fun, and Frugal Uses You've Probably Never Thought Of, 2009, ISBN 1931863733, p. 28 ",
+        "bbox": [
+            63,
+            572,
+            931,
+            605
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "51. \"A trusted solution for more than 170 years. Pure and simple.\", Arm & Hammer \"About Us\" (h ttps://www.armandhammer.com/en-ca/about-us) page ",
+        "bbox": [
+            63,
+            609,
+            929,
+            641
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "52. Keith Sawyer, Group Genius: The Creative Power of Collaboration, 2017, ISBN 0465093582, \"keep food tasting fresh\" (https://books.google.com/books?id=v42PDQA AQBAJ&dq=%22baking+soda%22+marketing+1972+hammer&pg=PT114) ",
+        "bbox": [
+            63,
+            643,
+            934,
+            692
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "53. Clayton M. Christensen, Scott Cook, Taddy Hall, Marketing Malpractice: The Cause and the Cure, Harvard Business Review, December 2005, [1] (https://hbr.org/2005/12/marketing-mal practice-the-cause-and-the-cure) ",
+        "bbox": [
+            63,
+            695,
+            932,
+            745
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "54. \"Myth #100: An Open Box of Baking Soda in the Fridge absorbs Odors\", Bruce Weinstein, Mark Scarbrough, Lobsters Scream When You Boil Them; And 100 Other Myths About Food and Cooking, 2011, ISBN 1439195382, p. 312 ",
+        "bbox": [
+            63,
+            748,
+            932,
+            795
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "55. «Baking Soda as Odor Absorber | Cook's Illustrated» (http://www.cooksillustrated.com/how_t os/5510-baking-soda-as-odor-absorber). Cooksillustrated.com. Consultado el 28 de febrero de 2022. ",
+        "bbox": [
+            65,
+            799,
+            932,
+            847
+        ],
+        "page_idx": 10
+    },
+    {
+        "type": "text",
+        "text": "Haynes, William M., ed. (2011). CRC Handbook of Chemistry and Physics (https://archive.or g/details/crchandbookofche0000unse_e9l0) (92nd edición). CRC Press. ISBN 978-1439855119. ",
+        "bbox": [
+            82,
+            106,
+            931,
+            141
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Enlaces externos ",
+        "text_level": 1,
+        "bbox": [
+            72,
+            163,
+            290,
+            185
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Wikcionario tiene definiciones y otra información sobre bicarbonato de sodio. ",
+        "bbox": [
+            82,
+            206,
+            835,
+            225
+        ],
+        "page_idx": 11
+    },
+    {
+        "type": "text",
+        "text": "Obtenido de «https://es.wikipedia.org/w/index.php?title $=$ Bicarbonato_de_sodio&oldid=169041134» ",
+        "bbox": [
+            70,
+            245,
+            805,
+            261
+        ],
+        "page_idx": 11
+    }
+]
