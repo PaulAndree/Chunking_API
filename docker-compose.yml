@@ -12,8 +12,12 @@ services:
       # el puerto publicado es para curl desde el host. Estaba en 0.0.0.0 y
       # ademas expuesto por nginx, asi que cualquiera podia mandarle trabajo.
       - "127.0.0.1:8085:8084"
+    environment:
+      - MODEL_NAME=BAAI/bge-m3
+      - HF_HOME=/data/hf
     volumes:
       - /srv/iarag/services/chunking/tmp_shared/output_ocr:/tmp/output_ocr
+      - /srv/iarag/services/vectorizer/cache:/data/hf
 
     deploy:
       resources:
@@ -24,5 +28,4 @@ services:
     
 networks:
   n8n-net:
-    external: true 
-    
+    external: true

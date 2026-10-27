@@ -15,7 +15,8 @@ RUN pip install --upgrade pip \
 COPY main_chunking.py utils.py main_API.py ./
 
 # Set environment variables
-ENV MODEL_NAME="intfloat/e5-large-v2"
+ENV MODEL_NAME="BAAI/bge-m3"
+ENV HF_HOME="/data/hf"
 
 
 EXPOSE 8084

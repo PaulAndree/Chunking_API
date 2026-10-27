@@ -1,17 +1,59 @@
 import copy, json, os
 from pathlib import Path
 from semantic_router.encoders import HuggingFaceEncoder
+from semantic_router.splitters import rolling_window as rolling_window_module
 import torch
-from semantic_router.splitters import RollingWindowSplitter
-from utils import split_md_by_titles, split_section_by_tokens, token_length
+from utils import (
+    MODEL_NAME,
+    detect_language,
+    split_md_by_titles,
+    split_section_by_tokens,
+    token_length,
+)
 
 
-DEFAULT_MODEL = os.getenv("MODEL_NAME", "intfloat/e5-large-v2")
+class BGEEncoder(HuggingFaceEncoder):
+    """Hugging Face encoder using BGE-M3's required CLS-token pooling."""
+
+    def __call__(
+        self,
+        docs,
+        batch_size=32,
+        normalize_embeddings=True,
+    ):
+        all_embeddings = []
+        for start in range(0, len(docs), batch_size):
+            encoded_input = self._tokenizer(
+                docs[start : start + batch_size],
+                padding=True,
+                truncation=True,
+                return_tensors="pt",
+            ).to(self.device)
+
+            with self._torch.no_grad():
+                model_output = self._model(**encoded_input)
+
+            embeddings = model_output[0][:, 0]
+            if normalize_embeddings:
+                embeddings = self._torch.nn.functional.normalize(
+                    embeddings,
+                    p=2,
+                    dim=1,
+                )
+            all_embeddings.extend(embeddings.cpu().tolist())
+        return all_embeddings
+
+
+# semantic-router 0.0.37 hardcodes cl100k_base inside RollingWindowSplitter.
+# Point its module-level counter at the BGE-M3 tokenizer so threshold selection,
+# hard limits, tail rebalancing, and reported counts all use one token definition.
+rolling_window_module.tiktoken_length = token_length
+RollingWindowSplitter = rolling_window_module.RollingWindowSplitter
 
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
-encoder = HuggingFaceEncoder(
-    name=DEFAULT_MODEL,
+encoder = BGEEncoder(
+    name=MODEL_NAME,
     device=device 
 )
 
@@ -92,6 +134,7 @@ class ChunkData:
         window_size=5,
     ):
         self.reset()
+        self.chunk_lan = detect_language(md_content_parsed)
         splitter_pdf = RollingWindowSplitter(
             encoder=encoder,
             dynamic_threshold=True,
@@ -128,6 +171,7 @@ class ChunkData:
 
     def get_title_chunks(self, md_content_parsed, *, max_split_tokens=1000):
         self.reset()
+        self.chunk_lan = detect_language(md_content_parsed)
         current_titles, sections = split_md_by_titles(
             md_content_parsed,
             include_title=False,

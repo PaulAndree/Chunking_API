@@ -1,17 +1,27 @@
 import copy, json, os, re
+from functools import lru_cache
 from pathlib import Path
 from langdetect import detect, DetectorFactory
+from langdetect.lang_detect_exception import LangDetectException
 from PyPDF2 import PdfReader
-import tiktoken
+from transformers import AutoTokenizer
 
 OUTPUT_PATH = "/tmp/output_ocr"
 
 #OUTPUT_PATH = "/home/peyzaguirre/notebooks/iarag/services/chunking/output/"
 def detect_language(file):
-    reader = PdfReader(file)
-    text = ""
-    for page in reader.pages[:1]:
-        text += page.extract_text() or ""
+    try:
+        is_file = os.path.isfile(file)
+    except (OSError, TypeError):
+        is_file = False
+
+    if isinstance(file, str) and not is_file:
+        text = file
+    else:
+        reader = PdfReader(file)
+        text = ""
+        for page in reader.pages[:1]:
+            text += page.extract_text() or ""
 
     sample = " ".join(text.split()[:50])
     try:
@@ -20,15 +30,27 @@ def detect_language(file):
         lang = ""
 
     if lang.startswith("es"):
-        return "latin"
+        return "es"
     else:
         return "en"
    
-TOKENIZER = tiktoken.get_encoding("cl100k_base")
+MODEL_NAME = os.getenv("MODEL_NAME", "BAAI/bge-m3")
+
+
+@lru_cache(maxsize=1)
+def get_tokenizer():
+    """Load the tokenizer used by the semantic encoder and downstream index."""
+    return AutoTokenizer.from_pretrained(MODEL_NAME)
 
 
 def token_length(text: str):
-    return len(TOKENIZER.encode(text, disallowed_special=()))
+    return len(
+        get_tokenizer().encode(
+            text,
+            add_special_tokens=False,
+            truncation=False,
+        )
+    )
 
 
 def split_md_by_titles(
